@@ -4,13 +4,17 @@ description: "Журналы действий содержат сведения 
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: eafa7a85ecea207bbdbd01809bdc4c47d0b8fd97
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: ea46cfc0ba8c4acd580334ac76abcb704bc7e6c7
 
 ---
 
 # Просмотр журналов действий клиента
 
+**Относится к:**
+
+-  Центр партнеров
+-  Центр партнеров Microsoft Cloud в Германии
 
 Журналы действий содержат сведения о транзакциях и действиях по управлению партнеров для клиентов. Журналы транзакций предоставляют подробные сведения о транзакции, в том числе о приобретенных подписках. Вы также можете экспортировать журналы действий в файл Excel с разделителями-запятыми (CSV).
 
@@ -42,6 +46,6 @@ ms.openlocfilehash: eafa7a85ecea207bbdbd01809bdc4c47d0b8fd97
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

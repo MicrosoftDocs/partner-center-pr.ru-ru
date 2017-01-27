@@ -4,13 +4,17 @@ description: "Вы владеете отношениями с клиентами
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a442cb3b47303fd5a03999b9a22f4ab33aa8a15b
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 3806b7b4934c0af85573936dc6d978bf09bdbf18
 
 ---
 
 # Предоставление поддержки выставления счетов
 
+**Относится к:**
+
+-  Центр партнеров
+-  Центр партнеров Microsoft Cloud в Германии
 
 Вы владеете отношениями с клиентами, касающимися выставления счетов, и обеспечиваете клиентам полную поддержку по всем вопросам, связанным с выставлением счетов.
 
@@ -49,6 +53,6 @@ ms.openlocfilehash: a442cb3b47303fd5a03999b9a22f4ab33aa8a15b
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 
