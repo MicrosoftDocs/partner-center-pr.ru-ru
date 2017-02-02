@@ -1,13 +1,12 @@
-
 # [Регистрация в программе CSP](enrolling-in-the-csp-program.md)
-## [Переход от Pinpoint к Центру партнеров](importing-pinpoint-profiles-into-partner-center.md)
 ## [Соглашения, прайс-листы и предложения CSP](csp-documents-and-learning-resources.md)
 # [Управление учетной записью Центра партнеров](partner-center-account-setup.md)
 ## [Обновление профиля партнера](update-your-partner-profile.md)
+## [Переход от Pinpoint к Центру партнеров](importing-pinpoint-profiles-into-partner-center.md)
+## [Создание маркетингового профиля](create-a-marketing-profile.md)
 ## [Создание учетных записей пользователей и определение разрешений](create-user-accounts-and-set-permissions.md)
 ## [Восстановление приостановленной учетной записи Центра партнеров](suspended-partner-center-account.md)
 ## [Сброс пароля пользователя](reset-a-user-password.md)
-## [Создание маркетингового профиля](create-a-marketing-profile.md)
 ## [Просмотр предложений и цен](see-offers-and-pricing.md)
 ## [Настройка каталога](customize-the-catalog.md)
 # [Выставление счетов](billing.md)
@@ -50,8 +49,12 @@
 ## [Самообслуживание для клиентов](customer-self-support.md)
 ## [Сообщение о проблемах в Майкрософт](escalate-problems-to-microsoft.md)
 # [Шаблоны соглашения с клиентом](agreements.md)
+# [Центр партнеров Microsoft Cloud в Германии](partner-center-for-microsoft-cloud-germany.md)
+## [Регистрация в Центре партнеров Microsoft Cloud в Германии](enroll-in-csp-for-microsoft-cloud-germany.md)
+## [Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud в Германии](user-management-in-partner-center-for-microsoft-cloud-germany.md)
 
 
-<!--HONumber=Nov16_HO4-->
+
+<!--HONumber=Jan17_HO2-->
 
 

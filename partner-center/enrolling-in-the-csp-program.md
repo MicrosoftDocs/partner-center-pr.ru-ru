@@ -4,15 +4,21 @@ description: "Прежде чем регистрироваться в прогр
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: bc49a7d800839a02bee99c99d67068d6f7ceb403
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
 
 ---
 
-# Регистрация в программе CSP
+# Регистрация в программе поставщиков облачных решений
 
+**Относится к:**
 
-Прежде чем регистрироваться в программе поставщиков облачных решений, ознакомьтесь с [требованиями программы CSP]( http://go.microsoft.com/fwlink/p/?LinkId=617116).
+-  Центр партнеров
+
+>**Примечание.**<br>
+Сведения о регистрации в программе поставщиков облачных решений Microsoft Cloud в Германии см. в разделах [Регистрация в программе поставщиков облачных решений Microsoft Cloud в Германии](enroll-in-csp-for-microsoft-cloud-germany.md) и [Центр партнеров Microsoft Cloud в Германии](partner-center-for-microsoft-cloud-germany.md).
+
+Прежде чем регистрироваться в программе поставщиков облачных решений (CSP), ознакомьтесь с [требованиями программы CSP]( http://go.microsoft.com/fwlink/p/?LinkId=617116).
 
 Подробнее о соглашении с партнерами и других требованиях программы см. в разделе [Соглашения, прайс-листы и предложения CSP](csp-documents-and-learning-resources.md).
 
@@ -59,6 +65,6 @@ ms.openlocfilehash: bc49a7d800839a02bee99c99d67068d6f7ceb403
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,13 +4,16 @@ description: "Вы можете добавить несколько пользо
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: d8aa280363bc654170c10ea0497a77bcd1e09e11
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: cc86d129177760bf19c0b24a96d646c52ffb779c
 
 ---
 
-# Создание нескольких пользователей для учетной записи клиента
+# Добавление нескольких пользователей к учетной записи клиента
 
+**Относится к:**
+
+-  Центр партнеров
 
 Вы можете добавить несколько пользователей к учетной записи клиента одновременно, загрузив файл данных в формате CSV в Центр партнеров. Вы можете скачать пример файла данных в Центре партнеров и изменить его для себя или можете создать новый файл данных с помощью модели данных, описанной ниже.
 
@@ -69,6 +72,6 @@ ms.openlocfilehash: d8aa280363bc654170c10ea0497a77bcd1e09e11
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

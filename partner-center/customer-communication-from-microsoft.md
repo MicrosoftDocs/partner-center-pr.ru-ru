@@ -4,13 +4,17 @@ description: "В целом, мы ожидаем, что все сообщени
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: da25e037b1eaebc4327eb643a7b5717ae1301a41
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 2f30083f5acf278a651baaae5318938fe72cadaa
 
 ---
 
 # Взаимодействие Майкрософт с клиентами
 
+**Относится к:**
+
+-  Центр партнеров
+-  Центр партнеров Microsoft Cloud в Германии
 
 В целом, мы ожидаем, что все сообщения клиент будет получать от партнера по программе поставщиков облачных решений. Поскольку у вас есть отношения выставления счетов с клиентами, Майкрософт не будет отправлять напрямую вашим клиентам сообщения, связанные с их подписками.
 
@@ -27,6 +31,6 @@ ms.openlocfilehash: da25e037b1eaebc4327eb643a7b5717ae1301a41
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

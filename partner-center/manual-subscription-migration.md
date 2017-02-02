@@ -4,13 +4,16 @@ description: "Майкрософт представляет Dynamics 365, нов
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 1d17213d3b591056d6af2dd1855d6c52a17801f5
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: f19e46da31a7e479ebd3b1cd368ca7646c3c55b7
 
 ---
 
 # Перенос подписок Dynamics AX в Dynamics 365
 
+**Относится к:**
+
+-  Центр партнеров
 
 Майкрософт представляет Dynamics 365, новое поколение интеллектуальных бизнес-приложений, которые позволят вашей организации расти, развиваться и преобразовываться, чтобы удовлетворять потребности клиентов и открывать новые возможности. В составе нового продукта Майкрософт представляет клиентам новые планы подписки Microsoft Dynamics с 1 ноября 2016 года. Они во многом похожи на текущие планы.
 
@@ -54,7 +57,7 @@ ms.openlocfilehash: 1d17213d3b591056d6af2dd1855d6c52a17801f5
 
 **Microsoft Dynamics CRM Online**
 
-Текущий план Microsoft Dynamics CRM Online снимается с учета 1 ноября 2016г. Подробнее о новых вариантах лицензирования см. в разделе [Важная информация для пользователей CRM Online](https://go.microsoft.com/fwlink/?linkid=831667).
+Текущий план Microsoft Dynamics CRM Online снимается с учета 1 ноября 2016 г. Подробнее о новых вариантах лицензирования см. в разделе [Важная информация для пользователей CRM Online](https://go.microsoft.com/fwlink/?linkid=831667).
 
 ## Перевод клиентов на новые планы продуктов
 
@@ -75,7 +78,7 @@ ms.openlocfilehash: 1d17213d3b591056d6af2dd1855d6c52a17801f5
 1.  В меню **Информационная панель** выберите **Клиенты**, выберите клиента, которого требуется переместить, а затем нажмите **Добавить подписки**.
 2.  Выберите из каталога подписку, которую требуется приобрести (в данном случае — Dynamics 365 for Operations, Enterprise Edition), введите количество лицензий и нажмите **Отправить**.
 
-    Теперь у клиента должны быть как старая, так и новая подписки. В этом примере— старая подписка Dynamics AX Enterprise и новая "целевая" подписка Dynamics 365 for Operations, Enterprise Edition.
+    Теперь у клиента должны быть как старая, так и новая подписки. В этом примере — старая подписка Dynamics AX Enterprise и новая "целевая" подписка Dynamics 365 for Operations, Enterprise Edition.
 
 <a href="" id="reassignlicenses"></a>
 Далее необходимо переназначить все существующие пользовательские лицензии на новую подписку.
@@ -118,6 +121,6 @@ ms.openlocfilehash: 1d17213d3b591056d6af2dd1855d6c52a17801f5
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 
