@@ -3,13 +3,11 @@ title: "Учетные записи клиентов | Центр партнер
 Description: "Как торговый посредник вы должны создать в Центре партнеров учетную запись для каждого вашего клиента. Учетная запись клиента станет вашей отправной точкой для продажи подписок, выставления счетов и предоставления поддержки."
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 2ae199d7accec066d8437da095f7649d8655c915
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Учетные записи клиента
+# <a name="customer-accounts"></a>Учетные записи клиента
 
 **Относится к:**
 
@@ -32,11 +30,5 @@ ms.openlocfilehash: 2ae199d7accec066d8437da095f7649d8655c915
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,20 +3,18 @@ title: "Самообслуживание для клиентов | Центр п
 description: "Самообслуживание для клиентов"
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: d32bba4fafb0f1b6dde3cc8d10b4312f0cb4b977
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Самообслуживание для клиентов
+# <a name="customer-self-support"></a>Самообслуживание для клиентов
 
 **Относится к:**
 
 -  Центр партнеров
 -  Центр партнеров Microsoft Cloud в Германии
 
-Клиенты могут входить в собственный центр администрирования Microsoft Office 365 и портал управления Azure и управлять своими учетными записями.
+Клиенты могут входить в собственный центр администрирования MicrosoftOffice365 и портал управления Azure и управлять своими учетными записями.
 
 -   Просматривать внутренние сообщения и уведомления по продуктам, в частности, сведения о работоспособности службы, в Центре сообщений.
 
@@ -30,11 +28,5 @@ ms.openlocfilehash: d32bba4fafb0f1b6dde3cc8d10b4312f0cb4b977
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

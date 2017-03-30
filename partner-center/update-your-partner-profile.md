@@ -3,13 +3,11 @@ title: "Обновление профиля партнера | Центр пар
 description: "При первом входе в Центр партнеров в качестве администратора убедитесь, что данные службы поддержки указаны правильно, внесите сведения об освобождении от уплаты налогов, если необходимо, и проверьте контактные данные в профилях."
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Обновление профиля партнера
+# <a name="update-your-partner-profile"></a>Обновление профиля партнера
 
 **Относится к:**
 
@@ -37,11 +35,5 @@ ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

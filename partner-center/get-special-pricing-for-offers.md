@@ -3,13 +3,11 @@ title: "Специальные цены на предложения | Центр
 Description: "Корпорация Майкрософт предоставляет специальные сниженные цены определенным группам клиентов, например, образовательным, некоммерческим и правительственным учреждениям, а также оптовым клиентам."
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: f5fcec2df909ef089846cd7b443a890c7ac2f067
 ms.openlocfilehash: a34d5b83982cc54d2cd045358d254f5482447285
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Получение специальных цен на предложения
+# <a name="get-special-pricing-for-offers"></a>Получение специальных цен на предложения
 
 **Относится к:**
 
@@ -55,11 +53,5 @@ ms.openlocfilehash: a34d5b83982cc54d2cd045358d254f5482447285
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

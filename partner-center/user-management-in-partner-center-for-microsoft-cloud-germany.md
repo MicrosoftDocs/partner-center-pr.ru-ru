@@ -2,13 +2,11 @@
 title: "Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud в Германии | Центр партнеров Microsoft Cloud в Германии"
 description: "В соответствии с национальными, региональными и отраслевыми требованиями к сбору и использованию персональных данных возможности управления пользователями недоступны в Центре партнеров Microsoft Cloud в Германии. Вместо этого добавлять пользователей и управлять ими необходимо на портале Azure для Microsoft Cloud в Германии."
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: c17bf920fe54dab315be695baa3090f71c210e8e
-ms.openlocfilehash: 3f8cbf220a794f911de1326626135cad40607fea
-
+ms.openlocfilehash: 94e8caf84dc0ba52f231f03c7e4a9475fce075a6
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud в Германии
+# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud в Германии
 
 **Относится к:**
 
@@ -26,7 +24,7 @@ ms.openlocfilehash: 3f8cbf220a794f911de1326626135cad40607fea
 >**Примечание.**<br>
 На момент публикации этой статьи документация по управлению лицензиями пользователей клиента на портале администрирования Azure или портале администрирования Office 365 была еще недоступна.
 
-## Управление пользователями на портале Azure для Microsoft Cloud в Германии 
+## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Управление пользователями на портале Azure для Microsoft Cloud в Германии 
 
 Если вы выполнили вход в Центр партнеров Microsoft Cloud в Германии, можно открыть портал Azure для Microsoft Cloud в Германии без необходимости повторно входить в систему. Тем не менее, если вам необходимо выполнить вход напрямую на портал Azure для Microsoft Cloud в Германии, перейдите по адресу [https://portal.microsoftazure.de](https://portal.microsoftazure.de). 
 
@@ -46,9 +44,3 @@ ms.openlocfilehash: 3f8cbf220a794f911de1326626135cad40607fea
 -  [**Центр партнеров Microsoft Cloud в Германии**](partner-center-for-microsoft-cloud-germany.md)
 
 -  [**Регистрация в программе поставщиков облачных решений Microsoft Cloud в Германии**](enroll-in-csp-for-microsoft-cloud-germany.md)
-
-
-
-<!--HONumber=Jan17_HO2-->
-
-

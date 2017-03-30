@@ -3,13 +3,11 @@ title: "Сообщение о проблемах в Майкрософт | Це�
 description: "Предполагается, что вы будете решать проблемы от имени своих клиентов."
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 51e095c5f0b7c0c8c1305905ccdb4b20683d386b
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Сообщение о проблемах в Майкрософт
+# <a name="escalate-problems-to-microsoft"></a>Сообщение о проблемах в Майкрософт
 
 **Относится к:**
 
@@ -36,11 +34,5 @@ ms.openlocfilehash: 51e095c5f0b7c0c8c1305905ccdb4b20683d386b
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

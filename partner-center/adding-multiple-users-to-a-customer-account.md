@@ -3,13 +3,11 @@ title: "Создание нескольких пользователей для 
 description: "Вы можете добавить несколько пользователей к учетной записи клиента одновременно, загрузив файл данных в формате CSV в Центр партнеров."
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
 ms.openlocfilehash: cc86d129177760bf19c0b24a96d646c52ffb779c
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Добавление нескольких пользователей к учетной записи клиента
+# <a name="add-multiple-users-to-a-customer-account"></a>Добавление нескольких пользователей к учетной записи клиента
 
 **Относится к:**
 
@@ -67,11 +65,5 @@ ms.openlocfilehash: cc86d129177760bf19c0b24a96d646c52ffb779c
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

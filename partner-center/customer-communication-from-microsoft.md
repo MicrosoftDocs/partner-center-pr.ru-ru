@@ -3,13 +3,11 @@ title: "Взаимодействие Майкрософт с клиентами 
 description: "В целом, мы ожидаем, что все сообщения клиент будет получать от партнера по программе поставщиков облачных решений."
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 2f30083f5acf278a651baaae5318938fe72cadaa
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Взаимодействие Майкрософт с клиентами
+# <a name="customer-communication-from-microsoft"></a>Взаимодействие Майкрософт с клиентами
 
 **Относится к:**
 
@@ -26,11 +24,5 @@ ms.openlocfilehash: 2f30083f5acf278a651baaae5318938fe72cadaa
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

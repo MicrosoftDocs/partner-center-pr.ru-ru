@@ -3,13 +3,11 @@ title: "Предоставление технической поддержки |
 description: "Как поставщик облачных решений вы получаете полномочия делегированного администратора, которые предоставляют вам доступ к средам пользователей."
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Предоставление технической поддержки
+# <a name="provide-technical-support"></a>Предоставление технической поддержки
 
 **Относится к:**
 
@@ -42,11 +40,5 @@ ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

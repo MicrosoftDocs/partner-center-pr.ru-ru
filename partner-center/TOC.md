@@ -53,8 +53,3 @@
 ## [Регистрация в Центре партнеров Microsoft Cloud в Германии](enroll-in-csp-for-microsoft-cloud-germany.md)
 ## [Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud в Германии](user-management-in-partner-center-for-microsoft-cloud-germany.md)
 
-
-
-<!--HONumber=Jan17_HO2-->
-
-

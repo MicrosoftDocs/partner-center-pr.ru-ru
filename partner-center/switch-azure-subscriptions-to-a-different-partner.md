@@ -3,13 +3,11 @@ title: "Переключение подписок Azure на другого па
 description: "Клиент может изменить партнера в программе поставщиков облачных решений, использующего службы Microsoft Azure. Однако это ручной процесс, требующий участия как партнера, так и клиента."
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Переключение подписок Azure на другого партнера
+# <a name="switch-azure-subscriptions-to-a-different-partner"></a>Переключение подписок Azure на другого партнера
 
 **Относится к:**
 
@@ -77,11 +75,5 @@ ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 
