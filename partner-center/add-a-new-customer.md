@@ -3,16 +3,20 @@ title: "Добавление нового клиента | Центр партн
 description: "Прежде чем начинать продавать подписки, управлять выставлением счетов или предоставлять поддержку, необходимо зарегистрировать клиента в Центре партнеров. Необходимо внести его контактные данные и домен AzureAD."
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
-ms.openlocfilehash: 7066cdc60202a842502ca6a7f2e979c14280750b
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: c6bb20cdc2dbb7bc6c3a04bb8c01b5cfe685dfe4
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 06/09/2017
 ---
 # <a name="add-a-new-customer"></a>Добавление нового клиента
 
 **Относится к:**
 
 -  Центр партнеров
--  Центр партнеров Microsoft Cloud в Германии
+-  Центр партнеров для Microsoft Cloud для правительства США
+-  Центр партнеров Microsoft Cloud для Германии
+
 
 Прежде чем начинать продавать подписки, управлять выставлением счетов или предоставлять поддержку, необходимо зарегистрировать клиента в Центре партнеров. Необходимо внести его контактные данные и домен AzureAD.
 

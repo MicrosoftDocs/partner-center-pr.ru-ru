@@ -3,16 +3,19 @@ title: "Просмотр журналов действий клиента | Це
 description: "Журналы действий содержат сведения о транзакциях и действиях по управлению партнерами для клиентов."
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
-ms.openlocfilehash: 5f6c4eb0574bbe73a41a38a1312f0da4240d531e
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 6033b58f52889f8656b3827a0aaef5525abd3c9d
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ru-RU
 ---
 # <a name="view-customer-activity-logs"></a>Просмотр журналов действий клиента
 
 **Относится к:**
 
 -  Центр партнеров
--  Центр партнеров Microsoft Cloud в Германии
+-  Центр партнеров для Microsoft Cloud для правительства США
+-  Центр партнеров Microsoft Cloud для Германии
+
 
 Журналы действий содержат сведения о транзакциях и действиях по управлению партнеров для клиентов. Журналы транзакций предоставляют подробные сведения о транзакции, в том числе о приобретенных подписках. Вы также можете экспортировать журналы действий в файл Excel с разделителями-запятыми (CSV).
 

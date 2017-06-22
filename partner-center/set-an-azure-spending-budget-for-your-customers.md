@@ -3,16 +3,18 @@ title: "Установка расходного бюджета Azure для кл
 description: "В Центре партнеров вы можете устанавливать ежемесячный бюджет для каждого клиента, чтобы сумма ежемесячных счетов клиентов в Azure не оказалась чрезмерно высокой."
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
-ms.openlocfilehash: a4afd889720acdfcb280486a3c05195aa7778674
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 873190885d83f70f6ff68e277f288d58cc74ca00
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ru-RU
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Установка расходного бюджета Azure для клиентов
 
 **Относится к:**
 
 -  Центр партнеров
--  Центр партнеров Microsoft Cloud в Германии
+-  Центр партнеров для Microsoft Cloud для правительства США
+-  Центр партнеров Microsoft Cloud для Германии
 
 Чтобы помочь пользователям управлять их расходами в Azure, вы можете задать ежемесячный бюджет, чтобы счет за использование Azure не превышал указанную сумму. Установка бюджета расходов Azure позволяет вам сравнивать расходы пользователей на Azure с бюджетом в течение месяца. Возможности этой функции 
 

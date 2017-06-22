@@ -3,16 +3,18 @@ title: "Управление списком клиентов | Центр пар
 description: "Записи клиентов — один из важнейших типов данных в Центре партнеров."
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
-ms.openlocfilehash: 0a6ed78cb9b04160e7e220074c5aa3c682ba81ec
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f5ca9d3bfde754e617eda5b172e19683469fcfe2
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ru-RU
 ---
 # <a name="manage-your-customer-list"></a>Управление списком клиентов
 
 **Относится к:**
 
 -  Центр партнеров
--  Центр партнеров Microsoft Cloud в Германии
+-  Центр партнеров для Microsoft Cloud для правительства США
+-  Центр партнеров Microsoft Cloud для Германии
 
 Записи клиентов — один из важнейших типов данных в Центре партнеров. Вы можете выполнять поиск в базе учетных записей клиентов, экспортировать всю базу данных клиентов или подмножество в совместимый с Excel файл с разделителями-запятыми (.csv). Вы также можете экспортировать сведения о подписках клиента в CSV-файл.
 

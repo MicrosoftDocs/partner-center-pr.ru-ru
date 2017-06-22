@@ -3,9 +3,11 @@ title: "Добавление лицензий или служб к сущест�
 description: "Если клиенту требуются дополнительные места или другая версия с дополнительными службами, вы можете обновить подписку."
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
-ms.openlocfilehash: 69a1975e40a15e4a17a71b06ac741b4641e5b903
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f33841361b10a4fb2358aafc13342689ec0780ef
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 06/09/2017
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Добавление лицензий или служб к существующей подписке
 

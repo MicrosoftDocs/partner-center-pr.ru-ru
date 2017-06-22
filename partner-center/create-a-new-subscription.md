@@ -3,16 +3,18 @@ title: "Создание новой подписки | Центр партнер
 description: "После регистрации клиентов в Центре партнеров можно продать им подписки на продукты в каталоге."
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
-ms.openlocfilehash: e23594a9bb9371cb1af1a2ff9047ef559050def0
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 7573af36bfe8c1c0a0840bee6840cd4e58610625
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ru-RU
 ---
 # <a name="create-a-new-subscription"></a>Создание новой подписки
 
 **Относится к:**
 
 -  Центр партнеров
--  Центр партнеров Microsoft Cloud в Германии
+-  Центр партнеров для Microsoft Cloud для правительства США
+-  Центр партнеров Microsoft Cloud для Германии
 
 После регистрации клиентов в Центре партнеров можно продать им подписки на продукты в каталоге.
 

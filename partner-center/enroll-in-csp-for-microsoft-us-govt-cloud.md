@@ -2,9 +2,11 @@
 title: "Регистрация в программе поставщиков облачных решений Microsoft Cloud для правительства США | Центр партнеров Microsoft Cloud для правительства США"
 description: "Прежде чем регистрироваться в программе поставщиков облачных решений Microsoft Cloud для правительства США, ознакомьтесь с требованиями программы CSP."
 author: MaggiePucciEvans
-ms.openlocfilehash: fec9ea2ddebda84d2110d34313cfdc8492727fee
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 152634d9aca087396c46d841b085b0231c5498c8
+ms.sourcegitcommit: 9aa0f56faca663a2cac715dd1795abf137acdf5c
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 06/06/2017
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Регистрация в программе поставщиков облачных решений Microsoft Cloud для правительства США
 
@@ -18,7 +20,7 @@ translationtype: HT
 
 Дополнительные сведения см. в разделе [Центр партнеров Microsoft Cloud для правительства США](partner-center-for-microsoft-us-govt-cloud.md).
 
-Прежде чем зарегистрироваться в программе поставщиков облачных решений (CSP) вы должны создать новую учетную запись Microsoft Azure для государственных организаций. Для создания этой учетной записи заполните [форму проверки Microsoft Government Cloud](https://aka.ms/azgovcspreq) и отправить ее по адресу <azgovcsp@microsoft.com>.
+Прежде чем зарегистрироваться в программе поставщиков облачных решений (CSP) вы должны создать новую учетную запись Microsoft Azure для государственных организаций. Для создания этой учетной записи заполните [форму проверки Microsoft Government Cloud](http://azuregov.microsoft.com/csp) и отправить ее по адресу <azgovcsp@microsoft.com>.
 
 >**Важно.**<br>
 Если у вас уже есть учетная запись в Центре партнеров, и вы хотите зарегистрироваться в CSP для Microsoft Cloud для правительства США (<Government></Government>), вам необходимо создать новую отдельную учетную запись для Microsoft Cloud для правительства США.
@@ -35,7 +37,7 @@ translationtype: HT
 
 1.  Начните процесс регистрации. 
 
-2.  Войдите в учетную запись Microsoft Cloud для правительства США для Microsoft Azure, используя учетные данные глобального администратора. Если у вашей организации нет учетной записи на этом портале, вы можете создать ее, заполнив [форму проверки Microsoft Government Cloud](https://aka.ms/azgovcspreq) и отправив ее по адресу <azgovcsp@microsoft.com>.
+2.  Войдите в учетную запись Microsoft Cloud для правительства США для Microsoft Azure, используя учетные данные глобального администратора. Если у вашей организации нет учетной записи на этом портале, вы можете создать ее, заполнив [форму проверки Microsoft Government Cloud](http://azuregov.microsoft.com/csp).
 
 
 ### <a name="step-2---apply-to-become-a-cloud-solution-provider-partner-within-microsoft-cloud-for-us-government"></a>Шаг 2. Подача заявки для получения статуса партнера по программе поставщиков облачных решений для Microsoft Cloud для правительства США

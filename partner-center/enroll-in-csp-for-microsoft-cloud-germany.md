@@ -2,9 +2,10 @@
 title: "Регистрация в программе поставщиков облачных решений Microsoft Cloud в Германии | Центр партнеров Microsoft Cloud в Германии"
 description: "Прежде чем регистрироваться в программе поставщиков облачных решений Microsoft Cloud в Германии, ознакомьтесь с требованиями программы CSP."
 author: MaggiePucciEvans
-ms.openlocfilehash: c804ca7136be7b34ef48e06ee36ef2899f3030f9
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d7251d597357573010e589bfea8ed6bae1a91630
+ms.sourcegitcommit: a9d2fc656bec004a0c229bd855d2e661773c05c7
+ms.translationtype: HT
+ms.contentlocale: ru-RU
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Регистрация в программе поставщиков облачных решений Microsoft Cloud в Германии
 
@@ -32,7 +33,7 @@ translationtype: HT
 
 ### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>Шаг 1. Создание учетной записи Центра партнеров Microsoft Cloud в Германии 
 
-1.  Начните процесс регистрации. 
+1.  Чтобы зарегистрироваться в CSP для Microsoft Cloud для Германии, перейдите по ссылке [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow) и нажмите кнопку **Вход**. 
 
 2.  Выполните вход с помощью учетных данных глобального администратора учетной записи вашей компании в Microsoft Cloud в Германии для Office 365, Microsoft Azure или Microsoft Dynamics. Если ваша компания не имеет учетной записи для этих порталов, выберите **Создать**, чтобы ее зарегистрировать.
 

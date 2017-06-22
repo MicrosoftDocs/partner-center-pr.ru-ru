@@ -3,16 +3,18 @@ title: "Взаимодействие Майкрософт с клиентами 
 description: "В целом, мы ожидаем, что все сообщения клиент будет получать от партнера по программе поставщиков облачных решений."
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
-ms.openlocfilehash: 2f30083f5acf278a651baaae5318938fe72cadaa
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 8861cd36c4e06618d1d98375627aa2ca2141d083
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ru-RU
 ---
 # <a name="customer-communication-from-microsoft"></a>Взаимодействие Майкрософт с клиентами
 
 **Относится к:**
 
 -  Центр партнеров
--  Центр партнеров Microsoft Cloud в Германии
+-  Центр партнеров для Microsoft Cloud для правительства США
+-  Центр партнеров Microsoft Cloud для Германии
 
 В целом, мы ожидаем, что все сообщения клиент будет получать от партнера по программе поставщиков облачных решений. Поскольку у вас есть отношения выставления счетов с клиентами, Майкрософт не будет отправлять напрямую вашим клиентам сообщения, связанные с их подписками.
 
