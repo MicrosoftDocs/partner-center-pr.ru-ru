@@ -37,7 +37,6 @@
 ## [Назначение лицензий пользователям](assign-licenses-to-users.md)
 ## [Назначение и отзыв лицензий для нескольких пользователей](bulk-license-provisioning-for-multiple-users.md)
 ## [Приостановка подписки](suspend-a-subscription.md)
-## [Удаление связи с торговым посредником или клиентом](remove-a-relationship.md)
 ## [Добавление лицензий или служб к существующей подписке](add-licenses-or-services-to-an-existing-subscription.md)
 ## [Перенос подписок Dynamics AX в Dynamics 365](manual-subscription-migration.md)
 ## [Перенос подписок Office 365 корпоративный E4 в новые версии Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)
