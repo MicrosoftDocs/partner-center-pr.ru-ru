@@ -1,96 +1,124 @@
 ---
 title: "Создание маркетингового профиля | Центр партнеров"
-description: "Корпорация Майкрософт привлекает для своих веб-активов миллионы перспективных клиентов каждый год."
+description: "Привлекайте больше потенциальных клиентов, создав маркетинговый профиль в центре партнеров."
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
-author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
-ms.openlocfilehash: 75733451e0011d9e0a8a2f8a1ab7b13349e956b5
-
+author: KPacquer
+ms.openlocfilehash: 5b680c5e547f237951085ba619f62d818d612e54
+ms.sourcegitcommit: b6b3c66694cd631a1141d10348e4e063189a7131
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/01/2017
 ---
-
-# Создание маркетингового профиля
-
-**Относится к:**
-
--  Центр партнеров
-
-Корпорация Майкрософт привлекает для своих веб-активов миллионы перспективных клиентов каждый год. Мы можем помочь вам расширить рынок сбыта, представляя ваши решения клиентам. Благодаря рекомендациям от Майкрософт к вам попадут именно те клиенты, которым нужны ваши уникальные решения для удовлетворения своих бизнес-потребностей. Чтобы принять участие, создайте маркетинговый профиль в Центре партнеров.
-
-Если у вас есть учетная запись Pinpoint, [вы можете импортировать маркетинговый профиль Pinpoint в Центр партнеров](importing-pinpoint-profiles-into-partner-center.md).
-
-**Важные сведения для партнеров, управляющих профилями в Pinpoint**
-
-Как вы знаете, корпорация Майкрософт упорно работает над созданием новых и улучшенных возможностей публикации и поддержки профилей партнеров. В конечном счете все профили партнеров будут перенесены на новую платформу, а Pinpoint станет недоступным позже в 2017 г.
-
-Благодарим вас за терпение во время обновления. В процессе мы будем делиться новостями и рекомендациями. Тем временем обратите внимание на следующее.
-
--   Если профиль есть на странице [manage.pinpoint.com](https://go.microsoft.com/fwlink/?linkid=838399) и вы хотите изменить его, выполните [вход](https://go.microsoft.com/fwlink/?linkid=838394) в это средство.
--   Если вы — зарегистрированный [поставщик облачной службы](https://go.microsoft.com/fwlink/?linkid=838395) (CSP) Майкрософт, войдите в [Центр партнеров](https://go.microsoft.com/fwlink/?linkid=838396). Вы можете создать новый профиль или импортировать существующий профиль Pinpoint. Обратите внимание, что необходимо внести все изменения в профиль перед импортом. Подробные сведения см. ниже.
--   Если вы не можете изменять свой профиль, обратитесь в [региональный сервисный центр](https://go.microsoft.com/fwlink/?linkid=838398). 
-
-**Отзывы клиентов.** В рамках запланированного перехода от Pinpoint на Центр партнеров возможность добавления отзывов клиентов была отключена, и теперь у партнеров нет доступа к отзывам. Перед отключением функции и удалением отзывов всем соответствующим партнерам было отправлено сообщение по указанному электронному адресу. В будущем мы планируем заменить эту функцию на более надежную систему.
-
-**Создание маркетингового профиля**
-
-1.  В [Центре партнеров](http://go.microsoft.com/fwlink/p/?LinkId=808956) в меню **Информационная панель** выберите пункты **Параметры учетной записи** &gt; **Маркетинговый профиль**.
-2.  На вкладке **Профили** нажмите кнопку **Добавить маркетинговый профиль**.
-3.  Обновите сведения о вашей компании, в частности, контактную информацию, характеристики, подчеркивающие ваш опыт, а также описание, соответствующее приведенным ниже *Рекомендациям по созданию профиля*.
-
-## Рекомендации по созданию профиля
+<!--
+FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
+FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
+FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
+FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
+FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
+ -->
 
 
--   Профиль может содержать не более 2500 символов. Тем не менее, лаконичные профили обычно наиболее эффективны.
+# <a name="create-a-marketing-profile"></a><span data-ttu-id="4d9a8-103">Создание маркетингового профиля</span><span class="sxs-lookup"><span data-stu-id="4d9a8-103">Create a marketing profile</span></span>
 
--   Опишите свою квалификацию и опыт или же аналогичные характеристики своей компании.
+**<span data-ttu-id="4d9a8-104">Относится к:</span><span class="sxs-lookup"><span data-stu-id="4d9a8-104">Applies to</span></span>**
 
--   Укажите официальное название компании.
+-  <span data-ttu-id="4d9a8-105">Центр партнеров</span><span class="sxs-lookup"><span data-stu-id="4d9a8-105">Partner Center</span></span>
 
--   Включите ссылку на домашнюю страницу веб-сайта компании в поле для веб-сайта.
+<span data-ttu-id="4d9a8-106">Как квалифицированный партнер Майкрософт вы можете создать маркетинговый профиль для демонстрации вашего бизнеса для пользователей, которые ищут уникальные решения и опыт для своих бизнес-потребностей.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-106">As a qualified Microsoft partner, you can create a marketing profile to showcase your business to customers who are looking for your unique solutions and expertise to address their business needs.</span></span>
 
--   Убедитесь, что все данные точны.
+<span data-ttu-id="4d9a8-107">Корпорация Майкрософт привлекает миллионы пользователей каждый год через маркетинг, продажи и обслуживание.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-107">Microsoft engages millions of customers every year through marketing, sales and service efforts.</span></span> <span data-ttu-id="4d9a8-108">Большая часть этих действий создает возможности для предоставления ссылок на наших потенциальных партнеров.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-108">Most of these engagements create opportunities for us to provide referrals to our partners in the form of sales leads.</span></span> 
 
--   Не ссылайтесь на другую компанию-партнера Майкрософт по названию, если эта компания не является филиалом или каким-либо способом не связана с вашей компанией или у вас нет текущего соглашения с этой компанией, чтобы действовать совместно и (или) продвигать друг друга для совместных рабочих возможностей.
+<span data-ttu-id="4d9a8-109">На первом этапе к приобретению потенциальных клиентов создайте маркетинговый профиль.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-109">As the first step to getting these leads, create a marketing profile.</span></span> <span data-ttu-id="4d9a8-110">Мы покажем ваш профиль пользователям, которые ищут партнеров, способных помочь им реализовать продукты и решения Майкрософт через:</span><span class="sxs-lookup"><span data-stu-id="4d9a8-110">We'll show your profile to customers who are searching for partners who can help them implement Microsoft products and solutions, through:</span></span>
 
--   Ключевые слова, которые клиенты вводят для поиска, имеют очень большое значение. Используйте ключевые слова, точно описывающие ваши бизнес-предложения, а также отраслевую терминологию, которую клиенты могут использовать для поиска решений.
+*  <span data-ttu-id="4d9a8-111">**функцию поиска [Найти партнера](https://partnercenter.microsoft.com/pcv/search)**.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-111">**The [Find a partner](https://partnercenter.microsoft.com/pcv/search) search experience**.</span></span> <span data-ttu-id="4d9a8-112">Потенциальные клиенты могут искать партнеров в списках партнеров самостоятельно, чтобы найти партнеров, которые соответствуют условиям поиска.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-112">Potential customers can search partner listings on their own to locate partners who meet their search criteria.</span></span> 
+*  <span data-ttu-id="4d9a8-113">**Рекомендации от продаж Майкрософт и сотрудников службы**.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-113">**Referrals from Microsoft sales and service employees**.</span></span> <span data-ttu-id="4d9a8-114">Потенциальные клиенты, заинтересованные в развертывании облачных решений, обращаются в корпорацию Майкрософт, чтобы получить поддержку в поиске специалистов, способных удовлетворить их бизнес-потребности.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-114">Potential customers interested in deploying cloud-based technology solutions contact Microsoft for help finding professionals who can meet their business needs.</span></span> <span data-ttu-id="4d9a8-115">Затем эти специалисты Майкрософт могут направлять потенциальных клиентов в вашу компанию.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-115">These Microsoft professionals can then refer potential customers to your company.</span></span>
 
-## 10 советов для создания хорошего профиля
+<span data-ttu-id="4d9a8-116">**Вниманию пользователей инструментов Pinpoint, C2PC и Sales Connect!** Мы объединяем эти средства в Центре партнеров.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-116">**Pinpoint, C2PC, and Sales Connect users**: we’re merging these tools into Partner Center.</span></span> <span data-ttu-id="4d9a8-117">Если вы использовали эти средства ранее, создайте новый маркетинговый профиль в Центре партнеров, чтобы продолжить формировать потенциальных клиентов и управлять ими.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-117">If you’ve used these tools in the past, create a new marketing profile in Partner Center to continue to generate and manage your sales leads.</span></span> <span data-ttu-id="4d9a8-118">Обратите внимание, что в настоящее время импорт профилей с предыдущих версий веб-сайтов не поддерживается.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-118">Note, we don’t currently support importing profiles from the previous sites.</span></span> 
 
+## <a name="create-a-profile"></a><span data-ttu-id="4d9a8-119">Создание профиля</span><span class="sxs-lookup"><span data-stu-id="4d9a8-119">Create a profile</span></span>
 
-1.  **Изучите свою аудиторию**. Излагайте мысли так, как будто общаетесь с клиентом, а не с коллегами или сотрудниками корпорации Майкрософт.
+<span data-ttu-id="4d9a8-120">Создайте профиль для каждого региона, в котором вы авторизованы для ведения бизнеса.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-120">Create profiles for each region you are authorized to do business in.</span></span> 
 
-2.  **Первое предложение должно быть ярким и привлекательным**. Если первые предложения не убедят клиента, что у вас есть необходимый опыт и навыки для удовлетворения его потребностей, он перейдет к следующему партнеру в результатах поиска.
+1.  <span data-ttu-id="4d9a8-121">Войдите в [Центр партнеров](http://go.microsoft.com/fwlink/p/?LinkId=808956) с помощью [учетной записи глобального администратора или агента администратора](create-user-accounts-and-set-permissions.md).</span><span class="sxs-lookup"><span data-stu-id="4d9a8-121">Log into [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956) using a [global admin or admin agent account](create-user-accounts-and-set-permissions.md).</span></span>
 
-3.  **Будьте лаконичны**. Пользователи не читают информацию в Интернете, а бегло просматривают ее. Предоставляйте четкие и краткие сведения о ваших навыках и опыте. Меньше значит больше.
+2.  <span data-ttu-id="4d9a8-122">На **Информационной панели** выберите **Рекомендации** &gt; **Маркетинговые профили** &gt; **[Добавить маркетинговый профиль](https://partnercenter.microsoft.com/pcv/publishing)**.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-122">From the **Dashboard** menu, select **Referrals** &gt; **Marketing profiles** &gt; **[Add a marketing profile](https://partnercenter.microsoft.com/pcv/publishing)**.</span></span>
 
-4.  **Добавьте нужные ключевые слова**. Интеграция ключевых слов является наиболее эффективным способом оптимизации вашего профиля для поиска по нашему сайту и поисковых систем в общем. Ключевыми словами могут быть названия продуктов Microsoft, бизнес-потребности, отраслевые тенденции и определенные отраслевые каналы.
+3.  <span data-ttu-id="4d9a8-123">На странице **Создание маркетингового профиля** выберите регион, а затем введите данные профиля, включая разделы сведений и опыта партнеров.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-123">In the **Create a marketing profile** page, select a region, then enter your profile information, including the partner info and expertise sections.</span></span>
+    
+    <span data-ttu-id="4d9a8-124">Примечание. Несмотря на то что Центр партнеров поддерживает работу с несколькими языками, для некоторых элементов, таких как описание и теги произвольной формы, может потребоваться добавить текст на разных языках, как указано в этом разделе.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-124">Note, while Partner Center supports multiple languages, some elements such as the description and free-form tags may need to include text from different languages, as noted in this topic.</span></span>
 
-5.  **Покажите, что вы знаете, в чем нуждаются клиенты**. Сконцентрируйтесь на ценности и преимуществах вашего предложения для клиента, а не на процессах и функциях программного обеспечения.
+### <span data-ttu-id="4d9a8-125"><a href="" id="partner_info"></a>Данные партнера</span><span class="sxs-lookup"><span data-stu-id="4d9a8-125"><a href="" id="partner_info"></a>Partner information</span></span>
 
-6.  **Используйте активные языковые формы**. Используйте в тексте глаголы и действия. Избегайте пассивных форм, например, фраз вроде "нами были предоставлены услуги...".
+<span data-ttu-id="4d9a8-126">Представьте свою компанию, добавив логотип и краткое описание, а также ссылку на веб-сайт.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-126">Introduce your company, adding a logo and a brief description, and a link to your website.</span></span> 
 
-7.  **Используйте маркеры**. Изложите последовательные сведения (а, б, в, г и т. д.) в виде маркированного списка, чтобы облегчить просмотр.
+<span data-ttu-id="4d9a8-127">Логотип может быть файлом GIF, JPG или PNG с максимальной шириной 300 пикселей.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-127">The logo can be a GIF, JPG, or PNG file, with a maximum width of 300 pixels.</span></span> <span data-ttu-id="4d9a8-128">Мы рекомендуем использовать квадратные или длинные пропорции.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-128">We recommend using square or long aspect ratios.</span></span> <span data-ttu-id="4d9a8-129">Не рекомендуется использовать высокие пропорции.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-129">Tall aspect ratios are not recommended.</span></span>
 
-8.  **Избегайте профессиональных терминов**. Используйте простую повседневную речь, даже если вы описываете глубоко технические аспекты.
+<span data-ttu-id="4d9a8-130">Описание может содержать не более 1000 символов.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-130">Your description can be up to 1000 characters.</span></span> <span data-ttu-id="4d9a8-131">Советы для создания превосходного описания:</span><span class="sxs-lookup"><span data-stu-id="4d9a8-131">Tips for a great description:</span></span> 
 
-9.  **Стремитесь к ясности**. Избегайте заумных или придуманных названий приложений и служб. Названия ваших предложений должны говорить об их предназначении, например о бизнес-потребностях, которые они удовлетворяют, или о заданиях и целях, которых они помогают достичь.
+*  <span data-ttu-id="4d9a8-132">**Будьте кратки**, выделив важные факторы в первых двух предложениях.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-132">**Be brief**, leading with what’s important in the first sentence or two.</span></span> <span data-ttu-id="4d9a8-133">Это должен быть заголовок, который привлекает внимание клиентов.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-133">This should be the headline that catches customers’ attention.</span></span> <span data-ttu-id="4d9a8-134">В поле поиска партнера мы покажем первую строку или две в предварительном просмотре результатов поиска.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-134">In the Find a partner search experience, we show the first line or two in the search results preview.</span></span>
+*  <span data-ttu-id="4d9a8-135">**Сосредоточьтесь на взаимодействии вашей компании с предложениями Майкрософт**.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-135">**Focus on your company’s experiences with Microsoft-specific offerings**.</span></span> <span data-ttu-id="4d9a8-136">Пользователи, которые ищут рекомендации, обычно ищут партнеров Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-136">Customers searching for referrals are generally looking for partners with Microsoft-specific experience.</span></span>
+*  <span data-ttu-id="4d9a8-137">**Используйте маркеры**.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-137">**Use bullets**.</span></span> <span data-ttu-id="4d9a8-138">Разбейте данные в маркированные списки, чтобы упростить сканирование.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-138">Break up information into bulleted lists to make it easier to scan.</span></span>
+*  <span data-ttu-id="4d9a8-139">**Избегайте профессиональных терминов**.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-139">**Avoid jargon**.</span></span> <span data-ttu-id="4d9a8-140">Используйте простой повседневный язык, названия ваших предложений должны говорить об их предназначении, например о бизнес-потребностях, которые они удовлетворяют, или о заданиях и целях, которых они помогают достичь.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-140">Use simple, everyday language, naming your offerings for what they do: the business needs they address, or task or objective they help customers accomplish.</span></span>
+*  <span data-ttu-id="4d9a8-141">**Не стоит беспокоиться о заполнении описания ключевыми словами для поиска**.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-141">**Don’t worry about filling the description with search keywords**.</span></span> <span data-ttu-id="4d9a8-142">Средства поиска клиента ищут ключевые слова, созданные в разделе "Опыт партнеров", а не в описании.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-142">The customer search tools search for keywords generated in the Partner Expertise section, not the description.</span></span>
+*  <span data-ttu-id="4d9a8-143">**Поддерживайте актуальность вашего профиля**.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-143">**Keep your profile current**.</span></span> <span data-ttu-id="4d9a8-144">С каждой версией программного обеспечения или службы обновляйте свой профиль, синхронизируя его с веб-сайта вашей компании.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-144">With each software or service release, update your profile, keeping it in sync with your company's website.</span></span>
+*  <span data-ttu-id="4d9a8-145">**Не ссылайтесь на другую компанию-партнера Майкрософт по названию**, если эта компания не является филиалом или каким-либо способом не связана с вашей компанией или у вас нет текущего соглашения с этой компанией, чтобы действовать совместно и (или) продвигать друг друга для совместных рабочих возможностей.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-145">**Do not refer to another Microsoft partner company by name**, unless it is a subsidiary or is otherwise affiliated with your company, or you have a current agreement with that partner company to act in partnership and/or promote each other for shared work opportunities.</span></span>
+*  <span data-ttu-id="4d9a8-146">**Для регионов с несколькими языками** рекомендуется добавить текст на нескольких языках в описании.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-146">**For regions with multiple languages**, consider including text from multiple languages in the description.</span></span>
 
-10. **Поддерживайте актуальность вашего профиля**. Сведения в вашем профиле должны соответствовать информации о вашей компании в Интернете. Обновляйте профиль и веб-сайт с каждым выпуском программного обеспечения или службы, обеспечивая единообразное взаимодействие с клиентом.
+#### <span data-ttu-id="4d9a8-147"><a href="" id="linkedin"></a>Страница компании в LinkedIn: больше возможностей для связей</span><span class="sxs-lookup"><span data-stu-id="4d9a8-147"><a href="" id="linkedin"></a> LinkedIn company page: more ways to connect</span></span>
 
-## Статьи по теме
+<span data-ttu-id="4d9a8-148">Добавление страницы компании в LinkedIn повышает надежность и правильность связей потенциальных клиентов.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-148">Add your LinkedIn company page to strengthen your connections to potential customers.</span></span> 
 
+<span data-ttu-id="4d9a8-149">При включении этой ссылки клиенты смогут быстро просмотреть больше сведений о вашей организации с помощью платформы LinkedIn.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-149">When you include this link, customers will be able to quickly view more about your organization through the LinkedIn platform.</span></span>
 
-[Переход от Pinpoint к Центру партнеров](importing-pinpoint-profiles-into-partner-center.md)
+<span data-ttu-id="4d9a8-150">Если у вас еще нет страницы компании в LinkedIn, вы можете [создать ее сейчас](https://www.linkedin.com/company-beta/setup/new/).</span><span class="sxs-lookup"><span data-stu-id="4d9a8-150">If you don't already have a LinkedIn company page, you can [create one now](https://www.linkedin.com/company-beta/setup/new/).</span></span>
 
- 
+### <a name="partner-expertise"></a><span data-ttu-id="4d9a8-151">Опыт партнеров</span><span class="sxs-lookup"><span data-stu-id="4d9a8-151">Partner expertise</span></span>
 
- 
+<span data-ttu-id="4d9a8-152">Средства поиска клиента ищут теги специализации.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-152">The customer search tools look for expertise tags.</span></span> <span data-ttu-id="4d9a8-153">Настраивая профиль для получения видимости, стоит тратить время здесь для оптимизации.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-153">When adjusting your profile to gain visibility, it’s worth spending some time here to optimize these.</span></span>
 
+<span data-ttu-id="4d9a8-154">Сначала добавьте собственные теги в разделе опыт партнеров.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-154">Start by adding your own tags into the Partner Expertise section.</span></span> <span data-ttu-id="4d9a8-155">Теги, которые можно добавить:</span><span class="sxs-lookup"><span data-stu-id="4d9a8-155">Tags you can add:</span></span> 
 
+*  <span data-ttu-id="4d9a8-156">**Теги с фокусом на отрасли**.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-156">**Industry focus tags**.</span></span> <span data-ttu-id="4d9a8-157">До 5 отраслей</span><span class="sxs-lookup"><span data-stu-id="4d9a8-157">Up to 5 industries</span></span>
+*  <span data-ttu-id="4d9a8-158">**Продукты**.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-158">**Products**.</span></span> <span data-ttu-id="4d9a8-159">Ограничено до продуктов Майкрософт</span><span class="sxs-lookup"><span data-stu-id="4d9a8-159">Limited to Microsoft products</span></span>
+*  **<span data-ttu-id="4d9a8-160">Тип службы</span><span class="sxs-lookup"><span data-stu-id="4d9a8-160">Service type</span></span>** 
+*  <span data-ttu-id="4d9a8-161">**Решения, навыки и возможности**.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-161">**Solutions, skills, and capabilities**.</span></span> <span data-ttu-id="4d9a8-162">Это теги произвольной формы. Они предоставляют вам возможность добавления ключевых слов для поиска, которые уникальны для вашей возможности.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-162">These tags are free-form, and provide you the ability to add search keywords that are unique to your capabilities.</span></span>
 
+<span data-ttu-id="4d9a8-163">Другие теги, используемые в поиске:</span><span class="sxs-lookup"><span data-stu-id="4d9a8-163">Other tags used in search:</span></span>
+*  <span data-ttu-id="4d9a8-164">**Теги компетенции** являются заработанным обозначением, демонстрирующим возможности вашей компании.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-164">**Competency tags** are an earned designation showcasing your company’s capabilities.</span></span>
+*  <span data-ttu-id="4d9a8-165">**Теги подтверждения** получаются, когда Майкрософт или клиенты, с которыми вы работали, утверждают результаты своей работы.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-165">**Endorsement tags** are earned when Microsoft or your customers who have worked with you endorse your work.</span></span>
 
+#### <span data-ttu-id="4d9a8-166"><a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Разрешить Майкрософт рекламу моих областей</span><span class="sxs-lookup"><span data-stu-id="4d9a8-166"><a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Allow Microsoft to endorse my areas of expertise</span></span>
 
+<span data-ttu-id="4d9a8-167">По мере того, как вы демонстрируете успех с клиентами через Центр партнеров или участвуя в других сертификациях или программах Майкрософт, мы автоматически добавим поддержку для определенных продуктов, служб и отраслей, способствующих успеху.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-167">As you demonstrate success with customers through Partner Center, or by participating in other Microsoft certifications or programs, we’ll automatically add endorsements for your specific products, services and industries contributing to that success.</span></span> <span data-ttu-id="4d9a8-168">Поддержка является важным фактором в результатах поиска.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-168">Endorsements are an important factor in search results.</span></span>
 
-<!--HONumber=Jan17_HO2-->
+<span data-ttu-id="4d9a8-169">Рекомендуется оставлять этот параметр включенным.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-169">We recommend that you leave this setting checked.</span></span> <span data-ttu-id="4d9a8-170">Тем не менее, если продукты, для которых предоставляются услуги, не отображаются в вашем профиле, вы можете снять этот флажок и управлять профилем вручную.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-170">However, if there are products that you provide services for that you’d rather not show up on your profile, you can uncheck this box and manage your profile manually.</span></span> <span data-ttu-id="4d9a8-171">Эта поддержка будет скрыта от клиентов, но можно добавить обратно в свой профиль позже в любое время.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-171">These endorsements will be hidden from your customers view, but you can add them back to your profile later at any time.</span></span>
 
+### <a name="customer-preferences"></a><span data-ttu-id="4d9a8-172">Установки клиента</span><span class="sxs-lookup"><span data-stu-id="4d9a8-172">Customer preferences</span></span>
 
+#### <span data-ttu-id="4d9a8-173"><a href="" id="#target_size"></a>Целевой размер</span><span class="sxs-lookup"><span data-stu-id="4d9a8-173"><a href="" id="#target_size"></a>Target size</span></span>
+
+<span data-ttu-id="4d9a8-174">Вы можете отказаться от рекомендаций организаций, которые не соответствующие вашему целевому размеру клиента.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-174">You can opt out of referrals from businesses that don’t meet your target customer size.</span></span>
+
+<span data-ttu-id="4d9a8-175">Отказавшись, вы получите больше времени для изучения организаций, которые соответствуют вашим деловым предпочтениям.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-175">By opting out, you’ll have more time to spend on businesses that are a match for the businesses that you prefer to work with.</span></span>
+
+### <span data-ttu-id="4d9a8-176"><a href="" id="#locations"></a> Расположения</span><span class="sxs-lookup"><span data-stu-id="4d9a8-176"><a href="" id="#locations"></a> Locations</span></span>
+
+<span data-ttu-id="4d9a8-177">Можно добавить до пяти мест на регион.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-177">You can add up to 5 locations per region.</span></span> <span data-ttu-id="4d9a8-178">Эти расположения появляются, когда пользователи ищут партнеров по близости.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-178">These locations appear when customers search for partners by proximity.</span></span> 
+
+<span data-ttu-id="4d9a8-179">Укажите расположения, которые являются официальными расположениями компании и могут быть проверены.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-179">Indicate locations that are official company locations and can be validated.</span></span> <span data-ttu-id="4d9a8-180">Выберите расположения, наиболее важные для рынков, которые вы обслуживаете и которые лучше всего представляют возможности вашей компании.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-180">Pick locations that are central to the markets you serve, and best represent your company’s ability to fulfill.</span></span>
+
+<span data-ttu-id="4d9a8-181">Каждое добавляемое расположение становится отдельной страницей профиля.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-181">Each location you add becomes a separate profile page.</span></span> <span data-ttu-id="4d9a8-182">Обновлять страницы профиля следует для каждого расположения.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-182">When updating profile pages, make sure that you update them for each location.</span></span>
+
+## <a name="review-your-profile"></a><span data-ttu-id="4d9a8-183">Проверьте профиль</span><span class="sxs-lookup"><span data-stu-id="4d9a8-183">Review your profile</span></span>
+
+<span data-ttu-id="4d9a8-184">После публикации профиля обновления будут отображаться в результатах поиска с помощью средства [Поиск партнера](https://partnercenter.microsoft.com/pcv/search) в течение 24 часов.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-184">After you publish your profile, updates appear in the [Find a partner](https://partnercenter.microsoft.com/pcv/search) searches within 24 hours.</span></span> 
+
+## <a name="improve-the-visibility-of-your-profile"></a><span data-ttu-id="4d9a8-185">Улучшение видимости вашего профиля</span><span class="sxs-lookup"><span data-stu-id="4d9a8-185">Improve the visibility of your profile</span></span> 
+
+*  <span data-ttu-id="4d9a8-186">**[Быстро реагировать на запросы](responding-to-referrals.md)**.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-186">**[Respond quickly to requests](responding-to-referrals.md)**.</span></span> <span data-ttu-id="4d9a8-187">После получения рекомендации от клиента быстрый ответ может привести к более точным результатам на страницах поиска для будущих клиентов.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-187">When you receive a customer referral, a faster response can lead to better results on the search pages for future customers.</span></span>
+*  <span data-ttu-id="4d9a8-188">**Будьте осторожны с тегами**.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-188">**Be selective with your tags**.</span></span>  <span data-ttu-id="4d9a8-189">Лучше иметь меньше тегов, которые лучше всего представляют предложения, решения, предложение стоимости и уникальное положение, и постоянно демонстрируют успех вашей компании.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-189">It’s better to have fewer tags that best represent your company’s offers, solutions, value propositions, and unique position where you can consistently demonstrate success.</span></span>  <span data-ttu-id="4d9a8-190">Это принесет дивиденды в результатах поиска в будущем.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-190">That will pay dividends in future search results.</span></span>
+*  <span data-ttu-id="4d9a8-191">**Получайте теги компетенции** через корпорацию Майкрософт, чтобы продемонстрировать ваше знание наших продуктов.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-191">**Earn competency tags** through Microsoft to demonstrate your proficiency in our products.</span></span>
+*  <span data-ttu-id="4d9a8-192">**Получайте теги подтверждения** от пользователей, которые ценят результаты вашей работы.</span><span class="sxs-lookup"><span data-stu-id="4d9a8-192">**Earn endorsement tags** from customers who appreciate your work.</span></span>
+
+## <a name="related-topics"></a><span data-ttu-id="4d9a8-193">Еще по теме:</span><span class="sxs-lookup"><span data-stu-id="4d9a8-193">Related topics</span></span>
+[<span data-ttu-id="4d9a8-194">Реакция на рекомендации</span><span class="sxs-lookup"><span data-stu-id="4d9a8-194">Responding to referrals</span></span>](responding-to-referrals.md)

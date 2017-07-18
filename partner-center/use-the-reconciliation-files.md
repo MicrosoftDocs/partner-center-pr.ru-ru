@@ -2,33 +2,27 @@
 title: "Использование файлов выверки | Центр партнеров"
 description: "Для просмотра подробных сведений строковых элементов каждой оплаты в расчетном цикле, загрузите файлы выверки с информационной панели в Центре партнеров."
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
-author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
-
+author: KPacquer
+ms.openlocfilehash: 61e71d4207d9e8ac68ee4fcfc1f0d04282474032
+ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 06/19/2017
 ---
+# <a name="use-the-reconciliation-files"></a><span data-ttu-id="b6d76-103">Использование файлов выверки</span><span class="sxs-lookup"><span data-stu-id="b6d76-103">Use the reconciliation files</span></span>
 
-# Использование файлов выверки
+**<span data-ttu-id="b6d76-104">Относится к:</span><span class="sxs-lookup"><span data-stu-id="b6d76-104">Applies to</span></span>**
 
-**Относится к:**
+-  <span data-ttu-id="b6d76-105">Центр партнеров</span><span class="sxs-lookup"><span data-stu-id="b6d76-105">Partner Center</span></span>
+-  <span data-ttu-id="b6d76-106">Центр партнеров для Microsoft Cloud для правительства США</span><span class="sxs-lookup"><span data-stu-id="b6d76-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="b6d76-107">Центр партнеров Microsoft Cloud для Германии</span><span class="sxs-lookup"><span data-stu-id="b6d76-107">Partner Center for Microsoft Cloud Germany</span></span>
 
--  Центр партнеров
--  Центр партнеров Microsoft Cloud в Германии
+<span data-ttu-id="b6d76-108">Для просмотра подробных сведений строковых элементов каждой оплаты в расчетном цикле, загрузите файлы выверки с информационной панели в Центре партнеров.</span><span class="sxs-lookup"><span data-stu-id="b6d76-108">For a detailed line-item view of each charge in a billing cycle, download the reconciliation files from the Partner Center dashboard.</span></span> <span data-ttu-id="b6d76-109">Эти сведения включают плату за подписки каждого клиента и детализированные события (например, добавление количества мест к подписке в середине срока).</span><span class="sxs-lookup"><span data-stu-id="b6d76-109">The details include charges for each customer's subscriptions, and detailed events (such as a mid-term addition of seats to a subscription).</span></span>
 
-Для просмотра подробных сведений строковых элементов каждой оплаты в расчетном цикле, загрузите файлы выверки с информационной панели в Центре партнеров. Эти сведения включают оплаты за подписки каждого клиента и детализированные события (например, добавление количества мест к подписке в середине срока).
-
-## В этом разделе
-
-
--   [Детализация по партнерам](#itemizebypartner)
--   [Файлы выверки на основе лицензии](#licencebasedfiles)
--   [Файлы выверки на основе использования](#usagebasedfiles)
-
-## <a href="" id="itemizebypartner"></a>Детализация по партнерам
+## <span data-ttu-id="b6d76-110"><a href="" id="itemizebypartner"></a>Детализация по партнерам</span><span class="sxs-lookup"><span data-stu-id="b6d76-110"><a href="" id="itemizebypartner"></a>Itemize by partner</span></span>
 
 
-Партнеры в косвенной модели могут использовать эти дополнительные поля для детализации по торговым посредникам в файлах выверки как на основе лицензии, так и на основе использования.
+<span data-ttu-id="b6d76-111">Партнеры в косвенной модели могут использовать эти дополнительные поля для детализации по торговым посредникам в файлах выверки как на основе лицензии, так и на основе использования.</span><span class="sxs-lookup"><span data-stu-id="b6d76-111">Partners in the indirect model can use these additional fields in both license-based and usage-based reconciliation files to itemize by reseller.</span></span>
 
 <table>
 <colgroup>
@@ -37,33 +31,33 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 </colgroup>
 <thead>
 <tr class="header">
-<th>Идентификатор MPN</th>
-<th>Описание</th>
+<th><span data-ttu-id="b6d76-112">Идентификатор MPN</span><span class="sxs-lookup"><span data-stu-id="b6d76-112">MPN ID</span></span></th>
+<th><span data-ttu-id="b6d76-113">Описание</span><span class="sxs-lookup"><span data-stu-id="b6d76-113">Description</span></span></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Идентификатор MPN</td>
-<td><p>Идентификатор MPN партнера CSP (прямой или косвенный).</p></td>
+<td><span data-ttu-id="b6d76-114">Идентификатор MPN</span><span class="sxs-lookup"><span data-stu-id="b6d76-114">MPN ID</span></span></td>
+<td><p><span data-ttu-id="b6d76-115">Идентификатор сети Microsoft Partner Network (MPN) партнера CSP (прямой или косвенный).</span><span class="sxs-lookup"><span data-stu-id="b6d76-115">The Microsoft Partner Network (MPN) ID of the CSP partner (direct or indirect).</span></span></p></td>
 </tr>
 <tr class="even">
-<td>Идентификатор MPN торгового посредника</td>
-<td><p>Отображается только в файлах выверки для партнеров в косвенной модели.</p>
-<p>Идентификатор MPN зарегистрированного торгового посредника для подписки. Соответствует идентификатору торгового посредника, указанному для определенной подписки в Центре партнеров.</p>
-<p>Чтобы просмотреть или обновить сведения о торговом посреднике, выберите раздел <strong>Клиенты</strong> в меню Центра партнеров, после чего выберите нужного клиента из списка. В меню клиента выберите <strong>Подписки</strong>, а затем выберите нужную подписку из списка. Выберите <strong>обновить</strong>, чтобы изменить пункт <strong>Торговый посредник (идентификатор MPN)</strong>.</p>
-<p>Если партнер CSP продал подписку непосредственно клиенту, то его идентификатор MPN указывается дважды, как идентификатор MPN и как идентификатор MPN торгового посредника.</p>
-<p>Если у партнера CSP есть торговый партнер без идентификатора MPN, то это значение устанавливается для идентификатора MPN партнера.</p>
-<p>Если партнер CSP удаляет идентификатор торгового посредника, это значение будет равно -1.</p></td>
+<td><span data-ttu-id="b6d76-116">Идентификатор MPN торгового посредника</span><span class="sxs-lookup"><span data-stu-id="b6d76-116">Reseller MPN ID</span></span></td>
+<td><p><span data-ttu-id="b6d76-117">Отображается только в файлах выверки для партнеров в косвенной модели.</span><span class="sxs-lookup"><span data-stu-id="b6d76-117">Only appears on reconciliation files for partners in the indirect model.</span></span></p>
+<p><span data-ttu-id="b6d76-118">Идентификатор MPN зарегистрированного торгового посредника для подписки.</span><span class="sxs-lookup"><span data-stu-id="b6d76-118">The MPN ID of the reseller of record for the subscription.</span></span> <span data-ttu-id="b6d76-119">Соответствует идентификатору торгового посредника, указанному для определенной подписки в Центре партнеров.</span><span class="sxs-lookup"><span data-stu-id="b6d76-119">This corresponds to the reseller ID listed for the specific subscription in Partner Center.</span></span></p>
+<p><span data-ttu-id="b6d76-120">Чтобы просмотреть или обновить сведения о торговом посреднике, выберите раздел <strong>Клиенты</strong> в меню Центра партнеров, после чего выберите нужного клиента из списка.</span><span class="sxs-lookup"><span data-stu-id="b6d76-120">eTo view or update the reseller, in the Partner Center menu, select <strong>Customers</strong>, then choose the customer from the list.</span></span> <span data-ttu-id="b6d76-121">В меню клиента выберите <strong>Подписки</strong>, а затем выберите нужную подписку из списка.</span><span class="sxs-lookup"><span data-stu-id="b6d76-121">In the customer menu, select <strong>Subscriptions</strong>, choose the subscription from the list.</span></span> <span data-ttu-id="b6d76-122">Выберите <strong>обновить</strong>, чтобы изменить пункт <strong>Торговый посредник (идентификатор MPN)</strong>.</span><span class="sxs-lookup"><span data-stu-id="b6d76-122">Select <strong>update</strong> to change the <strong>Reseller (MPN ID)</strong>.</span></span></p>
+<p><span data-ttu-id="b6d76-123">Если партнер CSP продал подписку непосредственно клиенту, то его идентификатор MPN указывается дважды, как идентификатор MPN и как идентификатор MPN торгового посредника.</span><span class="sxs-lookup"><span data-stu-id="b6d76-123">If a CSP partner sold the subscription directly to the customer, their MPN ID is listed twice, as both the MPN ID and the Reseller MPN ID.</span></span></p>
+<p><span data-ttu-id="b6d76-124">Если у партнера CSP есть торговый партнер без идентификатора MPN, то это значение устанавливается для идентификатора MPN партнера.</span><span class="sxs-lookup"><span data-stu-id="b6d76-124">If a CSP partner has a reseller with no MPN ID, this value is set to the partner’s MPN ID instead.</span></span></p>
+<p><span data-ttu-id="b6d76-125">Если партнер CSP удаляет идентификатор торгового посредника, это значение будет равно -1.</span><span class="sxs-lookup"><span data-stu-id="b6d76-125">If the CSP partner removes a reseller ID, this value will be set to -1.</span></span></p></td>
 </tr>
 </tbody>
 </table>
 
  
 
-## <a href="" id="licencebasedfiles"></a> Поля файла на основе лицензии
+## <span data-ttu-id="b6d76-126"><a href="" id="licencebasedfiles"></a> Поля файла на основе лицензии</span><span class="sxs-lookup"><span data-stu-id="b6d76-126"><a href="" id="licencebasedfiles"></a> License-based file fields</span></span>
 
 
-Чтобы согласовать ваши оплаты с заказами ваших клиентов, сравните свойство Syndication\_Partner\_Subscription\_Number из файла выверки с идентификационным кодом подписки из Центра партнеров.
+<span data-ttu-id="b6d76-127">Чтобы согласовать ваши оплаты с заказами ваших клиентов, сравните свойство Syndication\_Partner\_Subscription\_Number из файла выверки с идентификационным кодом подписки из Центра партнеров.</span><span class="sxs-lookup"><span data-stu-id="b6d76-127">To reconcile your charges against your customer's orders, compare the Syndication\_Partner\_Subscription\_Number from the reconciliation file against the Subscription ID from Partner Center.</span></span>
 
 <table>
 <colgroup>
@@ -73,212 +67,166 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Столбец</strong></td>
-<td><strong>Описание</strong></td>
-<td><strong>Пример значения</strong></td>
+<td><strong><span data-ttu-id="b6d76-128">Столбец</span><span class="sxs-lookup"><span data-stu-id="b6d76-128">Column</span></span></strong></td>
+<td><strong><span data-ttu-id="b6d76-129">Описание</span><span class="sxs-lookup"><span data-stu-id="b6d76-129">Description</span></span></strong></td>
+<td><strong><span data-ttu-id="b6d76-130">Пример значения</span><span class="sxs-lookup"><span data-stu-id="b6d76-130">Sample Value</span></span></strong></td>
 </tr>
 <tr class="even">
-<td>OperatingUnit</td>
-<td><p>Уникальный идентификатор для конкретного объекта выставления счетов в формате GUID. Не требуется для выверки, но при этом может содержать полезную информацию. Одинаково во всех строках.</p></td>
-<td>8ddd03642-test-test-test-46b58d356b4e</td>
+<td><span data-ttu-id="b6d76-131">OperatingUnit</span><span class="sxs-lookup"><span data-stu-id="b6d76-131">OperatingUnit</span></span></td>
+<td><p><span data-ttu-id="b6d76-132">Уникальный идентификатор для конкретного объекта выставления счетов в формате GUID.</span><span class="sxs-lookup"><span data-stu-id="b6d76-132">Unique identifier for a specific billing entity, in GUID format.</span></span> <span data-ttu-id="b6d76-133">Не требуется для выверки, но при этом может содержать полезную информацию.</span><span class="sxs-lookup"><span data-stu-id="b6d76-133">Not required for reconciliation, however may be useful information.</span></span> <span data-ttu-id="b6d76-134">Одинаково во всех строках.</span><span class="sxs-lookup"><span data-stu-id="b6d76-134">Same in all rows.</span></span></p></td>
+<td><span data-ttu-id="b6d76-135">8ddd03642-test-test-test-46b58d356b4e</span><span class="sxs-lookup"><span data-stu-id="b6d76-135">8ddd03642-test-test-test-46b58d356b4e</span></span></td>
 </tr>
 <tr class="odd">
-<td>CustomerNumber</td>
-<td><p>Уникальный идентификатор клиента в платформе выставления счетов Майкрософт. Может использоваться для определения клиента при обращении в службу поддержки, но не для выверки.</p></td>
-<td>123456789</td>
+<td><span data-ttu-id="b6d76-136">CustomerID</span><span class="sxs-lookup"><span data-stu-id="b6d76-136">CustomerID</span></span></td>
+<td><p><span data-ttu-id="b6d76-137">Уникальный идентификатор Майкрософт в формате GUID, используемый для идентификации клиента.</span><span class="sxs-lookup"><span data-stu-id="b6d76-137">Unique Microsoft ID, in GUID format, used to identify the customer.</span></span></p></td>
+<td><span data-ttu-id="b6d76-138">12ABCD34-001A-BCD2-987C-3210ABCD5678</span><span class="sxs-lookup"><span data-stu-id="b6d76-138">12ABCD34-001A-BCD2-987C-3210ABCD5678</span></span></td>
 </tr>
 <tr class="even">
-<td>OrderID</td>
-<td><p>Уникальный идентификатор заказа в платформе выставления счетов Майкрософт. Может использоваться для определения заказа при обращении в службу поддержки, но не для выверки.</p></td>
-<td>566890604832738111</td>
+<td><span data-ttu-id="b6d76-139">OrderID</span><span class="sxs-lookup"><span data-stu-id="b6d76-139">OrderID</span></span></td>
+<td><p><span data-ttu-id="b6d76-140">Уникальный идентификатор заказа в платформе выставления счетов Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="b6d76-140">Unique identifier for an order in the Microsoft billing platform.</span></span> <span data-ttu-id="b6d76-141">Может использоваться для определения заказа при обращении в службу поддержки, но не для выверки.</span><span class="sxs-lookup"><span data-stu-id="b6d76-141">May be useful to identify the order when contacting support but not for reconciliation.</span></span></p></td>
+<td><span data-ttu-id="b6d76-142">566890604832738111</span><span class="sxs-lookup"><span data-stu-id="b6d76-142">566890604832738111</span></span></td>
 </tr>
 <tr class="odd">
-<td>SubscriptionID</td>
-<td><p>Уникальный идентификатор подписки в платформе выставления счетов Майкрософт. Может быть полезным для определения подписки при обращении в службу поддержки, но не для выверки.</p>
-<p>Не совпадает с идентификатором подписки на консоли администрирования партнера. См. поле Syndication_Partner_Subscription_Number.</p></td>
-<td>usCBMgAAAAAAAAIA</td>
+<td><span data-ttu-id="b6d76-143">SubscriptionID</span><span class="sxs-lookup"><span data-stu-id="b6d76-143">SubscriptionID</span></span></td>
+<td><p><span data-ttu-id="b6d76-144">Уникальный идентификатор подписки в платформе выставления счетов Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="b6d76-144">Unique identifier for a subscription in the Microsoft billing platform.</span></span> <span data-ttu-id="b6d76-145">Может быть полезным для определения подписки при обращении в службу поддержки, но не для выверки.</span><span class="sxs-lookup"><span data-stu-id="b6d76-145">May be useful to identify the subscription when contacting support but not for reconciliation.</span></span></p>
+<p><span data-ttu-id="b6d76-146">Не совпадает с идентификатором подписки на консоли администрирования партнера.</span><span class="sxs-lookup"><span data-stu-id="b6d76-146">This is not the same as the Subscription ID on the Partner Admin Console.</span></span> <span data-ttu-id="b6d76-147">См. поле Syndication_Partner_Subscription_Number.</span><span class="sxs-lookup"><span data-stu-id="b6d76-147">Please see Syndication_Partner_Subscription_Number.</span></span></p></td>
+<td><span data-ttu-id="b6d76-148">usCBMgAAAAAAAAIA</span><span class="sxs-lookup"><span data-stu-id="b6d76-148">usCBMgAAAAAAAAIA</span></span></td>
 </tr>
 <tr class="even">
-<td>SyndicationPartnerSubscriptionNumber</td>
-<td><p>Уникальный идентификатор для подписок. Клиент может иметь несколько подписок для одного плана, поэтому этот параметр важен для анализа файла выверки.</p>
-<p>Это поле сопоставлено с идентификатором подписки в консоли администрирования партнера.</p></td>
-<td>fb977ab5-test-test-test-24c8d9591708</td>
+<td><span data-ttu-id="b6d76-149">SyndicationPartnerSubscriptionNumber</span><span class="sxs-lookup"><span data-stu-id="b6d76-149">SyndicationPartnerSubscriptionNumber</span></span></td>
+<td><p><span data-ttu-id="b6d76-150">Уникальный идентификатор для подписок.</span><span class="sxs-lookup"><span data-stu-id="b6d76-150">Unique identifier for subscriptions.</span></span> <span data-ttu-id="b6d76-151">Клиент может иметь несколько подписок для одного плана, поэтому этот параметр важен для анализа файла выверки.</span><span class="sxs-lookup"><span data-stu-id="b6d76-151">A customer can have multiple subscriptions for the same plan, so this is important for reconciliation file analysis.</span></span></p>
+<p><span data-ttu-id="b6d76-152">Это поле сопоставлено с идентификатором подписки в консоли администрирования партнера.</span><span class="sxs-lookup"><span data-stu-id="b6d76-152">This field maps to the Subscription ID in the Partner Admin Console.</span></span></p></td>
+<td><span data-ttu-id="b6d76-153">fb977ab5-test-test-test-24c8d9591708</span><span class="sxs-lookup"><span data-stu-id="b6d76-153">fb977ab5-test-test-test-24c8d9591708</span></span></td>
 </tr>
 <tr class="odd">
-<td>OfferID</td>
-<td><p>Уникальный идентификатор предложения. Идентификатор стандартного предложения в прейскуранте.</p></td>
-<td>306855</td>
+<td><span data-ttu-id="b6d76-154">OfferID</span><span class="sxs-lookup"><span data-stu-id="b6d76-154">OfferID</span></span></td>
+<td><p><span data-ttu-id="b6d76-155">Уникальный идентификатор предложения.</span><span class="sxs-lookup"><span data-stu-id="b6d76-155">Unique offer ID.</span></span> <span data-ttu-id="b6d76-156">Идентификатор стандартного предложения в прейскуранте.</span><span class="sxs-lookup"><span data-stu-id="b6d76-156">Standard offer ID as per price list.</span></span></p>
+<p><span data-ttu-id="b6d76-157"><b>Примечание</b>: это значение не соответствует идентификатору предложения из прейскуранта.</span><span class="sxs-lookup"><span data-stu-id="b6d76-157"><b>Note</b>: This value does not match Offer ID from the price list.</span></span> <span data-ttu-id="b6d76-158">См. пункт «DurableOfferID» ниже.</span><span class="sxs-lookup"><span data-stu-id="b6d76-158">See DurableOfferID below.</span></span></p></td>
+<td><span data-ttu-id="b6d76-159">FE616D64-E9A8-40EF-843F-152E9BBEF3D1</span><span class="sxs-lookup"><span data-stu-id="b6d76-159">FE616D64-E9A8-40EF-843F-152E9BBEF3D1</span></span></td>
 </tr>
 <tr class="even">
-<td>DurableOfferID</td>
-<td><p>Уникальный идентификатор длительного предложения как указано в прейскуранте.</p></td>
-<td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
+<td><span data-ttu-id="b6d76-160">DurableOfferID</span><span class="sxs-lookup"><span data-stu-id="b6d76-160">DurableOfferID</span></span></td>
+<td><p><span data-ttu-id="b6d76-161">Уникальный идентификатор длительного предложения, как указано в прейскуранте.</span><span class="sxs-lookup"><span data-stu-id="b6d76-161">Unique durable offer ID, as defined in the price list.</span></span></p>
+<p><span data-ttu-id="b6d76-162"><b>Примечание</b>. Это значение соответствует идентификатору предложения из прейскуранта.</span><span class="sxs-lookup"><span data-stu-id="b6d76-162"><b>Note</b>: This value matches the Offer ID from the price list.</span></span></p></td>
+<td><span data-ttu-id="b6d76-163">1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</span><span class="sxs-lookup"><span data-stu-id="b6d76-163">1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</span></span></td>
 </tr>
 <tr class="odd">
-<td>OfferName</td>
-<td><p>Имя предложения службы, приобретенной клиентом, как указано в прейскуранте.</p></td>
-<td>Microsoft Office 365 (план E3)</td>
+<td><span data-ttu-id="b6d76-164">OfferName</span><span class="sxs-lookup"><span data-stu-id="b6d76-164">OfferName</span></span></td>
+<td><p><span data-ttu-id="b6d76-165">Имя предложения службы, приобретенной клиентом, как указано в прейскуранте.</span><span class="sxs-lookup"><span data-stu-id="b6d76-165">The name of the service offering purchased by the customer, as defined in the price list.</span></span></p></td>
+<td><span data-ttu-id="b6d76-166">Microsoft Office 365 (план E3)</span><span class="sxs-lookup"><span data-stu-id="b6d76-166">Microsoft Office 365 (Plan E3)</span></span></td>
 </tr>
 <tr class="even">
-<td>SubscriptionStartDate</td>
-<td><p>Дата начала подписки — это день после отправки заказа. Сопоставив даты начала и завершения подписки, вы можете определить, находится ли клиент на первом году подписки, или подписка возобновлена на следующий год.</p>
-<p>Временем всегда является начало дня, 0:00.</p></td>
-<td>01.02.2015 0:00</td>
+<td><span data-ttu-id="b6d76-167">SubscriptionStartDate</span><span class="sxs-lookup"><span data-stu-id="b6d76-167">SubscriptionStartDate</span></span></td>
+<td><p><span data-ttu-id="b6d76-168">Дата начала подписки — это день после отправки заказа.</span><span class="sxs-lookup"><span data-stu-id="b6d76-168">The subscription start date, set to the day after the order is submitted.</span></span> <span data-ttu-id="b6d76-169">Сопоставив даты начала и завершения подписки, вы можете определить, находится ли клиент на первом году подписки, или подписка возобновлена на следующий год.</span><span class="sxs-lookup"><span data-stu-id="b6d76-169">By looking at the subscription start date in conjunction with the end date, you can determine if the customer is still within the first year of the subscription or if the subscription has been renewed for the following year.</span></span></p>
+<p><span data-ttu-id="b6d76-170">Временем всегда является начало дня, 0:00.</span><span class="sxs-lookup"><span data-stu-id="b6d76-170">The time is always the beginning of the day, 0:00.</span></span></p></td>
+<td><span data-ttu-id="b6d76-171">01.02.2015 0:00</span><span class="sxs-lookup"><span data-stu-id="b6d76-171">2/1/2015 0:00</span></span></td>
 </tr>
 <tr class="odd">
-<td>SubscriptionEndDate</td>
-<td><p>Дата завершения подписки — 12 месяцев + x дней после даты начала (чтобы совместить с датой выставления счетов партнера) или 12 месяцев от даты возобновления действия.</p>
-<p>При возобновлении цены обновляются в соответствии с текущим прайс-листом. При автоматическом возобновлении, возможно, необходимо будет заранее связаться с клиентом.</p>
-<p>Временем всегда является начало дня, 0:00.</p></td>
-<td>01.02.2015 0:00</td>
+<td><span data-ttu-id="b6d76-172">SubscriptionEndDate</span><span class="sxs-lookup"><span data-stu-id="b6d76-172">SubscriptionEndDate</span></span></td>
+<td><p><span data-ttu-id="b6d76-173">Дата завершения подписки — 12 месяцев + x дней после даты начала (чтобы совместить с датой выставления счетов партнера) или 12 месяцев от даты возобновления действия.</span><span class="sxs-lookup"><span data-stu-id="b6d76-173">The subscription end date: 12 months + x days after start date (to align with partner billing date) or 12 months from renewal date.</span></span></p>
+<p><span data-ttu-id="b6d76-174">При возобновлении цены обновляются в соответствии с текущим прайс-листом.</span><span class="sxs-lookup"><span data-stu-id="b6d76-174">At renewal, prices are updated to the current price list.</span></span> <span data-ttu-id="b6d76-175">При автоматическом возобновлении, возможно, необходимо будет заранее связаться с клиентом.</span><span class="sxs-lookup"><span data-stu-id="b6d76-175">Customer communication may be required in advance of automated renewal.</span></span></p>
+<p><span data-ttu-id="b6d76-176">Временем всегда является начало дня, 0:00.</span><span class="sxs-lookup"><span data-stu-id="b6d76-176">The time is always the beginning of the day, 0:00.</span></span></p></td>
+<td><span data-ttu-id="b6d76-177">01.02.2015 0:00</span><span class="sxs-lookup"><span data-stu-id="b6d76-177">2/1/2015 0:00</span></span></td>
 </tr>
 <tr class="even">
-<td>ChargeStartDate</td>
-<td><p>Дата начала взимания оплаты.</p>
-<p>Если пользователь изменяет количество мест, это количество используется для расчета ежедневной (пропорциональный расчет) оплаты.</p>
-<p>Временем всегда является начало дня, 0:00.</p></td>
-<td>01.02.2015 0:00</td>
+<td><span data-ttu-id="b6d76-178">ChargeStartDate</span><span class="sxs-lookup"><span data-stu-id="b6d76-178">ChargeStartDate</span></span></td>
+<td><p><span data-ttu-id="b6d76-179">Дата начала взимания оплаты.</span><span class="sxs-lookup"><span data-stu-id="b6d76-179">Start day of the charges.</span></span></p>
+<p><span data-ttu-id="b6d76-180">Если пользователь изменяет количество мест, это количество используется для расчета ежедневной (пропорциональный расчет) оплаты.</span><span class="sxs-lookup"><span data-stu-id="b6d76-180">When a customer changes seat numbers, this number is used to calculate per-day (pro-rata) charges.</span></span></p>
+<p><span data-ttu-id="b6d76-181">Временем всегда является начало дня, 0:00.</span><span class="sxs-lookup"><span data-stu-id="b6d76-181">The time is always the beginning of the day, 0:00.</span></span></p></td>
+<td><span data-ttu-id="b6d76-182">01.02.2015 0:00</span><span class="sxs-lookup"><span data-stu-id="b6d76-182">2/1/2015 0:00</span></span></td>
 </tr>
 <tr class="odd">
-<td>ChargeEndDate</td>
-<td><p>День завершения взимания оплаты.</p>
-<p>Если пользователь изменяет количество мест, это количество используется для расчета ежедневной (пропорциональный расчет) оплаты.</p>
-<p>Временем всегда является конец дня, 23:59.</p></td>
-<td>28.02.2015 23:59</td>
+<td><span data-ttu-id="b6d76-183">ChargeEndDate</span><span class="sxs-lookup"><span data-stu-id="b6d76-183">ChargeEndDate</span></span></td>
+<td><p><span data-ttu-id="b6d76-184">День завершения взимания оплаты.</span><span class="sxs-lookup"><span data-stu-id="b6d76-184">End day of the charges.</span></span></p>
+<p><span data-ttu-id="b6d76-185">Если пользователь изменяет количество мест, это количество используется для расчета ежедневной (пропорциональный расчет) оплаты.</span><span class="sxs-lookup"><span data-stu-id="b6d76-185">When a customer changes seat numbers, this number is used to calculate per-day (pro-rata) charges.</span></span></p>
+<p><span data-ttu-id="b6d76-186">Временем всегда является конец дня, 23:59.</span><span class="sxs-lookup"><span data-stu-id="b6d76-186">The time is always the end of the day, 23:59.</span></span></p></td>
+<td><span data-ttu-id="b6d76-187">28.02.2015 23:59</span><span class="sxs-lookup"><span data-stu-id="b6d76-187">2/28/2015 23:59</span></span></td>
 </tr>
 <tr class="even">
-<td>ChargeType</td>
-<td><p>Тип взноса или корректировка.</p>
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
+<td><span data-ttu-id="b6d76-188">ChargeType</span><span class="sxs-lookup"><span data-stu-id="b6d76-188">ChargeType</span></span></td>
+<td><p><span data-ttu-id="b6d76-189">Тип взноса или корректировка.</span><span class="sxs-lookup"><span data-stu-id="b6d76-189">The type of charge or adjustment.</span></span> <span data-ttu-id="b6d76-190">См. раздел <a href="#charge_types">Сопоставление расходов в счете-фактуре и файле выверки</a></span><span class="sxs-lookup"><span data-stu-id="b6d76-190">See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></span></span></p></td>
+<td><p><span data-ttu-id="b6d76-191">См. раздел <a href="#charge_types">Сопоставление расходов в счете-фактуре и файле выверки</a></span><span class="sxs-lookup"><span data-stu-id="b6d76-191">See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></span></span></p></td>
+</tr>
 <tr class="odd">
-<td>Charges:</td>
-<td><ul>
-<li>PURCHASE_FEE — первоначальный взнос за подписку</li>
-<li>CYCLE_FEE — периодические взносы за подписку</li>
-</ul></td>
+<td><span data-ttu-id="b6d76-192">UnitPrice</span><span class="sxs-lookup"><span data-stu-id="b6d76-192">UnitPrice</span></span></td>
+<td><p><span data-ttu-id="b6d76-193">Цена за место.</span><span class="sxs-lookup"><span data-stu-id="b6d76-193">Price per seat.</span></span> <span data-ttu-id="b6d76-194">Убедитесь, что она соответствует информации, хранящейся в вашей биллинговой системе во время выверки.</span><span class="sxs-lookup"><span data-stu-id="b6d76-194">Ensure this matches the information stored in your billing system during reconciliation.</span></span></p></td>
+<td><span data-ttu-id="b6d76-195">6,82</span><span class="sxs-lookup"><span data-stu-id="b6d76-195">6.82</span></span></td>
 </tr>
 <tr class="even">
-<td>ConvertResources</td>
-<td><ul>
-<li>CANCEL_USAGEFEE — сбор за использование Access после отмены за неоплаченное использование за текущий период выставления счетов</li>
-<li>CYCLE_USAGEFEE — сбору за использование Access за текущий период выставления счетов</li>
-</ul></td>
+<td><span data-ttu-id="b6d76-196">Quantity</span><span class="sxs-lookup"><span data-stu-id="b6d76-196">Quantity</span></span></td>
+<td><p><span data-ttu-id="b6d76-197">Количество мест.</span><span class="sxs-lookup"><span data-stu-id="b6d76-197">Number of seats.</span></span> <span data-ttu-id="b6d76-198">Убедитесь, что оно соответствует информации, хранящейся в вашей биллинговой системе во время выверки.</span><span class="sxs-lookup"><span data-stu-id="b6d76-198">Ensure this matches the information stored in your billing system during reconciliation.</span></span></p></td>
+<td><span data-ttu-id="b6d76-199">2</span><span class="sxs-lookup"><span data-stu-id="b6d76-199">2</span></span></td>
 </tr>
 <tr class="odd">
-<td>Prorations:</td>
-<td><ul>
-<li>PURCHASE_PRORATE — пропорциональные сборы после покупки</li>
-<li>CANCEL_PRORATE — пропорциональный возврат денег за неиспользованную часть услуги после отмены</li>
-<li>ACTIVATION_PRORATE — пропорциональные сборы с момента активации до конца периода выставления счетов</li>
-<li>RENEW_PRORATE — пропорциональные сборы после возобновления действия подписки</li>
-</ul></td>
+<td><span data-ttu-id="b6d76-200">Amount</span><span class="sxs-lookup"><span data-stu-id="b6d76-200">Amount</span></span></td>
+<td><p><span data-ttu-id="b6d76-201">Общая цена за количество.</span><span class="sxs-lookup"><span data-stu-id="b6d76-201">Total of price for quantity.</span></span> <span data-ttu-id="b6d76-202">Позволяет убедиться, что сумма расчета соответствует способу вычисления для клиентов.</span><span class="sxs-lookup"><span data-stu-id="b6d76-202">Useful to check that the amount calculation matches how you calculate this for your customers.</span></span></p></td>
+<td><span data-ttu-id="b6d76-203">13,32</span><span class="sxs-lookup"><span data-stu-id="b6d76-203">13.32</span></span></td>
 </tr>
 <tr class="even">
-<td>InstanceProrates:</td>
-<td><ul>
-<li>CANCEL_INSTANCEPRORATE: пропорциональные взносы, возвращаемые клиенту при изменении связанных мест</li>
-<li>CYCLE_INSTANCEPRORATE: пропорциональные взносы, начисленные от клиента при изменении связанных мест</li>
-</ul></td>
+<td><span data-ttu-id="b6d76-204">TotalOtherDiscount</span><span class="sxs-lookup"><span data-stu-id="b6d76-204">TotalOtherDiscount</span></span></td>
+<td><p><span data-ttu-id="b6d76-205">Сумма скидки, примененная к этой оплате.</span><span class="sxs-lookup"><span data-stu-id="b6d76-205">Amount of discount applied to these charges.</span></span> <span data-ttu-id="b6d76-206">IUR или новые подписки, на которые распространяются вознаграждения, будут также содержать сумму скидки в этом столбце.</span><span class="sxs-lookup"><span data-stu-id="b6d76-206">IUR or new subscriptions eligible for an incentive will also contain a discount amount in this column.</span></span></p></td>
+<td><span data-ttu-id="b6d76-207">2,32</span><span class="sxs-lookup"><span data-stu-id="b6d76-207">2.32</span></span></td>
 </tr>
 <tr class="odd">
-<td>Кредиты:</td>
-<td><ul>
-<li>CREDIT: кредит, примененный к платежному средству</li>
-</ul></td>
+<td><span data-ttu-id="b6d76-208">Subtotal</span><span class="sxs-lookup"><span data-stu-id="b6d76-208">Subtotal</span></span></td>
+<td><p><span data-ttu-id="b6d76-209">Сумма до налога.</span><span class="sxs-lookup"><span data-stu-id="b6d76-209">Total before tax.</span></span> <span data-ttu-id="b6d76-210">Указывает, что ваш промежуточный итог соответствует ожидаемой вами сумме в случае скидки.</span><span class="sxs-lookup"><span data-stu-id="b6d76-210">Checks that your subtotal matches your expected total, in case of a discount.</span></span></p></td>
+<td><span data-ttu-id="b6d76-211">11</span><span class="sxs-lookup"><span data-stu-id="b6d76-211">11</span></span></td>
 </tr>
 <tr class="even">
-<td>Offsets:</td>
-<td><ul>
-<li>OFFSET_LINEITEM: частичный или полный возврат денег по позиции строки</li>
-<li>ONE_TIME_REFUND: однократный возврат денег, обработанный для клиента</li>
-<li>TAX_REFUND: возврат денег, требующий проверки сертификата освобождения от налогов</li>
-</ul></td>
+<td><span data-ttu-id="b6d76-212">Tax</span><span class="sxs-lookup"><span data-stu-id="b6d76-212">Tax</span></span></td>
+<td><p><span data-ttu-id="b6d76-213">Сумма налоговых сборов на основании правил налогообложения вашего рынка и конкретных обстоятельств.</span><span class="sxs-lookup"><span data-stu-id="b6d76-213">Tax amount charge, based on your market's tax rules and specific circumstances.</span></span></p></td>
+<td><span data-ttu-id="b6d76-214">0</span><span class="sxs-lookup"><span data-stu-id="b6d76-214">0</span></span></td>
 </tr>
 <tr class="odd">
-<td>Discounts:</td>
-<td><ul>
-<li>ACTIVATION_DISCOUNT: скидка при активации подписки</li>
-<li>CYCLE_DISCOUNT: скидка на периодические взносы</li>
-<li>RENEW_DISCOUNT: скидка при возобновлении действия подписки</li>
-<li>CANCEL_DISCOUNT: взносы при отмене скидок</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-<p> </p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>UnitPrice</td>
-<td><p>Цена за место. Убедитесь, что она соответствует информации, хранящейся в вашей биллинговой системе во время выверки.</p></td>
-<td>6,82</td>
+<td><span data-ttu-id="b6d76-215">TotalForCustomer</span><span class="sxs-lookup"><span data-stu-id="b6d76-215">TotalForCustomer</span></span></td>
+<td><p><span data-ttu-id="b6d76-216">Цена после налогов.</span><span class="sxs-lookup"><span data-stu-id="b6d76-216">Total after tax.</span></span> <span data-ttu-id="b6d76-217">Проверьте, вычтены ли с вас налоги в накладной.</span><span class="sxs-lookup"><span data-stu-id="b6d76-217">Checks if you are charged tax in the invoice.</span></span></p></td>
+<td><span data-ttu-id="b6d76-218">11</span><span class="sxs-lookup"><span data-stu-id="b6d76-218">11</span></span></td>
 </tr>
 <tr class="even">
-<td>Quantity</td>
-<td><p>Количество мест. Убедитесь, что оно соответствует информации, хранящейся в вашей биллинговой системе во время выверки.</p></td>
-<td>2</td>
+<td><span data-ttu-id="b6d76-219">Currency</span><span class="sxs-lookup"><span data-stu-id="b6d76-219">Currency</span></span></td>
+<td><p><span data-ttu-id="b6d76-220">Тип валюты.</span><span class="sxs-lookup"><span data-stu-id="b6d76-220">Currency type.</span></span> <span data-ttu-id="b6d76-221">Каждый объект выставления счетов имеет только одну валюту.</span><span class="sxs-lookup"><span data-stu-id="b6d76-221">Each billing entity has only one currency.</span></span> <span data-ttu-id="b6d76-222">Проверьте, соответствует ли тип валюты вашей первой накладной и каждой накладной после каждого крупного обновления платформы выставления счетов.</span><span class="sxs-lookup"><span data-stu-id="b6d76-222">Check that it matches your first invoice and then after any major billing platform update.</span></span></p></td>
+<td><span data-ttu-id="b6d76-223">EUR</span><span class="sxs-lookup"><span data-stu-id="b6d76-223">EUR</span></span></td>
 </tr>
 <tr class="odd">
-<td>Amount</td>
-<td><p>Общая цена за количество. Позволяет убедиться, что сумма расчета соответствует способу вычисления для клиентов.</p></td>
-<td>13,32</td>
+<td><span data-ttu-id="b6d76-224">CustomerName</span><span class="sxs-lookup"><span data-stu-id="b6d76-224">CustomerName</span></span></td>
+<td><p><span data-ttu-id="b6d76-225">Имя организации клиента, указанное в Центре партнеров.</span><span class="sxs-lookup"><span data-stu-id="b6d76-225">Customer's organization name as reported in Partner Center.</span></span> <span data-ttu-id="b6d76-226">Это очень важно для выверки накладной с данными вашей системы.</span><span class="sxs-lookup"><span data-stu-id="b6d76-226">This is very important for reconciling the invoice with your system information.</span></span></p></td>
+<td><span data-ttu-id="b6d76-227">Тестовый клиент A</span><span class="sxs-lookup"><span data-stu-id="b6d76-227">Test Customer A</span></span></td>
 </tr>
 <tr class="even">
-<td>TotalOtherDiscount</td>
-<td><p>Сумма скидки, примененная к этой оплате. IUR или новые подписки, на которые распространяются вознаграждения, будут также содержать сумму скидки в этом столбце.</p></td>
-<td>2,32</td>
+<td><span data-ttu-id="b6d76-228">MPNID</span><span class="sxs-lookup"><span data-stu-id="b6d76-228">MPNID</span></span></td>
+<td><p><span data-ttu-id="b6d76-229">Идентификатор MPN партнера CSP</span><span class="sxs-lookup"><span data-stu-id="b6d76-229">MPN ID of the CSP partner</span></span></p></td>
+<td><span data-ttu-id="b6d76-230">4390934</span><span class="sxs-lookup"><span data-stu-id="b6d76-230">4390934</span></span></td>
 </tr>
 <tr class="odd">
-<td>Subtotal</td>
-<td><p>Сумма до налога. Указывает, что ваш промежуточный итог соответствует ожидаемой вами сумме в случае скидки.</p></td>
-<td>11</td>
+<td><span data-ttu-id="b6d76-231">ResellerMPNID</span><span class="sxs-lookup"><span data-stu-id="b6d76-231">ResellerMPNID</span></span></td>
+<td><p><span data-ttu-id="b6d76-232">Идентификатор MPN зарегистрированного торгового посредника для подписки.</span><span class="sxs-lookup"><span data-stu-id="b6d76-232">MPN ID of the reseller of record for the subscription.</span></span> <span data-ttu-id="b6d76-233">См. раздел [Детализация по партнерам](#itemizebypartner).</span><span class="sxs-lookup"><span data-stu-id="b6d76-233">See [Itemize by partner](#itemizebypartner).</span></span></p></td>
+<td><span data-ttu-id="b6d76-234">4390934</span><span class="sxs-lookup"><span data-stu-id="b6d76-234">4390934</span></span></td>
 </tr>
 <tr class="even">
-<td>Tax</td>
-<td><p>Сумма налоговых сборов на основании правил налогообложения вашего рынка и конкретных обстоятельств.</p></td>
-<td>0</td>
+<td><span data-ttu-id="b6d76-235">DomainName</span><span class="sxs-lookup"><span data-stu-id="b6d76-235">DomainName</span></span></td>
+<td><p><span data-ttu-id="b6d76-236">Доменное имя клиента, используемое для идентификации клиента.</span><span class="sxs-lookup"><span data-stu-id="b6d76-236">Customer's domain name, used to help identify the customer.</span></span></p></td>
+<td><span data-ttu-id="b6d76-237">example.onmicrosoft.com</span><span class="sxs-lookup"><span data-stu-id="b6d76-237">example.onmicrosoft.com</span></span></td>
 </tr>
 <tr class="odd">
-<td>TotalForCustomer</td>
-<td><p>Цена после налогов. Проверьте, вычтены ли с вас налоги в накладной.</p></td>
-<td>11</td>
+<td><span data-ttu-id="b6d76-238">SubscriptionName</span><span class="sxs-lookup"><span data-stu-id="b6d76-238">SubscriptionName</span></span></td>
+<td><p><span data-ttu-id="b6d76-239">Псевдоним подписки.</span><span class="sxs-lookup"><span data-stu-id="b6d76-239">Subscription nickname.</span></span> <span data-ttu-id="b6d76-240">Если псевдоним не указан, Центр партнеров использует значение OfferName.</span><span class="sxs-lookup"><span data-stu-id="b6d76-240">If no nickname is specified, Partner Center uses the OfferName.</span></span></p></td>
+<td><span data-ttu-id="b6d76-241">PROJECT ONLINE</span><span class="sxs-lookup"><span data-stu-id="b6d76-241">PROJECT ONLINE</span></span></td>
 </tr>
 <tr class="even">
-<td>Currency</td>
-<td><p>Тип валюты. Каждый объект выставления счетов имеет только одну валюту. Проверьте, соответствует ли тип валюты вашей первой накладной и каждой накладной после каждого крупного обновления платформы выставления счетов.</p></td>
-<td>EUR</td>
-</tr>
-<tr class="odd">
-<td>CustomerName</td>
-<td><p>Имя организации клиента, указанное в Центре партнеров. Это очень важно для выверки накладной с данными вашей системы.</p></td>
-<td>Тестовый клиент A</td>
-</tr>
-<tr class="even">
-<td>MPNID</td>
-<td><p>Идентификатор MPN партнера CSP</p></td>
-<td>4390934</td>
-</tr>
-<tr class="odd">
-<td>ResellerMPNID</td>
-<td><p>Идентификатор MPN зарегистрированного торгового посредника для подписки. См. раздел [Детализация по партнерам](#itemizebypartner).</p></td>
-<td>4390934</td>
+<td><span data-ttu-id="b6d76-242">SubscriptionDescription</span><span class="sxs-lookup"><span data-stu-id="b6d76-242">SubscriptionDescription</span></span></td>
+<td><p><span data-ttu-id="b6d76-243">Имя предложения службы, приобретенной клиентом, как указано в прейскуранте.</span><span class="sxs-lookup"><span data-stu-id="b6d76-243">The name of the service offering purchased by the customer, as defined in the price list.</span></span> <span data-ttu-id="b6d76-244">(Данное поле идентично полю «Название предложения»).</span><span class="sxs-lookup"><span data-stu-id="b6d76-244">(This is an identical field to Offer name).</span></span></p></td>
+<td><span data-ttu-id="b6d76-245">PROJECT ONLINE РАСШИРЕННЫЙ БЕЗ КЛИЕНТА PROJECT</span><span class="sxs-lookup"><span data-stu-id="b6d76-245">PROJECT ONLINE PREMIUM WITHOUT PROJECT CLIENT</span></span></td>
 </tr>
 </tbody>
 </table>
 
- 
 
-## <a href="" id="usagebasedfiles"></a>Поля файла с учетом использования
+## <span data-ttu-id="b6d76-246"><a href="" id="usagebasedfiles"></a>Поля файла с учетом использования</span><span class="sxs-lookup"><span data-stu-id="b6d76-246"><a href="" id="usagebasedfiles"></a>Usage-based file fields</span></span>
 
 
-Чтобы выверить ваши взносы с использованием ваших клиентов, сравните поля ResellerID/ResellerName/ResellerBillableAccount из файла выверки, имя клиента и идентификатор подписки из Центра партнеров.
+<span data-ttu-id="b6d76-247">Чтобы выверить ваши взносы с использованием ваших клиентов, сравните поля ResellerID/ResellerName/ResellerBillableAccount из файла выверки, имя клиента и идентификатор подписки из Центра партнеров.</span><span class="sxs-lookup"><span data-stu-id="b6d76-247">To reconcile your charges against your customer's usage, compare the ResellerID/ResellerName/ResellerBillableAccount from the reconciliation file, the customer name, and the Subscription ID from Partner Center.</span></span>
 
-В следующих полях объясняется, какие услуги были использованы и по какому тарифу.
+<span data-ttu-id="b6d76-248">В следующих полях объясняется, какие услуги были использованы и по какому тарифу.</span><span class="sxs-lookup"><span data-stu-id="b6d76-248">The following fields explain which services were used and the rate.</span></span>
 
 <table>
 <colgroup>
@@ -288,225 +236,440 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Столбец</strong></td>
-<td><strong>Описание</strong></td>
-<td><strong>Пример значения</strong></td>
+<td><strong><span data-ttu-id="b6d76-249">Столбец</span><span class="sxs-lookup"><span data-stu-id="b6d76-249">Column</span></span></strong></td>
+<td><strong><span data-ttu-id="b6d76-250">Описание</span><span class="sxs-lookup"><span data-stu-id="b6d76-250">Description</span></span></strong></td>
+<td><strong><span data-ttu-id="b6d76-251">Пример значения</span><span class="sxs-lookup"><span data-stu-id="b6d76-251">Sample value</span></span></strong></td>
 </tr>
 <tr class="even">
-<td>PartnerID</td>
-<td><p>Идентификатор партнера в формате GUID.</p></td>
-<td>DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</td>
+<td><span data-ttu-id="b6d76-252">PartnerID</span><span class="sxs-lookup"><span data-stu-id="b6d76-252">PartnerID</span></span></td>
+<td><p><span data-ttu-id="b6d76-253">Идентификатор партнера в формате GUID.</span><span class="sxs-lookup"><span data-stu-id="b6d76-253">Partner ID, in GUID format.</span></span></p></td>
+<td><span data-ttu-id="b6d76-254">DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</span><span class="sxs-lookup"><span data-stu-id="b6d76-254">DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</span></span></td>
 </tr>
 <tr class="odd">
-<td>PartnerName</td>
-<td><p>Имя партнера.</p></td>
-<td>Acme Incorporated</td>
+<td><span data-ttu-id="b6d76-255">PartnerName</span><span class="sxs-lookup"><span data-stu-id="b6d76-255">PartnerName</span></span></td>
+<td><p><span data-ttu-id="b6d76-256">Имя партнера.</span><span class="sxs-lookup"><span data-stu-id="b6d76-256">Partner Name.</span></span></p></td>
+<td><span data-ttu-id="b6d76-257">Acme Incorporated</span><span class="sxs-lookup"><span data-stu-id="b6d76-257">Acme Incorporated</span></span></td>
 </tr>
 <tr class="even">
-<td>PartnerBillableAccountID</td>
-<td><p>Идентификатор учетной записи партнера.</p></td>
-<td>1010578050</td>
+<td><span data-ttu-id="b6d76-258">PartnerBillableAccountID</span><span class="sxs-lookup"><span data-stu-id="b6d76-258">PartnerBillableAccountID</span></span></td>
+<td><p><span data-ttu-id="b6d76-259">Идентификатор учетной записи партнера.</span><span class="sxs-lookup"><span data-stu-id="b6d76-259">Partner Account ID.</span></span></p></td>
+<td><span data-ttu-id="b6d76-260">1010578050</span><span class="sxs-lookup"><span data-stu-id="b6d76-260">1010578050</span></span></td>
 </tr>
 <tr class="odd">
-<td>CustomerName</td>
-<td><p>Имя организации клиента, указанное в Центре партнеров. Это очень важно для выверки накладной с данными вашей системы.</p></td>
-<td>Тестовый клиент A</td>
+<td><span data-ttu-id="b6d76-261">CustomerName</span><span class="sxs-lookup"><span data-stu-id="b6d76-261">CustomerName</span></span></td>
+<td><p><span data-ttu-id="b6d76-262">Имя организации клиента, указанное в Центре партнеров.</span><span class="sxs-lookup"><span data-stu-id="b6d76-262">Customer's organization name as reported in Partner Center.</span></span> <span data-ttu-id="b6d76-263">Это очень важно для выверки накладной с данными вашей системы.</span><span class="sxs-lookup"><span data-stu-id="b6d76-263">This is very important for reconciling the invoice with your system information.</span></span></p></td>
+<td><span data-ttu-id="b6d76-264">Тестовый клиент A</span><span class="sxs-lookup"><span data-stu-id="b6d76-264">Test Customer A</span></span></td>
 </tr>
 <tr class="even">
-<td>MPNID</td>
-<td><p>Идентификатор MPN партнера CSP</p></td>
-<td>4390934</td>
+<td><span data-ttu-id="b6d76-265">MPNID</span><span class="sxs-lookup"><span data-stu-id="b6d76-265">MPNID</span></span></td>
+<td><p><span data-ttu-id="b6d76-266">Идентификатор MPN партнера CSP</span><span class="sxs-lookup"><span data-stu-id="b6d76-266">MPN ID of the CSP partner.</span></span></p></td>
+<td><span data-ttu-id="b6d76-267">4390934</span><span class="sxs-lookup"><span data-stu-id="b6d76-267">4390934</span></span></td>
 </tr>
 <tr class="odd">
-<td>ResellerMPNID</td>
-<td><p>Идентификатор MPN зарегистрированного торгового посредника для подписки. См. раздел [Детализация по партнерам](#itemizebypartner).</p></td>
-<td>4390934</td>
+<td><span data-ttu-id="b6d76-268">ResellerMPNID</span><span class="sxs-lookup"><span data-stu-id="b6d76-268">ResellerMPNID</span></span></td>
+<td><p><span data-ttu-id="b6d76-269">Идентификатор MPN зарегистрированного торгового посредника для подписки.</span><span class="sxs-lookup"><span data-stu-id="b6d76-269">MPN ID of the reseller of record for the subscription.</span></span> <span data-ttu-id="b6d76-270">См. раздел [Детализация по партнерам](#itemizebypartner).</span><span class="sxs-lookup"><span data-stu-id="b6d76-270">See [Itemize by partner](#itemizebypartner).</span></span></p></td>
+<td><span data-ttu-id="b6d76-271">4390934</span><span class="sxs-lookup"><span data-stu-id="b6d76-271">4390934</span></span></td>
 </tr>
 <tr class="even">
-<td>InvoiceNumber</td>
-<td><p>Номер накладной, содержащей указанную транзакцию.</p></td>
-<td>D020001IVK</td>
+<td><span data-ttu-id="b6d76-272">InvoiceNumber</span><span class="sxs-lookup"><span data-stu-id="b6d76-272">InvoiceNumber</span></span></td>
+<td><p><span data-ttu-id="b6d76-273">Номер накладной, содержащей указанную транзакцию.</span><span class="sxs-lookup"><span data-stu-id="b6d76-273">Invoice number where the specified transaction appears.</span></span></p></td>
+<td><span data-ttu-id="b6d76-274">D020001IVK</span><span class="sxs-lookup"><span data-stu-id="b6d76-274">D020001IVK</span></span></td>
 </tr>
 <tr class="odd">
-<td>ChargeStartDate</td>
-<td><p>Дата начала цикла выставления счетов за исключением представления дат ранее не оплаченных данных скрытого использования (из предыдущего цикла выставления счетов).</p>
-<p>Временем всегда является начало дня, 0:00.</p></td>
-<td>01.02.2014 0:00</td>
+<td><span data-ttu-id="b6d76-275">ChargeStartDate</span><span class="sxs-lookup"><span data-stu-id="b6d76-275">ChargeStartDate</span></span></td>
+<td><p><span data-ttu-id="b6d76-276">Дата начала цикла выставления счетов за исключением представления дат ранее не оплаченных данных скрытого использования (из предыдущего цикла выставления счетов).</span><span class="sxs-lookup"><span data-stu-id="b6d76-276">Start date of billing cycle except when presenting dates of previously uncharged latent usage data (from previous bill cycle).</span></span></p>
+<p><span data-ttu-id="b6d76-277">Временем всегда является начало дня, 0:00.</span><span class="sxs-lookup"><span data-stu-id="b6d76-277">The time is always the beginning of the day, 0:00.</span></span></p></td>
+<td><span data-ttu-id="b6d76-278">01.02.2014 0:00</span><span class="sxs-lookup"><span data-stu-id="b6d76-278">2/1/2014 0:00</span></span></td>
 </tr>
 <tr class="even">
-<td>ChargeEndDate</td>
-<td><p>Дата окончания цикла выставления счетов за исключением представления дат ранее не оплаченных данных скрытого использования (из предыдущего цикла выставления счетов).</p>
-<p>Временем всегда является конец дня, 23:59.</p></td>
-<td>28.02.2014 23:59</td>
+<td><span data-ttu-id="b6d76-279">ChargeEndDate</span><span class="sxs-lookup"><span data-stu-id="b6d76-279">ChargeEndDate</span></span></td>
+<td><p><span data-ttu-id="b6d76-280">Дата окончания цикла выставления счетов за исключением представления дат ранее не оплаченных данных скрытого использования (из предыдущего цикла выставления счетов).</span><span class="sxs-lookup"><span data-stu-id="b6d76-280">End date of billing cycle except when presenting dates of previously uncharged latent usage data (from previous bill cycle).</span></span></p>
+<p><span data-ttu-id="b6d76-281">Временем всегда является конец дня, 23:59.</span><span class="sxs-lookup"><span data-stu-id="b6d76-281">The time is always the end of the day, 23:59.</span></span></p></td>
+<td><span data-ttu-id="b6d76-282">28.02.2014 23:59</span><span class="sxs-lookup"><span data-stu-id="b6d76-282">2/28/2014 23:59</span></span></td>
 </tr>
 <tr class="odd">
-<td>SubscriptionID</td>
-<td><p>Уникальный идентификатор подписки в платформе выставления счетов Майкрософт. Может быть полезным для определения подписки при обращении в службу поддержки, но не для выверки.</p>
-<p>Не совпадает с идентификатором подписки на консоли администрирования партнера.</p></td>
-<td>usCBMgAAAAAAAAIA</td>
+<td><span data-ttu-id="b6d76-283">SubscriptionID</span><span class="sxs-lookup"><span data-stu-id="b6d76-283">SubscriptionID</span></span></td>
+<td><p><span data-ttu-id="b6d76-284">Уникальный идентификатор подписки в платформе выставления счетов Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="b6d76-284">Unique identifier for a subscription in the Microsoft billing platform.</span></span> <span data-ttu-id="b6d76-285">Может быть полезным для определения подписки при обращении в службу поддержки, но не для выверки.</span><span class="sxs-lookup"><span data-stu-id="b6d76-285">May be useful to identify the subscription when contacting support but not for reconciliation.</span></span></p>
+<p><span data-ttu-id="b6d76-286">Не совпадает с идентификатором подписки на консоли администрирования партнера.</span><span class="sxs-lookup"><span data-stu-id="b6d76-286">This is not the same as the Subscription ID on the Partner Admin Console.</span></span></p></td>
+<td><span data-ttu-id="b6d76-287">usCBMgAAAAAAAAIA</span><span class="sxs-lookup"><span data-stu-id="b6d76-287">usCBMgAAAAAAAAIA</span></span></td>
 </tr>
 <tr class="even">
-<td>SubscriptionName</td>
-<td><p>Имя предложения службы</p></td>
-<td>Microsoft Azure</td>
+<td><span data-ttu-id="b6d76-288">SubscriptionName</span><span class="sxs-lookup"><span data-stu-id="b6d76-288">SubscriptionName</span></span></td>
+<td><p><span data-ttu-id="b6d76-289">Псевдоним предложения службы.</span><span class="sxs-lookup"><span data-stu-id="b6d76-289">Nickname of the service offering.</span></span></p></td>
+<td><span data-ttu-id="b6d76-290">Платформа Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="b6d76-290">Microsoft Azure</span></span></td>
 </tr>
 <tr class="odd">
-<td>SubscriptionDescription</td>
-<td><p>Отрасль, к которой относится предложение службы</p></td>
-<td>Microsoft Azure</td>
+<td><span data-ttu-id="b6d76-291">SubscriptionDescription</span><span class="sxs-lookup"><span data-stu-id="b6d76-291">SubscriptionDescription</span></span></td>
+<td><p><span data-ttu-id="b6d76-292">Отрасль, к которой относится предложение службы</span><span class="sxs-lookup"><span data-stu-id="b6d76-292">Line of business of the service offering</span></span></p></td>
+<td><span data-ttu-id="b6d76-293">Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="b6d76-293">Microsoft Azure</span></span></td>
 </tr>
 <tr class="even">
-<td>OrderID</td>
-<td><p>Уникальный идентификатор заказа в платформе выставления счетов Майкрософт. Может быть полезным для определения подписки при обращении в службу поддержки, но не для выверки.</p></td>
-<td>566890604832738111</td>
+<td><span data-ttu-id="b6d76-294">OrderID</span><span class="sxs-lookup"><span data-stu-id="b6d76-294">OrderID</span></span></td>
+<td><p><span data-ttu-id="b6d76-295">Уникальный идентификатор заказа в платформе выставления счетов Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="b6d76-295">Unique identifier for an order in the Microsoft billing platform.</span></span> <span data-ttu-id="b6d76-296">Может быть полезным для определения подписки при обращении в службу поддержки, но не для выверки.</span><span class="sxs-lookup"><span data-stu-id="b6d76-296">May be useful to identify the subscription when contacting support but not for reconciliation.</span></span></p></td>
+<td><span data-ttu-id="b6d76-297">566890604832738111</span><span class="sxs-lookup"><span data-stu-id="b6d76-297">566890604832738111</span></span></td>
 </tr>
 <tr class="odd">
-<td>ServiceName</td>
-<td><p>Имя соответствующей службы Azure.</p></td>
-<td>ВИРТУАЛЬНЫЕ МАШИНЫ</td>
+<td><span data-ttu-id="b6d76-298">ServiceName</span><span class="sxs-lookup"><span data-stu-id="b6d76-298">ServiceName</span></span></td>
+<td><p><span data-ttu-id="b6d76-299">Имя соответствующей службы Azure.</span><span class="sxs-lookup"><span data-stu-id="b6d76-299">The name of the Azure service in question.</span></span></p></td>
+<td><span data-ttu-id="b6d76-300">ВИРТУАЛЬНЫЕ МАШИНЫ</span><span class="sxs-lookup"><span data-stu-id="b6d76-300">VIRTUAL MACHINES</span></span></td>
 </tr>
 <tr class="even">
-<td>ServiceType</td>
-<td><p>Определенный тип службы Windows Azure.</p></td>
+<td><span data-ttu-id="b6d76-301">ServiceType</span><span class="sxs-lookup"><span data-stu-id="b6d76-301">ServiceType</span></span></td>
+<td><p><span data-ttu-id="b6d76-302">Определенный тип службы Windows Azure.</span><span class="sxs-lookup"><span data-stu-id="b6d76-302">The specific type of Windows Azure service.</span></span></p></td>
 <td><ul>
-<li>Шина обслуживания — отдельная или пакет</li>
-<li>База данных SQL Azure — для бизнеса или выпуск Web Edition</li>
+<li><span data-ttu-id="b6d76-303">Шина обслуживания — отдельная или пакет</span><span class="sxs-lookup"><span data-stu-id="b6d76-303">Service Bus – Individual or Pack</span></span></li>
+<li><span data-ttu-id="b6d76-304">База данных SQL Azure — для бизнеса или выпуск Web Edition</span><span class="sxs-lookup"><span data-stu-id="b6d76-304">SQL Azure database – Business or Web Edition</span></span></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>ResourceGUID</td>
-<td><p>Определенный уникальный идентификатор для всех данных и ценовой структуры службы.</p></td>
-<td>DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</td>
+<td><span data-ttu-id="b6d76-305">ResourceGUID</span><span class="sxs-lookup"><span data-stu-id="b6d76-305">ResourceGUID</span></span></td>
+<td><p><span data-ttu-id="b6d76-306">Определенный уникальный идентификатор для всех данных и ценовой структуры службы.</span><span class="sxs-lookup"><span data-stu-id="b6d76-306">Specific unique identifier for all the service data and pricing structure.</span></span></p></td>
+<td><span data-ttu-id="b6d76-307">DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</span><span class="sxs-lookup"><span data-stu-id="b6d76-307">DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</span></span></td>
 </tr>
 <tr class="even">
-<td>Resource Name</td>
-<td><p>Имя ресурса Azure.</p></td>
+<td><span data-ttu-id="b6d76-308">Resource Name</span><span class="sxs-lookup"><span data-stu-id="b6d76-308">Resource Name</span></span></td>
+<td><p><span data-ttu-id="b6d76-309">Имя ресурса Azure.</span><span class="sxs-lookup"><span data-stu-id="b6d76-309">The name of the Azure resource.</span></span></p></td>
 <td><ul>
-<li>Входящая передача данных (ГБ)</li>
-<li>Исходящая передача данных (ГБ)</li>
+<li><span data-ttu-id="b6d76-310">Входящая передача данных (ГБ)</span><span class="sxs-lookup"><span data-stu-id="b6d76-310">Data Transfer In (GB)</span></span></li>
+<li><span data-ttu-id="b6d76-311">Исходящая передача данных (ГБ)</span><span class="sxs-lookup"><span data-stu-id="b6d76-311">Data Transfer Out (GB)</span></span></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Регион</td>
-<td><p>Регион, к которому применяется использование. В основном используется для назначения тарифов за передачу данных, поскольку тарифы зависят от региона.</p></td>
-<td>Азиатско-Тихоокеанский регион, Европа, Латинская Америка, Северная Америка</td>
+<td><span data-ttu-id="b6d76-312">Регион</span><span class="sxs-lookup"><span data-stu-id="b6d76-312">Region</span></span></td>
+<td><p><span data-ttu-id="b6d76-313">Регион, к которому применяется использование.</span><span class="sxs-lookup"><span data-stu-id="b6d76-313">The region the usage applies to.</span></span> <span data-ttu-id="b6d76-314">В основном используется для назначения тарифов за передачу данных, поскольку тарифы зависят от региона.</span><span class="sxs-lookup"><span data-stu-id="b6d76-314">Primarily used to assign rates to data transfers, as rates vary by region.</span></span></p></td>
+<td><span data-ttu-id="b6d76-315">Азиатско-Тихоокеанский регион, Европа, Латинская Америка, Северная Америка</span><span class="sxs-lookup"><span data-stu-id="b6d76-315">Asia Pacific, Europe, Latin America, North America</span></span></td>
 </tr>
 <tr class="even">
-<td>SKU</td>
-<td><p>Уникальный идентификатор MSFT для предложения</p></td>
-<td>7UD-00001</td>
+<td><span data-ttu-id="b6d76-316">SKU</span><span class="sxs-lookup"><span data-stu-id="b6d76-316">SKU</span></span></td>
+<td><p><span data-ttu-id="b6d76-317">Уникальный идентификатор MSFT для предложения</span><span class="sxs-lookup"><span data-stu-id="b6d76-317">MSFT unique identifier for offer</span></span></p></td>
+<td><span data-ttu-id="b6d76-318">7UD-00001</span><span class="sxs-lookup"><span data-stu-id="b6d76-318">7UD-00001</span></span></td>
 </tr>
 <tr class="odd">
-<td><p>DetailLineItemId</p></td>
-<td><p>Идентификатор и количество для детализации различных тарифов за услугу или ресурс за определенный период выставления счетов. В многоуровневой системе тарифов Azure для определенного количества платных единиц может быть указан один тариф, а за ним — другой.</p></td>
-<td>1</td>
+<td><p><span data-ttu-id="b6d76-319">DetailLineItemId</span><span class="sxs-lookup"><span data-stu-id="b6d76-319">DetailLineItemId</span></span></p></td>
+<td><p><span data-ttu-id="b6d76-320">Идентификатор и количество для детализации различных тарифов за услугу или ресурс за определенный период выставления счетов.</span><span class="sxs-lookup"><span data-stu-id="b6d76-320">An ID and quantity for itemizing the different rates for a service or resource in a given billing period.</span></span> <span data-ttu-id="b6d76-321">В многоуровневой системе тарифов Azure для определенного количества платных единиц может быть указан один тариф, а за ним— другой.</span><span class="sxs-lookup"><span data-stu-id="b6d76-321">For Azure tiered rating, there may be one rate up to a certain quantity of billable units, then a different rate after that.</span></span></p></td>
+<td><span data-ttu-id="b6d76-322">1</span><span class="sxs-lookup"><span data-stu-id="b6d76-322">1</span></span></td>
 </tr>
 <tr class="even">
-<td>ConsumedQuantity</td>
-<td><p>Потребленный объем службы (часы, ГБ и так далее) за отчетный период.</p>
-<p>Также включает использованный объем за предыдущие отчетные периоды, по которому не выставлялся счет.</p></td>
-<td>11</td>
+<td><span data-ttu-id="b6d76-323">ConsumedQuantity</span><span class="sxs-lookup"><span data-stu-id="b6d76-323">ConsumedQuantity</span></span></td>
+<td><p><span data-ttu-id="b6d76-324">Потребленный объем службы (часы, ГБ и так далее) за отчетный период.</span><span class="sxs-lookup"><span data-stu-id="b6d76-324">The amount of service consumed (hours, GB, etc.) during the reporting period.</span></span></p>
+<p><span data-ttu-id="b6d76-325">Также включает использованный объем за предыдущие отчетные периоды, по которому не выставлялся счет.</span><span class="sxs-lookup"><span data-stu-id="b6d76-325">Also includes any unbilled usage from previous reporting periods.</span></span></p></td>
+<td><span data-ttu-id="b6d76-326">11</span><span class="sxs-lookup"><span data-stu-id="b6d76-326">11</span></span></td>
 </tr>
 <tr class="odd">
-<td>IncludedQuantity</td>
-<td><p>Единицы в составе предложения. Обычно отсутствует в CSP.</p></td>
-<td>0</td>
+<td><span data-ttu-id="b6d76-327">IncludedQuantity</span><span class="sxs-lookup"><span data-stu-id="b6d76-327">IncludedQuantity</span></span></td>
+<td><p><span data-ttu-id="b6d76-328">Единицы в составе предложения.</span><span class="sxs-lookup"><span data-stu-id="b6d76-328">Units included as part of the offer.</span></span> <span data-ttu-id="b6d76-329">Обычно отсутствует в CSP.</span><span class="sxs-lookup"><span data-stu-id="b6d76-329">Not typically present in CSP.</span></span></p></td>
+<td><span data-ttu-id="b6d76-330">0</span><span class="sxs-lookup"><span data-stu-id="b6d76-330">0</span></span></td>
 </tr>
 <tr class="even">
-<td><p>OverageQuantity</p></td>
-<td><p>Единицы, не включенные в предложение, которые должен оплатить партнер.</p>
-<p>Равняется разнице значений полей ConsumedQuantity и IncludedQuantity.</p></td>
-<td>11</td>
+<td><p><span data-ttu-id="b6d76-331">OverageQuantity</span><span class="sxs-lookup"><span data-stu-id="b6d76-331">OverageQuantity</span></span></p></td>
+<td><p><span data-ttu-id="b6d76-332">Единицы, не включенные в предложение, которые должен оплатить партнер.</span><span class="sxs-lookup"><span data-stu-id="b6d76-332">Units not included as part of the offer, that must be paid for by the partner.</span></span></p>
+<p><span data-ttu-id="b6d76-333">Равняется разнице значений полей ConsumedQuantityи IncludedQuantity.</span><span class="sxs-lookup"><span data-stu-id="b6d76-333">Equal to the ConsumedQuantity - IncludedQuantity.</span></span></p></td>
+<td><span data-ttu-id="b6d76-334">11</span><span class="sxs-lookup"><span data-stu-id="b6d76-334">11</span></span></td>
 </tr>
 <tr class="odd">
-<td>ListPrice</td>
-<td><p>Цена предложения на дату начала действия подписки.</p></td>
-<td>0,0808 долл. США</td>
+<td><span data-ttu-id="b6d76-335">ListPrice</span><span class="sxs-lookup"><span data-stu-id="b6d76-335">ListPrice</span></span></td>
+<td><p><span data-ttu-id="b6d76-336">Цена предложения на дату начала действия подписки.</span><span class="sxs-lookup"><span data-stu-id="b6d76-336">Offer price in effect at subscription start date.</span></span></p></td>
+<td><span data-ttu-id="b6d76-337">0,0808долл.США</span><span class="sxs-lookup"><span data-stu-id="b6d76-337">$0.0808</span></span></td>
 </tr>
 <tr class="even">
-<td>PretaxCharges</td>
-<td><p>Произведение значений полей ListPrist и OverageQuantity, округленное до ближайшего цента.</p></td>
-<td>0,085 долл. США</td>
+<td><span data-ttu-id="b6d76-338">PretaxCharges</span><span class="sxs-lookup"><span data-stu-id="b6d76-338">PretaxCharges</span></span></td>
+<td><p><span data-ttu-id="b6d76-339">Произведение значений полей ListPrist и OverageQuantity, округленное до ближайшего цента.</span><span class="sxs-lookup"><span data-stu-id="b6d76-339">ListPrist times OverageQuantity, rounded to the nearest cent.</span></span></p></td>
+<td><span data-ttu-id="b6d76-340">0,085долл.США</span><span class="sxs-lookup"><span data-stu-id="b6d76-340">$0.085</span></span></td>
 </tr>
 <tr class="odd">
-<td>TaxAmount</td>
-<td><p>Сумма налоговых сборов на основании правил налогообложения вашего рынка и конкретных обстоятельств.</p></td>
-<td>0,08 долл. США</td>
+<td><span data-ttu-id="b6d76-341">TaxAmount</span><span class="sxs-lookup"><span data-stu-id="b6d76-341">TaxAmount</span></span></td>
+<td><p><span data-ttu-id="b6d76-342">Сумма налоговых сборов на основании правил налогообложения вашего рынка и конкретных обстоятельств.</span><span class="sxs-lookup"><span data-stu-id="b6d76-342">Tax amount charge, based on your market's tax rules and specific circumstances.</span></span></p></td>
+<td><span data-ttu-id="b6d76-343">0,08долл.США</span><span class="sxs-lookup"><span data-stu-id="b6d76-343">$0.08</span></span></td>
 </tr>
 <tr class="even">
-<td>PostTaxTotal</td>
-<td><p>Итоговая сумма за вычетом налога, если таковой применим.</p></td>
-<td>0,93 долл. США</td>
+<td><span data-ttu-id="b6d76-344">PostTaxTotal</span><span class="sxs-lookup"><span data-stu-id="b6d76-344">PostTaxTotal</span></span></td>
+<td><p><span data-ttu-id="b6d76-345">Итоговая сумма за вычетом налога, если таковой применим.</span><span class="sxs-lookup"><span data-stu-id="b6d76-345">Total after tax, when tax is applicable.</span></span></p></td>
+<td><span data-ttu-id="b6d76-346">0,93долл.США</span><span class="sxs-lookup"><span data-stu-id="b6d76-346">$0.93</span></span></td>
 </tr>
 <tr class="odd">
-<td>Currency</td>
-<td><p>Тип валюты. Каждый объект выставления счетов имеет только одну валюту. Проверьте, соответствует ли тип валюты вашей первой накладной и каждой накладной после каждого крупного обновления платформы выставления счетов.</p></td>
-<td>EUR</td>
+<td><span data-ttu-id="b6d76-347">Currency</span><span class="sxs-lookup"><span data-stu-id="b6d76-347">Currency</span></span></td>
+<td><p><span data-ttu-id="b6d76-348">Тип валюты.</span><span class="sxs-lookup"><span data-stu-id="b6d76-348">Currency type.</span></span> <span data-ttu-id="b6d76-349">Каждый объект выставления счетов имеет только одну валюту.</span><span class="sxs-lookup"><span data-stu-id="b6d76-349">Each billing entity has only one currency.</span></span> <span data-ttu-id="b6d76-350">Проверьте, соответствует ли тип валюты вашей первой накладной и каждой накладной после каждого крупного обновления платформы выставления счетов.</span><span class="sxs-lookup"><span data-stu-id="b6d76-350">Check that it matches your first invoice and then after any major billing platform update.</span></span></p></td>
+<td><span data-ttu-id="b6d76-351">EUR</span><span class="sxs-lookup"><span data-stu-id="b6d76-351">EUR</span></span></td>
 </tr>
 <tr class="even">
-<td>PretaxEffectiveRate</td>
-<td><p>Цена за единицу до вычета налогов. Равняется отношению значения поля PretaxCharges к значению поля OverageQuantity, округленному до ближайшего цента.</p></td>
-<td>0,08 долл. США</td>
+<td><span data-ttu-id="b6d76-352">PretaxEffectiveRate</span><span class="sxs-lookup"><span data-stu-id="b6d76-352">PretaxEffectiveRate</span></span></td>
+<td><p><span data-ttu-id="b6d76-353">Цена за единицу до вычета налогов.</span><span class="sxs-lookup"><span data-stu-id="b6d76-353">Pretax price per unit.</span></span> <span data-ttu-id="b6d76-354">Равняется отношению значения поля PretaxCharges к значению поля OverageQuantity, округленному до ближайшего цента.</span><span class="sxs-lookup"><span data-stu-id="b6d76-354">Equal to PretaxCharges / OverageQuantity, rounded to the nearest cent.</span></span></p></td>
+<td><span data-ttu-id="b6d76-355">0,08долл.США</span><span class="sxs-lookup"><span data-stu-id="b6d76-355">$0.08</span></span></td>
 </tr>
 <tr class="odd">
-<td>PostTaxEffectiveRate</td>
-<td><p>Цена за единицу после вычета налога. Равняется отношению значения поля PostTaxTotal к значению поля OverageQuantity или сумме значения поля PretaxEffectiveRate и налоговой ставке за единицу, округленным до ближайшего цента.</p></td>
-<td>0,08 долл. США</td>
+<td><span data-ttu-id="b6d76-356">PostTaxEffectiveRate</span><span class="sxs-lookup"><span data-stu-id="b6d76-356">PostTaxEffectiveRate</span></span></td>
+<td><p><span data-ttu-id="b6d76-357">Цена за единицу после вычета налога.</span><span class="sxs-lookup"><span data-stu-id="b6d76-357">Post tax price per unit.</span></span> <span data-ttu-id="b6d76-358">Равняется отношению значения поля PostTaxTotal к значению поля OverageQuantity или сумме значения поля PretaxEffectiveRate и налоговой ставке за единицу, округленным до ближайшего цента.</span><span class="sxs-lookup"><span data-stu-id="b6d76-358">Equal to PostTaxTotal / OverageQuantity, or PretaxEffectiveRate + tax rate per unit amoun, rounded to the nearest cent.</span></span></p></td>
+<td><span data-ttu-id="b6d76-359">0,08долл.США</span><span class="sxs-lookup"><span data-stu-id="b6d76-359">$0.08</span></span></td>
 </tr>
 <tr class="even">
-<td>ChargeType</td>
-<td><p>Описание типа позиции строки</p></td>
-<td>СБОР ЗА ИСПОЛЬЗОВАНИЕ ACCESS ДЛЯ ТЕКУЩЕГО ЦИКЛА</td>
+<td><span data-ttu-id="b6d76-360">ChargeType</span><span class="sxs-lookup"><span data-stu-id="b6d76-360">ChargeType</span></span></td>
+<td><p><span data-ttu-id="b6d76-361">Тип взноса или корректировка.</span><span class="sxs-lookup"><span data-stu-id="b6d76-361">The type of charge or adjustment.</span></span> <span data-ttu-id="b6d76-362">См. раздел <a href="#charge_types">Сопоставление расходов в счете-фактуре и файле выверки</a></span><span class="sxs-lookup"><span data-stu-id="b6d76-362">See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></span></span></p></td>
+<td><p><span data-ttu-id="b6d76-363">См. раздел <a href="#charge_types">Сопоставление расходов в счете-фактуре и файле выверки</a></span><span class="sxs-lookup"><span data-stu-id="b6d76-363">See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></span></span></p></td>
 </tr>
 <tr class="odd">
-<td>CustomerBillableAccount</td>
-<td><p>Уникальный идентификатор учетной записи в платформе выставления счетов MSFT.</p></td>
-<td>1280018095</td>
+<td><span data-ttu-id="b6d76-364">CustomerBillableAccount</span><span class="sxs-lookup"><span data-stu-id="b6d76-364">CustomerBillableAccount</span></span></td>
+<td><p><span data-ttu-id="b6d76-365">Уникальный идентификатор учетной записи в платформе выставления счетов MSFT.</span><span class="sxs-lookup"><span data-stu-id="b6d76-365">Unique account ID in the MSFT billing platform.</span></span></p></td>
+<td><span data-ttu-id="b6d76-366">1280018095</span><span class="sxs-lookup"><span data-stu-id="b6d76-366">1280018095</span></span></td>
 </tr>
 <tr class="even">
-<td>UsageDate</td>
-<td><p>Дата развертывания службы.</p></td>
-<td>01.02.2014 0:00</td>
+<td><span data-ttu-id="b6d76-367">UsageDate</span><span class="sxs-lookup"><span data-stu-id="b6d76-367">UsageDate</span></span></td>
+<td><p><span data-ttu-id="b6d76-368">Дата развертывания службы.</span><span class="sxs-lookup"><span data-stu-id="b6d76-368">Date of service deployment.</span></span></p></td>
+<td><span data-ttu-id="b6d76-369">01.02.2014 0:00</span><span class="sxs-lookup"><span data-stu-id="b6d76-369">2/1/2014 0:00</span></span></td>
 </tr>
 <tr class="odd">
-<td>MeteredRegion</td>
-<td><p>Этот столбец определяет местоположение центра обработки данных региона для служб, где это применимо и заполняется.</p></td>
-<td>Восточная Азия, Юго-Восточная Азия, Северная Европа, Западная Европа, Северо-Центральные штаты США, Южно-Центральные штаты США</td>
+<td><span data-ttu-id="b6d76-370">MeteredRegion</span><span class="sxs-lookup"><span data-stu-id="b6d76-370">MeteredRegion</span></span></td>
+<td><p><span data-ttu-id="b6d76-371">Этот столбец определяет местоположение центра обработки данных региона для служб, где это применимо и заполняется.</span><span class="sxs-lookup"><span data-stu-id="b6d76-371">This column identifies the location of a data center within the region for services where this is applicable and populated.</span></span></p></td>
+<td><span data-ttu-id="b6d76-372">Восточная Азия, Юго-Восточная Азия, Северная Европа, Западная Европа, Северо-Центральные штаты США, Южно-Центральные штаты США</span><span class="sxs-lookup"><span data-stu-id="b6d76-372">East Asia, South East Asia, North Europe, West Europe, North Central US, South Central US</span></span></td>
 </tr>
 <tr class="even">
-<td>Измеренная_служба</td>
-<td><p>Этот столбец используется для отслеживания отдельной службы Microsoft Azure, которую невозможно точно определить в столбце "Название службы". Например, передача данных отражается как &quot;Microsoft Azure — все службы&quot; в столбце "Название службы". Столбец "Измеренная_служба" будет указывать, к какой конкретной службе относится использование.</p></td>
-<td>AccessControl, CDN, Compute, Database, ServiceBus, Storage</td>
+<td><span data-ttu-id="b6d76-373">Измеренная_служба</span><span class="sxs-lookup"><span data-stu-id="b6d76-373">MeteredService</span></span></td>
+<td><p><span data-ttu-id="b6d76-374">Этот столбец используется для отслеживания отдельной службы Microsoft Azure, которую невозможно точно определить в столбце "Название службы".</span><span class="sxs-lookup"><span data-stu-id="b6d76-374">This column is utilized to track the individual Microsoft Azure service that may not be specifically identified in the Service Name column.</span></span> <span data-ttu-id="b6d76-375">Например, передача данных отражается как &quot;Microsoft Azure — все службы&quot; в столбце "Название службы".</span><span class="sxs-lookup"><span data-stu-id="b6d76-375">For example, data transfers are reported as &quot;Microsoft Azure - All Services&quot; in the Service Name column.</span></span> <span data-ttu-id="b6d76-376">Столбец "Измеренная_служба" будет указывать, к какой конкретной службе относится использование.</span><span class="sxs-lookup"><span data-stu-id="b6d76-376">This MeteredService column will indicate to which specific service the usage pertains.</span></span></p></td>
+<td><span data-ttu-id="b6d76-377">AccessControl, CDN, Compute, Database, ServiceBus, Storage</span><span class="sxs-lookup"><span data-stu-id="b6d76-377">AccessControl, CDN, Compute, Database, ServiceBus, Storage</span></span></td>
 </tr>
 <tr class="odd">
-<td>MeteredServiceType</td>
-<td><p>Подзаголовок с уточняющими сведениями об отдельной службе Microsoft Azure за пределами уровня, указанного в поле MeteredService.</p></td>
-<td>ВНЕШНЯЯ</td>
+<td><span data-ttu-id="b6d76-378">MeteredServiceType</span><span class="sxs-lookup"><span data-stu-id="b6d76-378">MeteredServiceType</span></span></td>
+<td><p><span data-ttu-id="b6d76-379">Подзаголовок с уточняющими сведениями об отдельной службе Microsoft Azure за пределами уровня, указанного в поле MeteredService.</span><span class="sxs-lookup"><span data-stu-id="b6d76-379">A subheading that further clarifies the individual Microsoft Azure service beyond the level provided by the MeteredService field.</span></span></p></td>
+<td><span data-ttu-id="b6d76-380">ВНЕШНЯЯ</span><span class="sxs-lookup"><span data-stu-id="b6d76-380">EXTERNAL</span></span></td>
 </tr>
 <tr class="even">
-<td>Проект</td>
-<td><p>Указанное клиентом имя экземпляра службы</p></td>
-<td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
+<td><span data-ttu-id="b6d76-381">Проект</span><span class="sxs-lookup"><span data-stu-id="b6d76-381">Project</span></span></td>
+<td><p><span data-ttu-id="b6d76-382">Указанное клиентом имя экземпляра службы</span><span class="sxs-lookup"><span data-stu-id="b6d76-382">Customer-defined name for their service instance</span></span></p></td>
+<td><span data-ttu-id="b6d76-383">ORDDC52E52FDEF405786F0642DD0108BE4</span><span class="sxs-lookup"><span data-stu-id="b6d76-383">ORDDC52E52FDEF405786F0642DD0108BE4</span></span></td>
 </tr>
 <tr class="odd">
-<td>ServiceInfo</td>
-<td><p>Количество подключений ServiceBus, подготовленных к работе и использованных в определенный день.</p></td>
-<td>Например: если у вас было отдельно подготовленное подключение в течение 30 дней, то параметр "Сведения_службы1" будет иметь следующий вид: "1,000000 подключений/30 дней". Если у вас был пакет на 25 подготовленных подключений "Шина_обслуживания", и вы использовали 1 подключение в течение этого дня, отчет о дневном использовании для этого подключения будет указывать "25 подключений/30 дней — использовано: 1,000000".</td>
+<td><span data-ttu-id="b6d76-384">ServiceInfo</span><span class="sxs-lookup"><span data-stu-id="b6d76-384">ServiceInfo</span></span></td>
+<td><p><span data-ttu-id="b6d76-385">Количество подключений ServiceBus, подготовленных к работе и использованных в определенный день.</span><span class="sxs-lookup"><span data-stu-id="b6d76-385">The number of ServiceBus connections that were provisioned and utilized on a given day.</span></span></p></td>
+<td><span data-ttu-id="b6d76-386">Например: если у вас было отдельно подготовленное подключение в течение 30 дней, то параметр "Сведения_службы1" будет иметь следующий вид: "1,000000 подключений/30 дней".</span><span class="sxs-lookup"><span data-stu-id="b6d76-386">For example: if you had an individually provisioned connection during a 30 day month, Service Info 1 would read “1.000000 Connections / 30 days”.</span></span> <span data-ttu-id="b6d76-387">Если у вас был пакет на 25 подготовленных подключений "Шина_обслуживания", и вы использовали 1 подключение в течение этого дня, отчет о дневном использовании для этого подключения будет указывать "25 подключений/30 дней — использовано: 1,000000".</span><span class="sxs-lookup"><span data-stu-id="b6d76-387">If you had a 25 pack of ServiceBus connections provisioned and you had utilized 1 during that day, your daily usage statement for that day would indicate “25 Connections / 30 Days – Used: 1.000000”.</span></span></td>
 </tr>
+<tr class="even">
+<td><span data-ttu-id="b6d76-388">CustomerID</span><span class="sxs-lookup"><span data-stu-id="b6d76-388">CustomerID</span></span></td>
+<td><p><span data-ttu-id="b6d76-389">Уникальный идентификатор Майкрософт в формате GUID, используемый для идентификации клиента.</span><span class="sxs-lookup"><span data-stu-id="b6d76-389">Unique Microsoft ID, in GUID format, used to identify the customer.</span></span></p></td>
+<td><span data-ttu-id="b6d76-390">ORDDC52E52FDEF405786F0642DD0108BE4</span><span class="sxs-lookup"><span data-stu-id="b6d76-390">ORDDC52E52FDEF405786F0642DD0108BE4</span></span></td>
+</tr>
+<tr class="odd">
+<td><span data-ttu-id="b6d76-391">DomainName</span><span class="sxs-lookup"><span data-stu-id="b6d76-391">DomainName</span></span></td>
+<td><p><span data-ttu-id="b6d76-392">Доменное имя клиента, используемое для идентификации клиента.</span><span class="sxs-lookup"><span data-stu-id="b6d76-392">Customer's domain name, used to help identify the customer.</span></span></p></td>
+<td><span data-ttu-id="b6d76-393">example.onmicrosoft.com</span><span class="sxs-lookup"><span data-stu-id="b6d76-393">example.onmicrosoft.com</span></span></td></tr>
 </tbody>
 </table>
 
- 
-
- 
-
- 
 
 
+## <span data-ttu-id="b6d76-394"><a href="" id="charge_types"></a>Сопоставление расходов в счете-фактуре и файле выверки</span><span class="sxs-lookup"><span data-stu-id="b6d76-394"><a href="" id="charge_types"></a>Mapping charges between an invoice and the reconciliation file</span></span>
+
+<span data-ttu-id="b6d76-395">Ваш счет-фактура содержит сводку по расходам, а файл выверки включает подробную постатейную разбивку операций с указанием типов расходов.</span><span class="sxs-lookup"><span data-stu-id="b6d76-395">Your invoice provides a summary of charges, while your reconciliation file provides a detailed breakdown of line-item transactions, including charge types.</span></span>
+
+<span data-ttu-id="b6d76-396">Для добавления перекрестных ссылок на суммы расходов между счетом-фактурой и файлом выверки можно с помощью параметров фильтрования Microsoft Excel отфильтровать расходы по типам в файле выверки, чтобы сопоставить расходы по накладной с набором разбивок расходов в файле выверки.</span><span class="sxs-lookup"><span data-stu-id="b6d76-396">To cross-reference charge amounts between the invoice and reconciliation file, you can use Microsoft Excel's filter options to filter by charge types on the reconciliation file to map the invoice charges to a set of charge breakdowns on reconciliation file.</span></span>
+
+<span data-ttu-id="b6d76-397">В таблице ниже показаны сопоставления между разделом счета-фактуры и связанными типами расходов, которые могут отображаться в файлах выверки.</span><span class="sxs-lookup"><span data-stu-id="b6d76-397">The table below shows the mappings between an invoice section and associated charge types that might show up on the reconciliation files.</span></span> 
+
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong><span data-ttu-id="b6d76-398">Описание расходов по накладной</span><span class="sxs-lookup"><span data-stu-id="b6d76-398">Invoice charge description</span></span></strong></p>
+</td>
+<td>
+<p><strong><span data-ttu-id="b6d76-399">Описание расходов по файлу выверки (столбец ChargeType)</span><span class="sxs-lookup"><span data-stu-id="b6d76-399">Reconciliation file charge description (ChargeType column)</span></span></strong></p>
+</td>
+<td>
+<p><strong><span data-ttu-id="b6d76-400">Что представляют собой данные расходы?</span><span class="sxs-lookup"><span data-stu-id="b6d76-400">What is this charge?</span></span></strong></p>
+</td>
+<td>
+<p><strong><span data-ttu-id="b6d76-401">Как сопоставить эти типы расходов (ChargeTypes) со счетом-фактурой?</span><span class="sxs-lookup"><span data-stu-id="b6d76-401">How do I map these ChargeTypes to the invoice?</span></span></strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="8">
+<p><strong><span data-ttu-id="b6d76-402">Повторяющиеся платежи</span><span class="sxs-lookup"><span data-stu-id="b6d76-402">Recurring Charges</span></span></strong></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-403">Отмена пропорционального распределения экземпляра</span><span class="sxs-lookup"><span data-stu-id="b6d76-403">Cancel instance prorate</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-404">Пропорциональные взносы, возвращаемые клиенту при изменении связанных мест</span><span class="sxs-lookup"><span data-stu-id="b6d76-404">Prorated charges refunded to the customer when associated seats are changed</span></span></p>
+</td>
+<td rowspan="8">
+<p><span data-ttu-id="b6d76-405">Получите сумму значений столбца <strong>Сумма</strong> в файле на основе лицензии</span><span class="sxs-lookup"><span data-stu-id="b6d76-405">From license-based file, sum the <strong>Amount</strong> column</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span data-ttu-id="b6d76-406">Оплата цикла</span><span class="sxs-lookup"><span data-stu-id="b6d76-406">Cycle fee</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-407">Периодические взносы за подписку</span><span class="sxs-lookup"><span data-stu-id="b6d76-407">Periodic charges for a subscription</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span data-ttu-id="b6d76-408">Пропорциональное распределение экземпляра цикла</span><span class="sxs-lookup"><span data-stu-id="b6d76-408">Cycle instance prorate</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-409">Пропорциональные взносы, начисленные от клиента при изменении связанных мест</span><span class="sxs-lookup"><span data-stu-id="b6d76-409">Prorated charges assessed from the customer when associated seats are changed</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span data-ttu-id="b6d76-410">Пропорциональные сборы при отмене</span><span class="sxs-lookup"><span data-stu-id="b6d76-410">Prorate fees when cancel</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-411">Пропорциональный возврат денег за неиспользованную часть услуги после отмены</span><span class="sxs-lookup"><span data-stu-id="b6d76-411">Prorated refund for unused portion of service upon cancellation</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span data-ttu-id="b6d76-412">Пропорциональные сборы при покупке</span><span class="sxs-lookup"><span data-stu-id="b6d76-412">Prorate fees when purchase</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-413">Пропорциональные сборы после покупки</span><span class="sxs-lookup"><span data-stu-id="b6d76-413">Prorated fees upon purchase</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span data-ttu-id="b6d76-414">Сбор при покупке</span><span class="sxs-lookup"><span data-stu-id="b6d76-414">Purchase fee</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-415">Первоначальный взнос за подписку</span><span class="sxs-lookup"><span data-stu-id="b6d76-415">Initial charge for a subscription</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span data-ttu-id="b6d76-416">Пропорциональные сборы при обновлении</span><span class="sxs-lookup"><span data-stu-id="b6d76-416">Prorate fee when renew</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-417">Пропорциональные сборы после возобновления действия подписки</span><span class="sxs-lookup"><span data-stu-id="b6d76-417">Prorated fees upon subscription renewal</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span data-ttu-id="b6d76-418">Плата за обновление</span><span class="sxs-lookup"><span data-stu-id="b6d76-418">Renew fee</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-419">Платеж за обновление подписки</span><span class="sxs-lookup"><span data-stu-id="b6d76-419">Charge for renewing a subscription</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><span data-ttu-id="b6d76-420">Прочие продукты и службы</span><span class="sxs-lookup"><span data-stu-id="b6d76-420">Other Products and Services</span></span></strong></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-421">Пропорциональные сборы при активации</span><span class="sxs-lookup"><span data-stu-id="b6d76-421">Prorate fees when activate</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-422">Пропорциональные сборы с момента активации до конца периода выставления счетов</span><span class="sxs-lookup"><span data-stu-id="b6d76-422">Prorated fees from activation until end of billing period</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-423">Получите сумму значений столбца <strong>Сумма</strong> в файле по продуктам, оплачиваемым на основе лицензий</span><span class="sxs-lookup"><span data-stu-id="b6d76-423">From license-based file, sum the <strong>Amount</strong> column</span></span></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p><strong><span data-ttu-id="b6d76-424">Плата за использование</span><span class="sxs-lookup"><span data-stu-id="b6d76-424">Usage Charges</span></span></strong></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-425">Плата за использование Assess при отмене</span><span class="sxs-lookup"><span data-stu-id="b6d76-425">Assess usage fee when cancel</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-426">Сбор за использование Access после отмены за неоплаченное использование за текущий период выставления счетов</span><span class="sxs-lookup"><span data-stu-id="b6d76-426">Access usage fee upon cancellation for unpaid usage during the current billing period</span></span></p>
+</td>
+<td rowspan="2">
+<p><span data-ttu-id="b6d76-427">Получите сумму значений столбца <strong>PretaxCharges</strong> в файле по продуктам, оплачиваемым по объему использования</span><span class="sxs-lookup"><span data-stu-id="b6d76-427">From usage-based file, sum the <strong>PretaxCharges</strong> column</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span data-ttu-id="b6d76-428">Плата за использование Assess для текущего цикла</span><span class="sxs-lookup"><span data-stu-id="b6d76-428">Assess usage fee for current cycle</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-429">Сбор за использование Access за текущий период выставления счетов</span><span class="sxs-lookup"><span data-stu-id="b6d76-429">Access usage fee for the current billing period</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><span data-ttu-id="b6d76-430">Кредиты и корректировки</span><span class="sxs-lookup"><span data-stu-id="b6d76-430">Credits &amp; Adjustments</span></span></strong></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-431">Смещение позиции строки</span><span class="sxs-lookup"><span data-stu-id="b6d76-431">Offset a line item</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-432">Частичный или полный возврат денег по позиции строки, включая налоги</span><span class="sxs-lookup"><span data-stu-id="b6d76-432">Partial or whole refund to a line item, including taxes</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-433">Получите сумму значений столбца <strong>TotalForCustomer</strong> в файле по продуктам, оплачиваемым на основе лицензий</span><span class="sxs-lookup"><span data-stu-id="b6d76-433">From license-based file, sum the <strong>TotalForCustomer</strong> column</span></span></p>
+<p><span data-ttu-id="b6d76-434">Получите сумму значений столбца <strong>PostTaxTotal</strong> в файле по продуктам, оплачиваемым по объему использования</span><span class="sxs-lookup"><span data-stu-id="b6d76-434">From usage-based file, sum the <strong>PostTaxTotal</strong> column</span></span></p>
+</td>
+</tr>
 
 
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+<tr>
+<td rowspan="4">
+<p><strong><span data-ttu-id="b6d76-435">Другие скидки</span><span class="sxs-lookup"><span data-stu-id="b6d76-435">Other Discounts</span></span></strong></br>
+<em><span data-ttu-id="b6d76-436">(по объему использования)</span><span class="sxs-lookup"><span data-stu-id="b6d76-436">(usage-based)</span></span></em></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-437">Скидка при активации</span><span class="sxs-lookup"><span data-stu-id="b6d76-437">Activation discount</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-438">Скидка, применяемая при активации подписки</span><span class="sxs-lookup"><span data-stu-id="b6d76-438">Discount applied when subscription activated</span></span></p>
+</td>
+<td rowspan="4">
+<p><span data-ttu-id="b6d76-439">Получите сумму значений столбца <strong>PretaxCharges</strong> в файле по продуктам, оплачиваемым по объему использования</span><span class="sxs-lookup"><span data-stu-id="b6d76-439">From usage-based file, sum the <strong>PretaxCharges</strong> column</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span data-ttu-id="b6d76-440">Скидка на цикл</span><span class="sxs-lookup"><span data-stu-id="b6d76-440">Cycle discount</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-441">Скидка, применяемая к периодическим платежам</span><span class="sxs-lookup"><span data-stu-id="b6d76-441">Discount applied on periodic charges</span></span></p>
+</td>
+</tr><tr>
+<td>
+<p><span data-ttu-id="b6d76-442">Скидка при возобновлении</span><span class="sxs-lookup"><span data-stu-id="b6d76-442">Renew discount</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-443">Скидка, применяемая при возобновлении подписки</span><span class="sxs-lookup"><span data-stu-id="b6d76-443">Discount applied when subscription renewed</span></span></p>
+</td>
+</tr><tr>
+<td>
+<p><span data-ttu-id="b6d76-444">Скидка при отмене</span><span class="sxs-lookup"><span data-stu-id="b6d76-444">Cancel discount</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-445">Плата при отмене скидок</span><span class="sxs-lookup"><span data-stu-id="b6d76-445">Charges applied when discounts cancelled</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><span data-ttu-id="b6d76-446">Другие скидки</span><span class="sxs-lookup"><span data-stu-id="b6d76-446">Other Discounts</span></span></strong></br>
+<em><span data-ttu-id="b6d76-447">(на основе лицензии)</span><span class="sxs-lookup"><span data-stu-id="b6d76-447">(license-based)</span></span></em></p>
+</td>
+<td>
+<p><em><span data-ttu-id="b6d76-448">Может применяться к различным типам платежей</span><span class="sxs-lookup"><span data-stu-id="b6d76-448">May be applied to multiple charge types</span></span></em></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-449">Получите сумму значений столбца <strong>TotalOtherDiscount</strong> в файле по продуктам, оплачиваемым на основе лицензий</span><span class="sxs-lookup"><span data-stu-id="b6d76-449">From license-based file, sum the <strong>TotalOtherDiscount</strong> column</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span data-ttu-id="b6d76-450"><strong>Налоги</strong>&nbsp;или&nbsp;<strong>НДС</strong></span><span class="sxs-lookup"><span data-stu-id="b6d76-450"><strong>Taxes</strong>&nbsp;or&nbsp;<strong>VAT</strong></span></span></p>
+</td>
+<td>
+<p><em><span data-ttu-id="b6d76-451">Может применяться к различным типам платежей</span><span class="sxs-lookup"><span data-stu-id="b6d76-451">May be applied to multiple charge types</span></span></em></p>
+<p><em><span data-ttu-id="b6d76-452">Исключение: «Смещение позиции строки» уже включает налоги.</span><span class="sxs-lookup"><span data-stu-id="b6d76-452">Exception: "Offset a line item" already includes taxes.</span></span> <span data-ttu-id="b6d76-453">См. пункт «Кредиты и корректировки» выше.</span><span class="sxs-lookup"><span data-stu-id="b6d76-453">See Credits &amp; Adjustments, above.</span></span></em></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-454">Налоги и налоги на добавленную стоимость (НДС)</span><span class="sxs-lookup"><span data-stu-id="b6d76-454">Taxes or value-added taxes (VAT)</span></span></p>
+</td>
+<td>
+<p><span data-ttu-id="b6d76-455">Получите сумму значений столбца <strong>Налог</strong> в файле по продуктам, оплачиваемым на основе лицензий</span><span class="sxs-lookup"><span data-stu-id="b6d76-455">From license-based file, sum the <strong>Tax</strong> column</span></span></p>
+<p><span data-ttu-id="b6d76-456">Получите сумму значений столбца <strong>TaxAmount</strong> в файле по продуктам, оплачиваемым по объему использования</span><span class="sxs-lookup"><span data-stu-id="b6d76-456">From usage-based file, sum the <strong>TaxAmount</strong> column</span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>

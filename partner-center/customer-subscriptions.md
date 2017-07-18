@@ -3,49 +3,47 @@ title: "Подписки клиентов | Центр партнеров"
 description: "Партнеры могут продавать подписки клиентам и управлять ими в Центре партнеров."
 ms.assetid: DEBFB521-486C-4297-8F6C-66213DC0ABFC
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 9048ae0f6c43e678cd1acb8829453ecb3e04d31c
-ms.openlocfilehash: ca57c62c0fe6089798a42337c94f4115931565a6
-
+ms.openlocfilehash: ffc2189f9c5a8d5df3b07707c23f540142917499
+ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 06/14/2017
 ---
+# <a name="customer-subscriptions"></a><span data-ttu-id="a29c7-103">Подписки клиентов</span><span class="sxs-lookup"><span data-stu-id="a29c7-103">Customer subscriptions</span></span>
 
-# Подписки клиентов
+**<span data-ttu-id="a29c7-104">Относится к:</span><span class="sxs-lookup"><span data-stu-id="a29c7-104">Applies to</span></span>**
 
-**Относится к:**
+-  <span data-ttu-id="a29c7-105">Центр партнеров</span><span class="sxs-lookup"><span data-stu-id="a29c7-105">Partner Center</span></span>
 
--  Центр партнеров
+<span data-ttu-id="a29c7-106">Вы можете продавать подписки клиентам и управлять ими в Центре партнеров.</span><span class="sxs-lookup"><span data-stu-id="a29c7-106">You can sell subscriptions to customers and manage them through Partner Center.</span></span> 
 
-Вы можете продавать подписки клиентам и управлять ими в Центре партнеров. 
+[<span data-ttu-id="a29c7-107">Создание новой подписки</span><span class="sxs-lookup"><span data-stu-id="a29c7-107">Create a new subscription</span></span>](create-a-new-subscription.md)
 
-[Создание новой подписки](create-a-new-subscription.md)
+[<span data-ttu-id="a29c7-108">Назначение лицензий пользователям</span><span class="sxs-lookup"><span data-stu-id="a29c7-108">Assign licenses to users</span></span>](assign-licenses-to-users.md)
 
-[Назначение лицензий пользователям](assign-licenses-to-users.md)
+[<span data-ttu-id="a29c7-109">Назначение и отзыв лицензий для нескольких пользователей</span><span class="sxs-lookup"><span data-stu-id="a29c7-109">Assign or revoke licenses to multiple users</span></span>](bulk-license-provisioning-for-multiple-users.md)
 
-[Назначение и отзыв лицензий для нескольких пользователей](bulk-license-provisioning-for-multiple-users.md)
+[<span data-ttu-id="a29c7-110">Приостановка подписки</span><span class="sxs-lookup"><span data-stu-id="a29c7-110">Suspend a subscription</span></span>](suspend-a-subscription.md)
 
-[Приостановка подписки](suspend-a-subscription.md)
+[<span data-ttu-id="a29c7-111">Удаление связи с торговым посредником или клиентом</span><span class="sxs-lookup"><span data-stu-id="a29c7-111">Remove a relationship with a reseller or a customer</span></span>](remove-a-relationship.md)
 
-[Добавление лицензий или служб к существующей подписке](add-licenses-or-services-to-an-existing-subscription.md)
+[<span data-ttu-id="a29c7-112">Добавление лицензий или служб к существующей подписке</span><span class="sxs-lookup"><span data-stu-id="a29c7-112">Add licenses or services to an existing subscription</span></span>](add-licenses-or-services-to-an-existing-subscription.md)
 
-[Перенос подписок Dynamics AX в Dynamics 365](manual-subscription-migration.md)
+[<span data-ttu-id="a29c7-113">Перенос подписок Dynamics AX в Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="a29c7-113">Migrate Dynamics AX subscriptions to Dynamics 365</span></span>](manual-subscription-migration.md)
 
-[Получение специальных цен на предложения](get-special-pricing-for-offers.md)
+[<span data-ttu-id="a29c7-114">Перенос подписок Office 365 корпоративный E4 в новые версии Office 365</span><span class="sxs-lookup"><span data-stu-id="a29c7-114">Migrate Office 365 Enterprise E4 subscriptions to newer Office 365 versions</span></span>](migrate-office365-e4-subscriptions-to-newer-versions.md)
 
-[Повышение популярности и удовлетворенности](increasing-adoption-and-satisfaction.md)
+[<span data-ttu-id="a29c7-115">Получение специальных цен на предложения</span><span class="sxs-lookup"><span data-stu-id="a29c7-115">Get special pricing for offers</span></span>](get-special-pricing-for-offers.md)
 
-[Обзор региональной авторизации CSP](regional-authorization-overview.md)
+[<span data-ttu-id="a29c7-116">Повышение популярности и удовлетворенности</span><span class="sxs-lookup"><span data-stu-id="a29c7-116">Increase adoption and satisfaction</span></span>](increasing-adoption-and-satisfaction.md)
 
-[Консолидация клиента региональной авторизации CSP](csp-regional-authorization-tenant-consolidation.md)
+[<span data-ttu-id="a29c7-117">Обзор региональной авторизации CSP</span><span class="sxs-lookup"><span data-stu-id="a29c7-117">CSP regional authorization overview</span></span>](regional-authorization-overview.md)
+
+[<span data-ttu-id="a29c7-118">Консолидация клиента региональной авторизации CSP</span><span class="sxs-lookup"><span data-stu-id="a29c7-118">CSP regional authorization tenant consolidation</span></span>](csp-regional-authorization-tenant-consolidation.md)
 
  
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

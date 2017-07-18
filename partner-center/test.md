@@ -1,0 +1,12 @@
+
+<span data-ttu-id="1aca8-101">Заголовок: изменение описания временного пароля: при получении временного пароля от вашего администратора его необходимо изменить.</span><span class="sxs-lookup"><span data-stu-id="1aca8-101">title: Change your temporary password description: When you receive a temporary password from your admin, you need to change it.</span></span>
+<span data-ttu-id="1aca8-102">Автор: Лаура Бреннер</span><span class="sxs-lookup"><span data-stu-id="1aca8-102">author: LauraBrenner</span></span>
+---
+
+# <a name="change-your-temporary-password"></a><span data-ttu-id="1aca8-103">Изменение временного пароля</span><span class="sxs-lookup"><span data-stu-id="1aca8-103">Change your temporary password</span></span>
+
+<span data-ttu-id="1aca8-104">*Область применения:* Центр партнеров</span><span class="sxs-lookup"><span data-stu-id="1aca8-104">*Applies to* Partner Center</span></span>
+
+<span data-ttu-id="1aca8-105">Как только вы получите временный пароль от глобального администратора, войдите в Центр партнеров и измените его.</span><span class="sxs-lookup"><span data-stu-id="1aca8-105">As soon as you receive your temporary password from the global admin, log on to Partner Center and change it.</span></span> <span data-ttu-id="1aca8-106">Если вы являетесь администратором программы поощрений, это действие позволит вам выполнить перенос пользователей вашей организации.</span><span class="sxs-lookup"><span data-stu-id="1aca8-106">If you are an incentives admin, doing so will permit you to complete the migration of your organization’s users.</span></span> <span data-ttu-id="1aca8-107">Если вы являетесь пользователем программы поощрений, после изменения временного пароля вы сможете просматривать, но не сможете редактировать все свои данные, относящиеся к программам поощрений.</span><span class="sxs-lookup"><span data-stu-id="1aca8-107">If you are an incentives user, you will then be able to see but not edit all your incentives data.</span></span> <span data-ttu-id="1aca8-108">LN</span><span class="sxs-lookup"><span data-stu-id="1aca8-108">LN</span></span>
+
+1. <span data-ttu-id="1aca8-109">На Информационной панели выполните вход, используя новый ИД пользователя и временный пароль.</span><span class="sxs-lookup"><span data-stu-id="1aca8-109">From the Dashboard, sign in with your new user ID and temporary password.</span></span>
