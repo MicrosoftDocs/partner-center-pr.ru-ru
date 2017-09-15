@@ -1,56 +1,56 @@
 ---
-title: "Создание учетных записей пользователей и определение разрешений | Центр партнеров"
-description: "Администратор создает учетную запись пользователя для каждого сотрудника партнера, которому необходим доступ к Центру партнеров."
+title: Create user accounts and set permissions | Partner Center
+description: The admin creates a user account for each partner employee who needs access to Partner Center.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: bc699214c7919c7cff9788144d472063ba60ad10
-ms.sourcegitcommit: 4a1cd51e5986f47badcde9412a7c7b22718500f0
+ms.openlocfilehash: 6a54dd2a221f38edb2439596ba2637907dad73de
+ms.sourcegitcommit: f62ea44fb20c2ada21154e254984413ee2a685f3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 08/18/2017
 ---
-# <a name="create-user-accounts-and-assign-permissions"></a>Создание учетных записей пользователей и назначение разрешений
+# <a name="create-user-accounts-and-assign-permissions"></a>Create user accounts and assign permissions
 
-**Относится к:**
+**Applies to**
 
--  Центр партнеров
+-  Partner Center
 
-Создайте учетные записи пользователей для сотрудников, которым требуется доступ к центру партнеров. Эти задачи должны выполняться администратором с разрешениями Глобальный администратор или Администратор управления пользователями. 
+Create user accounts for employees who need access to Partner Center. These tasks must be done by an admin with user management admin permissions. 
 
-## <a name="add-a-new-user"></a>Добавление нового пользователя
+## <a name="add-a-new-user"></a>Add a new user
 
-1. В меню **Панель мониторинга** выберите пункт **Параметры учетной записи > Управление пользователями**.
+1. On the **Dashboard** menu, select **Account settings > User management**.
 
-2.  Выберите **Добавить пользователя**.
+2.  Select **Add user**.
 
-3.  Введите полное имя пользователя и уникальный адрес электронной почты.
+3.  Enter the user’s full name and unique email address.
 
-4.  Выберите тип агента и тип администратора. Доступ в центре партнеров зависит от ролей, поэтому можно назначить разрешения, чтобы настроить представление пользователя на отображение только функциональных возможностей, необходимых пользователю для выполнения определенных задач. Подробнее о возможностях каждой роли см. в разделе [Назначение разрешений пользователя](#assignuserpermissions).
+4.  Select the type of agent and the type of admin. Partner Center access is role-based, so you can assign permissions to customize the user's view to show only the features the user needs to complete specific tasks. For more information about what each role can do, see [Assign user permissions](#assignuserpermissions).
 
-5.  Выберите **Добавить** для создания учетной записи пользователя. Подтвердите сведения пользователя на следующей странице.
+5.  Select **Add** to create the user account. Confirm the user's details on the next page.
 
->**Важно.**<br>
-Запомните или запишите данные для входа нового пользователя, отображаемые на этой странице. Не забудьте скопировать и отправить эти сведения для новых пользователей, как вы не сможете получить к нему доступ позже. <br>
+>**Important**<br>
+Make a note of the new user's sign-in information displayed on this page. Be sure to copy and send this information to the new user as you will not be able to access it again later. <br>
 
->Пользователь должен войти в Центр партнеров с помощью имени пользователя и временного пароля. Когда пользователь входит в Центр партнеров в первый раз, будет предложено изменить свой пароль.    
+>The user will need to sign in to Partner Center with their user name and temporary password. When the user signs in to Partner Center for the first time, they are prompted to change their password.    
 
 
-### <a href="" id="assignuserpermissions"></a>Назначение разрешений для пользователей
+### <a href="" id="assignuserpermissions"></a>Assign user permissions
 
-Доступ в центре партнеров зависит от ролей, поэтому можно назначить разрешения, чтобы настроить представление пользователя на отображение только функциональных возможностей, необходимых пользователю для выполнения определенных задач. 
+Partner Center access is role-based, so you can assign permissions to customize the user's view to show only the features the user needs to complete specific tasks. 
 
-Для каждого пользователя необходимо выбрать два уровня разрешений:
+For each user, you must select two permission levels:
 
--   Разрешения агента контролируют вид данных клиента и данных учетной записи пользователя, которые он может просматривать и изменять.
+-   Agent permissions control what kind of customer data and account information the user can see and change.
 
--   Разрешения администратора контролируют уровень доступа, который есть у пользователя для функций центра партнеров. Этот параметр влияет на внешнюю среду Центра партнеров — администратор выставления счетов может получить доступ ко всем счетам за все службы Майкрософт (даже те, которые не связаны с CSP), а глобальный администратор может получить доступ к учетным записям пользователей и клиентов также за пределами CSP.
+-   Admin permissions control the level of access the user has to Partner Center features. This setting has impact outside of Partner Center -- a billing admin can access bills for all Microsoft services (even those unrelated to CSP), and a global admin can access user accounts and customer accounts beyond CSP as well.
 
-##<a name="assign-permissions-for-incentives-users"></a>Назначение разрешений пользователям программ поощрений
-При настройке пользователей программ поощрений им можно предоставить роль администратора в программе поощрений или роль пользователя в программе поощрений.  Администратор программы поощрений может изменять банковские реквизиты и сведения о налогах, отправлять заявки на выплату в Майкрософт, а также управлять пользователями программ поощрений. Пользователи программы поощрений могут только просматривать программы, а также банковские реквизиты и сведения о налогах. Зачастую они предоставляют фактические программы поощрений клиентам. Администраторы и пользователи программы поощрений могут иметь другие роли в Центре партнеров вашей организации, однако чтобы иметь возможность работать с программами поощрений, пользователь должен быть администратором или пользователем программы поощрений.
+## <a name="assign-permissions-for-incentives-users"></a>Assign permissions for Incentives users
+When you set up your incentives users, you can give them either the incentive admin role or incentive user role.  Администратор программы поощрений может зарегистрироваться и перенести регистрационные данные программы поощрений, изменить банковский и налоговый профиль, а также просмотреть все отчеты. Пользователей программы поощрений могут просмотреть регистрационные данные и отчеты. Incentives admins and users can have other roles in Partner Center for your organization but to work on Incentives programs a user must be either incentives admin or user.
 
->**Важно**. По умолчанию значением параметра всегда должно быть **Не администратор**, если для роли пользователя не требуется дополнительный доступ для выполнения задач и поддержки пользователей.
+>**Important** The default setting should always be **No admin**, unless the user's role requires additional access to complete tasks and support customers.
 
-В следующей таблице описаны возможности каждой роли в центре партнеров.
+The following table explains what each role can do in Partner Center.
 
 <table>
 <colgroup>
@@ -60,114 +60,117 @@ ms.lasthandoff: 06/26/2017
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Роль в Центре партнеров</strong></p></td>
-<td><p><strong>Права и возможности</strong></p></td>
-<td><p><strong>Ограничения</strong></p></td>
+<td><p><strong>Role in Partner Center</strong></p></td>
+<td><p><strong>What they can do</strong></p></td>
+<td><p><strong>What they can't do</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Агент администрирования</strong></p></td>
+<td><p><strong>Admin agent</strong></p></td>
 <td><ul>
-<li><p>Управление клиентами</p></li>
-<li><p>Добавление списка устройств в Центре партнеров</p></li>
-<p><li>Создание и применение профилей для устройств</p></li>
-<li><p>Управление подписками</p></li>
-<li><p>Работоспособность службы и запросы на обслуживание для клиентов</p></li>
-<li><p>Запрос на привилегии делегированного администратора</p></li>
-<li><p>Просмотр цен и предложений</p></li>
-<li><p>Выставление счетов</p></li>
-<li><p>Администрирование от имени клиента</p></li>
-<li><p>Регистрация торгового посредника, создающего добавочную стоимость</p></li>
+<li><p>Customer management</p></li>
+<li><p>Add device list to Partner Center</p></li>
+<p><li>Create and apply profiles to devices</p></li>
+<li><p>Subscription management</p></li>
+<li><p>Service health and service requests for customers</p></li>
+<li><p>Request delegated administrator privileges</p></li>
+<li><p>View pricing and offers</p></li>
+<li><p>Billing</p></li>
+<li><p>Administer on behalf of a customer</p></li>
+<li><p>Register a value added reseller</p></li>
 </ul></td>
 <td><ul>
-<li><p>Управление пользователями</p></li>
-<li><p>Запросы в службу поддержки для Центра партнеров</p></li>
+<li><p>User management</p></li>
+<li><p>Service requests for Partner Center</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Агент по продажам</strong></p></td>
+<td><p><strong>Sales agent</strong></p></td>
 <td><ul>
-<li><p>Управление клиентами</p></li>
-<li><p>Добавление списка устройств в Центре партнеров</p></li>
-<li><p>Управление подписками</p></li>
-<li><p>Просмотр запросов в службу поддержки</p></li>
-<li><p>Запрос связи с клиентом</p></li>
-<li><p>Управление потенциальными клиентами клиента</p></li>
-<li><p>Просмотр соглашения с пользователем</p></li>
-<li><p>Регистрация торгового посредника, создающего добавочную стоимость</p></li>
+<li><p>Customer management</p></li>
+<li><p>Add device list to Partner Center</p></li>
+<li><p>Subscription management</p></li>
+<li><p>View support tickets</p></li>
+<li><p>Request a relationship with a customer</p></li>
+<li><p>Manage customer leads</p></li>
+<li><p>View the customer agreement</p></li>
+<li><p>Register a value added reseller</p></li>
 </ul></td>
 <td><ul>
-<li><p>Создание запросов на обслуживание в случае проблем с центром партнеров</p></li>
-<li><p>Решение проблем, указанных в запросах в службу поддержки</p></li>
-<li><p>Просмотр работоспособности службы</p></li>
-<li><p>Просмотр цен и предложений</p></li>
-<li><p>Выставление счетов</p></li>
-<li><p>Администрирование от имени клиента</p></li>
+<li><p>Create service requests for problems with Partner Center</p></li>
+<li><p>Resolve support tickets</p></li>
+<li><p>View service health</p></li>
+<li><p>View pricing and offers</p></li>
+<li><p>Billing</p></li>
+<li><p>Administer on behalf of a customer</p></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>Агент службы технической поддержки</strong></p></td>
+<td><p><strong>Helpdesk agent</strong></p></td>
 <td><ul>
-<li><p>Поиск клиента и его просмотр</p></li>
+<li><p>Search for and view a customer</p></li>
 <li><p>Редактирование сведений клиента</p></li>
-<li><p>Работоспособность службы</p></li>
+<li><p>Помощь клиентам в устранении неполадок с управлением выставлением счетов и подписками</p></li>
 <li><p>Запрос на поддержку от имени клиентов (обратите внимание: вы должны быть агентом администратора для выполнения этой задачи для подписки на Office 365)</p></li>
 <li><p>Управление подписками и службами от имени клиентов (обратите внимание: вы должны быть агентом администратора для выполнения этой задачи для подписки на Office 365)</p></li>
 </ul></td>
 <td><ul>
 <li><p>Просмотр профилей партнеров</p></li>
-<li><p>Создание новой учетной записи клиента</p></li>
+<li><p>Create a new customer account</p></li>
 <li><p>Редактирование данных клиента для выставления счетов</p></li>
-<li><p>Управление подписками</p></li>
-<li><p>Запрос связи с клиентом</p></li>
-<li><p>Управление потенциальными клиентами клиента</p></li>
-<li><p>Просмотр цен и предложений</p></li>
-<li><p>Просмотр соглашения с пользователем</p></li>
-<li><p>Выставление счетов</p></li>
-<li><p>Регистрация торгового посредника, создающего добавочную стоимость</p></li>
+<li><p>Запрос технической поддержки Azure.</p></li>
+<li><p>Manage subscriptions</p></li>
+<li><p>Request a relationship with a customer</p></li>
+<li><p>Manage customer leads</p></li>
+<li><p>View pricing and offers</p></li>
+<li><p>View the customer agreement</p></li>
+<li><p>Billing</p></li>
+<li><p>Register a value added reseller</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Глобальный администратор</strong></p></td>
+<td><p><strong>Global admin</strong></p></td>
 <td><ul>
-<li><p>Право на доступ ко всем учетным записям и службам Майкрософт с полными привилегиями</p></li>
-<li><p>Создание запросов в службу поддержки для Центра партнеров</p></li>
-<li><p>Просмотр соглашений, прайс-листов и предложений</p></li>
-<li><p>Выставление счетов</p></li>
-<li><p>Просмотр, создание пользователей партнера и управление ними</p></li>
+<li><p>Can access all Microsoft account/services with full privileges</p></li>
+<li><p>Create support tickets for Partner Center</p></li>
+<li><p>View agreements, price lists, and offers</p></li>
+<li><p>Billing</p></li>
+<li><p>View, create, and manage partner users</p></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>Администратор выставления счетов</strong></p></td>
+<td><p><strong>Billing admin</strong></p></td>
 <td><ul>
-<li><p>Право на доступ ко всем счетам от Майкрософт с полными привилегиями</p></li>
-<li><p>Просмотр соглашений, прайс-листов и предложений</p></li>
-<li><p>Выставление счетов</p></li>
+<li><p>Can access all bills from Microsoft with full privileges</p></li>
+<li><p>View agreements, price lists, and offers</p></li>
+<li><p>Billing</p></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Администратор управления пользователями</strong></p></td>
+<td><p><strong>User management admin</strong></p></td>
 <td><ul>
-<li><p>Просмотр, создание пользователей и управление ими</p></li>
-<li><p>Просмотр всех профилей партнеров</p></li>
+<li><p>View, create, and manage users</p></li>
+<li><p>View all partner profiles</p></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>Администратор программы поощрений</strong></p></td>
 <td><ul>
+<li><p>Регистрация в программах поощрений</p></li>
+<li><p>Перенос регистрационных данных программ поощрений в Центр партнеров</p></li>
 <li><p>Просмотр всех программ поощрений и управление ими</p></li>
 <li><p>Редактирование банковских и налоговых профилей для программ поощрений</p></li>
-<LI><p>Управление пользователями программ поощрений</p></li>
+<li><p>Просмотр всех отчетов по программам поощрений</p></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Пользователь программы поощрений</strong></p></td>
 <td><ul>
-<li><p>Просмотр программ поощрений</p></li>
-<li><p>Просмотр банковских и налоговых профилей</p></li>
+<li><p>Просмотр регистрационных данных</p></li>
+<li><p>Просмотр отчетов</p></li>
 </ul></td>
 <td></td>
 </tr>

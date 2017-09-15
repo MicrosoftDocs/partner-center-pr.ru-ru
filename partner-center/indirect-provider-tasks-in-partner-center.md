@@ -1,126 +1,131 @@
 ---
-title: "Партнерство с непрямыми торговыми посредниками в CSP | Центр партнеров"
-description: "В качестве непрямого поставщика или дистрибьютора вы можете сотрудничать с непрямыми торговыми посредниками, чтобы расширить свою аудиторию."
+title: Partner with indirect resellers in CSP | Partner Center
+description: As an indirect provider, or distributor, you can partner with indirect resellers to expand your reach.
 author: MaggiePucciEvans
-ms.openlocfilehash: c8f120ca8b063d233aa3b8e1cf1b5009e11eb010
-ms.sourcegitcommit: ae393b4e33e1fae17169057225f6cd522f158354
+ms.openlocfilehash: 85dd503529bda8ef5fa5d67ea04a7aafd85debe1
+ms.sourcegitcommit: e79f756c7203751b8fd6ad26883a0568c91a6c8b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/01/2017
+ms.lasthandoff: 08/16/2017
 ---
-# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Партнерство с непрямыми торговыми посредниками в программе поставщиков облачных решений
+# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Partner with indirect resellers in the Cloud Solution Provider program
 
-На рынке таких сложных и быстро изменяющихся технологий клиенты хотят получить все конкурентные преимущества, которые технологические решения могут им предоставить. В таком климате для партнеров имеет смысл инвестировать в отношения "партнер-партнер", чтобы расширять предложения и предоставлять пользователям еще большие возможности.
+With such a complex and rapidly changing technology marketplace, customers want the competitive edge that technology solutions can give them. In such a climate, it makes sense for partners to invest in partner-to-partner engagement to extend offerings and enable customers to do even more.
 
-Новые торговые посредники появляются на рынке и ищут способы предлагать свои решения клиентам за пределами своих рынков и языков. В качестве авторитетного поставщика технологий у вас будет прекрасное положение, чтобы стать их проводником к рынку. Сотрудничайте с другими непрямыми торговыми посредниками в программе поставщиков облачных решений, чтобы обмениваться информацией с другими партнерами, выводить новые решения на рынок и расширять внедрение облачных служб клиентов.
+New resellers are entering the market and seeking ways to offer their solutions to customers outside of their markets and locales. As an established technology provider, you're well-positioned to be their route to market. Partner with indirect resellers in the Cloud Solution Provider (CSP) program to connect with other partners, bring new solutions to the market, and advance customers’ adoption of cloud services.
 
-В модели непрямой поставщик-торговый посредник (двухуровневой) вы будете сотрудничать с непрямыми торговыми посредниками, чтобы предлагать облачные решения Майкрософт для клиентов. Вы будете покупать продукты и подписки напрямую у корпорации Майкрософт и затем предлагать эти решения клиентам через своих торговых посредников. 
+In the indirect provider-reseller (two-tier) model, you partner with indirect resellers to offer Microsoft cloud solutions to customers. You purchase products and subscriptions directly from Microsoft and then offer these solutions to customers through your resellers. 
 
-В качестве непрямого поставщика вы можете использовать Центр партнеров для описанных ниже действий.
+As an indirect provider, you use Partner Center to:
 
--   Обмен информацией с непрямыми торговыми посредниками, которые помогают вам расширить свою аудиторию и базу клиентов
--   Установление партнерства с непрямыми торговыми посредниками, что позволит вам обоим обслуживать общих клиентов
--   Назначение непрямых торговых посредников для управления конкретными клиентами и подписками 
--   Управление отношениями с корпорацией Майкрософт, клиентами и непрямыми торговыми посредниками в одном месте
+-   Connect with indirect resellers who can help expand your reach and customer base
+-   Establish partnerships with indirect resellers that allow you both to serve common customers
+-   Designate indirect resellers to manage specific customers and subscriptions 
+-   Manage your relationships with Microsoft, customers, and indirect resellers all in one place
+-   Попадите в [список официальных косвенных поставщиков Майкрософт](https://partnercenter.microsoft.com/en-us/partner/find-a-provider) 
 
-Дополнительные сведения о непрямой модели в CSP см. в разделе [Сведения о непрямой модели](https://partner.microsoft.com/cloud-solution-provider/indirect) на [веб-сайте Microsoft Partner Network]( https://partner.microsoft.com). 
 
-## <a name="indirect-provider-tasks-on-partner-center"></a>Задачи непрямого поставщика в Центре партнеров
+Дополнительные сведения о косвенной модели в CSP см. в разделе [Сведения о непрямой модели](https://partner.microsoft.com/cloud-solution-provider/indirect) на [веб-сайте Microsoft Partner Network]( https://partner.microsoft.com). 
 
-Выполните следующие действия для установки и управления партнерством с непрямыми торговыми посредниками и клиентами в Центре партнеров. Каждый шаг будет подробно описан ниже.
+## <a name="indirect-provider-tasks-on-partner-center"></a>Indirect provider tasks on Partner Center
 
-1.    Обмен информацией с непрямыми торговыми посредниками
+Выполните следующие действия для установки и управления партнерством с косвенными торговыми посредниками и клиентами в Центре партнеров. Ниже подробно описаны шаги 2 и 3.
 
-    - Прежде чем вы сможете взаимодействовать и проводить операции с торговыми посредниками, необходимо установить с ними партнерство в Центре партнеров. 
+1.  Изучите профиль вашей компании в [списке официальных косвенных поставщиков Майкрософт](https://partnercenter.microsoft.com/en-us/partner/find-a-provider). 
 
-2.    Связь с клиентами
+    -   Чтобы изменить профиль косвенного поставщика вашей компании, отправьте запрос в службу поддержки Центра партнеров и укажите название компании, логотип и целевой URL-адрес для каждого расположения. Мы обновим ваш профиль в течение двух–трех недель.<br>
 
-    - Свяжите новых клиентов и подписки с торговыми посредниками
-    - Установите отношения торгового посредника с существующими клиентами
- 
+2.  Обмен информацией с косвенными торговыми посредниками
 
-После выполнения этих действий вы сможете управлять своими связями торгового посредника на странице **Непрямые торговые посредники** из меню **Информационная панель**.
+    - Before you can interact and transact with resellers, you must establish partnerships with them in Partner Center. <br>
 
->**Важно.**<br> Перед началом работы с торговыми посредниками в Центре партнеров они должны быть зарегистрированы в качестве непрямых торговых посредников в программе CSP и иметь учетные записи Центра партнеров. Укажите своим торговым посредникам на раздел [Партнерство с непрямыми поставщиками в CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center) для получения сведений о регистрации в CSP. 
+3.  Connect with customers
 
-## <a name="connect-with-indirect-resellers"></a>Обмен информацией с непрямыми торговыми посредниками
+    - Associate new customers and subscriptions to resellers
+    - Establish reseller relationships with existing customers <br>
 
-Для взаимодействия и проведения операций с непрямыми торговыми посредниками в Центре партнеров необходимо установить с ними партнерство. Партнерство с непрямым торговым посредником позволяет как вам, так и торговому посреднику обслуживать общих клиентов.
+After you complete these steps, you can manage your reseller partnerships on the **Indirect resellers** page from your **Dashboard** menu.
 
-Чтобы установить партнерство, отправьте по электронной почте запрос на партнерство с торговым посредником. Перед началом работы убедитесь, что у вас есть адрес электронной почты торгового посредника. 
+>**Important**<br> Before you can start working with resellers on Partner Center, they must be enrolled as indirect resellers in the CSP program and have Partner Center accounts. Point your resellers to [Partner with indirect providers in CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) for information about enrolling in CSP. 
 
-1. Выберите **Непрямые торговые посредники** из меню **Информационная панель**. 
+## <a name="connect-with-indirect-resellers"></a>Connect with indirect resellers
 
-2. На странице **Непрямые торговые посредники** выберите пункт **Отправить запрос на партнерство**. Откроется черновик сообщения электронной почты.
+To interact and transact with indirect resellers in Partner Center, you must establish a partnership with them. Having a partnership with an indirect reseller allows you and the reseller to both serve common customers.
 
-3. Выберите команду **Открыть в сообщении электронной почты**, чтобы открыть это сообщение в приложении электронной почты по умолчанию, или выберите **Копировать в буфер обмена**, чтобы скопировать и вставить его в сообщение электронной почты. По завершении нажмите кнопку **Готово**.
+To establish a partnership, email a partnership request to the reseller. Be sure to have the reseller’s email address on hand before you get started. 
 
-   >**Важно** Можно редактировать текст в сообщении электронной почты, но не забудьте включить в него данную ссылку, так как оно будет персонализировано для вашей учетной записи Центра партнеров.
+1. Select **Indirect resellers** from your **Dashboard** menu. 
 
-4. После того, как торговый посредник примет запрос на партнерство, он появится в вашем списке непрямых торговых посредников и вы сможете выполнять перечисленные ниже действия. 
+2. On the **Indirect resellers** page, select **Request a partnership**. A draft email message appears.
 
-    -   Добавлять новых пользователей от его имени
-    -   Отправлять заказы от имени его клиентов 
-    -   Привязывать торгового посредника к подписке, чтобы он мог управлять ей от имени клиента, который ее приобрел
-    -   Назначать его контактным лицом технической поддержки клиента для конкретных подписок
+3. Select **Open in email** to open the message in your default email application, or select **Copy to clipboard** to copy and then paste the message into an email. Select **Done** when finished.
 
-В зависимости от уровня доступа и участия, который вы хотите предоставить торговому посреднику, можно выполнить одно или несколько из описанных ниже действий.
+   >**Important** You can edit the text in the email message, but be sure to include the link as it is personalized for your Partner Center account.
 
-| **Для этого необходимо** | **Действие** | **Где** |
+4. After the reseller accepts your partnership request, they’ll appear in your indirect resellers list, and you’ll be able to: 
+
+    -   Add new customers on their behalf
+    -   Submit orders on behalf of their customers 
+    -   Associate them with a subscription so they can manage it on behalf of the customer who purchased it
+    -   Designate them as the customer’s support contact for specific subscriptions
+
+Depending on the level of access and involvement you want the reseller to have, you may want to take one or more of the actions described below.
+
+| **To accomplish this** | **Do this** | **Where** |
 |   ------------------   |   -------   |   -----   |
-| Разрешить торговому посреднику управлять учетной записью клиента и иметь права администратора на управление его подписками | Связать торгового посредника с учетной записью клиента при добавлении нового клиента | На странице **Новый клиент** |
-| Дать торговому посреднику кредит для поощрений | Связать торгового посредника с подпиской (новой или существующей) | На странице **Новая подписка** |
-| Передать торговому посреднику поддержку клиента для определенных подписок | Выберите торгового посредника из списка **Назначенное контактное лицо поддержки** | На странице сведений о подписке: выберите клиента на странице **Клиенты**, а затем выберите подписку на странице клиента **Подписки** |
+| Enable the reseller to manage a customer’s account and have administrator permissions to manage their subscriptions | Associate a reseller to a customer account when adding a new customer | On the **New customer** page |
+| Give the reseller credit for incentives | Associate the reseller to the subscription (new or existing) | On the **New subscription** page |
+| Delegate customer support for specific subscriptions to the reseller | Select the reseller from the **Designated support contact** list | On the subscription’s detail page: Select the customer from your **Customers** page, then select the subscription from the customer’s **Subscriptions** page |
 
 
-## <a name="connect-with-customers"></a>Связь с клиентами
+## <a name="connect-with-customers"></a>Connect with customers
 
-При получении новых клиентов необходимо создать для них учетные записи в Центре партнеров. При добавлении новой учетной записи клиента можно назначить определенного торгового посредника для управления учетной записью и администрирования подписок и служб клиентов от их имени. 
+When you get new customers, you need to create accounts for them in Partner Center. When you add a new customer account, you can designate a specific reseller to manage the account and administer the customers’ subscriptions and services on their behalf. 
 
-При связывании торгового посредника с новой учетной записью клиента вы делегируете ему управление подписками и учетными записями. Это означает, что торговый посредник будет иметь доступ с правами администратора к подпискам и службам клиента и управлять ими от имени клиента.
+When you associate a reseller with a new customer account, you are delegating account and subscription management to the reseller. This means that the reseller has administrator access to the customer’s subscriptions and services and can manage them on behalf of the customer.
 
-### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Добавление новых клиентов и их связывание с непрямыми торговыми посредниками
+### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Add new customers and associate them with indirect resellers
 
-1.    Выберите **Непрямые торговые посредники** в меню **Информационная панель**. 
+1.  Select **Indirect resellers** from your **Dashboard** menu. 
 
-2.    Найдите непрямого торгового посредника, которого вы хотите назначить для новых клиентов, а затем выберите команду **Добавить нового клиента**. Обратите внимание на то, что непрямой торговый посредник уже выбран для вас в форме сведений о клиенте. Предоставьте сведения о клиенте, а затем выберите **Далее: подписки**. 
-3.    На странице **Новая подписка** выберите подписки, которые клиент хочет приобрести, а затем введите количество лицензий, необходимых пользователю. 
+2.  Find the indirect reseller that you want to assign new customers to and then select **Add new customer**. Note that the indirect reseller is already selected for you on the customer detail form. Provide the customer’s details and then select **Next: Subscriptions** . 
+3.  On the **New subscription** page, select the subscription(s) the customer wants to buy and then enter the number of licenses the customer needs. 
 
-4.    Выберите **Далее: просмотр**.
+4.  Select **Next: Review**.
 
-5.    Если заказ верен, нажмите кнопку **Отправить**. Если заказ неверен, нажмите кнопку **Отменить**, чтобы отменить всю операцию и начать заново.
+5.  If the order is correct, select **Submit**. Если заказ неверен, нажмите кнопку **Отменить**, чтобы отменить всю операцию и начать заново.
 
-6.    После отправки заказа откроется страница **Подтверждение*. В разделе **Сведения об установки** отображаются имя учетной записи администратора и временный пароль. Скопируйте сведения об имени и пароле к учетной записи пользователя, чтобы можно было отправить их новому клиенту. 
+6.  После отправки заказа откроется страница **Подтверждение**. В разделе **Сведения об установке** отображаются имя учетной записи администратора и временный пароль. Copy down the user account name and password information so you can send it on to the new customer. 
 
-    >**Важно** Обязательно запишите имя учетной записи пользователя и пароль, так как вы не сможете получить доступ к этой информации еще раз после закрытия этой страницы.
+    >**Important**  Be sure to make a note of the user account name and password as you won’t be able to access this information again after you close this page.
 
-7.  Нажмите кнопку **Готово**. Новый клиент отобразится в списке клиентов, связанном с данным непрямым торговым посредником. Торговый посредник теперь имеет доступ администратора к сведениям об учетной записи и подпискам пользователя и может управлять подписками от имени клиента.
+7.  Select **Done**. The new customer appears in your customer list, associated with the indirect reseller. The reseller now has admin access to the customer’s account information and subscriptions and can manage the subscriptions on the customer’s behalf.
 
-### <a name="add-new-subscriptions-to-customer-accounts"></a>Добавление новых подписок в учетные записи пользователей
+### <a name="add-new-subscriptions-to-customer-accounts"></a>Add new subscriptions to customer accounts
 
-Когда клиенты захотят купить новые подписки, обновить существующие или приобрести дополнительные лицензии, вы внесете эти изменения в учетную запись клиента. 
+When customers want to buy new subscriptions, upgrade existing ones, or buy additional licenses, you make these changes in the customer’s account. 
 
-1.    В меню **Информационная панель** выберите пункт **Клиенты**. 
+1.  Select **Customers** from your **Dashboard** menu. 
 
-2.    Найдите клиента, учетную запись которого вы хотите изменить. Можно отфильтровать список по непрямому торговому посреднику для сужения вашего выбора. Разверните запись клиента, нажав кнопку со стрелкой вниз, и выберите **Добавить подписку**.
+2.  Find the customer whose account you want to change. You can filter the list by indirect reseller to narrow your choices. Expand the customer’s record by selecting the down arrow, and then selecting **Add subscription**.
 
-3.    На странице **Новая подписка** выберите подписки и введите количество лицензий, которое хочет приобрести клиент. 
+3.  On the **New subscription** page, select the subscription(s) and enter the number of licenses the customer wants to purchase. 
 
-4.    Чтобы связать подписку с торговым посредником, выберите имя торгового посредника в списке и нажмите кнопку **Отправить**. Связывание торгового посредника с подпиской дает ему возможность заработать поощрения, если возможно.
+4.  To associate the subscription with a reseller, select the reseller’s name from the list and then select **Submit**. Associating the reseller with the subscription enables them to earn incentives, if applicable.
 
-5.    Новые подписки появится в списке подписок клиента. 
+5.  The new subscription(s) appears in the customer’s subscriptions list. 
 
-6.    Если вы хотите, чтобы торговый посредник обрабатывал запросы клиента на поддержку для новой подписки, выберите подписку, а затем выберите торгового посредника из списка **Назначенные контактные лица поддержки**.
+6.  If you want the reseller to handle customer support requests for the new subscription, select the subscription and then select the reseller from the **Designated support contact** list.
 
-7.    По завершении нажмите кнопку **Отправить**. 
+7.  Select **Submit** when finished. 
 
-## <a name="see-also"></a>См. также:
+## <a name="see-also"></a>See also
 
-Дополнительные сведения об управлении учетными записями клиентов и подписками см. в следующих разделах:
+For more information about managing customer accounts and subscriptions, see:
 
-[Учетные записи клиента](customer-accounts.md)
+[Customer accounts](customer-accounts.md)
 
-[Подписки клиентов](customer-subscriptions.md)
+[Customer subscriptions](customer-subscriptions.md)
 
 
 

@@ -1,82 +1,82 @@
 ---
-title: "Регистрация в программе CSP | Центр партнеров"
-description: "Прежде чем регистрироваться в программе поставщиков облачных решений, ознакомьтесь с требованиями программы CSP."
+title: Enroll in the CSP program | Partner Center
+description: Before you enroll in the Cloud Solution Provider program, learn more about the CSP program requirements.
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
-ms.openlocfilehash: f5e4f345ed3bdf33022e135f17f2f9e908b67457
-ms.sourcegitcommit: a905afc18ffc20e3469933fa005336f1e9b520f4
+ms.openlocfilehash: 36adc9c4b35f5d64dbb3e5f84a03e9348a773384
+ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/07/2017
+ms.lasthandoff: 09/01/2017
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program"></a>Регистрация в программе поставщиков облачных решений
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>Enroll in the Cloud Solution Provider program
 
-**Относится к:**
+**Applies to**
 
--  Центр партнеров
+-  Partner Center
 
->**Примечание.**<br>
-Сведения о регистрации в программе поставщиков облачных решений Microsoft Cloud в Германии см. в разделах [Регистрация в программе поставщиков облачных решений Microsoft Cloud в Германии](enroll-in-csp-for-microsoft-cloud-germany.md) и [Центр партнеров Microsoft Cloud в Германии](partner-center-for-microsoft-cloud-germany.md).
+>**Note**<br>
+For information about enrolling in the Cloud Solution Provider program for Microsoft Cloud Germany, see [Enroll in the Cloud Solution Provider program for Microsoft Cloud Germany](enroll-in-csp-for-microsoft-cloud-germany.md) and [Partner Center for Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md).
 
-Прежде чем регистрироваться в программе поставщиков облачных решений (CSP), ознакомьтесь с [требованиями программы CSP]( http://go.microsoft.com/fwlink/p/?LinkId=617116). Подробнее о соглашении с партнерами и других требованиях программы см. в разделе [Соглашения, прайс-листы и предложения CSP](csp-documents-and-learning-resources.md). 
+Before you enroll in the Cloud Solution Provider (CSP) program, learn more about the [CSP program requirements]( http://go.microsoft.com/fwlink/p/?LinkId=617116). For more information about the partner agreement and other program requirements, see [CSP agreements, price lists, and offers](csp-documents-and-learning-resources.md). 
 
->**Важно.**<br>
-Партнер CSP в настоящий момент не может перепродавать веб-службы другому партнеру CSP. Это ограничение применяется только к клиенту, используемому для проведения транзакций CSP. Партнеры CSP, использующие отличный от CSP клиент для своих корпоративных нужд, могут приобретать интерактивные службы у другого CSP. Корпорация Майкрософт постоянно пересматривает политику и возможности всех программ. Вы будете получать объявления о выпуске новых функций посредством обычных каналов связи, в том числе через Центр партнеров.  
+>**Important**<br>
+A CSP partner cannot resell online services to another CSP partner currently. This restriction only applies to the tenant used for conducting CSP transactions. CSP partners that use a non-CSP tenant for their corporate usage can purchase online services from another CSP. Microsoft continuously reviews policies and capabilities of all programs. Any announcements about feature releases will be announced through the usual communication channels, including Partner Center.  
 
-Узнайте, как получать поощрения программы CSP, зарегистрироваться в платформе поощрений и получать фонды поощрений. См. раздел [Сведения о программе](https://go.microsoft.com/fwlink/?linkid=831533).
+Learn how to qualify for CSP program incentives, onboard to the incentives platform, and earn incentives funds. See [Program Details](https://go.microsoft.com/fwlink/?linkid=831533).
 
-## <a href="" id="markets"></a>Доступность
+## <a href="" id="markets"></a>Availability
 
 
-Программа поставщиков облачных решений доступна для компаний и отделений в приведенных ниже странах и регионах. Они сгруппированы по рынкам. Партнеры по программе CSP могут осуществлять продажу в другие страны на том же рынке, даже если у них нет отделений в этих регионах.
+The Cloud Solution Provider program is available to companies with offices in the following countries/regions. These are grouped by market. Partners in the CSP program can sell to other countries within the same market even if they don't have an office in those locations.
 
-| Доступность по рынкам                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Availability by market                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Бразилия                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Канада                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Индия                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Япония                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Корея, Республика                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Новая Зеландия                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Россия                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Тайвань (Китай)                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Соединенные Штаты                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Австралия, Фиджи                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Ангилья, Антигуа и Барбуда, Аргентина, Аруба, Багамы, Барбадос, Белиз, Бермуды, Боливия, Бонайре, Острова Кайман, Чили, Колумбия, Коста-Рика, Кюрасао, Доминиканская Республика, Эквадор, Сальвадор, Французская Гвиана, Гваделупа, Гватемала, Гондурас, Ямайка, Мартиника, Мексика, Никарагуа, Панама, Парагвай, Перу, Пуэрто-Рико, Сент-Китс и Невис, Сент-Люсия, Сен-Мартен, Сент-Винсент и Гренадины, Синт-Мартен, Суринам, Тринидад и Тобаго, о-ва Тёркс и Кайкос, Уругвай, Венесуэла, Виргинские о-ва (США)                                                                                                           |
+| Brazil                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Canada                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| India                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Japan                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Korea                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| New Zealand                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Russia                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Taiwan                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| United States                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Australia, Fiji                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Cayman Islands, Chile, Colombia, Costa Rica, Curacao, Dominican Republic, Ecuador, El Salvador, French Guiana, Guadeloupe, Guatemala, Honduras, Jamaica, Martinique, Mexico, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Martin, Saint Vincent and the Grenadines, Sint Maarten, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, U.S. Virgin Islands                                                                                                           |
 | Андорра, Австрия, Бельгия, Болгария, Хорватия, Кипр, Чешская Республика, Дания, Эстония, Финляндия, Франция, Германия, Греция, Гренландия, Венгрия, Исландия, Ирландия, о-в Мэн, Италия, Джерси, Латвия, Лихтенштейн, Литва, Люксембург,Мадагаскар, Малави, Мали, Мальта, Майотта, Монако, Нидерланды, Новая Каледония, Норвегия, Польша, Португалия, Румыния, Сан-Марино, Словакия, Словения, Испания, Швеция, Швейцария, Великобритания, Ватикан, Фарерские острова                                                                                          |
 | Афганистан, Албания, Алжир, Армения, Азербайджан, Бахрейн, Беларусь, Бенин, Босния и Герцеговина, Бурунди, Коморы, Египет, Французская Полинезия, Грузия, Ирак, Израиль, Иордания, Казахстан, Кувейт, Кыргызстан, Ливан, Ливия, Македония (БЮРМ), Молдова, Монголия, Черногория, Марокко, Мозамбик, Оман, Пакистан, Палестинская автономия, Катар, Реюньон, Сербия, Сейшельские острова, Таджикистан, Того, Тунис, Туркменистан, Украина, Объединенные Арабские Эмираты, Узбекистан, Саудовская Аравия, Южная Африка, Турция, Йемен, Зимбабве |
-| Ангола, Ботсвана, Камерун, Кабо-Верде, Кот-д’Ивуар, Эфиопия, Гана, Кения, Маврикий, Намибия, Нигерия, Руанда, Сенегал, Танзания, Уганда, Замбия                                                                                                                                                                                                                                                                                  |
-| Бангладеш, Бутан, Бруней-Даруссалам, Камбоджа, Гонконг (САР), Индонезия, Лаос, Малайзия, Мальдивы, Маршалловы Острова, Мьянма, Непал, Папуа — Новая Гвинея, Филиппины, Сингапур, Шри-Ланка, Таиланд, Тонга, Вьетнам, Макао (САР)                                                                                                                                                                                                                                                                                           |
-## <a name="billing-currencies-by-country"></a>Валюты счетов по странам
+| Angola, Botswana, Cameroon, Cabo Verde, Côte d'Ivoire, Ethiopia, Ghana, Kenya, Mauritius, Namibia, Nigeria, Rwanda, Senegal, Tanzania, Uganda, Zambia                                                                                                                                                                                                                                                                                  |
+| Bangladesh, Bhutan, Brunei Darussalam, Cambodia, Hong Kong SAR, Indonesia, Laos, Malaysia, Maldives, Marshall Islands, Myanmar, Nepal, Papua New Guinea, Philippines, Singapore, Sri Lanka, Thailand, Tonga, Vietnam, Macao SAR                                                                                                                                                                                                                                                                                           |
+## <a name="billing-currencies-by-country"></a>Billing currencies by country
 
-Ваш географическое положение определяет валюту, в которой вам будет выставлен счет, как показано в следующей таблице. 
+Your geographic location determines the currency in which you are billed, as shown in the following table. 
 
-| Валюта | Страна |
+| Currency | Country |
 | ---- | ---- |
-| Доллар США (USD) | Албания, Ангилья, Антигуа и Барбуда, Аргентина, Армения, Аруба, Азербайджан, Багамы, Бахрейн, Бангладеш, Барбадос, Беларусь, Белиз, Бенин, Бермуды, Боливия, Бонайре, Бразилия, Бруней, Бурунди, Камерун, Острова Кайман, Чили, Колумбия, Коморы, Коста-Рика, Кюрасао, Доминиканская Республика, Эквадор, Египет, Сальвадор, Фиджи, Французская Гвиана, Французская Полинезия, Грузия, Гана, Гватемала, Гондурас, Гонконг (САР), Индонезия, Ирак, Израиль, Ямайка, Казахстан, Кения, Кувейт, Киргизия, Ливан, Макао (САР), Мадагаскар, Малави, Малайзия, Мали, Маврикий, Майотта, Мексика, Марокко, Намибия, Новая Каледония, Никарагуа, Нигерия, Оман, Пакистан, Панама, Парагвай, Перу, Филиппины, Пуэрто-Рико, Катар, Реюньон, Руанда, Сент-Люсия, Сен-Мартен, Сент-Винсент и Гренадины, Саудовская Аравия, Сербия, Сейшельские Острова, Сингапур, Синт-Мартен, Южная Африка, Шри-Ланка, Суринам, Танзания, Таиланд, Тимор-Лесте, Того, Тринидад и Тобаго, Тунис, Турция, о-ва Тёркс и Кайкос, Виргинские о-ва (США), Украина, Объединенные Арабские Эмираты, США, Уругвай, Венесуэла, Вьетнам  | 
-| Новый тайваньский доллар (TWD) | Тайвань |
-| Шведская крона (SEK) | Швеция |
-| Индийская рупия (INR) | Индия |
-| Рубль (RUB) | Россия |
-| Новозеландский доллар (NZD) | Новая Зеландия |
-| Норвежская крона (NOK) | Норвегия |
-| Вона (KRW) | Республика Корея |
-| Иена (JPY) | Япония |
-| Фунт стерлингов (GBP) | о-в Мэн, Джерси, Соединенное Королевство |
-| Евро (EUR) | Андорра, Австрия, Бельгия, Хорватия, Чешская Республика, Эстония, Фарерские о-ва, Финляндия, Франция, Германия, Греция, Венгрия, Исландия, Ирландия, Италия, Латвия, Лихтенштейн, Литва, Люксембург/Бельгия, Нидерланды, Польша, Португалия, Румыния, Сан-Марино, Словакия, Словения, Испания |
-| Датская крона (DKK) | Дания |
-| Швейцарский франк (CHF) | Швейцария |
-| Канадский доллар (CAD) | Канада |
-| Австралийский доллар (AUD) | Австралия, Маршалловы Острова, Папуа — Новая Гвинея, Тонга |
+| USD | Albania, Anguilla, Antigua and Barbuda, Argentina, Armenia, Aruba, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belize, Benin, Bermuda, Bolivia, Bonaire, Brazil, Brunei, Burundi, Cameroon, Cayman Islands, Chile, Colombia, Comoros, Costa Rica, Curaçao, Dominican Republic, Ecuador, Egypt, El Salvador, Fiji, French Guiana, French Polynesia, Georgia, Ghana, Guatemala, Honduras, Hong Kong SAR, Indonesia, Iraq, Israel, Jamaica, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Lebanon, Macao SAR, Madagascar, Malawi, Malaysia, Mali, Mauritius, Mayotte, Mexico, Morocco, Namibia, New Caledonia, Nicaragua, Nigeria, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Puerto Rico, Qatar, Reunion, Rwanda, Saint Lucia, Saint Martin, Saint Vincent and the Grenadines, Saudi Arabia, Serbia, Seychelles, Singapore, Sint Maarten, South Africa, Sri Lanka, Suriname, Tanzania, Thailand, Timor-Leste, Togo, Trinidad and Tobago, Tunisia, Turkey, Turks and Caicos Islands, U.S. Virgin Islands, Ukraine, United Arab Emirates, United States, Uruguay, Venezuela, Vietnam  | 
+| TWD | Taiwan |
+| SEK | Sweden |
+| INR | India |
+| RUB | Russia |
+| NZD | New Zealand |
+| NOK | Norway |
+| KRW | Korea |
+| JPY | Japan |
+| GBP | Isle of Man, Jersey, United Kingdom |
+| EUR | Andorra, Austria, Belgium, Croatia, Czech Republic, Estonia, Faroe Islands, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg/Belgium, Netherlands, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain |
+| DKK | Denmark |
+| CHF | Switzerland |
+| CAD | Canada |
+| AUD | Australia, Marshall Islands, Papua New Guinea, Tonga |
 
  
 
-## <a name="partner-center-account"></a>Учетная запись Центра партнеров
+## <a name="partner-center-account"></a>Partner Center account
 
 
-В Центре партнеров требуется, чтобы у администратора вашей компании был электронный адрес, который прошел проверку подлинности Azure AD. Администратор может использовать любую из имеющихся почтовых учетных записей из облачной службы Майкрософт, включая Office 365, Azure AD, Microsoft Intune, Enterprise Mobility Services и пр. В процессе получения статуса торгового посредника этот адрес станет электронным адресом администратора для учетной записи торгового посредника.
+Partner Center requires that the admin for your company has an email address that is authenticated by Azure AD. The admin can use any of their existing work email accounts from a Microsoft cloud service, including Office 365, Azure AD, Microsoft Intune, Enterprise Mobility Services, etc. The process of becoming a reseller will turn this email address into the admin email for a reseller account.
 
-Обратите внимание, что ваш существующий адрес электронной почты, прошедший проверку подлинности Azure AD, уже зарегистрирован в некоторых странах. Если вы хотите осуществлять продажу в другой стране или в нескольких странах, необходимо создать отдельный электронный адрес, зарегистрированный во всех странах, и использовать эти адреса электронной почты для регистрации.
+Note that your existing Azure AD-authenticated email address is already registered in a certain market. If you want to sell in a different market, or in multiple markets, you must create a separate email address registered in each market, and use those email addresses to enroll.
 
  
 

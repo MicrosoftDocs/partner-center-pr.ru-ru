@@ -1,143 +1,216 @@
 ---
-title: "Партнерство с косвенными поставщиками в CSP | Центр партнеров"
-description: "Будучи косвенным торговым посредником в CSP, вы работаете с косвенными поставщиками (также называются дистрибьюторами), которые находятся в непосредственных отношениях с корпорацией Майкрософт и могут предоставлять поддержку клиентов и выставлять счета. Это означает, что вы можете обратиться за помощью к опытному поставщику технологий, который поможет вам достичь успеха. В модели &quot;поставщик-посредник&quot; (2 уровня) поставщик покупает у корпорации Майкрософт облачные решения и службы, которые вы перепродаете клиентам."
+title: Partner with indirect providers in CSP | Partner Center
+description: "As an indirect reseller in CSP, you work with indirect providers (also known as distributors) who have a direct relationship with Microsoft and can provide customer support and billing. This means you don’t have to begin on your own but can instead work with an experienced technology provider to help ensure your success. In the provider-reseller (two-tier) model, the provider buys cloud solutions and services from Microsoft that you resell to customers."
 ms.prod: 
 author: MaggiePucciEvans
-ms.openlocfilehash: c2e75d641133049b1c4038f2b80b15f0b0e9459c
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.openlocfilehash: 2b2b8fc3a58a3ff67c1a96558df49a594fe8e74f
+ms.sourcegitcommit: e79f756c7203751b8fd6ad26883a0568c91a6c8b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 08/16/2017
 ---
-# <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Партнерство с косвенными поставщиками в программе Cloud Solution Provider
+# <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Partner with indirect providers in the Cloud Solution Provider program
 
-Быстро растущий спрос на облачные решения и службы открывает партнерам корпорации Майкрософт любых размеров многочисленные возможности для построения прибыльных компаний по разработке облачных решений. Партнеры, которые готовы выходить на рынок, но не имеют полной инфраструктуры выставления счетов и поддержки клиентов, могут зарегистрироваться в программе Cloud Solution Provider (CSP) Майкрософт как косвенные торговые посредники.
+The rapidly growing demand for cloud-based solutions and services provides many opportunities for Microsoft partners of all sizes to build profitable cloud solution businesses. Партнеры, которые готовы выходить на рынок, но не хотят управлять отношениями с несколькими поставщиками или не имеют полной инфраструктуры для управления отношениями с клиентами, могут зарегистрироваться в программе Cloud Solution Provider (CSP) Майкрософт как косвенные торговые посредники.
 
-Будучи косвенным торговым посредником в CSP, вы работаете с косвенными поставщиками (также называются дистрибьюторами), которые находятся в непосредственных отношениях с корпорацией Майкрософт и могут предоставлять поддержку клиентов и выставлять счета. Это означает, что вы можете обратиться за помощью к опытному поставщику технологий, который поможет вам достичь успеха. В модели "поставщик-посредник" (2 уровня) поставщик покупает у корпорации Майкрософт облачные решения и службы, которые вы перепродаете клиентам.
+Как косвенный торговый посредник в CSP вы работаете с косвенными поставщиками (также называются дистрибьюторами), которые находятся в непосредственных отношениях с корпорацией Майкрософт и могут предоставлять поддержку клиентов и выставлять счета. This means you don’t have to begin on your own but can instead work with an experienced technology provider to help ensure your success. In the provider-reseller (two-tier) model, the provider buys cloud solutions and services from Microsoft that you resell to customers.
 
-Различные косвенный поставщики предлагают различную поддержку и службы, поэтому вам следует оценить поставщиков в своем регионе, чтобы определить, какие из них лучше всего соответствуют вашим требованиям. Как правило, большинство поставщиков: 
+Different indirect providers offer different support and services, so you should evaluate the providers in your area to determine which ones best meet your needs. Generally, most providers will: 
 
--   предоставляют вашим клиентам поддержку для продуктов и служб Майкрософт;
 -   предоставляют вам техническую поддержку;
 -   помогают вам с маркетингом продуктов и служб; 
 -   помогают установить финансовые и кредитные условия.
 
-Дополнительные сведения о непрямой модели в CSP см. в разделе [Сведения о непрямой модели](https://partner.microsoft.com/cloud-solution-provider/indirect) на [веб-сайте Microsoft Partner Network]( https://partner.microsoft.com). 
+If you’re not already working with a provider (also known as a distributor), you can [search the list of official Microsoft providers](https://partnercenter.microsoft.com/en-us/partner/find-a-provider) to find one.
 
 
-## <a name="enroll-as-a-new-indirect-reseller-in-the-cloud-solution-provider-program"></a>Регистрация в качестве нового косвенного торгового посредника в программе Cloud Solution Provider
+Дополнительные сведения о том, что необходимо для продажи в рамках программы CSP в качестве косвенного торгового посредника, см. в разделе [Начало работы в качестве косвенного торгового посредника](https://partner.microsoft.com/cloud-solution-provider/whats-required) на [веб-сайте Microsoft Partner Network](https://partner.microsoft.com/). 
 
->**Примечание.** Если вы уже зарегистрированы в CSP, вам может потребоваться только предоставить контактные данные службы поддержки клиентов, чтобы создать учетную запись торгового посредника в Центре партнеров. 
 
-### <a name="before-you-begin"></a>Перед началом работы
+## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>Регистрация в качестве нового косвенного торгового посредника в программе Cloud Solution Provider
 
-Если вы не знакомы с CSP, вам нужно зарегистрироваться в программе как косвенный торговый посредник и создать учетную запись в Центре партнеров. Для этого необходимо указать следующие сведения в процессе регистрации. Рекомендуется потратить несколько минут, чтобы собрать эти сведения, прежде чем начать:
+>**Note**  If you are already enrolled in CSP, you may need to provide only customer support contact information to create a reseller account on Partner Center. 
 
--   **Учетные данные глобального администратора для клиента Microsoft Azure Active Directory вашей организации.**<br>
-    Если у вашей организации нет клиента Azure Active Directory, его можно создать в процессе регистрации.
+### <a name="before-you-begin"></a>Before you begin
+
+If you are new to CSP, you’ll need to enroll in the program as an indirect reseller and create an account on Partner Center. To do so, you’ll need to provide the following information during the enrollment process. You may want to take a few minutes to gather these items before you get started:
+
+-   **Учетные данные глобального администратора для вашей рабочей учетной записи**<br>
+Вам необходимо указать имя пользователя и пароль, применяемые для входа в Office 365, Microsoft Azure или Microsoft Dynamics CRM. Если у вас нет рабочей учетной записи, вы можете создать ее во время регистрации. Если вы не знаете, если ли у вас рабочая учетная запись, см. раздел [Рабочие учетные записи и Центр партнеров](azure-active-directory-tenants-and-partner-center.md).
+
 
 -   **Имя пользователя и пароль, которые вы используете для входа на сайт Partner Membership Center**<br>
-Мы используем эту информацию, чтобы связать идентификатор Microsoft Partner Network (идентификатор MPN) вашей организации с вашей новой учетной записью Центра партнеров, чтобы вы могли управлять своими преимуществами членства и данными в Центре партнеров.
+We use this information to link your organization's Microsoft Partner Network ID (MPN ID) with your new Partner Center account so that you can manage your membership benefits and data in Partner Center.
 
--   **Официальное название вашей организации, адрес, основное контактное лицо и сведения о поддержке.**<br>
-Нам нужна эта информация, чтобы убедиться, что у корпорации Майкрософт есть профиль вашей организации и что вы уполномочены действовать от ее имени.
+-   **Your organization’s legal business name, address, primary contact, and support details**<br>
+We need this information to confirm that your organization has an established profile with Microsoft and that you are authorized to act on its behalf.
  
-Обратите внимание, что анализ и проверка предоставленной вами информации может занять у нас несколько дней. По окончании проверки мы отправим сообщение электронной почты вашему основному контактному лицу.
+Please note that it can take us several days to review and verify the information you’ve provided. We’ll email your primary contact when we’ve completed our review.
 
-### <a name="get-started"></a>Приступая к работе
+### <a name="get-started"></a>Get started
 
-1.  Начните процесс регистрации [здесь](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller).
+1.  Kick off the enrollment process [here](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller).
 
 2.  Просмотрите страницу **Приветствие**, чтобы получить информацию, необходимую для регистрации, а затем выберите **Далее**.
 
-3.  Войдите в клиент Azure Active Directory (Azure AD) своей организации как глобальный администратор. Выберите **Войти в Azure AD**, если вы знаете, что у вашей организации есть клиент Azure AD. На следующей странице введите учетные данные глобального администратора для вашего клиента.
+3.  Войдите в систему с рабочей учетной записью. Нажмите кнопку **Вход** и введите имя пользователя и пароль, которые вы указываете для входа в качестве глобального администратора в Office 365, Microsoft Azure или Microsoft Dynamics CRM. 
 
-    Если у вашей организации нет клиента Azure AD, выберите **Создать новый клиент**, чтобы настроить его. После настройки клиента Azure AD выполните вход, используя учетные данные глобального администратора для своего нового клиента.
+    Если у вас нет рабочей учетной записи, нажмите кнопку **Создать**, чтобы создать ее. После создания рабочей учетной записи выполните вход, используя учетные данные глобального администратора для новой учетной записи.
 
-4.  Просмотрите сведения о том, как сопоставить идентификатор Microsoft Partner Network (идентификатор MPN) со своей новой учетной записью Центра партнеров. Нам необходимо связать идентификатор MPN вашей организации с вашей новой учетной записью Центра партнеров, чтобы вы могли управлять своими преимуществами членства и поощрениями в Центре партнеров. Выберите **Войти**.
+4.  Просмотрите сведения о том, как сопоставить идентификатор Microsoft Partner Network (идентификатор MPN) со своей новой учетной записью Центра партнеров. We need to link your organization's MPN ID with your new Partner Center account so that you can manage your membership benefits and incentives on Partner Center. Select **Sign in**.
 
-5.  Введите имя пользователя, которое вы используете для входа на сайт Partner Membership Center (PMC). Partner Membership Center— это тот сайт, на котором вы сейчас управляете своей учетной записью партнера Майкрософт. Вход в Partner Membership Center позволяет нам получить ваш идентификатор MPN и сопоставить его с новой учетной записью Центра партнеров. Выберите **Далее**. 
+5.  Enter the user name you use to sign in to the Partner Membership Center (PMC) site. The Partner Membership Center site is where you currently manage your Microsoft partner account. Signing in to Partner Membership Center allows us to retrieve your MPN ID and associate it to your new Partner Center account. Select **Next**. 
 
-6.  Введите пароль для своей учетной записи Partner Membership Center, а затем выберите **Вход**.
+6.  Enter the password for your Partner Membership Center account and then select **Sign in**.
 
-7.  Выберите профиль организации с идентификатором MPN, связанным с вашими поощрениями, преимуществами членства и компетенциями, чтобы мы могли переместить эти сведения в вашу учетную запись Центра партнеров. Выберите пункт **Продолжить**.
+7.  Select the organization profile with the MPN ID that’s linked to your incentives, membership benefits, and competencies so we can move this information to your Partner Center account. Select **Continue**.
 
-    Если вы хотите использовать идентификатор MPN, который не указан на этой странице, выберите **Отмена** и снова войдите в систему с помощью имени пользователя и пароля для профиля организации, который вы хотите использовать. 
+    If the MPN ID you want to use is not listed on this page, select **Cancel** and sign in again with the user name and password for the organization profile you want to use. 
 
-    >**Важно.** Выберите идентификатор MPN, сопоставленный с активным профилем организации, который находится в той же стране или регионе, что и клиент Azure AD.
+    >**Important**  Select the MPN ID associated with an active organization profile that’s located in the same country/region as your Azure AD tenant.
 
-8.  Предоставьте или обновите официальный бизнес-профиль своей организации, основные контактные данные и сведения о поддержке клиентов. Выберите **Зарегистрироваться сейчас**.
+8.  Provide or update your organization’s legal business profile, primary contact information, and customer support information. Select **Enroll now**.
 
-    Основным контактным лицом должен быть сотрудник вашей организации, с которым мы сможем связываться по поводу вашего обращения (это можете быть вы или другой человек в вашей организации). Мы также будем использовать эту информацию для подтверждения того, что этот человек работает в вашей организации и зарегистрировался для получения учетной записи Центра партнеров.
+    The primary contact should be the person in your organization we can contact about your application (this can be you or another person in your organization). Обратите внимание, что мы не принимаем электронные адреса почтовых веб-служб, таких как Gmail, Yahoo! Mail, iCloud Mail, AOL Mail и Outlook Mail. 
 
-    >**Важно.** Чтобы обеспечить безопасность и конфиденциальность для вашей организации, мы отправим сообщение электронное письмо вашему основному контактному лицу, чтобы убедиться, (1) что этот человек регистрировался для получения учетной записи Центра партнеров и (2) что этот адрес электронной почты принадлежит вашей организации. После того как основное контактное лицо подтвердит свой адрес электронной почты, мы продолжим рассмотрение информации, которую вы предоставили. Мы будем отправлять по электронной почте сведения об обновлении статуса регистрации основному контактному лицу.
+    >**Important** To help ensure your organization’s security and privacy, we’ll email your primary contact to verify that (1) he or she signed up for a Partner Center account, and (2) that this email address belongs to your organization. After the primary contact verifies his or her email address, we’ll continue our review of the information you provided. We’ll email enrollment status updates to the primary contact.
 
-9.  Когда ваша учетная запись Центра партнеров будет готова для использования, убедитесь, что вы добавлены в группу агента администратора. Чтобы завершить настройку учетной записи, включая добавление других пользователей, необходимы разрешения агента администратора. Выполните эти действия, чтобы просмотреть или обновить разрешения:
+9.  When your Partner Center account is ready to use, verify that you’ve been added to the admin agent group. To finish setting up your account, including adding other users, you must have admin agent permissions. Follow these steps to view or update your permissions:
 
-    А.  В меню **Панель мониторинга** выберите пункт **Параметры учетной записи > Управление пользователями** и выберите свое имя в списке пользователей. 
+    a.  On the **Dashboard** menu, select **Account settings > User management** and select your name from the users list. 
 
-    Б.  Выберите **Агент администрирования**, если он еще не выбран, а затем выберите **Обновить**.    
+    b.  Выберите **Агент администрирования**, если он еще не выбран, а затем выберите **Обновить**.   
+
+## <a name="add-a-new-user"></a>Добавление нового пользователя
+
+1. On the **Dashboard** menu, select **Account settings > User management**.
+
+2. Select **Add user**.
+
+3. Enter the user’s full name and unique email address.
+
+4. Select the type of agent and the type of admin. Partner Center access is role-based, so you can assign permissions to customize the user's view to show only the features the user needs to complete specific tasks. For more information about what each role can do, see [Assign user permissions](#assignuserpermissions).
+
+5. Select **Add** to create the user account. Confirm the user's details on the next page.
+
+
+>**Important**<br>
+Make a note of the new user's sign-in information displayed on this page. Be sure to copy and send this information to the new user as you will not be able to access it again later. <br>
+
+>The user will need to sign in to Partner Center with their user name and temporary password. Когда пользователь входит в Центр партнеров в первый раз, будет предложено изменить свой пароль.        
+
+## <a name="assign-user-permissions"></a>Назначение разрешений для пользователей
+
+Доступ к Центру партнеров зависит от ролей, поэтому вы можете назначить разрешения, чтобы настроить представление пользователя на отображение только функциональных возможностей, необходимых пользователю для выполнения определенных задач. 
+
+Для каждого пользователя необходимо выбрать два уровня разрешений либо выбрать **не администратора** или **не агента**:
+
+-   Разрешения агента контролируют вид данных клиента и данных учетной записи пользователя, которые он может просматривать и изменять.
+
+-   Разрешения администратора контролируют уровень доступа, который есть у пользователя для функций центра партнеров. Этот параметр влияет на внешнюю среду Центра партнеров — глобальный администратор может получить доступ к учетным записям пользователей и клиентов также за пределами CSP.
+
+В следующей таблице описаны возможности каждой роли в центре партнеров.
+
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>Role in Partner Center</strong></p></td>
+<td><p><strong>What they can do</strong></p></td>
+<td><p><strong>What they can't do</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Агент администрирования</strong></p></td>
+<td><ul>
+<li><p>Работоспособность службы и запросы на обслуживание для клиентов</p></li>
+<li><p>Запрос на привилегии делегированного администратора</p></li>
+<li><p>Администрирование от имени клиента</p></li>
+</ul></td>
+<td><ul>
+<li><p>Управление пользователями</p></li>
+<li><p>Запросы в службу поддержки для Центра партнеров</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Агент службы технической поддержки</strong></p></td>
+<td><ul>
+<li><p>Поиск клиента и его просмотр</p></li>
+<li><p>Работоспособность службы</p></li>
+<li><p>Request support on behalf of customers (Note: You must be an admin agent to complete this task for Office 365 subscriptions)</p></li>
+<li><p>Manage subscriptions and services on behalf of customers (Note: You must be an admin agent to complete this task for Office 365 subscriptions)</p></li>
+</ul></td>
+<td><ul>
+<li><p>Просмотр профилей партнеров</p></li>
+<li><p>Запрос связи с клиентом</p></li>
+<li><p>Управление потенциальными заказчиками клиента</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong>Глобальный администратор</strong></p></td>
+<td><ul>
+<li><p>Can access all Microsoft account/services with full privileges</p></li>
+<li><p>Создание запросов в службу поддержки для Центра партнеров</p></li>
+<li><p>Просмотр, создание пользователей партнера и управление ними</p></li>
+<li><p>Прием запроса на сотрудничество от косвенного поставщика</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Администратор управления пользователями</strong></p></td>
+<td><ul>
+<li><p>View, create, and manage users</p></li>
+<li><p>Просмотр всех профилей партнеров</p></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## <a name="connect-with-an-indirect-provider"></a>Отношения с косвенным поставщиком
 
 Работая с косвенным поставщиком, вы можете предлагать пользователям более широкий выбор облачных служб и решений Майкрософт. У косвенных поставщиков есть системы и инфраструктура для надежного предоставления услуг по выставлению счетов и поддержки клиентов, благодаря чему вы можете сосредоточить внимание на своих технических решениях и взаимодействии с клиентами. 
 
-Если вы еще не работаете с поставщиком (другое название— дистрибьютор), вы можете [найти поставщика в списке официальных поставщиков корпорации Майкрософт](https://partnercenter.microsoft.com/en-us/partner/find-a-provider). Найдя поставщика, с которым вы хотели бы сотрудничать, обратитесь к нему напрямую, чтобы обсудить его программы посредничества, уровень поддержки и условия. Если вы и поставщик захотите работать вместе, вам потребуется соединить свои учетные записи в Центре партнеров. 
+If you’re not already working with a provider (also known as a distributor), you can [search the list of official Microsoft providers](https://partnercenter.microsoft.com/en-us/partner/find-a-provider) to find one. When you find a provider you want to partner with, contact them directly to discuss their reseller programs, level of support, and terms. If both you and the provider want to work together, you’ll need to connect your accounts on Partner Center. 
 
-Если косвенный поставщик захочет связаться с вами в Центре партнеров, ему потребуется выполнить следующую последовательность шагов:
+If an indirect provider wants to connect with you on Partner Center, they’ll kick off the following workflow:
 
-1.  Косвенный поставщик присылает вам по электронной почте приглашение, чтобы вы авторизовали его как своего косвенного поставщика. Электронное письме содержит ссылку на Центр партнеров, и оно сопоставит вашу учетную запись с учетной записью поставщика.
+1.  The indirect provider emails you an invitation to authorize them to be your indirect provider. The email includes a link to Partner Center and will associate your account to the provider’s account.
 
-2.  Чтобы принять приглашение, перейдите по ссылке в электронном письме поставщика. Вам может потребоваться снова войти в Центр партнеров.
+2.  To accept the invitation, follow the link in the provider’s email. You may need to sign in to Partner Center again.
 
-3.  Чтобы подтвердить партнерство с поставщиком, установите флажок и выберите **Авторизовать косвенного поставщика**. Поставщик теперь указан на вашей странице **Косвенные поставщики**, а ваша компания— на странице поставщика **Косвенные торговые посредники**.
+3.  To confirm the partnership with the provider, check the box and then select **Authorize indirect provider**. The provider is now listed on your **Indirect providers** page and your company is now listed on the provider's **Indirect resellers** page.
 
-    >**Примечание.** Устанавливая партнерские отношения с косвенным поставщиком, вы даете ему полномочия делать заказы и добавлять подписки от имени ваших клиентов и даете ему доступ с правами администратора для своего клиента Azure AD.
+    >**Note**  When you establish a partnership with an indirect provider, you’re authorizing them to submit orders and add subscriptions on behalf of your customers, and you’re granting them administrator access to your Azure AD tenant.
 
-4.  Выберите **Косвенные поставщики** в меню **Панель мониторинга**, чтобы просмотреть список поставщиков, с которыми у вас есть партнерские отношения. 
+4.  Select **Indirect providers** from your **Dashboard** menu to see a list of the providers you have a partnership with. 
 
 5.  Выберите **Просмотр клиентов**, чтобы просмотреть список клиентов, общих для вас и поставщика.
 
-6.  Выберите **Пригласить новых клиентов**, чтобы попросить нового клиента авторизовать отношения торгового посредника с вами и косвенным поставщиком. Обязательно узнайте адрес электронной почты клиента, чтобы иметь возможность отправить ему приглашение.  
+6.  Выберите **Пригласить новых клиентов**, чтобы попросить нового клиента авторизовать отношения торгового посредника с вами и косвенным поставщиком. Обязательно узнайте электронный адрес клиента, чтобы иметь возможность отправить ему приглашение.  
 
-    >**Важно.** Вашему косвенному поставщику необходимо иметь отношения торгового посредника с вашими клиентами, чтобы делать заказы от их имени. 
+    >**Important**  Your indirect provider needs to have a reseller relationship with your customers to submit orders on their behalf. 
  
 ## <a name="connect-with-customers"></a>Связь с клиентами
 
-Привлекая новых клиентов, вы должны связаться с ними в Центре партнеров. Новых клиентов можно привлекать через различные каналы, например:
+Для работы с клиентами в Центре партнеров у ваших клиентов должны быть учетные записи Центра партнеров, кроме того, вам необходимо установить с ними отношения торгового посредника. Чтобы разрешить косвенному поставщику приобретать подписки и службы от имени ваших клиентов, поставщик должен также установить с ними отношения торгового посредника. 
 
--   собственная маркетинговая деятельность;
--   ссылки на партнеров Майкрософт;
--   Непрямые поставщики
+### <a name="connect-with-existing-customers"></a>Связь с существующими клиентами
 
-Чтобы управлять подписками и службами от имени клиента, необходимо установить с ним отношения торгового посредника. Чтобы разрешить косвенному поставщику делать заказы от имени вашего клиента, косвенный поставщик должен также установить с ним отношения торгового посредника.
+Клиенты, с которыми вы уже взаимодействуете на других порталах, например в Центр администрирования партнеров Office 365 или на портале администрирования Microsoft Azure, будут отображаться в списке клиентов в Центре партнеров после успешной регистрации в качестве косвенного торгового посредника. Выберите **Информационная панель**, а затем— **Клиенты** для просмотра списка клиентов. 
 
-| **Для этого необходимо** | **Действие** | **Где** |
-|   ------------------   |   -------   |   -----   |
-| Получить права администратора для управления подписками и службами нового клиента и разрешить косвенному поставщику делать новые заказы от его имени | Пригласить нового клиента для установления отношений торгового посредника с вами и вашим косвенным поставщиком | Выберите **Пригласить новых клиентов** на своей странице **Косвенные поставщики**, а затем отправьте клиенту запрос на установление отношений торгового посредника |
-| Получить права администратора для управления подписками и службами клиента от его имени | Запросить у клиента установление отношений торгового посредника только с вами | Выберите **Запросить установление взаимоотношений с торговым посредником** на своей странице **Клиенты**, а затем отправьте клиенту электронное письмо с запросом на установление отношений торгового посредника |
+Если какие-либо из существующих клиентов отсутствуют в списке, вам может потребоваться установить с ними отношения торгового посредника. Для этого отправьте им по электронной почте приглашение, чтобы они связались с вами в Центре партнеров, как описано ниже.
 
-### <a name="invite-a-new-customer-to-establish-a-reseller-relationship-with-you-and-with-your-indirect-provider"></a>Пригласить нового клиента для установления отношений торгового посредника с вами и вашим косвенным поставщиком
+#### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Приглашение клиента для установления отношений торгового посредника с вами
 
-1.  Выберите **Косвенные поставщики** из меню **Панель мониторинга**.
+1.  Select **Customers** from your **Dashboard** menu and then select **Request a reseller relationship**.
 
-2.  Выберите **Пригласить новых клиентов**, чтобы пригласить клиента для установления отношений торгового посредника одновременно с вами и косвенным поставщиком. Поставщик должен установить отношения торгового посредника с вашим клиентом, чтобы иметь возможность делать заказы от имени клиента, когда он захочет приобрести новые подписки или добавить новые лицензии в существующие подписки.
+2.  On the next page, review the draft email message. You can open the draft message in email or you can copy the message to your clipboard and paste it into an email. 
 
-3.  На следующей странице просмотрите черновик сообщения электронной почты. Вы можете открыть черновик сообщения в электронном письме или скопировать сообщение в буфер обмена и вставить его в электронное письмо. 
-
-    Вы можете изменить текст сообщения электронной почты, но обязательно включите в него ссылку, так как она индивидуально создана, чтобы связать клиента непосредственно с вашей учетной записью и учетной записью вашего поставщика. Когда выполните этот шаг, выберите **Готово**.
-
-4.  После того как клиент разрешит вам и вашему поставщику быть его торговыми посредниками, вам будут предоставлены права администратора для управления его подписками, лицензиями и пользователями от его имени, и ваш косвенный поставщик сможет делать заказы от его имени.
-
-5.  Чтобы управлять учетной записью, службами, пользователями и лицензиями клиента, разверните его запись, нажав кнопку со стрелкой вниз рядом с его именем.
-
-### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Приглашение клиента для установления отношений торгового посредника с вами
-
-1.  Выберите **Клиенты** в меню **Панель мониторинга**, а затем выберите **Запросить установление взаимоотношений с торговым посредником**.
-
-2.  На следующей странице просмотрите черновик сообщения электронной почты. Вы можете открыть черновик сообщения в электронном письме или скопировать сообщение в буфер обмена и вставить его в электронное письмо. 
-
-    Вы можете изменить текст сообщения электронной почты, но обязательно включите в него ссылку, так как она индивидуально создана, чтобы связать клиента непосредственно с вашей учетной записью. Когда выполните этот шаг, выберите **Готово**.
+    You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to your account. Select **Done** when you’ve completed this step.
 
 3.  Отправьте электронное письмо клиенту.
 
@@ -145,14 +218,43 @@ ms.lasthandoff: 06/09/2017
 
 5.  Чтобы управлять учетной записью, службами, пользователями и лицензиями клиента, разверните его запись, нажав кнопку со стрелкой вниз рядом с его именем.
 
-## <a name="next-steps"></a>Следующие шаги
 
-[Управление учетной записью Центра партнеров](partner-center-account-setup.md)
+### <a name="connect-with-new-customers"></a>Связь с новыми клиентами
+
+Привлекая новых клиентов, вы должны связаться с ними в Центре партнеров. You may get new customers through multiple channels, including:
+
+-   Your own marketing activities
+-   Microsoft referrals
+-   Indirect providers
+
+To manage a customer’s subscriptions and services on their behalf, you need to have a reseller relationship with them. Чтобы разрешить косвенному поставщику делать заказы от имени вашего клиента, косвенный поставщик должен также установить с ним отношения торгового посредника.
+
+Чтобы получить разрешения администратора для управления подписками и службами новых клиентов **и** предоставления косвенному поставщику возможности отправлять новые заказы от их имени, можно пригласить клиента для установления отношения торгового представителя с вами и вашим поставщиком одновременно. 
+
+#### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-with-your-indirect-provider-at-the-same-time"></a>Пригласить нового клиента для установления отношений торгового посредника с вами и вашим косвенным поставщиком
+
+1.  Выберите **Косвенные поставщики** в меню **Информационная панель**.
+
+2.  Выберите **Пригласить новых клиентов**, чтобы пригласить клиента для установления отношений торгового посредника одновременно с вами и косвенным поставщиком. Поставщик должен установить отношения торгового посредника с вашим клиентом, чтобы иметь возможность делать заказы от имени клиента, когда он захочет приобрести новые подписки или добавить новые лицензии в существующие подписки.
+
+3.  На следующей странице просмотрите черновик сообщения электронной почты. Вы можете открыть черновик сообщения в электронном письме или скопировать сообщение в буфер обмена и вставить его в электронное письмо. 
+
+    Вы можете изменить текст сообщения электронной почты, но обязательно включите в него ссылку, так как она индивидуально создана, чтобы связать клиента непосредственно с вашей учетной записью и учетной записью вашего поставщика. Когда этот шаг будет выполнен, нажмите кнопку **Готово**.
+
+4.  After the customer authorizes you and your provider to be their resellers of record, you’ll have administrator permissions to manage their subscriptions, licenses, and users on their behalf, and your indirect provider will be able to submit orders on their behalf.
+
+5.  To manage the customer’s account, services, users, and licenses, expand the customer’s record by selecting the down arrow near their name.
+
+
+## <a name="next-steps"></a>Next steps
+
+[Manage your Partner Center account](partner-center-account-setup.md)
 
 [Управление клиентами и их подписками](customer-accounts.md)
 
-[Получение ссылок](referrals.md)
+[Создание маркетингового профиля](create-a-marketing-profile.md)
 
+[Сведения о поощрениях для партнеров в Центре партнеров](manage-your-incentives-in-partner-center.md)
 
 
 

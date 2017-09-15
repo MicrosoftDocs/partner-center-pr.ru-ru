@@ -1,13 +1,13 @@
 ---
-title: "Создание маркетингового профиля | Центр партнеров"
-description: "Привлекайте больше потенциальных клиентов, создав маркетинговый профиль в центре партнеров."
+title: Create a marketing profile | Partner Center
+description: Attract more prospective customers by creating a marketing profile in Partner Center.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: 5b680c5e547f237951085ba619f62d818d612e54
-ms.sourcegitcommit: b6b3c66694cd631a1141d10348e4e063189a7131
+ms.openlocfilehash: b4ff498f7c44e4f2fcb49cb5e4c1d659175ac60a
+ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 09/01/2017
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -18,107 +18,115 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
  -->
 
 
-# <a name="create-a-marketing-profile"></a>Создание маркетингового профиля
+# <a name="create-a-marketing-profile"></a>Create a marketing profile
 
-**Относится к:**
+**Applies to**
 
--  Центр партнеров
+-  Partner Center
 
-Как квалифицированный партнер Майкрософт вы можете создать маркетинговый профиль для демонстрации вашего бизнеса для пользователей, которые ищут уникальные решения и опыт для своих бизнес-потребностей.
+As a qualified Microsoft partner, you can create a marketing profile to showcase your business to customers who are looking for your unique solutions and expertise to address their business needs.
 
-Корпорация Майкрософт привлекает миллионы пользователей каждый год через маркетинг, продажи и обслуживание. Большая часть этих действий создает возможности для предоставления ссылок на наших потенциальных партнеров. 
+Microsoft engages millions of customers every year through marketing, sales and service efforts. Most of these engagements create opportunities for us to provide referrals to our partners in the form of sales leads. 
 
-На первом этапе к приобретению потенциальных клиентов создайте маркетинговый профиль. Мы покажем ваш профиль пользователям, которые ищут партнеров, способных помочь им реализовать продукты и решения Майкрософт через:
+As the first step to getting these leads, create a marketing profile. We'll show your profile to customers who are searching for partners who can help them implement Microsoft products and solutions, through:
 
-*  **функцию поиска [Найти партнера](https://partnercenter.microsoft.com/pcv/search)**. Потенциальные клиенты могут искать партнеров в списках партнеров самостоятельно, чтобы найти партнеров, которые соответствуют условиям поиска. 
-*  **Рекомендации от продаж Майкрософт и сотрудников службы**. Потенциальные клиенты, заинтересованные в развертывании облачных решений, обращаются в корпорацию Майкрософт, чтобы получить поддержку в поиске специалистов, способных удовлетворить их бизнес-потребности. Затем эти специалисты Майкрософт могут направлять потенциальных клиентов в вашу компанию.
+*  **The [Find a partner](https://partnercenter.microsoft.com/pcv/search) search experience**. Potential customers can search partner listings on their own to locate partners who meet their search criteria. 
+*  **Referrals from Microsoft sales and service employees**. Potential customers interested in deploying cloud-based technology solutions contact Microsoft for help finding professionals who can meet their business needs. These Microsoft professionals can then refer potential customers to your company.
 
-**Вниманию пользователей инструментов Pinpoint, C2PC и Sales Connect!** Мы объединяем эти средства в Центре партнеров. Если вы использовали эти средства ранее, создайте новый маркетинговый профиль в Центре партнеров, чтобы продолжить формировать потенциальных клиентов и управлять ими. Обратите внимание, что в настоящее время импорт профилей с предыдущих версий веб-сайтов не поддерживается. 
+**Вниманию пользователей инструментов Pinpoint, C2PC и Sales Connect!** Мы объединяем эти средства в Центре партнеров. If you’ve used these tools in the past, create a new marketing profile in Partner Center to continue to generate and manage your sales leads. Note, we don’t currently support importing profiles from the previous sites. 
 
-## <a name="create-a-profile"></a>Создание профиля
+## <a name="create-a-profile"></a>Create a profile
 
-Создайте профиль для каждого региона, в котором вы авторизованы для ведения бизнеса. 
+Create profiles for each region you are authorized to do business in. 
 
-1.  Войдите в [Центр партнеров](http://go.microsoft.com/fwlink/p/?LinkId=808956) с помощью [учетной записи глобального администратора или агента администратора](create-user-accounts-and-set-permissions.md).
+1.  Log into [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956) using a [global admin or admin agent account](create-user-accounts-and-set-permissions.md).
 
-2.  На **Информационной панели** выберите **Рекомендации** &gt; **Маркетинговые профили** &gt; **[Добавить маркетинговый профиль](https://partnercenter.microsoft.com/pcv/publishing)**.
+2.  На **Информационной панели** выберите **Рекомендации** &gt; **Просмотреть маркетинговые профили** &gt; выберите страну/регион > **[Создать маркетинговый профиль](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-3.  На странице **Создание маркетингового профиля** выберите регион, а затем введите данные профиля, включая разделы сведений и опыта партнеров.
+3.  На странице **Создание маркетингового профиля** выберите регион, а затем введите данные профиля.
     
-    Примечание. Несмотря на то что Центр партнеров поддерживает работу с несколькими языками, для некоторых элементов, таких как описание и теги произвольной формы, может потребоваться добавить текст на разных языках, как указано в этом разделе.
+    Note, while Partner Center supports multiple languages, some elements such as the description and free-form tags may need to include text from different languages, as noted in this topic.
 
-### <a href="" id="partner_info"></a>Данные партнера
+### <a href="" id="partner_info"></a>Partner information
 
-Представьте свою компанию, добавив логотип и краткое описание, а также ссылку на веб-сайт. 
+Introduce your company, adding a logo and a brief description, and a link to your website. 
 
-Логотип может быть файлом GIF, JPG или PNG с максимальной шириной 300 пикселей. Мы рекомендуем использовать квадратные или длинные пропорции. Не рекомендуется использовать высокие пропорции.
+The logo can be a GIF, JPG, or PNG file, with a maximum width of 300 pixels. We recommend using square or long aspect ratios. Tall aspect ratios are not recommended.
 
-Описание может содержать не более 1000 символов. Советы для создания превосходного описания: 
+Your description can be up to 1000 characters. Tips for a great description: 
 
-*  **Будьте кратки**, выделив важные факторы в первых двух предложениях. Это должен быть заголовок, который привлекает внимание клиентов. В поле поиска партнера мы покажем первую строку или две в предварительном просмотре результатов поиска.
-*  **Сосредоточьтесь на взаимодействии вашей компании с предложениями Майкрософт**. Пользователи, которые ищут рекомендации, обычно ищут партнеров Майкрософт.
-*  **Используйте маркеры**. Разбейте данные в маркированные списки, чтобы упростить сканирование.
-*  **Избегайте профессиональных терминов**. Используйте простой повседневный язык, названия ваших предложений должны говорить об их предназначении, например о бизнес-потребностях, которые они удовлетворяют, или о заданиях и целях, которых они помогают достичь.
-*  **Не стоит беспокоиться о заполнении описания ключевыми словами для поиска**. Средства поиска клиента ищут ключевые слова, созданные в разделе "Опыт партнеров", а не в описании.
-*  **Поддерживайте актуальность вашего профиля**. С каждой версией программного обеспечения или службы обновляйте свой профиль, синхронизируя его с веб-сайта вашей компании.
-*  **Не ссылайтесь на другую компанию-партнера Майкрософт по названию**, если эта компания не является филиалом или каким-либо способом не связана с вашей компанией или у вас нет текущего соглашения с этой компанией, чтобы действовать совместно и (или) продвигать друг друга для совместных рабочих возможностей.
-*  **Для регионов с несколькими языками** рекомендуется добавить текст на нескольких языках в описании.
+*  **Be brief**, leading with what’s important in the first sentence or two. This should be the headline that catches customers’ attention. In the Find a partner search experience, we show the first line or two in the search results preview.
+*  **Focus on your company’s experiences with Microsoft-specific offerings**. Customers searching for referrals are generally looking for partners with Microsoft-specific experience.
+*  **Use bullets**. Break up information into bulleted lists to make it easier to scan.
+*  **Avoid jargon**. Use simple, everyday language, naming your offerings for what they do: the business needs they address, or task or objective they help customers accomplish.
+*  **Don’t worry about filling the description with search keywords**. The customer search tools search for keywords generated in the Partner Expertise section, not the description.
+*  **Keep your profile current**. With each software or service release, update your profile, keeping it in sync with your company's website.
+*  **Do not refer to another Microsoft partner company by name**, unless it is a subsidiary or is otherwise affiliated with your company, or you have a current agreement with that partner company to act in partnership and/or promote each other for shared work opportunities.
+*  **For regions with multiple languages**, consider including text from multiple languages in the description.
 
-#### <a href="" id="linkedin"></a>Страница компании в LinkedIn: больше возможностей для связей
+#### <a href="" id="linkedin"></a> LinkedIn company page: more ways to connect
 
-Добавление страницы компании в LinkedIn повышает надежность и правильность связей потенциальных клиентов. 
+Add your LinkedIn company page to strengthen your connections to potential customers. 
 
-При включении этой ссылки клиенты смогут быстро просмотреть больше сведений о вашей организации с помощью платформы LinkedIn.
+When you include this link, customers will be able to quickly view more about your organization through the LinkedIn platform.
 
-Если у вас еще нет страницы компании в LinkedIn, вы можете [создать ее сейчас](https://www.linkedin.com/company-beta/setup/new/).
+If you don't already have a LinkedIn company page, you can [create one now](https://www.linkedin.com/company-beta/setup/new/).
 
-### <a name="partner-expertise"></a>Опыт партнеров
+### <a name="partner-expertise"></a>Partner expertise
 
-Средства поиска клиента ищут теги специализации. Настраивая профиль для получения видимости, стоит тратить время здесь для оптимизации.
+Средства поиска партнера ищут теги специализации. Оптимизируйте их, чтобы повысить эффективность профиля.
 
-Сначала добавьте собственные теги в разделе опыт партнеров. Теги, которые можно добавить: 
+Start by adding your own tags into the Partner Expertise section. Tags you can add: 
 
-*  **Теги с фокусом на отрасли**. До 5 отраслей
-*  **Продукты**. Ограничено до продуктов Майкрософт
-*  **Тип службы** 
-*  **Решения, навыки и возможности**. Это теги произвольной формы. Они предоставляют вам возможность добавления ключевых слов для поиска, которые уникальны для вашей возможности.
+*  **Industry focus tags**. Up to 5 industries
+*  **Products**. Limited to Microsoft products
+*  **Service type** 
+*  **Solutions, skills, and capabilities**. These tags are free-form, and provide you the ability to add search keywords that are unique to your capabilities.
 
-Другие теги, используемые в поиске:
-*  **Теги компетенции** являются заработанным обозначением, демонстрирующим возможности вашей компании.
-*  **Теги подтверждения** получаются, когда Майкрософт или клиенты, с которыми вы работали, утверждают результаты своей работы.
+Other tags used in search:
+*  **Competency tags** are an earned designation showcasing your company’s capabilities.
+*  **Endorsement tags** are earned when Microsoft or your customers who have worked with you endorse your work.
 
-#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Разрешить Майкрософт рекламу моих областей
+#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Allow Microsoft to endorse my areas of expertise
+
+Рекомендуется оставлять этот параметр включенным. 
 
 По мере того, как вы демонстрируете успех с клиентами через Центр партнеров или участвуя в других сертификациях или программах Майкрософт, мы автоматически добавим поддержку для определенных продуктов, служб и отраслей, способствующих успеху. Поддержка является важным фактором в результатах поиска.
 
-Рекомендуется оставлять этот параметр включенным. Тем не менее, если продукты, для которых предоставляются услуги, не отображаются в вашем профиле, вы можете снять этот флажок и управлять профилем вручную. Эта поддержка будет скрыта от клиентов, но можно добавить обратно в свой профиль позже в любое время.
+Тем не менее, если продукты, для которых предоставляются услуги, не отображаются в вашем профиле, вы можете снять этот флажок и управлять профилем вручную. These endorsements will be hidden from your customers view, but you can add them back to your profile later at any time.
 
-### <a name="customer-preferences"></a>Установки клиента
+### <a name="customer-preferences"></a>Customer preferences
 
-#### <a href="" id="#target_size"></a>Целевой размер
+#### <a href="" id="#target_size"></a>Target size
 
-Вы можете отказаться от рекомендаций организаций, которые не соответствующие вашему целевому размеру клиента.
+You can opt out of referrals from businesses that don’t meet your target customer size.
 
-Отказавшись, вы получите больше времени для изучения организаций, которые соответствуют вашим деловым предпочтениям.
+By opting out, you’ll have more time to spend on businesses that are a match for the businesses that you prefer to work with.
 
-### <a href="" id="#locations"></a> Расположения
+### <a href="" id="#locations"></a> Locations
 
-Можно добавить до пяти мест на регион. Эти расположения появляются, когда пользователи ищут партнеров по близости. 
+Можно добавить до пяти мест на регион. These locations appear when customers search for partners by proximity. 
 
-Укажите расположения, которые являются официальными расположениями компании и могут быть проверены. Выберите расположения, наиболее важные для рынков, которые вы обслуживаете и которые лучше всего представляют возможности вашей компании.
+Indicate locations that are official company locations and can be validated. Pick locations that are central to the markets you serve, and best represent your company’s ability to fulfill.
+
+Когда вы закончите обновление сведений о расположении, выберите **Сохранить это расположение** или **Сохранить это расположение и добавить еще одно** (даже если вы добавляете только одно расположение).
 
 Каждое добавляемое расположение становится отдельной страницей профиля. Обновлять страницы профиля следует для каждого расположения.
 
+Чтобы обновить адрес расположения, вам потребуется сначала **удалить** расположение и снова его добавить.
+
+Если вам нужно изменить одно из пяти основных расположений, сначала **удалите** существующее расположение, а затем добавьте новое.
+
 ## <a name="review-your-profile"></a>Проверьте профиль
 
-После публикации профиля обновления будут отображаться в результатах поиска с помощью средства [Поиск партнера](https://partnercenter.microsoft.com/pcv/search) в течение 24 часов. 
+After you publish your profile, updates appear in the [Find a partner](https://partnercenter.microsoft.com/pcv/search) searches within 24 hours. 
 
-## <a name="improve-the-visibility-of-your-profile"></a>Улучшение видимости вашего профиля 
+## <a name="improve-the-visibility-of-your-profile"></a>Improve the visibility of your profile 
 
-*  **[Быстро реагировать на запросы](responding-to-referrals.md)**. После получения рекомендации от клиента быстрый ответ может привести к более точным результатам на страницах поиска для будущих клиентов.
-*  **Будьте осторожны с тегами**.  Лучше иметь меньше тегов, которые лучше всего представляют предложения, решения, предложение стоимости и уникальное положение, и постоянно демонстрируют успех вашей компании.  Это принесет дивиденды в результатах поиска в будущем.
-*  **Получайте теги компетенции** через корпорацию Майкрософт, чтобы продемонстрировать ваше знание наших продуктов.
-*  **Получайте теги подтверждения** от пользователей, которые ценят результаты вашей работы.
+*  **[Respond quickly to requests](responding-to-referrals.md)**. When you receive a customer referral, a faster response can lead to better results on the search pages for future customers.
+*  **Be selective with your tags**.  It’s better to have fewer tags that best represent your company’s offers, solutions, value propositions, and unique position where you can consistently demonstrate success.  That will pay dividends in future search results.
+*  **Earn competency tags** through Microsoft to demonstrate your proficiency in our products.
+*  **Earn endorsement tags** from customers who appreciate your work.
 
-## <a name="related-topics"></a>Еще по теме:
-[Реакция на рекомендации](responding-to-referrals.md)
+## <a name="related-topics"></a>Related topics
+[Responding to referrals](responding-to-referrals.md)
