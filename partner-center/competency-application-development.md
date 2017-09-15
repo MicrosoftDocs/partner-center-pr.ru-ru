@@ -1,20 +1,21 @@
 ---
-title: "Компетенция \"Разработка приложений\""
-description: "Обеспечьте ускоренное предоставление приложений и постоянное повышение эффективности. Присоединяйтесь к нашему сообществу, включающему в себя более 60тыс. партнеров по разработке приложений, чтобы выделиться на фоне конкурентов и стать официальным партнером Майкрософт, получив компетенцию \"Разработка приложений\"."
+title: Application Development Competency
+description: Enable faster software delivery and continuous improvement. Join our more than 60K application builder partners to differentiate your business and establish yourself as Microsoft Partner by attaining the Application Development competency.
 author: Daniel Simpson
-keywords: "компетенция, компетенции, облачные бизнес-приложения, разработка приложений"
-robots: noindex,nofollow
-ms.openlocfilehash: 0271d5b1101e51e48c443ade70f3cfc1d78e1f20
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies,Cloud Business Applications, application development
+ms.openlocfilehash: 153a40815f99950fa379f9bf35e55151fb159c96
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
-# <a name="application-development"></a>Разработка приложений 
+# <a name="application-development"></a>Application Development 
 
-Обеспечьте ускоренное предоставление приложений и постоянное повышение эффективности. Присоединяйтесь к нашему сообществу, включающему в себя более 60тыс. партнеров по разработке приложений, чтобы выделиться на фоне конкурентов и стать официальным партнером Майкрософт, получив компетенцию "Разработка приложений".
+Enable faster software delivery and continuous improvement. Join our more than 60K application builder partners to differentiate your business and establish yourself as Microsoft Partner by attaining the Application Development competency.
 
-## <a name="application-builder-option"></a>Курс "Разработчик приложений"
+## <a name="application-builder-option"></a>Application Builder option
+Курс "Разработчик приложений" подходит тем, кто хочет подтвердить свои навыки, пройдя экзамены или сертификации.  Чтоб получить компетенцию "Разработка приложений", пройдите экзамены по соответствующей области специализации.
+
 
 ### <a name="silver"></a>Silver (Серебряный уровень)
 1. **2** сотрудника вашей организации должны пройти один из следующих экзаменов или получить аттестацию.
@@ -34,12 +35,9 @@ ms.lasthandoff: 06/27/2017
         - [Экзамен 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): разработка Windows Azure и веб-служб
         - [Экзамен 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): внедрение инфраструктурных решений Microsoft Azure   
 
-    **ИЛИ** 
-
-    -  [Техническая оценка знаний по использованию Microsoft Azure для разработки приложений](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12213&scoId=lyCxoLBVB_4105299993)
-    
-    *Будет отменена 30 сентября 2017 г.  
 
 ### <a name="gold"></a>Gold (Золотой уровень)
 1. **4** сотрудника вашей организации должны пройти необходимую сертификацию.
     - [MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): разработчик приложений 
+
+*Будет отменена 30 сентября 2017 г.

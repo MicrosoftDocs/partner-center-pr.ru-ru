@@ -1,51 +1,53 @@
 ---
-title: "Центр партнеров Microsoft Cloud в Германии | Центр партнеров Microsoft Cloud в Германии"
-description: "Центр партнеров Microsoft Cloud в Германии — это корпоративный портал для партнеров Майкрософт, которые желают предложить облачные решения Майкрософт пользователям в странах ЕС и ЕАСТ. Microsoft Cloud в Германии гарантирует, что данные клиента хранятся на территории Германии, а доступ к ним контролируется специальным немецким доверенным лицом. Коммерческие пользователи из Европейского Союза и Европейской ассоциации свободной торговли (ЕАСТ) могут хранить данные клиентов и управлять ими в соответствии с законодательством Германии, а также ключевыми международными стандартами. Корпорация Майкрософт не имеет доступа к данным клиентов без одобрения и контроля со стороны клиентов или немецкого доверенного лица."
+title: Partner Center for Microsoft Cloud Germany | Partner Center for Microsoft Cloud Germany
+description: Partner Center for Microsoft Cloud Germany is the business portal for Microsoft partners who want to offer Microsoft cloud solutions to customers in EU and EFTA countries. Microsoft Cloud Germany ensures that your customer data resides in Germany and a designated German data trustee controls access to it. Commercial customers in the European Union (EU) and European Free Trade Association (EFTA) can store and manage customer data in compliance with applicable German laws and regulations as well as key international standards. Microsoft cannot access customer data without approval from and supervision by the German data trustee or customer.
 author: MaggiePucciEvans
-ms.openlocfilehash: a959cf7af53eca8416714f347348f3605f652918
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: ffdc34a15896f63f838159eeb0328255e4ba810d
+ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/07/2017
 ---
-# <a name="partner-center-for-microsoft-cloud-germany"></a>Центр партнеров Microsoft Cloud в Германии
+# <a name="partner-center-for-microsoft-cloud-germany"></a>Partner Center for Microsoft Cloud Germany
 
-**Относится к:**
+**Applies to**
 
--  Центр партнеров Microsoft Cloud в Германии
+-  Partner Center for Microsoft Cloud Germany
 
-## <a name="microsoft-cloud-germany-meeting-german-data-protection-requirements"></a>Microsoft Cloud в Германии: соблюдение немецких требований к защите данных 
+## <a name="microsoft-cloud-germany-meeting-german-data-protection-requirements"></a>Microsoft Cloud Germany: Meeting German data protection requirements 
 
-Microsoft Cloud в Германии соответствует строгим немецким требованиям в отношении защиты данных и подразумевает наличие немецкого доверенного лица, управляющего физическим и логическим доступом к данным клиентов в соответствии с законодательством Германии. Все данные пользователей и системы, обрабатывающие данные пользователей или управляющие доступом к ним, находятся в центрах обработки данных в Германии. Сеть между этими центрами обработки данных изолирована в Германии.
+Microsoft Cloud Germany is designed to meet strict German data protection requirements and includes a German data trustee, operating under German law, who controls physical and logical access to customer data. All customer data, and the systems that process or control access to customer data, reside in German datacenters. The network between these datacenters is isolated and dedicated within Germany.
 
-Microsoft Cloud в Германии предоставляет отдельные экземпляры [Microsoft Azure](https://azure.microsoft.com/en-us/overview/clouds/germany/), Office 365 и Microsoft Dynamics, размещенные в центрах обработки данных в Германии. В результате коммерческие пользователи из Европейского Союза и Европейской ассоциации свободной торговли (ЕАСТ) могут хранить данные клиентов и управлять ими в соответствии с законодательством Германии, а также ключевыми международными стандартами. Сотрудники корпорации Майкрософт не имеют доступа к данным клиентов без одобрения и контроля со стороны клиентов или немецкого доверенного лица.
+Microsoft Cloud в Германии предоставляет отдельные экземпляры [Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992), Office 365 и Microsoft Dynamics, размещенные в центрах обработки данных в Германии. As a result, commercial customers in the European Union (EU) and European Free Trade Association (EFTA) can store and manage customer data in compliance with applicable German laws and regulations as well as key international standards. Microsoft personnel cannot access customer data without approval from and supervision by the German data trustee or customer.
 
 Дополнительные сведения см. в разделе [Техническое описание Microsoft Cloud в Германии](http://download.microsoft.com/download/6/1/3/613C9ECB-9167-4EF5-B131-3BAD8D8A126C/Microsoft_Cloud_Germany_Datasheet.pdf).
 
-## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Центр партнеров Microsoft Cloud в Германии: продажа немецких облачных решений в ЕС и ЕАСТ
+## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Partner Center for Microsoft Cloud Germany: Selling German Cloud solutions in EU and EFTA
 
-После регистрации в программе поставщиков облачных решений (CSP) для Microsoft Cloud в Германии, вы будете использовать Центр партнеров для продажи немецких облачных решений и услуг пользователям в странах и регионах ЕС и ЕАСТ. 
+Once enrolled in the Cloud Solution Provider (CSP) for Microsoft Cloud Germany program, you'll use Partner Center to sell German Cloud-specific solutions and services to customers in EU and EFTA countries/regions. 
 
->**Примечание.**<br>
-На момент публикации этой статьи следующие функции Центра партнеров были недоступны в Центре партнеров Microsoft Cloud в Германии (с момента публикации некоторые функции могли быть добавлены в Центр партнеров, и этот список мог устареть).
+>**Note**<br>
+At the time this article was published, the following Partner Center features were not yet available in Partner Center for Microsoft Cloud Germany (since publication, some of the features may have been added to Partner Center and this list may be out of date):
 
-- Поиск партнера
-- Маркетинговые профили
-- Рекомендации
-- Аналитика лицензий
-- Данные клиента
-- Центр уведомлений
-- Модель и параметры косвенных торговых посредников/поставщиков
-- Проверка работоспособности службы
-- Регистрация независимых поставщиков программного обеспечения (ISV)
-- Специальные требования клиентов
+- Find a partner
+- Marketing profiles
+- Referrals
+- License analytics
+- Customer insights
+- Notification center
+- Indirect reseller/provider model and settings
+- Check service health
+- Independent Software Vendor (ISV) enrollment
+- Customer special qualification
 
-В соответствии с законодательством Германии в отношении сбора и использования персональных данных, а также ключевыми международными стандартами следующие задачи Центра партнеров выполняются с помощью отдельных порталов обслуживания. 
+To comply with German laws and regulations that govern the collection and use of individuals' data as well as key international standards, the following Partner Center tasks are managed using specific service portals. 
 
-Функция или возможность | Место выполнения задач
+Feature or capability | Complete tasks in
 :--- | :---
-Управление пользователями партнеров | Центр администрирования Office 365 или портал администрирования Azure для Microsoft Cloud в Германии
-Управление пользователями клиента | Центр администрирования Office 365 или портал администрирования Azure для Microsoft Cloud в Германии
-Сброс пароля пользователя | Портал администрирования Azure для Microsoft Cloud в Германии
-Управление лицензиями | Центр администрирования Office 365 или портал лицензирования Azure Active Directory для Microsoft Cloud в Германии
+Partner user management | Office 365 admin center or Azure for Microsoft Cloud Germany admin portal
+Customer user management | Office 365 admin center or Azure for Microsoft Cloud Germany admin portal
+Reset user password | Azure for Microsoft Cloud Germany admin portal
+License management | Office 365 admin center or Microsoft Cloud Germany Azure Active Directory Licensing portal
 
 Сведения об управлении пользователями и лицензиями см. в разделе [Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud в Германии](user-management-in-partner-center-for-microsoft-cloud-germany.md).
 

@@ -1,123 +1,122 @@
 ---
-title: "Компетенция \"Управление корпоративной мобильной средой\""
-description: "Компетенция \"Управление корпоративной мобильной средой\" подойдет партнерам, являющимся специалистами в области работы с мощными решениями для безопасного управления мобильными устройствами в больших организациях."
+title: Enterprise Mobility Management Competency
+description: The Enterprise Mobility Management competency is for partners who stand out as experts in powerful, secure mobility management solutions for large businesses.
 author: Daniel Simpson
-keywords: "компетенция, компетенции, управление корпоративной мобильной средой"
-robots: noindex,nofollow
-ms.openlocfilehash: 837cd337355a6baa8672477d08ee529e690db87a
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies,Enterprise Mobility Management
+ms.openlocfilehash: 1eea9a16018af1471733ea321d68061e62c1b75f
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
-#<a name="enterprise-mobility-management"></a>Управление корпоративной мобильной средой
-Компетенция "Управление корпоративной мобильной средой" подойдет партнерам, являющимся специалистами в области работы с мощными решениями для безопасного управления мобильными устройствами в больших организациях.
+#<a name="enterprise-mobility-management"></a>Enterprise Mobility Management
+The Enterprise Mobility Management competency is for partners who stand out as experts in powerful, secure mobility management solutions for large businesses.
 
-- [Курс "Корпоративный партнер"](#enterprise-partner-option)
-- [Курс "Партнер предприятий малого и среднего бизнеса"](#smb-partner-option)
+- [Enterprise Partner option](#enterprise-partner-option)
+- [SMB Partner option](#smb-partner-option)
 
 
-##<a name="enterprise-partner-option"></a>Курс "Корпоративный партнер"
-Курс "Корпоративный партнер" подходит для партнеров, которые предлагают своим корпоративным клиентам решения в области организации и защиты корпоративной мобильной среды, и решили получить компетенцию путем обеспечения соответствия пороговым значениям производительности. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Управление корпоративной мобильной средой".
+##<a name="enterprise-partner-option"></a>Enterprise Partner option
+The Enterprise Partner option is ideal for partners who are driving Enterprise Mobility + Security adoption with their enterprise customers, and who choose to attain competency by meeting the performance thresholds. Complete all the steps within to attain the Enterprise Mobility Management competency.
 
-###<a name="silver"></a>Silver (Серебряный уровень)
+###<a name="silver"></a>Silver
 
-1. Ваша организация должна соответствовать пороговым значениям производительности.
+1. Your organization must meet the performance thresholds.
 
-    - Предоставьте решения по обеспечению безопасности корпоративных мобильных устройств (Enterprise Mobility + Security, EMS) 3 новым клиентам и разверните 500 активных прав
-    - Достигните пороговых значений прибыли по любому компоненту EMS или по комбинации удовлетворяющих требованиям компонентов (прав) EMS.
-    - Microsoft Intune, Azure Information Protection или Azure Active Directory Premium (AADP) в течение последних 12 месяцев.
-    - Рабочие места должны представлять собой платные лицензии, идущие в зачет требований к рабочему месту. Пробные версии или бесплатные рабочие места не учитываются.
-    - Чтобы претендовать на получение квалификации, у вас должны быть установлены отношения с клиентами в качестве Полномочного администратора EMS или Microsoft Intune либо Партнера по сделкам EMS или Microsoft Intune, либо Партнера FastTrack по EMS или Microsoft Intune, либо Цифрового партнера записи EMS или Microsoft Intune.
+    - Add 3 new Enterprise Mobility + Security (EMS) customers and deploy 500 active entitlements
+    - Meet revenue thresholds of any one or combination of the eligible components (entitlements) of EMS.
+    - Microsoft Intune, Azure Information Protection, or Azure Active Directory Premium (AADP) within the last 12 months.
+    - Seats must be paid licenses to count towards seat requirements. Trial or free seats are not applicable.
+    - To qualify, you will need to be associated as the EMS or Microsoft Intune Delegated Administrator, Transacting Partner, Fast Track Partner, or Digital Partner of Record.
     - [Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.  
   
 2. **2** сотрудника вашей организации должны удовлетворять требованиям, предъявляемым к прохождению аттестации.
 
     - **2** сотрудника вашей организации должны пройти следующую аттестацию:
-        - [Техническая оценка знаний по Enterprise Mobility Suite](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
+        - [Technical Assessment for Enterprise Mobility Suite Overview](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
 
-    **И**
+    **AND**
 
     - Те же **2** сотрудника должны пройти одну из следующих аттестаций:
-        - [Техническая оценка знаний по управлению мобильными устройствами](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
-        - [Техническая оценка знаний по управлению учетными данными и доступом](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
-        - [Техническая оценка знаний по защите информации](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
-        - [Техническая оценка знаний по Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
+        - [Technical Assessment for Mobile Device Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
+        - [Technical Assessment for Identity & Access Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
+        - [Technical Assessment for Information Protection](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
+        - [Technical Assessment for Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
 
-###<a name="gold"></a>Gold (Золотой уровень)
+###<a name="gold"></a>Gold
 
-1. Ваша организация должна соответствовать пороговым значениям производительности.
+1. Your organization must meet the performance thresholds.
 
-    - Предоставьте решения по обеспечению безопасности корпоративных мобильных устройств (Enterprise Mobility + Security, EMS) 5 новым клиентам и разверните 4000 активных прав
-    - Достигните пороговых значений прибыли по любому компоненту EMS или по комбинации удовлетворяющих требованиям компонентов (прав) EMS.
-    - Microsoft Intune, Azure Information Protection или Azure Active Directory Premium (AADP) в течение последних 12 месяцев.
-    - Рабочие места должны представлять собой платные лицензии, идущие в зачет требований к рабочему месту. Пробные версии или бесплатные рабочие места не учитываются.
-    - Чтобы претендовать на получение квалификации, у вас должны быть установлены отношения с клиентами в качестве Полномочного администратора EMS или Microsoft Intune либо Партнера по сделкам EMS или Microsoft Intune, либо Партнера FastTrack по EMS или Microsoft Intune, либо Цифрового партнера записи EMS или Microsoft Intune.
+    - Add 5 new Enterprise Mobility + Security (EMS) customers and deploy 4000 active entitlements
+    - Meet revenue thresholds of any one or combination of the eligible components (entitlements) of EMS.
+    - Microsoft Intune, Azure Information Protection, or Azure Active Directory Premium (AADP) within the last 12 months.
+    - Seats must be paid licenses to count towards seat requirements. Trial or free seats are not applicable.
+    - To qualify, you will need to be associated as the EMS or Microsoft Intune Delegated Administrator, Transacting Partner, Fast Track Partner, or Digital Partner of Record.
     - [Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.  
   
 2. **4** сотрудника вашей организации должны удовлетворять требованиям, предъявляемым к прохождению аттестации.
 
     - **4** сотрудника вашей организации должны пройти следующую аттестацию:
-        - [Техническая оценка знаний по Enterprise Mobility Suite](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
+        - [Technical Assessment for Enterprise Mobility Suite Overview](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
 
-    **И**
+    **AND**
 
     - Те же **4** сотрудника должны пройти одну из следующих аттестаций:
-        - [Техническая оценка знаний по управлению мобильными устройствами](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
-        - [Техническая оценка знаний по управлению учетными данными и доступом](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
-        - [Техническая оценка знаний по защите информации](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
-        - [Техническая оценка знаний по Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
+        - [Technical Assessment for Mobile Device Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
+        - [Technical Assessment for Identity & Access Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
+        - [Technical Assessment for Information Protection](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
+        - [Technical Assessment for Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
     
-##<a name="smb-partner-option"></a>Курс "Партнер предприятий малого и среднего бизнеса"
-Курс "Партнер предприятий малого и среднего бизнеса" подходит для партнеров, которые предлагают предприятиям малого и среднего бизнеса решения в области организации и защиты корпоративной мобильной среды, и решили получить компетенцию путем обеспечения соответствия пороговым значениям производительности. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Управление корпоративной мобильной средой".
+##<a name="smb-partner-option"></a>SMB Partner option
+The Small/Mid-market Business (SMB) option is ideal for partners who are driving Enterprise Mobility + Security adoptions among small and mid-market businesses, and who choose to attain competency by meeting the performance thresholds. Complete all the steps within the option to attain the Enterprise Mobility Management competency.
 
-###<a name="silver"></a>Silver (Серебряный уровень)
+###<a name="silver"></a>Silver
 
-1. Ваша организация должна соответствовать пороговым значениям производительности.
+1. Your organization must meet the performance thresholds.
 
-    - Предоставьте решения по обеспечению безопасности корпоративных мобильных устройств (Enterprise Mobility + Security, EMS) 20 новым клиентам и разверните 125 активных прав
-    - Достигните пороговых значений прибыли по любому компоненту EMS или по комбинации удовлетворяющих требованиям компонентов (прав) EMS.
-    - Microsoft Intune, Azure Information Protection или Azure Active Directory Premium (AADP) в течение последних 12 месяцев.
-    - Рабочие места должны представлять собой платные лицензии, идущие в зачет требований к рабочему месту. Пробные версии или бесплатные рабочие места не учитываются.
-    - Чтобы претендовать на получение квалификации, у вас должны быть установлены отношения с клиентами в качестве Полномочного администратора EMS или Microsoft Intune либо Партнера по сделкам EMS или Microsoft Intune, либо Партнера FastTrack по EMS или Microsoft Intune, либо Цифрового партнера записи EMS или Microsoft Intune.
+    - Add 20 new Enterprise Mobility + Security (EMS) customers and deploy 125 active entitlements
+    - Meet revenue thresholds of any one or combination of the eligible components (entitlements) of EMS.
+    - Microsoft Intune, Azure Information Protection, or Azure Active Directory Premium (AADP) within the last 12 months.
+    - Seats must be paid licenses to count towards seat requirements. Trial or free seats are not applicable.
+    - To qualify, you will need to be associated as the EMS or Microsoft Intune Delegated Administrator, Transacting Partner, Fast Track Partner, or Digital Partner of Record.
     - [Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.  
   
 2. **2** сотрудника вашей организации должны удовлетворять требованиям, предъявляемым к прохождению аттестации.
 
     - **2** сотрудника вашей организации должны пройти следующую аттестацию:
-        - [Техническая оценка знаний по Enterprise Mobility Suite](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
+        - [Technical Assessment for Enterprise Mobility Suite Overview](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
 
-    **И**
+    **AND**
 
     - Те же **2** сотрудника должны пройти одну из следующих аттестаций:
-        - [Техническая оценка знаний по управлению мобильными устройствами](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
-        - [Техническая оценка знаний по управлению учетными данными и доступом](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
-        - [Техническая оценка знаний по защите информации](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
-        - [Техническая оценка знаний по Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
+        - [Technical Assessment for Mobile Device Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
+        - [Technical Assessment for Identity & Access Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
+        - [Technical Assessment for Information Protection](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
+        - [Technical Assessment for Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
 
-###<a name="gold"></a>Gold (Золотой уровень)
+###<a name="gold"></a>Gold
 
-1. Ваша организация должна соответствовать пороговым значениям производительности.
+1. Your organization must meet the performance thresholds.
 
-    - Предоставьте решения по обеспечению безопасности корпоративных мобильных устройств (Enterprise Mobility + Security, EMS) 5 новым клиентам и разверните 4000 активных прав
-    - Достигните пороговых значений прибыли по любому компоненту EMS или по комбинации удовлетворяющих требованиям компонентов (прав) EMS.
-    - Microsoft Intune, Azure Information Protection или Azure Active Directory Premium (AADP) в течение последних 12 месяцев.
-    - Рабочие места должны представлять собой платные лицензии, идущие в зачет требований к рабочему месту. Пробные версии или бесплатные рабочие места не учитываются.
-    - Чтобы претендовать на получение квалификации, у вас должны быть установлены отношения с клиентами в качестве Полномочного администратора EMS или Microsoft Intune либо Партнера по сделкам EMS или Microsoft Intune, либо Партнера FastTrack по EMS или Microsoft Intune, либо Цифрового партнера записи EMS или Microsoft Intune.
+    - Add 5 new Enterprise Mobility + Security (EMS) customers and deploy 4000 active entitlements
+    - Meet revenue thresholds of any one or combination of the eligible components (entitlements) of EMS.
+    - Microsoft Intune, Azure Information Protection, or Azure Active Directory Premium (AADP) within the last 12 months.
+    - Seats must be paid licenses to count towards seat requirements. Trial or free seats are not applicable.
+    - To qualify, you will need to be associated as the EMS or Microsoft Intune Delegated Administrator, Transacting Partner, Fast Track Partner, or Digital Partner of Record.
     - [Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.  
   
 2. **4** сотрудника вашей организации должны удовлетворять требованиям, предъявляемым к прохождению аттестации.
     
     - **4** сотрудника вашей организации должны пройти следующую аттестацию:
-        - [Техническая оценка знаний по Enterprise Mobility Suite](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
+        - [Technical Assessment for Enterprise Mobility Suite Overview](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
 
-    **И**
+    **AND**
 
     - Те же **4** сотрудника должны пройти одну из следующих аттестаций:
-        - [Техническая оценка знаний по управлению мобильными устройствами](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
-        - [Техническая оценка знаний по управлению учетными данными и доступом](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
-        - [Техническая оценка знаний по защите информации](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
-        - [Техническая оценка знаний по Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
+        - [Technical Assessment for Mobile Device Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
+        - [Technical Assessment for Identity & Access Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
+        - [Technical Assessment for Information Protection](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
+        - [Technical Assessment for Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
 
 
 

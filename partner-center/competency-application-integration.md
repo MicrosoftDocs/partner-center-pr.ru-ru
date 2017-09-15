@@ -1,24 +1,23 @@
 ---
-title: "Компетенция \"Интеграция приложений\""
-description: "Компетенция \"Интеграция приложений\" подтверждает опыт партнеров и разработчиков в области интеграции уникальных приложений и решений в различные продукты экосистемы Майкрософт."
+title: Application Integration Competency
+description: The Application Integration competency recognizes partners and developers who integrate unique applications and solutions into various products across the Microsoft ecosystem.
 author: Daniel Simpson
-keywords: "компетенция, компетенции, интеграция приложений"
-robots: noindex,nofollow
-ms.openlocfilehash: 4b690cbf419f99ec9bf7f32dced87a59a93250ed
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies, applications integration
+ms.openlocfilehash: 968cf5bdbe4e6c78ad330d94ad618a821927483a
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
-# <a name="application-integration"></a>Интеграция приложений 
-Компетенция "Интеграция приложений" подтверждает опыт партнеров и разработчиков в области интеграции уникальных приложений и решений в различные продукты экосистемы Майкрософт. 
+# <a name="application-integration"></a>Application Integration 
+The Application Integration competency recognizes partners and developers who integrate unique applications and solutions into various products across the Microsoft ecosystem. 
 
-## <a name="application-integrator-option"></a>Курс "Интегратор приложений"
+## <a name="application-integrator-option"></a>Application Integrator option
 
-Курс "Интегратор приложений" подходит тем, кто хочет подтвердить свои навыки, пройдя экзамены или сертификации. Выберите экзамены в соответствующей области специализации. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Разработка приложений".
+The Application Integrator option is ideal if you prefer to prove your skills by passing exams or certifications. Choose exams from the focus area of your choice. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Интеграция приложений".
 
-###<a name="silver"></a>Silver (Серебряный уровень)
-1. **4** сотрудника вашей организации должны пройти как экзамены, так и аттестации.
+###<a name="silver"></a>Silver
+1. **2** сотрудника вашей организации должны пройти как экзамены, так и аттестации.
 
     - **2** сотрудника должны пройти любой из следующих экзаменов:
 
@@ -41,17 +40,17 @@ ms.lasthandoff: 06/27/2017
 
         - Направление **Azure**
 
-            - [Экзамен 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): разработка Windows Azure и веб-служб
+            - [Экзамен 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): разработка Microsoft Azure и веб-служб
             - [Экзамен 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): разработка решений Microsoft Azure
 
-        **И**
+        **AND**
 
-    - **2** других сотрудника должны пройти следующую аттестацию:
+    - **2** сотрудника должны пройти следующую аттестацию:
 
-        - [Техническая оценка квалификации BizTalk по интеграции приложений (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
+        - [BizTalk Technical Competency Assessment for Application Integration (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
 
-###<a name="gold"></a>Gold (Золотой уровень)
-1. **8** сотрудников вашей организации должны пройти как экзамены, так и аттестации.
+###<a name="gold"></a>Gold
+1. **4** сотрудников вашей организации должны пройти как экзамены, так и аттестации.
 
     - **4** сотрудника должны пройти любой из следующих экзаменов:
 
@@ -75,12 +74,12 @@ ms.lasthandoff: 06/27/2017
 
         - Направление **Azure**
 
-            - [Экзамен 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): разработка Windows Azure и веб-служб
+            - [Экзамен 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): разработка Microsoft Azure и веб-служб
             - [Экзамен 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): разработка решений Microsoft Azure
 
-        **И**
+        **AND**
 
-    - **4** других сотрудника должны пройти следующую аттестацию:
+    - **4** сотрудника должны пройти следующую аттестацию: Это могут те же 4 сотрудника, которые сдали экзамен выше. :
 
         - [Техническая оценка квалификации BizTalk по интеграции приложений (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
 

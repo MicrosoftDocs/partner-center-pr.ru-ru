@@ -1,28 +1,31 @@
 ---
-title: "Компетенция \"Управление отношениями с клиентами в облаке\""
-description: "Получите статус первоклассного поставщика Microsoft Dynamics CRM Online или Dynamics 365 благодаря компетенции \"Управление отношениями с клиентами в облаке\"."
+title: Cloud Customer Relationship Management Competency
+description: Be known as premium provider of Microsoft Dynamics CRM Online or Dynamics 365 by attaining the Cloud Customer Relationship Management competency.
 author: Daniel Simpson
-keywords: "компетенция, компетенции, управление отношениями с клиентами в облаке"
-robots: noindex,nofollow
-ms.openlocfilehash: e02f3cdb3000d70986c496b603bad20b2cf81a57
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies,Cloud Customer Relationship Management
+ms.openlocfilehash: 08feb30386219b11a2fd471d66db4cedb5cd680d
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
-#<a name="cloud-customer-relationship-management"></a>Управление отношениями с клиентами в облаке
-Получите статус первоклассного поставщика Microsoft Dynamics CRM Online или Dynamics 365 благодаря компетенции "Управление отношениями с клиентами в облаке".
+#<a name="cloud-customer-relationship-management"></a>Cloud Customer Relationship Management
+Be known as premium provider of Microsoft Dynamics CRM Online or Dynamics 365 by attaining the Cloud Customer Relationship Management competency.
 
-##<a name="cloud-crm-reseller-option"></a>Курс "Торговый посредник по облачным решениям CRM"
+##<a name="cloud-crm-reseller-option"></a>Cloud CRM Reseller option
 
-Курс "Торговый посредник по облачным решениям для управления отношениями с клиентами" подходит для партнеров, которые хотят подтвердить свою профессиональную квалификацию путем обеспечения соответствия пороговым значениям прибыли и требованиям, предъявляемым к прохождению экзаменов. 
+The Cloud Customer Relationship Management option is ideal for partners who want to prove their capability by meeting revenue thresholds and exam requirements. 
 
-###<a name="silver"></a>Silver (Серебряный уровень)
+###<a name="silver"></a>Silver
 
-1. Ваша организация должна соответствовать пороговым значениям производительности.
+1. Your organization must meet the performance thresholds.
 
-    **Развитые рынки**
-    - Чистая прибыль партнера за 12-месячный отчетный период по продуктам CRM Online или Dynamics 365 Plan 1 должна составлять не менее 100000 долларов США.
+    - **Developed Markets**
+        - Partner must have earned at least US$100,000 in CRM Online or Dynamics 365 Plan 1 Net New Revenue in the TTM period
+
+    - **Развивающиеся рынки**
+        - Чистая прибыль партнера за 12-месячный отчетный период по продуктам CRM Online или Dynamics 365 Plan 1 должна составлять не менее 50000 долларов США.
+
     - С этими клиентами у вас должны быть установлены отношения в качестве Цифрового партнера записи по Microsoft CRM Online или Dynamics 365.
     - [Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.  
   
@@ -44,14 +47,20 @@ ms.lasthandoff: 06/27/2017
 
 ###<a name="gold"></a>Gold (Золотой уровень)
 
-1. Ваша организация должна соответствовать пороговым значениям производительности.
+1. Your organization must meet the performance thresholds.
 
-    **Развитые рынки**
+    - **Developed Markets**
     
-    - Чистая прибыль партнера за 12-месячный отчетный период по продуктам CRM Online или Dynamics 365 Plan 1 должна составлять не менее 300000 долларов США.
+        - Чистая прибыль партнера за 12-месячный отчетный период по продуктам CRM Online или Dynamics 365 Plan 1 должна составлять не менее 300000 долларов США.
+     
+    - **Развивающиеся рынки**
+
+        - Чистая прибыль партнера за 12-месячный отчетный период по продуктам CRM Online или Dynamics 365 Plan 1 должна составлять не менее 150000 долларов США.
+
     - С этими клиентами у вас должны быть установлены отношения в качестве Цифрового партнера записи по Microsoft CRM Online или Dynamics 365.
     - [Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.  
-  
+
+
 2. **4** сотрудника вашей организации должны удовлетворять требованиям, предъявляемым к прохождению экзаменов.
 
     - Каждый из **2** сотрудников должен пройти один из следующих экзаменов:

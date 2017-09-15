@@ -1,28 +1,28 @@
 ---
-title: "Изменение временного пароля | Центр партнеров"
-description: "Как только вы получите временный пароль, войдите в Центр партнеров и измените его."
+title: Change your temporary password | Partner Center
+description: As soon as you get your temporary password, log on to Partner Center and change it.
 author: labrenne
 ms.openlocfilehash: 8d9fb0c2bc1982b34e6a818a95915542f9005fcf
-ms.sourcegitcommit: 4a1cd51e5986f47badcde9412a7c7b22718500f0
+ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/07/2017
 ---
-# <a name="change-your-temporary-password"></a>Изменение временного пароля
+# <a name="change-your-temporary-password"></a>Change your temporary password
 
-**Область применения**
+**Applies to**
 
--  Центр партнеров
+-  Partner Center
 
-Войдите в Центр партнеров и измените временный пароль.
+Log on to Partner Center and change your temporary password.
 
-Как только вы получите временный пароль от глобального администратора, войдите в Центр партнеров и измените его. Если вы являетесь администратором программы поощрений, это действие позволит вам выполнить перенос регистрации вашей организации в программе поощрений. Если вы являетесь пользователем программы поощрений, вы сможете осуществлять доступ ко всем данным программ поощрений.
+As soon as you receive your temporary password from the global admin, log on to Partner Center and change it. If you are an incentives admin, doing so will permit you to complete the migration of your organization’s incentive enrollment. If you are an incentives user, you will then be able to access all your incentives data.
 
 1.  На **Информационной панели** выполните вход, используя новый ИД пользователя и временный пароль.
 
-2.  При входе в Центр партнеров в первый раз вам будет предложено изменить свой пароль.
+2.  When you log in to Partner Center for the first time, you will be prompted to change your password.
 
-Если вы потеряете пароль, вашему глобальному администратору необходимо будет перейти в раздел **Параметры учетной записи** >**Управления пользователями** и создать для вас новый временный пароль.
+If you lose your password, your global admin will need to go to  **Account settings** >**User management** to create a new temporary password for you.
 Дополнительные сведения см. в статье [Сброс пароля пользователя](reset-a-user-password.md).
 
 

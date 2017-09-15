@@ -1,29 +1,32 @@
 ---
-title: "Компетенция \"Планирование корпоративных ресурсов\""
-description: "Станьте партнером корпорации Майкрософт, подтвердив опыт вашей организации в области разработки и развертывания решений Dynamics для управления корпоративными ресурсами."
+title: Enterprise Resource Planning Competency
+description: "Become a Microsoft partner by proving your organization’s caliber in developing and deploying Dynamics solutions for enterprise resource planning needs."
 author: Daniel Simpson
-keywords: "компетенция, компетенции, планирование корпоративных ресурсов"
-robots: noindex,nofollow
-ms.openlocfilehash: d4bf2ab195776dfafea9f6e69db0667df28a5816
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies,Enterprise Resource Planning
+ms.openlocfilehash: 7608e8bb44134fde6ff05db360db9fd2ccb04d7d
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
-#<a name="enterprise-resource-planning"></a>Планирование корпоративных ресурсов 
-Станьте партнером корпорации Майкрософт, подтвердив опыт вашей организации в области разработки и развертывания решений Dynamics для управления корпоративными ресурсами.
+#<a name="enterprise-resource-planning"></a>Enterprise Resource Planning 
+Become a Microsoft partner by proving your organization’s caliber in developing and deploying Dynamics solutions for enterprise resource planning needs.
 
-##<a name="erp-reseller-option"></a>Курс "Торговый посредник по ERP"
-Курс "Торговый посредник по планированию корпоративных ресурсов" (Enterprise Resource Planning, ERP) подходит для партнеров, которые хотят подтвердить свою профессиональную квалификацию путем обеспечения соответствия пороговым значениям прибыли и требованиям, предъявляемым к прохождению экзаменов. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Планирование корпоративных ресурсов".
+##<a name="erp-reseller-option"></a>ERP Reseller option
+The Enterprise Resource Planning (ERP) Reseller option is ideal for partners who want to prove their capability by meeting revenue thresholds and exam requirements. Complete all the steps within the option to attain the Enterprise Resource Planning competency.
 
-###<a name="silver"></a>Silver (Серебряный уровень)
+###<a name="silver"></a>Silver
 
-1. Ваша организация должна соответствовать пороговым значениям производительности.
+1. Your organization must meet the performance thresholds.
 
-    **Развитые рынки**
-    - Общий ежегодный валовый доход от продажи лицензий партнера должен составлять 75000 долларов США
-    - Обеспечьте соответствие требованиям, предъявляемым к прибыли по продуктам Microsoft Dynamics AX On Premise и Dynamics AX Online; Dynamics GP, Dynamics SL, Dynamics NAV и (или) Dynamics 365 Plan 2.  
-  
+    - **Developed Markets**
+        - Partner must have earned a total annual gross license revenue of US$75,000
+       
+    - **Развивающиеся рынки**
+        - Общий ежегодный валовый доход от продажи лицензий партнера должен составлять 40000 долларов США
+ 
+    - Meet Revenue Requirements for Microsoft Dynamics AX on Premise & Dynamics AX online; Dynamics GP, Dynamics SL, Dynamics NAV and/or Dynamics 365 Plan 2.  
+
 2. **5** сотрудников вашей организации должны удовлетворять требованиям, предъявляемым к прохождению экзаменов.
 
     - **1** сотрудник должен пройти следующий экзамен:
@@ -51,12 +54,16 @@ ms.lasthandoff: 06/27/2017
 
 ###<a name="gold"></a>Gold (Золотой уровень)
 
-1. Ваша организация должна соответствовать пороговым значениям производительности.
+1. Your organization must meet the performance thresholds.
 
-    **Развитые рынки**
-    - Общий ежегодный валовый доход от продажи лицензий партнера должен составлять 175000 долларов США
-    - Обеспечьте соответствие требованиям, предъявляемым к прибыли по продуктам Microsoft Dynamics AX On Premise и Dynamics AX Online; Dynamics GP, Dynamics SL, Dynamics NAV и (или) Dynamics 365 Plan 2.  
+    - **Developed Markets**
+    -   Общий ежегодный валовый доход от продажи лицензий партнера должен составлять 175000 долларов США
   
+    - **Развивающиеся рынки**
+        - Общий ежегодный валовый доход от продажи лицензий партнера должен составлять 75000 долларов США 
+
+    - Meet Revenue Requirements for Microsoft Dynamics AX on Premise & Dynamics AX online; Dynamics GP, Dynamics SL, Dynamics NAV and/or Dynamics 365 Plan 2.  
+
 2. **5** сотрудников вашей организации должны удовлетворять требованиям, предъявляемым к прохождению экзаменов.
 
     - **1** сотрудник должен пройти следующий экзамен:

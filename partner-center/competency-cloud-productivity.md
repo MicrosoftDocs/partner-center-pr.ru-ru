@@ -1,29 +1,31 @@
 ---
-title: "Компетенция \"Облачная производительность\""
-description: "Компетенция \"Облачная производительность\" предназначена для партнеров, специализирующихся в области корпоративного развертывания Office 365. Выделитесь на фоне конкурентов с помощью этой компетенции как надежный поставщик облачных решений для клиентов, ищущих квалифицированных партнеров по облачным решениям."
+title: Cloud Productivity Competency
+description: The Cloud Productivity competency is for partners who specialize in enterprise deployments of Office 365. Differentiate your company with this competency as a proven cloud solution provider for customers searching for qualified cloud solution partners.
 author: Daniel Simpson
-keywords: "компетенция, компетенции, облачная производительность"
-robots: noindex,nofollow
-ms.openlocfilehash: 2b52e2814f2f382a24428b13694e6be72c9ec618
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency, competencies, Cloud Productivity
+ms.openlocfilehash: b9616b455fae524af82ce0880b99bcdde5816fa7
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
-# <a name="cloud-productivity-competency"></a>Компетенция "Облачная производительность"
+# <a name="cloud-productivity-competency"></a>Cloud Productivity competency
 
-Компетенция "Облачная производительность" предназначена для партнеров, специализирующихся в области корпоративного развертывания Office 365. Выделитесь на фоне конкурентов с помощью этой компетенции как надежный поставщик облачных решений для клиентов, ищущих квалифицированных партнеров по облачным решениям.
+The Cloud Productivity competency is for partners who specialize in enterprise deployments of Office 365. Differentiate your company with this competency as a proven cloud solution provider for customers searching for qualified cloud solution partners.
 
-## <a name="managed-service-partner-option"></a>Курс "Партнер по управляемым службам"
-Курс "Партнер по управляемым службам" подходит для партнеров, которые осуществляют управление средами Office 365 своих клиентов, а также предоставляют услуги по развертыванию. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Облачная производительность".
-### <a name="silver"></a>Silver (Серебряный уровень)
-1.  Ваша организация должна соответствовать пороговым значениям производительности.
-    - **Развитые рынки**: партнеры должны развернуть 2000 активных прав (активных пользователей)
-    - **Развивающиеся рынки**: партнеры должны развернуть 1000 активных прав (активных пользователей)
-    - К развернутым рабочим нагрузкам может относиться любой экземпляр Microsoft Office 365 (Exchange Online, SharePoint Online, Skype для бизнеса или Yammer) или ProPlus. На пробные версии эти условия не распространяются.     
+## <a name="managed-service-partner-option"></a>Managed Service Partner option
+The Managed Service Partner option is ideal for partners who manage Office 365 environments for their customer as well as provide deployment services. Complete all the steps within the option to attain the Cloud Productivity competency.
+### <a name="silver"></a>Silver
+1.  Your organization must meet the performance thresholds:
+    - **Развитые рынки** 
+        - Партнеры должны развернуть 2000 активных продуктов (активных пользователей)
+    - **Развивающиеся рынки**
+        -  Партнеры должны развернуть 1000 активных продуктов (активных пользователей)
+    
+    - К развернутым рабочим нагрузкам может относиться любой экземпляр Microsoft Office 365 (Exchange Online, SharePoint Online, Skype для бизнеса или Yammer) или ProPlus. Trial SKUs are not included.     
     - Примечание. Активные права рассчитываются на основе количества активных пользователей для определенной рабочей нагрузки 
-    - С этими клиентами у вас должны быть установлены отношения в качестве Полномочного администратора Office 365 или Партнера по сделкам записи Office 365, или Цифрового партнера записи Office 365.
-    - [Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.
+    - С этими клиентами у вас должны быть установлены отношения в качестве Делегированного администратора Office 365 или Партнера по сделкам записи Office 365, или Цифрового партнера записи Office 365.
+    - [Подробнее](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.
 
 2. **1** сотрудник вашей организации должен удовлетворять требованиям, предъявляемым к прохождению экзаменов.
 
@@ -39,13 +41,13 @@ ms.lasthandoff: 06/27/2017
 
 ### <a name="gold"></a>Gold (Золотой уровень)
 
-1.  Ваша организация должна соответствовать пороговым значениям производительности. 
+1.  Your organization must meet the performance thresholds. 
 
-    - Партнеры должны развернуть 4000 активных прав (активных пользователей).
-    - К развернутым рабочим нагрузкам может относиться любой экземпляр Microsoft Office 365 (Exchange Online, SharePoint Online, Skype для бизнеса или Yammer) или ProPlus. На пробные версии эти условия не распространяются.
+    - Partners must have deployed 4,000 active entitlements (active users).
+    - The deployments can be any Microsoft Office 365 workload (Exchange Online, SharePoint Online, Skype for Business, or Yammer) or ProPlus. Trial SKUs are not included.
     - Примечание. Активные права рассчитываются на основе количества активных пользователей для определенной рабочей нагрузки
-    - С этими клиентами у вас должны быть установлены отношения в качестве Полномочного администратора Office 365 или Партнера по сделкам записи Office 365, или Цифрового партнера записи Office 365.
-    - [Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.
+    - С этими клиентами у вас должны быть установлены отношения в качестве Делегированного администратора Office 365 или Партнера по сделкам записи Office 365, или Цифрового партнера записи Office 365.
+    - [Подробнее](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.
 
 2.  **2** сотрудника вашей организации должны удовлетворять требованиям, предъявляемым к прохождению экзаменов.
 

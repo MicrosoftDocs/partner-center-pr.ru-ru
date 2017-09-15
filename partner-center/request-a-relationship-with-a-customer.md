@@ -1,45 +1,46 @@
 ---
-title: "Запрос связи с клиентом | Центр партнеров"
-description: "Запрос связи используется для сценариев с поддержкой нескольких партнеров и нескольких каналов. Он также используется, если клиент удаляет делегированные права администратора и вам нужно восстановить их для подготовки или поддержки клиента."
+title: Request a relationship with a customer | Partner Center
+description: Requesting a relationship is used for multi-partner and multi-channel scenarios. It's also useful if a customer removes your delegated admin privileges and you need to restore them to provide provisioning or support.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-ms.openlocfilehash: 529f7d1ae3db3c5e9ea0dc8bec615fc606ec5dcd
-ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
+ms.openlocfilehash: 65909045a8b3b7fe7d47cf7a44e767a5b93dfdf2
+ms.sourcegitcommit: 7ed78315d2a4f4f60a0bf51ec658e019ff5b7fe3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/14/2017
+ms.lasthandoff: 07/19/2017
 ---
-# <a name="connect-with-customers-in-partner-center"></a>Связь с клиентами в Центре партнеров
+# <a name="connect-with-customers-in-partner-center"></a>Connect with customers in Partner Center
 
-**Относится к:**
+**Applies to**
 
--  Центр партнеров
--  Центр партнеров для Microsoft Cloud для правительства США
--  Центр партнеров Microsoft Cloud для Германии
+-  Partner Center
+-  Partner Center for Microsoft Cloud for US Government
+-  Partner Center for Microsoft Cloud Germany
 
-Чтобы управлять службой или подпиской от имени клиента, клиент должен предоставить вам права администратора для этой службы. Чтобы получить разрешения администратора от клиента, отправьте ему по электронной почте запрос на связь с торговым посредником. После того, как клиент утвердит запрос, вы сможете войти в систему на портале администратора службы и управлять службой от имени клиента. 
+To manage a customer's service or subscription on their behalf, the customer must grant you administrator permissions for that service. To get administrator permissions from a customer, email them a reseller relationship request. After the customer approves your request, you'll be able to log on to the service's admin portal and manage the service on the customer's behalf. 
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Приглашение клиента для установления отношений торгового посредника с вами
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invite a customer to establish a reseller relationship with you
 
-1.  Выберите **Клиенты** в меню **Панель мониторинга**, а затем выберите **Запросить установление взаимоотношений с торговым посредником**.
+1.  Select **Customers** from your **Dashboard** menu and then select **Request a reseller relationship**.
 
-2.  На следующей странице просмотрите черновик сообщения электронной почты. Вы можете открыть черновик сообщения в приложении электронной почте по умолчанию или скопировать сообщение в буфер обмена и вставить его в электронное письмо. 
+2.  On the next page, review the draft email message. You can open the draft message in your default email application or you can copy the message to your clipboard and paste it into an email. 
 
-    Вы можете изменить текст сообщения электронной почты, но обязательно включите в него ссылку, так как она индивидуально создана, чтобы связать клиента непосредственно с вашей учетной записью. Когда выполните этот шаг, выберите **Готово**.
+    You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to your account. Select **Done** when you’ve completed this step.
 
-3.  Отправьте электронное письмо клиенту.
+3.  Send the email to your customer.
 
-4.  После того как клиент примет ваше приглашение, он будет отображаться на вашей странице **Клиенты** и отсюда вы сможете подготовить к работе службу и управлять нею для клиента.
+4.  After the customer accepts your invitation, they'll appear on your **Customers** page, and you'll be able to provision and manage the service for the customer from there.
 
- >**Примечание**<br>
-    В случае сценария с поддержкой нескольких каналов только один партнер может иметь разрешения администратора для управления службой от имени клиента. 
+ >**Note**<br>
+    In a multi-channel scenario, only one partner can have administrator permissions to manage a service on the customer's behalf. 
 
-5.  Чтобы управлять учетной записью, службами, пользователями и лицензиями клиента, разверните его запись, нажав кнопку со стрелкой вниз рядом с его именем.
+5.  To manage the customer’s account, services, users, and licenses, expand the customer’s record by selecting the down arrow near their name.
 
 
->**Важно.**<br>
-Клиенты могут переназначить или удалить разрешения администратора на портале администратора службы. Однако до тех пор, пока не подписано новое соглашение с клиентом, вы по-прежнему несете ответственность за предоставление поддержки клиенту и соблюдение условий соглашения с торговым посредником облака, даже после того, как пользователь переназначает или удаляет разрешения администратора. Если клиенту в этой ситуации потребуется помощь, вы можете обратиться в службу поддержки Майкрософт, чтобы создать запрос на обслуживание от имени клиента.
+>**Important**<br>
+Customers can reassign or remove administrator permisions in a service's admin portal. However, unless and until you renegotiate your agreement with the customer, you continue to be responsible for providing customer support and adhering to the terms of the Cloud Reseller Agreement, even after a customer reassigns or removes administrator permissions. In this situation, if the customer requires help, you can call Microsoft support to open a service request on behalf of the customer.
 
-## <a name="related-topics"></a>Связанные статьи
+## <a name="related-topics"></a>Related topics
 
-[Удаление связи](remove-a-relationship.md)
+[Назначение контактов службы поддержки](assign-support-contacts.md)
+[Удаление связи с клиентом](remove-a-relationship.md)
