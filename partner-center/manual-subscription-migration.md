@@ -1,126 +1,119 @@
 ---
-title: "Перенос подписок Dynamics AX в Dynamics 365 | Центр партнеров"
-description: "Майкрософт представляет Dynamics 365, новое поколение интеллектуальных бизнес-приложений, которые позволят вашей организации расти, развиваться и преобразовываться, чтобы удовлетворять потребности клиентов и открывать новые возможности."
+title: Migrate Dynamics AX subscriptions to Dynamics 365 | Partner Center
+description: Microsoft introduces Dynamics 365, the next generation of intelligent business applications that enable your organization to grow, evolve and transform to meet the needs of your customers and capture new opportunities.
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: f19e46da31a7e479ebd3b1cd368ca7646c3c55b7
-
+ms.openlocfilehash: 39f254488dab4335a24a5a36fc593d2e281adbf8
+ms.sourcegitcommit: 2c948321945d0e61153f7d766a1a669782df4a54
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/24/2017
 ---
+# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a><span data-ttu-id="94cd8-103">Migrate Dynamics AX subscriptions to Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="94cd8-103">Migrate Dynamics AX subscriptions to Dynamics 365</span></span>
 
-# Перенос подписок Dynamics AX в Dynamics 365
+**<span data-ttu-id="94cd8-104">Applies to</span><span class="sxs-lookup"><span data-stu-id="94cd8-104">Applies to</span></span>**
 
-**Относится к:**
+-  <span data-ttu-id="94cd8-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="94cd8-105">Partner Center</span></span>
 
--  Центр партнеров
+<span data-ttu-id="94cd8-106">Microsoft introduces Dynamics 365, the next generation of intelligent business applications that enable your organization to grow, evolve and transform to meet the needs of your customers and capture new opportunities.</span><span class="sxs-lookup"><span data-stu-id="94cd8-106">Microsoft introduces Dynamics 365, the next generation of intelligent business applications that enable your organization to grow, evolve and transform to meet the needs of your customers and capture new opportunities.</span></span> <span data-ttu-id="94cd8-107">В составе нового продукта Майкрософт представляет клиентам новые планы подписки Microsoft Dynamics с 1 ноября 2016 года. Они во многом похожи на текущие планы.</span><span class="sxs-lookup"><span data-stu-id="94cd8-107">As part of the new product, Microsoft introduced new Microsoft Dynamics subscription plans for customers on November 1st, 2016, that are similar but not identical to your current plans.</span></span>
 
-Майкрософт представляет Dynamics 365, новое поколение интеллектуальных бизнес-приложений, которые позволят вашей организации расти, развиваться и преобразовываться, чтобы удовлетворять потребности клиентов и открывать новые возможности. В составе нового продукта Майкрософт представляет клиентам новые планы подписки Microsoft Dynamics с 1 ноября 2016 года. Они во многом похожи на текущие планы.
+<span data-ttu-id="94cd8-108">В этом документе содержатся инструкции для косвенных поставщиков по переключению существующих подписок клиентов Microsoft Dynamics AX на новое решение Microsoft Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="94cd8-108">The instructions in this document describe how indirect providers can switch customers’ existing Microsoft Dynamics AX subscriptions and Microsoft Dymanics CRM Online subscriptions to Microsoft Dynamics 365.</span></span> <span data-ttu-id="94cd8-109">The instructions also apply to other Microsoft products that update to new versions, requiring providers to migrate customers’ subscriptions to a new SKU.</span><span class="sxs-lookup"><span data-stu-id="94cd8-109">The instructions also apply to other Microsoft products that update to new versions, requiring providers to migrate customers’ subscriptions to a new SKU.</span></span>
 
-В этом документе содержатся инструкции для косвенных поставщиков по переключению существующих подписок клиентов Microsoft Dynamics AX на новое решение Microsoft Dynamics 365. Эти инструкции также применимы к другим продуктам Майкрософт при их обновлении до новых версий, для чего поставщикам потребуется перенести подписки клиентов на новый номер SKU.
+<span data-ttu-id="94cd8-110">Планы Microsoft Dynamics CRM Online и AX перестают действовать.</span><span class="sxs-lookup"><span data-stu-id="94cd8-110">The Microsoft Dynamics CRM Online and AX plans are retired.</span></span>  <span data-ttu-id="94cd8-111">С 1 июля 2017 г. вы больше не сможете обновить устаревшие планы. Кроме того, существующие подписки E4 не будут продлеваться автоматически после истечения срока действия.</span><span class="sxs-lookup"><span data-stu-id="94cd8-111">Effective July 1, 2017, you can no longer renew into the legacy plans, also existing E4 subscriptions will not renew automatically when they expire.</span></span>
 
-**Изменения в лицензировании Microsoft Dynamics AX**
+<span data-ttu-id="94cd8-112">По истечении срока действия подписок CRM Online и AX они будут отменены.</span><span class="sxs-lookup"><span data-stu-id="94cd8-112">When CRM Online and AX subscriptions end, they will be canceled.</span></span> <span data-ttu-id="94cd8-113">Чтобы обеспечить непрерывность для пользователей, следует перенести пользователей с подписками, для которых истекает срок действия, на один из поддерживаемых SKU, которые перечислены ниже.</span><span class="sxs-lookup"><span data-stu-id="94cd8-113">To ensure continuity for customers, plan to transition customers with expiring subscriptions to a supported SKU option, listed below.</span></span> <span data-ttu-id="94cd8-114">Мы рекомендуем переводить клиентов на новые подписки до ежегодной даты завершения подписки, чтобы не допускать перерывов в предоставлении службы клиентам.</span><span class="sxs-lookup"><span data-stu-id="94cd8-114">We recommend moving customers to new subscriptions before the subscription’s yearly end date to avoid any service outages for customers.</span></span> 
 
-Использование серии продуктов Microsoft Dynamics AX прекращается с 1 ноября 2016 г. Подробнее узнать о новых вариантах лицензирования для Dynamics 365 можно в предстоящем руководстве по лицензированию, которое скоро будет опубликовано. Подробные сведения о сопоставлении лицензий см. в следующей таблице:
+<span data-ttu-id="94cd8-115">На странице сведений подписки состояние подписки изменено с "Дата автоматического возобновления: [дата]" на "Срок действия истекает: [дата]".</span><span class="sxs-lookup"><span data-stu-id="94cd8-115">On the subscription's detail page, you will see that for these expiring subscriptions, the subscription status has changed to "Expires on [date]" from "Auto renews on [date]".</span></span> 
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>Снятая с учета лицензия Dynamics AX</strong></p></td>
-<td><p><strong>Лицензия Dynamics 365</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Dynamics AX Enterprise</p></td>
-<td><p>Выпуск Dynamics 365 Enterprise, план 2</p>
-<p>ИЛИ Dynamics 365 for Operations</p></td>
-</tr>
-<tr class="odd">
-<td><p>Dynamics AX Task</p></td>
-<td><p>Dynamics 365 for Team Member</p></td>
-</tr>
-<tr class="even">
-<td><p>Dynamics AX Functional</p></td>
-<td><p>Dynamics 365 for Team Member</p></td>
-</tr>
-<tr class="odd">
-<td><p>Dynamics AX Device</p></td>
-<td><p>Dynamics 365 for Operations Device</p></td>
-</tr>
-</tbody>
-</table>
+<span data-ttu-id="94cd8-116">Если вы используете API (CREST или Центра партнеров), вы можете найти подписки с истекающим сроком действия по дате завершения подписки и свойству автоматического возобновления со значением "ложь" с 1 июля 2017 г.</span><span class="sxs-lookup"><span data-stu-id="94cd8-116">If you use the API (either CREST or Partner Center), you can discover expiring subscriptions by evaluating the end date of the subscription along with the auto renew = False property.The subscriptions were set to auto renew=False on July 1, 2017.</span></span> <span data-ttu-id="94cd8-117">Перевести клиентов на новый план можно в любое время.</span><span class="sxs-lookup"><span data-stu-id="94cd8-117">You can move customers to a new plan at any time.</span></span> 
 
- 
+**<span data-ttu-id="94cd8-118">Изменения в лицензировании Microsoft Dynamics AX</span><span class="sxs-lookup"><span data-stu-id="94cd8-118">Microsoft Dynamics AX licensing changes</span></span>**
 
-**Microsoft Dynamics CRM Online**
+<span data-ttu-id="94cd8-119">Использование серии продуктов Microsoft Dynamics AX прекращается с 1 ноября 2016 г.</span><span class="sxs-lookup"><span data-stu-id="94cd8-119">The Microsoft Dynamics AX product line was retired, effective November 1st, 2016.</span></span> <span data-ttu-id="94cd8-120">Подробнее узнать о новых вариантах лицензирования для Dynamics 365 можно в [руководстве по лицензированию](http://download.microsoft.com/documents/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf).</span><span class="sxs-lookup"><span data-stu-id="94cd8-120">To learn more about the new licensing options for Dynamics 365, review the [Licensing Guide](http://download.microsoft.com/documents/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf).</span></span>
 
-Текущий план Microsoft Dynamics CRM Online снимается с учета 1 ноября 2016 г. Подробнее о новых вариантах лицензирования см. в разделе [Важная информация для пользователей CRM Online](https://go.microsoft.com/fwlink/?linkid=831667).
+ <span data-ttu-id="94cd8-121">Подробные сведения о сопоставлении лицензий см. в следующей таблице:</span><span class="sxs-lookup"><span data-stu-id="94cd8-121">Refer to the following table for details on license mapping:</span></span>
 
-## Перевод клиентов на новые планы продуктов
+|**<span data-ttu-id="94cd8-122">Устаревшие SKU</span><span class="sxs-lookup"><span data-stu-id="94cd8-122">Retired SKU</span></span>**   |**<span data-ttu-id="94cd8-123">SKU-код Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="94cd8-123">Dynamics 365 SKU</span></span>**   |
+|-------------------|:----------------------|
+|<span data-ttu-id="94cd8-124">Enterprise SKU</span><span class="sxs-lookup"><span data-stu-id="94cd8-124">Enterprise SKU</span></span>|<span data-ttu-id="94cd8-125">План Microsoft Dynamics 365 for Unified Operations или Microsoft Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="94cd8-125">Microsoft Dynamics 365 for Unified Operations or Microsoft Dynamics 365 Plan</span></span> |
+|<span data-ttu-id="94cd8-126">Задача</span><span class="sxs-lookup"><span data-stu-id="94cd8-126">Task</span></span>|<span data-ttu-id="94cd8-127">Microsoft Dynamics 365 for Activity</span><span class="sxs-lookup"><span data-stu-id="94cd8-127">Microsoft Dynamics 365 for Activity</span></span>
+|<span data-ttu-id="94cd8-128">Задача/самообслуживание</span><span class="sxs-lookup"><span data-stu-id="94cd8-128">Task/self service</span></span>|<span data-ttu-id="94cd8-129">Microsoft Dynamics 365 for Team Members</span><span class="sxs-lookup"><span data-stu-id="94cd8-129">Microsoft Dynamics 365 for Team Members</span></span>|
+|<span data-ttu-id="94cd8-130">Устройство</span><span class="sxs-lookup"><span data-stu-id="94cd8-130">Device</span></span>|<span data-ttu-id="94cd8-131">Microsoft Dynamics 365 for Operations Device</span><span class="sxs-lookup"><span data-stu-id="94cd8-131">Microsoft Dynamics 365 for Operations Device</span></span>|
+
+## <a name="microsoft-dynamics-crm-online-licensing-changes"></a><span data-ttu-id="94cd8-132">Изменения в лицензировании Microsoft Dynamics CRM Online</span><span class="sxs-lookup"><span data-stu-id="94cd8-132">Microsoft Dynamics CRM Online licensing changes</span></span> 
+
+**<span data-ttu-id="94cd8-133">Microsoft Dynamics CRM Online</span><span class="sxs-lookup"><span data-stu-id="94cd8-133">Microsoft Dynamics CRM Online</span></span>**
+
+<span data-ttu-id="94cd8-134">Текущий план Microsoft Dynamics CRM Online снимается с учета 1 ноября 2016г.</span><span class="sxs-lookup"><span data-stu-id="94cd8-134">The current Microsoft Dynamics CRM Online plan was retired effective November 1, 2016.</span></span> <span data-ttu-id="94cd8-135">Подробнее узнать о новых вариантах лицензирования для Microsoft Dynamics 365 можно в предстоящем [руководстве по лицензированию](http://download.microsoft.com/documents/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf), которое скоро будет опубликовано.</span><span class="sxs-lookup"><span data-stu-id="94cd8-135">To learn more about the new licensing options for microsoft Dynaics 365, review the [licensing guide](http://download.microsoft.com/documents/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf).</span></span> <span data-ttu-id="94cd8-136">Подробнее о новых вариантах лицензирования см. в разделе [Важная информация для пользователей CRM Online](https://go.microsoft.com/fwlink/?linkid=831667).</span><span class="sxs-lookup"><span data-stu-id="94cd8-136">See [Important information for CRM Online customers](https://go.microsoft.com/fwlink/?linkid=831667) to find out more about new licensing options.</span></span>
+
+<span data-ttu-id="94cd8-137">Подробные сведения о сопоставлении лицензий см. в следующей таблице:</span><span class="sxs-lookup"><span data-stu-id="94cd8-137">Refer to the following table for details on license mapping:</span></span>
+
+|**<span data-ttu-id="94cd8-138">Устаревшие SKU</span><span class="sxs-lookup"><span data-stu-id="94cd8-138">Retired SKU</span></span>**   |**<span data-ttu-id="94cd8-139">SKU-код Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="94cd8-139">Dynamics 365 SKU</span></span>**   |
+|-------------------|:----------------------|
+|<span data-ttu-id="94cd8-140">Enterprise</span><span class="sxs-lookup"><span data-stu-id="94cd8-140">Enterprise</span></span>|<span data-ttu-id="94cd8-141">План Dynamics 365 Enterprise Customer Engagement</span><span class="sxs-lookup"><span data-stu-id="94cd8-141">Dynamics 365 Enterprise Customer Engagement Plan</span></span> |
+|<span data-ttu-id="94cd8-142">Professional</span><span class="sxs-lookup"><span data-stu-id="94cd8-142">Professional</span></span>|<span data-ttu-id="94cd8-143">План Dynamics 365 Enterprise Customer Engagement, Dynamics 365 for Sales или Dynamics 365 for Customer Service</span><span class="sxs-lookup"><span data-stu-id="94cd8-143">Dynamics 365 Enterprise Customer Engagement Plan, Dynamics 365 for Sales, or Dynamics 365 for Customer Service</span></span>|
+|<span data-ttu-id="94cd8-144">Basic</span><span class="sxs-lookup"><span data-stu-id="94cd8-144">Basic</span></span>|<span data-ttu-id="94cd8-145">План Dynamics 365 for Team Members, Dynamics 365 for Sales, Dynamics 365 for Customer Service или Dynamics 365 Enterprise Customer Engagement</span><span class="sxs-lookup"><span data-stu-id="94cd8-145">Dynamics 365 for Team Members, Dynamics 365 for Sales, Dynamics 365 for Customer Service, or Dynamics 365 Enterprise Customer Engagement Plan</span></span>|
+|<span data-ttu-id="94cd8-146">Essential</span><span class="sxs-lookup"><span data-stu-id="94cd8-146">Essential</span></span>|<span data-ttu-id="94cd8-147">Dynamics 365 for Team Members</span><span class="sxs-lookup"><span data-stu-id="94cd8-147">Dynamics 365 for Team Members</span></span>|
+|<span data-ttu-id="94cd8-148">Надстройка Field Service</span><span class="sxs-lookup"><span data-stu-id="94cd8-148">Field service add-on</span></span>|<span data-ttu-id="94cd8-149">План Dynamics 365 Enterprise Customer Engagement или Dynamics 365 for Field Service</span><span class="sxs-lookup"><span data-stu-id="94cd8-149">Dynamics 365 Enterprise Customer Engagement Plan or Dynamics 365 for Field Service</span></span>|
+|<span data-ttu-id="94cd8-150">Надстройка Project Service Automation</span><span class="sxs-lookup"><span data-stu-id="94cd8-150">Project Service Authomation Add-on</span></span>|<span data-ttu-id="94cd8-151">План Dynamics 365 Customer Engagement или Dynamics 365 for Project Service Automation</span><span class="sxs-lookup"><span data-stu-id="94cd8-151">Dynamics 365 Customer Engagement Plan or Dynamics 365 for Project Service Automation</span></span>|
 
 
-Майкрософт регулярно предоставляет торговым посредникам и поставщикам новые решения. В подобных случаях торговому посреднику может потребоваться обновить клиентов до новых служб или перенести их подписки с номеров SKU, которые в конечном итоге будут сняты с учета. Для переноса клиентов со старых номеров SKU на новые требуется последовательно сделать следующее:
 
--   [Приобрести новую подписку](#manual-subscription-migration-purchasenewsubsc);
--   [Переназначить текущие пользовательские лицензии](#manual-subscription-migration-reassignlicenses);
--   [Отменить старую подписку](#manual-subscription-migration-cancelsubscriptions).
+## <a name="transition-customers-to-new-product-plans"></a><span data-ttu-id="94cd8-152">Перевод клиентов на новые планы продуктов</span><span class="sxs-lookup"><span data-stu-id="94cd8-152">Transition customers to new product plans</span></span>
 
-С помощью следующих процедур клиент перемещается из Dynamics AX7 Enterprise в Dynamics 365 for Operations.
+
+<span data-ttu-id="94cd8-153">Microsoft continuously offers new products and services to resellers and providers.</span><span class="sxs-lookup"><span data-stu-id="94cd8-153">Microsoft continuously offers new products and services to resellers and providers.</span></span> <span data-ttu-id="94cd8-154">In these cases, a reseller may need to upgrade customers to new services or migrate their subscriptions from SKUs that will eventually be shut down.</span><span class="sxs-lookup"><span data-stu-id="94cd8-154">In these cases, a reseller may need to upgrade customers to new services or migrate their subscriptions from SKUs that will eventually be shut down.</span></span> <span data-ttu-id="94cd8-155">Migrating customers from old SKUs to newer ones requires the following sequence:</span><span class="sxs-lookup"><span data-stu-id="94cd8-155">Migrating customers from old SKUs to newer ones requires the following sequence:</span></span>
+
+-   <span data-ttu-id="94cd8-156">[Purchase the new subscription](#manual-subscription-migration-purchasenewsubsc);</span><span class="sxs-lookup"><span data-stu-id="94cd8-156">[Purchase the new subscription](#manual-subscription-migration-purchasenewsubsc);</span></span>
+-   <span data-ttu-id="94cd8-157">[Re-assign current user licenses](#manual-subscription-migration-reassignlicenses);</span><span class="sxs-lookup"><span data-stu-id="94cd8-157">[Re-assign current user licenses](#manual-subscription-migration-reassignlicenses);</span></span>
+-   <span data-ttu-id="94cd8-158">[Отменить старую подписку](#manual-subscription-migration-cancelsubscriptions).</span><span class="sxs-lookup"><span data-stu-id="94cd8-158">[Cancel the old subscription](#manual-subscription-migration-cancelsubscriptions).</span></span>
+
+<span data-ttu-id="94cd8-159">С помощью следующих процедур клиент перемещается из Microsoft Dynamics AX или CRM Online в Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="94cd8-159">In the following procedures, you move a customer from Microsoft Dynamics AX or CRM Online to Dynamics 365.</span></span>
+
+<span data-ttu-id="94cd8-160">В этом примере торговому посреднику требуется переместить клиента с существующей подпиской на Dynamics AX Enterprise в Dynamics 365 for Operations.</span><span class="sxs-lookup"><span data-stu-id="94cd8-160">In this example, the reseller needs to move a customer with an existing subscription for Dynamics AX Enterprise to Dynamics 365 for Operations.</span></span> <span data-ttu-id="94cd8-161">Прежде всего необходимо приобрести Dynamics 365 for Operations.</span><span class="sxs-lookup"><span data-stu-id="94cd8-161">Your first step is to purchase Dynamics 365 for Operations.</span></span>  <span data-ttu-id="94cd8-162">Повторите эти действия для перемещения клиента CRM Online в Microsoft Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="94cd8-162">Repeat these steps for a CRM Online customer moving to Microsoft Dynamics 365.</span></span>
 
 <a href="" id="purchasenewsubsc"></a>
-Торговому посреднику требуется переместить клиента с существующей подпиской на Dynamics AX Enterprise в Dynamics 365 for Operations. Прежде всего, необходимо приобрести Dynamics 365 for Operations.
 
-**Приобретение новой подписки**
+**<span data-ttu-id="94cd8-163">Приобретение новой подписки</span><span class="sxs-lookup"><span data-stu-id="94cd8-163">Purchase the new subscription</span></span>**
 
-1.  В меню **Информационная панель** выберите **Клиенты**, выберите клиента, которого требуется переместить, а затем нажмите **Добавить подписки**.
-2.  Выберите из каталога подписку, которую требуется приобрести (в данном случае — Dynamics 365 for Operations, Enterprise Edition), введите количество лицензий и нажмите **Отправить**.
+1.  <span data-ttu-id="94cd8-164">From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and choose **Add Subscriptions**.</span><span class="sxs-lookup"><span data-stu-id="94cd8-164">From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and choose **Add Subscriptions**.</span></span>
+2.  <span data-ttu-id="94cd8-165">Select the subscription you want to purchase from the catalog (in this case, Dynamics 365 for Operations, Enterprise Edition), enter the number of licenses, and choose **Submit**.</span><span class="sxs-lookup"><span data-stu-id="94cd8-165">Select the subscription you want to purchase from the catalog (in this case, Dynamics 365 for Operations, Enterprise Edition), enter the number of licenses, and choose **Submit**.</span></span>
 
-    Теперь у клиента должны быть как старая, так и новая подписки. В этом примере — старая подписка Dynamics AX Enterprise и новая "целевая" подписка Dynamics 365 for Operations, Enterprise Edition.
+    <span data-ttu-id="94cd8-166">Your customer should now have both old and new subscriptions: in this example, the old Dynamics AX Enterprise, and the new ‘target’ subscription, Dynamics 365 for Operations, Enterprise Edition.</span><span class="sxs-lookup"><span data-stu-id="94cd8-166">Your customer should now have both old and new subscriptions: in this example, the old Dynamics AX Enterprise, and the new ‘target’ subscription, Dynamics 365 for Operations, Enterprise Edition.</span></span>
 
-<a href="" id="reassignlicenses"></a>
-Далее необходимо переназначить все существующие пользовательские лицензии на новую подписку.
+<span data-ttu-id="94cd8-167"><a href="" id="reassignlicenses"></a> The next step is to reassign all existing user licenses to the new subscription.</span><span class="sxs-lookup"><span data-stu-id="94cd8-167"><a href="" id="reassignlicenses"></a> The next step is to reassign all existing user licenses to the new subscription.</span></span>
 
-**Переназначение пользовательских лицензий**
+**<span data-ttu-id="94cd8-168">Reassign user licenses</span><span class="sxs-lookup"><span data-stu-id="94cd8-168">Reassign user licenses</span></span>**
 
-1.  В меню **Информационная панель** выберите **Клиенты**, выберите клиента, которого требуется переместить, и нажмите **Пользователи и лицензии**. Откроется страница "Пользователи и лицензии" клиента.
-2.  Чтобы переназначить пользовательские лицензии, выберите пользователя, которого требуется переназначить, а затем нажмите **Управление лицензиями**.
-3.  На странице **Управление лицензиями** снимите флажок лицензии **Dynamics AX Enterprise** и выберите лицензию **Dynamics 365 for Operations**.
-4.  Выберите **Отправить**. На странице подтверждения указаны новые назначения лицензий.
-5.  Выполните эти же действия для всех остальных пользователей клиента, которым требуется переназначить лицензии.
+1.  <span data-ttu-id="94cd8-169">From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and choose **Users and licenses**.</span><span class="sxs-lookup"><span data-stu-id="94cd8-169">From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and choose **Users and licenses**.</span></span> <span data-ttu-id="94cd8-170">The customer’s Users and Licenses page opens.</span><span class="sxs-lookup"><span data-stu-id="94cd8-170">The customer’s Users and Licenses page opens.</span></span>
+2.  <span data-ttu-id="94cd8-171">To re-assign user licenses, select the user to reassign and then select **Manage licenses**.</span><span class="sxs-lookup"><span data-stu-id="94cd8-171">To re-assign user licenses, select the user to reassign and then select **Manage licenses**.</span></span>
+3.  <span data-ttu-id="94cd8-172">On the **Manage licenses** page, clear the **Dynamics AX Enterprise** license check box and select the **Dynamics 365 for Operations** license.</span><span class="sxs-lookup"><span data-stu-id="94cd8-172">On the **Manage licenses** page, clear the **Dynamics AX Enterprise** license check box and select the **Dynamics 365 for Operations** license.</span></span>
+4.  <span data-ttu-id="94cd8-173">Select **Submit**.</span><span class="sxs-lookup"><span data-stu-id="94cd8-173">Select **Submit**.</span></span> <span data-ttu-id="94cd8-174">A confirmation page lists the new license assignments.</span><span class="sxs-lookup"><span data-stu-id="94cd8-174">A confirmation page lists the new license assignments.</span></span>
+5.  <span data-ttu-id="94cd8-175">Continue the same steps with any other customer users that need license reassignment.</span><span class="sxs-lookup"><span data-stu-id="94cd8-175">Continue the same steps with any other customer users that need license reassignment.</span></span>
 
-<a href="" id="cancelsubscriptions"></a>
-После перемещения пользовательский лицензий в новую службу вы можете отменить старую подписку на верхнем уровне клиента.
+<span data-ttu-id="94cd8-176"><a href="" id="cancelsubscriptions"></a> After moving the user licenses to the new service, you can safely cancel the old subscription at the top Customer level.</span><span class="sxs-lookup"><span data-stu-id="94cd8-176"><a href="" id="cancelsubscriptions"></a> After moving the user licenses to the new service, you can safely cancel the old subscription at the top Customer level.</span></span>
 
-**Отмена старой подписки**
+**<span data-ttu-id="94cd8-177">Cancel the old subscription</span><span class="sxs-lookup"><span data-stu-id="94cd8-177">Cancel the old subscription</span></span>**
 
-1.  В меню **Информационная панель** выберите **Клиенты**, выберите клиента, которого требуется переместить, а затем выберите подписку, которую требуется отменить.
-2.  На странице с подробными сведениями о подписке установите параметру **Состояние** подписки значение **Приостановлено**.
-3.  Выберите **Отправить**.
+1.  <span data-ttu-id="94cd8-178">From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and select the subscription you want to cancel.</span><span class="sxs-lookup"><span data-stu-id="94cd8-178">From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and select the subscription you want to cancel.</span></span>
+2.  <span data-ttu-id="94cd8-179">In the subscription details page, set the subscription **Status** to **Suspended**.</span><span class="sxs-lookup"><span data-stu-id="94cd8-179">In the subscription details page, set the subscription **Status** to **Suspended**.</span></span>
+3.  <span data-ttu-id="94cd8-180">Select **Submit**.</span><span class="sxs-lookup"><span data-stu-id="94cd8-180">Select **Submit**.</span></span>
 
-Старая подписка приостанавливается, а новая — активируется. Приостановленная подписка будет автоматически отозвана через 120 дней. Клиент не несет дополнительных затрат на старую подписку.
+<span data-ttu-id="94cd8-181">The old subscription is suspended, and the new subscription is active.</span><span class="sxs-lookup"><span data-stu-id="94cd8-181">The old subscription is suspended, and the new subscription is active.</span></span> <span data-ttu-id="94cd8-182">The suspended subscription will automatically be de-provisioned after 120 days.</span><span class="sxs-lookup"><span data-stu-id="94cd8-182">The suspended subscription will automatically be de-provisioned after 120 days.</span></span> <span data-ttu-id="94cd8-183">The customer incurs no additional costs for the old subscription.</span><span class="sxs-lookup"><span data-stu-id="94cd8-183">The customer incurs no additional costs for the old subscription.</span></span>
 
-## Дополнительные рекомендации
+## <a name="additional-considerations"></a><span data-ttu-id="94cd8-184">Additional considerations</span><span class="sxs-lookup"><span data-stu-id="94cd8-184">Additional considerations</span></span>
 
 
-Если ваш клиент переходит из программы канала Open в программу облачных служб для дальнейшей подготовки подписок, вам также потребуется перенести существующие подписки этого клиента:
+<span data-ttu-id="94cd8-185">If your customer is moving from the Open Channel to the Cloud Services Program for further subscription provisioning, you will also need to migrate their existing subscriptions:</span><span class="sxs-lookup"><span data-stu-id="94cd8-185">If your customer is moving from the Open Channel to the Cloud Services Program for further subscription provisioning, you will also need to migrate their existing subscriptions:</span></span>
 
--   Если клиент получил старую подписку через канал Open, процесс перехода в CSP на новый номер SKU прост.
--   Если клиент еще не является вашим, вы можете пригласить его. Подробнее см. в разделе справки [Запрос связи с клиентом](https://msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx).
+-   <span data-ttu-id="94cd8-186">If the customer received their old subscription through the Open Channel, moving to the CSP on the new SKU is straightforward.</span><span class="sxs-lookup"><span data-stu-id="94cd8-186">If the customer received their old subscription through the Open Channel, moving to the CSP on the new SKU is straightforward.</span></span>
+-   <span data-ttu-id="94cd8-187">If the customer is not yet established as your customer, you can invite them.</span><span class="sxs-lookup"><span data-stu-id="94cd8-187">If the customer is not yet established as your customer, you can invite them.</span></span> <span data-ttu-id="94cd8-188">For information, see the [Request a relationship with a customer](https://msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx) help topic.</span><span class="sxs-lookup"><span data-stu-id="94cd8-188">For information, see the [Request a relationship with a customer](https://msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx) help topic.</span></span>
 
-После того как клиент примет вас в качестве своего косвенного поставщика, дальнейшие шаги подготовки практически идентичны описанным выше: приобретите новую подписку и назначьте пользовательские лицензии. Единственное различие связано с отменой старых подписок. Новый поставщик не может отменить приостановку или отменить подписки, полученные через другие каналы. Если клиент получил прежние подписки через другой канал продаж, например канал Open, клиенту придется отменить подписки самостоятельно через этот канал.
+<span data-ttu-id="94cd8-189">After the customer accepts you as their indirect provider, the provisioning steps are mostly the same as described above: you purchase the new subscription, and then assign the user licenses.</span><span class="sxs-lookup"><span data-stu-id="94cd8-189">After the customer accepts you as their indirect provider, the provisioning steps are mostly the same as described above: you purchase the new subscription, and then assign the user licenses.</span></span> <span data-ttu-id="94cd8-190">The only difference involves cancellation of old subscription(s).</span><span class="sxs-lookup"><span data-stu-id="94cd8-190">The only difference involves cancellation of old subscription(s).</span></span> <span data-ttu-id="94cd8-191">A new provider cannot cancel suspend/cancel subscriptions acquired via other channels.</span><span class="sxs-lookup"><span data-stu-id="94cd8-191">A new provider cannot cancel suspend/cancel subscriptions acquired via other channels.</span></span> <span data-ttu-id="94cd8-192">If the customer acquired prior subscriptions in another sales channel, such as the Open channel, the customer will need to cancel it themselves through that channel.</span><span class="sxs-lookup"><span data-stu-id="94cd8-192">If the customer acquired prior subscriptions in another sales channel, such as the Open channel, the customer will need to cancel it themselves through that channel.</span></span>
 
  
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 
