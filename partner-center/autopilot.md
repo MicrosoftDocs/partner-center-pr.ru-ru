@@ -3,11 +3,11 @@ title: Simplify device setup with Windows Autopilot | Partner Center
 description: Add a Windows AutoPilot deployment profile in Partner Center to simplify device setup with Windows Autopilot
 author: KPacquer
 keywords: autopilot, windows autopilot, microsoft autopilot, zero-touch deployment, oobe, login screens
-ms.openlocfilehash: a307a1e8f46137ba0f796b2ad2fb059c1d602eac
-ms.sourcegitcommit: 493122887ab9a5524590be12f5e1fedf4a004682
+ms.openlocfilehash: 72cf8a8361a12c545501a452788d231f930c4928
+ms.sourcegitcommit: d9f3e4e8115c0ad44f97041d352b703cda7ba9e5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/28/2017
+ms.lasthandoff: 09/28/2017
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>Simplify device setup with Windows Autopilot 
 
@@ -22,8 +22,8 @@ Windows Autopilot streamlines and secures device setup for new Windows 10 Pro de
 
 ## <a name="requirements"></a>Requirements
 
-*  Устройства с предварительно установленной системой Windows10 Pro Creators Update (версия 1703 или более поздняя) или Windows 10 Pro для дополнительных компьютеров.
-*  Device identifier known as a hardware hash (128 HWH or 4k HWH), which is typically provided by an OEM. You'll use identifiers to assign organization profiles in Partner Center. По окончании августа 2017 года использовать хэш оборудования больше не потребуется. 
+*  Devices pre-installed with Windows 10 Pro Creators Update (version 1703 or later) or Windows 10 Pro for Advanced PCs.
+*  Device identifier known as a hardware hash (128 HWH or 4k HWH), which is typically provided by an OEM. You'll use identifiers to assign organization profiles in Partner Center. After September 2017 you will no longer need the hardware hash. 
 *  The devices must have access to the internet. When the device can’t connect, it shows the default Windows out-of-box experience (OOBE) screens.
 *  Enrolling the device into an MDM requires Azure Active Directory Premium.
 
@@ -49,11 +49,11 @@ To configure devices, upload a list of the devices into Partner Center, create a
 
 1.  Add the list of devices into Partner Center.
 
-    (Агенты по продажам и агенты администраторов могут добавлять список устройств в Центр партнеров.)
+    Sales agents and admin agents have access to add the list of devices into Partner Center.
     
-    Косвенные торговые посредники могут обратиться к косвенному поставщику, чтобы сделать это.
+    Indirect resellers can work with their indirect provider to add this.
 
-    А.  Create a .csv file using the PowerShell script from the topic: [Overview of Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot). This .csv file contains device info including the serial number, OEM name, model name, product ID and device identifier. 
+    a.  Create a .csv file using the PowerShell script from the topic: [Overview of Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot). This .csv file contains device info including the serial number, OEM name, model name, product ID and device identifier. 
 
     b.  From the Partner Center dashboard, go to **Customers** > select the customer that’s receiving the devices > **Devices > Add devices**.
 
@@ -100,4 +100,11 @@ Once you’ve assigned a profile to a device, you can update it, even if you’v
 3. Go to the profile you want to remove and delete it. The profile will be deleted from all devices.
 
 From **Devices**, select the profile. From here, you can modify the existing settings.
+
+## <a name="windows-autopilot-eula-dismissal--important-information"></a>Отказ от показа лицензионного соглашения с Windows Autopilot — важная информация
+
+Это средство позволяет настроить отдельные установки Windows на устройствах, которыми вы управляете для своих клиентов. Если на это имеется разрешение от клиента, вы можете отключить или скрыть некоторые экраны, которые обычно отображаются для пользователей при настройке Windows, включая экран принятия лицензионного соглашения. 
+
+Используя эту функцию, вы соглашаетесь, что отключение или сокрытие экранов, предназначенных для предоставления пользователям уведомления или сообщающих о принятии условий, означает, что вы получили от своего клиента достаточное согласие и разрешение на сокрытие таких условий и что вы от имени своего клиента (организации или индивидуального пользователя в зависимости от обстоятельств) даете согласие на любые уведомления и принимаете любые условия, применимые к вашему клиенту. Это включает согласие с условиями лицензии или уведомления, которое отображалось бы для пользователя, если не бы вы не отключили или не скрыли его с помощью этого средства. Ваш клиент не может использовать программное обеспечение Windows на этих устройствах, если ваш клиент не приобрел законным способом лицензию на программное обеспечение у Майкрософт или лицензированных дистрибьюторов.
+
 
