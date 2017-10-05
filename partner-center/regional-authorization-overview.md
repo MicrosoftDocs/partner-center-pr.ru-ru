@@ -1,76 +1,32 @@
 ---
-title: "Региональная авторизация CSP | Центр партнеров"
-description: "Благодаря региональной авторизации партнеры с международными компаниями могут без лишних усилий управлять клиентами в различных регионах и странах по всему миру."
+title: CSP regional authorization | Partner Center
+description: With regional authorization, partners with international businesses can now more easily manage customers in different regions and countries around the world.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-ms.openlocfilehash: 71beef8899e292bec99fc803ad8aa2cd0ac4b4dc
-ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
+ms.openlocfilehash: b1875f5a814a2432a757dc5619b408041659eb26
+ms.sourcegitcommit: c11d72ccf5c92c12eb8ba50fccf85820c4112198
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2017
+ms.lasthandoff: 09/19/2017
 ---
-# <a name="csp-regional-authorization"></a>Региональная авторизация CSP
+# <a name="csp-regional-authorization"></a>CSP regional authorization
 
 
-\[Некоторые сведения относятся к предварительным версиям продуктов, в которые перед коммерческим выпуском могут быть внесены существенные изменения. Microsoft не дает никаких гарантий, прямых или косвенных, в отношении указанной здесь информации.\]
+\[Some information relates to pre-released product which may be substantially modified before it's commercially released. Microsoft makes no warranties, express or implied, with respect to the information provided here.\]
 
-Благодаря региональной авторизации партнеры с международными компаниями могут без лишних усилий управлять клиентами в различных регионах и странах по всему миру. Это позволяет сократить число клиентов, которыми партнерам необходимо управлять, снизить количество дат выставления счетов, требующих внимания партнеров, и обеспечивает партнерам более цельное представление о продажах.
+With regional authorization, partners with international businesses can now more easily manage customers in different regions and countries around the world. This reduces the number of tenants that partners need to manage, reduces the billing dates that partners have to handle, and gives partners a more consolidated view of their sales.
 
-В прошлом, за исключением стран ЕС и ЕАСТ, партнерам приходилось открывать физический субъект в каждой стране, где требовалось выполнять транзакции. Это означало, что партнерам приходилось настраивать несколько клиентов в Центре партнеров с разными датами выставления счетов и другими параметрами. В таких регионах, как Латинская Америка, партнеры испытывали трудности при работе с клиентами в соседствующем регионе или стране, а в некоторых случаях это было и вовсе невозможно.
+In the past, with the exception of the European Union/EFTA, partners needed to have a physical entity in each country where they wanted to transact. This meant that partners needed to have multiple tenants set up in Partner Center, with multiple billing dates and other settings. In regions such as Latin America, partners were not able to easily work with customers in a neighboring region or country, and in some cases, they were restricted completely.
 
->**Примечание.**<br> Если вы участвуете в [CSP для Microsoft Cloud в Германии](partner-center-for-microsoft-cloud-germany.md) и продаете клиентам в странах и регионах ЕС и ЕАСТ, вы не сможете объединить клиента Центра партнеров Microsoft Cloud в Германии с другими вашими клиентами.  
+>**Note**<br> If you are enrolled in [CSP for Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md) and you sell to customers in the EU and EFTA countries/regions, you cannot consolidate your tenant for Partner Center for Microsoft Cloud Germany with your other tenants.  
 
-## <a name="planning"></a>Планирование
+## <a name="planning"></a>Planning
 
-У партнеров есть несколько вариантов объединения региональных клиентов, как описано ниже.
+Partners have multiple options for consolidating their regional tenants, as outlined below.
 
-### <a name="separate-tenants-for-single-regions-or-countries"></a>Отдельные клиенты для отдельных регионов или стран
+### <a name="separate-tenants-for-single-regions-or-countries"></a>Separate tenants for single regions or countries
 
-Объединение клиентов необязательно. Партнеры могут продолжать управлять международными заказчиками с отдельными клиентами, как показано в следующей таблице.
-
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Расположения партнеров</th>
-<th>Даты выставления счетов</th>
-<th>Расположения клиентов</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Колумбия</p></td>
-<td><p>Дата выставления счетов — 10</p></td>
-<td><p>Колумбия</p></td>
-</tr>
-<tr class="even">
-<td><p>Чили</p></td>
-<td><p>Дата выставления счетов — 15</p></td>
-<td><p>Чили</p></td>
-</tr>
-<tr class="odd">
-<td><p>Парагвай</p></td>
-<td><p>Дата выставления счетов — 5</p></td>
-<td><p>Парагвай</p></td>
-</tr>
-<tr class="even">
-<td><p>Перу</p></td>
-<td><p>Дата выставления счетов — 2</p></td>
-<td><p>Перу</p></td>
-</tr>
-</tbody>
-</table>
-
- 
-
-## <a name="one-tenant-for-multiple-regions-or-countries"></a>Один клиент для нескольких регионов или стран
-
-
-Партнеры могут объединить деятельность на нескольких клиентах CSP в один.
+Tenant consolidation is optional. Partners can continue to manage their international customers with separate tenants, as shown in the following table.
 
 <table>
 <colgroup>
@@ -80,29 +36,41 @@ ms.lasthandoff: 06/28/2017
 </colgroup>
 <thead>
 <tr class="header">
-<th>Расположение партнера</th>
-<th>Дата выставления счета</th>
-<th>Расположения клиентов</th>
+<th>Partner location(s)</th>
+<th>Billing Date(s)</th>
+<th>Customer location(s)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Колумбия</p></td>
-<td><p>Дата выставления счетов — 10</p></td>
-<td><p>Колумбия</p>
-<p>Чили</p>
-<p>Парагвай</p>
-<p>Перу</p></td>
+<td><p>Colombia</p></td>
+<td><p>Billing date 10th</p></td>
+<td><p>Colombia</p></td>
+</tr>
+<tr class="even">
+<td><p>Chile</p></td>
+<td><p>Billing date 15th</p></td>
+<td><p>Chile</p></td>
+</tr>
+<tr class="odd">
+<td><p>Paraguay</p></td>
+<td><p>Billing date 5th</p></td>
+<td><p>Paraguay</p></td>
+</tr>
+<tr class="even">
+<td><p>Peru</p></td>
+<td><p>Billing date 2nd</p></td>
+<td><p>Peru</p></td>
 </tr>
 </tbody>
 </table>
 
  
 
-## <a name="some-tenants-for-some-regions-or-countries"></a>Несколько клиентов для определенных регионов или стран
+## <a name="one-tenant-for-multiple-regions-or-countries"></a>One tenant for multiple regions or countries
 
 
-Партнеры могут объединить деятельность на нескольких клиентах CSP в меньшее число клиентов CSP.
+Partners can choose to consolidate their operations from multiple CSP tenants to a single CSP tenant.
 
 <table>
 <colgroup>
@@ -112,98 +80,130 @@ ms.lasthandoff: 06/28/2017
 </colgroup>
 <thead>
 <tr class="header">
-<th>Расположения партнеров</th>
-<th>Даты выставления счетов</th>
-<th>Расположения клиентов</th>
+<th>Partner location</th>
+<th>Billing Date</th>
+<th>Customer location(s)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Колумбия</p></td>
-<td><p>Дата выставления счетов — 10</p></td>
-<td><p>Колумбия</p>
-<p>Чили</p></td>
-</tr>
-<tr class="even">
-<td><p>Парагвай</p></td>
-<td><p>Дата выставления счетов — 5</p></td>
-<td><p>Парагвай</p>
-<p>Перу</p></td>
+<td><p>Colombia</p></td>
+<td><p>Billing date 10th</p></td>
+<td><p>Colombia</p>
+<p>Chile</p>
+<p>Paraguay</p>
+<p>Peru</p></td>
 </tr>
 </tbody>
 </table>
 
  
 
-## <a name="consolidating-tenants"></a>Объединение клиентов
+## <a name="some-tenants-for-some-regions-or-countries"></a>Some tenants for some regions or countries
 
 
-Если вам требуется объединить клиенты, рекомендуем следующее:
+Partners can choose to consolidate their operations from multiple CSP tenants to fewer CSP tenants.
 
--   **Несколько регионов или стран, но транзакции проводятся лишь в одном/одной из них**. Если вы осуществляете транзакции в одной стране/регионе, но у вас настроено несколько других клиентов, используйте клиент, на котором выполняются транзакции, в качестве нового централизованного клиента для этого региона и отмените другие клиенты.
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Partner location(s)</th>
+<th>Billing Date(s)</th>
+<th>Customer location(s)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Colombia</p></td>
+<td><p>Billing date 10th</p></td>
+<td><p>Colombia</p>
+<p>Chile</p></td>
+</tr>
+<tr class="even">
+<td><p>Paraguay</p></td>
+<td><p>Billing date 5th</p></td>
+<td><p>Paraguay</p>
+<p>Peru</p></td>
+</tr>
+</tbody>
+</table>
 
--   **Несколько регионов или стран, но транзакции проводятся лишь в одном/одной из них.** Если вы осуществляете транзакции в нескольких странах/регионах, рекомендуем выполнить централизацию на клиенте с высочайшим количеством мест. Вам следует отменить подписки в странах/регионах с меньшим количеством мест.
+ 
+
+## <a name="consolidating-tenants"></a>Consolidating tenants
 
 
-## <a name="countryregion-information"></a>Сведения о странах/регионах
+If you want to consolidate tenants, we recommend the following:
+
+-   **Multiple regions/countries but only one transacting**. If you are only transacting in one country/region, but have a number of other tenants set up, use the transacting tenant as your new centralized tenant for that region and cancel your other tenants.
+
+-   **Multiple countries/regions but only one Transacting.** If you are transacting in a number of countries/regions, we recommend that you centralize to the tenant with the largest number of seats. You should cancel the subscriptions in the countries/regions where you have smaller amounts of seats.
 
 
-Учтите следующее перед началом объединения клиентов:
-
--   **Если ваши продажи Майкрософт нацелены на США**, ваша территория включает клиентов, расположенных в США.
-
--   **Если ваши продажи Майкрософт нацелены на Канаду**, ваша территория включает клиентов, расположенных в Канаде.
-
--   **Если ваши продажи Майкрософт нацелены на Бразилию**, ваша территория включает клиентов, расположенных в Бразилии.
-
--   **Если пунктом назначения продаж продуктов Майкрософт является страна или регион из следующего списка**, ваша территория включает клиентов, расположенных в любой стране или регионе, в следующем списке: Ангилья, Антигуа и Барбуда, Аргентина, Аруба, Багамские острова, Барбадос, Белиз, Бермуды, Боливия, Бонайре, Острова Кайман, Чили, Колумбия, Коста-Рика, о-в Кюрасао, Доминиканская Республика, Эквадор, Сальвадор, Французская Гвиана, Гваделупа, Гватемала, Гондурас, Ямайка, Мартиник, Мексике, Никарагуа, Панама, Парагвай, Перу, Пуэрто-Рико, Сент-Китс и Невис, о. Святой Люсия, Сен-Мартен, Сент-Винсент и Гренадины, Синт-Маартен, Суринам, Тринидад и Тобаго, острова Теркс и Кайкос, Уругвай, Венесуэла, Виргинские острова, США.
-
--   **Если ваши продажи Майкрософт нацелены на страну/регион в следующем списке**, ваша территория включает клиентов, расположенных в стране/регионе из следующего списка: Андорра, Австрия, Бельгия, Болгария, Хорватия, Кипр, Чехия, Дания, Эстония, Фарерские Острова, Финляндия, Франция, Германия, Греция, Гренландия, Венгрия, Исландия, Ирландия, Остров Мэн, Италия, Джерси, Латвия, Лихтенштейн, Литва, Люксембург, Мадагаскар, Малави, Мали, Мальта, Майотта, Монако, Нидерланды, Новая Каледония, Норвегия, Польша, Португалия, Румыния, Сан-Марино, Словакия, Словения, Испания, Швеция, Швейцария, Великобритания, Ватикан.
-
-    >**Примечание.**<br> Если вы участвуете в [CSP для Microsoft Cloud в Германии](partner-center-for-microsoft-cloud-germany.md) и продаете клиентам в странах и регионах ЕС и ЕАСТ, вы не сможете объединить клиента Центра партнеров Microsoft Cloud в Германии с другими вашими клиентами.  
+## <a name="countryregion-information"></a>Country/region information
 
 
--   **Если ваши продажи Майкрософт нацелены на страну/регион в следующем списке**, ваша территория включает клиентов, расположенных в стране/регионе из следующего списка: Афганистан, Албания, Алжир, Армения, Азербайджан, Бахрейн, Беларусь, Бенин, Босния и Герцеговина, Бурунди, Коморские Острова, Египет, Французская Полинезия, Грузия, Ирак, Израиль, Иордания, Казахстан, Кувейт, Киргизия, Ливан, Ливия, Македония (Бывшая Югославская Республика Македония), Молдова, Монголия, Черногория, Марокко, Мозамбик, Оман, Пакистан, Палестинская автономия, Катар, Реюньон, Саудовская Аравия, Сербия, Сейшелы, Южно-Африканская Республика, Таджикистан, Того, Тунис, Турция, Туркмения, Украина, Объединенные Арабские Эмираты, Узбекистан, Йемен, Зимбабве
+Consider the following before beginning consolidating tenants:
 
--   **Если ваши продажи Майкрософт нацелены на страну/регион в следующем списке**, ваша территория включает клиентов, расположенных в стране/регионе из следующего списка: Ангола, Ботсвана, Камерун, Кабо-Верде, Кот-д'Ивуар, Эфиопия, Гана, Кения, Маврикий, Намибия, Нигерия, Руанда, Сенегал, Танзания, Уганда, Замбия.
+-   **If your Microsoft sell-to location is the United States**, your Territory includes customers located in the United States.
 
--   **Если ваши продажи Майкрософт нацелены на Россию**, ваша территория включает клиентов, расположенных в России.
+-   **If your Microsoft sell-to location is Canada**, your Territory includes customers located in Canada.
 
--   **Если ваши продажи Майкрософт нацелены на страну/регион в следующем списке**, ваша территория включает клиентов, расположенных в стране/регионе из следующего списка: Бангладеш, Бутан, Бруней-Даруссалам, Камбоджа, Гонконг, Индонезия, Лаос, Макао САР, Малайзия, Мальдивские о-ва, Маршалловы о-ва, Мьянма, Непал, Папуа-Новая Гвинея, Филиппины, Сингапур, Шри-Ланка, Таиланд, Тимор-Лесте, Тонга, Вьетнам.
+-   **If your Microsoft sell-to location is Brazil**, your Territory includes customers located in Brazil.
 
--   **Если ваши продажи Майкрософт нацелены на страну/регион в следующем списке**, ваша территория включает клиентов, расположенных в стране/регионе из следующего списка: Австралия или Фиджи.
+-   **Если пунктом назначения продаж продуктов Майкрософт является страна или регион из следующего списка**, ваша территория включает клиентов, расположенных в любой стране или регионе, в следующем списке: Ангилья, Антигуа и Барбуда, Аргентина, Аруба, Багамские острова, Барбадос, Белиз, Бермуды, Боливия, Бонайре, Саба и Синт-Эстатиус, Острова Кайман, Чили, Колумбия, Коста-Рика, о-в Кюрасао, Доминиканская Республика, Эквадор, Сальвадор, Французская Гвиана, Гваделупа, Гватемала, Гондурас, Ямайка, Мартиник, Мексике, Никарагуа, Панама, Парагвай, Перу, Пуэрто-Рико, Сент-Китс и Невис, о. Святой Люсия, Сен-Мартен, Сент-Винсент и Гренадины, Синт-Мартен, Суринам, Тринидад и Тобаго, острова Теркс и Кайкос, Уругвай, Венесуэла, Виргинские острова, США.
 
--   **Если ваши продажи Майкрософт нацелены на Новую Зеландию**, ваша территория включает клиентов, расположенных в Новой Зеландии.
+-   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Greece, Greenland, Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Latvia, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malawi, Mali, Malta, Mayotte, Monaco, Netherlands, New Caledonia, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom, Vatican City.
 
--   **Если ваши продажи Майкрософт нацелены на Индию**, ваша территория включает клиентов, расположенных в Индии.
+    >**Note**<br> If you are enrolled in [CSP for Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md) and you sell to customers in the EU and EFTA countries/regions, you cannot consolidate your tenant for Partner Center for Microsoft Cloud Germany with your other tenants.  
 
--   **Если ваши продажи Майкрософт нацелены на Японию**, ваша территория включает клиентов, расположенных в Японии.
 
--   **Если ваши продажи Майкрософт нацелены на Корею**, ваша территория включает клиентов, расположенных в Корее.
+-   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Afghanistan, Albania, Algeria, Armenia, Azerbaijan, Bahrain, Belarus, Benin, Bosnia and Herzegovina, Burundi, Comoros, Egypt, French Polynesia, Georgia, Iraq, Israel, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Lebanon, Libya, Republic of Macedonia (FYROM), Moldova, Mongolia, Montenegro, Morocco, Mozambique, Oman, Pakistan, Palestinian Authority, Qatar, Reunion, Saudi Arabia, Serbia, Seychelles, South Africa, Tajikistan, Togo, Tunisia, Turkey, Turkmenistan, Ukraine, United Arab Emirates, Uzbekistan, Yemen, Zimbabwe.
 
--   **Если ваши продажи Майкрософт нацелены на Тайвань**, ваша территория включает клиентов, расположенных в Тайване.
+-   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Angola, Botswana, Cameroon, Cabo Verde, Côte d'Ivoire, Ethiopia, Ghana, Kenya, Mauritius, Namibia, Nigeria, Rwanda, Senegal, Tanzania, Uganda, Zambia.
 
-## <a name="billing-currencies-by-country"></a>Валюты счетов по странам
+-   **If your Microsoft sell-to location is Russia**, your Territory includes customers located in Russia.
 
-Ваш географическое положение определяет валюту, в которой вам будет выставлен счет, как показано в следующей таблице. Обратите внимание, что в виду налогов и юридических последствий, если вы хотите использовать другую валюту выставления счетов, необходимо создать нового владельца и указать эту валюту. 
+-   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Bangladesh, Bhutan, Brunei Darussalam, Cambodia, Hong Kong SAR, Indonesia, Laos, Macao SAR, Malaysia, Maldives, Marshall Islands, Myanmar, Nepal, Papua New Guinea, Philippines, Singapore, Sri Lanka, Thailand, Timor-Leste, Tonga, Vietnam.
 
-| Валюта | Страна |
+-   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Australia or Fiji.
+
+-   **If your Microsoft sell-to location is New Zealand**, your Territory includes customers located in New Zealand.
+
+-   **If your Microsoft sell-to location is India**, your Territory includes customers located in India.
+
+-   **If your Microsoft sell-to location is Japan**, your Territory includes customers located in Japan.
+
+-   **If your Microsoft sell-to location is Korea**, your Territory includes customers located in Korea.
+
+-   **If your Microsoft sell-to location is Taiwan**, your Territory includes customers located in Taiwan.
+
+## <a name="billing-currencies-by-country"></a>Billing currencies by country
+
+Your geographic location determines the currency in which you are billed, as shown in the following table. Note that due to tax and legal implications, if you want to use a different billing currency, you'll need to create a new tenant and specify that currency. 
+
+| Currency | Country |
 | ---- | ---- |
-| Доллар США (USD) | Албания, Ангилья, Антигуа и Барбуда, Аргентина, Армения, Аруба, Азербайджан, Багамы, Бахрейн, Бангладеш, Барбадос, Беларусь, Белиз, Бенин, Бермуды, Боливия, Бонайре, Бразилия, Бруней, Бурунди, Камерун, Острова Кайман, Чили, Колумбия, Коморы, Коста-Рика, Кюрасао, Доминиканская Республика, Эквадор, Египет, Сальвадор, Французская Гвиана, Французская Полинезия, Грузия, Гана, Гватемала, Гондурас, Гонконг (САР), Индонезия, Ирак, Израиль, Ямайка, Казахстан, Кения, Кувейт, Киргизия, Ливан, Макао (САР), Мадагаскар, Малави, Малайзия, Мали, Маврикий, Майотта, Мексика, Марокко, Намибия, Новая Каледония, Никарагуа, Нигерия, Оман, Пакистан, Панама, Парагвай, Перу, Филиппины, Пуэрто-Рико, Катар, Реюньон, Руанда, Сент-Люсия, Сен-Мартен, Сент-Винсент и Гренадины, Саудовская Аравия, Сербия, Сейшельские Острова, Сингапур, Синт-Мартен, Южная Африка, Шри-Ланка, Суринам, Танзания, Таиланд, Тимор-Лесте, Того, Тринидад и Тобаго, Тунис, Турция, о-ва Тёркс и Кайкос, Виргинские о-ва (США), Украина, Объединенные Арабские Эмираты, США, Уругвай, Венесуэла, Вьетнам  | 
-| Новый тайваньский доллар (TWD) | Тайвань |
-| Шведская крона (SEK) | Швеция |
-| Индийская рупия (INR) | Индия |
-| Рубль (RUB) | Россия |
-| Новозеландский доллар (NZD) | Новая Зеландия |
-| Норвежская крона (NOK) | Норвегия |
-| Вона (KRW) | Республика Корея |
-| Иена (JPY) | Япония |
-| Фунт стерлингов (GBP) | о-в Мэн, Джерси, Соединенное Королевство |
-| Евро (EUR) | Андорра, Австрия, Бельгия, Хорватия, Чешская Республика, Эстония, Фарерские о-ва, Финляндия, Франция, Германия, Греция, Венгрия, Исландия, Ирландия, Италия, Латвия, Лихтенштейн, Литва, Люксембург/Бельгия, Нидерланды, Польша, Португалия, Румыния, Сан-Марино, Словакия, Словения, Испания |
-| Датская крона (DKK) | Дания |
-| Швейцарский франк (CHF) | Швейцария |
-| Канадский доллар (CAD) | Канада |
-| Австралийский доллар (AUD) | Австралия, Фиджи, Маршалловы Острова, Папуа – Новая Гвинея, Тонга |
+| USD | Албания, Ангилья, Антигуа и Барбуда, Аргентина, Армения, Аруба, Азербайджан, Багамы, Бахрейн, Бангладеш, Барбадос, Беларусь, Белиз, Бенин, Бермуды, Боливия, Бонайре, Саба и Синт-Эстатиус, Бразилия, Бруней, Бурунди, Камерун, Острова Кайман, Чили, Колумбия, Коморы, Коста-Рика, Кюрасао, Доминиканская Республика, Эквадор, Египет, Сальвадор, Французская Гвиана, Французская Полинезия, Грузия, Гана, Гватемала, Гондурас, Гонконг (САР), Индонезия, Ирак, Израиль, Ямайка, Казахстан, Кения, Кувейт, Киргизия, Ливан, Макао (САР), Мадагаскар, Малави, Малайзия, Мали, Маврикий, Майотта, Мексика, Марокко, Намибия, Новая Каледония, Никарагуа, Нигерия, Оман, Пакистан, Панама, Парагвай, Перу, Филиппины, Пуэрто-Рико, Катар, Реюньон, Руанда, Сент-Люсия, Сен-Мартен, Сент-Винсент и Гренадины, Саудовская Аравия, Сербия, Сейшельские Острова, Сингапур, Синт-Мартен, Южная Африка, Шри-Ланка, Суринам, Танзания, Таиланд, Тимор-Лесте, Того, Тринидад и Тобаго, Тунис, Турция, о-ва Тёркс и Кайкос, Виргинские о-ва (США), Украина, Объединенные Арабские Эмираты, США, Уругвай, Венесуэла, Вьетнам  | 
+| TWD | Taiwan |
+| SEK | Sweden |
+| INR | India |
+| RUB | Russia |
+| NZD | New Zealand |
+| NOK | Norway |
+| KRW | Korea |
+| JPY | Japan |
+| GBP | Isle of Man, Jersey, United Kingdom |
+| EUR | Andorra, Austria, Belgium, Croatia, Czech Republic, Estonia, Faroe Islands, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg/Belgium, Netherlands, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain |
+| DKK | Denmark |
+| CHF | Switzerland |
+| CAD | Canada |
+| AUD | Australia, Fiji, Marshall Islands, Papua New Guinea, Tonga |
 
 
  

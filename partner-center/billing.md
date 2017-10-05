@@ -1,58 +1,59 @@
 ---
-title: "Выставление счетов | Центр партнеров"
-Description: "В качестве партнера программы поставщиков облачных решений вы должны будете оплатить корпорации Майкрософт 60дней за прошедший период для подписок на основании лицензий и подписок на основании использования ваших клиентов."
+title: Billing | Partner Center
+Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-ms.openlocfilehash: 5ff67803ae0e8e18dad7ea41ec37cfd008a6554d
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
+ms.openlocfilehash: 367df00f26c3336b206cbc06c3d2f09138d7ca1e
+ms.sourcegitcommit: 4c29498e3d6d4038044b4cb2cb19a19e6a586823
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 09/15/2017
 ---
-# <a name="billing"></a>Выставление счетов
+# <a name="billing"></a>Billing
 
-**Относится к:**
+**Applies to**
 
--  Центр партнеров
--  Центр партнеров для Microsoft Cloud для правительства США
--  Центр партнеров Microsoft Cloud для Германии
+-  Partner Center
+-  Partner Center for Microsoft Cloud for US Government
+-  Partner Center for Microsoft Cloud Germany
 
-В качестве партнера программы поставщиков облачных решений вы должны будете оплатить корпорации Майкрософт 60дней за прошедший период для подписок на основании лицензий и подписок на основании использования ваших клиентов.
+As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
 
-Для вашего счета в меню **Информационная панель** выберите пункт **Выставление счетов**. На этой странице выставления счетов отображается журнал выставления счетов и тенденция, сумма задолженности за текущий месяц, ссылки на ваш счет, файлы выверки, а также ваш последний платеж.
+For your bill, go to the **Dashboard** menu, then select **Billing**. This billing page shows your billing history and trend, the balance due for the current month, links to your invoice and reconciliation files, and your most recent payment.
 
--   Корпорация Майкрософт не имеет каких-либо требований или условий относительно ваших методов управления выставлением счетов.
--   Чтобы определить использование клиентов, используйте идентификатор или имя клиента и прочие соответствующие поля в файлах выверки.
--   Добавьте собственные сборы и платежи за службы и продукты, которые предоставляете.
--   Отправьте единый счет для всех платежей своему клиенту.
+-   Microsoft doesn't have any requirements or conditions about how you handle your own invoicing.
+-   To determine customers' usage, use the customer ID/name and other relevant fields within the reconciliation files.
+-   Add your own fees and charges for services and products that you provide.
+-   Send a single bill for all charges to your customer.
 
-## <a name="billing"></a>Выставление счетов
+## <a name="billing"></a>Billing
 
+[Вопросы и ответы по новым возможностям выставления счетов](faq-about-new-billing-features.md)
 
 [Просмотр счета](read-your-bill.md)
 
-[Использование файлов выверки](use-the-reconciliation-files.md)
+[Use the reconciliation files](use-the-reconciliation-files.md)
 
-[Налоги и освобождение от уплаты налогов](tax-and-tax-exemptions.md)
+[Tax and tax exemptions](tax-and-tax-exemptions.md)
 
-[Установка расходного бюджета Azure для клиентов](set-an-azure-spending-budget-for-your-customers.md)
+[Set an Azure spending budget for your customers](set-an-azure-spending-budget-for-your-customers.md)
 
-[Распространенные сценарии выставления счетов](common-billing-scenarios.md)
+[Common billing scenarios](common-billing-scenarios.md)
 
-[Неплатеж, мошенничество или неправильное использование](non-payment--fraud--or-misuse.md)
+[Non-payment, fraud, or misuse](non-payment--fraud--or-misuse.md)
 
-[Службы PSTN](o365-e5-in-csp-advisory.md)
+[PSTN services](o365-e5-in-csp-advisory.md)
 
-## <a name="in-this-section"></a>В этом разделе
+## <a name="in-this-section"></a>In this section
 
 
--   [Основы выставления счетов](#billingbasics)
+-   [Billing basics](#billingbasics)
 
--   [Выставление счетов на основе лицензии](#licensebasedbilling)
+-   [License-based billing](#licensebasedbilling)
 
--   [Выставление счетов в зависимости от использования](#usagebasedbilling)
+-   [Usage-based billing](#usagebasedbilling)
 
-## <a href="" id="billingbasics"></a>Основы выставления счетов
+## <a href="" id="billingbasics"></a>Billing basics
 
 
 <table>
@@ -62,50 +63,50 @@ ms.lasthandoff: 07/01/2017
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>Даты</td>
+<td>Dates</td>
 <td><ul>
-<li>Дата ежемесячного выставления счетов — это день, выбранный вами во время регистрации. Корпорация Майкрософт отправит вам письмо с подтверждением, в котором будет указана дата выставления счетов.</li>
-<li>С прайс-листом можно ознакомиться на 1месяц вперед, поскольку они обновляются ежемесячно. Цены на основе лицензии являются гарантированными на срок действия подписки, обычно 12 месяцев с момента покупки. Цены с учетом использования могут меняться на ежемесячной основе. Мы направим вам уведомление за 30 дней в случае любого изменения цен через публикацию в нашем прайс-листе партнера.</li>
+<li>Your monthly billing date is the day of the month you selected during enrollment. Microsoft will send a confirmation email that includes your billing date.</li>
+<li>You can find price lists 1 month in advance, as they're updated monthly. License-based prices are guaranteed for the term of the subscription, usually 12 months from the purchase date. Usage-based prices can change on a monthly basis. We will provide 30 days’ notice for any price change through the publication of our Partner Price List.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Условия оплаты</td>
+<td>Payment terms</td>
 <td><ul>
-<li>Условия оплаты— ровно 60дней.</li>
-<li>Платежи должны выполняться до наступления срока оплаты (60дней с даты выставления счета). В противном случае учетная запись попадет в список нарушителей.</li>
-<li>Учетные записи, за которые не была внесена оплата, подлежат приостановке и (или) исключению из программы поставщиков облачных решений. Приостановленные учетные записи не могут создавать новых пользователей и заказы, запрашивать связь с торговым посредником, увеличивать или уменьшать количество подписок, заказывать подписки на надстройки, преобразовывать или переводить подписки, а их возможности управления существующими пользователями, подписками и ресурсами будут ограничены, пока учетная запись снова не станет активной. Партнеры могут восстановить полное функционирование приостановленных учетных записей, погасив задолженность.</li>
+<li>Payment terms - net 60 days.</li>
+<li>Payments must be made by the invoice due date (60 days after the billing date), or the account will be delinquent.</li>
+<li>Delinquent accounts are subject to suspension and/or termination from the Cloud Solution Provider program. Suspended accounts can't create a new customer or order, request a reseller relationship, increase or decrease quantities of subscriptions, order add-on subscriptions, convert or transition a subscription and will be limited to managing existing customers, subscriptions and resources until the account is brought current. Partners can regain full functionality of their suspended accounts when they pay their outstanding bills.</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Правила выставления счетов</td>
+<td>Billing rules</td>
 <td><ul>
-<li>Вы будете получать один счет каждый месяц в течение срока участия в программе CSP.</li>
-<li>За подписки на основе лицензии счета выставляются, исходя из количества приобретенных, а не используемых, лицензий.</li>
-<li>За службу Azure (подписки с учетом использования) счета выставляются согласно измеренным тарифам, исходя из потребления.</li>
-<li>Цена гарантированно закрепляется на срок действия подписки. Цены могут меняться при возобновлении подписки.</li>
+<li>You will receive one invoice each month for the CSP program.</li>
+<li>License-based subscriptions are billed based on licenses purchased, not licenses used.</li>
+<li>Azure (usage-based subscriptions) are billed according to metered rates, based on consumption.</li>
+<li>Price is guaranteed through the term of the subscription. Prices may change at subscription renewal.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Доступность счета-фактуры</td>
+<td>Invoice availability</td>
 <td><ul>
-<li>Счета-фактуры и файлы выверки можно просмотреть и загрузить на странице "Выставление счетов" Центра партнеров.</li>
+<li>You can view and download your invoices and reconciliation files from the Billing page in the Partner Center.</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Корректировки/кредиты/отмены</td>
+<td>Adjustments/Credits/Cancellations</td>
 <td><ul>
-<li>Кредиты для тестовых учетных записей и тестирования интеграции запрещены. Чтобы избежать взимания оплаты за подписку или платы за досрочную отмену во время тестирования, можно отменить подписку во время бесплатного периода. Вы несете ответственность за все расходы, связанные с использованием служб Azure.</li>
-<li>Корректировки и кредиты с просрочкой будут указаны в следующем ежемесячном счете-фактуре после применения кредита или корректировки.</li>
+<li>Credits for test accounts and integration testing are not authorized. To avoid subscription charges or early termination fee charges when you are performing testing, you can cancel the subscription during the “free period”. All consumption usage charges for Azure services are your responsibility.</li>
+<li>You'll see adjustments and credits in arrears on your next monthly billing invoice after the credit or adjustment is applied.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Налог</td>
+<td>Tax</td>
 <td><ul>
-<li>Налоги с вас будут взиматься, исходя из ваших данных (а не ваших клиентов), поскольку взаимоотношения выставления счетов установлены между Майкрософт и вами.</li>
-<li>Свой код налогоплательщика вы можете отправить во время регистрации или в запросе в службу поддержки. Изменения отобразятся в следующем цикле выставления счетов.</li>
-<li>Для <strong>вычета налогов и изъятия налога с продаж</strong> вы должны отправить налоговую документацию с помощью запроса в службу поддержки. Изменения и соответствующие возмещения отобразятся в следующем цикле выставления счетов.</li>
-<li>Для <strong>изъятия налога на добавленную стоимость (НДС)</strong> вы должны отправить свой идентификационный номер плательщика НДС (проверенный Майкрософт) с помощью запроса в службу поддержки. Изменения и соответствующие возмещения отобразятся в следующем цикле выставления счетов.</li>
-<li>Более подробные сведения о налогообложении можно узнать в местных налоговых органах или налогового консультанта.</li>
+<li>You will be taxed based on your details, (not your customers') as the billing relationship is between Microsoft and you.</li>
+<li>You can submit your tax ID during onboarding or via a service request. You'll see the changes reflected on your next billing cycle.</li>
+<li>For <strong>withholding and sales tax exemption</strong>, you must submit tax documentation via a service request. You'll see the changes and appropriate refunds on your next billing cycle.</li>
+<li>For <strong>value added tax (VAT) exemption</strong>, you must submit your VAT ID (validated by Microsoft) via a service request. You'll see the changes and appropriate refunds on your next billing cycle.</li>
+<li>Find further tax details from your local tax office or tax advisor.</li>
 </ul></td>
 </tr>
 </tbody>
@@ -113,7 +114,7 @@ ms.lasthandoff: 07/01/2017
 
  
 
-## <a href="" id="licensebasedbilling"></a>Выставление счетов на основе лицензии
+## <a href="" id="licensebasedbilling"></a>License-based billing
 
 
 <table>
@@ -123,29 +124,29 @@ ms.lasthandoff: 07/01/2017
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>Поощрение в виде одного месяца бесплатного пользования</td>
+<td>Up to one free month incentive</td>
 <td><ul>
-<li>Вам не выставляется счет за любые расходы во время начального периода от даты начала подписки до даты следующего консолидированного счета (до одного полного месяца), независимо от количества мест.</li>
-<li>Это позволяет упростить выверку выставления счетов.</li>
-<li>Все подписки автоматически продлеваются на следующих 12 месяцев с 12 ежемесячными проплатами вперед, если подписка не была отменена согласно соответствующим соглашениям.</li>
-<li>Бесплатный период не распространяется на службы с учетом использования.</li>
+<li>You are not billed for any charges during the initial period from the subscription start date to the date of your next consolidate bill (up to one full month), regardless of the seat count.</li>
+<li>This results in simpler billing reconciliation.</li>
+<li>All subscriptions auto-renew for a new 12 month period with 12 monthly advanced charges if the subscription is not cancelled in line with the appropriate agreements.</li>
+<li>The free period does not apply to usage-based services.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Правила выставления счетов</td>
+<td>Billing rules</td>
 <td><ul>
-<li>Подписки действуют год и продлеваются автоматически.</li>
-<li>Выставление счетов происходит в виде 12 ежемесячных платежей за годовую подписку.</li>
-<li>Счета выставляются наперед за следующий период выставления счетов за службы на основе лицензии, исходя из количества лицензий в конце предыдущего периода выставления счетов.</li>
-<li>Вам выставляется счет или предоставляется кредит за истекший период при любом изменении количества лицензий (пропорциональный расчет на основе дней лицензии). При пропорциональном расчете используется следующая формула: [ROUND((ROUND(Цена за единицу * Количество/Количество дней в пропорционально рассчитанном месяце, 2) * Количество пропорционально рассчитанных дней)/Количество, 2) * Количество]</li>
-<li>Оплата взимается за проданные места (а не подготовленные).</li>
+<li>Subscriptions are annual and auto-renewed.</li>
+<li>Billing is in 12 monthly payments per annual subscription.</li>
+<li>You are billed in advance for the next billing period for license-based services, based on number of licenses at the end of the prior billing period.</li>
+<li>You are billed/credited in arrears for any changes in the number of licenses(pro-rata calculation based on license-days). Pro-rata calculation uses the following formula: [ROUND((ROUND(Unit Price * Quantity / Number of days in pro-rated Month, 2) * Number of pro-rated days) / Quantity, 2) * Quantity]</li>
+<li>Payments are billed for seats sold (not seats provisioned).</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Корректировки/кредиты/отмены</td>
+<td>Adjustments/Credits/Cancellations</td>
 <td><ul>
-<li>В настоящее время плата за досрочное расторжение не взимается при отмене подписки на службы на основе лицензии.</li>
-<li>Кредиты за отмену подписки на службы на основе лицензии рассчитываются пропорционально за неиспользованные дни при отмене в промежуточный цикл (а также при уменьшении количества лицензий согласно указанной выше формуле).</li>
+<li>Early termination fees are currently not charged for the cancellation of license-based services.</li>
+<li>Cancellation credits for licensed based services are pro-rated for unused days for mid-cycle cancellations (as well as license decreases per the formula above).</li>
 </ul></td>
 </tr>
 </tbody>
@@ -153,10 +154,10 @@ ms.lasthandoff: 07/01/2017
 
  
 
-## <a href="" id="usagebasedbilling"></a>Выставление счетов в зависимости от использования
+## <a href="" id="usagebasedbilling"></a>Usage-based billing
 
 
-Azure работает согласно модели "оплаты по факту", при которой вы платите только за использованные службы Azure.
+Azure operates in the "pay as you go" model, in which you are only billed for Azure services used.
 
 <table>
 <colgroup>
@@ -165,25 +166,25 @@ Azure работает согласно модели "оплаты по факт
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>Правила выставления счетов</td>
+<td>Billing rules</td>
 <td><ul>
-<li>Выставление счетов начинается с даты начала подписки. Для выставления счетов с учетом использования бесплатный период отсутствует.</li>
-<li>Подписки действуют от месяца к месяцу и автоматически продлеваются по новым тарифам на измеренные службы. Счета выставляются ежемесячно за истекший период, исходя из использования.</li>
-<li>Тарифы на измеренные службы могут изменяться в течение цикла выставления счета.
+<li>Billing starts on the subscription start date. There is no “free period” for usage-based billing.</li>
+<li>Subscriptions are month-to-month and auto-renew at the new metered service rates. Billing is monthly in arrears, based on usage.</li>
+<li>Metered service rates can change within the invoice cycle.
 <ul>
-<li>В случае повышения цен за 30дней до этого направляется уведомление.</li>
-<li>В случае уменьшения цен они вступают в силу в день изменения.</li>
-<li>К существующим подпискам применяются тарифы, действующие в начале цикла выставления счета.</li>
-<li>К новым подпискам (созданным в течение цикла выставления счета) применяются тарифы, действующие в день их создания.</li>
+<li>Price increases: 30 days notice is provided.</li>
+<li>Price decreases: reflected day of change.</li>
+<li>Existing subscriptions use the rate in effect at the beginning of the bill cycle.</li>
+<li>New subscriptions (created within bill cycle) use the rate in effect at the create date.</li>
 </ul></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Корректировки/кредиты/отмены</td>
+<td>Adjustments/Credits/Cancellations</td>
 <td><ul>
-<li>Откорректированные платежи отобразятся в следующем ежемесячном счете-фактуре.</li>
-<li>В настоящее время плата за досрочное расторжение не взимается при отмене подписки на службы с учетом использования.</li>
-<li>Любые типы кредитов, включая кредиты за соглашение об уровне обслуживания, отобразятся в следующем ежемесячном счете.</li>
+<li>You'll see payments with adjustments on your next monthly billing invoice.</li>
+<li>Early termination fees are currently not charged for the cancellation of usage-based services.</li>
+<li>You'll see credits of any type, including SLA credits, on your next monthly billing invoice.</li>
 </ul></td>
 </tr>
 </tbody>
