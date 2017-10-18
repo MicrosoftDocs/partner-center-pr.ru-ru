@@ -1,52 +1,51 @@
 ---
-title: Azure Active Directory tenants and Partner Center | Partner Center
-description: "To create a Partner Center account, your company must have an Azure Active Directory (Azure AD) tenant. Azure AD is Microsoft’s cloud-based directory and identity management service."
+title: "Рабочие учетные записи и Центр партнеров | Центр партнеров"
+description: "Для создания учетной записи Центра партнеров у вашей компании должна быть рабочая учетная запись."
 author: labrenne
 robots: 
-ms.openlocfilehash: ab16d167fc978d76c96fc6ef7c1b8eabe26a1ad5
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
+ms.openlocfilehash: 503d8af5d299a6dd9098fb5f7aafcf998159fb72
+ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 09/29/2017
 ---
-# <a name="azure-active-directory-tenants-and-partner-center"></a>Azure Active Directory tenants and Partner Center  
+# <a name="your-work-account-and-partner-center"></a>Ваша рабочая запись и Центр партнеров  
 
-**Applies to**
+**Область применения**
 
--  Partner Center
+-  Центр партнеров
 
-#<a name="why-you-need-an-azure-ad-tenant"></a>Why you need an Azure AD tenant
+# <a name="why-you-need-a-work-account"></a>Зачем нужна рабочая учетная запись?
 
-We need to link your organization’s Azure AD tenant to your new Partner Center account, so your tenant users can sign in to Partner Center with their Azure AD (Microsoft account) user names and passwords.
+Нам необходимо связать рабочую запись вашей организации с вашей новой учетной записью Центра партнеров, чтобы ваши пользователи клиента могли входить в Центр партнеров, используя свои имена пользователей и пароли Azure AD (рабочая учетная запись).
 
-If your company already has an Azure AD tenant, you can link it to your Partner Center account. 
+Если у вашей компании уже есть рабочая учетная запись, вы можете связать ее со своей учетной записью Центра партнеров. 
 
-**Примечание.** Прежде чем использовать имеющийся клиент Azure AD, подумайте о том, какому количеству пользователей в клиенте необходимо будет работать в Центре партнеров. If you have users in the tenant who won’t need to work in Partner Center, consider creating a new tenant for only those users who will need to work in Partner Center.
+**Примечание.** Прежде чем использовать существующую рабочую учетную запись, подумайте о том, какому количеству пользователей в учетной записи необходимо будет работать в Центре партнеров. Если у вас есть пользователи в учетной записи, которым не нужно будет работать в Центре партнеров, рассмотрите возможность создания новой учетной записи только для тех пользователей, которым будет необходимо работать в Центре партнеров.
 
-Если у вашей компании еще нет клиента Azure AD, его можно создать бесплатно в процессе регистрации. Выберите **Создать новый клиент** на странице **Вход в Azure Active Directory**. 
+Если у вашей компании еще нет рабочей учетной записи, ее можно создать бесплатно в процессе регистрации. Выберите **Создать новый клиент** на странице **Вход в Azure Active Directory**. При создании нового клиента Azure Active Directory создается новая рабочая учетная запись. Azure Active Directory— это решение Майкрософт по управлению удостоверениями с поддержкой единого входа.
 
+## <a name="not-sure-if-your-company-already-has-an-azure-work-account"></a>Не уверены, если ли уже в вашей компании рабочая учетная запись Azure?
 
-## <a name="not-sure-if-your-company-already-has-an-azure-ad-tenant"></a>Не уверены, если ли уже в вашей компании клиент Azure AD?
+Если вы не знаете, есть ли у вашей компании рабочая учетная запись Azure, выполните следующие действия для проверки. Примечание. Если у вас есть действующая подписка на Microsoft Azure или Office 365, это значит, что вы уже создали рабочую учетную запись Azure.
+1.  Войдите на портал администрирования Azure по адресу https://ms.portal.azure.com
+2.  Выберите в меню пункт "Azure Active Directory", а затем пункт "Доменные имена".
+3.  Если у вас уже есть рабочая учетная запись, отобразится имя вашего домена.
 
-If you’re not sure whether your company has an Azure AD tenant, follow these steps to check. Note that If you have an active subscription to Microsoft Azure or Office 365, you already have an Azure AD tenant.
-1.  Sign in to the Azure admin portal at https://ms.portal.azure.com
-2.  Select Azure Active Directory from the menu and then select Domain Names.
-3.  Если у вас уже есть клиент, отобразится имя вашего домена.
+## <a name="using-an-existing-work-account"></a>Использование существующей рабочей учетной записи
 
-##<a name="using-an-existing-tenant"></a>Используете уже имеющийся клиент?
+Если вы хотите использовать существующую рабочую учетную запись, но не можете войти в систему, найдите сценарий на схеме ниже, который наилучшим образом соответствует вашей ситуации, и выполните рекомендуемые действия. 
 
-If you want to use an existing Azure AD tenant but you’re having trouble signing in, find the scenario on the diagram below that best matches your situation and follow the recommended steps. 
-
-![У вас есть клиент Azure AD или его требуется создать?](images/onboardingAADFlow.png)
+![У вас есть рабочая учетная запись Azure, или ее необходимо создать?](images/onboardingAADFlow.png)
 
 Дополнительные сведения о добавлении доменов в Azure AD см. в разделе [Добавление или связывание домена в Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
 
 # <a name="about-microsoft-azure"></a>Сведения о Microsoft Azure
 
-Microsoft Azure is a public cloud platform that companies can use to build, deploy, and manage applications across a global network of Microsoft-managed datacenters. Companies use Azure to build a virtual IT infrastructure with virtual functions, or services, instead of physical machines. 
+Microsoft Azure— это платформа общедоступного облака, которую компании могут использовать для разработки, развертывания и администрирования приложений в глобальной сети центров обработки данных под управлением Майкрософт. Компании используют Azure для создания виртуальной ИТ-инфраструктуры с виртуальными функциями или виртуальных служб вместо физических компьютеров. 
 
-When you purchase an Azure subscription, you’re essentially renting a dedicated, secure space in the Azure public cloud, not too different from renting a floor in an office building to house your company’s physical business. To the office building’s owner, your company is a tenant. 
+При покупке подписки на Azure вы фактически арендуете специальное безопасное пространство в общедоступном облаке Azure, что почти не отличается от аренды этажа в офисном здании для размещения физического бизнеса вашей компании. Для владельца офисного здания ваша компания является арендатором (или клиентом). 
 
-An Azure AD tenant is a dedicated and isolated virtual representation of your company in the Azure public cloud, created for you when you subscribe to a Microsoft cloud service such as Azure, Microsoft Intune, or Office 365. 
+Рабочая учетная запись Azure— это специальное и изолированное виртуальное представление вашей компании в общедоступном облаке Azure, создаваемое для вас при оформлении вами подписки на облачную службу Майкрософт, например Azure, Microsoft Intune или Office 365. 
 
-В вашем клиенте размещаются ваши пользователи Azure AD и сведения о них: пароли, данные профиля, разрешения и т. д. Клиент также содержит группы, приложения и другие сведения, относящиеся к компании и ее безопасности. 
+В вашей рабочей учетной записи размещаются ваши пользователи Azure AD и сведения о них: пароли, данные профиля, разрешения и т. д. Рабочая учетная запись также содержит группы, приложения и другие сведения, относящиеся к компании и ее безопасности. 

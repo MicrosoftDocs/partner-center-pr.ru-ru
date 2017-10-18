@@ -1,24 +1,23 @@
 ---
-title: Data Center Competency
-description: The Datacenter competency recognizes partners who are transforming data centers into more flexible, scalable, and cost effective solutions.
+title: "Компетенция \"Центр обработки данных\""
+description: "Компетенция \"Центр обработки данных\" подтверждает опыт партнеров в области преобразования центров обработки данных в более гибкие, масштабируемые и экономичные решения."
 author: Daniel Simpson
-keywords: competency, competencies, Datacenter
-ms.openlocfilehash: fd24df57e7bf18764e4281947443b37dc7f49713
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
+keywords: "компетенция, компетенции, центр обработки данных"
+ms.openlocfilehash: 1af1a00f68d726377017dffbdc96ed636b027576
+ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 09/29/2017
 ---
-#<a name="datacenter"></a>Datacenter
-The Datacenter competency recognizes partners who are transforming data centers into more flexible, scalable, and cost effective solutions.
-##<a name="datacenter-solutions-option"></a>Datacenter Solutions option
-The Datacenter Solutions option is ideal if you prefer to prove your skills by passing exams or certifications. Choose exams from the focus area of your choice to attain the Datacenter competency.
-###<a name="silver"></a>Silver
+#<a name="datacenter"></a>Центр обработки данных
+Компетенция "Центр обработки данных" подтверждает опыт партнеров в области преобразования центров обработки данных в более гибкие, масштабируемые и экономичные решения.
+##<a name="datacenter-solutions-option"></a>Курс "Решения для центра обработки данных"
+Курс "Решения для центра обработки данных" подходит тем, кто хочет подтвердить свои навыки, пройдя экзамены или сертификации. Чтоб получить компетенцию "Центр обработки данных", пройдите экзамены по соответствующей области специализации.
+###<a name="silver"></a>Silver (Серебряный уровень)
 1. **2** сотрудника вашей организации должны пройти любой из экзаменов.
 
     - Направление **System Center 2012**
 
-        - [Экзамен 70-243](https://www.microsoft.com/en-us/learning/exam-70-243.aspx): администрирование и развертывание System Center 2012 Configuration Manager
         - [Экзамен 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): мониторинг и эксплуатация частного облака с помощью System Center 2012
         - [Экзамен 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): настройка и развертывание частного облака с помощью System Center 2012
 
@@ -42,7 +41,7 @@ The Datacenter Solutions option is ideal if you prefer to prove your skills by p
         - [Экзамен 70-743](https://www.microsoft.com/en-us/learning/exam-70-743.aspx): совершенствование навыков для работы с MCSA: Windows Server 2016
         - [Экзамен 70-744](https://www.microsoft.com/en-us/learning/exam-70-744.aspx): обеспечение безопасности Windows Server 2016
 
-###<a name="gold"></a>Gold
+###<a name="gold"></a>Gold (Золотой уровень)
 1. **4** сотрудника вашей организации должны пройти необходимую сертификацию.
 
     - **4** сотрудника должны пройти один из следующих экзаменов:

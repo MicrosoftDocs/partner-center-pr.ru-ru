@@ -3,18 +3,18 @@ title: "Вопросы и ответы по новым возможностям 
 Description: "Ниже приведены вопросы и ответы по возможностям годового выставления счетов, бесплатных пробных версий и согласования выставления счетов в Центре партнеров."
 ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: a0ed40409cfb7ea92713e89a3fea39c4b3f836b6
-ms.sourcegitcommit: c11d72ccf5c92c12eb8ba50fccf85820c4112198
+ms.openlocfilehash: ce871392c529cdfc7b11eddcad92f04b7e3054c2
+ms.sourcegitcommit: bf2476ae1163f5b486d7ba12e784904e47e0b85a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2017
+ms.lasthandoff: 09/29/2017
 ---
 # <a name="faq-about-new-billing-features"></a>Вопросы и ответы по новым возможностям выставления счетов
 
 **Область применения**
 
--  Partner Center
--  Partner Center for Microsoft Cloud for US Government
+-  Центр партнеров
+-  Центр партнеров для Microsoft Cloud для правительства США
 -  Центр партнеров Microsoft Cloud для Германии
 
 Ниже приведены вопросы и ответы по возможностям годового выставления счетов, бесплатных пробных версий и согласования выставления счетов в Центре партнеров. 
@@ -247,7 +247,7 @@ https://msdn.microsoft.com/ru-ru/library/partnercenter/microsoft.store.partnerce
 
 **В.** Когда это предложение станет доступно?
 
-**О.** Мы планируем предоставить к нему доступ в сентябре 2018 г.
+**О.** Мы планируем предоставить к нему доступ 17 октября 2017 г.
 
 **В.** Кто может воспользоваться этим предложением?
 
