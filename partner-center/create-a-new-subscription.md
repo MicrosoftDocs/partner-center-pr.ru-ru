@@ -3,10 +3,11 @@ title: "Создание новой подписки | Центр партнер
 description: "После регистрации клиентов в Центре партнеров можно продать им подписки на продукты в каталоге."
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
-ms.openlocfilehash: 7573af36bfe8c1c0a0840bee6840cd4e58610625
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 4bb9bfe2d620ba6a82d1f4960b8bdc497c6fdf16
+ms.sourcegitcommit: 6d8b97724a100fc6861e9ed8d89ec47cc49f195e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
+ms.lasthandoff: 10/17/2017
 ---
 # <a name="create-a-new-subscription"></a>Создание новой подписки
 
@@ -17,6 +18,9 @@ ms.contentlocale: ru-RU
 -  Центр партнеров Microsoft Cloud для Германии
 
 После регистрации клиентов в Центре партнеров можно продать им подписки на продукты в каталоге.
+
+Обратите внимание, что для некоторых предложений каждому клиенту доступна только одна подписка. Чтобы просмотреть список предложений, к которым применяются ограничения, посетите страницу "Цены и предложения" Центра партнеров, откройте "Матрицу предложений" и выберите вкладку Office_Dynamics_Windows_Intune (столбец I). 
+
 
 **Создание новой подписки**
 

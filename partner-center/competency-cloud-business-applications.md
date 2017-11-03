@@ -1,128 +1,182 @@
 ---
-title: Cloud Business Applications Competency
-description: The Cloud Business Applications competency is for partners who specialize in deployment and management of Microsoft Dynamics 365 for their customers.
+title: "Компетенция \"Облачные бизнес-приложения\""
+description: "Компетенция \"Облачные бизнес-приложения\" предназначена для партнеров, специализирующихся в развертывании и управлении Microsoft Dynamics 365 для своих клиентов."
 author: Daniel Simpson
-keywords: competency,competencies, Cloud Business Applications
-ms.openlocfilehash: 978f3b8939f7f5fb3e4788182fa4d49bb89b3ec0
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
+keywords: "компетенция, компетенции, облачные бизнес-приложения"
+ms.openlocfilehash: d38847cf292c15334bc850e0782a1af9842f3d33
+ms.sourcegitcommit: 581682c6f2098dc4cf19ca82fcdec90bc6bfe975
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 10/13/2017
 ---
-#<a name="cloud-business-applications"></a>Cloud Business Applications 
-The Cloud Business Applications competency is for partners who specialize in deployment and management of Microsoft Dynamics 365 for their customers.
+#<a name="cloud-business-applications"></a>Облачные бизнес-приложения 
+Компетенция "Облачные бизнес-приложения" предназначена для партнеров, специализирующихся в развертывании и управлении Microsoft Dynamics 365 для своих клиентов.
 
-- [Enterprise Customer Engagement option](#enterprise-customer-engagement-option)
-- [Enterprise Operations option](#enterprise-operations-option)
+- [Курс "Привлечение корпоративных клиентов"](#enterprise-customer-engagement-option)
+- [Курс "Корпоративная эксплуатация"](#enterprise-operations-option)
+
+Компетенция "Облачные бизнес-приложения" помогает сосредоточиться на развитии вашего бизнеса и заключении сделок. Microsoft Dynamics 365 включает в себя широкий спектр функциональных и технических сертификаций в рамках компетенции "Облачные бизнес-приложения".  
+
+Функциональные сертификации позволяют подготовить функциональные кадры для работы со всем решением полностью, которое вы планируете продавать, демонстрировать, внедрять или разрабатывать. В состав решения будут входить не только бизнес-приложения Dynamics 365, но и весь стек Майкрософт, включая такие продукты как Azure, Office 365 и LinkedIn. Когда клиенты будут использовать Dynamics 365, у них будет возможность пользоваться всеми предложениями Майкрософт. 
+
+Компетенция "Облачные бизнес-приложения" помогает партнером сформировать уникальное предложение и выделиться на рынке среди конкурентов благодаря набору функциональных сертификаций. Технические сертификации предоставляют поддержку техническим сотрудникам по таким вопросам, как настройка и конфигурации, а также развертывание и разработка. 
+
+Ваша компания также может отмечать отдельные достижения сотрудников на их профессиональном пути с помощью цифровых эмблем, которые будут свидетельствовать о ваших успехах в режиме реального времени. [Подробнее](https://www.microsoft.com/en-us/learning/badges.aspx).  
 
 
-##<a name="enterprise-customer-engagement-option"></a>Enterprise Customer Engagement option
-The Enterprise Customer Engagement option is ideal for partners engaging with enterprise customers. Complete all the steps within to attain the Cloud Business Applications competency.
+##<a name="enterprise-customer-engagement-option"></a>Курс "Привлечение корпоративных клиентов"
+Курс "Привлечение корпоративных клиентов" подходит для партнеров, которые работают с корпоративными клиентами. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Облачные бизнес-приложения".
 
-###<a name="silver"></a>Silver
-1. Your organization must meet the performance thresholds.
+###<a name="silver"></a>Уровень Silver
+1. Ваша организация должна соответствовать следующим пороговым значениям производительности.
 
-    - **Developed Markets**
+    - **Развитые рынки**
 
-        - Partner must have earned at least US$100,000 Revenue - Net New Revenue in the TTM period.
+        - Прибыль партнера в сфере облачных решений должна составлять не менее 100000 долларов США (чистый доход за 12-месячный отчетный период).
     
     - **Развивающиеся рынки**
 
-        - Прибыль партнера должна составлять не менее 50000 долларов США (чистый доход за 12-месячный отчетный период).
+        - Прибыль партнера в сфере облачных решений должна составлять не менее 50000 долларов США (чистый доход за 12-месячный отчетный период).
 
-    - Необходимо обеспечить соответствие требованиям по прибыли для продукта Dynamics 365 Enterprise Plan 1 и входящим в его состав приложениям, а также продукта Dynamics 365 Enterprise Plan 2.
+    - Необходимо обеспечить соответствие пороговым требованиям к прибыли для продукта Dynamics 365 Customer Engagement Plan (ранее Plan 1) и связанных приложений.
     - С этими клиентами у вас должны быть установлены отношения в качестве Цифрового партнера записи.
-    - [Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.
+    - [Подробнее](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.
 
-2. **5** сотрудников вашей организации должны удовлетворять требованиям, предъявляемым к прохождению экзаменов.
+2. Не менее **5** сотрудников вашей организации должны удовлетворять требованиям, предъявляемым к прохождению экзаменов.
 
-    - **5** сотрудников должны пройти все следующие экзамены:
+    - **5** сотрудников должны пройти все из следующих технических экзаменов:
         - [MB2 715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 (привлечение клиентов и развертывание в сети)
         - [MB2 716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 (настройка и конфигурации)
     
     **И**
     
-    - Те же **5** сотрудников должны пройти один из следующих экзаменов:
-        - [MB2 717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
-        - [MB2 718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
+    - Те же или другие **5** сотрудников должны пройти один из следующих экзаменов:
+        - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
+        - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
+        - MB2-877: Microsoft Dynamics 365 for Field Service (станет доступно в декабре 2017года)
+        
 
-###<a name="gold"></a>Gold (Золотой уровень)
-1. Your organization must meet the performance thresholds.
+###<a name="gold"></a>Уровень Gold
+1. Ваша организация должна соответствовать следующим пороговым значениям производительности.
 
     - **Развитые рынки**
     
-        - Прибыль партнера должна составлять не менее 300000 долларов США (чистый доход за 12-месячный отчетный период).
+        - Прибыль партнера в сфере облачных решений должна составлять не менее 300000 долларов США (чистый доход за 12-месячный отчетный период).
 
     - **Развивающиеся рынки**
 
-        - Прибыль партнера должна составлять не менее 150000 долларов США (чистый доход за 12-месячный отчетный период).
+        - Прибыль партнера в сфере облачных решений должна составлять не менее 150000 долларов США (чистый доход за 12-месячный отчетный период).
   
-    - Необходимо обеспечить соответствие требованиям по прибыли для продукта Dynamics 365 Enterprise Plan 1 и входящим в его состав приложениям, а также продукта Dynamics 365 Enterprise Plan 2.
+    - Необходимо обеспечить соответствие пороговым требованиям к прибыли для продукта Dynamics 365 Customer Engagement Plan и связанных приложений. 
     - С этими клиентами у вас должны быть установлены отношения в качестве Цифрового партнера записи.
-    - [Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.  
+    - [Подробнее](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.  
 
-2. **15** сотрудников вашей организации должны удовлетворять требованиям, предъявляемым к прохождению экзаменов.
+2. Не менее **15** сотрудников вашей организации должны удовлетворять требованиям, предъявляемым к прохождению экзаменов.
 
-    - **15** сотрудников должны пройти все следующие экзамены:
-        - [MB2 715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 (привлечение клиентов и развертывание в сети)
+    - **15** сотрудников должны пройти все из следующих технических экзаменов:
+        - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 (привлечение клиентов и развертывание в сети)
         - [MB2 716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 (настройка и конфигурации)
     
     **И**
 
-    - Те же **15** сотрудников должны пройти один из следующих экзаменов:
-        - [MB2 717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
-        - [MB2 718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
+    - Те же или другие **15** сотрудников должны пройти один из следующих экзаменов:
+        - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
+        - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
+        - MB2-877: Microsoft Dynamics 365 for Field Service (станет доступно в декабре 2017года)
 
 ##<a name="enterprise-operations-option"></a>Курс "Корпоративная эксплуатация"
-The Enterprise Operations option is ideal for partners engaging with enterprise customers, especially on the Dynamics 365 Operations SKU. Complete all the steps within to attain the Cloud Business Applications competency.
 
-###<a name="silver"></a>Silver
-1. Your organization must meet the performance thresholds.
+Курс "Корпоративная эксплуатация" подходит для партнеров, которые работают с корпоративными клиентами, в частности по продукту Dynamics 365 Unified Operations Plan. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Облачные бизнес-приложения".
 
-    - **Developed Markets**
+###<a name="silver"></a>Уровень Silver
+1. Ваша организация должна соответствовать следующим пороговым значениям производительности.
+
+    - **Развитые рынки**
     
-        - Partner must have earned at least US$100,000 Revenue from Dynamics 365 Enterprise Plan 2, Operations SKU, and AX 2012 On-Premise
-        - Partner must have earned a minimum of US$25,000 from Dynamics 365 Enterprise Plan 2 and Operations SKU, Net New Revenue in the TTM period
+        - Прибыль партнера по продуктам Dynamics 365 Enterprise Plan (ранее Plan 2), Unified Operations Plan и связанным приложениям, а также AX 2012 On-Premises или Dynamics 365 for Operations (On-Premises) должна составлять не менее 100000 долларов США.
+
+        - Прибыль партнера в сфере облачных решений (чистый доход за 12-месячный отчетный период) по продуктам Dynamics 365 Enterprise Plan (ранее Plan 2) и Unified Operations Plan, а также связанным приложениям должна составлять не менее 25000 долларов США. 
   
     - **Развивающиеся рынки**
 
-        - Прибыль партнера по продуктам Dynamics 365 Enterprise Plan 2, Operations SKU и AX 2012 On-Premise должна составлять не менее 50000 долларов США.
-        - Чистая прибыль партнера за 12-месячный отчетный период по продуктам Dynamics 365 Enterprise Plan 2 и Operations SKU должна составлять не менее 12000 долларов США. 
+        - Прибыль партнера по продуктам Dynamics 365 Enterprise Plan (ранее Plan 2), Unified Operations Plan и связанным приложениям, а также AX 2012 On-Premises или Dynamics 365 for Operations (On-Premises) должна составлять не менее 50000 долларов США.
 
+        - Прибыль партнера в сфере облачных решений (чистый доход за 12-месячный отчетный период) по продуктам Dynamics 365 Enterprise Plan (ранее Plan 2) и Unified Operations Plan, а также связанным приложениям должна составлять не менее 12000 долларов США. 
+      
     - С этими клиентами у вас должны быть установлены отношения в качестве Цифрового партнера записи.
     - [Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.  
 
 2. **5** сотрудников вашей организации должны удовлетворять требованиям, предъявляемым к прохождению экзаменов.
- 
-    - **5** сотрудников должны пройти все следующие экзамены:
-        - [MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): финансовые аспекты Microsoft Dynamics AX
-        - [MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): распространение и продажа Microsoft Dynamics AX
-        - [MB6 890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): введение в разработку Microsoft Dynamics AX
-        - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): администрирование инфраструктуры базы данных Microsoft SQL
 
-###<a name="gold"></a>Gold (Золотой уровень)
+    - **5** сотрудников должны пройти все из следующих технических экзаменов: 
 
-1. Your organization must meet the performance thresholds.
+        - MB6-894: разработка, расширения и развертывание для Dynamics 365 Finance and Operations, выпуск Enterprise (станет доступно в ноябре 2017года)
 
-    - **Developed Markets**
+        - 70-534: проектирование решений Microsoft Azure (станет доступно в ноябре 2017года)
 
-        - Partner must have earned at least US$300,000 Revenue from Dynamics 365 Enterprise Plan 2, Operations SKU, and AX 2012 On-Premise
-        - Partner must have earned a minimum of US$75,000 from Dynamics 365 Enterprise Plan 2 and Operations SKU, Net New Revenue in the TTM period
-  
+    **И**
+    
+    - Те же или другие **5** сотрудников должны пройти один из следующих функциональных экзаменов (станет доступно в ноябре 2017года):
+        
+        - MB6-895: управление финансовой деятельностью в Microsoft Dynamics 365 for Finance and Operations, выпуск Enterprise (станет доступно в ноябре 2017года)
+        
+        - MB6-896: распространение и продажа в Microsoft Dynamics 365 for Finance and Operations, выпуск Enterprise (станет доступно в ноябре 2017года)
+        
+        - MB6-897: Microsoft Dynamics 365 for Retail (станет доступно в ноябре 2017года)
+
+    **ИЛИ**
+
+    - **5** сотрудников должны пройти все из следующих функциональных и технических экзаменов:
+        - [MB6-705]: Microsoft Dynamics AX2012R3 CU8 Installation and Configuration*  
+        - [MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): финансовые аспекты Microsoft Dynamics AX*
+        - [MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): распространение и продажа Microsoft Dynamics AX*
+        - [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): введение в разработку Microsoft Dynamics AX*
+        - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): администрирование инфраструктуры базы данных Microsoft SQL*
+
+\* Прекращение действия: 31декабря 2017г. Результаты прохождения этих экзаменов будут действительны для получения компетенции до 31декабря2018года.
+
+###<a name="gold"></a>Уровень Gold
+
+1. Ваша организация должна соответствовать следующим пороговым значениям производительности.
+
+    - **Развитые рынки**
+
+        - Прибыль партнера по продуктам Dynamics 365 Enterprise Plan (ранее Plan 2), Unified Operations Plan и связанным приложениям, а также AX 2012 On-Premises или Dynamics 365 for Operations (On-Premises) должна составлять не менее 300000 долларов США.
+
+        - Прибыль партнера в сфере облачных решений (чистый доход за 12-месячный отчетный период) по продуктам Dynamics 365 Enterprise Plan (ранее Plan 2) и Unified Operations Plan, а также связанным приложениям должна составлять не менее 75000 долларов США. 
+
     - **Развивающиеся рынки**
 
-        - Прибыль партнера по продуктам Dynamics 365 Enterprise Plan 2, Operations SKU и AX 2012 On-Premise должна составлять не менее 150000 долларов США. 
-        - Чистая прибыль партнера за 12-месячный отчетный период по продуктам Dynamics 365 Enterprise Plan 2 и Operations SKU должна составлять не менее 37000 долларов США. 
+        - Прибыль партнера по продуктам Dynamics 365 Enterprise Plan (ранее Plan 2), Unified Operations Plan и связанным приложениям, а также AX 2012 On-Premises или Dynamics 365 for Operations (On-Premises) должна составлять не менее 150000 долларов США.
+
+        - Прибыль партнера в сфере облачных решений (чистый доход за 12-месячный отчетный период) по продуктам Dynamics 365 Enterprise Plan (ранее Plan 2) и Unified Operations Plan, а также связанным приложениям должна составлять не менее 37000 долларов США. 
 
     - С этими клиентами у вас должны быть установлены отношения в качестве Цифрового партнера записи.
-    - [Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.  
+    - [Подробнее](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.  
 
 
-2. **15** сотрудников вашей организации должны удовлетворять требованиям, предъявляемым к прохождению экзаменов.
+2. Не менее **15** сотрудников вашей организации должны удовлетворять требованиям, предъявляемым к прохождению экзаменов.
 
-    - **15** сотрудников должны пройти все следующие экзамены:
-        - [MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): финансовые аспекты Microsoft Dynamics AX
-        - [MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): распространение и продажа Microsoft Dynamics AX
-        - [MB6 890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): введение в разработку Microsoft Dynamics AX
-        - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): администрирование инфраструктуры базы данных Microsoft SQL
+   - **15** сотрудников должны пройти все из следующих технических экзаменов: 
+
+        - MB6-894: разработка, расширения и развертывание для Dynamics 365 Finance and Operations, выпуск Enterprise (станет доступно в ноябре 2017года)
+
+        - 70-534: проектирование решений Microsoft Azure (станет доступно в ноябре 2017года)
+
+   **И**
+    
+    - Те же или другие **15** сотрудников должны пройти один из следующих функциональных экзаменов:
+        
+        - MB6-895: управление финансовой деятельностью в Microsoft Dynamics 365 for Finance and Operations, выпуск Enterprise (станет доступно в ноябре 2017года)
+        - MB6-896: распространение и продажа в Microsoft Dynamics 365 for Finance and Operations, выпуск Enterprise (станет доступно в ноябре 2017года)
+        - MB6-897: Microsoft Dynamics 365 for Retail (станет доступно в ноябре 2017года)
+
+    **ИЛИ**
+    - **15** сотрудников должны пройти все из следующих функциональных и технических экзаменов:
+       - [MB6-705]: Microsoft Dynamics AX2012R3 CU8 Installation and Configuration*  
+       - [MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): финансовые аспекты Microsoft Dynamics AX*
+       - [MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): распространение и продажа Microsoft Dynamics AX*
+       - [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): введение в разработку Microsoft Dynamics AX*
+       - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): администрирование инфраструктуры базы данных Microsoft SQL*
  
+\* Прекращение действия: 31декабря 2017г. Результаты прохождения этих экзаменов будут действительны для получения компетенции до 31декабря2018года.
