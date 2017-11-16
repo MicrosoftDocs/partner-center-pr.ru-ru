@@ -1,72 +1,72 @@
 ---
-title: Responding to referrals | Partner Center
-description: Evaluate, negotiate, and respond to referrals through Partner Center.
+title: "Реакция на рекомендации | Центр партнеров"
+description: "Оценивайте, согласовывайте и отвечайте на рекомендации через Центр партнеров."
 author: KPacquer
-keywords: referral, RFI, Find a Partner
+keywords: "рекомендация, радиочастота, поиск партнера"
 ms.openlocfilehash: 4662b270e6684b8b7cf2e3e59cc6d8e797aad086
 ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/07/2017
 ---
-# <a name="responding-to-referrals-in-partner-center"></a>Responding to referrals in Partner Center
+# <a name="responding-to-referrals-in-partner-center"></a>Реакция на рекомендации в Центре партнеров
 
-**Applies to**
+**Область применения**
 
--  Partner Center
+-  Центр партнеров
 
-As a qualified Microsoft partner, you can receive potential business leads through Partner Center referrals. Manage your incoming leads, respond quickly to those that are a good fit, and skip or decline those that aren’t. Review the types of leads that come in. 
+Как квалифицированный партнер Майкрософт, вы можете получать потенциальных клиентов для бизнеса через рекомендации в Центре партнеров. Управляйте входящими клиентами, быстро реагируйте на подходящих клиентов и пропускайте тех, которые вам не подходят. Просматривайте типы клиентов, которые предоставляются. 
 
-## <a name="referral-management"></a>Referral management
+## <a name="referral-management"></a>Управления рекомендациями
 
-Начните с создания [маркетингового профиля](create-a-marketing-profile.md) для каждого региона, в котором ведете бизнес. Once your profile is active, we’ll be able to direct customers to your business, through:
+Начните с создания [маркетингового профиля](create-a-marketing-profile.md) для каждого региона, в котором ведете бизнес. Если ваш профиль активен, мы сможем направлять клиентов в вашу компанию через:
 
-*  Microsoft marketing activities
-*  Internal Microsoft sales and service agents
+*  рекламу Майкрософт;
+*  внутренних агентов по продажам и обслуживанию Майкрософт;
 *  поиск клиентов с помощью средства **[Поиск партнера](https://partnercenter.microsoft.com/pcv/search)**.
 
-When a customer is interested in contacting you, they’ll submit a request for information (RFI). 
+Когда клиент захочет с вами связаться, он будет отправлять запрос на получение сведений (затребование). 
 
 Когда это произойдет, мы отправим электронное сообщение контакту, указанному в вашем [маркетинговом профиле](create-a-marketing-profile.md) для конкретного региона и расположения. Вы также можете увидеть входящие затребования в Центре партнеров: перейдите на **Панель мониторинга > Рекомендации > Рекомендации клиентов**.
 
-Customers often choose to send the same RFI to multiple companies at the same time. To increase your chance of success, we recommend responding to and accepting or declining new referrals within 24 hours or less.
+Клиенты часто выбирают отправку одного и того же затребования одновременно нескольким компаниям. Чтобы повысить вероятность успеха, мы рекомендуем отвечать и принимать или отклонять новые рекомендации в течение 24 часов или меньше.
 
-### <a name="new-referrals"></a>New referrals
+### <a name="new-referrals"></a>Новые рекомендации
 
-We’ll show you an overview of the RFI. From here, you can decide whether you’re interested in learning more about the referral. 
+Мы покажем обзор затребования. Здесь вы можете решить, интересна ли вам рекомендация. 
 
 *  **Мне интересно**: мы переместим рекомендацию в **Оценка**, и вы увидите полные сведения о клиенте и предложении. 
-*  **Нет, спасибо**: рекомендация будет помещена в архив как **Пропущенная**. We’ll notify the customer to choose a different partner.
-*  Если вы не ответите в течение 72 часов, рекомендация будет помещена в архив как **Пропущенная**. We’ll notify the customer to choose a different partner.
+*  **Нет, спасибо**: рекомендация будет помещена в архив как **Пропущенная**. Мы посоветуем клиенту выбрать другого партнера.
+*  Если вы не ответите в течение 72 часов, рекомендация будет помещена в архив как **Пропущенная**. Мы посоветуем клиенту выбрать другого партнера.
 
-### <a name="evaluating-referrals"></a>Evaluating referrals
+### <a name="evaluating-referrals"></a>Оценка рекомендаций
 
-Review the details, and contact the customer. Talk to them about their business needs, and determine if you have an offer that can help them. Accept or decline the referral: 
+Просмотрите сведения и свяжитесь с клиентом. Обсудите с ним его бизнес-потребности и определите, если у вас есть предложение, способное им помочь. Принятие или отклонение рекомендации: 
 
-*  **Принятие**: введите примерную стоимость сделки, ожидаемую дату закрытия и выберите **Принять**. We’ll use this information to help you find similar deals. Рекомендация будет переведена в категорию **На рассмотрении**. This tells us that you plan to actively engage with the customer to address their need.
-*  **Отклонить**: рекомендация будет заархивирована как **Отклонена**. We’ll notify the customer to choose a different partner.
-*  Если вы не ответите в течение 7 дней, рекомендация будет помещена в архив как **Просроченная**. We’ll notify the customer to choose a different partner.
+*  **Принятие**: введите примерную стоимость сделки, ожидаемую дату закрытия и выберите **Принять**. Мы используем эти сведения, чтобы помочь вам найти похожие сделки. Рекомендация будет переведена в категорию **На рассмотрении**. Это указывает нам на то, что вы планируете активно взаимодействовать с клиентом для решения его задач.
+*  **Отклонить**: рекомендация будет заархивирована как **Отклонена**. Мы посоветуем клиенту выбрать другого партнера.
+*  Если вы не ответите в течение 7 дней, рекомендация будет помещена в архив как **Просроченная**. Мы посоветуем клиенту выбрать другого партнера.
 
-### <a name="negotiating-referrals"></a>Negotiating referrals
+### <a name="negotiating-referrals"></a>Согласование рекомендаций
 
-Work to close the deal with the customer. Дайте нам знать, если вы достигли соглашения потеряли сделку, и заархивируйте ее как **Выигранная** или **Потерянная**. 
+Работайте для закрытия сделки с клиентом. Дайте нам знать, если вы достигли соглашения потеряли сделку, и заархивируйте ее как **Выигранная** или **Потерянная**. 
 
-### <a name="archived-referrals"></a>Archived referrals
+### <a name="archived-referrals"></a>Заархивированные рекомендации
 
 Просмотрите последние ссылки (**выигранные, потерянные, пропущенные, отклоненные** или **просроченные**) в любое время. 
 
-## <a name="getting-more-referrals"></a>Getting more referrals
+## <a name="getting-more-referrals"></a>Получение дополнительных рекомендаций
 
-Here’s some tips to help make sure you’re getting more referrals that are appropriate to your business:
+Вот несколько советов, чтобы обеспечить увеличение числа рекомендаций, которые подходят для вашего бизнеса.
 
 *  **Просмотрите свои контактные данные в вашем [маркетинговом профиле](create-a-marketing-profile.md)** для каждого местоположения, чтобы убедиться в том, что команда получает входящие оповещения.
 
-*  **Выберите ключевые слова и настройки, представляющие ваш уникальный опыт и бизнес-модель** в вашем [маркетинговом профиле](create-a-marketing-profile.md). Remove keywords that would generate referrals for you’re not interested in. If you’re not interested in dealing with businesses of a certain size, update this preference.
+*  **Выберите ключевые слова и настройки, представляющие ваш уникальный опыт и бизнес-модель** в вашем [маркетинговом профиле](create-a-marketing-profile.md). Удалите ключевые слова, которые будут создавать рекомендации, не интересующие вас. Если вы не заинтересованы в работе с компанией определенного размера, обновите этот параметр.
 
-*  **Быстро реагируйте на рекомендации**. When you respond in a timely fashion to incoming requests, we’ll increase your visibility in future customer search results. Make sure your team responds quickly with your intent.
+*  **Быстро реагируйте на рекомендации**. Когда вы будете своевременно отвечать на входящие запросы, мы будем повышать вашу видимость в результатах поиска будущих клиентов. Убедитесь, что ваша команда быстро отвечает на ваши намерения.
 
-*  **Будьте разборчивы в сделках, которые вы принимаете**. We monitor the types of deals that you accept and decline, and use this information to help find you similar deals. 
+*  **Будьте разборчивы в сделках, которые вы принимаете**. Мы контролируем сделки, которые вы принимаете или отклоняете и используем эту информацию для поиска аналогичных сделок. 
 
-   Accepting deals that aren’t a good fit won’t improve your search results and could impact the quality of the leads you receive.
+   Принятие сделок, которые вам не подходят, не улучшит ваши результаты поиска и может повлиять на качество потенциальных клиентов, которые вы получаете.
 
-*  **Сообщайте о примерных размерах сделок, датах закрытия и конечном состоянии своих сделок** (выигранные или потерянные). We’ll use this info to continue to provide you with quality referrals.
+*  **Сообщайте о примерных размерах сделок, датах закрытия и конечном состоянии своих сделок** (выигранные или потерянные). Мы будет использовать эти сведения для дальнейшего предоставления качественных рекомендаций.
