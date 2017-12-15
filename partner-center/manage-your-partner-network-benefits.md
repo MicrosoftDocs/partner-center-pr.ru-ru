@@ -1,22 +1,22 @@
 ---
-title: Manage your Microsoft Partner Network benefits | Partner Center
-description: As a Microsoft Partner Network member, you're entitled to certain membership benefits. Explains how to activate and manage your membership benefits on Partner Center.
+title: "Управление преимуществами членства в Microsoft Partner Network | Центр партнеров"
+description: "Как член Microsoft Partner Network вы имеете право на определенные преимущества. Описание активации преимуществ членства и управления ими в Центре партнеров."
 author: MaggiePucciEvans
-ms.openlocfilehash: c74c00c06c02be98cd07ea639d38526f534f629c
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+ms.openlocfilehash: 2e21313612acc7383cde0333b57b3b6068a7723c
+ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/03/2017
 ---
-# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Manage your Microsoft Partner Network membership benefits
+# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Управление преимуществами членства в Microsoft Partner Network
 
-**Applies to**
+**Область применения**
 
--  Partner Center
+-  Центр партнеров
 
 Членство в Microsoft Partner Network дает право на определенные преимущества. Чтобы вы могли приобрести и активировать преимущества членства, ваша организация должна быть членом Microsoft Partner Network. Если вы не являетесь членом сети, вы можете присоединиться к ней на веб-сайте [https://partner.microsoft.com](https://partner.microsoft.com).
 
->**Примечание.** Переход по этой ссылке переместит вас на другой веб-сайт. Return to this site, Partner Center, to renew and upgrade your network membership.
+>**Примечание.** Переход по этой ссылке переместит вас на другой веб-сайт. Вернитесь на этот сайт Центра партнеров, чтобы продлить и обновить свое членство в сети.
 
 После того как вы присоединитесь или продлите членство в Microsoft Partner Network, вы сможете обновить членство и покупать преимущества, в том числе Microsoft Action Pack.
 
@@ -39,11 +39,11 @@ ms.lasthandoff: 07/08/2017
 
     а. Выберите **Получить ключи**, чтобы отобразить лицензионные ключи продукта. Обязательно выполните все специальные инструкции.
 
-    b. Select the language you want the product to be displayed in.
+    Б. Выберите язык для отображения продукта.
 
-    c. Select the operating system (OS) type of the computers you plan to install the software on.
+    В. Выберите тип операционной системы (ОС) компьютеров, на которые вы планируете установить программное обеспечение.
 
-    d. Follow the links to download and install the software installation packages.
+    Г. Перейдите по ссылкам для загрузки и установки пакетов установки программного обеспечения.
 
 
 #### <a name="manage-cloud-services-benefits"></a>Управление преимуществами облачных служб
@@ -68,9 +68,9 @@ ms.lasthandoff: 07/08/2017
     >**Важно.**<br>
 Если в списке нет пользователя, которого необходимо назначить, вы можете [добавить новых пользователей](create-user-accounts-and-set-permissions.md) в **Параметрах учетной записи**.
 
-3. Повторите эту процедуру для каждой подписки, которую требуется назначить. Users can manage their subscriptions in the Visual Studio portal. 
+3. Повторите эту процедуру для каждой подписки, которую требуется назначить. Пользователи могут управлять своими подписками на портале Visual Studio. 
 
-    You can reassign subscriptions any time by removing an assigned user and then assigning a different user. 
+    Подписки можно в любое время переназначить, удалив назначенного пользователя и назначив другого. 
 
 
 #### <a name="manage-support-benefits"></a>Управление преимуществами поддержки
@@ -85,7 +85,7 @@ ms.lasthandoff: 07/08/2017
 
     Б.  Укажите для пользователя электронный адрес, отличающийся от адреса, сопоставленного с учетной записью Центра партнеров. 
     
-    As a safeguard, we'll email instructions for accessing Microsoft Product Support to this email address in addition to the user's Partner Center account email. Note that it can take several days to activate this benefit and email instructions to the assigned user.    
+    В качестве меры безопасности мы отправим инструкции по доступу к службе технической поддержки Майкрософт на этот адрес в дополнение к адресу учетной записи Центра партнеров пользователя. Обратите внимание, что активация этого преимущества и отправка инструкций на электронный адрес назначенного пользователя может занять несколько дней.    
     
     В.  После того как вы введете другой электронный адрес, выберите **Назначить пользователя**. 
 

@@ -3,11 +3,11 @@ title: "Компетенция \"Центр обработки данных\""
 description: "Компетенция \"Центр обработки данных\" подтверждает опыт партнеров в области преобразования центров обработки данных в более гибкие, масштабируемые и экономичные решения."
 author: Daniel Simpson
 keywords: "компетенция, компетенции, центр обработки данных"
-ms.openlocfilehash: 1af1a00f68d726377017dffbdc96ed636b027576
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: 1a3e4c8b9bb2334e9a500ee7b8c32a184c26124e
+ms.sourcegitcommit: 5d287f46ef841f21e2171498efb2e309662c7965
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 11/21/2017
 ---
 #<a name="datacenter"></a>Центр обработки данных
 Компетенция "Центр обработки данных" подтверждает опыт партнеров в области преобразования центров обработки данных в более гибкие, масштабируемые и экономичные решения.
@@ -18,14 +18,16 @@ ms.lasthandoff: 09/29/2017
 
     - Направление **System Center 2012**
 
-        - [Экзамен 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): мониторинг и эксплуатация частного облака с помощью System Center 2012
-        - [Экзамен 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): настройка и развертывание частного облака с помощью System Center 2012
+        - [Экзамен 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): мониторинг и эксплуатация частного облака с помощью System Center 2012*
+        - [Экзамен 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): настройка и развертывание частного облака с помощью System Center 2012*
 
-    - Направление **Виртуализация**
+\* Прекращение действия: 31декабря 2017г. Результаты прохождения этого экзамена будут действительны для получения компетенции до 31декабря2018года. Зарегистрироваться на сдачу этого экзамена можно до 30 ноября 2017 г.
+
+   - Направление **Виртуализация**
 
         - [Экзамен 74-409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx): виртуализация серверов с помощью Windows Server Hyper-V и System Center
 
-    - Направление **Windows Server 2012**
+   - Направление **Windows Server 2012**
 
         - [Экзамен 70-410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx): установка и настройка Windows Server 2012
         - [Экзамен 70-411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx): администрирование Windows Server 2012
@@ -34,7 +36,7 @@ ms.lasthandoff: 09/29/2017
         - [Экзамен 70-414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx): реализация расширенной серверной инфраструктуры
         - [Экзамен 70-417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx): совершенствование навыков для работы с MCSA: Windows Server 2012
 
-    - Направление **Windows Server 2016**
+   - Направление **Windows Server 2016**
         - [Экзамен 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): установка, хранение и вычисления с помощью Windows Server 2016
         - [Экзамен 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): управление сетью с помощью Windows Server 2016
         - [Экзамен 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): работа с учетными данными с помощью Windows Server 2016

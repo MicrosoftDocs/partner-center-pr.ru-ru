@@ -1,87 +1,87 @@
 ---
-title: CSP regional authorization tenant consolidation | Partner Center
-description: Use these instructions to consolidate tenants for different country/regions.
+title: "Консолидация клиента региональной авторизации CSP | Центр партнеров"
+description: "Соблюдайте эти инструкции, чтобы консолидировать клиентов для разных стран и регионов."
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
-ms.openlocfilehash: 06709900a4f98c44ef0ae8505928d7c901ee8473
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
+ms.openlocfilehash: 655bcee32824f0a2a8859951edea35b2d56922a8
+ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 11/16/2017
 ---
-# <a name="csp-regional-authorization-tenant-consolidation"></a>CSP regional authorization tenant consolidation
+# <a name="csp-regional-authorization-tenant-consolidation"></a>Консолидация клиента региональной авторизации CSP
 
-**Applies to**
+**Относится к:**
 
--  Partner Center
--  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
+-  Центр партнеров
+-  Центр партнеров для Microsoft Cloud для правительства США
+-  Центр партнеров Microsoft Cloud для Германии
 
-\[Some information relates to pre-released product which may be substantially modified before it's commercially released. Microsoft makes no warranties, express or implied, with respect to the information provided here.\]
+\[Некоторые сведения относятся к предварительным версиям продуктов, в которые перед коммерческим выпуском могут быть внесены существенные изменения. Корпорация Майкрософт не дает никаких гарантий, прямых или косвенных, в отношении указанной здесь информации.\]
 
-Use these instructions to consolidate tenants for different country/regions.
+Соблюдайте эти инструкции, чтобы консолидировать клиентов для разных стран и регионов.
 
-**Примечание**. Необходимо учитывать все подписки и число пользователей для ваших клиентов, подготовленных на основе переходных учетных записей. Partners will be re-provisioning those same exact subscriptions with the same seat counts under the new Central CSP account as part of the migration process. Use the export list feature to help create a list of customers to move over to the centralized tenant. Partners choose to consolidate their tenants. Once consolidation is complete, Partners cannot revert to their previous state. Note that customer action is also be required.
+**Примечание**. Необходимо учитывать все подписки и число пользователей для ваших клиентов, подготовленных на основе переходных учетных записей. Вы будете снова настраивать те же самые подписки с тем же числом пользователей в новой учетной записи центрального CSP в процессе миграции. Используйте функцию экспорта, чтобы создать список клиентов для перемещения в централизованный клиент. Партнеры решают консолидировать своих клиентов. После завершения консолидация партнеры не смогут вернуться в предыдущее состояние. Обратите внимание, что также может потребоваться действие клиента.
 
  
 
-## <a name="prepare-for-migration"></a>Prepare for migration
+## <a name="prepare-for-migration"></a>Подготовка к миграции
 
 
--   Log on to <https://partnercenter.microsoft.com> with the Transitioning (existing) account and take note of all customers and all of the services provisioned for those customers.
+-   Войдите на страницу <https://partnercenter.microsoft.com> с переходной (существующей) учетной записью и запишите всех клиентов и все службы, настроенные для них.
 
-![regional customer list](images/regionalcustomer1.png)
+![список региональные клиентов](images/regionalcustomer1.png)
 
-## <a name="migrate-customer-accounts"></a>Migrate customer accounts
+## <a name="migrate-customer-accounts"></a>Миграция учетных записей клиентов
 
 
 1.  Войдите на страницу <https://partnercenter.microsoft.com> с переходной (новой) учетной записью и перейдите к списку клиентов на информационной панели Центра партнеров.
 
-2.  Select Customer.
+2.  Выберите клиентов.
 
-3.  Нажмите кнопку **Запросить установление взаимоотношений с торговым посредником**. You are presented with a default email message to present to your customers. This message contains a URL with the org ID unique to your new Partner Center account.
+3.  Нажмите кнопку **Запросить установление взаимоотношений с торговым посредником**. Вы увидите сообщение по умолчанию для ваших клиентов. Это сообщение содержит URL-адрес с уникальным для новой учетной записи Центра партнеров кодом организации.
 
-4.  **Действие клиента:** убедитесь, что каждый из активных клиентов, которого вы хотите перенести, перейдет по этому URL-адресу. When opening the URL, the customer is prompted to sign in to the Office 365 portal. The customer signs in using the same Org ID that they use to access the Azure and Office 365 admin portals.
+4.  **Действие клиента:** убедитесь, что каждый из активных клиентов, которого вы хотите перенести, перейдет по этому URL-адресу. При открытии URL-адреса клиента попросят войти на портал Office 365. Клиент выполняет вход с помощью того же кода организации, который используется для доступа к порталам администрирования Azure и Office 365.
 
-5.  After signing in, the Global Admin for the customer account is prompted to submit an agreement to give delegated admin privileges to the new CSP account. If they agree, the customer selects the checkbox and agrees to authorize the relationship.
+5.  После входа в систему глобальному администратору учетной записи клиента предлагается отправить соглашение, чтобы предоставить права делегированного администратора новой учетной записи CSP. Если администратор соглашается, клиент устанавливает флажок и авторизует отношение.
 
-The customers will appear in the partner’s customer list after they have submitted the agreement, one by one.
+Клиенты появятся в списке клиентов партнера после отправки соглашения один за одним.
 
-## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Migrating Office 365 and non-Azure usage-based subscriptions
+## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Перенос подписок Office 365 и не связанных с Azure подписок с учетом использования
 
 
-1.  Once your customer has signed the agreement, you can recreate their subscriptions under your Centralized Partner Tenant.
+1.  После подписи соглашения клиентом вы можете воссоздать их подписки в рамках централизованного клиента партнера.
 
 2.  На информационной панели в Центре партнеров щелкните **Клиенты** в левой области навигации.
 
-3.  Open the company name for the customer you want to migrate.
+3.  Откройте название компании клиента, которого вы хотите перенести.
 
 4.  Нажмите кнопку **Добавить подписку**.
 
-5.  Add the correct subscriptions and seat counts from the catalog. Проверьте сведения в партнерских учетных записях, **из которых осуществляется перенос**.
+5.  Добавьте нужные подписки и число пользователей из каталога. Проверьте сведения в партнерских учетных записях, **из которых осуществляется перенос**.
 
-    ![screenshot of customer list](images/regionalcustomer2.png)
+    ![снимок экрана: список клиентов](images/regionalcustomer2.png)
 
 6.  Нажмите кнопку **Отправить**.
 
 Службы теперь предоставляются клиенту из партнерской учетной записи, **в которую осуществляется перенос**.
 
-Repeat these steps to migrate subscriptions for all additional customers.
+Повторите эти действия, чтобы перенести подписки для всех других клиентов.
 
-Before proceeding to the next section, ensure all customer subscriptions existing under the **Transitioning From** partner accounts are re-provisioned under the **Transitioning To** partner account.
+Перед переходом к следующему разделу убедитесь, что все подписки клиентов в партнерских учетных записях, **из которых осуществляется перенос**, повторно подготовлены в партнерской учетной записи, **в которую осуществляется перенос**.
 
-**Note**  Partners must suspend subscriptions on the **Transitioning From** Partner Tenant account in Partner Center the same day that those subscriptions are transitioned and set up under the **Transitioning To** Partner Tenant account in the Partner Center to ensure double billing does not occur. Support requests will be denied for credits due to any overlap in billing that occurs from not correctly setting the **Transitioning From** subscriptions to disabled.
+**Примечание**. Партнерам необходимо приостановить подписки в учетной записи клиента, **из которых осуществляется перенос**, в Центре партнеров в тот же день, в который они переносятся, и настроить их в учетной записи, **в которую осуществляется перенос** в Центре партнеров, чтобы избежать двойного выставления счетов. Запросы поддержки будут отклонены из-за любого совпадения выставления счетов, вызванного неправильной настройкой **переносимых** подписок, которые следует отключить.
 
  
 
-## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Disabling the Office 365 subscriptions under the Transitioning From partner account
+## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Отключение подписок Office 365 в переносимой партнерской учетной записи
 
 
-Отключение подписки CSP в **переносимых** партнерских учетных записях останавливает последующее выставление счетов. You do not have to manually disable Azure subscriptions, because Azure subscriptions are automatically disabled during the migration process.
+Отключение подписки CSP в **переносимых** партнерских учетных записях останавливает последующее выставление счетов. Вам не требуется вручную отключать подписки Azure, поскольку они отключаются автоматически в процессе миграции.
 
 1.  Войдите на веб-сайт <https://partnercenter.microsoft.com> с **переносимой** учетной записью CSP и перейдите в список клиентов.
 
-2.  Open the customer with subscriptions to disable, and then select the first offer to disable.
+2.  Откройте клиента с подписками, которые необходимо отключить, и выберите первое предложение для отключения.
 3.  **Приостановите** подписку и нажмите кнопку **отправить**.
 
     **Примечание**. Приостановка подписки гарантирует отсутствие двойного выставления счетов.
@@ -90,70 +90,70 @@ Before proceeding to the next section, ensure all customer subscriptions existin
 
     Теперь подписка отображается в списке как **приостановленная**.
 
-4.  Repeat these steps for all subscriptions under the customer. Убедитесь, что для всех подписок отображается состояние **приостановлено**.
+4.  Повторите эти действия для всех подписок клиента. Убедитесь, что для всех подписок отображается состояние **приостановлено**.
 
-5.  Select the next customer on the list and repeat the process of disabling all subscriptions.
+5.  Выберите следующего клиента в списке и повторите процедуру отключения всех подписок.
 
-## <a name="migrating-azure-usage-based-subscriptions"></a>Migrating Azure usage-based subscriptions
+## <a name="migrating-azure-usage-based-subscriptions"></a>Миграция Azure подписки с учетом использования
 
 
-Note that Azure usage-based CSP subscriptions do not need to be migrated manually as in the case with Office 365 CSP subscriptions. Microsoft Azure Support can migrate the Azure subscriptions as well as all deployed services or resources from the **Transitioning From** CSP reseller accounts to the **Transitioning To** CSP reseller account. There will be no disruption of service to the customer during this transition.
+Обратите внимание, что подписки CSP Azure на основе использования не нужно переносить вручную, как подписки CSP Office 365. Служба поддержки Microsoft Azure может перенести подписки Azure, а также все развернутые службы или ресурсы из **переносимых** учетных записей CSP торговых посредников в **целевую** учетную запись CSP торгового посредника. Служба не прекращает работу во время переноса.
 
-1.  Ensure that the customer accounts that need Azure subscriptions migrated have accepted the agreement to be associated with the new **Transitioning To** CSP account.
-2.  Partners notify Microsoft which customer accounts that have Azure subscriptions are ready to migrate, and provides those customer’s company names.
-3.  Microsoft migrates the Azure usage-based subscriptions and notifies the partner when the migration is complete.
-4.  The partner confirms that the Azure subscription under the **Transitioning From** CSP reseller accounts now shows suspended in the Partner Center under the customer subscriptions section.
-5.  The partner confirms that the Azure subscription under the **Transitioning To** CSP reseller account now shows a status of **active** in the Partner Center under the customer subscriptions section.
+1.  Убедитесь, что клиенты, подписки Azure которых необходимо перенести, приняли соглашение для привязки к новой учетной записи CSP, **в которую осуществляется перенос**.
+2.  Партнеры сообщают корпорации Майкрософт, какие учетные записи клиентов с подписками Azure готовы к миграции, и указывают названия компаний этих клиентов.
+3.  Майкрософт переносит подписки Azure с учетом использования и уведомляет партнеров после завершения миграции.
+4.  Партнеры подтверждают, что подписка Azure в **переносимых** учетных записях CSP торговых посредников теперь отображается как приостановленная в Центре партнеров в разделе подписок клиента.
+5.  Партнеры подтверждают, что подписка Azure в разделе **целевой** учетной записи CSP торгового посредника теперь находится в состоянии **активно** в Центре партнеров в разделе подписок клиента.
 
-    **Примечание**. Отключение подписок клиента не изменяет его внешний вид в списке клиентов. There is currently no option to remove customers from the list. Партнерам следует избегать повторного добавления подписок к этим клиентам из **переносимой** учетной записи в будущем.
-
-     
-
-6.  Повторите эти действия для всех подписок всех клиентов, чтобы остановить выставление счетов за **переносимые** учетные записи. The partner will receive one final invoice with a credit for the number of unused days between the day of cancellation and the last day of the billing period. No future invoices will generate after that final billing period.
-
-### <a name="notes"></a>Notes
-
--   Disabling the subscription from the **Transitioning From** CSP account does not impact end customer’s service provided the service was provisioned from the **Transitioning To** CSP account prior to the disable.
-
--   Subscriptions cannot be used by the customer and do not generate charges when suspended or cancelled.
-
--   There is currently no way to remove a customer from the Customers list completely.
-
--   **Note**  Partners must suspend subscriptions on the **Transitioning From** Partner Tenant account in Partner Center the same day that those subscriptions are transitioned to and set up under the **Transitioning To** Partner Tenant account in the Partner Center to ensure double billing does not occur. Microsoft will not support requests for credits due to any overlap in billing which occurs from not correctly setting the **Transitioning From** subscriptions to suspended.
+    **Примечание**. Отключение подписок клиента не изменяет его внешний вид в списке клиентов. Сейчас нет возможности удалить клиентов из списка. Партнерам следует избегать повторного добавления подписок к этим клиентам из **переносимой** учетной записи в будущем.
 
      
 
-### <a name="simplify-migration-using-export"></a>Simplify migration using Export
+6.  Повторите эти действия для всех подписок всех клиентов, чтобы остановить выставление счетов за **переносимые** учетные записи. Партнеры получат последний счет с кредитом за неиспользованные дни между датой отмены и последним днем периода выставления счетов. После этого периода счета больше не будут выставляться.
+
+### <a name="notes"></a>Примечания
+
+-   Отключение подписки в **переносимой** учетной записи CSP не влияет на службу клиента, если она была подготовлена на основе **целевой** учетной записи CSP до отключения.
+
+-   Клиент не сможет использовать подписки, а после их приостановки или отмены плата за них не взимается.
+
+-   Сейчас нет возможности полностью удалить клиента из списка клиентов.
+
+-   **Примечание**. Партнерам необходимо приостановить подписки в учетной записи клиента, **из которых осуществляется перенос**, в Центре партнеров в тот же день, в который они переносятся, и настроить их в учетной записи, **в которую осуществляется перенос** в Центре партнеров, чтобы избежать двойного выставления счетов. Корпорация Майкрософт не поддерживает запросы кредитов из-за любого совпадения выставления счетов, вызванного неправильной настройкой **переносимых** подписок, которые следует приостановить.
+
+     
+
+### <a name="simplify-migration-using-export"></a>Упрощение миграции с помощью экспорта
 
 С помощью **функции экспорта** вы можете получить подписки, которые необходимо использовать в новой консолидированной структуре.
 
 1.  Щелкните **Клиенты** на информационной панели, чтобы просмотреть список клиентов в существующей структуре.
 
-2.  Open the desired customer name.
+2.  Откройте имя нужного клиента.
 
 3.  На странице **Подписки** щелкните **Экспорт подписок**, чтобы экспортировать данные подписок в файл Excel.
 
-4.  Use this list to recreate the subscriptions in your new consolidated tenant.
+4.  Используйте этот список, чтобы повторного создать подписки в новом консолидированном клиенте.
 
-### <a name="api-registration"></a>API registration
+### <a name="api-registration"></a>Регистрация API
 
 Дополнительные сведения о регистрации API см. [на этой странице](https://go.microsoft.com/fwlink/?linkid=847990).
 
-## <a name="partner-center-activity-log"></a>Partner Center Activity log
+## <a name="partner-center-activity-log"></a>Журнал действий Центра партнеров
 
 
-With the Activity log, partners can view a record of all customer-affecting changes made on their tenant. This helps partners track changes on a customer tenant.
+С помощью журнала действий партнеры могут просматривать записи всех влияющих на пользователей изменений, внесенных в их клиенте. Это позволяет отслеживать изменения в клиенте заказчика.
 
-**View the Activity log**
+**Просмотр журнала действий**
 
 1.  На информационной панели в Центре партнеров щелкните ссылку **Журнал действий**.
 2.  На странице **Журнал действий** просмотрите изменения, внесенные в учетные записи клиентов. Чтобы отфильтровать журнал действий по дате, выберите **начальную** и **конечную** дату для сужения выбранных записей в журнале. Для фильтрации по клиенту в **журнале действий** используйте поле поиска.
 
-**Export the Activity log**
+**Экспорт журнала действий**
 
 -   Нажмите кнопку **Экспорт журнала**, чтобы экспортировать данные журнала действий в CSV-файл.
 
-    You can also export the customer list and the subscription list of a single customer (from the customer’s subscription page).
+    Вы также можете экспортировать список клиентов и список подписок одного клиента (на странице подписки клиента).
 
  
 

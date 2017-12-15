@@ -1,14 +1,14 @@
 ---
-title: Earn Microsoft Competencies | Partner Center
-description: Earn Silver and Gold Microsoft competencies to demonstrate your proven expertise in delivering quality solutions in a specialized area of business
+title: "Получение компетенций Майкрософт | Центр партнеров"
+description: "Получайте компетенции Майкрософт уровня Silver и Gold, чтобы продемонстрировать свой подтвержденный опыт в предоставлении качественных решений в специализированной зоне бизнеса"
 author: KPacquer
-keywords: competencies, silver membership, gold membership, mpn, MAPS, proficiency
+keywords: "компетенции, членство уровня silver, членство уровня gold, mpn, MAPS, квалификация"
 robots: noindex,nofollow
-ms.openlocfilehash: 849b6355c9e838ccf29c95c18e8720c496828738
-ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
+ms.openlocfilehash: 6323613d785958db9bd511f10ca03988681f1867
+ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/01/2017
+ms.lasthandoff: 11/10/2017
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -22,74 +22,74 @@ ms.lasthandoff: 09/01/2017
 
  -->
 
-# <a name="competencies"></a>Competencies
+# <a name="competencies"></a>Компетенции
 
-**Applies to**
--  Partner Center
+**Область применения**
+-  Центр партнеров
 
-Microsoft competency achievements show your proven experience in delivering quality solutions. Join the elite tier of Microsoft Partners and stand out from your peers. Use them to: 
+Компетенции Майкрософт демонстрируют подтвержденный опыт в предоставлении качественных решений. Присоединяйтесь к элитному уровню партнеров корпорации Майкрософт и выделяйтесь из подобных вам компаний. Используйте их в следующих целях. 
 
-*  **Earn offers and benefit packs** such as discounts to the Microsoft Action Pack. Benefits vary by competency and level. 
+*  **Получение льготных предложений и пакетов**, таких как скидки на пакет Microsoft Action Pack. Преимущества зависят от типа компетенции и уровня членства. 
 
-*  **Demonstrate your proven expertise**. [Earn more business referrals](referrals.md) by showing prospective customers that you're able to meet their needs for a specific line of business.
+*  **Демонстрация подтвержденного опыта**. [Получение дополнительных бизнес-рекомендаций](referrals.md)за счет демонстрации потенциальным клиентам вашей возможности удовлетворить их потребности для конкретного бизнес-подразделения.
 
-## <a href="" id="attainment_paths"></a> Competency paths
+## <a href="" id="attainment_paths"></a> Пути компетенций
 
 [Требования к компетенциям для получения членства уровня Gold и Silver](learn-about-competencies.md)
 
 ## <a name="earn-competencies"></a>Получение компетенций
 
-After you [join the Microsoft Partner Network](mpn-overview.md), you can meet either performance-based or skill-based goals to earn Microsoft competencies. 
+После того как вы [присоединитесь к Microsoft Partner Network](mpn-overview.md), вы сможете достигать цели, связанные с производительностью или квалификацией, чтобы получать компетенции Майкрософт. 
 
-**Performance-based goals** include: 
-* Revenue goals
-* Active usage
-* Deployed seat count
-* New customer additions
+К **целям по производительности** относятся: 
+* Цели по прибыли
+* Активное использование
+* Количество развернутых рабочих мест
+* Добавление новых клиентов
 
-**Skill-based goals** include: 
-* Microsoft certifications
-* Online assessments 
+К **целям по квалификации** относятся: 
+* Сертификации Майкрософт
+* Тестирование по Интернету 
 
-Some competencies have multiple ways to achieve the Silver or Gold level.
+Для некоторых компетенций есть несколько способов достижения уровня Silver или Gold.
 
-To check your progress in a competency, from the Partner Center dashboard, go to the **Partnership > Competencies**. 
+Чтобы проверить ваш ход достижения компетенции, на информационной панели Центра партнеров перейдите в раздел **Партнерство > Компетенции**. 
 
-### <a href="" id="associating_achievements"></a>Get your employees connected to complete skill-based goals
+### <a href="" id="associating_achievements"></a>Подключайте своих сотрудников, чтобы они достигали цели по квалификации
 
-1.  Add user accounts for the employees in your organization. From the [Partner Center](http://partnercenter.microsoft.com) dashboard, go to **Account settings > Add user**. (PMC users can add multiple users at a time by selecting **Add users using PMC data**.)
+1.  Добавьте учетные записи пользователей для сотрудников в вашей организации. На информационной панели [Центра партнеров](http://partnercenter.microsoft.com) перейдите в раздел **Параметры учетной записи > Добавить пользователя**. (Пользователи PMC могут добавлять несколько пользователей одновременно, выбрав пункт **Добавить пользователей с помощью данных PMC**.)
 
-    After the user accounts are created, we'll send them a new user name and password, and will prompt you to download a log file which contains info to help reset the user name and password as needed. You can also [set up the user accounts so they can reset the passwords by themselves](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).
+    После создания учетных записей пользователей мы отправим им новое имя пользователя и пароль, а вам предложим скачать файл журнала, содержащий сведения, которые помогут вам при необходимости изменить имя пользователя и пароль. Вы также можете [настроить возможность самостоятельного сброса пароля для учетных записей пользователей](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).
 
-2. Ask the employees in your organization to sign in and associate their Microsoft account (MSA) to their user account. (From the [Partner Center](http://partnercenter.microsoft.com) dashboard, go to **Account settings**.) Employees can use the same or different MSAs to associate their Microsoft technical exams and certifications and their accounts through Microsoft Partner University.
+2. Попросите сотрудников вашей организации войти в систему и связать их учетную запись Майкрософт (MSA) с их учетной записью пользователя. (На информационной панели [Центра партнеров](http://partnercenter.microsoft.com) перейдите в раздел **Параметры учетной записи**.) Сотрудники могут использовать те же или другие учетные записи Майкрософт, чтобы связать их технические экзамены и сертификации Майкрософт со своими учетными записями через Университет партнеров Майкрософт.
 
-3.  **Wait 24 hours** after an employee has associated their account or completed a skill-based goal. After this time, the progress displays in the **Competencies** section.
+3.  **Подождите 24 часа**, после того как сотрудник привязал свою учетную запись или достиг цель, используя необходимые навыки. После этого в разделе **Компетенции** отобразятся данные о ходе выполнения.
 
-Note, employees can only associate these to one organization at a time. Once they associate achievements to your organization, they’ll sever any previous organization account associations.
+Обратите внимание, что сотрудники могут связать свои достижения только с одной организацией одновременно. Как только они свяжут достижения с вашей организацией, они разорвут все связи с учетной записью предыдущей организации.
 
-Likewise, when employees leave your organization, you may need other employees to achieve the skill-based goals in order to [maintain your membership](#maintaining_membership) at the same level.
+Аналогичным образом, когда сотрудники покидают вашу организацию, вам может понадобиться, чтобы другие сотрудники достигли цели по квалификации для [сохранения вашего членства](#maintaining_membership) на том же уровне.
 
-## <a name="display-your-competency-awards"></a>Display your competency awards
+## <a name="display-your-competency-awards"></a>Отображение наград компетенций
 
-Once you've met these goals for a single competency, you'll be able to upgrade your membership.
+После достижения целей по одной компетенции, вы сможете повысить уровень членства.
 
-### <a name="upgrade-your-membership"></a>Upgrade your membership
+### <a name="upgrade-your-membership"></a>Повышение уровня членства
 
-To buy the Silver benefit pack, you only need to demonstrate silver-level proficiency in one path. Once you upgrade to Silver, we display all of the Silver-level competencies you’ve achieved in your marketing profile. 
+Чтобы приобрести пакет преимуществ уровня Silver, нужно продемонстрировать опыт уровня Silver только в одном пути. После перехода на уровень Silver отобразятся все компетенции уровня Silver, полученные в вашем бизнес-профиле. 
 
-To buy the Gold benefit pack, you only need to demonstrate gold-level proficiency in one path. Once you upgrade to Gold, we display both the Silver-level and Gold-level competencies you’ve achieved in your marketing profile. 
+Чтобы приобрести пакет преимуществ уровня Gold, нужно продемонстрировать опыт уровня Gold только в одном пути. После перехода на уровень Gold отобразятся компетенции уровней Silver и Gold, полученные в вашем бизнес-профиле. 
 
-### <a href="" id="maintain_membership"></a> Maintain and renew membership
+### <a href="" id="maintain_membership"></a> Сохранение и продление членства
 
-To renew your membership, you’ll need to continue to demonstrate proficiency in Microsoft products and services. Your subscription status remains until the end of the year that you purchased it.
+Чтобы продлить членство, необходимо продолжать демонстрировать опыт в работе с продуктами и службами Майкрософт. Состояние подписки останется текущим до конца года, в котором вы ее купили.
 
-Expired achievements may make you ineligible for upgrading or renewing your partner memberships at the same level. 
+Просроченные достижения могут привести к тому, что вы потеряете право на обновление или продление своего членства в партнерстве на том же уровне. 
 
-If you receive the alert: **“A recent change to your competency achievement has put your membership renewal eligibility at risk”**, this means one or more of your competency achievements is at risk of expiring. 
+Если вы получили уведомление: **"Последние изменения в достижении компетенции поставили под угрозу ваше право на обновление членства"**, это говорит о наличии риска того, что у одного или нескольких ваших достижений компетенции скоро истечет срок действия. 
 
-This often happens when an employee who helped your organization meet exam or certification requirements for a competency achievement leaves your organization. 
+Это часто происходит, когда сотрудник, который помог организации выполнить требования к оценке или квалификации для достижения компетенции, покидает вашу организацию. 
 
-Even though your membership renewal is at risk, your organization’s proficiency status continues to display until the one-year subscription has elapsed.
+Хотя продление вашего членства подвергается риску состояние опыта вашей организации продолжит отображаться на текущем уровне, пока не истечет срок вашей годовой подписки.
 
 Чтобы продлить или обновить членство на том же самом уровне, ваша организация должна снова подтвердить свое соответствие требованиям к компетенциям.
 
