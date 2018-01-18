@@ -2,13 +2,13 @@
 title: "Получение компетенций Майкрософт | Центр партнеров"
 description: "Получайте компетенции Майкрософт уровня Silver и Gold, чтобы продемонстрировать свой подтвержденный опыт в предоставлении качественных решений в специализированной зоне бизнеса"
 author: KPacquer
-keywords: "компетенции, членство уровня silver, членство уровня gold, mpn, MAPS, квалификация"
+keywords: "компетенции, членство уровня silver, членство уровня gold, mpn, MAPS, опыт, преимущества, показатели производительности, целевые навыки"
 robots: noindex,nofollow
-ms.openlocfilehash: 6323613d785958db9bd511f10ca03988681f1867
-ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
+ms.openlocfilehash: b4ca5bff38a4d2b3e40616c971379e743ad87032
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 12/21/2017
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page

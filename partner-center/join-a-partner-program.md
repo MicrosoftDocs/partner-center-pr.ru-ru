@@ -2,11 +2,11 @@
 title: "Присоединитесь к Microsoft Partner Network | Центр партнеров"
 description: "Приобретите Microsoft Action Pack и получите компетенцию в Центре партнеров"
 author: labrenne
-ms.openlocfilehash: 7ac5c9fc7b66adf7796c23e97be994bffd751799
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: cf9ac91a4d8ad7a642863693c5db2193e12f25d9
+ms.sourcegitcommit: eca4ff8ce011fb5c687b333e5d08d085df2f5dcb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/12/2017
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Присоединитесь к Microsoft Partner Network (MPN)
 
@@ -18,6 +18,8 @@ ms.lasthandoff: 11/22/2017
 ## <a name="new-to-partner-center"></a>Впервые в Центре партнеров
 
  Сотрудничество с корпорацией Майкрософт позволяет получить доступ к новым возможностям для преобразования бизнеса. В Центре партнеров можно приобрести и обновить Microsoft Action Pack, а также легко получить доступ к информации о компетенциях и способах их получения.
+
+ Мы постепенно приглашаем партнеров начать управлять своим членством в Центре партнеров в дату годовщины MAPS или компетенции, а также после предоставления доступа к основным возможностям Центра партнеров и подтверждения их соответствия потребностям бизнеса.  На данный момент планируйте продление и администрирование членства в Partner Membership Center (PMC), пока не получите приглашение на переход.
 
 ## <a name="get-your-mpn-id"></a>Получите идентификатор MPN
 

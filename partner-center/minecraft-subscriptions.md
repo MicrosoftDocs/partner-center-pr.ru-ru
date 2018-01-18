@@ -3,11 +3,11 @@ title: "Продажа подписок на Minecraft: Education Edition кли
 description: "Продажа подписок на Minecraft: Education Edition клиентам из образовательной сферы"
 author: KPacquer
 keywords: "Авторизованные партнеры в сфере образования"
-ms.openlocfilehash: e5d9b276e89e9a506948a4cb1f905d53fca57e25
-ms.sourcegitcommit: db945c0cf04f675c4cb71ae3dd1d1737d086e7e2
+ms.openlocfilehash: b719fb858abe5e171e4bf785fc2c4b3e4500d7c5
+ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2017
+ms.lasthandoff: 12/02/2017
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Продажа подписок на Minecraft: Education Edition клиентам из образовательной сферы
 
@@ -20,15 +20,15 @@ ms.lasthandoff: 08/23/2017
 ## <a name="purchase-through-partner-center-portal"></a>Приобретение на портале Центра партнеров 
 Вы можете приобрести Minecraft: Education Edition для клиентов из сферы образования на портале Центра партнеров: 
 
-  1.  При добавлении новой подписки в Центре партнеров создайте или выберите учетную запись клиента из образовательной сферы и перейдите на вкладку "Образование".  Выберите подписку на Minecraft: Education Edition и купите необходимое клиенту количество лицензий. Подписка на Minecraft: Education Edition будет выглядеть так же, как и другие предложения для образовательных учреждений, доступные в настоящий момент в рамках программы CSP. Инструкции по добавлению подписки см. на веб-странице [Создание новой подписки](create-a-new-subscription.md). Эти лицензии отображаются в Центре партнеров, а также в списке продуктов [Магазина Майкрософт для бизнеса](https://www.microsoft.com/business-store) клиента на [странице сведений о Minecraft](https://businessstore.microsoft.com/en-us/app-detail/9NBLGGH4R2R6/0016/00000000000000000000000000000000/online) (для ее просмотра необходимо войти в Магазин для бизнеса). 
+  1.  При добавлении новой подписки в Центре партнеров создайте или выберите учетную запись клиента из образовательной сферы и перейдите на вкладку "Образование".  Выберите подписку на Minecraft: Education Edition и купите необходимое клиенту количество лицензий. Подписка на Minecraft: Education Edition будет выглядеть так же, как и другие предложения для образовательных учреждений, доступные в настоящий момент в рамках программы CSP. Инструкции по добавлению подписки см. на веб-странице [Создание новой подписки](create-a-new-subscription.md). Эти лицензии отображаются в Центре партнеров, а также в списке продуктов [Microsoft Store для образования](https://educationstore.microsoft.com/en-us/store) клиента на [странице сведений о Minecraft](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) (для ее просмотра необходимо войти в Microsoft Store для образования). 
 
-  2.  Клиент установит приложение Minecraft, назначит его другим пользователям и скачает приложение для распространения через [страницу сведений о Minecraft](https://businessstore.microsoft. com/en-us/app-detail/9NBLGGH4R2R6/0016/00000000000000000000000000000000/online) Магазина Майкрософт для бизнеса. (В настоящее время Центр партнеров не поддерживает выполнение этих действий.)
+  2.  Клиент установит приложение Minecraft, назначит его другим пользователям и скачает приложение для распространения через [страницу сведений о Minecraft](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) Microsoft Store для образования. 
 
       а. ИТ-администратор школы принимает условия соглашения об использовании служб Магазин Майкрософт для бизнеса (если это еще не сделано). 
 
-      б. Администратор переходит на [страницу сведений о Minecraft](https://businessstore.microsoft.com/en-us/app-detail/9NBLGGH4R2R6/0016/00000000000000000000000000000000/online), чтобы скачать приложение и распространить его среди пользователей. Подробные инструкции см. на веб-странице [Для ИТ-администраторов— получение и распространение Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft).
+      б. Администратор переходит на [страницу сведений о Minecraft](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6), чтобы скачать приложение и распространить его среди пользователей. Подробные инструкции см. на веб-странице [Для ИТ-администраторов— получение и распространение Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft).
     
-  Если ИТ-администратор школы не работал с Магазином Майкрософт для бизнеса, ознакомьте его с обзором [Магазина Майкрософт для бизнеса](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview). 
+  Если ИТ-администратор школы не работал с Магазином Майкрософт для бизнеса, ознакомьте его с обзором [Microsoft Store для бизнеса и Microsoft Store для образования](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview). 
 
 <!-- ## Purchase through Partner Center API 
 

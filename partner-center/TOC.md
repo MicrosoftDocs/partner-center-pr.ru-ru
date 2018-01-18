@@ -18,11 +18,13 @@
 ## [Рабочие учетные записи и Центр партнеров](azure-active-directory-tenants-and-partner-center.md)
 ## [Обновление профиля партнера](update-your-partner-profile.md)
 ## [Восстановление приостановленной учетной записи Центра партнеров](suspended-partner-center-account.md)
-## [Сброс пароля пользователя](reset-a-user-password.md)
 ## [Создание учетных записей пользователей и определение разрешений](create-user-accounts-and-set-permissions.md)
+## [Сброс пароля пользователя](reset-a-user-password.md)
 ## [Добавление служб Azure Partner Shared Services](shared-services.md)
 ## [Цены и предложения](pricing-and-offers.md)
 ## [Настройка каталога](customize-the-catalog.md)
+
+# [Развивайте ваш бизнес](grow-your-business.md)
 
 # [Рекомендации](referrals.md)
 ## [Создание бизнес-профиля](create-a-marketing-profile.md)
@@ -76,13 +78,13 @@
 ## [Поддержка нескольких каналов](multichannel.md)
 ## [Поддержка нескольких партнеров](multipartner.md)
 
-# [Поддержка от Майкрософт](support-from-microsoft.md)
-## [Проверка работоспособности службы](check-service-health.md)
+# [Получить поддержку от Майкрософт](support-from-microsoft.md)
 ## [Сообщить о проблемах с Центром партнеров](report-problems-with-partner-center.md)
 ## [Сообщение о проблемах от имени клиента](report-problems-on-behalf-of-a-customer.md)
 ## [Автоматизация уведомлений служб с помощью наших API](get-automated-service-notifications-with-our-apis.md)
 
-# [Поддержка клиентов](customer-support.md)
+# [Предоставление поддержки клиентам](customer-support.md)
+## [Проверка работоспособности службы](check-service-health.md)
 ## [Предоставление поддержки выставления счетов](provide-billing-support.md)
 ## [Предоставление технической поддержки](provide-technical-support.md)
 ## [Взаимодействие Майкрософт с клиентами](customer-communication-from-microsoft.md)

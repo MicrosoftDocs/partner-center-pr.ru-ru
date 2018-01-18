@@ -2,12 +2,12 @@
 title: "Назначение подписок Azure в Центре партнеров | Центр партнеров"
 description: "Теперь можно назначать подписки Azure вашим клиентам в Центре партнеров."
 author: Labrenne
-keywords: "Azure, подписка Azure"
-ms.openlocfilehash: b5a2e1afbd0d0fe5941c22cf67d192cec004559e
-ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
+keywords: "Azure, подписка Azure, подписка, подписки, назначение подписки"
+ms.openlocfilehash: bdd8973809f01de002f45dd33ade48be0b70ddb3
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/03/2017
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="assign-azure-subscriptions-in-partner-center"></a>Назначение подписок Azure в Центре партнеров
 

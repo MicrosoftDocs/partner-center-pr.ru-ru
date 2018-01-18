@@ -1,13 +1,14 @@
 ---
 title: "Добавление лицензий или служб к существующей подписке | Центр партнеров"
-description: "Если клиенту требуются дополнительные места или другая версия с дополнительными службами, вы можете обновить подписку."
+description: "Если клиенту требуются дополнительные лицензии или другая версия с дополнительными службами, вы можете обновить подписку."
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
-ms.openlocfilehash: f33841361b10a4fb2358aafc13342689ec0780ef
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+keywords: "добавление лицензий в существующую подписку, добавление мест для существующей подписки, изменение подписки, изменить подписку, приобретение дополнительных лицензий для клиента"
+ms.openlocfilehash: c5d5a2e57385a46b6f64d7632593735e026f0dcb
+ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 12/08/2017
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Добавление лицензий или служб к существующей подписке
 

@@ -1,42 +1,43 @@
 ---
-title: Assign support contacts | Partner Center
-description: As a reseller partner, you can designate a reseller as a support contact.
+title: "Назначить контакты службы поддержки | Центр партнеров"
+description: "Как торговый посредник, вы можете назначить торгового посредника контактом службы поддержки."
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
-ms.openlocfilehash: 9fedebc3c7b2deb6b6e3911905d3ca92bd15ee43
-ms.sourcegitcommit: 7ed78315d2a4f4f60a0bf51ec658e019ff5b7fe3
+keywords: "агент поддержки, поддержка, назначение контактного лица по поддержке, назначенное контактное лицо из службы поддержки"
+ms.openlocfilehash: dd69715d77fc94f24e93c3ecfbd26f145e84c332
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 12/21/2017
 ---
-# <a name="assign-support-contacts"></a>Assign support contacts
+# <a name="assign-support-contacts"></a>Назначить контакты службы поддержки
 
-**Applies to**
+**Область применения**
 
--  Partner Center
+-  Центр партнеров
 
-When you set up subscriptions for Microsoft services for your customers, you may want to assign the technical support for these products to a designated product reseller, rather than providing the support yourself.
+При настройке подписки на службы Майкрософт для клиентов, возможно, стоит назначить техническую поддержку для этих продуктов торговому посреднику продукта, а не предоставлять поддержку самостоятельно.
 
-After you set up support contacts, customers see your assigned support contact's information on the product support pages. For example, when Office customers need support, they can go into the Office.com page, log in with their admin credentials, select the **Admin** tile, and under the **Support** section, see the assigned support contact information.
+После настройки контактов службы поддержки клиенты видят, что вы назначили данные о контакте службы поддержки на страницах службы поддержки. Например, когда клиентам Office нужна поддержка, они могут перейти на страницу Office.com, выполнить вход с помощью своих учетных данных администратора, выбрать плитку **Администратор** и в разделе **Поддержка** увидеть назначенные данные о службе поддержке.
 
-This can be used for [multi-partner](multipartner.md) and [multi-channel](multichannel.md) scenarios. 
+Это можно использовать для [поддержки нескольких партнеров](multipartner.md) и [многоканальных](multichannel.md) сценариев. 
 
 <a href="" id="assigncontacts"></a>
-## <a name="assign-contacts"></a>Assign contacts
+## <a name="assign-contacts"></a>Назначить контакты
 
-1.  Start by [requesting a relationship](request-a-relationship-with-a-customer.md) with your designated product reseller. Negotiate a support agreement with them for handling technical support.
+1.  Начните с [запроса связи](request-a-relationship-with-a-customer.md) с торговым посредником продукта. Согласуйте соглашение с ними для поддержки технической поддержки.
 
-2.  From the Partner Center Dashboard, select **Customers**, then select a customer, then select a subscription, for example, Office 365 Business Premium.
+2.  На информационной панели центра партнеров выберите **Клиенты**, выберите клиента, затем выберите подписку, например, Office 365 бизнес Premium.
 
-3.  In  **Designated support contact**, select the designated product reseller, and then click **Submit**. 
+3.  В разделе **Назначенный контакт службы поддержки** выберите соответствующого торгового посредника продута и нажмите кнопку **Отправить**. 
 
-    Notes: 
+    Примечания. 
     
-    *  For new subscriptions, the designated support contact defaults to the indirect provider. Это также можно изменить на непрямого торгового посредника с правами администратора делегирования (страницы доступа к данным).
+    *  Для новых подписок назначенный контакт службы поддержки возвращается к значению по умолчанию к непрямому поставщику. Это также можно изменить на непрямого торгового посредника с правами администратора делегирования (страницы доступа к данным).
     
-    *  If your reseller's name doesn't appear in the list of available support contacts, add them in by [requesting a relationship](request-a-relationship-with-a-customer.md). After the relationship is established, they should appear in the list.  
+    *  Если имя торгового посредника не отображается в списке контактов службы поддержки, добавьте их в по [запросу связи](request-a-relationship-with-a-customer.md). После установления связи они должны отображаться в списке.  
 
-4.  Review that the changes are correct, and then select **Close**.
+4.  Убедитесь в правильности изменений и нажмите кнопку **Закрыть**.
 
 ## <a name="related-topics"></a>Еще по теме:
 

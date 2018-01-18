@@ -3,9 +3,12 @@ title: "Назначение и отзыв лицензий для нескол�
 description: "Вы можете назначить лицензии и службы одному или нескольким пользователям одновременной в учетной записи клиента, а также отозвать назначенные пользователям лицензии."
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
-ms.openlocfilehash: 205b43157d2f51f6d21c7ff75bb20b92044e80db
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+Keywords: assign license, revoke license, assign to multiple users,
+ms.openlocfilehash: 513e2336d831095fcabc408db5fc467d8e909e36
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Назначение и отзыв лицензий для нескольких пользователей
 
