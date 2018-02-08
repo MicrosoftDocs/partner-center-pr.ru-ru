@@ -2,11 +2,12 @@
 title: "Программа для поставщиков облачных решений — продажа облачных решений при появлении спроса | Центр партнеров"
 description: "Программа для поставщиков облачных решений может помочь вам расширить свой бизнес благодаря появлению новых клиентов и новых знаний."
 author: labrenne
-ms.openlocfilehash: c3fe4a3dfc80f17eda3c87548d30417ecdd9527a
-ms.sourcegitcommit: 71fcb32b5c5636db5fdeea72ba9ea96a3cd49328
+keywords: "CSP, прямая модель, непрямая модель, непрямой торговый посредник, непрямой поставщик, поставщик, дистрибьютор, программа для поставщиков облачных решений"
+ms.openlocfilehash: 4ba8be87b3d7e5c92045c7c2c19112219131bdd0
+ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/07/2017
+ms.lasthandoff: 01/17/2018
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Программа для поставщиков облачных решений — продажа облачных решений при появлении спроса 
 

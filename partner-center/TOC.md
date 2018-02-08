@@ -70,6 +70,7 @@
 ## [Упрощение настройки устройств с помощью Windows Autopilot](autopilot.md)
 
 # Данные и аналитика в Центре партнеров
+## [Получение данных и анализ бизнеса](data-analysis-lp.md)
 ## [Аналитика Центра партнеров для Microsoft Power BI](power-bi-app-for-direct-partners.md)
 
 # [Работа с другими партнерами](work-with-other-partners.md)
