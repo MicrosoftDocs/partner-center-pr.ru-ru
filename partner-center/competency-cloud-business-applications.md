@@ -3,11 +3,11 @@ title: "Компетенция \"Облачные бизнес-приложен�
 description: "Компетенция \"Облачные бизнес-приложения\" предназначена для партнеров, специализирующихся в развертывании и управлении Microsoft Dynamics 365 для своих клиентов."
 author: Daniel Simpson
 keywords: "компетенция, компетенции, облачные бизнес-приложения"
-ms.openlocfilehash: 073e31972c8abcfdb176d6ceec65bbda67e8a5f0
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
+ms.openlocfilehash: 89459db489bce42c7b91ac1b76bebe6e34c5a705
+ms.sourcegitcommit: 201493cd49b1b65206aa46442677ec1979287358
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 01/25/2018
 ---
 # <a name="cloud-business-applications"></a>Облачные бизнес-приложения 
 
@@ -51,7 +51,7 @@ ms.lasthandoff: 11/16/2017
     
     **И**
     
-    - Каждый из тех же **5** сотрудников должен пройти один из следующих экзаменов по функционалу:
+    - Те же или другие **5** сотрудников должны пройти один из следующих функциональных экзаменов:
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
         - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx): Microsoft Dynamics 365 for Field Service *новый экзамен станет доступен в декабре 2017года
