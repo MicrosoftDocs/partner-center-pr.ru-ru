@@ -1,14 +1,14 @@
 ---
-title: "Перенос клиентов служб на основе лицензий в программу Cloud Service в Центре партнеров | Центр партнеров"
+title: "Перенос клиентов служб на основе лицензий в программу поставщиков облачных решений в Центре партнеров | Центр партнеров"
 description: "Невозможно автоматически переместить клиентов и их подписки в Центр партнеров, но их можно перенести вручную."
 author: labrenne
-ms.openlocfilehash: bc115ad57614dc48ca8d75e4347f1cd2dbcd9d50
-ms.sourcegitcommit: db945c0cf04f675c4cb71ae3dd1d1737d086e7e2
+ms.openlocfilehash: 43494cb92655dca4c4ed74753ac1c82cf61f73e2
+ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2017
+ms.lasthandoff: 02/09/2018
 ---
-# <a name="moving-license-based-services-customers-to-the-cloud-service-program-on-partner-center"></a>Перенос клиентов служб на основе лицензий в программу Cloud Service в Центре партнеров
+# <a name="moving-license-based-services-customers-to-the-cloud-solution-provider-program-on-partner-center"></a>Перенос клиентов служб на основе лицензий в программу поставщиков облачных решений в Центре партнеров
 
 **Область применения**
 
@@ -16,7 +16,7 @@ ms.lasthandoff: 08/23/2017
 
 В настоящее время в Центре партнеров невозможно автоматически переместить клиентов и их подписки из одной программы лицензирования в другую. Однако вы можете переместить отдельных клиентов вручную, используя возможности работы со множеством каналов и партнеров в Центре партнеров. Подробнее [о поддержке множестве каналов и партнеров CSP](https://microsoft.sharepoint.com/sites/infopedia/pages/layouts/KCDoc.aspx?k=G03KC-1-5871). 
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-service-program-csp"></a>Перенос подписок клиента на основе лицензии в программу CSP
+## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Перенос подписок клиента на основе лицензии в программу поставщиков облачных решений (CSP)
 
 1. Выберите "Клиенты" в меню **Информационная панель**, а затем выберите **Запросить установление взаимоотношений с торговым посредником**.
 
