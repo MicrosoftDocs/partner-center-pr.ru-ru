@@ -1,28 +1,28 @@
 ---
-title: Cloud Productivity Competency
-description: The Cloud Productivity competency is for partners who specialize in enterprise deployments of Office 365. Differentiate your company with this competency as a proven cloud solution provider for customers searching for qualified cloud solution partners.
+title: "Компетенция \"Облачная производительность\""
+description: "Компетенция \"Облачная производительность\" предназначена для партнеров, специализирующихся в области корпоративного развертывания Office 365. Выделитесь на фоне конкурентов с помощью этой компетенции как надежный поставщик облачных решений для клиентов, ищущих квалифицированных партнеров по облачным решениям."
 author: Daniel Simpson
-keywords: competency, competencies, Cloud Productivity
+keywords: "компетенция, компетенции, облачная производительность"
 ms.openlocfilehash: b9616b455fae524af82ce0880b99bcdde5816fa7
 ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/07/2017
 ---
-# <a name="cloud-productivity-competency"></a>Cloud Productivity competency
+# <a name="cloud-productivity-competency"></a>Компетенция "Облачная производительность"
 
-The Cloud Productivity competency is for partners who specialize in enterprise deployments of Office 365. Differentiate your company with this competency as a proven cloud solution provider for customers searching for qualified cloud solution partners.
+Компетенция "Облачная производительность" предназначена для партнеров, специализирующихся в области корпоративного развертывания Office 365. Выделитесь на фоне конкурентов с помощью этой компетенции как надежный поставщик облачных решений для клиентов, ищущих квалифицированных партнеров по облачным решениям.
 
-## <a name="managed-service-partner-option"></a>Managed Service Partner option
-The Managed Service Partner option is ideal for partners who manage Office 365 environments for their customer as well as provide deployment services. Complete all the steps within the option to attain the Cloud Productivity competency.
-### <a name="silver"></a>Silver
-1.  Your organization must meet the performance thresholds:
+## <a name="managed-service-partner-option"></a>Курс "Партнер по управляемым службам"
+Курс "Партнер по управляемым службам" подходит для партнеров, которые осуществляют управление средами Office 365 своих клиентов, а также предоставляют услуги по развертыванию. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Облачная производительность".
+### <a name="silver"></a>Silver (Серебряный уровень)
+1.  Ваша организация должна соответствовать пороговым значениям производительности.
     - **Развитые рынки** 
         - Партнеры должны развернуть 2000 активных продуктов (активных пользователей)
     - **Развивающиеся рынки**
         -  Партнеры должны развернуть 1000 активных продуктов (активных пользователей)
     
-    - К развернутым рабочим нагрузкам может относиться любой экземпляр Microsoft Office 365 (Exchange Online, SharePoint Online, Skype для бизнеса или Yammer) или ProPlus. Trial SKUs are not included.     
+    - К развернутым рабочим нагрузкам может относиться любой экземпляр Microsoft Office 365 (Exchange Online, SharePoint Online, Skype для бизнеса или Yammer) или ProPlus. На пробные версии эти условия не распространяются.     
     - Примечание. Активные права рассчитываются на основе количества активных пользователей для определенной рабочей нагрузки 
     - С этими клиентами у вас должны быть установлены отношения в качестве Делегированного администратора Office 365 или Партнера по сделкам записи Office 365, или Цифрового партнера записи Office 365.
     - [Подробнее](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.
@@ -41,10 +41,10 @@ The Managed Service Partner option is ideal for partners who manage Office 365 e
 
 ### <a name="gold"></a>Gold (Золотой уровень)
 
-1.  Your organization must meet the performance thresholds. 
+1.  Ваша организация должна соответствовать пороговым значениям производительности. 
 
-    - Partners must have deployed 4,000 active entitlements (active users).
-    - The deployments can be any Microsoft Office 365 workload (Exchange Online, SharePoint Online, Skype for Business, or Yammer) or ProPlus. Trial SKUs are not included.
+    - Партнеры должны развернуть 4000 активных прав (активных пользователей).
+    - К развернутым рабочим нагрузкам может относиться любой экземпляр Microsoft Office 365 (Exchange Online, SharePoint Online, Skype для бизнеса или Yammer) или ProPlus. На пробные версии эти условия не распространяются.
     - Примечание. Активные права рассчитываются на основе количества активных пользователей для определенной рабочей нагрузки
     - С этими клиентами у вас должны быть установлены отношения в качестве Делегированного администратора Office 365 или Партнера по сделкам записи Office 365, или Цифрового партнера записи Office 365.
     - [Подробнее](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.

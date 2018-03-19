@@ -1,19 +1,19 @@
 ---
-title: Application Development Competency
-description: Enable faster software delivery and continuous improvement. Join our more than 60K application builder partners to differentiate your business and establish yourself as Microsoft Partner by attaining the Application Development competency.
+title: "Компетенция \"Разработка приложений\""
+description: "Обеспечьте ускоренное предоставление приложений и постоянное повышение эффективности. Присоединяйтесь к нашему сообществу, включающему в себя более 60тыс. партнеров по разработке приложений, чтобы выделиться на фоне конкурентов и стать официальным партнером Майкрософт, получив компетенцию \"Разработка приложений\"."
 author: Daniel Simpson
-keywords: competency,competencies,Cloud Business Applications, application development
+keywords: "компетенция, компетенции, облачные бизнес-приложения, разработка приложений"
 ms.openlocfilehash: 153a40815f99950fa379f9bf35e55151fb159c96
 ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/07/2017
 ---
-# <a name="application-development"></a>Application Development 
+# <a name="application-development"></a>Разработка приложений 
 
-Enable faster software delivery and continuous improvement. Join our more than 60K application builder partners to differentiate your business and establish yourself as Microsoft Partner by attaining the Application Development competency.
+Обеспечьте ускоренное предоставление приложений и постоянное повышение эффективности. Присоединяйтесь к нашему сообществу, включающему в себя более 60тыс. партнеров по разработке приложений, чтобы выделиться на фоне конкурентов и стать официальным партнером Майкрософт, получив компетенцию "Разработка приложений".
 
-## <a name="application-builder-option"></a>Application Builder option
+## <a name="application-builder-option"></a>Курс "Разработчик приложений"
 Курс "Разработчик приложений" подходит тем, кто хочет подтвердить свои навыки, пройдя экзамены или сертификации.  Чтоб получить компетенцию "Разработка приложений", пройдите экзамены по соответствующей области специализации.
 
 

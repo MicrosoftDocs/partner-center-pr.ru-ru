@@ -10,43 +10,43 @@ ms.lasthandoff: 07/07/2017
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>Управление программами поощрений в Центре партнеров 
 
-**Applies to**
+**Область применения**
 
--  Partner Center
+-  Центр партнеров
 
-## <a name="partner-incentives"></a>Partner Incentives 
+## <a name="partner-incentives"></a>Программы поощрений для партнеров 
 
-Whether you are doing business in the cloud, on-premises, or somewhere in between, Partner Incentives support your profitability and growth.
+Независимо от того, где вы ведете свой бизнес— в облаке, в физическом офисе или в сочетании этих сред— программы поощрений для партнеров обеспечивают прибыльность и развитие вашего бизнеса.
 
-## <a name="qualify-for-the-partner-incentives-program"></a>Qualify for the Partner Incentives program
+## <a name="qualify-for-the-partner-incentives-program"></a>Примите участие в программе поощрений для партнеров
 
-You're eligible for the CSP Incentives Program when you meet the following criteria:
+Вы имеете право принять участие в программе поощрений CSP, если соответствуете следующим критериям:
 
--   Have an active Microsoft Partner Network (MPN) agreement 
--   A valid Cloud Distributor agreement (indirect providers only)
--   A Reseller agreement (direct sellers only)
--   Meet the competency requirement
+-   У вас есть действующее соглашение Microsoft Partner Network (MPN) 
+-   У вас есть действующее дистрибьюторское соглашение Microsoft Cloud (только для косвенных поставщиков)
+-   У вас есть соглашение торгового посредника (только для прямых продавцов)
+-   Вы соответствуете требованиям к компетенции
 
-As soon as you become eligible, you will be invited to join the program.
+Как только вы будете отвечать всем требованиям, вам будет предложено присоединиться к программе.
 
-## <a name="one-site-one-sign-in"></a>One site, one sign in
+## <a name="one-site-one-sign-in"></a>Одно место, единый процесс входа
 
-Now that Partner incentives management is available in Partner Center, you can sign up for incentives, access your tax and payment profiles, access your earnings and payment statements, and manage users – all here in Partner Center. 
+Теперь, когда в Центре партнеров стала доступна возможность управления программами поощрений для партнеров, вы можете регистрироваться в программах поощрений, осуществлять доступ к налоговым профилям и профилям выплат, осуществлять доступ к вашей прибыли и платежным ведомостям, а также управлять пользователями— все это в Центре партнеров. 
 
-Beginning with already enrolled Partners, we are enabling partners to manage incentives in Partner Center in phases starting in July. Look out for an email from us letting you know that it is time to set up your organization for incentives in Partner Center. 
+Уже зарегистрированные партнеры в несколько этапов, начиная с Июля, получат возможность управлять программами поощрений в Центре партнеров. Вы получите от нас электронное письмо с уведомлением о том, что вы можете зарегистрировать свою организацию в программах поощрений в Центре партнеров. 
 
-Admins, if you have received the email, follow these three easy steps today:
+Если вы администратор и получили такое сообщение, выполните следующие три простых шага.
 
 1.  Войдите в Центр партнеров 
 2.  Следуя инструкциям в сообщении, настройте пользователей программы поощрений 
 3.  Предоставьте учетные данные для входа в Центр партнеров только что настроенным пользователям программы поощрений
 
-When the Incentive Admin has received credentials, they can complete the migration of your organization which will enable your organization to manage your incentives here – in Partner center.
+После получения администратором программы поощрений учетных данных он сможет выполнить перенос вашей организации, что позволит вам управлять поощрениями в Центре партнеров.
 
 
-[Create user accounts and assign permissions](create-user-accounts-and-set-permissions.md)
+[Создание учетных записей пользователей и назначение разрешений](create-user-accounts-and-set-permissions.md)
 
-[Reset a user password](reset-a-user-password.md)
+[Сброс пароля пользователя](reset-a-user-password.md)
 
-[Understand your Incentive payouts](understand-incentive-payouts.md)
+[Обзор выплат по программам поощрений](understand-incentive-payouts.md)
 

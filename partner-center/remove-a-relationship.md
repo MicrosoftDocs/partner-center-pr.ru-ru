@@ -1,6 +1,6 @@
 ---
 title: "Удаление связи торгового посредника с клиентом | Центр партнеров"
-description: Removing a relationship removes any closed business relationships from your view in Partner Center.
+description: "Удаление связи приводит к удалению связей закрытого предприятия из представления в Центре партнеров."
 author: KPacquer
 ms.openlocfilehash: e178318e50b6a2b3bb7a6d7ecf7ec83f6d93b7c3
 ms.sourcegitcommit: 955622c85ff0905647974fc598139579191b55da
@@ -10,9 +10,9 @@ ms.lasthandoff: 07/19/2017
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Удаление связи торгового посредника с клиентом
 
-**Applies to**
+**Область применения**
 
--   Partner Center
+-   Центр партнеров
 
 Прямые партнеры: если вы больше не взаимодействуете клиентом, вы можете удалить связь с ним в Центре партнеров. 
 
@@ -24,12 +24,12 @@ ms.lasthandoff: 07/19/2017
 
 Чтобы удалить связь, вам потребуется сначала приостановить все оставшиеся активные подписки.
 
-1.  Приостановите все активные подписки. From the Dashboard, go to **Customers** > select a customer > **Subscriptions** > select a subscription > **Suspended**. 
+1.  Приостановите все активные подписки. На панели мониторинга выберите **Клиенты** > выберите клиента > **Подписки** > выберите подписку > **Приостановить**. 
 
-   Repeat this for each active subscription.
+   Повторите эти действия для каждой активной подписки.
 
-2.  Remove the relationship in Partner Center: From the Dashboard, go to **Customers** > select a customer > **Account** > **Remove reseller relationship**.
+2.  Удалите связь в Центре партнеров: на панели мониторинга выберите **Клиенты** > выберите клиента > **Учетная запись** > **Удалить связь с торговым посредником**.
 
-    Note, if any subscriptions are still active, the **Remove reseller relationship** link will be inactive. 
+    Обратите внимание, что если какая-либо из подписок будет по-прежнему активной, ссылка **Удалить связь с торговым посредником** будет неактивной. 
 
-To re-establish the relationship, repeat the process of [requesting a relationship](request-a-relationship-with-a-customer.md).
+Чтобы повторно установить связь, повторите процесс [запроса связи](request-a-relationship-with-a-customer.md).

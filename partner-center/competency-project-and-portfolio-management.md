@@ -1,21 +1,21 @@
 ---
-title: Project and Portfolio Management Competency
-description: The Project and Portfolio Management competency recognizes partners who demonstrate the ability to deliver enterprise project management solutions to customers.
+title: "Компетенция \"Управление проектами и портфелями\""
+description: "Компетенция \"Управление проектами и портфелями\" демонстрирует возможность партнеров предоставлять клиентам решения для управления корпоративными проектами."
 author: Daniel Simpson
-keywords: competency, competencies
+keywords: "компетенция, компетенции"
 ms.openlocfilehash: 489825fd6d16c8fa275fdc89691bb9f5ebb4f83b
 ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/07/2017
 ---
-# <a name="project-and-portfolio-management"></a>Project and Portfolio Management 
-The Project and Portfolio Management competency recognizes partners who demonstrate the ability to deliver enterprise project management solutions to customers.
+# <a name="project-and-portfolio-management"></a>Управление проектами и портфелями 
+Компетенция "Управление проектами и портфелями" демонстрирует возможность партнеров предоставлять клиентам решения для управления корпоративными проектами.
 
-## <a name="project-and-portfolio-partner-option"></a>Project and Portfolio Partner option
-The Project and Portfolio Partner Option is ideal for partners that deliver enterprise-wide project and portfolio management in both on-premises and cloud environments. Complete all the steps within the option to attain the Project and Portfolio Management competency.
+## <a name="project-and-portfolio-partner-option"></a>Курс "Партнер по проектам и портфелям"
+Курс "Партнер по проектам и портфелям" подходит для партнеров, которые предоставляют решения для управления корпоративными проектами и портфелями как в локальной, так и в облачной средах. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Управление проектами и портфелями".
 
-###<a name="silver"></a>Silver
+###<a name="silver"></a>Silver (Серебряный уровень)
 1. **2** сотрудника вашей организации должны удовлетворять требованиям, предъявляемым к прохождению экзаменов.
 
     - Каждый из **2** сотрудников должен пройти все следующие экзамены:
@@ -23,7 +23,7 @@ The Project and Portfolio Partner Option is ideal for partners that deliver ente
         * [Экзамен 74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): управление проектами с помощью Microsoft Project
         * [Экзамен 70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): управление проектами и портфелями с помощью Microsoft PPM
 
-###<a name="gold"></a>Gold
+###<a name="gold"></a>Gold (Золотой уровень)
 1. **4** сотрудника вашей организации должны удовлетворять требованиям, предъявляемым к прохождению экзаменов.
 
     - Каждый из **4** сотрудников должен пройти все следующие экзамены:
@@ -31,7 +31,7 @@ The Project and Portfolio Partner Option is ideal for partners that deliver ente
         * [Экзамен 74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): управление проектами с помощью Microsoft Project
         * [Экзамен 70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): управление проектами и портфелями с помощью Microsoft PPM
 
-    **AND** 
+    **И** 
 
     - Каждые **2** сотрудника из тех же **4** сотрудников должны пройти следующий экзамен:
 

@@ -1,6 +1,6 @@
 ---
-title: Migrate Dynamics AX subscriptions to Dynamics 365 | Partner Center
-description: Microsoft introduces Dynamics 365, the next generation of intelligent business applications that enable your organization to grow, evolve and transform to meet the needs of your customers and capture new opportunities.
+title: "Перенос подписок Dynamics AX в Dynamics 365 | Центр партнеров"
+description: "Майкрософт представляет Dynamics 365, новое поколение интеллектуальных бизнес-приложений, которые позволят вашей организации расти, развиваться и преобразовываться, чтобы удовлетворять потребности клиентов и открывать новые возможности."
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 ms.openlocfilehash: 39f254488dab4335a24a5a36fc593d2e281adbf8
@@ -9,15 +9,15 @@ ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/24/2017
 ---
-# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrate Dynamics AX subscriptions to Dynamics 365
+# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Перенос подписок Dynamics AX в Dynamics 365
 
-**Applies to**
+**Относится к:**
 
--  Partner Center
+-  Центр партнеров
 
-Microsoft introduces Dynamics 365, the next generation of intelligent business applications that enable your organization to grow, evolve and transform to meet the needs of your customers and capture new opportunities. В составе нового продукта Майкрософт представляет клиентам новые планы подписки Microsoft Dynamics с 1 ноября 2016 года. Они во многом похожи на текущие планы.
+Майкрософт представляет Dynamics 365, новое поколение интеллектуальных бизнес-приложений, которые позволят вашей организации расти, развиваться и преобразовываться, чтобы удовлетворять потребности клиентов и открывать новые возможности. В составе нового продукта Майкрософт представляет клиентам новые планы подписки Microsoft Dynamics с 1 ноября 2016 года. Они во многом похожи на текущие планы.
 
-В этом документе содержатся инструкции для косвенных поставщиков по переключению существующих подписок клиентов Microsoft Dynamics AX на новое решение Microsoft Dynamics 365. The instructions also apply to other Microsoft products that update to new versions, requiring providers to migrate customers’ subscriptions to a new SKU.
+В этом документе содержатся инструкции для косвенных поставщиков по переключению существующих подписок клиентов Microsoft Dynamics AX на новое решение Microsoft Dynamics 365. Эти инструкции также применимы к другим продуктам Майкрософт при их обновлении до новых версий, для чего поставщикам потребуется перенести подписки клиентов на новый номер SKU.
 
 Планы Microsoft Dynamics CRM Online и AX перестают действовать.  С 1 июля 2017 г. вы больше не сможете обновить устаревшие планы. Кроме того, существующие подписки E4 не будут продлеваться автоматически после истечения срока действия.
 
@@ -62,10 +62,10 @@ Microsoft introduces Dynamics 365, the next generation of intelligent business a
 ## <a name="transition-customers-to-new-product-plans"></a>Перевод клиентов на новые планы продуктов
 
 
-Microsoft continuously offers new products and services to resellers and providers. In these cases, a reseller may need to upgrade customers to new services or migrate their subscriptions from SKUs that will eventually be shut down. Migrating customers from old SKUs to newer ones requires the following sequence:
+Майкрософт регулярно предоставляет торговым посредникам и поставщикам новые решения. В подобных случаях торговому посреднику может потребоваться обновить клиентов до новых служб или перенести их подписки с номеров SKU, которые в конечном итоге будут сняты с учета. Для переноса клиентов со старых номеров SKU на новые требуется последовательно сделать следующее:
 
--   [Purchase the new subscription](#manual-subscription-migration-purchasenewsubsc);
--   [Re-assign current user licenses](#manual-subscription-migration-reassignlicenses);
+-   [Приобрести новую подписку](#manual-subscription-migration-purchasenewsubsc);
+-   [Переназначить текущие пользовательские лицензии](#manual-subscription-migration-reassignlicenses);
 -   [Отменить старую подписку](#manual-subscription-migration-cancelsubscriptions).
 
 С помощью следующих процедур клиент перемещается из Microsoft Dynamics AX или CRM Online в Dynamics 365.
@@ -76,40 +76,40 @@ Microsoft continuously offers new products and services to resellers and provide
 
 **Приобретение новой подписки**
 
-1.  From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and choose **Add Subscriptions**.
-2.  Select the subscription you want to purchase from the catalog (in this case, Dynamics 365 for Operations, Enterprise Edition), enter the number of licenses, and choose **Submit**.
+1.  В меню **Информационная панель** выберите **Клиенты**, выберите клиента, которого требуется переместить, а затем нажмите **Добавить подписки**.
+2.  Выберите из каталога подписку, которую требуется приобрести (в данном случае — Dynamics 365 for Operations, Enterprise Edition), введите количество лицензий и нажмите **Отправить**.
 
-    Your customer should now have both old and new subscriptions: in this example, the old Dynamics AX Enterprise, and the new ‘target’ subscription, Dynamics 365 for Operations, Enterprise Edition.
+    Теперь у клиента должны быть как старая, так и новая подписки. В этом примере— старая подписка Dynamics AX Enterprise и новая "целевая" подписка Dynamics 365 for Operations, Enterprise Edition.
 
-<a href="" id="reassignlicenses"></a> The next step is to reassign all existing user licenses to the new subscription.
+<a href="" id="reassignlicenses"></a> Далее необходимо переназначить все существующие пользовательские лицензии на новую подписку.
 
-**Reassign user licenses**
+**Переназначение пользовательских лицензий**
 
-1.  From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and choose **Users and licenses**. The customer’s Users and Licenses page opens.
-2.  To re-assign user licenses, select the user to reassign and then select **Manage licenses**.
-3.  On the **Manage licenses** page, clear the **Dynamics AX Enterprise** license check box and select the **Dynamics 365 for Operations** license.
-4.  Select **Submit**. A confirmation page lists the new license assignments.
-5.  Continue the same steps with any other customer users that need license reassignment.
+1.  В меню **Информационная панель** выберите **Клиенты**, выберите клиента, которого требуется переместить, и нажмите **Пользователи и лицензии**. Откроется страница "Пользователи и лицензии" клиента.
+2.  Чтобы переназначить пользовательские лицензии, выберите пользователя, которого требуется переназначить, а затем нажмите **Управление лицензиями**.
+3.  На странице **Управление лицензиями** снимите флажок лицензии **Dynamics AX Enterprise** и выберите лицензию **Dynamics 365 for Operations**.
+4.  Выберите **Отправить**. На странице подтверждения указаны новые назначения лицензий.
+5.  Выполните эти же действия для всех остальных пользователей клиента, которым требуется переназначить лицензии.
 
-<a href="" id="cancelsubscriptions"></a> After moving the user licenses to the new service, you can safely cancel the old subscription at the top Customer level.
+<a href="" id="cancelsubscriptions"></a> После перемещения пользовательский лицензий в новую службу вы можете отменить старую подписку на верхнем уровне клиента.
 
-**Cancel the old subscription**
+**Отмена старой подписки**
 
-1.  From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and select the subscription you want to cancel.
-2.  In the subscription details page, set the subscription **Status** to **Suspended**.
-3.  Select **Submit**.
+1.  В меню **Информационная панель** выберите **Клиенты**, выберите клиента, которого требуется переместить, а затем выберите подписку, которую требуется отменить.
+2.  На странице с подробными сведениями о подписке установите параметру **Состояние** подписки значение **Приостановлено**.
+3.  Выберите **Отправить**.
 
-The old subscription is suspended, and the new subscription is active. The suspended subscription will automatically be de-provisioned after 120 days. The customer incurs no additional costs for the old subscription.
+Старая подписка приостанавливается, а новая — активируется. Приостановленная подписка будет автоматически отозвана через 120 дней. Клиент не несет дополнительных затрат на старую подписку.
 
-## <a name="additional-considerations"></a>Additional considerations
+## <a name="additional-considerations"></a>Дополнительные рекомендации
 
 
-If your customer is moving from the Open Channel to the Cloud Services Program for further subscription provisioning, you will also need to migrate their existing subscriptions:
+Если ваш клиент переходит из программы канала Open в программу облачных служб для дальнейшей подготовки подписок, вам также потребуется перенести существующие подписки этого клиента:
 
--   If the customer received their old subscription through the Open Channel, moving to the CSP on the new SKU is straightforward.
--   If the customer is not yet established as your customer, you can invite them. For information, see the [Request a relationship with a customer](https://msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx) help topic.
+-   Если клиент получил старую подписку через канал Open, процесс перехода в CSP на новый номер SKU прост.
+-   Если клиент еще не является вашим, вы можете пригласить его. Подробнее см. в разделе справки [Запрос связи с клиентом](https://msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx).
 
-After the customer accepts you as their indirect provider, the provisioning steps are mostly the same as described above: you purchase the new subscription, and then assign the user licenses. The only difference involves cancellation of old subscription(s). A new provider cannot cancel suspend/cancel subscriptions acquired via other channels. If the customer acquired prior subscriptions in another sales channel, such as the Open channel, the customer will need to cancel it themselves through that channel.
+После того как клиент примет вас в качестве своего косвенного поставщика, дальнейшие шаги подготовки практически идентичны описанным выше: приобретите новую подписку и назначьте пользовательские лицензии. Единственное различие связано с отменой старых подписок. Новый поставщик не может отменить приостановку или отменить подписки, полученные через другие каналы. Если клиент получил прежние подписки через другой канал продаж, например канал Open, клиенту придется отменить подписки самостоятельно через этот канал.
 
  
 

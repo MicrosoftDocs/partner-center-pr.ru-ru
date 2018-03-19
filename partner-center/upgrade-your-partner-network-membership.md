@@ -1,6 +1,6 @@
 ---
-title: Upgrade your Microsoft Partner Network membership | Partner Center
-description: When you upgrade your Microsoft Partner Network membership, you're eligible for exclusive membership benefits. Learn how to find and purchase available offers.
+title: "Обновить членство Microsoft Partner Network | Центр партнеров"
+description: "При обновлении членства Microsoft Partner Network вы имеете право на преимущества эксклюзивного членства. Узнайте, как найти и приобрести доступные предложения."
 author: MaggiePucciEvans
 robots: noindex,nofollow
 ms.openlocfilehash: 9503ce2188adf77122a1eb48efe748abddaabcb6
@@ -9,42 +9,42 @@ ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/08/2017
 ---
-# <a name="upgrade-your-microsoft-partner-network-membership"></a>Upgrade your Microsoft Partner Network membership
+# <a name="upgrade-your-microsoft-partner-network-membership"></a>Обновить членство Microsoft Partner Network
 
-**Applies to**
+**Область применения**
 
--  Partner Center
+-  Центр партнеров
 
-Microsoft’s partner program offers the following three membership options, with incremental benefits to help you achieve your business goals.
+Партнерская программа Майкрософт предлагает следующие три варианта членства с добавочными преимуществами, которые помогут вам добиться поставленных бизнес-целей.
 
-- **Network membership.** The core membership level, offering entry-level benefits for training, support, and customer connections. You must be a network member to upgrade your membership.
+- **Членство в сети.** Основной уровень членства, предлагающий преимущества начального уровня для обучения, поддержки и подключений клиентов. Вы должны быть членом сети, чтобы обновить свое членство.
 
-- **Microsoft Action Pack subscription membership.** An affordable annual subscription, serving small and mid-sized partner companies. Includes the entry-level benefits that come with basic network membership plus allocations of internal-use rights service subscriptions, software licenses, and support.
+- **Членство в подписке на пакет Microsoft Action Pack.** Доступная годовая подписка, обслуживающая партнерские компании малого и среднего размера. Включает преимущества начального уровня, которые поставляются с базовым членством в сети, плюс выделение подписок на службы с правами на внутреннее использование, лицензии на программное обеспечение и поддержку.
 
-- **Microsoft competencies.** An earned designation showcasing your company’s capabilities. Includes entry-level benefits, additional internal-use rights, eligibility for partner incentives, and additional support and advisory hours.
+- **Компетенции Microsoft.** Заработанное обозначение, демонстрирующие возможности вашей компании. Включает преимущества начального уровня, дополнительные права на внутреннее использование, права на поощрения для партнеров, а также дополнительную поддержку и часы консультаций.
 
-  - Silver competency – consistent capability, expertise, and commitment
+  - Компетенция уровня Silver — согласованные возможности, опыт и обязательства
 
-  - Gold competency – best-in-class capability within a specific Microsoft solution area
+  - Компетенция уровня Gold — лучшие в классе возможности в конкретной области решений Майкрософт
 
-After you join the Microsoft Partner Network, you’re eligible to upgrade your membership and purchase exclusive membership benefit offers. Дополнительные сведения о членстве в Microsoft Partner Network см. на странице [https://partner.microsoft.com](https://partner.microsoft.com).
+После присоединения к Microsoft Partner Network вы получите право обновить членство и купить предложения преимуществ эксклюзивного членства. Дополнительные сведения о членстве в Microsoft Partner Network см. на странице [https://partner.microsoft.com](https://partner.microsoft.com).
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Приобретение подписки на Microsoft Action Pack
 
-Action Pack is an affordable yearly subscription to services, software, and support for businesses that want to grow their Microsoft practice in the cloud-first, mobile-first world. Subscribe to Action Pack to:
+Пакет уведомлений — это доступная ежегодная подписка на службы, программное обеспечение и поддержка для организаций, которые хотят увеличить свою практику Microsoft в мире с преобладанием мобильных и облачных технологий. Подпишитесь на Action Pack, чтобы получить следующие возможности.
 
-- Use world-class developer tools to create applications and solutions for your customers on iOS, Android, Linux, and Windows 
+- Использование средств разработчика мирового класса для создания приложений и решений для клиентов на iOS, Android, Linux и Windows 
 
-- Get ten Windows 10 Enterprise (upgrade) licenses, three Visual Studio Professional licenses, and a no-cost Visual Studio Team Services account 
+- Десять лицензий (на обновление) Windows 10 Корпоративная, три лицензии Visual Studio Professional и бесплатная учетная запись Visual Studio Team Services 
 
-- Get up to ten Office 365 (E3) seats, plus five seats of Enterprise Mobility Suite and Microsoft Dynamics CRM Online Professional
+- До десяти мест Office 365 (E3), а также пять мест Enterprise Mobility Suite и Microsoft Dynamics CRM Online Professional
 
-- Receive US$100 of Microsoft Azure credits every month
+- Получайте каждый месяц кредиты Microsoft Azure в размере 100 долларов США
 
 Дополнительные сведения о Microsoft Action Pack см. на странице [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
->**Примечание** Переход по этой ссылке переместит вас на другой веб-сайт. Return to this site, Partner Center, to subscribe to Action Pack.
+>**Примечание** Переход по этой ссылке переместит вас на другой веб-сайт. Вернитесь на этот сайт Центра партнеров, чтобы подписаться на Action Pack.
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Подпишитесь на Microsoft Action Pack
@@ -59,13 +59,13 @@ Action Pack is an affordable yearly subscription to services, software, and supp
 
 5. Введите сведения об оплате, а затем выберите **Далее**.
 
-6. Просмотрите сведения о заказе, а затем выберите **Купить**, когда будете готовы приобрести пакет Action Pack. Your credit card will be charged immediately.
+6. Просмотрите сведения о заказе, а затем выберите **Купить**, когда будете готовы приобрести пакет Action Pack. Оплата сразу же будет произведена с вашей кредитной карты.
 
-7. Your order is confirmed. Нажмите **Закрыть**.
+7. Ваш заказ подтвержден. Нажмите **Закрыть**.
 
-Your Action Pack subscription will renew automatically each year on this date. You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again. 
+Ваша подписка на пакет Action Pack будет продлеваться автоматически каждый год в этот день. Можно отключить автоматическое продление в любое время в списке приобретенных предложений. Однако вы не сможете включить автоматическое продление подписки, пока не продлите свою подписку еще раз. 
 
-### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Turn off automatic Action Pack subscription renewal
+### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Отключение автоматического продления подписки на Action Pack
 
 1. В меню **Панель мониторинга** выберите пункт **Партнерство > Предложения**. Пакет Microsoft Action Pack находится в списке **Купленные предложения**.
 
@@ -73,11 +73,11 @@ Your Action Pack subscription will renew automatically each year on this date. Y
 
 3. Выберите **Отключить автоматическое продление**, если вы не хотите, чтобы подписка на Action Pack автоматически продлевалась каждый год. 
 
-    >**Note**<br>
-If you turn off automatic subscription renewal, you won’t be able to turn it back on until you renew the subscription again. We’ll remind you to renew before your subscription expires.
+    >**Примечание**<br>
+Если отключить автоматическое продление подписки, вы не сможете снова включить эту функцию, пока заново не обновите подписку. Мы уведомим вас про необходимость обновления до истечения срока действия подписки.
 
 
-### <a name="renew-your-action-pack-subscription"></a>Renew your Action Pack subscription
+### <a name="renew-your-action-pack-subscription"></a>Продление подписки на Action Pack
 
 1. В меню **Панель мониторинга** выберите пункт **Партнерство > Предложения**. Пакет Microsoft Action Pack находится в списке **Купленные предложения**.
 
@@ -93,34 +93,34 @@ If you turn off automatic subscription renewal, you won’t be able to turn it b
 
 7. Введите сведения об оплате, а затем выберите **Далее**.
 
-8. Просмотрите сведения о заказе, а затем выберите **Купить**, когда будете готовы приобрести пакет Action Pack. Your credit card will be charged immediately.
+8. Просмотрите сведения о заказе, а затем выберите **Купить**, когда будете готовы приобрести пакет Action Pack. Оплата сразу же будет произведена с вашей кредитной карты.
 
-9. Your order is confirmed. Нажмите **Закрыть**.
+9. Ваш заказ подтвержден. Нажмите **Закрыть**.
 
-    Your Action Pack subscription will renew automatically each year on this date. You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again. 
+    Ваша подписка на пакет Action Pack будет продлеваться автоматически каждый год в этот день. Можно отключить автоматическое продление в любое время в списке приобретенных предложений. Однако вы не сможете включить автоматическое продление подписки, пока не продлите свою подписку еще раз. 
 
 
-### <a name="cancel-your-action-pack-subscription"></a>Cancel your Action Pack subscription
+### <a name="cancel-your-action-pack-subscription"></a>Отмена подписки на Action Pack
 
-To cancel your Microsoft Action Pack subscription, you must contact Partner Center Support.
+Чтобы отменить подписку на Microsoft Action Pack, вы должны обратиться в службу поддержки Центра партнеров.
 
-1. Go to https://partnercenter.microsoft.com/partner/support.
+1. Перейдите на веб-страницу https://partnercenter.microsoft.com/ru-ru/partner/support.
 
 2. Выберите **Сообщить о проблемах с Центром партнеров**, а затем выберите **Новый запрос** на следующей странице.
 
 3. Разверните список **Тип проблемы** и выберите **Помощь с партнерским счетом, оплатой или файлом выверки**. 
 
-4. Введите необходимую информацию, а затем нажмите кнопку **Отправить**. The Partner Center Support team will contact you to help you cancel your subscription.
+4. Введите необходимую информацию, а затем нажмите кнопку **Отправить**. Служба поддержки Центра партнеров свяжется с вами, чтобы помочь отменить подписку.
 
-    Чтобы проверить состояние своего запроса на обслуживание, выберите **Запросы на обслуживание > Запросы Центра партнеров** и нажмите кнопку **Открыть**. Choose the appropriate service request from the list.  
+    Чтобы проверить состояние своего запроса на обслуживание, выберите **Запросы на обслуживание > Запросы Центра партнеров** и нажмите кнопку **Открыть**. Выберите в списке соответствующий запрос на обслуживание.  
 
  
-### <a name="next-steps"></a>Next steps
+### <a name="next-steps"></a>Следующие шаги
 
-[Activate your Action Pack subscription](manage-your-partner-network-benefits.md)
+[Активация подписки на Action Pack](manage-your-partner-network-benefits.md)
 
 
-### <a name="related-topics"></a>Related topics
+### <a name="related-topics"></a>Еще по теме:
 
 [Добавление пользователей и назначение им разрешений](create-user-accounts-and-set-permissions.md)
 
