@@ -3,11 +3,11 @@ title: Продажи представителям определенных от
 Description: Microsoft provides special, reduced pricing for select groups of customers, such as for education, non-profit, and government uses, or for very large customer sets.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
-ms.openlocfilehash: 02eb734789fa27e08c5e2a42cc0f5b57428f7c06
-ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
+ms.openlocfilehash: ba11aba6b0d687a8e8fd9680595004769a75ad01
+ms.sourcegitcommit: 83e71b6146e66689cc833090836cf9f4e47341ab
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2018
+ms.lasthandoff: 04/04/2018
 ---
 # <a name="sell-to-specialized-industries"></a>Продажи представителям определенных отраслей
 
@@ -20,9 +20,9 @@ ms.lasthandoff: 03/09/2018
 |**Специальные цены**   |**Требования к торговому посреднику**   |**Требования к клиенту**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Для образовательных учреждений   |Стать [авторизованным продавцом для образовательных учреждений](https://www.mepn.com/MEPN/AEPHome.aspx)   | Должен быть [квалифицированным пользователем для образовательных целей](https://www.microsoft.com/Licensing/licensing-programs/licensing-for-industries.aspx#tab=2)   |
-|Правительство   |Регистрация с использованием [формы проверки Microsoft Government Cloud](http://azuregov.microsoft.com/csp)|   нет|
-|Некоммерческая деятельность  |Нет   |Регистрация через [программу Microsoft для некоммерческих организаций](https://nonprofit.microsoft.com/#/register), чтобы получить право   |
-
+|Правительство   |Чтобы начать продавать подписки на Azure, зарегистрируйтесь с использованием [формы проверки Microsoft Government Cloud](http://azuregov.microsoft.com/csp). Чтобы продавать подписки на основе лицензии для государственных организаций, выполнение определенных требований не требуется.|   нет|
+|Некоммерческая деятельность  |Нет   |Зарегистрируйтесь через [программу Microsoft для некоммерческих организаций](https://nonprofit.microsoft.com/#/register), чтобы получить право   |
+Дополнительные сведения о [некоммерческих специальных предложениях](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf)
 
 **Просмотр требований к торговому посреднику**
 

@@ -1,13 +1,13 @@
 ---
-title: "Анализ эффективности бизнес-профиля | Центр партнеров"
-description: "Оценивайте, согласовывайте и отвечайте на рекомендации через Центр партнеров."
+title: Анализ эффективности бизнес-профиля | Центр партнеров
+description: Оценивайте, согласовывайте и отвечайте на рекомендации через Центр партнеров.
 author: KPacquer
 robots: noindex,nofollow
-ms.openlocfilehash: 508d1ec16a1b58a9bf98dd5bfba013d2d3e04c57
-ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
+ms.openlocfilehash: 15050124e65f7740a4f76eb075ad7701ed918154
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/01/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>Анализ эффективности бизнес-профиля
 <!-- 

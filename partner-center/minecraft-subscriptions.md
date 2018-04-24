@@ -3,11 +3,11 @@ title: 'Продажа подписок на Minecraft: Education Edition кли
 description: 'Продажа подписок на Minecraft: Education Edition клиентам из образовательной сферы'
 author: KPacquer
 keywords: Авторизованные партнеры в сфере образования
-ms.openlocfilehash: 7404c2d98f8463ab3d1182216de2ada956bc6079
-ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
+ms.openlocfilehash: 276e5365eec99468becf9522284c6048f3750011
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/21/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Продажа подписок на Minecraft: Education Edition клиентам из образовательной сферы
 
@@ -36,7 +36,7 @@ ms.lasthandoff: 02/21/2018
 
 **Просмотр требований к торговому посреднику**
 
-1.  В меню **Информационная панель** выберите пункт **Параметры учетной записи**.
+1.  В верхней правой части **Информационной панели** выберите **Параметры**, а затем выберите **Просмотреть все параметры**.
 2.  В разделе **Сведения о программе CSP****Профиля партнера** найдите пункт **Требования к торговому посреднику**.
 3.  Если **Требования к торговому посреднику** не отображаются, вам еще не разрешено приобретать специальные предложения.
 
