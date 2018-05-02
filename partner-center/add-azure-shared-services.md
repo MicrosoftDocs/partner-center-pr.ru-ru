@@ -1,8 +1,8 @@
 ---
-title: "Добавление служб Azure Partner Shared Services | Центр партнеров"
-description: "Теперь партнеры CSP могут приобретать подписки Azure для внутреннего использования."
+title: Добавление служб Azure Partner Shared Services | Центр партнеров
+description: Теперь партнеры CSP могут приобретать подписки Azure для внутреннего использования.
 author: labrenne
-Keywords: "Azure, общие службы, клиент"
+Keywords: Azure, общие службы, клиент
 ms.openlocfilehash: 859e4a1b08e26f2370493ad611a6126b74aeaf64
 ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
