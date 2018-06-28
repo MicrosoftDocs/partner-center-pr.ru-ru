@@ -4,6 +4,7 @@
 ## [Получить пакет Microsoft Action Pack](mpn-get-action-pack.md)
 ## [Получить членство уровня Silver или Gold](learn-about-competencies.md)
 ## [Получить преимущества членства](manage-your-partner-network-benefits.md)
+## [Продление предложений MPN](renew-mpn-offers.md)
 
 
 # [Поставщик облачных решений](csp-overview.md)

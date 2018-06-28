@@ -3,11 +3,12 @@ title: Обзор резервирования виртуальных машин
 Description: Overview of selling Microsoft Azure Reserved VM Instances in CSP.
 author: v-petand
 keywords: azure, резервирования, виртуальная машина, управление, выставление счетов, приобретение, Azure RI, Azure Reserved VM Instances
-ms.openlocfilehash: 9fac5749fda6106772d8fed28a320432206d528c
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
+ms.openlocfilehash: 65306d265c88769c83a948a192bc96b2a0a76294
+ms.sourcegitcommit: 052c3a98216ad30a27fcd813de740fb54e8d8da7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/11/2018
+ms.lasthandoff: 06/05/2018
+ms.locfileid: "1978571"
 ---
 # <a name="sell-microsoft-azure-reserved-vm-instances"></a>Продажа Microsoft Azure Reserved VM Instances 
 
@@ -25,6 +26,15 @@ ms.lasthandoff: 05/11/2018
 -   Управление использованием зарезервированных экземпляров на уровне организации или отдельного подразделения 
 
 Дополнительные сведения об Azure Reserved VM Instances см. в разделе [Предложение Azure Reserved VM Instances](https://azure.microsoft.com/pricing/reserved-vm-instances/) на веб-сайте Microsoft Azure и в статье [Azure Reserved VM Instances и серверные подписки: вместе эффективнее](https://blogs.partner.microsoft.com/mpn/better-together-azure-reserved-instances-server-subscriptions/).
+
+> [!NOTE]  
+> Служба Azure Reserved VM Instances не доступна в следующих странах:  
+> * Бразилия  
+> * Китай  
+> * Индия  
+> * Россия  
+> * Республика Корея  
+> * Тайвань  
 
 Azure Reserved VM Instances предоставляет клиентам следующие преимущества:
 
