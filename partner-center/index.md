@@ -1,74 +1,179 @@
 ---
-title: Добро пожаловать в Центр партнеров Майкрософт
-description: Центр партнеров Майкрософт
-author: labrenne
-ms.openlocfilehash: e1161f019d6cdd5ef5d72e3006f029c60f0f7413
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+layout: LandingPage
+hide_bc: true
+title: Справка по использованию Панели мониторинга Центра партнеров
+description: Получите справку по настройке учетной записи, взаимодействию с клиентами и покупке подписки Action Pack. Найдите ответы в библиотеке справочных материалов Панели мониторинга Центра партнеров.
+author: v-chmccl
+ms.topic: landing-page
+searchScope: []
+ms.openlocfilehash: 731362ac654cf8ea3d70985316a881ce81cac5d9
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1919904"
 ---
-# <a name="welcome-to-your-partner-dashboard"></a>Добро пожаловать на информационную панель Центра партнеров
+# <a name="start-here-for-help-with-partner-center-dashboard"></a>Справка по использованию Панели мониторинга Центра партнеров
 
-Информационная панель Центра партнеров Майкрософт, то есть этот сайт, — это инструмент для коммерческих партнеров корпорации Майкрософт, который они используют для создания, управления и развития своего бизнеса. (Обратите внимание, что не все описанные на этой странице аспекты действительны для каждого партнера. Некоторые возможности вводятся в действие поэтапно.)
+Получите справку по настройке учетной записи, взаимодействию с клиентами и покупке подписки Action Pack. Найдите ответы в библиотеке справочных материалов Панели мониторинга Центра партнеров.
 
-## <a name="create-a-partner-dashboard-account-to"></a>Создайте учетную запись информационной панели Центра партнеров, чтобы выполнять следующие действия:
+Если вы уже знакомы с панелью мониторинга, см. раздел [Новые возможности](/partner-center/whats-new-in-pc).
 
--   Управлять партнерством с корпорацией Майкрософт
-    -   Приобрести Microsoft Action Pack и другие преимущества членства для внутреннего пользования 
-    -   Расширить компетентность вашей компании в отношении продуктов и служб корпорации Майкрософт
-    -   Качество для получения членства со статусом Gold и Silver
+<ul id="products1" class="cardsC cols cols3 panelContent singlePanelContent">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Регистрация</h3>
+                        <p><a href="/partner-center/mpn-create-a-partner-center-account">Создание учетной записи</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Управление клиентом и расположениями</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Связь с клиентами</h3>
+                        <p><a href="/partner-center/customer-accounts">Учетные записи клиентов</a><br /><a href="/partner-center/customer-subscriptions">Продажа подписок</a><br /><a href="/partner-center/assign-licenses-to-users">Управление лицензиями</a><br /><a href="/partner-center/billing">Выставление счетов</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Развивайте ваш бизнес</h3>
+                        <p><a href="/partner-center/referrals">Бизнес-профили/партнеры</a><br /><a href="/partner-center/promotions">Рекламные акции</a><br /><a href="/partner-center/get-special-pricing-for-offers">Продажи представителям определенных отраслей</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
 
--   Добавлять сотрудников в учетную запись и назначение им соответствующего уровня доступа
+<ul id="products2" class="cardsF cols cols3 panelContent singlePanelContent">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img alt="" src="https://docs.microsoft.com/media/common/i_portal.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">Ознакомьтесь с Панелью мониторинга Центра партнеров</a> (необходимо выполнить вход)</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img alt="" src="https://docs.microsoft.com/media/common/i_vmm-cloud.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Новое! <a href="/partner-center/azure-ri-server-subscriptions">Продажи резервирований Azure через CSP</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img alt="" src="https://docs.microsoft.com/media/common/i_form.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="/partner-center/">Просмотр и поиск всех справочных статей</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3><a href="/partner-center/mpn-get-action-pack">Получить Microsoft Action Pack (MAPS)</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3><a href="/partner-center/partner-center-account-setup">Управление учетной записью</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3><a href="https://partnercenter.microsoft.com/pcv/announcements">Объявления</a> (необходимо выполнить вход)</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
+<hr />
 
--   Получать заинтересованных потенциальных клиентов от корпорации Майкрософт 
-    -   Показать предложения вашей компании тысячам потенциальных клиентов
-    -   Вести сделки с момента первого контакта до подписания договора 
-
--   Вступить в программу поставщиков облачных решений
-    -   Продавать подписки на облачные службы и решения Майкрософт и управлять ими       
-    -   Находить клиентов и общаться с ними
-    -   Непрямые поставщики могут находить торговых посредников и вести работу с ними    
-    -   Осуществлять продажи клиентам в частных выделенных национальных облаках Майкрософт 
-    -   Обрабатывать счета от корпорации Майкрософт и платежи в ее адрес
-    -   Согласовывать счета, чтобы определить суммы, выставляемые клиентам
-   
-
->**Важно!**<br>
-Информационная панель Центра партнеров постоянно развивается и пополняется дополнительными функциями и возможностями. Узнайте, [что нового](whats-new-in-pc.md).
-
-
-## <a name="get-started"></a>Начало работы
-
-Зарегистрируйтесь в партнерской программе, которая соответствует вашим целям, настройте учетную запись и приступите к работе с клиентами.
-
-| **Перейдите по этой ссылке**  | **Чтобы узнать об этом**  |
-|------------|:-------------|
-|[Присоединитесь к Microsoft Partner Network](mpn-overview.md)|Сотрудничество с корпорацией Майкрософт позволяет получить доступ к программному обеспечению и службам для внутреннего использования, Microsoft Action Pack и компетенциям уровня Silver и Gold |
-|[Программа для поставщиков облачных решений — продажа облачных решений при появлении спроса](csp-overview.md) | Какая модель CSP подходит именно вам, где и что можно продавать через CSP |
-|[Настройка учетной записи информационной панели Центра партнеров](partner-center-account-setup.md)|Создавайте учетные записи пользователей, управляйте профилями и паролями, а также настраивайте каталог продуктов |
-|[Настройка учетных записей клиентов](customer-accounts.md)|Добавляйте пользователей, создавайте учетные записи и просматривайте список клиентов |
-|[Работа с другими партнерами](work-with-other-partners.md)|Найдите партнеров, опыт которых дополнит ваш |
-
-## <a name="manage-your-reseller-business"></a>Управление бизнесом торгового посредника
-
-Воспользуйтесь этими возможностями для развития вашего бизнеса:
-
-| **Перейдите по этой ссылке**  |**Чтобы узнать об этом**   |
-|------------|:-------------|
-|[Развивайте свой бизнес с помощью рекомендаций от Майкрософт](referrals.md)|Создайте бизнес-профиль для клиентов, а затем получайте и реагируйте на рекомендации|
-|[Приложение "Аналитика Центра партнеров для Power BI"](power-bi-app-for-direct-partners.md)| Получите представление о производительности вашей компании, с помощью знакомой информационной панели Microsoft Power BI|
-|[Управление подписками для клиентов](customer-subscriptions.md)|Новые подписки, пробные подписки, назначение лицензий, рекламные акции и скидки|
-|[Добавьте компетенции в ваш бизнес-профиль](learn-about-competencies.md)|Продемонстрируйте свой опыт и узнайте о доступных компетенциях|
-|[Выставление счетов](billing.md)|Изучите сценарии выставления счетов, сведения о налогах и НДС, а также о расходном бюджете Azure |
-
-## <a name="understand-your-support-options"></a>Варианты поддержки
-
-Если вашему клиенту требуется техническая поддержка или помощь с учетной записью, вы станете первой точкой контакта.
-
-Если вам нужна помощь со службой Майкрософт или Центром партнеров, мы готовы вам помочь. 
-
-| **Перейдите по этой ссылке**  | **Чтобы узнать об этом**  |
-|------------|:-------------|
-|[Поддержка клиентов](customer-support.md)|Предоставление технической поддержки, помощи по выставлению счетов, обработка сложных запросов и реализация возможностей для самостоятельной поддержки|
-|[Поддержка от Майкрософт](support-from-microsoft.md)|Сообщение о проблемах в Центре партнеров, сообщение о проблемах от имени клиента|
+<ul id="products3" class="cardsF cols cols3 panelContent singlePanelContent">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img class="x-hidden-focus" alt="" src="https://docs.microsoft.com/media/common/i_support.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Поддержка</h3>
+                        <p>Изучите ресурсы поддержки, такие как поддержка по продуктам, чат, обучающие форумы, блоги и Yammer.<br /><br /><a href="/partner-center/customer-support">Поддержка клиентов</a><br /><a href="/partner-center/support-from-microsoft">Получить поддержку от Майкрософт</a><br /><a href="https://partnercenter.microsoft.com/partner/support">Дополнительные ресурсы</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>

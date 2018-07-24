@@ -1,13 +1,14 @@
 ---
 title: 'Продажа подписок на Minecraft: Education Edition клиентам из образовательной сферы'
-description: 'Продажа подписок на Minecraft: Education Edition клиентам из образовательной сферы'
+description: 'Продажа подписок на Minecraft: Education Edition квалифицированным клиентам из образовательной сферы.'
 author: KPacquer
 keywords: Авторизованные партнеры в сфере образования
-ms.openlocfilehash: 276e5365eec99468becf9522284c6048f3750011
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 7e2375ace139f8166659812c00cb05c713d39bf4
+ms.sourcegitcommit: 665f7e1363368ae6f986a252a3aa6e3f0997425e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/22/2018
+ms.locfileid: "2087624"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Продажа подписок на Minecraft: Education Edition клиентам из образовательной сферы
 
@@ -15,69 +16,35 @@ ms.lasthandoff: 04/08/2018
 
 -  Центр партнеров
 
-Партнеры, которые работают с образовательными учреждениями, могут предлагать им подписки на **Minecraft: Education Edition** через Центр партнеров и Магазин Майкрософт для бизнеса.  Чтобы осуществлять доступ к SKU-кодам для образовательных учреждений в рамках программы CSP, у партнеров должен быть статус уполномоченного поставщика облачных решений (Cloud Solution Provider, CSP) и уполномоченного партнера по образовательным учреждениям (Authorized Education Partner, AEP).  Всем партнерам, участвующим в этой программе, следует предлагать академические лицензии только пользователям, имеющим статус аттестованного учебного пользователя (Qualified Educational User, QEU). 
+Партнеры, которые работают с образовательными учреждениями, могут предлагать им подписки на **Minecraft: Education Edition**. Вы приобретаете подписку от лица клиента на информационной панели партнера, а затем клиент скачивает программное обеспечение в [Microsoft Store для образования](https://educationstore.microsoft.com). 
 
-## <a name="purchase-through-partner-center-portal"></a>Приобретение на портале Центра партнеров 
-Вы можете приобрести Minecraft: Education Edition для клиентов из сферы образования на портале Центра партнеров: 
+>[!IMPORTANT]
+>Чтобы начать продавать предложения для образовательных учреждений клиентам из сферы образования, необходимо зарегистрироваться в программе поставщиков облачных решений (CSP) и быть [авторизованным продавцом для образовательных учреждений](https://www.mepn.com) Кроме того, клиент должен быть [квалифицированным пользователем для образовательных целей](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).  
 
-  1.  При добавлении новой подписки в Центре партнеров создайте или выберите учетную запись клиента из образовательной сферы и перейдите на вкладку "Образование".  Выберите подписку на Minecraft: Education Edition и купите необходимое клиенту количество лицензий. Подписка на Minecraft: Education Edition будет выглядеть так же, как и другие предложения для образовательных учреждений, доступные в настоящий момент в рамках программы CSP. Инструкции по добавлению подписки см. на веб-странице [Создание новой подписки](create-a-new-subscription.md). Эти лицензии отображаются в Центре партнеров, а также в списке продуктов [Microsoft Store для образования](https://educationstore.microsoft.com/en-us/store) клиента на [странице сведений о Minecraft](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) (для ее просмотра необходимо войти в Microsoft Store для образования). 
+ 
+## <a name="buy-minecraft-education-edition-on-behalf-of-your-customer"></a>Покупка **Minecraft: Education Edition** от имени клиента
 
-  2.  Клиент установит приложение Minecraft, назначит его другим пользователям и скачает приложение для распространения через [страницу сведений о Minecraft](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) Microsoft Store для образования. 
+Выполните следующие действия, чтобы приобрести подписки **Minecraft: Education Edition** на [информационной панели для партнеров](https://partnercenter.microsoft.com/pcv/dashboard/overview
+) (необходимо выполнить вход).
 
-      а. ИТ-администратор школы принимает условия соглашения об использовании служб Магазин Майкрософт для бизнеса (если это еще не сделано). 
-
-      б. Администратор переходит на [страницу сведений о Minecraft](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6), чтобы скачать приложение и распространить его среди пользователей. Подробные инструкции см. на веб-странице [Для ИТ-администраторов— получение и распространение Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft).
-    
-  Если ИТ-администратор школы не работал с Магазином Майкрософт для бизнеса, ознакомьте его с обзором [Microsoft Store для бизнеса и Microsoft Store для образования](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview). 
-
-## <a name="special-pricing-for-education-offers"></a>Специальные цены на предложения для образовательных учреждений
-
-Корпорация Майкрософт предоставляет специальные сниженные цены определенным группам клиентов, например, образовательным, некоммерческим и правительственным учреждениям, а также оптовым клиентам. Для получения доступа к этим ценам торговые посредники должны пройти сертификацию. Кроме того, клиент должен соответствовать критериям предоставления сниженной цены.
-
-**Просмотр требований к торговому посреднику**
-
-1.  В верхней правой части **Информационной панели** выберите **Параметры**, а затем выберите **Просмотреть все параметры**.
-2.  В разделе **Сведения о программе CSP****Профиля партнера** найдите пункт **Требования к торговому посреднику**.
-3.  Если **Требования к торговому посреднику** не отображаются, вам еще не разрешено приобретать специальные предложения.
-
-**Просмотр требований к клиенту**
-
-1.  В меню **Информационная панель** выберите пункт **Клиенты**. Выберите клиента в списке.
-2.  В меню клиента выберите пункт **Учетная запись**. В разделе **Сведения об организации** найдите пункт **Специальные требования**.
-3.  Если для параметра **Специальные требования** установлено значение **Нет**, но клиент соответствует этим требованиям, можно **Обновить** его сведения и включить эти данные.
-
-## <a name="access-education-offers"></a>Доступ к предложениям для образовательных учреждений 
-
-Чтобы получить доступ к предложениям для образовательных учреждений в рамках программы CSP, необходимо [стать уполномоченным партнером по образовательным учреждениям](http://go.microsoft.com/fwlink/p/?LinkId=808781) (AEP).
-
-### <a name="purchase-offers-at-education-pricing"></a>Приобретение предложений по ценам для образовательных учреждений
-
-1. Вы должны быть [уполномоченным партнером по образовательным учреждениям](http://go.microsoft.com/fwlink/p/?LinkId=808781).
-Клиент должен подпадать под определение [квалифицированного пользователя для образовательных целей](http://go.microsoft.com/fwlink/p/?LinkId=808795) для вашего рынка.
-2. 
-[Создайте новую подписку](create-a-new-subscription.md) как обычно. Однако, выбирая предложение из каталога, делайте это на вкладке "Образование".
-
-
-
-
-
-
-<!-- ## Purchase through Partner Center API 
-
-To help your education customers buy and deploy Minecraft: Education Edition through the Partner Center API:
+  1.  Выберите пункт **Клиенты** в меню информационной панели для партнеров.
   
-  1.  See [Create an order](https://msdn.microsoft.com/library/partnercenter/mt634667.aspx(d=robot)) to learn how to use the Partner Center API to buy the desired number of licenses of Minecraft: Education Edition subscription.  Be sure to use the following Offer ID:  
-     
-      "OfferId": "EE10CBD2-7A12-45DE-BE11-0C2C7C6EEEB1"
-     
-      See [Get a list of subscriptions by ID](https://msdn.microsoft.com/library/partnercenter/mt683489.aspx) to learn how to see these licenses.  Note that these will also appear in the education customer’s [Microsoft Store for Business](https://www.microsoft.com/business-store) inventory under the [Minecraft details page](https://businessstore.microsoft.com/en-us/app-detail/9NBLGGH4R2R6/0016/00000000000000000000000000000000/online) (you must be logged into Store for Business to see this page).    
+  2.  Выберите клиента из образовательной сферы в списке клиентов, а затем выберите **Добавить подписки**.
+  
+  3.  Выберите периодичность выставления счетов, которая наилучшим образом соответствует вашим потребностям, а затем выберите **Образование** в разделе **Каталог**.
 
-  2. Direct your education customer to distribute Minecraft through the Microsoft Store for Business [Minecraft details page](https://businessstore.microsoft.com/en-us/app-detail/9NBLGGH4R2R6/0016/00000000000000000000000000000000/online). Through Microsoft Store for Business, they can install the app, assign the app to others, and download the app to distribute. (Currently, Partner Center doesn't support these tasks.) 
+  4.  Выберите подписку на Minecraft, которую вы хотите приобрести от имени клиента и введите число лицензий. Выберите **Далее: просмотр**.
 
-     a. The school’s IT admin accepts the Microsoft Store for Business services agreement if they haven’t already.
-    
-     b. The admin goes to the Minecraft details page to download the app and distribute the app to users. For detailed instructions, see [For IT administrators - get Minecraft: Education Edition: Distribute Minecraft](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft). 
+      >[!NOTE]
+      >Вы сможете просматривать эти лицензии и управлять ими на информационной панели для партнеров. Ваш клиент будет видеть и сможет управлять этими лицензиями в списке продуктов на [странице сведений Minecraft: Education Edition](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) (для ее просмотра необходимо войти в Microsoft Store для образования). 
 
-  If the school’s IT admin is not familiar with Microsoft Store for Business, direct them to [Microsoft Store for Business overview](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview). 
+  5.  Если заказ верен, нажмите кнопку **Отправить**. Если требуется внести изменения в заказ, выберите **Отмена** и внесите необходимые изменения.   
 
--->
+  6.  После приобретения подписки сообщите своему клиенту из образовательной сферы, чтобы он перешел в свой список продуктов в [Microsoft Store для образования](https://educationstore.microsoft.com) и скачал программное обеспечение, а затем распространил лицензии.
+
+      Дополнительные сведения о распространении лицензий на программное обеспечение для своих пользователей клиент может найти [здесь](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft).  
+  
+      Если клиент не знаком с Microsoft Store для образования, он может получить дополнительные сведения о нем на [этой странице](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview).  
+
+      
+

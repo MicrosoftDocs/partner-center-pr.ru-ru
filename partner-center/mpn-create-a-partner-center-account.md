@@ -2,11 +2,12 @@
 title: Создание учетной записи Центра партнеров | Центр партнеров
 description: Членам Microsoft Partner Network необходимо создать учетные записи Центра партнеров и бизнес-профиль для управления преимущества и компетенциями.
 author: MaggiePucciEvans
-ms.openlocfilehash: 3b1d54e3d95a7ea1bcad0643e685d9313c6ed978
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 27b0915cdd199e479371864dfba2879eadeaea0d
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207274"
 ---
 # <a name="create-a-partner-center-account"></a>Создание учетной записи Центра партнеров
 
@@ -76,6 +77,6 @@ ms.lasthandoff: 04/08/2018
 
 -   [Управление преимуществами членства](manage-your-partner-network-benefits.md)
 
--   [Подробнее о требованиях к компетенциям Майкрософт для получения членства уровня Gold и Silver](learn-about-competencies.md)
+-   [Подробнее о требованиях к компетенциям Майкрософт для получения членства уровня Gold и Silver](https://partner.microsoft.com/membership/competencies)
 
 -   [Создание бизнес-профиля для получения потенциальных клиентов от Майкрософт](create-a-marketing-profile.md)
