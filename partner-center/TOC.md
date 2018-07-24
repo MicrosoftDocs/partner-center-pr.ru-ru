@@ -4,7 +4,7 @@
 ## [Получить пакет Microsoft Action Pack](mpn-get-action-pack.md)
 ## [Получить членство уровня Silver или Gold](learn-about-competencies.md)
 ## [Получить преимущества членства](manage-your-partner-network-benefits.md)
-## [Продление предложений MPN](renew-mpn-offers.md)
+
 
 
 # [Поставщик облачных решений](csp-overview.md)
@@ -15,8 +15,8 @@
 ## [Шаблоны соглашений с клиентом](agreements.md)
 
 ## [Примените, чтобы осуществлять продажи в национальных облаках](csp-national-clouds-overview.md)
-### [Информационная панель Центра партнеров для Microsoft Cloud для правительства США](partner-center-for-microsoft-us-govt-cloud.md)
-### [Информационная панель Центра партнеров Microsoft Cloud для Германии](partner-center-for-microsoft-cloud-germany.md)
+### [Информационная панель Центра партнеров для Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
+### [Информационная панель Центра партнеров Microsoft Cloud в Германии](partner-center-for-microsoft-cloud-germany.md)
 
 # [Управление учетной записью информационной панели Центра партнеров](partner-center-account-setup.md)
 ## [Рабочие учетные записи и информационная панель Центра партнеров](azure-active-directory-tenants-and-partner-center.md)
@@ -71,14 +71,17 @@
 ### [Перенос клиентов служб на основе лицензий в программу поставщиков облачных услуг](transition-seat-based-services.md)
 ### [Продление подписок Dynamics AX в Dynamics 365](manual-subscription-migration.md)
 ### [Перенос подписок Office 365 корпоративный E4 в новые версии Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)
+### [Перенос Плана 1 для Skype для бизнеса Online в новые версии Office 365](skype-retiring.md)
 ### [Передача подписок Azure](switch-azure-subscriptions-to-a-different-partner.md)
 ### [Продажа подписок Minecraft: Education Edition](minecraft-subscriptions.md)
+### [Продажи представителям определенных отраслей](Get-special-pricing-for-offers.md)
 ### [Повышение популярности и уровня удовлетворенности](increasing-adoption-and-satisfaction.md)
 ### [Упрощение настройки устройств с помощью Windows Autopilot](autopilot.md)
 
 # Данные и аналитика в информационной панели Центра партнеров
 ## [Получение и анализ бизнес-данных](data-analysis-lp.md)
 ## [Приложение "Аналитика Центра партнеров для Microsoft Power BI"](power-bi-app-for-direct-partners.md)
+## [Бизнес в рамках программы CSP — сравнение с другими партнерами](partner-contributions.md)
 
 # [Работа с другими партнерами](work-with-other-partners.md)
 ## [Задачи непрямого поставщика в информационной панели Центра партнеров](indirect-provider-tasks-in-partner-center.md)

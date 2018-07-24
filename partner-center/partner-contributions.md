@@ -1,0 +1,52 @@
+---
+title: Бизнес в рамках программы CSP — сравнение с другими партнерами | Центр партнеров
+Description: Use partner contributions to understand how your business is growing and succeeding
+Author: labrenne
+keywords: бизнес-данные
+ms.openlocfilehash: d27ecce0020e11f71c43328e17975fa711c8de57
+ms.sourcegitcommit: 393cb5a8c9b71a737dc1a7aa8d1639937470be3d
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2204978"
+---
+# <a name="compare-your-csp-business-to-other-partners"></a><span data-ttu-id="1bd49-103">Бизнес в рамках программы CSP — сравнение с другими партнерами</span><span class="sxs-lookup"><span data-stu-id="1bd49-103">Compare your CSP business to other partners</span></span> 
+
+**<span data-ttu-id="1bd49-104">Область применения</span><span class="sxs-lookup"><span data-stu-id="1bd49-104">Applies to</span></span>**
+- <span data-ttu-id="1bd49-105">Центр партнеров</span><span class="sxs-lookup"><span data-stu-id="1bd49-105">Partner Center</span></span>
+
+<span data-ttu-id="1bd49-106">Данные помогают принимать правильные бизнес-решения.</span><span class="sxs-lookup"><span data-stu-id="1bd49-106">Data drives business decisions.</span></span> <span data-ttu-id="1bd49-107">Используйте метрики на странице "Вклад партнеров" для определения того, каких целей добились вы и ваши клиенты, а также областей, нуждающихся в более пристальном внимании.</span><span class="sxs-lookup"><span data-stu-id="1bd49-107">Use the metrics in the Partner Contribution page to identify your successes, your customers’ successes, and areas that need more attention.</span></span> <span data-ttu-id="1bd49-108">Вы также можете сравнить свои бизнес-результаты с бизнес-результатами других партнеров.</span><span class="sxs-lookup"><span data-stu-id="1bd49-108">You can also see how you’re doing compared to other partners.</span></span> <span data-ttu-id="1bd49-109">Эти сведения можно использовать при планировании новых бизнес-целей.</span><span class="sxs-lookup"><span data-stu-id="1bd49-109">Use this information as you plan new business goals.</span></span>
+
+>[!NOTE]
+><span data-ttu-id="1bd49-110">Страница "Вклад партнеров" в настоящий момент доступна только тем партнерам, которые продают продукт Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="1bd49-110">Partner Contribution is currently available only for those partners selling Dynamics 365.</span></span>
+
+<span data-ttu-id="1bd49-111">Мы отслеживаем следующие метрики:</span><span class="sxs-lookup"><span data-stu-id="1bd49-111">We are tracking the following metrics:</span></span>
+
+**<span data-ttu-id="1bd49-112">Эффективность партнеров</span><span class="sxs-lookup"><span data-stu-id="1bd49-112">Partner performance</span></span>**
+
+1. <span data-ttu-id="1bd49-113">**Доход**. Чистый доход по всем типам лицензий (EA, CSP, Web, Direct), реализованным для продукта, а также выбранным вами фильтрам.</span><span class="sxs-lookup"><span data-stu-id="1bd49-113">**Revenue**: Net new revenue across all license types (EA, CSP, Web, Direct), rolled for the product and filters you have selected</span></span>
+2. <span data-ttu-id="1bd49-114">**Новые клиенты**. Количество новых добавленных вами клиентов.</span><span class="sxs-lookup"><span data-stu-id="1bd49-114">**New customers added**: Number of customers you are adding.</span></span>
+3. <span data-ttu-id="1bd49-115">**Сальдо добавленных оплаченных рабочих мест**. Количество новых оплаченных рабочих мест, добавленных вами для продукта, и выбранный вами фильтр.</span><span class="sxs-lookup"><span data-stu-id="1bd49-115">**Net paid seat adds**: Number of new paid seats you’ve added for the product and filter you have selected.</span></span>  <span data-ttu-id="1bd49-116">Сальдо добавленных пользователей = (Число добавленных рабочих мест) – (Число потерянных рабочих мест)</span><span class="sxs-lookup"><span data-stu-id="1bd49-116">Net customers added = (Seats added) – (Seats lost)</span></span> 
+
+**<span data-ttu-id="1bd49-117">Профессиональная квалификация партнера</span><span class="sxs-lookup"><span data-stu-id="1bd49-117">Partner capability</span></span>**
+4. <span data-ttu-id="1bd49-118">**Сертифицированные лица**. Усилия, которые партнер приложил к обучению своей базы консультантов.</span><span class="sxs-lookup"><span data-stu-id="1bd49-118">**Certified individuals**: Efforts invested in training your consultant base.</span></span> <span data-ttu-id="1bd49-119">Это число лиц, которые сдали 1 или более из 5 экзаменов, идущих в зачет рабочей нагрузке, которую вы выбрали.</span><span class="sxs-lookup"><span data-stu-id="1bd49-119">This is the count of individuals who have passed 1 or more of the 5 exams that count towards the work load you have selected.</span></span> <span data-ttu-id="1bd49-120">Сумма всех сотрудников, связанных с вами, во всех местах расположения вашего бизнеса.</span><span class="sxs-lookup"><span data-stu-id="1bd49-120">Sum of all individuals associated with you, across all your business locations.</span></span>
+5. <span data-ttu-id="1bd49-121">**Доступные производственные экземпляры.**. Успешно выполненные развертывания.</span><span class="sxs-lookup"><span data-stu-id="1bd49-121">**Available production instances**: Successfully completed deployments.</span></span> <span data-ttu-id="1bd49-122">Это последний моментальный снимок доступных производственных экземпляров.</span><span class="sxs-lookup"><span data-stu-id="1bd49-122">This is the latest snapshot of available production instances.</span></span>
+
+**<span data-ttu-id="1bd49-123">Результаты клиента</span><span class="sxs-lookup"><span data-stu-id="1bd49-123">Customer success</span></span>**
+
+6.  <span data-ttu-id="1bd49-124">**Активные пользователи в месяц (MAU)**. Повышение активного использования продукта.</span><span class="sxs-lookup"><span data-stu-id="1bd49-124">**Monthly active users (MAU)**: Increasing active use of the product.</span></span>
+<span data-ttu-id="1bd49-125">(Число уникальных пользователей, выполнивших намеренное действие за отчетный период) / 12</span><span class="sxs-lookup"><span data-stu-id="1bd49-125">(Count of unique users who have performed an intentional action in TTM) / 12</span></span>
+7. <span data-ttu-id="1bd49-126">**MAU и назначенные рабочие места**. Повышение активного использования продукта по сравнению с тем, что клиенты планировали развернуть.</span><span class="sxs-lookup"><span data-stu-id="1bd49-126">**MAU vs assigned seats**: Increasing active use for the product compared to what customers intended to deploy.</span></span> <span data-ttu-id="1bd49-127">"(MAU) / (Текущее число назначенных рабочих мест)".</span><span class="sxs-lookup"><span data-stu-id="1bd49-127">“(MAU) / (Current count of assigned seats)”.</span></span> <span data-ttu-id="1bd49-128">К назначенным рабочим местам относятся лицензии, которые были развернуты для определенных учетных записей пользователей.</span><span class="sxs-lookup"><span data-stu-id="1bd49-128">Assigned seats includes licenses that have been deployed to specific user accounts.</span></span>  <span data-ttu-id="1bd49-129">Включает только подписки в состоянии "активно" или "льготный период".</span><span class="sxs-lookup"><span data-stu-id="1bd49-129">Includes only active and in-grace subscriptions.</span></span> 
+8.  <span data-ttu-id="1bd49-130">**Индекс потребительской лояльности**. Указывает на то, как партнер повышает удовлетворенность выбранным продуктом.</span><span class="sxs-lookup"><span data-stu-id="1bd49-130">**Net promoter score**: Recognizes how you are increasing product satisfaction for the selected product.</span></span>
+<span data-ttu-id="1bd49-131">"(Промоутеры – Критики) / (Промоутеры + Нейтральные мнения + Критики)". Промоутеры — пользователи, которые оценивают продукт на 10 или 9 баллов, нейтральные мнения — оценка в 8 или 7 баллов, и критики — оценка от 0 до 6 баллов.</span><span class="sxs-lookup"><span data-stu-id="1bd49-131">"(Promoters – Detractors) / (Promoters + Neutrals + Detractors)" Promoters are users who rate the product with a score of 10 or 9, neutral is 8 or 7, and detractor is 0 to 6</span></span>
+
+**<span data-ttu-id="1bd49-132">Измерение</span><span class="sxs-lookup"><span data-stu-id="1bd49-132">Measure</span></span>**
+
+<span data-ttu-id="1bd49-133">Каждая метрика отображается на шкале (от 1 до 4) и представляет собой ваши результаты в сравнении с результатами других партнеров с учетом заданных фильтров ("Продукт", "Рабочая нагрузка", "Расположение клиента").</span><span class="sxs-lookup"><span data-stu-id="1bd49-133">Each metric is displayed by a bar (1 to 4) representing where you scale against other partners using the selected filters (Product, Workload, Customer location).</span></span> <span data-ttu-id="1bd49-134">Значения под этими шкалами являются минимальными и максимальными (мин. и макс.) диапазонами значений.</span><span class="sxs-lookup"><span data-stu-id="1bd49-134">Values below these bars are the minimum and maximum (min & max) value ranges.</span></span> <span data-ttu-id="1bd49-135">При наведении курсора мыши на шкалу отображается мин. и макс. диапазон.</span><span class="sxs-lookup"><span data-stu-id="1bd49-135">Each bar’s min & max range displays by hovering over the bar.</span></span>  
+
+>[!NOTE] 
+>- <span data-ttu-id="1bd49-136">Метрики представляют собой сводные данные по всем клиентам за 12-месячный отчетный период, за исключением "сертифицированных лиц".</span><span class="sxs-lookup"><span data-stu-id="1bd49-136">Metrics are rolled up across all customers over the trailing 12 months (TTM), with the exception of “certified individuals”</span></span>        
+>- <span data-ttu-id="1bd49-137">Метрики вычисляются в зависимости от применяемых фильтров: "Продукт", "Рабочая нагрузка" и "Расположение клиента".</span><span class="sxs-lookup"><span data-stu-id="1bd49-137">Metrics are computed based on the filters you apply for Product, Workload, and Customer location</span></span>
+>- <span data-ttu-id="1bd49-138">Данные метрик собираются только по тем клиентам, которые выбрали вас в качестве своего партнера со статусом Digital Partner of Record (DPOR).</span><span class="sxs-lookup"><span data-stu-id="1bd49-138">Metrics data is gathered only for your customers who have chosen you as their digital partner of record (DPOR).</span></span> 
+
+  
