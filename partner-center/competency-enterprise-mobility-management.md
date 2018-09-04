@@ -1,122 +1,130 @@
 ---
-title: "Компетенция \"Управление корпоративной мобильной средой\""
-description: "Компетенция \"Управление корпоративной мобильной средой\" подойдет партнерам, являющимся специалистами в области работы с мощными решениями для безопасного управления мобильными устройствами в больших организациях."
+title: Компетенция "Управление корпоративной мобильной средой"
+description: Компетенция "Управление корпоративной мобильной средой" подойдет партнерам, являющимся специалистами в области работы с мощными решениями для безопасного управления мобильными устройствами в больших организациях.
 author: Daniel Simpson
-keywords: "компетенция, компетенции, управление корпоративной мобильной средой"
-ms.openlocfilehash: 1eea9a16018af1471733ea321d68061e62c1b75f
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: компетенция, компетенции, управление корпоративной мобильной средой
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: e6c5fd30a82992d41a22b4892d27ec4709b4b931
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876074"
 ---
-#<a name="enterprise-mobility-management"></a><span data-ttu-id="73f33-104">Управление корпоративной мобильной средой</span><span class="sxs-lookup"><span data-stu-id="73f33-104">Enterprise Mobility Management</span></span>
-<span data-ttu-id="73f33-105">Компетенция "Управление корпоративной мобильной средой" подойдет партнерам, являющимся специалистами в области работы с мощными решениями для безопасного управления мобильными устройствами в больших организациях.</span><span class="sxs-lookup"><span data-stu-id="73f33-105">The Enterprise Mobility Management competency is for partners who stand out as experts in powerful, secure mobility management solutions for large businesses.</span></span>
+>[!IMPORTANT]
+><span data-ttu-id="c7b38-104">Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="c7b38-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
-- [<span data-ttu-id="73f33-106">Курс "Корпоративный партнер"</span><span class="sxs-lookup"><span data-stu-id="73f33-106">Enterprise Partner option</span></span>](#enterprise-partner-option)
-- [<span data-ttu-id="73f33-107">Курс "Партнер предприятий малого и среднего бизнеса"</span><span class="sxs-lookup"><span data-stu-id="73f33-107">SMB Partner option</span></span>](#smb-partner-option)
+<!--
+
+#Enterprise Mobility Management
+The Enterprise Mobility Management competency is for partners who stand out as experts in powerful, secure mobility management solutions for large businesses.
+
+- [Enterprise Partner option](#enterprise-partner-option)
+- [SMB Partner option](#smb-partner-option)
 
 
-##<a name="enterprise-partner-option"></a><span data-ttu-id="73f33-108">Курс "Корпоративный партнер"</span><span class="sxs-lookup"><span data-stu-id="73f33-108">Enterprise Partner option</span></span>
-<span data-ttu-id="73f33-109">Курс "Корпоративный партнер" подходит для партнеров, которые предлагают своим корпоративным клиентам решения в области организации и защиты корпоративной мобильной среды, и решили получить компетенцию путем обеспечения соответствия пороговым значениям производительности.</span><span class="sxs-lookup"><span data-stu-id="73f33-109">The Enterprise Partner option is ideal for partners who are driving Enterprise Mobility + Security adoption with their enterprise customers, and who choose to attain competency by meeting the performance thresholds.</span></span> <span data-ttu-id="73f33-110">Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Управление корпоративной мобильной средой".</span><span class="sxs-lookup"><span data-stu-id="73f33-110">Complete all the steps within to attain the Enterprise Mobility Management competency.</span></span>
+##Enterprise Partner option
+The Enterprise Partner option is ideal for partners who are driving Enterprise Mobility + Security adoption with their enterprise customers, and who choose to attain competency by meeting the performance thresholds. Complete all the steps within to attain the Enterprise Mobility Management competency.
 
-###<a name="silver"></a><span data-ttu-id="73f33-111">Silver (Серебряный уровень)</span><span class="sxs-lookup"><span data-stu-id="73f33-111">Silver</span></span>
+###Silver
 
-1. <span data-ttu-id="73f33-112">Ваша организация должна соответствовать пороговым значениям производительности.</span><span class="sxs-lookup"><span data-stu-id="73f33-112">Your organization must meet the performance thresholds.</span></span>
+1. Your organization must meet the performance thresholds.
 
-    - <span data-ttu-id="73f33-113">Предоставьте решения по обеспечению безопасности корпоративных мобильных устройств (Enterprise Mobility + Security, EMS) 3 новым клиентам и разверните 500 активных прав</span><span class="sxs-lookup"><span data-stu-id="73f33-113">Add 3 new Enterprise Mobility + Security (EMS) customers and deploy 500 active entitlements</span></span>
-    - <span data-ttu-id="73f33-114">Достигните пороговых значений прибыли по любому компоненту EMS или по комбинации удовлетворяющих требованиям компонентов (прав) EMS.</span><span class="sxs-lookup"><span data-stu-id="73f33-114">Meet revenue thresholds of any one or combination of the eligible components (entitlements) of EMS.</span></span>
-    - <span data-ttu-id="73f33-115">Microsoft Intune, Azure Information Protection или Azure Active Directory Premium (AADP) в течение последних 12 месяцев.</span><span class="sxs-lookup"><span data-stu-id="73f33-115">Microsoft Intune, Azure Information Protection, or Azure Active Directory Premium (AADP) within the last 12 months.</span></span>
-    - <span data-ttu-id="73f33-116">Рабочие места должны представлять собой платные лицензии, идущие в зачет требований к рабочему месту.</span><span class="sxs-lookup"><span data-stu-id="73f33-116">Seats must be paid licenses to count towards seat requirements.</span></span> <span data-ttu-id="73f33-117">Пробные версии или бесплатные рабочие места не учитываются.</span><span class="sxs-lookup"><span data-stu-id="73f33-117">Trial or free seats are not applicable.</span></span>
-    - <span data-ttu-id="73f33-118">Чтобы претендовать на получение квалификации, у вас должны быть установлены отношения с клиентами в качестве Полномочного администратора EMS или Microsoft Intune либо Партнера по сделкам EMS или Microsoft Intune, либо Партнера FastTrack по EMS или Microsoft Intune, либо Цифрового партнера записи EMS или Microsoft Intune.</span><span class="sxs-lookup"><span data-stu-id="73f33-118">To qualify, you will need to be associated as the EMS or Microsoft Intune Delegated Administrator, Transacting Partner, Fast Track Partner, or Digital Partner of Record.</span></span>
-    - <span data-ttu-id="73f33-119">[Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.</span><span class="sxs-lookup"><span data-stu-id="73f33-119">[Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.</span></span>  
+    - Add 3 new Enterprise Mobility + Security (EMS) customers and deploy 500 active entitlements
+    - Meet revenue thresholds of any one or combination of the eligible components (entitlements) of EMS.
+    - Microsoft Intune, Azure Information Protection, or Azure Active Directory Premium (AADP) within the last 12 months.
+    - Seats must be paid licenses to count towards seat requirements. Trial or free seats are not applicable.
+    - To qualify, you will need to be associated as the EMS or Microsoft Intune Delegated Administrator, Transacting Partner, Fast Track Partner, or Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. <span data-ttu-id="73f33-120">**2** сотрудника вашей организации должны удовлетворять требованиям, предъявляемым к прохождению аттестации.</span><span class="sxs-lookup"><span data-stu-id="73f33-120">Your organization must have **2** individuals pass the assessment requirements.</span></span>
+2. Your organization must have **2** individuals pass the assessment requirements.
 
-    - <span data-ttu-id="73f33-121">**2** сотрудника вашей организации должны пройти следующую аттестацию:</span><span class="sxs-lookup"><span data-stu-id="73f33-121">**2** individuals must complete the following assessment:</span></span>
-        - [<span data-ttu-id="73f33-122">Техническая оценка знаний по Enterprise Mobility Suite</span><span class="sxs-lookup"><span data-stu-id="73f33-122">Technical Assessment for Enterprise Mobility Suite Overview</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
+    - **2** individuals must complete the following assessment:
+        - [Technical Assessment for Enterprise Mobility Suite Overview](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
 
-    **<span data-ttu-id="73f33-123">И</span><span class="sxs-lookup"><span data-stu-id="73f33-123">AND</span></span>**
+    **AND**
 
-    - <span data-ttu-id="73f33-124">Те же **2** сотрудника должны пройти одну из следующих аттестаций:</span><span class="sxs-lookup"><span data-stu-id="73f33-124">The same **2** individuals must pass one of the following assessments:</span></span>
-        - [<span data-ttu-id="73f33-125">Техническая оценка знаний по управлению мобильными устройствами</span><span class="sxs-lookup"><span data-stu-id="73f33-125">Technical Assessment for Mobile Device Management</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
-        - [<span data-ttu-id="73f33-126">Техническая оценка знаний по управлению учетными данными и доступом</span><span class="sxs-lookup"><span data-stu-id="73f33-126">Technical Assessment for Identity & Access Management</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
-        - [<span data-ttu-id="73f33-127">Техническая оценка знаний по защите информации</span><span class="sxs-lookup"><span data-stu-id="73f33-127">Technical Assessment for Information Protection</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
-        - [<span data-ttu-id="73f33-128">Техническая оценка знаний по Cloud App Security</span><span class="sxs-lookup"><span data-stu-id="73f33-128">Technical Assessment for Cloud App Security</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
+    - The same **2** individuals must pass one of the following assessments:
+        - [Technical Assessment for Mobile Device Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
+        - [Technical Assessment for Identity & Access Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
+        - [Technical Assessment for Information Protection](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
+        - [Technical Assessment for Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
 
-###<a name="gold"></a><span data-ttu-id="73f33-129">Gold (Золотой уровень)</span><span class="sxs-lookup"><span data-stu-id="73f33-129">Gold</span></span>
+###Gold
 
-1. <span data-ttu-id="73f33-130">Ваша организация должна соответствовать пороговым значениям производительности.</span><span class="sxs-lookup"><span data-stu-id="73f33-130">Your organization must meet the performance thresholds.</span></span>
+1. Your organization must meet the performance thresholds.
 
-    - <span data-ttu-id="73f33-131">Предоставьте решения по обеспечению безопасности корпоративных мобильных устройств (Enterprise Mobility + Security, EMS) 5 новым клиентам и разверните 4000 активных прав</span><span class="sxs-lookup"><span data-stu-id="73f33-131">Add 5 new Enterprise Mobility + Security (EMS) customers and deploy 4000 active entitlements</span></span>
-    - <span data-ttu-id="73f33-132">Достигните пороговых значений прибыли по любому компоненту EMS или по комбинации удовлетворяющих требованиям компонентов (прав) EMS.</span><span class="sxs-lookup"><span data-stu-id="73f33-132">Meet revenue thresholds of any one or combination of the eligible components (entitlements) of EMS.</span></span>
-    - <span data-ttu-id="73f33-133">Microsoft Intune, Azure Information Protection или Azure Active Directory Premium (AADP) в течение последних 12 месяцев.</span><span class="sxs-lookup"><span data-stu-id="73f33-133">Microsoft Intune, Azure Information Protection, or Azure Active Directory Premium (AADP) within the last 12 months.</span></span>
-    - <span data-ttu-id="73f33-134">Рабочие места должны представлять собой платные лицензии, идущие в зачет требований к рабочему месту.</span><span class="sxs-lookup"><span data-stu-id="73f33-134">Seats must be paid licenses to count towards seat requirements.</span></span> <span data-ttu-id="73f33-135">Пробные версии или бесплатные рабочие места не учитываются.</span><span class="sxs-lookup"><span data-stu-id="73f33-135">Trial or free seats are not applicable.</span></span>
-    - <span data-ttu-id="73f33-136">Чтобы претендовать на получение квалификации, у вас должны быть установлены отношения с клиентами в качестве Полномочного администратора EMS или Microsoft Intune либо Партнера по сделкам EMS или Microsoft Intune, либо Партнера FastTrack по EMS или Microsoft Intune, либо Цифрового партнера записи EMS или Microsoft Intune.</span><span class="sxs-lookup"><span data-stu-id="73f33-136">To qualify, you will need to be associated as the EMS or Microsoft Intune Delegated Administrator, Transacting Partner, Fast Track Partner, or Digital Partner of Record.</span></span>
-    - <span data-ttu-id="73f33-137">[Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.</span><span class="sxs-lookup"><span data-stu-id="73f33-137">[Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.</span></span>  
+    - Add 5 new Enterprise Mobility + Security (EMS) customers and deploy 4000 active entitlements
+    - Meet revenue thresholds of any one or combination of the eligible components (entitlements) of EMS.
+    - Microsoft Intune, Azure Information Protection, or Azure Active Directory Premium (AADP) within the last 12 months.
+    - Seats must be paid licenses to count towards seat requirements. Trial or free seats are not applicable.
+    - To qualify, you will need to be associated as the EMS or Microsoft Intune Delegated Administrator, Transacting Partner, Fast Track Partner, or Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. <span data-ttu-id="73f33-138">**4** сотрудника вашей организации должны удовлетворять требованиям, предъявляемым к прохождению аттестации.</span><span class="sxs-lookup"><span data-stu-id="73f33-138">Your organization must have **4** individuals pass the assessment requirements.</span></span>
+2. Your organization must have **4** individuals pass the assessment requirements.
 
-    - <span data-ttu-id="73f33-139">**4** сотрудника вашей организации должны пройти следующую аттестацию:</span><span class="sxs-lookup"><span data-stu-id="73f33-139">**4** individuals must complete the following assessment:</span></span>
-        - [<span data-ttu-id="73f33-140">Техническая оценка знаний по Enterprise Mobility Suite</span><span class="sxs-lookup"><span data-stu-id="73f33-140">Technical Assessment for Enterprise Mobility Suite Overview</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
+    - **4** individuals must complete the following assessment:
+        - [Technical Assessment for Enterprise Mobility Suite Overview](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
 
-    **<span data-ttu-id="73f33-141">И</span><span class="sxs-lookup"><span data-stu-id="73f33-141">AND</span></span>**
+    **AND**
 
-    - <span data-ttu-id="73f33-142">Те же **4** сотрудника должны пройти одну из следующих аттестаций:</span><span class="sxs-lookup"><span data-stu-id="73f33-142">The same **4** individuals must pass one of the following assessments:</span></span>
-        - [<span data-ttu-id="73f33-143">Техническая оценка знаний по управлению мобильными устройствами</span><span class="sxs-lookup"><span data-stu-id="73f33-143">Technical Assessment for Mobile Device Management</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
-        - [<span data-ttu-id="73f33-144">Техническая оценка знаний по управлению учетными данными и доступом</span><span class="sxs-lookup"><span data-stu-id="73f33-144">Technical Assessment for Identity & Access Management</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
-        - [<span data-ttu-id="73f33-145">Техническая оценка знаний по защите информации</span><span class="sxs-lookup"><span data-stu-id="73f33-145">Technical Assessment for Information Protection</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
-        - [<span data-ttu-id="73f33-146">Техническая оценка знаний по Cloud App Security</span><span class="sxs-lookup"><span data-stu-id="73f33-146">Technical Assessment for Cloud App Security</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
+    - The same **4** individuals must pass one of the following assessments:
+        - [Technical Assessment for Mobile Device Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
+        - [Technical Assessment for Identity & Access Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
+        - [Technical Assessment for Information Protection](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
+        - [Technical Assessment for Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
     
-##<a name="smb-partner-option"></a><span data-ttu-id="73f33-147">Курс "Партнер предприятий малого и среднего бизнеса"</span><span class="sxs-lookup"><span data-stu-id="73f33-147">SMB Partner option</span></span>
-<span data-ttu-id="73f33-148">Курс "Партнер предприятий малого и среднего бизнеса" подходит для партнеров, которые предлагают предприятиям малого и среднего бизнеса решения в области организации и защиты корпоративной мобильной среды, и решили получить компетенцию путем обеспечения соответствия пороговым значениям производительности.</span><span class="sxs-lookup"><span data-stu-id="73f33-148">The Small/Mid-market Business (SMB) option is ideal for partners who are driving Enterprise Mobility + Security adoptions among small and mid-market businesses, and who choose to attain competency by meeting the performance thresholds.</span></span> <span data-ttu-id="73f33-149">Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Управление корпоративной мобильной средой".</span><span class="sxs-lookup"><span data-stu-id="73f33-149">Complete all the steps within the option to attain the Enterprise Mobility Management competency.</span></span>
+##SMB Partner option
+The Small/Mid-market Business (SMB) option is ideal for partners who are driving Enterprise Mobility + Security adoptions among small and mid-market businesses, and who choose to attain competency by meeting the performance thresholds. Complete all the steps within the option to attain the Enterprise Mobility Management competency.
 
-###<a name="silver"></a><span data-ttu-id="73f33-150">Silver (Серебряный уровень)</span><span class="sxs-lookup"><span data-stu-id="73f33-150">Silver</span></span>
+###Silver
 
-1. <span data-ttu-id="73f33-151">Ваша организация должна соответствовать пороговым значениям производительности.</span><span class="sxs-lookup"><span data-stu-id="73f33-151">Your organization must meet the performance thresholds.</span></span>
+1. Your organization must meet the performance thresholds.
 
-    - <span data-ttu-id="73f33-152">Предоставьте решения по обеспечению безопасности корпоративных мобильных устройств (Enterprise Mobility + Security, EMS) 20 новым клиентам и разверните 125 активных прав</span><span class="sxs-lookup"><span data-stu-id="73f33-152">Add 20 new Enterprise Mobility + Security (EMS) customers and deploy 125 active entitlements</span></span>
-    - <span data-ttu-id="73f33-153">Достигните пороговых значений прибыли по любому компоненту EMS или по комбинации удовлетворяющих требованиям компонентов (прав) EMS.</span><span class="sxs-lookup"><span data-stu-id="73f33-153">Meet revenue thresholds of any one or combination of the eligible components (entitlements) of EMS.</span></span>
-    - <span data-ttu-id="73f33-154">Microsoft Intune, Azure Information Protection или Azure Active Directory Premium (AADP) в течение последних 12 месяцев.</span><span class="sxs-lookup"><span data-stu-id="73f33-154">Microsoft Intune, Azure Information Protection, or Azure Active Directory Premium (AADP) within the last 12 months.</span></span>
-    - <span data-ttu-id="73f33-155">Рабочие места должны представлять собой платные лицензии, идущие в зачет требований к рабочему месту.</span><span class="sxs-lookup"><span data-stu-id="73f33-155">Seats must be paid licenses to count towards seat requirements.</span></span> <span data-ttu-id="73f33-156">Пробные версии или бесплатные рабочие места не учитываются.</span><span class="sxs-lookup"><span data-stu-id="73f33-156">Trial or free seats are not applicable.</span></span>
-    - <span data-ttu-id="73f33-157">Чтобы претендовать на получение квалификации, у вас должны быть установлены отношения с клиентами в качестве Полномочного администратора EMS или Microsoft Intune либо Партнера по сделкам EMS или Microsoft Intune, либо Партнера FastTrack по EMS или Microsoft Intune, либо Цифрового партнера записи EMS или Microsoft Intune.</span><span class="sxs-lookup"><span data-stu-id="73f33-157">To qualify, you will need to be associated as the EMS or Microsoft Intune Delegated Administrator, Transacting Partner, Fast Track Partner, or Digital Partner of Record.</span></span>
-    - <span data-ttu-id="73f33-158">[Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.</span><span class="sxs-lookup"><span data-stu-id="73f33-158">[Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.</span></span>  
+    - Add 20 new Enterprise Mobility + Security (EMS) customers and deploy 125 active entitlements
+    - Meet revenue thresholds of any one or combination of the eligible components (entitlements) of EMS.
+    - Microsoft Intune, Azure Information Protection, or Azure Active Directory Premium (AADP) within the last 12 months.
+    - Seats must be paid licenses to count towards seat requirements. Trial or free seats are not applicable.
+    - To qualify, you will need to be associated as the EMS or Microsoft Intune Delegated Administrator, Transacting Partner, Fast Track Partner, or Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. <span data-ttu-id="73f33-159">**2** сотрудника вашей организации должны удовлетворять требованиям, предъявляемым к прохождению аттестации.</span><span class="sxs-lookup"><span data-stu-id="73f33-159">Your organization must have **2** individuals pass the assessment requirements.</span></span>
+2. Your organization must have **2** individuals pass the assessment requirements.
 
-    - <span data-ttu-id="73f33-160">**2** сотрудника вашей организации должны пройти следующую аттестацию:</span><span class="sxs-lookup"><span data-stu-id="73f33-160">**2** individuals must complete the following assessment:</span></span>
-        - [<span data-ttu-id="73f33-161">Техническая оценка знаний по Enterprise Mobility Suite</span><span class="sxs-lookup"><span data-stu-id="73f33-161">Technical Assessment for Enterprise Mobility Suite Overview</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
+    - **2** individuals must complete the following assessment:
+        - [Technical Assessment for Enterprise Mobility Suite Overview](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
 
-    **<span data-ttu-id="73f33-162">И</span><span class="sxs-lookup"><span data-stu-id="73f33-162">AND</span></span>**
+    **AND**
 
-    - <span data-ttu-id="73f33-163">Те же **2** сотрудника должны пройти одну из следующих аттестаций:</span><span class="sxs-lookup"><span data-stu-id="73f33-163">The same **2** individuals must pass one of the following assessments:</span></span>
-        - [<span data-ttu-id="73f33-164">Техническая оценка знаний по управлению мобильными устройствами</span><span class="sxs-lookup"><span data-stu-id="73f33-164">Technical Assessment for Mobile Device Management</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
-        - [<span data-ttu-id="73f33-165">Техническая оценка знаний по управлению учетными данными и доступом</span><span class="sxs-lookup"><span data-stu-id="73f33-165">Technical Assessment for Identity & Access Management</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
-        - [<span data-ttu-id="73f33-166">Техническая оценка знаний по защите информации</span><span class="sxs-lookup"><span data-stu-id="73f33-166">Technical Assessment for Information Protection</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
-        - [<span data-ttu-id="73f33-167">Техническая оценка знаний по Cloud App Security</span><span class="sxs-lookup"><span data-stu-id="73f33-167">Technical Assessment for Cloud App Security</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
+    - The same **2** individuals must pass one of the following assessments:
+        - [Technical Assessment for Mobile Device Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
+        - [Technical Assessment for Identity & Access Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
+        - [Technical Assessment for Information Protection](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
+        - [Technical Assessment for Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
 
-###<a name="gold"></a><span data-ttu-id="73f33-168">Gold (Золотой уровень)</span><span class="sxs-lookup"><span data-stu-id="73f33-168">Gold</span></span>
+###Gold
 
-1. <span data-ttu-id="73f33-169">Ваша организация должна соответствовать пороговым значениям производительности.</span><span class="sxs-lookup"><span data-stu-id="73f33-169">Your organization must meet the performance thresholds.</span></span>
+1. Your organization must meet the performance thresholds.
 
-    - <span data-ttu-id="73f33-170">Предоставьте решения по обеспечению безопасности корпоративных мобильных устройств (Enterprise Mobility + Security, EMS) 5 новым клиентам и разверните 4000 активных прав</span><span class="sxs-lookup"><span data-stu-id="73f33-170">Add 5 new Enterprise Mobility + Security (EMS) customers and deploy 4000 active entitlements</span></span>
-    - <span data-ttu-id="73f33-171">Достигните пороговых значений прибыли по любому компоненту EMS или по комбинации удовлетворяющих требованиям компонентов (прав) EMS.</span><span class="sxs-lookup"><span data-stu-id="73f33-171">Meet revenue thresholds of any one or combination of the eligible components (entitlements) of EMS.</span></span>
-    - <span data-ttu-id="73f33-172">Microsoft Intune, Azure Information Protection или Azure Active Directory Premium (AADP) в течение последних 12 месяцев.</span><span class="sxs-lookup"><span data-stu-id="73f33-172">Microsoft Intune, Azure Information Protection, or Azure Active Directory Premium (AADP) within the last 12 months.</span></span>
-    - <span data-ttu-id="73f33-173">Рабочие места должны представлять собой платные лицензии, идущие в зачет требований к рабочему месту.</span><span class="sxs-lookup"><span data-stu-id="73f33-173">Seats must be paid licenses to count towards seat requirements.</span></span> <span data-ttu-id="73f33-174">Пробные версии или бесплатные рабочие места не учитываются.</span><span class="sxs-lookup"><span data-stu-id="73f33-174">Trial or free seats are not applicable.</span></span>
-    - <span data-ttu-id="73f33-175">Чтобы претендовать на получение квалификации, у вас должны быть установлены отношения с клиентами в качестве Полномочного администратора EMS или Microsoft Intune либо Партнера по сделкам EMS или Microsoft Intune, либо Партнера FastTrack по EMS или Microsoft Intune, либо Цифрового партнера записи EMS или Microsoft Intune.</span><span class="sxs-lookup"><span data-stu-id="73f33-175">To qualify, you will need to be associated as the EMS or Microsoft Intune Delegated Administrator, Transacting Partner, Fast Track Partner, or Digital Partner of Record.</span></span>
-    - <span data-ttu-id="73f33-176">[Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.</span><span class="sxs-lookup"><span data-stu-id="73f33-176">[Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.</span></span>  
+    - Add 5 new Enterprise Mobility + Security (EMS) customers and deploy 4000 active entitlements
+    - Meet revenue thresholds of any one or combination of the eligible components (entitlements) of EMS.
+    - Microsoft Intune, Azure Information Protection, or Azure Active Directory Premium (AADP) within the last 12 months.
+    - Seats must be paid licenses to count towards seat requirements. Trial or free seats are not applicable.
+    - To qualify, you will need to be associated as the EMS or Microsoft Intune Delegated Administrator, Transacting Partner, Fast Track Partner, or Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. <span data-ttu-id="73f33-177">**4** сотрудника вашей организации должны удовлетворять требованиям, предъявляемым к прохождению аттестации.</span><span class="sxs-lookup"><span data-stu-id="73f33-177">Your organization must have **4** individuals pass the assessment requirements.</span></span>
+2. Your organization must have **4** individuals pass the assessment requirements.
     
-    - <span data-ttu-id="73f33-178">**4** сотрудника вашей организации должны пройти следующую аттестацию:</span><span class="sxs-lookup"><span data-stu-id="73f33-178">**4** individuals must complete the following assessment:</span></span>
-        - [<span data-ttu-id="73f33-179">Техническая оценка знаний по Enterprise Mobility Suite</span><span class="sxs-lookup"><span data-stu-id="73f33-179">Technical Assessment for Enterprise Mobility Suite Overview</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
+    - **4** individuals must complete the following assessment:
+        - [Technical Assessment for Enterprise Mobility Suite Overview](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
 
-    **<span data-ttu-id="73f33-180">И</span><span class="sxs-lookup"><span data-stu-id="73f33-180">AND</span></span>**
+    **AND**
 
-    - <span data-ttu-id="73f33-181">Те же **4** сотрудника должны пройти одну из следующих аттестаций:</span><span class="sxs-lookup"><span data-stu-id="73f33-181">The same **4** individuals must pass one of the following assessments:</span></span>
-        - [<span data-ttu-id="73f33-182">Техническая оценка знаний по управлению мобильными устройствами</span><span class="sxs-lookup"><span data-stu-id="73f33-182">Technical Assessment for Mobile Device Management</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
-        - [<span data-ttu-id="73f33-183">Техническая оценка знаний по управлению учетными данными и доступом</span><span class="sxs-lookup"><span data-stu-id="73f33-183">Technical Assessment for Identity & Access Management</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
-        - [<span data-ttu-id="73f33-184">Техническая оценка знаний по защите информации</span><span class="sxs-lookup"><span data-stu-id="73f33-184">Technical Assessment for Information Protection</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
-        - [<span data-ttu-id="73f33-185">Техническая оценка знаний по Cloud App Security</span><span class="sxs-lookup"><span data-stu-id="73f33-185">Technical Assessment for Cloud App Security</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
-
+    - The same **4** individuals must pass one of the following assessments:
+        - [Technical Assessment for Mobile Device Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
+        - [Technical Assessment for Identity & Access Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
+        - [Technical Assessment for Information Protection](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
+        - [Technical Assessment for Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
+-->
 
 

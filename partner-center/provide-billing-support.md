@@ -1,51 +1,52 @@
 ---
-title: "Предоставление поддержки выставления счетов | Центр партнеров"
-description: "Вы владеете отношениями с клиентами, касающимися выставления счетов, и обеспечиваете клиентам полную поддержку по всем вопросам, связанным с выставлением счетов."
+title: Предоставление поддержки выставления счетов | Центр партнеров
+description: Вы владеете отношениями с клиентами, касающимися выставления счетов, и обеспечиваете клиентам полную поддержку по всем вопросам, связанным с выставлением счетов.
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
-ms.openlocfilehash: 60a8fa1271d73e07f31b7172da31a66f702ce342
-ms.sourcegitcommit: b1cfc52b956a25bd81a449bdce21fe94f4823482
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 4108d46428c4b64c98ab87064e20b6d0c2626840
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/25/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874524"
 ---
-# <a name="provide-billing-support"></a><span data-ttu-id="343da-103">Предоставление поддержки выставления счетов</span><span class="sxs-lookup"><span data-stu-id="343da-103">Provide billing support</span></span>
+# <a name="provide-billing-support"></a><span data-ttu-id="4d2ae-103">Предоставление поддержки выставления счетов</span><span class="sxs-lookup"><span data-stu-id="4d2ae-103">Provide billing support</span></span>
 
-**<span data-ttu-id="343da-104">Относится к:</span><span class="sxs-lookup"><span data-stu-id="343da-104">Applies to</span></span>**
+**<span data-ttu-id="4d2ae-104">Относится к:</span><span class="sxs-lookup"><span data-stu-id="4d2ae-104">Applies to</span></span>**
 
--  <span data-ttu-id="343da-105">Центр партнеров</span><span class="sxs-lookup"><span data-stu-id="343da-105">Partner Center</span></span>
--  <span data-ttu-id="343da-106">Центр партнеров для Microsoft Cloud для правительства США</span><span class="sxs-lookup"><span data-stu-id="343da-106">Partner Center for Microsoft Cloud for US Government</span></span>
--  <span data-ttu-id="343da-107">Центр партнеров Microsoft Cloud для Германии</span><span class="sxs-lookup"><span data-stu-id="343da-107">Partner Center for Microsoft Cloud Germany</span></span>
+-  <span data-ttu-id="4d2ae-105">Центр партнеров</span><span class="sxs-lookup"><span data-stu-id="4d2ae-105">Partner Center</span></span>
+-  <span data-ttu-id="4d2ae-106">Центр партнеров для Microsoft Cloud для правительства США</span><span class="sxs-lookup"><span data-stu-id="4d2ae-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="4d2ae-107">Центр партнеров Microsoft Cloud для Германии</span><span class="sxs-lookup"><span data-stu-id="4d2ae-107">Partner Center for Microsoft Cloud Germany</span></span>
 
-<span data-ttu-id="343da-108">Вы владеете отношениями с клиентами, касающимися выставления счетов, и обеспечиваете клиентам полную поддержку по всем вопросам, связанным с выставлением счетов.</span><span class="sxs-lookup"><span data-stu-id="343da-108">You own the billing relationship with your customers and fully support any billing-related questions from your customers.</span></span>
+<span data-ttu-id="4d2ae-108">Собственные взаимоотношения выставления счетов с клиентов и вы будете ответственность за ответы на вопросы, связанные с выставлением счетов, пользователей.</span><span class="sxs-lookup"><span data-stu-id="4d2ae-108">You own the billing relationship with your customers and you're responsible for answering billing-related questions from your customers.</span></span>
 
-## <a href="" id="microsoftresources"></a><span data-ttu-id="343da-109">Ресурсы корпорации Майкрософт</span><span class="sxs-lookup"><span data-stu-id="343da-109">Microsoft resources</span></span>
+-   <span data-ttu-id="4d2ae-109">Вы несете ответственность за оплату во время в Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="4d2ae-109">You are responsible for on-time payment to Microsoft.</span></span>
+-   <span data-ttu-id="4d2ae-110">Мы рекомендуем, формируя политику с клиентами, что коллекций процесс и изменение доступа для подписки клиента, служб и программного обеспечения будут изменены.</span><span class="sxs-lookup"><span data-stu-id="4d2ae-110">We recommend establishing a clear collections policy with customers that details your collections process and when access to the customer's subscriptions, services, or software will be impacted.</span></span>
+-   <span data-ttu-id="4d2ae-111">При необходимости можно отключить доступ клиента к продукту для не предназначенных для оплаты.</span><span class="sxs-lookup"><span data-stu-id="4d2ae-111">If necessary, you can disable your customer's access to a product for non-payment.</span></span>
 
+## <a name="microsoft-partner-support-guidance"></a><span data-ttu-id="4d2ae-112">Руководство по поддержки партнеров Майкрософт</span><span class="sxs-lookup"><span data-stu-id="4d2ae-112">Microsoft partner support guidance</span></span>
 
--   <span data-ttu-id="343da-110">Получите обучение по продукту и обучение по устранению неполадок через MPN, включая доступ к практическому обучению CIE (Customer Immersion Experience).</span><span class="sxs-lookup"><span data-stu-id="343da-110">Get product training and troubleshooting training via MPN, including access to Customer Immersion Experience (CIE) hands-on training.</span></span>
--   <span data-ttu-id="343da-111">Получите доступ к документации через виртуальную базу знаний (vKB).</span><span class="sxs-lookup"><span data-stu-id="343da-111">Access documentation via the virtual knowledge base (vKB).</span></span>
--   <span data-ttu-id="343da-112">Находите опубликованные технические решения на веб-сайте TechNet и получайте доступ к поддержке конкретного партнера в контексте членства в MPN.</span><span class="sxs-lookup"><span data-stu-id="343da-112">Find published technical solutions on TechNet and access to partner specific support as part of your MPN membership.</span></span>
--   <span data-ttu-id="343da-113">Приобретайте поддержку Premier для получения преимуществ дополнительной поддержки.</span><span class="sxs-lookup"><span data-stu-id="343da-113">Purchase Premier Support for incremental support benefits.</span></span>
+<span data-ttu-id="4d2ae-113">Партнеры по транзакциям модели CSP доверенных консультантов своим клиентам и есть отношения end до конца, включая поддержку при их клиента есть вопрос или решения проблемы.</span><span class="sxs-lookup"><span data-stu-id="4d2ae-113">Partners transacting in the CSP model are the trusted advisor to their customers and own the relationship end-to-end, including support when their customer has a question or issue.</span></span> <span data-ttu-id="4d2ae-114">Через поддержке сенсорного ввода партнеры точки узнать подробнее о клиента и свой бизнес, для определения новых служб и решений, которые диска значение.</span><span class="sxs-lookup"><span data-stu-id="4d2ae-114">Through support touch points partners can learn more about the customer, and their business, to identify new services and solutions that drive value.</span></span>
 
-## <a href="" id="delinquentcustomeraccounts"></a><span data-ttu-id="343da-114">Учетные записи клиентов-нарушителей</span><span class="sxs-lookup"><span data-stu-id="343da-114">Delinquent customer accounts</span></span>
+<span data-ttu-id="4d2ae-115">Для удовлетворения потребностей поддержки, партнер может перепродавать поддержка от другого объекта, они могут исполнителей полностью или частично их поддержки структуры и/или они могут настроить структуру для обеспечения поддержки напрямую.</span><span class="sxs-lookup"><span data-stu-id="4d2ae-115">To fulfill the support requirement, the partner may resell support from another entity, they may outsource all or part of their support structure and/or they may set up a structure to provide support directly.</span></span>  <span data-ttu-id="4d2ae-116">Партнеры могут взимать плату за полностью или частично поддержки, предоставляемой пользователям.</span><span class="sxs-lookup"><span data-stu-id="4d2ae-116">The partner may charge for all or part of the support provided to customers.</span></span> <span data-ttu-id="4d2ae-117">Партнер должен подчеркивания своим клиентам поддержку они обеспечивают, часов службы и связаться с методом, а также цены (если заряжается для поддержки).</span><span class="sxs-lookup"><span data-stu-id="4d2ae-117">The partner should articulate to their customers the support they will provide, the service hours and contact method, as well as the pricing (if charging for support).</span></span> 
 
+<span data-ttu-id="4d2ae-118">Партнеры не требуется получать входящие запросы поддержки от клиентов, диагностировать проблемы в лучшее возможность партнера и затем устранения проблем, которые находятся в пределах области границ базовый план поддержки.</span><span class="sxs-lookup"><span data-stu-id="4d2ae-118">Partners are required to receive incoming support requests from customers, diagnose issues to the best of the partner’s ability and then resolve issues that are within scope of the baseline support boundaries.</span></span> <span data-ttu-id="4d2ae-119">Если партнер не удается устранить проблему, можно сообщение о проблемах в корпорацию Майкрософт через следующие средства поддержки:</span><span class="sxs-lookup"><span data-stu-id="4d2ae-119">If the partner is unable to resolve an issue, they can escalate issues to Microsoft via the following support vehicles:</span></span>
 
--   <span data-ttu-id="343da-115">Вы несете ответственность за оплату в Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="343da-115">You are responsible for payment to Microsoft.</span></span>
--   <span data-ttu-id="343da-116">Мы рекомендуем разработать прозрачную политику взимания оплаты с клиентов, в которой будет содержаться подробное описание процесса и указаны сроки, после которых условия подписки будут изменены.</span><span class="sxs-lookup"><span data-stu-id="343da-116">We recommend establishing a clear collections policy with customers that details your collections process and when access to the subscription will be impacted.</span></span>
--   <span data-ttu-id="343da-117">При необходимости можно отключить доступ клиента к подписке в случае неоплаты.</span><span class="sxs-lookup"><span data-stu-id="343da-117">If necessary, you can disable your customer's access to the subscription for non-payment.</span></span>
+- <span data-ttu-id="4d2ae-120">Поддержки **коммерческих предприятий** проблема доступно для всех партнеров в рамках программы CSP</span><span class="sxs-lookup"><span data-stu-id="4d2ae-120">**Commercial** issue support is available to all partners in the CSP program</span></span>
+-   <span data-ttu-id="4d2ae-121">**Техническая** поддержка проблема доступна через:</span><span class="sxs-lookup"><span data-stu-id="4d2ae-121">**Technical** issue support is available through:</span></span>
+    -   <span data-ttu-id="4d2ae-122">Поддержка Premier для партнеров (комиссия базовый)</span><span class="sxs-lookup"><span data-stu-id="4d2ae-122">Premier Support for Partners (fee base)</span></span>
+    -   <span data-ttu-id="4d2ae-123">Расширенной поддержки для партнеров (комиссия базовый)</span><span class="sxs-lookup"><span data-stu-id="4d2ae-123">Advanced Support for Partners (fee base)</span></span>
+    -   <span data-ttu-id="4d2ae-124">Поддержка облака подписи (входит в состав компетенции уровня Gold и Silver)</span><span class="sxs-lookup"><span data-stu-id="4d2ae-124">Signature Cloud Support (included with Gold/Silver competency)</span></span>
 
-## <a href="" id="billingdisputes"></a><span data-ttu-id="343da-118">Споры относительно выставления счетов</span><span class="sxs-lookup"><span data-stu-id="343da-118">Billing disputes</span></span>
+### <a name="providing-billing-subscription-management-and-technical-support"></a><span data-ttu-id="4d2ae-125">Предоставление выставления счетов, управление подписками и технической поддержки</span><span class="sxs-lookup"><span data-stu-id="4d2ae-125">Providing billing, subscription management, and technical support</span></span> 
 
+<span data-ttu-id="4d2ae-126">Каждый веб-службы имеет определенные и подробные сведения требования для предоставления выставления счетов, управление подписками и технической поддержки для пользователей.</span><span class="sxs-lookup"><span data-stu-id="4d2ae-126">Each online service has specific and detailed requirements for providing billing, subscription management, and technical support to customers.</span></span> <span data-ttu-id="4d2ae-127">См. в следующих документах Дополнительные сведения.</span><span class="sxs-lookup"><span data-stu-id="4d2ae-127">Refer to the following documents for more information.</span></span>
 
--   <span data-ttu-id="343da-119">[Сообщите о проблемах](report-problems-with-partner-center.md) для прояснения вопросов или сообщения о спорах, связанных с выставлением счетов.</span><span class="sxs-lookup"><span data-stu-id="343da-119">[Report problems](report-problems-with-partner-center.md) to raise any billing questions or disputes.</span></span>
+-   [<span data-ttu-id="4d2ae-128">Через CSP продал подписок Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="4d2ae-128">Dynamics 365 subscriptions sold through CSP</span></span>](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
-## <a href="" id="escalatingissues"></a><span data-ttu-id="343da-120">Сообщение о проблемах</span><span class="sxs-lookup"><span data-stu-id="343da-120">Escalating issues</span></span>
+-   [<span data-ttu-id="4d2ae-129">Подписки Azure, продаваемые через CSP</span><span class="sxs-lookup"><span data-stu-id="4d2ae-129">Azure subscriptions sold through CSP</span></span>](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-
--   <span data-ttu-id="343da-121">[Сообщайте Майкрософт о проблемах](escalate-problems-to-microsoft.md) через канал поддержки партнеров от имени клиента, если вам требуется наша помощь.</span><span class="sxs-lookup"><span data-stu-id="343da-121">[Escalate problems to Microsoft](escalate-problems-to-microsoft.md) through the Partner Support channel on the customer's behalf if you need our assistance.</span></span>
--   <span data-ttu-id="343da-122">Вам должны связаться с клиентом и закрыть дискуссию, как только проблема будет решена</span><span class="sxs-lookup"><span data-stu-id="343da-122">You must communicate and close the loop with the customer once the issue is resolved</span></span> 
-
+-   [<span data-ttu-id="4d2ae-130">Подписки на Office 365, продаваемые через CSP</span><span class="sxs-lookup"><span data-stu-id="4d2ae-130">Office 365 subscriptions sold through CSP</span></span>](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
-<span data-ttu-id="343da-123">Споры, связанные с выставлением счетов. Сообщите о проблемах (https://msdn.microsoft.com/en-us/partner-center/report-problems-with-partner-center) для прояснения вопросов или сообщения о спорах, связанных с выставлением счетов.</span><span class="sxs-lookup"><span data-stu-id="343da-123">Billing disputes Report problems (https://msdn.microsoft.com/en-us/partner-center/report-problems-with-partner-center) to raise any billing questions or disputes.</span></span>
-
 

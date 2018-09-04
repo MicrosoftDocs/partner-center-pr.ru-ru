@@ -1,35 +1,43 @@
 ---
-title: "Компетенция \"Облачные решения для малого и среднего бизнеса\""
-description: "Компетенция \"Облачные решения для малого и среднего бизнеса\" поможет вам создать свой бренд в качестве партнера, специализирующегося на продаже и развертывании решений Office 365 для малого и среднего бизнеса."
+title: Компетенция "Облачные решения для малого и среднего бизнеса"
+description: Компетенция "Облачные решения для малого и среднего бизнеса" поможет вам создать свой бренд в качестве партнера, специализирующегося на продаже и развертывании решений Office 365 для малого и среднего бизнеса.
 author: Daniel Simpson
-keywords: "компетенция, компетенции, облачные решения для малого и среднего бизнеса"
-ms.openlocfilehash: bef3e59db9ed70ecd4cde3ea6878271f25aa50dd
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
-ms.translationtype: HT
+keywords: компетенция, компетенции, облачные решения для малого и среднего бизнеса
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: f8034f7d779d2dae13b916f01efa8c10be224bb2
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876194"
 ---
-# <a name="small-and-midmarket-cloud-solutions"></a><span data-ttu-id="fc408-104">Облачные решения для малого и среднего бизнеса</span><span class="sxs-lookup"><span data-stu-id="fc408-104">Small and Midmarket Cloud Solutions</span></span> 
-<span data-ttu-id="fc408-105">Компетенция "Облачные решения для малого и среднего бизнеса" поможет вам создать свой бренд в качестве партнера, специализирующегося на продаже и развертывании решений Office 365 для малого и среднего бизнеса.</span><span class="sxs-lookup"><span data-stu-id="fc408-105">The Small and Midmarket Cloud Solutions competency helps you to create your brand as a partner specialized in selling and deploying Office 365 solutions to small and midsized businesses.</span></span>
+>[!IMPORTANT]
+><span data-ttu-id="9a774-104">Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="9a774-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
-## <a name="o365-services-option"></a><span data-ttu-id="fc408-106">Курс "Службы O365"</span><span class="sxs-lookup"><span data-stu-id="fc408-106">O365 Services option</span></span>
-<span data-ttu-id="fc408-107">Курс "Службы Office 365" подходит для партнеров, которые продают и предоставляют службы Office 365 своим клиентам.</span><span class="sxs-lookup"><span data-stu-id="fc408-107">The Office 365 Services option is ideal for partners that sell and provide Office 365 services for their customers.</span></span> <span data-ttu-id="fc408-108">Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Облачные решения для малого и среднего бизнеса".</span><span class="sxs-lookup"><span data-stu-id="fc408-108">Complete all the steps within the option to attain the Small and Midmarket Cloud Solutions competency.</span></span>
+<!--
+# Small and Midmarket Cloud Solutions 
+The Small and Midmarket Cloud Solutions competency helps you to create your brand as a partner specialized in selling and deploying Office 365 solutions to small and midsized businesses.
 
-### <a name="silver"></a><span data-ttu-id="fc408-109">Silver (Серебряный уровень)</span><span class="sxs-lookup"><span data-stu-id="fc408-109">Silver</span></span>
-1. <span data-ttu-id="fc408-110">Ваша организация должна соответствовать пороговым значениям производительности.</span><span class="sxs-lookup"><span data-stu-id="fc408-110">Your organization must meet the performance thresholds.</span></span>
+## O365 Services option
+The Office 365 Services option is ideal for partners that sell and provide Office 365 services for their customers. Complete all the steps within the option to attain the Small and Midmarket Cloud Solutions competency.
+
+### Silver
+1. Your organization must meet the performance thresholds.
     
-    - <span data-ttu-id="fc408-111">Вам необходимо увеличить свою пользовательскую базу на 4 новых пользователя Office 365 за предыдущие 12 месяцев.</span><span class="sxs-lookup"><span data-stu-id="fc408-111">You must increase your customer base by 4 new Office 365 customers within the previous 12 months.</span></span>
-    - <span data-ttu-id="fc408-112">С этими клиентами у вас должны быть установлены отношения в качестве Полномочного администратора Office 365 или Партнера по сделкам записи Office 365, или Цифрового партнера записи Office 365.</span><span class="sxs-lookup"><span data-stu-id="fc408-112">For these customers, you have to be associated as Office 365 Delegated Administrator or Transacting Partner or Digital Partner of Record.</span></span>
-    - <span data-ttu-id="fc408-113">[Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.</span><span class="sxs-lookup"><span data-stu-id="fc408-113">[Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.</span></span>
+    - You must increase your customer base by 4 new Office 365 customers within the previous 12 months.
+    - For these customers, you have to be associated as Office 365 Delegated Administrator or Transacting Partner or Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-### <a name="gold"></a><span data-ttu-id="fc408-114">Gold (Золотой уровень)</span><span class="sxs-lookup"><span data-stu-id="fc408-114">Gold</span></span>
-1. <span data-ttu-id="fc408-115">Ваша организация должна соответствовать пороговым значениям производительности.</span><span class="sxs-lookup"><span data-stu-id="fc408-115">Your organization must meet the performance thresholds.</span></span>
+### Gold
+1. Your organization must meet the performance thresholds.
 
-    - <span data-ttu-id="fc408-116">Вам необходимо увеличить свою пользовательскую базу на 25 новых пользователей Office 365 за предыдущие 12 месяцев.</span><span class="sxs-lookup"><span data-stu-id="fc408-116">You must increase your customer base by 25 new Office 365 customers within the previous 12 months.</span></span>
-    - <span data-ttu-id="fc408-117">С этими клиентами у вас должны быть установлены отношения в качестве Полномочного администратора Office 365 или Партнера по сделкам записи Office 365, или Цифрового партнера записи Office 365.</span><span class="sxs-lookup"><span data-stu-id="fc408-117">For these customers, you have to be associated as Office 365 Delegated Administrator or Transacting Partner or Digital Partner of Record.</span></span>
-    - <span data-ttu-id="fc408-118">[Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.</span><span class="sxs-lookup"><span data-stu-id="fc408-118">[Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.</span></span>  
+    - You must increase your customer base by 25 new Office 365 customers within the previous 12 months.
+    - For these customers, you have to be associated as Office 365 Delegated Administrator or Transacting Partner or Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. <span data-ttu-id="fc408-119">**2** сотрудника вашей организации должны удовлетворять требованиям, предъявляемым к прохождению экзаменов.</span><span class="sxs-lookup"><span data-stu-id="fc408-119">Your organization must have **2** individuals pass the exam requirements.</span></span>
+2. Your organization must have **2** individuals pass the exam requirements.
 
-    - <span data-ttu-id="fc408-120">Каждый из **2** сотрудников должен пройти следующий экзамен:</span><span class="sxs-lookup"><span data-stu-id="fc408-120">**2** individuals must each pass the following exam:</span></span>
-        - <span data-ttu-id="fc408-121">[Экзамен 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): активация служб Office 365</span><span class="sxs-lookup"><span data-stu-id="fc408-121">[Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services</span></span>
+    - **2** individuals must each pass the following exam:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
+-->

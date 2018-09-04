@@ -1,85 +1,93 @@
 ---
-title: "Компетенция \"Облачная платформа\""
-description: "Компетенция \"Облачная платформа\" предназначена для партнеров, которые хотят извлекать выгоду из растущего спроса на решения типа \"инфраструктура как услуга\" и \"ПО как услуга\" (SaaS), созданных на основе Microsoft Azure."
+title: Компетенция "Облачная платформа"
+description: Компетенция "Облачная платформа" предназначена для партнеров, которые хотят извлекать выгоду из растущего спроса на решения типа "инфраструктура как услуга" и "ПО как услуга" (SaaS), созданных на основе Microsoft Azure.
 author: Daniel Simpson
-keywords: "компетенция, компетенции, облачная платформа"
-ms.openlocfilehash: 1ae6408b2fc7efca904e84907be1735c76ea480e
-ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
-ms.translationtype: HT
+keywords: компетенция, компетенции, облачная платформа
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 625bf04a692a13ae88ad3487d99aea36be50be02
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875194"
 ---
-#<a name="cloud-platform"></a><span data-ttu-id="1dddf-104">Облачная платформа</span><span class="sxs-lookup"><span data-stu-id="1dddf-104">Cloud Platform</span></span>
-<span data-ttu-id="1dddf-105">Компетенция "Облачная платформа" предназначена для партнеров, которые хотят извлекать выгоду из растущего спроса на решения типа "инфраструктура как услуга" и "ПО как услуга" (SaaS), созданных на основе Microsoft Azure.</span><span class="sxs-lookup"><span data-stu-id="1dddf-105">The Cloud Platform competency is designed for partners to capitalize on the growing demand for infrastructure and software as a service (SaaS) solutions built on Microsoft Azure.</span></span>
+>[!IMPORTANT]
+><span data-ttu-id="c8386-104">Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="c8386-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
-##<a name="azure-consumption-option"></a><span data-ttu-id="1dddf-106">Курс "Потребление ресурсов Azure"</span><span class="sxs-lookup"><span data-stu-id="1dddf-106">Azure Consumption option</span></span>
-<span data-ttu-id="1dddf-107">Курс "Потребление ресурсов Azure" подходит для партнеров, которые стимулируют своих клиентов использовать дополнительные ресурсы Azure или внедрять продукты Azure, и решили получить компетенцию путем обеспечения соответствия пороговым значениям производительности.</span><span class="sxs-lookup"><span data-stu-id="1dddf-107">The Azure Consumption option is ideal for partners who are driving Azure usage/adoption with their customers, and who choose to attain competency by meeting the performance thresholds.</span></span> <span data-ttu-id="1dddf-108">Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Облачная платформа".</span><span class="sxs-lookup"><span data-stu-id="1dddf-108">Complete all the steps within to attain the Cloud Platform competency.</span></span>
+<!--
+#Cloud Platform
+The Cloud Platform competency is designed for partners to capitalize on the growing demand for infrastructure and software as a service (SaaS) solutions built on Microsoft Azure.
 
-###<a name="silver"></a><span data-ttu-id="1dddf-109">Silver (Серебряный уровень)</span><span class="sxs-lookup"><span data-stu-id="1dddf-109">Silver</span></span>
+##Azure Consumption option
+The Azure Consumption option is ideal for partners who are driving Azure usage/adoption with their customers, and who choose to attain competency by meeting the performance thresholds. Complete all the steps within to attain the Cloud Platform competency.
 
-1. <span data-ttu-id="1dddf-110">Ваша организация должна соответствовать пороговым значениям производительности.</span><span class="sxs-lookup"><span data-stu-id="1dddf-110">Your organization must meet the performance thresholds.</span></span>
+###Silver
 
-    - **<span data-ttu-id="1dddf-111">Развитые рынки</span><span class="sxs-lookup"><span data-stu-id="1dddf-111">Developed Markets</span></span>**
-        - <span data-ttu-id="1dddf-112">Доход партнера от потребления их клиентами ресурсов Azure должен составлять 15000 долларов США за последние 12 месяцев.</span><span class="sxs-lookup"><span data-stu-id="1dddf-112">Partners must demonstrate US$15,000 Azure customer consumption within the previous 12 months</span></span>
+1. Your organization must meet the performance thresholds.
+
+    - **Developed Markets**
+        - Partners must demonstrate US$15,000 Azure customer consumption within the previous 12 months
     
-    - **<span data-ttu-id="1dddf-113">Развивающиеся рынки</span><span class="sxs-lookup"><span data-stu-id="1dddf-113">Developing Markets</span></span>** 
-        - <span data-ttu-id="1dddf-114">Доход партнера от потребления их клиентами ресурсов Azure должен составлять 10000 долларов США за последние 12 месяцев.</span><span class="sxs-lookup"><span data-stu-id="1dddf-114">Partners must demonstrate US$10,000 Azure customer consumption within the previous 12 months</span></span>
+    - **Developing Markets** 
+        - Partners must demonstrate US$10,000 Azure customer consumption within the previous 12 months
 
-    - <span data-ttu-id="1dddf-115">С этими клиентами у вас должны быть установлены отношения в качестве Цифрового партнера записи или Партнера по сделкам записи.</span><span class="sxs-lookup"><span data-stu-id="1dddf-115">For these customers, you have to be associated as Digital Partner of Record or Transacting Partner of Record.</span></span>
-    - <span data-ttu-id="1dddf-116">[Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.</span><span class="sxs-lookup"><span data-stu-id="1dddf-116">[Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.</span></span>  
+    - For these customers, you have to be associated as Digital Partner of Record or Transacting Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. <span data-ttu-id="1dddf-117">**1** сотрудник в вашей организации должен пройти необходимый экзамен или аттестацию.</span><span class="sxs-lookup"><span data-stu-id="1dddf-117">Your organization must have **1** individual pass the exam or assessment requirements.</span></span>
+2. Your organization must have **1** individual pass the exam or assessment requirements.
 
-    - <span data-ttu-id="1dddf-118">**1** сотрудник должен пройти одну из следующих аттестаций:</span><span class="sxs-lookup"><span data-stu-id="1dddf-118">**1** individual must pass one of the following assessments:</span></span>
-        - [<span data-ttu-id="1dddf-119">Техническая оценка знаний по облачной платформе</span><span class="sxs-lookup"><span data-stu-id="1dddf-119">Technical Assessment for Cloud Platform</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13736&scoId=N3FXNd7VB_8805299994)
-        - [<span data-ttu-id="1dddf-120">Техническая оценка знаний по использованию Azure для создания решений для аналитики данных и платформ данных</span><span class="sxs-lookup"><span data-stu-id="1dddf-120">Technical Assessment for Using Azure for Data Analytics and Data Platform Solutions</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13735&scoId=eOi68a7VB_1905299994)
-        - [<span data-ttu-id="1dddf-121">Техническая оценка знаний по использованию Microsoft Azure для разработки приложений</span><span class="sxs-lookup"><span data-stu-id="1dddf-121">Technical Assessment for Using Microsoft Azure for Application Development</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13979&scoId=enD8qylbB_9305299993)
-        - [<span data-ttu-id="1dddf-122">Техническая оценка знаний по использованию Azure для создания решения для "Интернета вещей"</span><span class="sxs-lookup"><span data-stu-id="1dddf-122">Technical Assessment for Using Azure for Internet of Things Solutions</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16252&scoId=ABMqsgVLC_4605996570)
-        - [<span data-ttu-id="1dddf-123">Техническая оценка знаний по использованию службы удаленного рабочего стола Azure</span><span class="sxs-lookup"><span data-stu-id="1dddf-123">Technical Assessment for Using Azure Remote Desktop Service</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16571&scoId=R4xnMbpgC_3505996570)
+    - **1** individual must pass one of the following assessments:
+        - [Technical Assessment for Cloud Platform](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13736&scoId=N3FXNd7VB_8805299994)
+        - [Technical Assessment for Using Azure for Data Analytics and Data Platform Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13735&scoId=eOi68a7VB_1905299994)
+        - [Technical Assessment for Using Microsoft Azure for Application Development](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13979&scoId=enD8qylbB_9305299993)
+        - [Technical Assessment for Using Azure for Internet of Things Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16252&scoId=ABMqsgVLC_4605996570)
+        - [Technical Assessment for Using Azure Remote Desktop Service](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16571&scoId=R4xnMbpgC_3505996570)
 
-    **<span data-ttu-id="1dddf-124">ИЛИ</span><span class="sxs-lookup"><span data-stu-id="1dddf-124">OR</span></span>**
+    **OR**
 
-    - <span data-ttu-id="1dddf-125">**1** сотрудник должен пройти один из следующих экзаменов:</span><span class="sxs-lookup"><span data-stu-id="1dddf-125">**1** individual must pass one of the following exams:</span></span>
-        - <span data-ttu-id="1dddf-126">[Экзамен 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): разработка решений Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="1dddf-126">[Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions</span></span>
-        - <span data-ttu-id="1dddf-127">[Экзамен 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): внедрение инфраструктурных решений Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="1dddf-127">[Exam 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementing Microsoft Azure Infrastructure Solutions</span></span>
-        - <span data-ttu-id="1dddf-128">[Экзамен 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): проектирование решений Microsoft Azure*</span><span class="sxs-lookup"><span data-stu-id="1dddf-128">[Exam 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Architecting Microsoft Azure Solutions*</span></span>
-        - <span data-ttu-id="1dddf-129">[Экзамен 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): проектирование решений Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="1dddf-129">[Exam 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): Architecting Microsoft Azure Solutions</span></span> 
-        - <span data-ttu-id="1dddf-130">[Экзамен 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): проектирование и внедрение облачных платформ данных</span><span class="sxs-lookup"><span data-stu-id="1dddf-130">[Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions</span></span>
-        - <span data-ttu-id="1dddf-131">[Экзамен 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): проектирование и внедрение решений для аналитики больших объемов данных</span><span class="sxs-lookup"><span data-stu-id="1dddf-131">[Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions</span></span>
-        - <span data-ttu-id="1dddf-132">[MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux в Azure</span><span class="sxs-lookup"><span data-stu-id="1dddf-132">[MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux on Azure</span></span>
+    - **1** individual must pass one of the following exams:
+        - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
+        - [Exam 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementing Microsoft Azure Infrastructure Solutions
+        - [Exam 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Architecting Microsoft Azure Solutions*
+        - [Exam 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): Architecting Microsoft Azure Solutions 
+        - [Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
+        - [Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions
+        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux on Azure
 
-<span data-ttu-id="1dddf-133">*Прекращение действия: 31декабря 2017г.</span><span class="sxs-lookup"><span data-stu-id="1dddf-133">*Retiring December 31, 2017.</span></span> <span data-ttu-id="1dddf-134">Результаты прохождения этого экзамена будут действительны для получения компетенции до 31декабря2018года.</span><span class="sxs-lookup"><span data-stu-id="1dddf-134">This exam will continue to be accepted for competency qualification until December 31, 2018.</span></span> <span data-ttu-id="1dddf-135">Зарегистрироваться на сдачу этого экзамена можно до 30 ноября 2017 г.</span><span class="sxs-lookup"><span data-stu-id="1dddf-135">You may register for this exam until November 30, 2017.</span></span>
+*Retiring December 31, 2017. This exam will continue to be accepted for competency qualification until December 31, 2018. You may register for this exam until November 30, 2017.
 
-<span data-ttu-id="1dddf-136">После 30 ноября 2017 г. необходимо будет регистрироваться на указанный выше замещающий экзамен, 70-535.</span><span class="sxs-lookup"><span data-stu-id="1dddf-136">After November 30, 2017 you will need to register for the replacement exam listed above, exam 70-535.</span></span>  
+After November 30, 2017 you will need to register for the replacement exam listed above, exam 70-535.  
 
-###<a name="gold"></a><span data-ttu-id="1dddf-137">Уровень Gold</span><span class="sxs-lookup"><span data-stu-id="1dddf-137">Gold</span></span>
+###Gold
 
-1. <span data-ttu-id="1dddf-138">Ваша организация должна соответствовать пороговым значениям производительности.</span><span class="sxs-lookup"><span data-stu-id="1dddf-138">Your organization must meet the performance thresholds.</span></span>
+1. Your organization must meet the performance thresholds.
 
-    - <span data-ttu-id="1dddf-139">Доход партнера от потребления их клиентами ресурсов Azure должен составлять 100000 долларов США за последние 12 месяцев.</span><span class="sxs-lookup"><span data-stu-id="1dddf-139">Partners must demonstrate US$100,000 Azure customer consumption within the previous 12 months</span></span>
-    - <span data-ttu-id="1dddf-140">С этими клиентами у вас должны быть установлены отношения в качестве Цифрового партнера записи или Партнера по сделкам записи.</span><span class="sxs-lookup"><span data-stu-id="1dddf-140">For these customers, you have to be associated as Digital Partner of Record or Transacting Partner of Record.</span></span>
-    - <span data-ttu-id="1dddf-141">[Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.</span><span class="sxs-lookup"><span data-stu-id="1dddf-141">[Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.</span></span>
+    - Partners must demonstrate US$100,000 Azure customer consumption within the previous 12 months
+    - For these customers, you have to be associated as Digital Partner of Record or Transacting Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-2. <span data-ttu-id="1dddf-142">**2** сотрудника в вашей организации должны пройти необходимый экзамен или аттестацию.</span><span class="sxs-lookup"><span data-stu-id="1dddf-142">Your organization must have **2** individuals pass the exam or assessment requirements.</span></span>
+2. Your organization must have **2** individuals pass the exam or assessment requirements.
 
-    - <span data-ttu-id="1dddf-143">**2** сотрудника должны пройти одну из следующих аттестаций:</span><span class="sxs-lookup"><span data-stu-id="1dddf-143">**2** individuals must pass one of the following assessments:</span></span>
-        - [<span data-ttu-id="1dddf-144">Техническая оценка знаний по облачной платформе</span><span class="sxs-lookup"><span data-stu-id="1dddf-144">Technical Assessment for Cloud Platform</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13736&scoId=N3FXNd7VB_8805299994)
-        - [<span data-ttu-id="1dddf-145">Техническая оценка знаний по использованию Azure для создания решений для аналитики данных и платформ данных</span><span class="sxs-lookup"><span data-stu-id="1dddf-145">Technical Assessment for Using Azure for Data Analytics and Data Platform Solutions</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13735&scoId=eOi68a7VB_1905299994)
-        - [<span data-ttu-id="1dddf-146">Техническая оценка знаний по использованию Microsoft Azure для разработки приложений</span><span class="sxs-lookup"><span data-stu-id="1dddf-146">Technical Assessment for Using Microsoft Azure for Application Development</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13979&scoId=enD8qylbB_9305299993)
-        - [<span data-ttu-id="1dddf-147">Техническая оценка знаний по использованию Azure для создания решения для "Интернета вещей"</span><span class="sxs-lookup"><span data-stu-id="1dddf-147">Technical Assessment for Using Azure for Internet of Things Solutions</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16252&scoId=ABMqsgVLC_4605996570)
-        - [<span data-ttu-id="1dddf-148">Техническая оценка знаний по использованию службы удаленного рабочего стола Azure</span><span class="sxs-lookup"><span data-stu-id="1dddf-148">Technical Assessment for Using Azure Remote Desktop Service</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16571&scoId=R4xnMbpgC_3505996570)
+    - **2** individuals must pass one of the following assessments:
+        - [Technical Assessment for Cloud Platform](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13736&scoId=N3FXNd7VB_8805299994)
+        - [Technical Assessment for Using Azure for Data Analytics and Data Platform Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13735&scoId=eOi68a7VB_1905299994)
+        - [Technical Assessment for Using Microsoft Azure for Application Development](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13979&scoId=enD8qylbB_9305299993)
+        - [Technical Assessment for Using Azure for Internet of Things Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16252&scoId=ABMqsgVLC_4605996570)
+        - [Technical Assessment for Using Azure Remote Desktop Service](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16571&scoId=R4xnMbpgC_3505996570)
 
-    **<span data-ttu-id="1dddf-149">ИЛИ</span><span class="sxs-lookup"><span data-stu-id="1dddf-149">OR</span></span>**
+    **OR**
 
-    - <span data-ttu-id="1dddf-150">**2** сотрудника должны пройти один из следующих экзаменов:</span><span class="sxs-lookup"><span data-stu-id="1dddf-150">**2** individuals must pass one of the following exams:</span></span>
-        - <span data-ttu-id="1dddf-151">[Экзамен 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): разработка решений Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="1dddf-151">[Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions</span></span>
-        - <span data-ttu-id="1dddf-152">[Экзамен 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): внедрение инфраструктурных решений Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="1dddf-152">[Exam 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementing Microsoft Azure Infrastructure Solutions</span></span>
-        - <span data-ttu-id="1dddf-153">[Экзамен 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): проектирование решений Microsoft Azure*</span><span class="sxs-lookup"><span data-stu-id="1dddf-153">[Exam 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Architecting Microsoft Azure Solutions*</span></span>
-        - <span data-ttu-id="1dddf-154">[Экзамен 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): проектирование решений Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="1dddf-154">[Exam 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): Architecting Microsoft Azure Solutions</span></span> 
-        - <span data-ttu-id="1dddf-155">[Экзамен 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): проектирование и внедрение облачных платформ данных</span><span class="sxs-lookup"><span data-stu-id="1dddf-155">[Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions</span></span>
-        - <span data-ttu-id="1dddf-156">[Экзамен 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): проектирование и внедрение решений для аналитики больших объемов данных</span><span class="sxs-lookup"><span data-stu-id="1dddf-156">[Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions</span></span>
-        - <span data-ttu-id="1dddf-157">[MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux в Azure</span><span class="sxs-lookup"><span data-stu-id="1dddf-157">[MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux on Azure</span></span>
+    - **2** individuals must pass one of the following exams:
+        - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
+        - [Exam 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementing Microsoft Azure Infrastructure Solutions
+        - [Exam 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Architecting Microsoft Azure Solutions*
+        - [Exam 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): Architecting Microsoft Azure Solutions 
+        - [Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
+        - [Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions
+        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux on Azure
 
-<span data-ttu-id="1dddf-158">*Прекращение действия: 31декабря 2017г.</span><span class="sxs-lookup"><span data-stu-id="1dddf-158">*Retiring December 31, 2017.</span></span> <span data-ttu-id="1dddf-159">Результаты прохождения этого экзамена будут действительны для получения компетенции до 31декабря2018года.</span><span class="sxs-lookup"><span data-stu-id="1dddf-159">This exam will continue to be accepted for competency qualification until December 31, 2018.</span></span> <span data-ttu-id="1dddf-160">Зарегистрироваться на сдачу этого экзамена можно до 30 ноября 2017 г.</span><span class="sxs-lookup"><span data-stu-id="1dddf-160">You may register for this exam until November 30, 2017.</span></span>
+*Retiring December 31, 2017. This exam will continue to be accepted for competency qualification until December 31, 2018. You may register for this exam until November 30, 2017.
 
-<span data-ttu-id="1dddf-161">После 30 ноября 2017 г. необходимо будет регистрироваться на указанный выше замещающий экзамен, 70-535.</span><span class="sxs-lookup"><span data-stu-id="1dddf-161">After November 30, 2017 you will need to register for the replacement exam listed above, exam 70-535.</span></span> 
+After November 30, 2017 you will need to register for the replacement exam listed above, exam 70-535. 
+-->
