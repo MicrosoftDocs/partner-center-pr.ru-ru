@@ -1,14 +1,16 @@
 ---
-title: "Самообслуживание для клиентов | Центр партнеров"
-description: "Самообслуживание для клиентов"
+title: Самообслуживание для клиентов | Центр партнеров
+description: Самообслуживание для клиентов
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
-keywords: "самообслуживание для клиентов, самообслуживание,"
-ms.openlocfilehash: 0836ce7501dcbf1fadb7f675dab8fc0583a1d4cf
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
-ms.translationtype: HT
+keywords: самообслуживание для клиентов, самообслуживание,
+ms.localizationpriority: medium
+ms.openlocfilehash: 7bfc4a75d384e5691763a6adca24f619bdee0a3b
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874584"
 ---
 # <a name="customer-self-support"></a>Самообслуживание для клиентов
 
@@ -26,7 +28,7 @@ ms.lasthandoff: 01/17/2018
 
 Чтобы приобрести дополнительные подписки или отменить свои подписки, клиенты должны связаться со своим партнером по программе поставщиков облачных решений. Клиенты не могут изменить свои подписки непосредственно в Майкрософт.
 
-Клиенты могут находить ответы самообслуживания на вопросы справки и инструкции через Центр администрирования Microsoft Online, TechNet или сообщества Microsoft Office 365. Список ресурсов по продуктам доступен на странице [Поддержка](https://partnercenter.microsoft.com/partner/support) в Центре партнеров. Мы рекомендуем партнерам сначала направлять своих клиентов на эти ресурсы.
+Когда клиентам необходима помощь с продуктами, они могут найти информацию о [поддержке](https://partnercenter.microsoft.com/partner/support)ресурсов по продуктам. Мы рекомендуем партнерам сначала направлять своих клиентов на эти ресурсы.
 
  
 

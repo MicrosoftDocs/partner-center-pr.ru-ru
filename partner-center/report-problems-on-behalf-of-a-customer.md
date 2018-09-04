@@ -4,11 +4,13 @@ Description: If your customer is experiencing a service problem that you can''t 
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
-ms.openlocfilehash: 5e1cbd1a6db707ddb2cecb7c9e8d59bfa828f6be
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 25f57a2ddc16ebb1f98d6f2f083fca870b74fdff
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876274"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Сообщение о проблемах от имени клиента
 
@@ -86,9 +88,13 @@ ms.lasthandoff: 04/08/2018
 
 При входе напрямую в Центр администрирования Office 365 вы просматриваете его в собственном контексте, а не в контексте клиента. Поэтому необходимо выполнять вход непосредственно в Центр администрирования Office 365 только если вы создаете запрос на обслуживание, связанный с вашими собственными подписками.
 
- 
+**Как получить дополнительную поддержку Dynamics 365?**
 
+ Если возникают проблемы, связанные с: Dynamics 365 Plan подписки, лицензирование, выставление счетов, процент & операций, IURs или требуют дальнейшего технической поддержки:
  
+Обратитесь в службу [поддержки Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
+
+Чтение [поддержки Microsoft Dynamics](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
 
 
 

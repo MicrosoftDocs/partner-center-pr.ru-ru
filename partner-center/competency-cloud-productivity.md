@@ -1,66 +1,73 @@
 ---
-title: "Компетенция \"Облачная производительность\""
-description: "Компетенция \"Облачная производительность\" предназначена для партнеров, специализирующихся в области корпоративного развертывания Office 365. Выделитесь на фоне конкурентов с помощью этой компетенции как надежный поставщик облачных решений для клиентов, ищущих квалифицированных партнеров по облачным решениям."
+title: Компетенция "Облачная производительность"
+description: Компетенция "Облачная производительность" предназначена для партнеров, специализирующихся в области корпоративного развертывания Office 365. Выделитесь на фоне конкурентов с помощью этой компетенции как надежный поставщик облачных решений для клиентов, ищущих квалифицированных партнеров по облачным решениям.
 author: Daniel Simpson
-keywords: "компетенция, компетенции, облачная производительность"
-ms.openlocfilehash: b9616b455fae524af82ce0880b99bcdde5816fa7
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: компетенция, компетенции, облачная производительность
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 4d6915bc270500c926d17f10b6d6c0734a360c05
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874944"
 ---
-# <a name="cloud-productivity-competency"></a>Компетенция "Облачная производительность"
+>[!IMPORTANT]
+>Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-Компетенция "Облачная производительность" предназначена для партнеров, специализирующихся в области корпоративного развертывания Office 365. Выделитесь на фоне конкурентов с помощью этой компетенции как надежный поставщик облачных решений для клиентов, ищущих квалифицированных партнеров по облачным решениям.
+<!--
+# Cloud Productivity competency
 
-## <a name="managed-service-partner-option"></a>Курс "Партнер по управляемым службам"
-Курс "Партнер по управляемым службам" подходит для партнеров, которые осуществляют управление средами Office 365 своих клиентов, а также предоставляют услуги по развертыванию. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Облачная производительность".
-### <a name="silver"></a>Silver (Серебряный уровень)
-1.  Ваша организация должна соответствовать пороговым значениям производительности.
-    - **Развитые рынки** 
-        - Партнеры должны развернуть 2000 активных продуктов (активных пользователей)
-    - **Развивающиеся рынки**
-        -  Партнеры должны развернуть 1000 активных продуктов (активных пользователей)
+The Cloud Productivity competency is for partners who specialize in enterprise deployments of Office 365. Differentiate your company with this competency as a proven cloud solution provider for customers searching for qualified cloud solution partners.
+
+## Managed Service Partner option
+The Managed Service Partner option is ideal for partners who manage Office 365 environments for their customer as well as provide deployment services. Complete all the steps within the option to attain the Cloud Productivity competency.
+### Silver
+1.  Your organization must meet the performance thresholds:
+    - **Developed markets** 
+        - Partners must have deployed 2,000 active entitlements (active users)
+    - **Developing markets**
+        -  Partners must have deployed 1,000 active entitlements (active users)
     
-    - К развернутым рабочим нагрузкам может относиться любой экземпляр Microsoft Office 365 (Exchange Online, SharePoint Online, Skype для бизнеса или Yammer) или ProPlus. На пробные версии эти условия не распространяются.     
-    - Примечание. Активные права рассчитываются на основе количества активных пользователей для определенной рабочей нагрузки 
-    - С этими клиентами у вас должны быть установлены отношения в качестве Делегированного администратора Office 365 или Партнера по сделкам записи Office 365, или Цифрового партнера записи Office 365.
-    - [Подробнее](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.
+    - The deployments can be any Microsoft Office 365 workload (Exchange Online, SharePoint Online, Skype for Business, or Yammer) or ProPlus. Trial SKUs are not included.     
+    - Note: Active entitlements measures the count of active users on a specific workload 
+    - For these customers, you have to be associated as Office 365 Delegated Administrator or Transacting Partner or Digital Partner of Record or Fast Track Partner.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-2. **1** сотрудник вашей организации должен удовлетворять требованиям, предъявляемым к прохождению экзаменов.
+2. Your organization must have **1** individual pass the exam requirements.
 
-    - **1** сотрудник должен пройти все следующие экзамены:
+    - **1** individual must pass all the following exams:
 
-        - [Экзамен 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): управление учетными записями и требованиями Office 365  
-        - [Экзамен 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): активация служб Office 365
+        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
     
-    **ИЛИ**
+    **OR**
 
-    - **1** сотрудник должен пройти следующую сертификацию:  
+    - **1** individual must obtain the following certification:  
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-office365-certification.aspx): Office 365
 
-### <a name="gold"></a>Gold (Золотой уровень)
+### Gold
 
-1.  Ваша организация должна соответствовать пороговым значениям производительности. 
+1.  Your organization must meet the performance thresholds. 
 
-    - Партнеры должны развернуть 4000 активных прав (активных пользователей).
-    - К развернутым рабочим нагрузкам может относиться любой экземпляр Microsoft Office 365 (Exchange Online, SharePoint Online, Skype для бизнеса или Yammer) или ProPlus. На пробные версии эти условия не распространяются.
-    - Примечание. Активные права рассчитываются на основе количества активных пользователей для определенной рабочей нагрузки
-    - С этими клиентами у вас должны быть установлены отношения в качестве Делегированного администратора Office 365 или Партнера по сделкам записи Office 365, или Цифрового партнера записи Office 365.
-    - [Подробнее](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.
+    - Partners must have deployed 4,000 active entitlements (active users).
+    - The deployments can be any Microsoft Office 365 workload (Exchange Online, SharePoint Online, Skype for Business, or Yammer) or ProPlus. Trial SKUs are not included.
+    - Note: Active entitlements measures the count of active users on a specific workload
+    - For these customers, you have to be associated as Office 365 Delegated Administrator or Transacting Partner or Digital Partner of Record or Fast Track Partner.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-2.  **2** сотрудника вашей организации должны удовлетворять требованиям, предъявляемым к прохождению экзаменов.
+2.  Your organization must have **2** individuals pass the exam requirements.
 
-    - **2** сотрудника должны пройти все следующие экзамены:
+    - **2** individuals must pass all the following exams:
 
-        - [Экзамен 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): управление учетными записями и требованиями Office 365  
-        - [Экзамен 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): активация служб Office 365
+        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
         
-    **ИЛИ**
+    **OR**
     
-    - **2** сотрудника должны пройти следующую сертификацию:
+    - **2** individuals must obtain the following certification:
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-office365-certification.aspx): Office 365
-
+-->
 
 
 

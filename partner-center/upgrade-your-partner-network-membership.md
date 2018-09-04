@@ -1,13 +1,15 @@
 ---
-title: "Обновить членство Microsoft Partner Network | Центр партнеров"
-description: "При обновлении членства Microsoft Partner Network вы имеете право на преимущества эксклюзивного членства. Узнайте, как найти и приобрести доступные предложения."
+title: Обновить членство Microsoft Partner Network | Центр партнеров
+description: При обновлении членства Microsoft Partner Network вы имеете право на преимущества эксклюзивного членства. Узнайте, как найти и приобрести доступные предложения.
 author: MaggiePucciEvans
 robots: noindex,nofollow
-ms.openlocfilehash: 9503ce2188adf77122a1eb48efe748abddaabcb6
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: a8165a6e7f24437a556ecd72e4e87966b148db0a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875714"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Обновить членство Microsoft Partner Network
 
@@ -27,7 +29,7 @@ ms.lasthandoff: 07/08/2017
 
   - Компетенция уровня Gold — лучшие в классе возможности в конкретной области решений Майкрософт
 
-После присоединения к Microsoft Partner Network вы получите право обновить членство и купить предложения преимуществ эксклюзивного членства. Дополнительные сведения о членстве в Microsoft Partner Network см. на странице [https://partner.microsoft.com](https://partner.microsoft.com).
+После присоединения к Microsoft Partner Network вы получите право обновить членство и купить предложения преимуществ эксклюзивного членства. Дополнительные сведения о членстве в Microsoft Partner Network [https://partner.microsoft.com](https://partner.microsoft.com).
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Приобретение подписки на Microsoft Action Pack
@@ -42,7 +44,7 @@ ms.lasthandoff: 07/08/2017
 
 - Получайте каждый месяц кредиты Microsoft Azure в размере 100 долларов США
 
-Дополнительные сведения о Microsoft Action Pack см. на странице [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
+Дополнительные сведения о Microsoft Action Pack, перейдите к [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
 >**Примечание** Переход по этой ссылке переместит вас на другой веб-сайт. Вернитесь на этот сайт Центра партнеров, чтобы подписаться на Action Pack.
 
@@ -104,7 +106,7 @@ ms.lasthandoff: 07/08/2017
 
 Чтобы отменить подписку на Microsoft Action Pack, вы должны обратиться в службу поддержки Центра партнеров.
 
-1. Перейдите на веб-страницу https://partnercenter.microsoft.com/ru-ru/partner/support.
+1. Перейдите в раздел https://partnercenter.microsoft.com/partner/support.
 
 2. Выберите **Сообщить о проблемах с Центром партнеров**, а затем выберите **Новый запрос** на следующей странице.
 

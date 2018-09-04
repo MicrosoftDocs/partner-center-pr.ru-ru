@@ -1,85 +1,93 @@
 ---
-title: "Компетенция \"Интеграция приложений\""
-description: "Компетенция \"Интеграция приложений\" подтверждает опыт партнеров и разработчиков в области интеграции уникальных приложений и решений в различные продукты экосистемы Майкрософт."
+title: Компетенция "Интеграция приложений"
+description: Компетенция "Интеграция приложений" подтверждает опыт партнеров и разработчиков в области интеграции уникальных приложений и решений в различные продукты экосистемы Майкрософт.
 author: Daniel Simpson
-keywords: "компетенция, компетенции, интеграция приложений"
-ms.openlocfilehash: 968cf5bdbe4e6c78ad330d94ad618a821927483a
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: компетенция, компетенции, интеграция приложений
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: a5c69706898ff791f56a86a4c0f2f32dfb2199d4
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876694"
 ---
-# <a name="application-integration"></a>Интеграция приложений 
-Компетенция "Интеграция приложений" подтверждает опыт партнеров и разработчиков в области интеграции уникальных приложений и решений в различные продукты экосистемы Майкрософт. 
+>[!IMPORTANT]
+>Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-## <a name="application-integrator-option"></a>Курс "Интегратор приложений"
+<!--
 
-Курс "Интегратор приложений" подходит тем, кто хочет подтвердить свои навыки, пройдя экзамены или сертификации. Выберите экзамены в соответствующей области специализации. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Интеграция приложений".
+# Application Integration 
+The Application Integration competency recognizes partners and developers who integrate unique applications and solutions into various products across the Microsoft ecosystem. 
 
-###<a name="silver"></a>Silver (Серебряный уровень)
-1. **2** сотрудника вашей организации должны пройти как экзамены, так и аттестации.
+## Application Integrator option
 
-    - **2** сотрудника должны пройти любой из следующих экзаменов:
+The Application Integrator option is ideal if you prefer to prove your skills by passing exams or certifications. Choose exams from the focus area of your choice. Complete all the steps within to attain the Application Integration competency.
 
-        - Направление **Windows Server**
-            - [Экзамен 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): настройка дополнительных служб Windows Server 2012
-            - [Экзамен 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): установка, хранение и вычисления с помощью Windows Server 2016
-            - [Экзамен 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): управление сетью с помощью Windows Server 2016
-            - [Экзамен 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): работа с учетными данными с помощью Windows Server 2016
+###Silver
+1. Your organization must have **2** individuals pass both exams and assessments.
 
-        - Направление **SQL Server**
+    - **2** individuals must pass any one of the following exams:
 
-            - [Экзамен 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): администрирование баз данных Microsoft SQL Server 2012
-            - [Экзамен 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): разработка баз данных Microsoft SQL Server 2012
-            - [Экзамен 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): разработка баз данных SQL
-            - [Экзамен 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): администрирование инфраструктуры базы данных SQL
+        - **Windows Server** focus area
+            - [Exam 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services
+            - [Exam 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage and Compute with Windows Server 2016
+            - [Exam 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Networking with Windows Server 2016
+            - [Exam 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identity with Windows Server 2016
 
-        - Направление **C#** 
+        - **SQL Server** focus area
 
-            - [Экзамен 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): программирование на C#
+            - [Exam 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012 Databases
+            - [Exam 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): Developing Microsoft SQL Server 2012 Databases
+            - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
+            - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure
 
-        - Направление **Azure**
+        - **C#** focus area 
 
-            - [Экзамен 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): разработка Microsoft Azure и веб-служб
-            - [Экзамен 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): разработка решений Microsoft Azure
+            - [Exam 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): Programming in C#
 
-        **И**
+        - **Azure** focus area
 
-    - **2** сотрудника должны пройти следующую аттестацию:
+            - [Exam 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Developing Windows Azure and Web Services
+            - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
 
-        - [Техническая оценка квалификации BizTalk по интеграции приложений (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
+        **AND**
 
-###<a name="gold"></a>Gold (Золотой уровень)
-1. **4** сотрудников вашей организации должны пройти как экзамены, так и аттестации.
+    - **2** individuals must pass the following assessment:
 
-    - **4** сотрудника должны пройти любой из следующих экзаменов:
+        - [BizTalk Technical Competency Assessment for Application Integration (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
 
-        - Направление **Windows Server**
+###Gold
+1. Your organization must have **4** individuals pass both exams and assessments.
 
-            - [Экзамен 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): настройка дополнительных служб Windows Server 2012
-            - [Экзамен 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): установка, хранение и вычисления с помощью Windows Server 2016
-            - [Экзамен 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): управление сетью с помощью Windows Server 2016
-            - [Экзамен 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): работа с учетными данными с помощью Windows Server 2016
+    - **4** individuals must pass any one of the following exams:
 
-        - Направление **SQL Server**
+        - **Windows Server** focus area
 
-            - [Экзамен 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): администрирование баз данных Microsoft SQL Server 2012
-            - [Экзамен 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): разработка баз данных Microsoft SQL Server 2012
-            - [Экзамен 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): разработка баз данных SQL
-            - [Экзамен 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): администрирование инфраструктуры базы данных SQL
+            - [Exam 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services
+            - [Exam 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage and Compute with Windows Server 2016
+            - [Exam 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Networking with Windows Server 2016
+            - [Exam 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identity with Windows Server 2016
 
-        - Направление **C#** 
+        - **SQL Server** focus area
 
-            - [Экзамен 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): программирование на C#
+            - [Exam 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012 Databases
+            - [Exam 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): Developing Microsoft SQL Server 2012 Databases
+            - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
+            - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure
 
-        - Направление **Azure**
+        - **C#** focus area 
 
-            - [Экзамен 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): разработка Microsoft Azure и веб-служб
-            - [Экзамен 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): разработка решений Microsoft Azure
+            - [Exam 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): Programming in C#
 
-        **И**
+        - **Azure** focus area
 
-    - **4** сотрудника должны пройти следующую аттестацию: Это могут те же 4 сотрудника, которые сдали экзамен выше. :
+            - [Exam 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Developing Windows Azure and Web Services
+            - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
 
-        - [Техническая оценка квалификации BizTalk по интеграции приложений (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
+        **AND**
 
+    - **4** individuals must pass the following assessment. This may be completed by the same 4 individuals who passed the exam above. :
+
+        - [BizTalk Technical Competency Assessment for Application Integration (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
+-->

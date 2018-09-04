@@ -1,83 +1,91 @@
 ---
-title: "Компетенция \"Платформа данных\""
-description: "Компетенция \"Платформа данных\" демонстрирует возможность партнеров проектировать и разрабатывать мощные и гибкие платформы баз данных для ведения своего бизнеса."
+title: Компетенция "Платформа данных"
+description: Компетенция "Платформа данных" демонстрирует возможность партнеров проектировать и разрабатывать мощные и гибкие платформы баз данных для ведения своего бизнеса.
 author: Daniel Simpson
-keywords: "компетенция, компетенции, платформа данных"
-ms.openlocfilehash: c415e79d831ccb742f39915574014f1d939c5821
-ms.sourcegitcommit: 6c5a1ce9da7ee313ef88ef584dbf4ecb4dc0d12c
-ms.translationtype: HT
+keywords: компетенция, компетенции, платформа данных
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 57fee0a3d7c8b1ff3cf00893b641295b2b271813
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/21/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875654"
 ---
-#<a name="data-platform"></a>Платформа данных
-Компетенция "Платформа данных" демонстрирует возможность партнеров проектировать и разрабатывать мощные и гибкие платформы баз данных для ведения своего бизнеса.
+>[!IMPORTANT]
+>Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-- [Курс "Большие объемы данных"](#big-data-option) 
-- [Курс "Специалист по SQL Server"](#sql-server-specialist-option)
+<!--
 
-##<a name="big-data-option"></a>Курс "Большие объемы данных"
-Курс "Большие объемы данных" подойдет вам, если вы хотите подтвердить свои навыки, пройдя аттестации. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Платформа данных".
+#Data Platform
+The Data Platform competency recognizes partners who are looking to design and develop powerful and versatile database platforms to run their business.
 
-###<a name="silver"></a>Silver (Серебряный уровень)
-1. **2** сотрудника вашей организации должны пройти необходимые аттестации.
+- [Big Data option](#big-data-option) 
+- [SQL Server Specialist option](#sql-server-specialist-option)
 
-    - **2** сотрудника должны пройти следующую аттестацию:
-        - [Техническая оценка знаний по основам платформы данных](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
+##Big Data option
+The Big Data option is ideal if you prefer to prove your skills by passing assessments. Complete all the steps within to attain the Data Platform competency.
 
-    **И**
+###Silver
+1. Your organization must have **2** individuals pass the required assessments.
 
-    - Тек же **2** сотрудника должны пройти одну из следующих аттестаций:
-        - [Техническая оценка знаний по SQL Server 2016](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14355&scoId=nzHk0hygB_7404778676)
-        - [Техническая оценка знаний по хранилищу данных Azure](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17491&scoId=1yUZ01TnD_1606265419)
-        - [Техническая оценка знаний по Azure Data Services](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17490&scoId=2h3AfWTnD_4706265419)
+    - **2** individuals must pass the following assessment:
+        - [Technical Assessment for Data Platform Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
 
-###<a name="gold"></a>Gold (Золотой уровень)
-1. **4** сотрудника вашей организации должны пройти необходимые аттестации.
+    **AND**
 
-    - **4** сотрудника должны пройти следующую аттестацию:
-        - [Техническая оценка знаний по основам платформы данных](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
+    - The same **2** individuals must pass one of the following assessments:
+        - [Technical Assessment for SQL Server 2016](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14355&scoId=nzHk0hygB_7404778676)
+        - [Technical Assessment for Azure Data Warehouse](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17491&scoId=1yUZ01TnD_1606265419)
+        - [Technical Assessment Azure Data Services](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17490&scoId=2h3AfWTnD_4706265419)
 
-    **И**
+###Gold
+1. Your organization must have **4** individuals pass the required assessments.
 
-    - Те же **4** сотрудника должны пройти одну из следующих аттестаций:
-        - [Техническая оценка знаний по SQL Server 2016](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14355&scoId=nzHk0hygB_7404778676)
-        - [Техническая оценка знаний по хранилищу данных Azure](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17491&scoId=1yUZ01TnD_1606265419)
-        - [Техническая оценка знаний по Azure Data Services](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17490&scoId=2h3AfWTnD_4706265419)
+    - **4** individuals must pass the following assessment:
+        - [Technical Assessment for Data Platform Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
 
-##<a name="sql-server-specialist-option"></a>Курс "Специалист по SQL Server"
-Курс "Специалист по SQL Server" подойдет тем, кто хочет подтвердить свои навыки, пройдя экзамены по определенной области специализации. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Платформа данных".
+    **AND**
 
-###<a name="silver"></a>Silver (Серебряный уровень)
-1. **1** сотрудник вашей организации должен пройти все экзамены по одному из двух направлений: **Администрирование баз данных** или **Разработка базы данных**, а также пройти аттестацию.
+    - The same **4** individuals must pass one of the following assessments:
+        - [Technical Assessment for SQL Server 2016](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14355&scoId=nzHk0hygB_7404778676)
+        - [Technical Assessment for Azure Data Warehouse](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17491&scoId=1yUZ01TnD_1606265419)
+        - [Technical Assessment Azure Data Services](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17490&scoId=2h3AfWTnD_4706265419)
 
-    - Направление **Администрирование баз данных**
-        - [Экзамен 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): администрирование инфраструктуры базы данных SQL 
-        - [Экзамен 70-765](https://www.microsoft.com/en-us/learning/exam-70-765.aspx): подготовка баз данных SQL
+##SQL Server Specialist option
+The SQL Server Specialist option is ideal if you prefer to prove your skills by passing exams within a particular area of specialization. Complete all the steps within the option to attain the Data Platform competency.
 
-    - Направление **Разработка баз данных**
-        - [Экзамен 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): разработка баз данных SQL
-        - [Экзамен 70-761](https://www.microsoft.com/en-us/learning/exam-70-761.aspx): запрос данных с помощью Transact-SQL
-        - [Экзамен 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): проектирование и внедрение облачных платформ данных
+###Silver
+1. Your organization must have **1** individual pass all of the exams in any one of the two focus areas: **Database Administration** OR **Database Development**, and the individual must pass an assessment.
 
-    **И**
+    - **Database Administration** focus area
+        - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure 
+        - [Exam 70-765](https://www.microsoft.com/en-us/learning/exam-70-765.aspx): Provisioning SQL Databases
 
-    - [Техническая оценка знаний по основам платформы данных](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
+    - **Database Development** focus area
+        - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
+        - [Exam 70-761](https://www.microsoft.com/en-us/learning/exam-70-761.aspx): Querying Data with Transact-SQL
+        - [Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
 
-###<a name="gold"></a>Gold (Золотой уровень)
-1. 2 сотрудника вашей организации должны пройти все экзамены по одному из двух направлений: **Администрирование баз данных** ИЛИ **Разработка базы данных**, а также пройти аттестацию.
+    **AND**
 
-    - Направление **Администрирование баз данных**
-        - [Экзамен 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): администрирование инфраструктуры базы данных SQL 
-        - [Экзамен 70-765](https://www.microsoft.com/en-us/learning/exam-70-765.aspx): подготовка баз данных SQL
+    - [Technical Assessment Data Platform Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
 
-    - Направление **Разработка баз данных**
-        - [Экзамен 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): разработка баз данных SQL
-        - [Экзамен 70-761](https://www.microsoft.com/en-us/learning/exam-70-761.aspx): запрос данных с помощью Transact-SQL
-        - [Экзамен 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): проектирование и внедрение облачных платформ данных
+###Gold
+1. Your organization must have 2 individuals pass all of the exams in any one of the two focus areas: **Database Administration** OR **Database Development**, and the individuals must pass an assessment.
 
-    **И**
+    - **Database Administration** focus area
+        - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure 
+        - [Exam 70-765](https://www.microsoft.com/en-us/learning/exam-70-765.aspx): Provisioning SQL Databases
 
-    - [Техническая оценка знаний по основам платформы данных](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
+    - **Database Development** focus area
+        - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
+        - [Exam 70-761](https://www.microsoft.com/en-us/learning/exam-70-761.aspx): Querying Data with Transact-SQL
+        - [Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
 
+    **AND**
+
+    - [Technical Assessment Data Platform Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
+-->
 
 

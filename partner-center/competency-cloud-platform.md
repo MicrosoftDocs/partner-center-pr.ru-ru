@@ -1,85 +1,93 @@
 ---
-title: "Компетенция \"Облачная платформа\""
-description: "Компетенция \"Облачная платформа\" предназначена для партнеров, которые хотят извлекать выгоду из растущего спроса на решения типа \"инфраструктура как услуга\" и \"ПО как услуга\" (SaaS), созданных на основе Microsoft Azure."
+title: Компетенция "Облачная платформа"
+description: Компетенция "Облачная платформа" предназначена для партнеров, которые хотят извлекать выгоду из растущего спроса на решения типа "инфраструктура как услуга" и "ПО как услуга" (SaaS), созданных на основе Microsoft Azure.
 author: Daniel Simpson
-keywords: "компетенция, компетенции, облачная платформа"
-ms.openlocfilehash: 1ae6408b2fc7efca904e84907be1735c76ea480e
-ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
-ms.translationtype: HT
+keywords: компетенция, компетенции, облачная платформа
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 625bf04a692a13ae88ad3487d99aea36be50be02
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875194"
 ---
-#<a name="cloud-platform"></a>Облачная платформа
-Компетенция "Облачная платформа" предназначена для партнеров, которые хотят извлекать выгоду из растущего спроса на решения типа "инфраструктура как услуга" и "ПО как услуга" (SaaS), созданных на основе Microsoft Azure.
+>[!IMPORTANT]
+>Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-##<a name="azure-consumption-option"></a>Курс "Потребление ресурсов Azure"
-Курс "Потребление ресурсов Azure" подходит для партнеров, которые стимулируют своих клиентов использовать дополнительные ресурсы Azure или внедрять продукты Azure, и решили получить компетенцию путем обеспечения соответствия пороговым значениям производительности. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Облачная платформа".
+<!--
+#Cloud Platform
+The Cloud Platform competency is designed for partners to capitalize on the growing demand for infrastructure and software as a service (SaaS) solutions built on Microsoft Azure.
 
-###<a name="silver"></a>Silver (Серебряный уровень)
+##Azure Consumption option
+The Azure Consumption option is ideal for partners who are driving Azure usage/adoption with their customers, and who choose to attain competency by meeting the performance thresholds. Complete all the steps within to attain the Cloud Platform competency.
 
-1. Ваша организация должна соответствовать пороговым значениям производительности.
+###Silver
 
-    - **Развитые рынки**
-        - Доход партнера от потребления их клиентами ресурсов Azure должен составлять 15000 долларов США за последние 12 месяцев.
+1. Your organization must meet the performance thresholds.
+
+    - **Developed Markets**
+        - Partners must demonstrate US$15,000 Azure customer consumption within the previous 12 months
     
-    - **Развивающиеся рынки** 
-        - Доход партнера от потребления их клиентами ресурсов Azure должен составлять 10000 долларов США за последние 12 месяцев.
+    - **Developing Markets** 
+        - Partners must demonstrate US$10,000 Azure customer consumption within the previous 12 months
 
-    - С этими клиентами у вас должны быть установлены отношения в качестве Цифрового партнера записи или Партнера по сделкам записи.
-    - [Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.  
+    - For these customers, you have to be associated as Digital Partner of Record or Transacting Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. **1** сотрудник в вашей организации должен пройти необходимый экзамен или аттестацию.
+2. Your organization must have **1** individual pass the exam or assessment requirements.
 
-    - **1** сотрудник должен пройти одну из следующих аттестаций:
-        - [Техническая оценка знаний по облачной платформе](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13736&scoId=N3FXNd7VB_8805299994)
-        - [Техническая оценка знаний по использованию Azure для создания решений для аналитики данных и платформ данных](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13735&scoId=eOi68a7VB_1905299994)
-        - [Техническая оценка знаний по использованию Microsoft Azure для разработки приложений](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13979&scoId=enD8qylbB_9305299993)
-        - [Техническая оценка знаний по использованию Azure для создания решения для "Интернета вещей"](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16252&scoId=ABMqsgVLC_4605996570)
-        - [Техническая оценка знаний по использованию службы удаленного рабочего стола Azure](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16571&scoId=R4xnMbpgC_3505996570)
+    - **1** individual must pass one of the following assessments:
+        - [Technical Assessment for Cloud Platform](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13736&scoId=N3FXNd7VB_8805299994)
+        - [Technical Assessment for Using Azure for Data Analytics and Data Platform Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13735&scoId=eOi68a7VB_1905299994)
+        - [Technical Assessment for Using Microsoft Azure for Application Development](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13979&scoId=enD8qylbB_9305299993)
+        - [Technical Assessment for Using Azure for Internet of Things Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16252&scoId=ABMqsgVLC_4605996570)
+        - [Technical Assessment for Using Azure Remote Desktop Service](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16571&scoId=R4xnMbpgC_3505996570)
 
-    **ИЛИ**
+    **OR**
 
-    - **1** сотрудник должен пройти один из следующих экзаменов:
-        - [Экзамен 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): разработка решений Microsoft Azure
-        - [Экзамен 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): внедрение инфраструктурных решений Microsoft Azure
-        - [Экзамен 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): проектирование решений Microsoft Azure*
-        - [Экзамен 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): проектирование решений Microsoft Azure 
-        - [Экзамен 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): проектирование и внедрение облачных платформ данных
-        - [Экзамен 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): проектирование и внедрение решений для аналитики больших объемов данных
-        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux в Azure
+    - **1** individual must pass one of the following exams:
+        - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
+        - [Exam 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementing Microsoft Azure Infrastructure Solutions
+        - [Exam 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Architecting Microsoft Azure Solutions*
+        - [Exam 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): Architecting Microsoft Azure Solutions 
+        - [Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
+        - [Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions
+        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux on Azure
 
-*Прекращение действия: 31декабря 2017г. Результаты прохождения этого экзамена будут действительны для получения компетенции до 31декабря2018года. Зарегистрироваться на сдачу этого экзамена можно до 30 ноября 2017 г.
+*Retiring December 31, 2017. This exam will continue to be accepted for competency qualification until December 31, 2018. You may register for this exam until November 30, 2017.
 
-После 30 ноября 2017 г. необходимо будет регистрироваться на указанный выше замещающий экзамен, 70-535.  
+After November 30, 2017 you will need to register for the replacement exam listed above, exam 70-535.  
 
-###<a name="gold"></a>Уровень Gold
+###Gold
 
-1. Ваша организация должна соответствовать пороговым значениям производительности.
+1. Your organization must meet the performance thresholds.
 
-    - Доход партнера от потребления их клиентами ресурсов Azure должен составлять 100000 долларов США за последние 12 месяцев.
-    - С этими клиентами у вас должны быть установлены отношения в качестве Цифрового партнера записи или Партнера по сделкам записи.
-    - [Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.
+    - Partners must demonstrate US$100,000 Azure customer consumption within the previous 12 months
+    - For these customers, you have to be associated as Digital Partner of Record or Transacting Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-2. **2** сотрудника в вашей организации должны пройти необходимый экзамен или аттестацию.
+2. Your organization must have **2** individuals pass the exam or assessment requirements.
 
-    - **2** сотрудника должны пройти одну из следующих аттестаций:
-        - [Техническая оценка знаний по облачной платформе](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13736&scoId=N3FXNd7VB_8805299994)
-        - [Техническая оценка знаний по использованию Azure для создания решений для аналитики данных и платформ данных](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13735&scoId=eOi68a7VB_1905299994)
-        - [Техническая оценка знаний по использованию Microsoft Azure для разработки приложений](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13979&scoId=enD8qylbB_9305299993)
-        - [Техническая оценка знаний по использованию Azure для создания решения для "Интернета вещей"](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16252&scoId=ABMqsgVLC_4605996570)
-        - [Техническая оценка знаний по использованию службы удаленного рабочего стола Azure](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16571&scoId=R4xnMbpgC_3505996570)
+    - **2** individuals must pass one of the following assessments:
+        - [Technical Assessment for Cloud Platform](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13736&scoId=N3FXNd7VB_8805299994)
+        - [Technical Assessment for Using Azure for Data Analytics and Data Platform Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13735&scoId=eOi68a7VB_1905299994)
+        - [Technical Assessment for Using Microsoft Azure for Application Development](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13979&scoId=enD8qylbB_9305299993)
+        - [Technical Assessment for Using Azure for Internet of Things Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16252&scoId=ABMqsgVLC_4605996570)
+        - [Technical Assessment for Using Azure Remote Desktop Service](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16571&scoId=R4xnMbpgC_3505996570)
 
-    **ИЛИ**
+    **OR**
 
-    - **2** сотрудника должны пройти один из следующих экзаменов:
-        - [Экзамен 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): разработка решений Microsoft Azure
-        - [Экзамен 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): внедрение инфраструктурных решений Microsoft Azure
-        - [Экзамен 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): проектирование решений Microsoft Azure*
-        - [Экзамен 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): проектирование решений Microsoft Azure 
-        - [Экзамен 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): проектирование и внедрение облачных платформ данных
-        - [Экзамен 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): проектирование и внедрение решений для аналитики больших объемов данных
-        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux в Azure
+    - **2** individuals must pass one of the following exams:
+        - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
+        - [Exam 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementing Microsoft Azure Infrastructure Solutions
+        - [Exam 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Architecting Microsoft Azure Solutions*
+        - [Exam 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): Architecting Microsoft Azure Solutions 
+        - [Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
+        - [Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions
+        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux on Azure
 
-*Прекращение действия: 31декабря 2017г. Результаты прохождения этого экзамена будут действительны для получения компетенции до 31декабря2018года. Зарегистрироваться на сдачу этого экзамена можно до 30 ноября 2017 г.
+*Retiring December 31, 2017. This exam will continue to be accepted for competency qualification until December 31, 2018. You may register for this exam until November 30, 2017.
 
-После 30 ноября 2017 г. необходимо будет регистрироваться на указанный выше замещающий экзамен, 70-535. 
+After November 30, 2017 you will need to register for the replacement exam listed above, exam 70-535. 
+-->

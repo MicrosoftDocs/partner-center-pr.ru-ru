@@ -1,90 +1,98 @@
 ---
-title: "Компетенция \"Управление отношениями с клиентами в облаке\""
-description: "Получите статус первоклассного поставщика Microsoft Dynamics CRM Online или Dynamics 365 благодаря компетенции \"Управление отношениями с клиентами в облаке\"."
+title: Компетенция "Управление отношениями с клиентами в облаке"
+description: Получите статус первоклассного поставщика Microsoft Dynamics CRM Online или Dynamics 365 благодаря компетенции "Управление отношениями с клиентами в облаке".
 author: Daniel Simpson
-keywords: "компетенция, компетенции, управление отношениями с клиентами в облаке"
-ms.openlocfilehash: 42d2080f953d336687de355acd17f639fff23990
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
-ms.translationtype: HT
+keywords: компетенция, компетенции, управление отношениями с клиентами в облаке
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 1621089b2baecbe8b850bf48c1940e7566078f6f
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874824"
 ---
-#<a name="cloud-customer-relationship-management"></a>Управление отношениями с клиентами в облаке
-Получите статус первоклассного поставщика Microsoft Dynamics CRM Online или Dynamics 365 благодаря компетенции "Управление отношениями с клиентами в облаке".
+>[!IMPORTANT]
+>Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-##<a name="cloud-crm-reseller-option"></a>Курс "Торговый посредник по облачным решениям CRM"
+<!--
+#Cloud Customer Relationship Management
+Be known as premium provider of Microsoft Dynamics CRM Online or Dynamics 365 by attaining the Cloud Customer Relationship Management competency.
 
-Курс "Торговый посредник по облачным решениям для управления отношениями с клиентами" подходит для партнеров, которые хотят подтвердить свою профессиональную квалификацию путем обеспечения соответствия пороговым значениям прибыли и требованиям, предъявляемым к прохождению экзаменов. 
+##Cloud CRM Reseller option
 
-###<a name="silver"></a>Silver (Серебряный уровень)
+The Cloud Customer Relationship Management option is ideal for partners who want to prove their capability by meeting revenue thresholds and exam requirements. 
 
-1. Ваша организация должна соответствовать пороговым значениям производительности.
+###Silver
 
-    - **Развитые рынки**
-        - Чистая прибыль партнера за 12-месячный отчетный период по облачным услугам в продуктах CRM Online или Dynamics 365 Customer Engagement (ранее Plan 1) должна составлять не менее 100000 долларов США.
+1. Your organization must meet the performance thresholds.
 
-    - **Развивающиеся рынки**
-        - Чистая прибыль партнера за 12-месячный отчетный период по облачным услугам в продуктах CRM Online или Dynamics 365 Customer Engagement (ранее Plan 1) должна составлять не менее 100000 долларов США.
+    - **Developed Markets**
+        - Partner must have earned at least US$100,000 Cloud Revenue of CRM Online or Dynamics 365 Customer Engagement (formerly Plan 1) - Net New Revenue in the TTM period
 
-    - С этими клиентами у вас должны быть установлены отношения партнера со статусом Digital Partner of Record.
-    - [Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.  
+    - **Developing Markets**
+        - Partner must have earned at least US$50,000 Cloud Revenue of CRM Online or Dynamics 365 Customer Engagement (formerly Plan 1) - Net New Revenue in the TTM period
+
+    - For these customers, you must be associated as Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. Не менее **2** сотрудников вашей организации должны удовлетворять требованиям, предъявляемым к прохождению экзаменов.
+2. Your organization must have at least **2** individuals pass the exam requirements.
 
-    - **1** сотрудник должен пройти один из следующих экзаменов:
-        - [MB2 714](https://www.microsoft.com/en-us/learning/exam-mb2-714.aspx): обслуживание клиентов Dynamics CRM
-        - [MB2 713](https://www.microsoft.com/en-us/learning/exam-mb2-713.aspx): продажи Microsoft Dynamics CRM 2016
+    - **1** individual must pass one of the following exams:
+        - [MB2-714](https://www.microsoft.com/en-us/learning/exam-mb2-714.aspx): Dynamics CRM Customer Service
+        - [MB2-713](https://www.microsoft.com/en-us/learning/exam-mb2-713.aspx): Microsoft Dynamics CRM 2016 Sales
         - [MB2-709](https://www.microsoft.com/en-us/learning/exam-mb2-709.aspx): Dynamics CRM Marketing* 
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
-        - MB2-877: Microsoft Dynamics 365 for Field Service (станет доступно в январе 2018года)
+        - MB2-877: Microsoft Dynamics 365 for Field Service (Available January 2018)
 
-    - Тот же сотрудник также должен пройти один из следующих экзаменов:
-        - [MB2-710](https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx): Microsoft Dynamics CRM, развертывание в сети (2015)
-        - [MB2-706](https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx): Microsoft Dynamics CRM, развертывание в сети
-        - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 (привлечение клиентов и развертывание в сети)
+    - The same individual also must pass one of the following exams:
+        - [MB2-710](https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx): Microsoft Dynamics CRM Online Deployment (2015)
+        - [MB2-706](https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx): Microsoft Dynamics CRM Online Deployment
+        - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 customer engagement Online Deployment
         
-    - Другой сотрудник должен пройти один из следующих экзаменов:
-        - [MB2 712](https://www.microsoft.com/en-us/learning/exam-mb2-712.aspx): Microsoft Dynamics CRM 2016, настройка и конфигурация
-        - [MB2-707](https://www.microsoft.com/en-us/learning/exam-mb2-707.aspx): Microsoft Dynamics CRM, настройка и конфигурация
-        - [MB2 716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365, настройка и конфигурация
+    - The other individual must pass one of the following exams:
+        - [MB2-712](https://www.microsoft.com/en-us/learning/exam-mb2-712.aspx): Microsoft Dynamics CRM 2016 Customization and Configuration
+        - [MB2-707](https://www.microsoft.com/en-us/learning/exam-mb2-707.aspx): Microsoft Dynamics CRM Customization and Configuration
+        - [MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration
 
-\* Прекращение действия: 31декабря 2017г. Результаты прохождения этого экзамена будут действительны для получения компетенции до 31декабря2018года. 
+\* Retiring December 31, 2017. This exam will continue to be accepted for competency qualification until December 31, 2018. 
 
-###<a name="gold"></a>Уровень Gold
+###Gold
 
-1. Ваша организация должна соответствовать пороговым значениям производительности.
+1. Your organization must meet the performance thresholds.
 
-    - **Развитые рынки**
+    - **Developed Markets**
     
-        - Чистая прибыль партнера за 12-месячный отчетный период по облачным услугам в продуктах CRM Online или Dynamics 365 Customer Engagement (ранее Plan 1) должна составлять не менее 300000 долларов США.
+        - Partner must have earned at least US$300,000 Cloud Revenue of CRM Online or Dynamics 365 Customer Engagement (formerly Plan 1) - Net New Revenue in the TTM period.
      
-    - **Развивающиеся рынки**
+    - **Developing Markets**
 
-        - Чистая прибыль партнера за 12-месячный отчетный период по облачным услугам в продуктах CRM Online или Dynamics 365 Customer Engagement (ранее Plan 1) должна составлять не менее 150000 долларов США.
+        - Partner must have earned at least US$150,000 Cloud Revenue of CRM Online or Dynamics 365 Customer Engagement (formerly Plan 1) - Net New Revenue in the TTM period.
 
-    - С этими клиентами у вас должны быть установлены отношения партнера со статусом Digital Partner of Record.
-    - [Подробнее](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.  
+    - For these customers, you must be associated as Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
 
 
-2. Не менее **4** сотрудников вашей организации должны удовлетворять требованиям, предъявляемым к прохождению экзаменов.
+2. Your organization must have at least **4** individuals pass the exam requirements.
 
-    - Каждый из **2** сотрудников должен пройти один из следующих экзаменов:
-        - [MB2 714](https://www.microsoft.com/en-us/learning/exam-mb2-714.aspx): обслуживание клиентов Dynamics CRM
-        - [MB2 713](https://www.microsoft.com/en-us/learning/exam-mb2-713.aspx): продажи Microsoft Dynamics CRM 2016
+    - **2** individuals must each pass one of the following exams:
+        - [MB2-714](https://www.microsoft.com/en-us/learning/exam-mb2-714.aspx): Dynamics CRM Customer Service
+        - [MB2-713](https://www.microsoft.com/en-us/learning/exam-mb2-713.aspx): Microsoft Dynamics CRM 2016 Sales
         - [MB2-709](https://www.microsoft.com/en-us/learning/exam-mb2-709.aspx): Dynamics CRM Marketing* 
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
-        - MB2-877: Microsoft Dynamics 365 for Field Service (станет доступно в январе 2018года)
+        - MB2-877: Microsoft Dynamics 365 for Field Service (Available January 2018)
         
-        - Каждый из тех же **2** сотрудников должен пройти один из следующих экзаменов:
-        - [MB2-710](https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx): Microsoft Dynamics CRM, развертывание в сети (2015)
-        - [MB2-706](https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx): Microsoft Dynamics CRM, развертывание в сети
-        - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365, привлечение клиентов и развертывание в сети
+        - The same **2** individuals also must each pass one of the following exams:
+        - [MB2-710](https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx): Microsoft Dynamics CRM Online Deployment (2015)
+        - [MB2-706](https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx): Microsoft Dynamics CRM Online Deployment
+        - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 customer engagement Online Deployment
 
-    - **2** других сотрудника должны пройти один из следующих экзаменов:
-        - [MB2 712](https://www.microsoft.com/en-us/learning/exam-mb2-712.aspx): Microsoft Dynamics CRM 2016, настройка и конфигурация
-        - [MB2-707](https://www.microsoft.com/en-us/learning/exam-mb2-707.aspx): Microsoft Dynamics CRM, настройка и конфигурация
-        - [MB2 716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365, настройка и конфигурация
+    - The other **2** individuals must each pass one of the following exams:
+        - [MB2-712](https://www.microsoft.com/en-us/learning/exam-mb2-712.aspx): Microsoft Dynamics CRM 2016 Customization and Configuration
+        - [MB2-707](https://www.microsoft.com/en-us/learning/exam-mb2-707.aspx): Microsoft Dynamics CRM Customization and Configuration
+        - [MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration
 
-\* Прекращение действия: 31декабря 2017г. Результаты прохождения этого экзамена будут действительны для получения компетенции до 31декабря2018года. 
+\* Retiring December 31, 2017. This exam will continue to be accepted for competency qualification until December 31, 2018. 
+-->

@@ -1,13 +1,15 @@
 ---
-title: "Обновление сведений учетной записи клиента | Центр партнеров"
-description: "В Центре партнеров можно обновить данные клиента для выставления счетов и другие сведения о компании."
+title: Обновление сведений учетной записи клиента | Центр партнеров
+description: В Центре партнеров можно обновить данные клиента для выставления счетов и другие сведения о компании.
 ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
 author: MaggiePucciEvans
-ms.openlocfilehash: 35dfda44ad8a69feb5f2d2d5c39685925c3a66d0
-ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: b63201b10942453662895fdd1d55147fc84a1185
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/01/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876484"
 ---
 # <a name="update-customer-account-info"></a>Обновление сведений учетной записи клиента
 

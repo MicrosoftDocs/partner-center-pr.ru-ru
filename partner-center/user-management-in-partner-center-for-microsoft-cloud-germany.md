@@ -1,10 +1,14 @@
 ---
-title: "Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud в Германии | Центр партнеров Microsoft Cloud в Германии"
-description: "В соответствии с национальными, региональными и отраслевыми требованиями к сбору и использованию персональных данных возможности управления пользователями недоступны в Центре партнеров Microsoft Cloud в Германии. Вместо этого добавлять пользователей и управлять ими необходимо на портале Azure для Microsoft Cloud в Германии."
+title: Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud в Германии | Центр партнеров Microsoft Cloud в Германии
+description: В соответствии с национальными, региональными и отраслевыми требованиями к сбору и использованию персональных данных возможности управления пользователями недоступны в Центре партнеров Microsoft Cloud в Германии. Вместо этого добавлять пользователей и управлять ими необходимо на портале Azure для Microsoft Cloud в Германии.
 author: MaggiePucciEvans
-ms.openlocfilehash: 94e8caf84dc0ba52f231f03c7e4a9475fce075a6
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 4e354fd3f5bf20ef10600a454a94704fe2db0700
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875774"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud в Германии
 
@@ -26,12 +30,11 @@ translationtype: HT
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Управление пользователями на портале Azure для Microsoft Cloud в Германии 
 
-Если вы выполнили вход в Центр партнеров Microsoft Cloud в Германии, можно открыть портал Azure для Microsoft Cloud в Германии без необходимости повторно входить в систему. Тем не менее, если вам необходимо выполнить вход напрямую на портал Azure для Microsoft Cloud в Германии, перейдите по адресу [https://portal.microsoftazure.de](https://portal.microsoftazure.de). 
+Если вы выполнили вход в Центр партнеров Microsoft Cloud в Германии, можно открыть портал Azure для Microsoft Cloud в Германии без необходимости повторно входить в систему. Тем не менее, если вам необходимо войти непосредственно на портале Azure для Microsoft Cloud в Германии, перейдите к [https://portal.microsoftazure.de](https://portal.microsoftazure.de). 
 
 После успешного входа на портал Azure для Microsoft Cloud в Германии откройте страницу обзора Azure Active Directory (Azure AD), а затем следуйте инструкциям, представленным в следующих разделах:
 
->**Примечание.**
- При переходе по следующим ссылкам вы будете перенаправлены на другой сайт. 
+>**Примечание.** При переходе по следующим ссылкам вы будете перенаправлены на другой сайт. 
 
 -  [**Добавление новых пользователей в Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
@@ -39,7 +42,7 @@ translationtype: HT
 
 -  [**Сброс пароля пользователя в Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**Статьи по теме**
+**Еще по теме**
 
 -  [**Центр партнеров Microsoft Cloud в Германии**](partner-center-for-microsoft-cloud-germany.md)
 

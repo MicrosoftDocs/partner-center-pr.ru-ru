@@ -2,20 +2,21 @@
 layout: LandingPage
 hide_bc: true
 title: Справка по использованию Панели мониторинга Центра партнеров
-description: Получите справку по настройке учетной записи, взаимодействию с клиентами и покупке подписки Action Pack. Найдите ответы в библиотеке справочных материалов Панели мониторинга Центра партнеров.
+description: Получите справку по настройке учетной записи, взаимодействию с клиентами и покупке подписки Action Pack. Найдите ответы в этой библиотеке справки информационной панели, созданных специально для партнеров в программе CSP и MPN.
 author: v-chmccl
 ms.topic: landing-page
 searchScope: []
-ms.openlocfilehash: 731362ac654cf8ea3d70985316a881ce81cac5d9
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f7e53e0731690f2ede4c1d3cf8fae906af8b9e91
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1919904"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876374"
 ---
-# <a name="start-here-for-help-with-partner-center-dashboard"></a>Справка по использованию Панели мониторинга Центра партнеров
+# <a name="start-here-for-help-with-partner-dashboard"></a>Справка по использованию Панели мониторинга Центра партнеров
 
-Получите справку по настройке учетной записи, взаимодействию с клиентами и покупке подписки Action Pack. Найдите ответы в библиотеке справочных материалов Панели мониторинга Центра партнеров.
+Получите справку по настройке учетной записи, взаимодействию с клиентами и покупке подписки Action Pack. Найдите ответы в этой библиотеке справки информационной панели, созданных специально для партнеров в программе CSP и MPN.
 
 Если вы уже знакомы с панелью мониторинга, см. раздел [Новые возможности](/partner-center/whats-new-in-pc).
 

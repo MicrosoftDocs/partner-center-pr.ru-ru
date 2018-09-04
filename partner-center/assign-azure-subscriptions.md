@@ -3,11 +3,13 @@ title: Назначение подписок Azure в Центре партне�
 description: Теперь можно назначать подписки Azure вашим клиентам в Центре партнеров. Кроме того, можно предоставить им возможность самостоятельного управления подписками
 author: Labrenne
 keywords: Azure, подписка Azure, подписка, подписки, назначение подписки, управление подпиской Azure
-ms.openlocfilehash: 756e5499bacf600397ce78e130645897ffa8acf1
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: cc847b9a0cab253c911141c26c4ab457ad0d98cc
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875014"
 ---
 # <a name="assign-azure-subscriptions-in-the-partner-dashboard"></a>Назначение подписок Azure на информационной панели Центра партнеров
 

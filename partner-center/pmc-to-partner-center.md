@@ -1,16 +1,18 @@
 ---
-title: "Перенос членства MPN из Partner Membership Center в Центр партнеров"
-description: "Вниманию пользователей PMC! Теперь мы осуществляем управление членством MPN через Центр партнеров. Вот, что нужно сделать."
+title: Перенос членства MPN из Partner Membership Center в Центр партнеров
+description: Вниманию пользователей PMC! Теперь мы осуществляем управление членством MPN через Центр партнеров. Вот, что нужно сделать.
 author: KPacquer
-keywords: "членство mpn, компетенции, из pmc в центр партнеров"
+keywords: членство mpn, компетенции, из pmc в центр партнеров
 robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
-ms.openlocfilehash: 2349ee30aa54a756e7fdc49c24917807a7443425
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2c9e411ea92a39e33ef515adf69a5dd6886d514d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875864"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>Перенос членства MPN из Partner Membership Center в Центр партнеров
 
@@ -43,7 +45,7 @@ ms.lasthandoff: 07/01/2017
 
 ## <a href="" id="nonadmin_tasks"></a> Задачи сотрудников: обновление учетных записей
 
-1.  Получите свои данные для входа в Центре партнеров (Майкрософт) или у своего администратора. Если вы не получили данные для входа, обратитесь к администратору своей организации и попросите его отправить эти данные непосредственно вам. 
+1.  Получите свои данные для входа в центр партнеров Майкрософт или у своего администратора. Если вы не получили данные для входа в, обратитесь к администратору своей организации и попросите его отправить эти данные непосредственно вам. 
 
 2.  Подключитесь к учетной записи Университета партнеров Майкрософт. На Информационной панели Центра партнеров выберите **Обновление профиля** > **Получить доступ к Университету партнеров**.  После подключения этой учетной записи вы сможете снова осуществлять доступ к Университету партнеров.
 

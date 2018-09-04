@@ -1,20 +1,21 @@
 ---
-title: Размеры виртуальных машин Microsoft Azure для максимального использования резервирования | Панель мониторинга Центра партнеров
+title: Размеры виртуальных Машин Microsoft Azure для максимального использования резервирования | Информационная панель центра партнеров
 Description: Information on purchasing and managing Azure reservations
 author: v-petand
 keywords: azure, резервирования, виртуальная машина, управление, использование, размеры
-ms.openlocfilehash: 9ddf74d209f9174b4192a9d89b65a41e371f37ae
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: bb7d022ba45462db313a9f4e16cc47e4550dbef6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1883105"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875784"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Размеры виртуальных машин Microsoft Azure для максимального использования резервирования 
 
 **Область применения**
 
--  Панель мониторинга Центра партнеров
+-  Информационная панель центра партнеров
 -  Портал Azure
 -  Партнеры по программе CSP
 
@@ -40,11 +41,11 @@ ms.locfileid: "1883105"
 
 1.  Используйте значение атрибута ServiceType из additionalInfo в ответе API, чтобы определить нужный размер виртуальной машины. 
 
-2.  Дополнительные сведения см. в разделе [Получение статистики использования Azure для клиента](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) в документе [API панели мониторинга Центра партнеров](https://docs.microsoft.com/partner-center/develop/). 
+2.  Дополнительные сведения см. в разделе [Получение статистики клиента для Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) на [информационной панели центра партнеров API](https://docs.microsoft.com/partner-center/develop/). 
 
 **Получение сведений о размере виртуальной машины на портале Microsoft Azure**
 
-1.  Перейдите на страницу **Клиенты** на панели мониторинга Центра партнеров.
+1.  В информационной панели для партнеров перейдите к странице " **Клиенты** ".
 
 2.  Найдите клиента, желающего приобрести резервирования Azure, затем выберите стрелку вниз, чтобы посмотреть сведения о клиенте. Выберите **Портал управления Microsoft Azure**, чтобы открыть запись клиента на портале Azure. 
 
@@ -88,7 +89,7 @@ ms.locfileid: "1883105"
 
 ### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Проверка использования резервирования клиента на портале Microsoft Azure
 
-1.  Перейдите на страницу **Клиенты** на панели мониторинга Центра партнеров.
+1.  В информационной панели для партнеров перейдите к странице " **Клиенты** ".
 
 2.  Найдите клиента, для которого необходимо проверить использование резервирования и скидку, затем выберите стрелку вниз, чтобы посмотреть сведения о клиенте. Выберите **Портал управления Microsoft Azure**, чтобы открыть запись клиента на портале Azure. 
 
@@ -129,12 +130,11 @@ ms.locfileid: "1883105"
 |**Для получения информации о**   |**Прочтите этот документ**    |
 |:-----------------------------|:-----------------|
 |Обзор резервирований Azure в программе CSP  | [Продажа Microsoft Azure Reserved VM Instances](azure-reservations.md)
-|Приобретение резервирований Azure для клиентов с помощью панели мониторинга Центра партнеров   |[Приобретение резервирований Azure](azure-reservations-buying.md)
-|Выставление счетов за резервирования Azure   |[Выставление счетов за резервирования Azure](azure-reservations-billing.md)   |
-| Управление резервированиями Azure на панели мониторинга Центра партнеров | [Управление резервированиями Azure на панели мониторинга Центра партнеров](azure-reservations-manage.md)
+|Приобретение резервирований Azure для клиентов с помощью панели мониторинга центра партнеров   |[Приобретение резервирований Azure](azure-reservations-buying.md)
+| Управление резервированиями Azure на информационной панели для партнеров | [Управление резервированиями Azure на информационной панели для партнеров](azure-reservations-manage.md)
 |Приобретение резервирований Azure на портале Azure | [Предоплата за виртуальные машины с Azure Reserved VM Instances](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) в справке Azure |
 |Управление резервированиями Azure на портале Azure   |[Управление зарезервированными экземплярами виртуальных машин](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) в справке Azure  |
-|Приобретение резервирований Azure с помощью API Центра партнеров | [Приобретение услуги Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances) в документации для разработчиков в Центре партнеров
+|Приобретение резервирований Azure с помощью API Центра партнеров | [Приобретение услуги Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) в документации для разработчиков в Центре партнеров
 
 
 

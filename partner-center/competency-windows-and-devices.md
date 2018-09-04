@@ -1,137 +1,144 @@
 ---
-title: "Компетенция \"Windows и устройства\""
-description: "Присоединитесь к нам в достижении нашей цели по распространению Windows 10 на 1 млрд устройств. К этой компетенции относится подтверждение навыков работы со службами, приложениями и устройствами. Эта компетенция предоставляет средства, содержимое и ресурсы, которые помогут вам развить навыки практического применения возможностей Windows 10."
+title: Компетенция "Windows и устройства"
+description: Присоединитесь к нам в достижении нашей цели по распространению Windows 10 на 1 млрд устройств. К этой компетенции относится подтверждение навыков работы со службами, приложениями и устройствами. Эта компетенция предоставляет средства, содержимое и ресурсы, которые помогут вам развить навыки практического применения возможностей Windows 10.
 author: Daniel Simpson
 robots: noindex,nofollow
-keywords: "компетенция, компетенции, Windows и устройства"
-ms.openlocfilehash: f10523cb7b16ac0122198c372ea95ff62c160866
-ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
-ms.translationtype: HT
+keywords: компетенция, компетенции, Windows и устройства
+ms.localizationpriority: medium
+ms.openlocfilehash: eee91d5908726893cf8b5f4a0d01d99b5ac442c1
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/03/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875744"
 ---
-#<a name="windows-and-devices"></a>Windows и устройства 
-Присоединитесь к нам в достижении нашей цели по распространению Windows 10 на 1 млрд устройств. К этой компетенции относится подтверждение навыков работы со службами, приложениями и устройствами. Эта компетенция предоставляет средства, содержимое и ресурсы, которые помогут вам развить навыки практического применения возможностей Windows 10.
+>[!IMPORTANT]
+>Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-- [Курс "Партнер по службам"](#service-partner-option)
-- [Курс "Партнер по устройствам"](#device-partner-option)
-- [Курс "Surface Hub"](#surface-hub-option)
+<!--
 
-##<a name="service-partner-option"></a>Курс "Партнер по службам"
-Курс "Партнер по службам" подойдет для тех, кто хочет подтвердить свои навыки, пройдя аттестацию или экзамены, связанные с вашей методологией работы/бизнес-подразделением. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Windows и устройства".
+#Windows and Devices 
+Share our goal of having Windows 10 on 1 billion devices. The opportunity spans services, applications, and devices. This competency provides you with tools, content and resources to help you build and grow your profitable Windows 10 practice.
 
-###<a name="silver"></a>Silver (Серебряный уровень)
-1. **2** сотрудника в вашей организации должны пройти необходимые экзамены или аттестацию.
+- [Service Partner option](#service-partner-option)
+- [Device Partner option](#device-partner-option)
+- [Surface Hub option](#surface-hub-option)
 
-    - Каждый из **2** сотрудников должен пройти один из следующих экзаменов:
+##Service Partner option
+The Service Partner option is ideal if you prefer to prove your skills by passing assessments or exams related to your practice/line of business. Complete all the steps within the option to attain the Windows and Devices competency.
 
-        - Направление **Разработчики приложений**
+###Silver
+1. Your organization must have **2** individuals pass the required exams or assessments.
 
-            - [Экзамен 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx): универсальная платформа Windows (архитектура приложений, взаимодействие с пользователем и пользовательский интерфейс)
-            - [Экзамен 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx): универсальная платформа Windows (данные приложений, службы и шаблоны проектирования кода)
-            - [Экзамен 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx): разработка приложений для мобильных устройств
+    - **2** individuals must each pass one of the following exams:
 
-    **ИЛИ**
+        - **Application Builders** focus area
 
-    - Каждый из **2** сотрудников должен пройти следующую аттестацию:
+            - [Exam 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx): Universal Windows Platform - App Architecture and UX/UI*
+            - [Exam 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx): Universal Windows Platform - App Data, Services, and Coding Patterns*
+            - [Exam 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx): Developing Mobile Apps
 
-        - Направление **Партнер по развертыванию**
+    **OR**
 
-            - [Оценка знаний по развертыванию Windows 10, системе безопасности и управления](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16022&scoId=eGcisv8BC_3806265419)
+    - **2** individuals must each pass the following assessment:
 
-*Будет отменена 30 сентября 2017 г.
+        - **Deployment Partner** focus area
 
-###<a name="gold"></a>Gold (Золотой уровень)
-1. **4** сотрудника в вашей организации должны пройти необходимые экзамены или аттестацию.
-    - Каждый из **4** сотрудников должен пройти один из следующих экзаменов:
-        - Направление **Разработчики приложений**
+            - [Windows 10 Deployment, Security and Management Assessment](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16022&scoId=eGcisv8BC_3806265419)
 
-            - [Экзамен 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx): универсальная платформа Windows (архитектура приложений, взаимодействие с пользователем и пользовательский интерфейс)
-            - [Экзамен 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx): универсальная платформа Windows (данные приложений, службы и шаблоны проектирования кода)
-            - [Экзамен 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx): разработка приложений для мобильных устройств
+*Retiring September 30, 2017
 
-    **ИЛИ**
+###Gold
+1. Your organization must have **4** individuals pass the required exams or assessments.
+    - **4** individuals must each pass one of the following exams:
+        - **Application Builders** focus area
 
-    - Каждый из **4** сотрудников должен пройти следующую аттестацию:
+            - [Exam 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx): Universal Windows Platform - App Architecture and UX/UI*
+            - [Exam 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx): Universal Windows Platform - App Data, Services, and Coding Patterns*
+            - [Exam 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx): Developing Mobile Apps
 
-        - Направление **Партнер по развертыванию**
+    **OR**
 
-            - [Оценка знаний по развертыванию Windows 10, системе безопасности и управления](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16022&scoId=eGcisv8BC_3806265419)
+    - **4** individuals must each pass the following assessment:
 
-*Будет отменена 30 сентября 2017 г.
+        - **Deployment Partner** focus area
 
-##<a name="device-partner-option"></a>Курс "Партнер по устройствам"
-Курс "Партнер по устройствам" подойдет для тех, кто хочет подтвердить свои навыки, пройдя аттестацию или экзамены, связанные с вашей методологией работы/бизнес-подразделением. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Windows и устройства".
+            - [Windows 10 Deployment, Security and Management Assessment](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16022&scoId=eGcisv8BC_3806265419)
 
-###<a name="silver"></a>Silver (Серебряный уровень)
-1. **2** сотрудника в вашей организации должны пройти необходимые экзамены или аттестацию.
+*Retiring September 30, 2017
 
-    - Каждый из **2** сотрудников должен пройти следующий экзамен:
+##Device Partner option
+The Device Partner option is ideal if you prefer to prove your skills by passing exam/assessment related to your practice/line of business. Complete all the steps within the option to attain the Windows and Devices competency.
 
-        - Направление **Разработчик систем**
+###Silver
+1. Your organization must have **2** individuals pass the required exams or assessments.
 
-            - [К сдаче экзаменов 70 735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx): производство и развертывание изготовителем для Windows 10
+    - **2** individuals must each pass the following exam:
 
-    **ИЛИ**
+        - **System Builder** focus area
 
-    - Каждый из **2** сотрудников должен пройти следующую аттестацию:
+            - [Exam 70-735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx): OEM Manufacturing and Deployment for Windows 10
 
-        - Направление **Разработчик устройств для Интернета вещей**
+    **OR**
 
-            - [Аттестация "Разработчик устройств для Интернета вещей" для Windows 10](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=15887&scoId=mwJPK2B8B_9004778676)
+    - **2** individuals must each pass the following assessment:
 
-###<a name="gold"></a>Gold (Золотой уровень)
-1. **4** сотрудника в вашей организации должны пройти необходимые экзамены или аттестацию.
+        - **IoT Device Builder** focus area
 
-    - Каждый из **4** сотрудников должен пройти следующий экзамен:
+            - [IoT Device Builder Assessment for Windows 10](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=15887&scoId=mwJPK2B8B_9004778676)
 
-        - Направление **Разработчик систем**
+###Gold
+1. Your organization must have **4** individuals pass the required exams or assessments.
 
-            - [К сдаче экзаменов 70 735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx): производство и развертывание изготовителем для Windows 10
+    - **4** individuals must each pass the following exam:
 
-    **ИЛИ**
+        - **System Builder** focus area
 
-    - Каждый из **4** сотрудников должен пройти следующую аттестацию:
+            - [Exam 70-735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx): OEM Manufacturing and Deployment for Windows 10
 
-        - Направление **Разработчик устройств для Интернета вещей**
+    **OR**
+
+    - **4** individuals must each pass the following assessment:
+
+        - **IoT Device Builder** focus area
         
-            - [Аттестация "Разработчик устройств для Интернета вещей" для Windows 10](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=15887&scoId=mwJPK2B8B_9004778676)
+            - [IoT Device Builder Assessment for Windows 10](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=15887&scoId=mwJPK2B8B_9004778676)
 
-##<a name="surface-hub-option"></a>Курс "Surface Hub"
-Курс "Surface Hub" идеально подходит вам, если вы являетесь авторизованным продавцом устройств Surface Hub и предпочитаете получить компетенции за счет продаж Surface Hub. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Windows и устройства".
+##Surface Hub option
+The Surface Hub option is ideal if you are an authorized Surface Hub ADR and prefer to attain competency through Surface Hub sales. Complete all the steps within the option to attain the Windows and Devices competency.
 
-###<a name="silver"></a>Silver (Серебряный уровень)
-1. Ваша организация должна соответствовать пороговым значениям производительности.
+###Silver
+1. Your organization must meet the performance thresholds.
 
-    - Партнер должен продать 12 устройств за 12-месячный отчетный период со средним объемом продаж 1 единица в месяц.
-    - Партнер также должен быть авторизованным продавцом устройств Surface Hub.
+    - Partner must have shipped 12 devices in the TTM period with an average of 1 unit a month.
+    - Partner must also be an authorized Surface Hub ADR.
 
-2. **2** сотрудника вашей организации должны пройти необходимую аттестацию.
+2. Your organization must have **2** individuals pass an assessment.
 
-    - [Оценка Surface Hub](https://PartnerUniversity.microsoft.com?whr=uri:MicrosoftAccount&courseId=16722&scoId=jcNMRQouC_5906265419)
+    - [Surface Hub Assessment](https://PartnerUniversity.microsoft.com?whr=uri:MicrosoftAccount&courseId=16722&scoId=jcNMRQouC_5906265419)
 
 
-###<a name="gold"></a>Gold (Золотой уровень)
-1. Ваша организация должна соответствовать пороговым значениям производительности.
+###Gold
+1. Your organization must meet the performance thresholds.
 
-    - Партнер должен продать 52 устройства за 12-месячный отчетный период со средним объемом продаж 4 единицы в месяц.
-    - Партнер также должен быть авторизованным продавцом устройств Surface Hub.
+    - Partner must have shipped 52 devices in the TTM period with an average of 4 units a month.
+    - Partner must also be an authorized Surface Hub ADR.
 
-2. **4** сотрудника в вашей организации должны пройти необходимые экзамены или аттестацию.
+2. Your organization must have **4** individuals pass the required exams and assessment.
 
-    - **Все** сотрудники должны пройти следующую аттестацию:
+    - **All** individuals must pass the following assessment:
     
-        - [Оценка Surface Hub](https://PartnerUniversity.microsoft.com?whr=uri:MicrosoftAccount&courseId=16722&scoId=jcNMRQouC_5906265419)
+        - [Surface Hub Assessment](https://PartnerUniversity.microsoft.com?whr=uri:MicrosoftAccount&courseId=16722&scoId=jcNMRQouC_5906265419)
     
-    **И**
+    **AND**
 
-    - **Все** сотрудники должны пройти один из следующих экзаменов:
+    - **All** individuals must each pass one of the following exams:
 
-        - [Экзамен 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): активация служб Office 365
-        - [Экзамен 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): основные решения Skype для бизнеса 2015 
-        - [Экзамен 70 398](https://www.microsoft.com/en-us/learning/exam-70-398.aspx): планирование устройств на предприятии и управление ими
-        - [Экзамен 70-697](https://www.microsoft.com/en-us/learning/exam-70-697.aspx): настройка устройств с Windows 
-
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 services
+        - [Exam 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Core Solutions of Skype for Business 2015 
+        - [Exam 70-398](https://www.microsoft.com/en-us/learning/exam-70-398.aspx): Planning for and Managing Devices in the Enterprise
+        - [Exam 70-697](https://www.microsoft.com/en-us/learning/exam-70-697.aspx): Configuring Windows Devices 
+-->
 
 
       

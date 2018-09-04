@@ -4,11 +4,13 @@ description: Соблюдайте эти инструкции, чтобы кон
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 keywords: перенос пользователей, подготовка, учетная запись клиента, консолидировать клиенты
-ms.openlocfilehash: 4a8d1e993c11d379819ef9628db1f2399c6e6b49
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7301786b62169da72f52cf26dd4ad8c755367ff4
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875984"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Консолидация клиента региональной авторизации CSP
 

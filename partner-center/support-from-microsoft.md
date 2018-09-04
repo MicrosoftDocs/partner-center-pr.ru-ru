@@ -1,13 +1,15 @@
 ---
-title: "Поддержка от Майкрософт | Центр партнеров"
-description: "При возникновении проблемы в работе службы Майкрософт или с Центром партнеров вы можете сообщить о проблеме в Майкрософт для получения помощи и отслеживать этот вопрос до его решения."
+title: Поддержка от Майкрософт | Центр партнеров
+description: При возникновении проблемы в работе службы Майкрософт или с Центром партнеров вы можете сообщить о проблеме в Майкрософт для получения помощи и отслеживать этот вопрос до его решения.
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
-ms.openlocfilehash: 9a74fe3cf8bde5000d4bb8ae5e1d0e1190a19411
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: ec944f86dc8011ca753d475d66096b093610d4c3
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876474"
 ---
 # <a name="support-from-microsoft"></a>Поддержка от Майкрософт
 
@@ -26,6 +28,8 @@ ms.lasthandoff: 11/16/2017
 [Сообщение о проблемах от имени клиента](report-problems-on-behalf-of-a-customer.md)
 
 [Автоматизация уведомлений служб с помощью наших API](get-automated-service-notifications-with-our-apis.md)
+
+[Преимущества поддержки Майкрософт](https://partner.microsoft.com/support/contact-support)
 
  
 

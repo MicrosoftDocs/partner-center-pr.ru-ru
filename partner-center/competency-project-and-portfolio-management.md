@@ -1,38 +1,47 @@
 ---
-title: "Компетенция \"Управление проектами и портфелями\""
-description: "Компетенция \"Управление проектами и портфелями\" демонстрирует возможность партнеров предоставлять клиентам решения для управления корпоративными проектами."
+title: Компетенция "Управление проектами и портфелями"
+description: Компетенция "Управление проектами и портфелями" демонстрирует возможность партнеров предоставлять клиентам решения для управления корпоративными проектами.
 author: Daniel Simpson
-keywords: "компетенция, компетенции"
-ms.openlocfilehash: 489825fd6d16c8fa275fdc89691bb9f5ebb4f83b
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: компетенция, компетенции
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 8006e86ce2c5b0e4b9c9c4383d14976efc2b46cc
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876034"
 ---
-# <a name="project-and-portfolio-management"></a>Управление проектами и портфелями 
-Компетенция "Управление проектами и портфелями" демонстрирует возможность партнеров предоставлять клиентам решения для управления корпоративными проектами.
+>[!IMPORTANT]
+>Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-## <a name="project-and-portfolio-partner-option"></a>Курс "Партнер по проектам и портфелям"
-Курс "Партнер по проектам и портфелям" подходит для партнеров, которые предоставляют решения для управления корпоративными проектами и портфелями как в локальной, так и в облачной средах. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Управление проектами и портфелями".
+<!--
 
-###<a name="silver"></a>Silver (Серебряный уровень)
-1. **2** сотрудника вашей организации должны удовлетворять требованиям, предъявляемым к прохождению экзаменов.
+# Project and Portfolio Management 
+The Project and Portfolio Management competency recognizes partners who demonstrate the ability to deliver enterprise project management solutions to customers.
 
-    - Каждый из **2** сотрудников должен пройти все следующие экзамены:
+## Project and Portfolio Partner option
+The Project and Portfolio Partner Option is ideal for partners that deliver enterprise-wide project and portfolio management in both on-premises and cloud environments. Complete all the steps within the option to attain the Project and Portfolio Management competency.
 
-        * [Экзамен 74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): управление проектами с помощью Microsoft Project
-        * [Экзамен 70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): управление проектами и портфелями с помощью Microsoft PPM
+###Silver
+1. Your organization must have **2** individuals pass the exam requirements.
 
-###<a name="gold"></a>Gold (Золотой уровень)
-1. **4** сотрудника вашей организации должны удовлетворять требованиям, предъявляемым к прохождению экзаменов.
+    - **2** individuals must each pass all the following exams:
 
-    - Каждый из **4** сотрудников должен пройти все следующие экзамены:
+        * [74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Managing Projects with Microsoft Project
+        * [70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Managing Projects and Portfolios with Microsoft PPM
 
-        * [Экзамен 74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): управление проектами с помощью Microsoft Project
-        * [Экзамен 70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): управление проектами и портфелями с помощью Microsoft PPM
+###Gold
+1. Your organization must have **4** individuals pass the exam requirements.
 
-    **И** 
+    - **4** individuals must each pass all the following exams:
 
-    - Каждые **2** сотрудника из тех же **4** сотрудников должны пройти следующий экзамен:
+        * [74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Managing Projects with Microsoft Project
+        * [70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Managing Projects and Portfolios with Microsoft PPM
 
-        *  [Экзамен 70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): управление Microsoft SharePoint Server 2016
+    **AND** 
+
+    - **2** of the same **4** individuals must each pass the following exam:
+
+        *  [70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016
+-->

@@ -1,32 +1,39 @@
 ---
-title: "Компетенция \"Планирование корпоративных ресурсов\""
-description: "Станьте партнером корпорации Майкрософт, подтвердив опыт вашей организации в области разработки и развертывания решений Dynamics для управления корпоративными ресурсами."
+title: Компетенция "Планирование корпоративных ресурсов"
+description: Станьте партнером корпорации Майкрософт, подтвердив опыт вашей организации в области разработки и развертывания решений Dynamics для управления корпоративными ресурсами.
 author: Daniel Simpson
-keywords: "компетенция, компетенции, планирование корпоративных ресурсов"
-ms.openlocfilehash: f9aa424e4bbc6e0cce3e9abdd4a284183675c6cf
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
-ms.translationtype: HT
+keywords: компетенция, компетенции, планирование корпоративных ресурсов
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 581dbe631117776c9f437a1d23d70f1a983c1a3d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875664"
 ---
-#<a name="enterprise-resource-planning"></a>Планирование корпоративных ресурсов 
-Станьте партнером корпорации Майкрософт, подтвердив опыт вашей организации в области разработки и развертывания решений Dynamics для управления корпоративными ресурсами.
+>[!IMPORTANT]
+>Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-##<a name="erp-reseller-option"></a>Курс "Торговый посредник по ERP"
-Курс "Торговый посредник по планированию корпоративных ресурсов" (Enterprise Resource Planning, ERP) подходит для партнеров, которые хотят подтвердить свою профессиональную квалификацию путем обеспечения соответствия пороговым значениям прибыли. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Планирование корпоративных ресурсов".
+<!--
+#Enterprise Resource Planning 
+Become a Microsoft partner by proving your organization’s caliber in developing and deploying Dynamics solutions for enterprise resource planning needs.
 
-###<a name="gold"></a>Уровень Gold
+##ERP Reseller option
+The Enterprise Resource Planning (ERP) Reseller option is ideal for partners who want to prove their capability by meeting revenue thresholds. Complete all the steps within the option to attain the Enterprise Resource Planning competency.
 
-Ваша организация должна соответствовать пороговым значениям производительности.
+###Gold
 
-    - **Развитые рынки**
-    -   Общий ежегодный валовый доход от продажи лицензий партнера должен составлять 175000 долларов США
+Your organization must meet the performance thresholds.
+
+    - **Developed Markets**
+    -   Partner must have earned a total annual gross license revenue of US$175,000
   
-    - **Развивающиеся рынки**
-        - Общий ежегодный валовый доход от продажи лицензий партнера должен составлять 75000 долларов США 
+    - **Developing Markets**
+        - Partner must have earned  a total annual gross license revenue of US$75,000 
 
-        - Обеспечьте соответствие требованиям, предъявляемым к прибыли по продуктам Microsoft Dynamics AX On Premise и Dynamics AX Online; Dynamics GP, Dynamics SL, плану Dynamics NAV и (или) Dynamics 365 либо плану Unified Operations.  
-
+        - Meet Revenue Requirements for Microsoft Dynamics AX on Premise & Dynamics AX online; Dynamics GP, Dynamics SL, Dynamics NAV and/or Dynamics 365 Plan or Unified Operations Plan.  
+-->
 
 
 

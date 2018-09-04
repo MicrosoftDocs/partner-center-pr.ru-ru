@@ -1,12 +1,14 @@
 ---
-title: "Управление программами поощрений в Центре партнеров | Центр партнеров"
-description: "Программы поощрений для партнеров Майкрософт обеспечивают прибыльность и развитие бизнеса партнеров"
+title: Управление программами поощрений в Центре партнеров | Центр партнеров
+description: Программы поощрений для партнеров Майкрософт обеспечивают прибыльность и развитие бизнеса партнеров
 author: labrenne
-ms.openlocfilehash: 7a924526d90843b44aeb192fed3c2c994be89133
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8141d3cf0796885ff911b75c3898af7065612f06
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875884"
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>Управление программами поощрений в Центре партнеров 
 
@@ -50,3 +52,4 @@ ms.lasthandoff: 07/07/2017
 
 [Обзор выплат по программам поощрений](understand-incentive-payouts.md)
 
+Дополнительные сведения см. в разделе [Guidebook совместный режим поощрений для партнеров](https://assets.microsoft.com/coop-guidebook.pdf)

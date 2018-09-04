@@ -3,12 +3,13 @@ title: Подготовка к переходу с Центра админист
 description: Возможности Центра администрирования партнеров Office 365 переносятся в Центр партнеров.
 author: labrenne
 Keywords: PAC,Office 365 Advisor, advisor, syndication partner, PAC retire, PAC retiring
-ms.openlocfilehash: a72b35ef214b84a876c1dc6783009e284baee996
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 0d60be7349754a7200a0b8d9762a37a940e0eebb
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1911298"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875594"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-dashboard"></a>Центр администрирования партнеров переносится в информационную панель Центра партнеров
 

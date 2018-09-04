@@ -2,11 +2,13 @@
 title: Центр партнеров Microsoft Cloud в Германии | Центр партнеров Microsoft Cloud в Германии
 description: Центр партнеров Microsoft Cloud в Германии — это корпоративный портал для партнеров Майкрософт, которые желают предложить облачные решения Майкрософт пользователям в странах ЕС и ЕАСТ. Microsoft Cloud в Германии гарантирует, что данные клиента хранятся на территории Германии, а доступ к ним контролируется специальным немецким доверенным лицом. Коммерческие пользователи из Европейского Союза и Европейской ассоциации свободной торговли (ЕАСТ) могут хранить данные клиентов и управлять ими в соответствии с законодательством Германии, а также ключевыми международными стандартами. Корпорация Майкрософт не имеет доступа к данным клиентов без одобрения и контроля со стороны клиентов или немецкого доверенного лица.
 author: MaggiePucciEvans
-ms.openlocfilehash: 6d659b325ed205642398499bd882c510d482e25c
-ms.sourcegitcommit: 089bdaa35976caf347bece5b890c32dcd074d85a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7f1640281ee3f14c266d33da54a17aa1968d3fbc
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/18/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876344"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Центр партнеров Microsoft Cloud в Германии
 

@@ -1,13 +1,15 @@
 ---
-title: "Требования к компетенциям Майкрософт для получения членства уровня Gold и Silver | Центр партнеров"
-description: "Подробнее о требованиях к компетенциям Майкрософт для получения членства уровней Gold и Silver."
+title: Требования к компетенциям Майкрософт для получения членства уровня Gold и Silver | Центр партнеров
+description: Подробнее о требованиях к компетенциям Майкрософт для получения членства уровней Gold и Silver.
 author: Maggiepuccievans
-keywords: "компетенции, членство уровня silver, членство уровня gold, mpn, MAPS, навыки, Microsoft Partner Network, членство в сети"
-ms.openlocfilehash: a922e579706b1c859ee6e645f814feaa7dd0d2e3
-ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
-ms.translationtype: HT
+keywords: компетенции, членство уровня silver, членство уровня gold, mpn, MAPS, навыки, Microsoft Partner Network, членство в сети
+ms.localizationpriority: medium
+ms.openlocfilehash: 705a9037282a77d33dd356e8d49fe855b5521a9a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/09/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875734"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Требования к компетенциям Майкрософт для получения членства уровня Gold и Silver
 

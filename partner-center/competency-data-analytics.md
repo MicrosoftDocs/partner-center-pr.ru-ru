@@ -1,112 +1,119 @@
 ---
-title: "Компетенция \"Аналитика данных\""
-description: "Если ваша организация занимается анализом данных, помогая клиентам более подробно изучать аналитические сведения, составлять прогнозы или формировать рекомендации, то компетенция \"Аналитика данных\" позволит вам укрепить и подтвердить свою профессиональную квалификацию в этой области."
+title: Компетенция "Аналитика данных"
+description: Если ваша организация занимается анализом данных, помогая клиентам более подробно изучать аналитические сведения, составлять прогнозы или формировать рекомендации, то компетенция "Аналитика данных" позволит вам укрепить и подтвердить свою профессиональную квалификацию в этой области.
 author: Daniel Simpson
-keywords: "компетенция, компетенции, аналитика данных"
-ms.openlocfilehash: 369bf2e35270a5c7eeb7b1db2c50bac4922580aa
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: компетенция, компетенции, аналитика данных
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 392efa7ef4fc6626d076c8419e68c9b510e7f0cd
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875304"
 ---
-#<a name="data-analytics"></a>Аналитика данных
-Если ваша организация занимается анализом данных, помогая клиентам более подробно изучать аналитические сведения, составлять прогнозы или формировать рекомендации, то компетенция "Аналитика данных" позволит вам укрепить и подтвердить свою профессиональную квалификацию в этой области.
+>[!IMPORTANT]
+>Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-- [Курс "Специалист по аналитике данных"](#data-analytics-specialist-option)
-- [Курс "Начинающий специалист по аналитике данных"](#data-analytics-beginners-option)
-- [Курс "Power BI"](#power-bi-option)
+<!--
+#Data Analytics
+If your organization is into the business of examining the data that helps customers to discover deeper insights, make predictions, or generate recommendations, then the Data Analytics competency gives you a platform to build and prove your capabilities.
 
-##<a name="data-analytics-specialist-option"></a>Курс "Специалист по аналитике данных"
-Курс "Специалист по аналитике данных" подойдет тем, кто хочет подтвердить свои навыки, пройдя экзамены по определенной области специализации. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Аналитика данных".
+- [Data Analytics Specialist option](#data-analytics-specialist-option)
+- [Data Analytics Beginners option](#data-analytics-beginners-option)
+- [Power BI option](#power-bi-option)
 
-###<a name="silver"></a>Silver (Серебряный уровень)
-1. **1** сотрудник в вашей организации должен пройти все экзамены по любому из следующий трех направлений: **Бизнес-аналитика**, **Углубленная аналитика** ИЛИ **Большие объемы данных**; также этот сотрудник должен пройти аттестацию.
+##Data Analytics Specialist option
+The Data Analytics Specialist option is ideal if you prefer to prove your skills by passing exams within a particular Area of Specialization. Complete all the steps within the option to attain the Data Analytics competency.
 
-    - Направление **Бизнес-аналитика**
-        - [Экзамен 70-767](https://www.microsoft.com/en-us/learning/exam-70-767.aspx): реализация хранилища данных SQL 
-        - [Экзамен 70-768](https://www.microsoft.com/en-us/learning/exam-70-768.aspx): разработка моделей данных SQL (бета-версия)
+###Silver
+1. Your organization must have **1** individual pass all of the exams in any one of the three focus areas: **Business Intelligence**, **Advanced Analytics**, OR **Big Data**, and the individual must pass an assessment.
 
-    - Направление **Углубленная аналитика**
-        - [Экзамен 70-773](https://www.microsoft.com/en-us/learning/exam-70-773.aspx): анализ больших объемов данных с помощью Microsoft R
-        - [Экзамен 70-774](https://www.microsoft.com/en-us/learning/exam-70-774.aspx): облачный анализ данных с помощью машинного обучения Azure
+    - **Business Intelligence** focus area
+        - [Exam 70-767](https://www.microsoft.com/en-us/learning/exam-70-767.aspx): Implementing a SQL Data Warehouse 
+        - [Exam 70-768](https://www.microsoft.com/en-us/learning/exam-70-768.aspx): Developing SQL Data Models (Beta)
 
-    - Направление **Большие объемы данных**
-        - [Экзамен 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): проектирование и внедрение решений для аналитики больших объемов данных
-        - [Экзамен 70-775](https://www.microsoft.com/en-us/learning/exam-70-775.aspx): инженерия данных в Microsoft HD Insight
+    - **Advanced Analytics** focus area
+        - [Exam 70-773](https://www.microsoft.com/en-us/learning/exam-70-773.aspx): Analyzing Big Data with Microsoft R
+        - [Exam 70-774](https://www.microsoft.com/en-us/learning/exam-70-774.aspx): Perform Cloud Data Science with Azure Machine Learning
 
-    **И**
+    - **Big Data** focus area
+        - [Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions
+        - [Exam 70-775](https://www.microsoft.com/en-us/learning/exam-70-775.aspx): Perform Data Engineering on Microsoft HD Insight
 
-    - Тот же сотрудник должен пройти следующую аттестацию:
-        - [Техническая оценка "Основы анализа данных"](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
+    **AND**
 
-###<a name="gold"></a>Gold (Золотой уровень)
-1. **2** сотрудника в вашей организации должны пройти все экзамены по любому из следующий трех направлений: **Бизнес-аналитика**, **Углубленная аналитика** ИЛИ **Большие объемы данных**; также эти сотрудники должны пройти аттестацию.
+    - The same individual must pass the following assessment:
+        - [Technical Assessment Data Analytics Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
 
-    - Направление **Бизнес-аналитика**
-        - [Экзамен 70-767](https://www.microsoft.com/en-us/learning/exam-70-767.aspx): реализация хранилища данных SQL 
-        - [Экзамен 70-768](https://www.microsoft.com/en-us/learning/exam-70-768.aspx): разработка моделей данных SQL (бета-версия)
+###Gold
+1. Your organization must have **2** individuals pass all of the exams in any one of the three focus areas: **Business Intelligence**, **Advanced Analytics**, OR **Big Data**, and the individuals must pass an assessment.
 
-    - Направление **Углубленная аналитика**
-        - [Экзамен 70-773](https://www.microsoft.com/en-us/learning/exam-70-773.aspx): анализ больших объемов данных с помощью Microsoft R
-        - [Экзамен 70-774](https://www.microsoft.com/en-us/learning/exam-70-774.aspx): облачный анализ данных с помощью машинного обучения Azure
+    - **Business Intelligence** focus area
+        - [Exam 70-767](https://www.microsoft.com/en-us/learning/exam-70-767.aspx): Implementing a SQL Data Warehouse 
+        - [Exam 70-768](https://www.microsoft.com/en-us/learning/exam-70-768.aspx): Developing SQL Data Models (Beta)
 
-    - Направление **Большие объемы данных**
-        - [Экзамен 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): проектирование и внедрение решений для аналитики больших объемов данных
-        - [Экзамен 70-775](https://www.microsoft.com/en-us/learning/exam-70-775.aspx): инженерия данных в Microsoft HD Insight
+    - **Advanced Analytics** focus area
+        - [Exam 70-773](https://www.microsoft.com/en-us/learning/exam-70-773.aspx): Analyzing Big Data with Microsoft R
+        - [Exam 70-774](https://www.microsoft.com/en-us/learning/exam-70-774.aspx): Perform Cloud Data Science with Azure Machine Learning
 
-    **И**
+    - **Big Data** focus area
+        - [Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions
+        - [Exam 70-775](https://www.microsoft.com/en-us/learning/exam-70-775.aspx): Perform Data Engineering on Microsoft HD Insight
 
-    - Оба сотрудника должны пройти следующую аттестацию: 
-        - [Техническая оценка "Основы анализа данных"](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
+    **AND**
 
-##<a name="data-analytics-beginners-option"></a>Курс "Начинающий специалист по аналитике данных"
-Курс "Начинающий специалист по аналитике данных" подойдет вам, если вы хотите подтвердить свои навыки, пройдя аттестации. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Аналитика данных".
+    - Both the individuals must pass the following assessment: 
+        - [Technical Assessment Data Analytics Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
 
-###<a name="silver"></a>Silver (Серебряный уровень)
-1. **2** сотрудника вашей организации должны пройти необходимые аттестации.
+##Data Analytics Beginners option
+The Data Analytics Beginners option is ideal if you prefer to prove your skills by passing assessments. Complete all the steps within to attain the Data Analytics competency.
 
-    - **2** сотрудника должны пройти следующую аттестацию:
-        - [Техническая оценка "Основы анализа данных"](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
+###Silver
+1. Your organization must have **2** individuals pass the required assessments.
 
-    **И**
+    - **2** individuals must pass the following assessment:
+        - [Technical Assessment Data Analytics Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
 
-    - Те же **2** сотрудника должны пройти одну из следующих аттестаций:
-        - [Техническая оценка "Бизнес-аналитика для анализа данных"](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
-        - [Техническая оценка "Продвинутая аналитика для анализа данных"](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=10275&scoId=bweuuySgB_3904778676)
-        - [Техническая оценка "Большие данные для анализа данных"](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14349&scoId=qb5OGFigB_6604778676)
+    **AND**
 
-###<a name="gold"></a>Gold (Золотой уровень)
-1. **4** сотрудника вашей организации должны пройти необходимые аттестации.
+    - The same **2** individuals must pass one of the following assessments:
+        - [Technical Assessment Business Intelligence for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
+        - [Technical Assessment Advanced Analytics for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=10275&scoId=bweuuySgB_3904778676)
+        - [Technical Assessment Big Data for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14349&scoId=qb5OGFigB_6604778676)
 
-    - **4** сотрудника должны пройти следующую аттестацию:
-        - [Техническая оценка "Основы анализа данных" ](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
+###Gold
+1. Your organization must have **4** individuals pass the required assessments.
 
-    **И**
+    - **4** individuals must pass the following assessment:
+        - [Technical Assessment Data Analytics Foundational ](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
 
-    - Те же **4** сотрудника должны пройти одну из следующих аттестаций:
-        - [Техническая оценка "Бизнес-аналитика для анализа данных"](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
-        - [Техническая оценка "Продвинутая аналитика для анализа данных"](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=10275&scoId=bweuuySgB_3904778676)
-        - [Техническая оценка "Большие данные для анализа данных"](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14349&scoId=qb5OGFigB_6604778676)
+    **AND**
 
-##<a name="power-bi-option"></a>Курс "Power BI"
-Курс "Power BI" подойдет вам, если вы хотите подтвердить свои навыки в развертывании рабочих мест Power BI, а также пройдя аттестацию. Выполните все шаги в рамках этого курса, чтобы получить компетенцию "Аналитика данных".
+    - The same **4** individuals must pass one of the following assessments:
+        - [Technical Assessment Business Intelligence for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
+        - [Technical Assessment Advanced Analytics for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=10275&scoId=bweuuySgB_3904778676)
+        - [Technical Assessment Big Data for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14349&scoId=qb5OGFigB_6604778676)
 
-###<a name="silver"></a>Silver (Серебряный уровень)
+##Power BI option
+The Power BI option is ideal for you if you prefer to prove your skills by deploying Power BI seats as well as passing an assessment. Complete all the steps within to attain the Data Analytics competency.
 
-1. **1** сотрудник вашей организации должен пройти необходимую аттестацию.
+###Silver
 
-    - [Техническая оценка "Бизнес-аналитика для анализа данных"](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
+1. Your organization must have **1** individual pass the required assessment.
+
+    - [Technical Assessment Business Intelligence for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
   
-2. Ваша организация должна соответствовать пороговым значениям производительности.
+2. Your organization must meet the performance thresholds.
 
-    - Чтобы получить право на прохождение аттестации, необходимо развернуть 250 рабочих мест Power BI и быть закрепленным в качестве Партнера записи по подпискам на Power BI.
-    - [Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.
+    - Deploy 250 seats of Power BI and be attached as Partner of Record for Power BI subscriptions to qualify.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-###<a name="gold"></a>Gold (Золотой уровень)
-1. **2** сотрудника вашей организации должны пройти необходимую аттестацию.
-    - [Техническая оценка "Бизнес-аналитика для анализа данных"](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
+###Gold
+1. Your organization must have **2** individuals pass the required assessment.
+    - [Technical Assessment Business Intelligence for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
   
-2. Ваша организация должна соответствовать пороговым значениям производительности.
-    - Чтобы получить право на прохождение аттестации, необходимо развернуть 1000 рабочих мест Power BI и быть закрепленным в качестве Партнера записи по подпискам на Power BI.
-    - [Дополнительные сведения](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) об этих отношениях.
-
+2. Your organization must meet the performance thresholds.
+    - Deploy 1,000 seats of Power BI and be attached as Partner of Record for Power BI subscriptions to qualify.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
+-->

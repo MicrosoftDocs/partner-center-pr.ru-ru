@@ -1,52 +1,60 @@
 ---
-title: "Компетенция \"Центр обработки данных\""
-description: "Компетенция \"Центр обработки данных\" подтверждает опыт партнеров в области преобразования центров обработки данных в более гибкие, масштабируемые и экономичные решения."
+title: Компетенция "Центр обработки данных"
+description: Компетенция "Центр обработки данных" подтверждает опыт партнеров в области преобразования центров обработки данных в более гибкие, масштабируемые и экономичные решения.
 author: Daniel Simpson
-keywords: "компетенция, компетенции, центр обработки данных"
-ms.openlocfilehash: 1a3e4c8b9bb2334e9a500ee7b8c32a184c26124e
-ms.sourcegitcommit: 5d287f46ef841f21e2171498efb2e309662c7965
-ms.translationtype: HT
+keywords: компетенция, компетенции, центр обработки данных
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 28dc7d87b4ce203c423b9f23a006d75d3de638c0
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/21/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876244"
 ---
-#<a name="datacenter"></a>Центр обработки данных
-Компетенция "Центр обработки данных" подтверждает опыт партнеров в области преобразования центров обработки данных в более гибкие, масштабируемые и экономичные решения.
-##<a name="datacenter-solutions-option"></a>Курс "Решения для центра обработки данных"
-Курс "Решения для центра обработки данных" подходит тем, кто хочет подтвердить свои навыки, пройдя экзамены или сертификации. Чтоб получить компетенцию "Центр обработки данных", пройдите экзамены по соответствующей области специализации.
-###<a name="silver"></a>Silver (Серебряный уровень)
-1. **2** сотрудника вашей организации должны пройти любой из экзаменов.
+>[!IMPORTANT]
+>Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-    - Направление **System Center 2012**
+<!--
+#Datacenter
+The Datacenter competency recognizes partners who are transforming data centers into more flexible, scalable, and cost effective solutions.
+##Datacenter Solutions option
+The Datacenter Solutions option is ideal if you prefer to prove your skills by passing exams or certifications. Choose exams from the focus area of your choice to attain the Datacenter competency.
+###Silver
+1. Your organization must have **2** individuals pass any one of the exams.
 
-        - [Экзамен 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): мониторинг и эксплуатация частного облака с помощью System Center 2012*
-        - [Экзамен 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): настройка и развертывание частного облака с помощью System Center 2012*
+    - **System Center** 2012 focus area
 
-\* Прекращение действия: 31декабря 2017г. Результаты прохождения этого экзамена будут действительны для получения компетенции до 31декабря2018года. Зарегистрироваться на сдачу этого экзамена можно до 30 ноября 2017 г.
+        - [Exam 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): Monitoring and Operating a Private Cloud with System Center 2012*
+        - [Exam 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): Configuring and Deploying a Private Cloud with System Center 2012*
 
-   - Направление **Виртуализация**
+\* Retiring December 31, 2017. This exam will continue to be accepted for competency qualification until December 31, 2018. You may register for this exam until November 30, 2017.
 
-        - [Экзамен 74-409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx): виртуализация серверов с помощью Windows Server Hyper-V и System Center
+   - **Virtualization** focus area
 
-   - Направление **Windows Server 2012**
+        - [Exam 74-409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx): Server Virtualization with Windows Server Hyper-V and System Center
 
-        - [Экзамен 70-410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx): установка и настройка Windows Server 2012
-        - [Экзамен 70-411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx): администрирование Windows Server 2012
-        - [Экзамен 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): настройка дополнительных служб Windows Server 2012
-        - [Экзамен 70-413](https://www.microsoft.com/en-us/learning/exam-70-413.aspx): проектирование и внедрение серверной инфраструктуры
-        - [Экзамен 70-414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx): реализация расширенной серверной инфраструктуры
-        - [Экзамен 70-417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx): совершенствование навыков для работы с MCSA: Windows Server 2012
+   - **Windows Server 2012** focus area
 
-   - Направление **Windows Server 2016**
-        - [Экзамен 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): установка, хранение и вычисления с помощью Windows Server 2016
-        - [Экзамен 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): управление сетью с помощью Windows Server 2016
-        - [Экзамен 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): работа с учетными данными с помощью Windows Server 2016
-        - [Экзамен 70-743](https://www.microsoft.com/en-us/learning/exam-70-743.aspx): совершенствование навыков для работы с MCSA: Windows Server 2016
-        - [Экзамен 70-744](https://www.microsoft.com/en-us/learning/exam-70-744.aspx): обеспечение безопасности Windows Server 2016
+        - [Exam 70-410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx): Installing and Configuring Windows Server 2012
+        - [Exam 70-411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx): Administering Windows Server 2012
+        - [Exam 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services
+        - [Exam 70-413](https://www.microsoft.com/en-us/learning/exam-70-413.aspx): Designing and Implementing a Server Infrastructure
+        - [Exam 70-414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx): Implementing an Advanced Server Infrastructure
+        - [Exam 70-417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx): Upgrading Your Skills to MCSA Windows Server 2012
 
-###<a name="gold"></a>Gold (Золотой уровень)
-1. **4** сотрудника вашей организации должны пройти необходимую сертификацию.
+   - **Windows Server** 2016 focus area
+        - [Exam 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage, and Compute with Windows Server 2016
+        - [Exam 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Networking with Windows Server 2016
+        - [Exam 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identity with Windows Server 2016
+        - [Exam 70-743](https://www.microsoft.com/en-us/learning/exam-70-743.aspx): Upgrading Your Skills to MCSA: Windows Server 2016
+        - [Exam 70-744](https://www.microsoft.com/en-us/learning/exam-70-744.aspx): Securing Windows Server 2016
 
-    - **4** сотрудника должны пройти один из следующих экзаменов:
+###Gold
+1. Your organization must have **4** individuals pass the required certification.
+
+    - **4** individuals must pass one of the following exams:
 
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-windows-server-certification.aspx): Windows Server 2012
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-windows-server-2016-certification.aspx): Windows Server 2016
+-->
