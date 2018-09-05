@@ -3,12 +3,13 @@ title: Управление преимуществами членства в Mic
 description: Как член Microsoft Partner Network вы имеете право на приобретение определенных преимуществ. Инструкции по активации преимуществ членства и управлению ими на информационной панели для партнеров.
 author: MaggiePucciEvans
 keywords: MPN, преимущества членства, членство
-ms.openlocfilehash: 650db44e4a240ca8f05ea421dec6ffc15ec8ceb2
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2518cc915b658a74372cd34b02e96bbbc1991aa0
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207284"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876914"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Управление преимуществами членства в Microsoft Partner Network
 
@@ -25,6 +26,9 @@ ms.locfileid: "2207284"
 ## <a name="manage-your-membership-benefits-in-the-dashboard"></a>Управление преимуществами членства на информационной панели
 
 После приобретения пакета преимуществ членства вам необходимо будет получить программные ключи и назначить сотрудникам лицензии, подписки и другие преимущества, чтобы начать использовать их. 
+
+>[!IMPORTANT]
+>Хотя у вас не должны быть глобальным администратором в вашей организации, чтобы приобрести преимущества, необходимо назначить сотрудникам преимущества глобального администратора.  Если вы хотите, вы станете глобальный администратор, следуя инструкциям на [странице **преимущества** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (вход). Кроме того вашей организации уже возможно, поэтому обязательно проверьте со своей командой глобального администратора.
 
 К преимуществам относится выделение лицензий на программное обеспечение с правами на внутреннее использование, облачные службы, подписки Visual Studio и поддержка. Вы можете получить сведения о подписке Action Pack на сайте [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 

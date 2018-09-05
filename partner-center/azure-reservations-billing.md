@@ -3,11 +3,14 @@ title: Выставление счетов за резервирования Azu
 Description: Information about billing for Azure reservations.
 author: v-petand
 keywords: Azure RI, зарезервированные экземпляры azure, резервирования, виртуальная машина, управление, выставление счетов, приобретение
-ms.openlocfilehash: c7d18770499b134b59630a33b945f39bf4e741de
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
-ms.translationtype: HT
+robots: noindex, nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 1f29c884d155a64ba4d592466a87682313ce9610
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/11/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877414"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Выставление счетов за услугу Microsoft Azure Reserved VM Instances
 
@@ -118,6 +121,6 @@ ms.lasthandoff: 05/11/2018
 | Управление резервированиями Azure на панели мониторинга Центра партнеров | [Управление резервированиями Azure на панели мониторинга Центра партнеров](azure-reservations-manage.md)
 |Приобретение резервирований Azure на портале Azure | [Предоплата за виртуальные машины с Azure Reserved VM Instances](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) в справке Azure |
 |Управление резервированиями Azure на портале Azure   |[Управление зарезервированными экземплярами виртуальных машин](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) в справке Azure  |
-|Приобретение резервирований Azure с помощью API Центра партнеров | [Приобретение услуги Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances) в документации для разработчиков в Центре партнеров
+|Приобретение резервирований Azure с помощью API Центра партнеров | [Приобретение услуги Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) в документации для разработчиков в Центре партнеров
 
  

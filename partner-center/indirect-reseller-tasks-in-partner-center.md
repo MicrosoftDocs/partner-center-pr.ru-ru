@@ -4,11 +4,13 @@ description: Будучи косвенным торговым посредник
 ms.prod: ''
 author: MaggiePucciEvans
 keywords: косвенные торговые посредники, торговые посредники, косвенные поставщики, поставщики, партнерство, VAR, уровень2, уровень 2
-ms.openlocfilehash: ff694f4cdb1b232812618f8b78ffc24238f0947e
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2f148d04b9e65624332bba8a2e687209856aa676
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877214"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Партнерство с непрямыми поставщиками в программе для поставщиков облачных решений
 

@@ -2,12 +2,13 @@
 title: Создание учетной записи Центра партнеров | Центр партнеров
 description: Членам Microsoft Partner Network необходимо создать учетные записи Центра партнеров и бизнес-профиль для управления преимущества и компетенциями.
 author: MaggiePucciEvans
-ms.openlocfilehash: 27b0915cdd199e479371864dfba2879eadeaea0d
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 5687b933923da3e554924e14cfd0dca88a64243e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207274"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876784"
 ---
 # <a name="create-a-partner-center-account"></a>Создание учетной записи Центра партнеров
 

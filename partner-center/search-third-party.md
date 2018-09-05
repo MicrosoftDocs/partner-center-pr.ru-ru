@@ -3,12 +3,13 @@ title: Поиск сторонних предложений для продаж�
 description: Находите сторонние предложения, которые отлично впишутся в ваш портфель.
 author: labrenne
 keywords: сторонние предложения, программное обеспечение для покупки, поиск сторонних предложений
-ms.openlocfilehash: f924bc4d38c764ca571148943d287318edb46987
-ms.sourcegitcommit: 393cb5a8c9b71a737dc1a7aa8d1639937470be3d
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: dc7d7c8a0d24f184c2e6a21406a1d5d26c961902
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2204958"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876724"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>Поиск сторонних предложений для продажи
 

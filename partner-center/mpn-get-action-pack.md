@@ -3,12 +3,13 @@ title: Приобретение или продление подписки Micro
 description: Узнайте, как получить Microsoft Action Pack в первый раз или продлить имеющуюся подписку.
 author: MaggiePucciEvans
 keywords: action pack, MAPS, продление MAPS, продление action pack, получение action pack
-ms.openlocfilehash: 709966b80a0e8f39c3dbc70da16c9928df43f6cc
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 9fab4b0abe282e12a505c242597345717fad22b6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207264"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876714"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Приобретение подписки на Microsoft Action Pack в первый раз или ее продление
 
@@ -55,7 +56,7 @@ Action Pack предлагает программное обеспечение, 
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-dashboard"></a>Чтобы продлить подписку на Microsoft Action Pack в информационной панели для партнеров, выполните следующие действия.
 
-1. Перейдите на страницу [**Предложений в рамках членства**](https://partnercenter.microsoft.com/pcv/partnership/offers), а затем выберите **Приобретено**. Найдите плитку **Подписка на Microsost Action Pack**.  
+1. Перейдите на страницу [**Предложений в рамках членства**](https://partnercenter.microsoft.com/pcv/partnership/offers), а затем выберите **Приобретено**. Найдите плитку **Подписка на Microsoft Action Pack** .  
 
 2. Выберите **Продлить подписку**, а затем выберите способ оплаты. Вы можете осуществить оплату с помощью кредитной карты или электронного банковского перевода.
 

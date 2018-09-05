@@ -4,11 +4,13 @@ description: Создайте бизнес-профиль в Центре пар
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 keywords: pinpoint, рекомендации, потенциальные клиенты, C2PC, профиль компании, реклама компании, поиск партнера, поиск поставщика решений, бизнес-профиль, маркетинговый профиль
-ms.openlocfilehash: 847b535429620d96b7fffc843904c03190928449
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 1a53d9b1dd663b63193295068e6692645247cf0e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877629"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -16,7 +18,7 @@ FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
 FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
 FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
 FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
- -->
+-->
 
 
 # <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>Создание бизнес-профиля для получения потенциальных клиентов от Майкрософт
@@ -58,7 +60,7 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 
 Логотип может быть файлом GIF, JPG или PNG с максимальной шириной 300 пикселей. Мы рекомендуем использовать квадратные или длинные пропорции. Не рекомендуется использовать высокие пропорции.
 
-Описание может содержать не более 1000 символов. Советы для создания превосходного описания: 
+Описание может содержать до 2500 символов. Советы для создания превосходного описания: 
 
 *  **Будьте кратки**, выделив важные факторы в первых двух предложениях. Это должен быть заголовок, который привлекает внимание клиентов. В поле поиска партнера мы покажем первую строку или две в предварительном просмотре результатов поиска.
 *  **Сосредоточьтесь на взаимодействии вашей компании с предложениями Майкрософт**. Пользователи, которые ищут рекомендации, обычно ищут партнеров Майкрософт.

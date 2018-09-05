@@ -4,11 +4,13 @@ description: Как торговый посредник, вы можете на�
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
 keywords: агент поддержки, поддержка, назначение контактного лица по поддержке, назначенное контактное лицо из службы поддержки
-ms.openlocfilehash: f67d314ca0e6fe70cdaba70395f1e80a7e049b88
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2a1ae3f22193f2d59266c289c4c2a924c323b86a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877544"
 ---
 # <a name="assign-support-contacts"></a>Назначить контакты службы поддержки
 

@@ -1,45 +1,53 @@
 ---
-title: "Компетенция \"Совместная работа и содержимое\""
-description: "Компетенция \"Совместная работа и содержимое\" подтверждает опыт партнеров в области предоставления решений SharePoint, которые помогают компаниям осуществлять общий доступ, взаимодействовать и повышать производительность."
+title: Компетенция "Совместная работа и содержимое"
+description: Компетенция "Совместная работа и содержимое" подтверждает опыт партнеров в области предоставления решений SharePoint, которые помогают компаниям осуществлять общий доступ, взаимодействовать и повышать производительность.
 author: Daniel Simpson
-keywords: "компетенции, компетенция, совместная работа и содержимое"
-ms.openlocfilehash: a924848c5e342ab18ff02c7887e4143f88407530
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: компетенции, компетенция, совместная работа и содержимое
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: efe413c3aec78d0f1b01f22e3db73cdb1122b2e9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877074"
 ---
-#<a name="collaboration-and-content"></a>Совместная работа и содержимое
-Компетенция "Совместная работа и содержимое" подтверждает опыт партнеров в области предоставления решений SharePoint, которые помогают компаниям осуществлять общий доступ, взаимодействовать и повышать производительность.
+>[!IMPORTANT]
+>Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-##<a name="sharepoint-services-partner-option"></a>Курс "Партнер по службам SharePoint"
-Проверьте свои знания о продуктах, пройдя экзамены и сертификации.
+<!--
 
-###<a name="silver"></a>Silver (Серебряный уровень)
+#Collaboration and Content
+The Collaboration and Content competency recognizes partners delivering SharePoint solutions that help companies share, collaborate, and improve productivity.
 
-1. **2** сотрудника вашей организации должны пройти экзамены или сертификации.
+##SharePoint Services Partner option
+Put your product knowledge to the test by passing exams or certifications.
 
-    - **2** сотрудника должны пройти все следующие экзамены:
-        - [Экзамен 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): активация служб для Microsoft Office 365
-        - [Экзамен 70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): управление Microsoft SharePoint Server 2016
+###Silver
 
-    **ИЛИ**
+1. Your organization must have **2** individuals pass either the exam or certification requirements.
 
-    - **2** сотрудника должны пройти одну из следующих сертификаций:
-        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): производительность
-        - [MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): разработчик приложений
+    - **2** individuals must pass all the following exams:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
+        - [Exam 70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016
 
-###<a name="gold"></a>Gold (Золотой уровень)
-1. **4** сотрудника вашей организации должны пройти экзамены или сертификации.
+    **OR**
 
-    - **4** сотрудника должны пройти все следующие экзамены:
-        - [Экзамен 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): активация служб для Microsoft Office 365
-        - [Экзамен 70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): управление Microsoft SharePoint Server 2016
+    - **2** individuals must pass one of the following certifications:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
+        - [MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): App Builder
 
-    **ИЛИ**
+###Gold
+1. Your organization must have **4** individuals pass either the exam or certification requirements.
 
-    - **4** сотрудника должны пройти одну из следующих сертификаций:
-        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): производительность
-        - [MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): разработчик приложений
- 
+    - **4** individuals must pass all the following exams:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
+        - [Exam 70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016
+
+    **OR**
+
+    - **4** individuals must pass one of the following certifications:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
+        - [MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): App Builder
+ -->
 

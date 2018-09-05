@@ -4,12 +4,13 @@ description: Клиент может изменить партнера в про
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: подписка azure, изменить партнера, сменить партнера, получить нового партнера, другой партнер
-ms.openlocfilehash: a4b9c0a320808f1d8a4a630a035660813a3f9c74
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 21737fd9b9633fb2a1c1fb05daba4d43dd50444d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/22/2018
-ms.locfileid: "2088961"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877564"
 ---
 # <a name="transfer-azure-subscriptions"></a>Передача подписок Azure 
 
@@ -18,6 +19,8 @@ ms.locfileid: "2088961"
 -  Центр партнеров
 
 Клиент может решить перейти к партнеру из программы поставщиков облачных решений или другому партнеру, предоставляющему доступ к службам Microsoft Azure. Но это ручной процесс, требующий участия как партнера, так и клиента.
+
+**Примечание**  В настоящее время только для прямых или косвенных поставщиков, смогут передача подписок.
 
 **Примечание.** В данный момент невозможно изменить партнеров для подписок поставщика облачных решений для Office 365, Enterprise Mobility Suite и Microsoft Dynamics CRM.
 
