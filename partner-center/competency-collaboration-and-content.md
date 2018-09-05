@@ -1,45 +1,53 @@
 ---
-title: "Компетенция \"Совместная работа и содержимое\""
-description: "Компетенция \"Совместная работа и содержимое\" подтверждает опыт партнеров в области предоставления решений SharePoint, которые помогают компаниям осуществлять общий доступ, взаимодействовать и повышать производительность."
+title: Компетенция "Совместная работа и содержимое"
+description: Компетенция "Совместная работа и содержимое" подтверждает опыт партнеров в области предоставления решений SharePoint, которые помогают компаниям осуществлять общий доступ, взаимодействовать и повышать производительность.
 author: Daniel Simpson
-keywords: "компетенции, компетенция, совместная работа и содержимое"
-ms.openlocfilehash: a924848c5e342ab18ff02c7887e4143f88407530
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: компетенции, компетенция, совместная работа и содержимое
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: efe413c3aec78d0f1b01f22e3db73cdb1122b2e9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877074"
 ---
-#<a name="collaboration-and-content"></a><span data-ttu-id="9375a-104">Совместная работа и содержимое</span><span class="sxs-lookup"><span data-stu-id="9375a-104">Collaboration and Content</span></span>
-<span data-ttu-id="9375a-105">Компетенция "Совместная работа и содержимое" подтверждает опыт партнеров в области предоставления решений SharePoint, которые помогают компаниям осуществлять общий доступ, взаимодействовать и повышать производительность.</span><span class="sxs-lookup"><span data-stu-id="9375a-105">The Collaboration and Content competency recognizes partners delivering SharePoint solutions that help companies share, collaborate, and improve productivity.</span></span>
+>[!IMPORTANT]
+><span data-ttu-id="a5b31-104">Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="a5b31-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
-##<a name="sharepoint-services-partner-option"></a><span data-ttu-id="9375a-106">Курс "Партнер по службам SharePoint"</span><span class="sxs-lookup"><span data-stu-id="9375a-106">SharePoint Services Partner option</span></span>
-<span data-ttu-id="9375a-107">Проверьте свои знания о продуктах, пройдя экзамены и сертификации.</span><span class="sxs-lookup"><span data-stu-id="9375a-107">Put your product knowledge to the test by passing exams or certifications.</span></span>
+<!--
 
-###<a name="silver"></a><span data-ttu-id="9375a-108">Silver (Серебряный уровень)</span><span class="sxs-lookup"><span data-stu-id="9375a-108">Silver</span></span>
+#Collaboration and Content
+The Collaboration and Content competency recognizes partners delivering SharePoint solutions that help companies share, collaborate, and improve productivity.
 
-1. <span data-ttu-id="9375a-109">**2** сотрудника вашей организации должны пройти экзамены или сертификации.</span><span class="sxs-lookup"><span data-stu-id="9375a-109">Your organization must have **2** individuals pass either the exam or certification requirements.</span></span>
+##SharePoint Services Partner option
+Put your product knowledge to the test by passing exams or certifications.
 
-    - <span data-ttu-id="9375a-110">**2** сотрудника должны пройти все следующие экзамены:</span><span class="sxs-lookup"><span data-stu-id="9375a-110">**2** individuals must pass all the following exams:</span></span>
-        - <span data-ttu-id="9375a-111">[Экзамен 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): активация служб для Microsoft Office 365</span><span class="sxs-lookup"><span data-stu-id="9375a-111">[Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365</span></span>
-        - <span data-ttu-id="9375a-112">[Экзамен 70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): управление Microsoft SharePoint Server 2016</span><span class="sxs-lookup"><span data-stu-id="9375a-112">[Exam 70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016</span></span>
+###Silver
 
-    **<span data-ttu-id="9375a-113">ИЛИ</span><span class="sxs-lookup"><span data-stu-id="9375a-113">OR</span></span>**
+1. Your organization must have **2** individuals pass either the exam or certification requirements.
 
-    - <span data-ttu-id="9375a-114">**2** сотрудника должны пройти одну из следующих сертификаций:</span><span class="sxs-lookup"><span data-stu-id="9375a-114">**2** individuals must pass one of the following certifications:</span></span>
-        - <span data-ttu-id="9375a-115">[MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): производительность</span><span class="sxs-lookup"><span data-stu-id="9375a-115">[MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity</span></span>
-        - <span data-ttu-id="9375a-116">[MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): разработчик приложений</span><span class="sxs-lookup"><span data-stu-id="9375a-116">[MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): App Builder</span></span>
+    - **2** individuals must pass all the following exams:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
+        - [Exam 70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016
 
-###<a name="gold"></a><span data-ttu-id="9375a-117">Gold (Золотой уровень)</span><span class="sxs-lookup"><span data-stu-id="9375a-117">Gold</span></span>
-1. <span data-ttu-id="9375a-118">**4** сотрудника вашей организации должны пройти экзамены или сертификации.</span><span class="sxs-lookup"><span data-stu-id="9375a-118">Your organization must have **4** individuals pass either the exam or certification requirements.</span></span>
+    **OR**
 
-    - <span data-ttu-id="9375a-119">**4** сотрудника должны пройти все следующие экзамены:</span><span class="sxs-lookup"><span data-stu-id="9375a-119">**4** individuals must pass all the following exams:</span></span>
-        - <span data-ttu-id="9375a-120">[Экзамен 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): активация служб для Microsoft Office 365</span><span class="sxs-lookup"><span data-stu-id="9375a-120">[Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365</span></span>
-        - <span data-ttu-id="9375a-121">[Экзамен 70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): управление Microsoft SharePoint Server 2016</span><span class="sxs-lookup"><span data-stu-id="9375a-121">[Exam 70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016</span></span>
+    - **2** individuals must pass one of the following certifications:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
+        - [MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): App Builder
 
-    **<span data-ttu-id="9375a-122">ИЛИ</span><span class="sxs-lookup"><span data-stu-id="9375a-122">OR</span></span>**
+###Gold
+1. Your organization must have **4** individuals pass either the exam or certification requirements.
 
-    - <span data-ttu-id="9375a-123">**4** сотрудника должны пройти одну из следующих сертификаций:</span><span class="sxs-lookup"><span data-stu-id="9375a-123">**4** individuals must pass one of the following certifications:</span></span>
-        - <span data-ttu-id="9375a-124">[MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): производительность</span><span class="sxs-lookup"><span data-stu-id="9375a-124">[MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity</span></span>
-        - <span data-ttu-id="9375a-125">[MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): разработчик приложений</span><span class="sxs-lookup"><span data-stu-id="9375a-125">[MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): App Builder</span></span>
- 
+    - **4** individuals must pass all the following exams:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
+        - [Exam 70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016
+
+    **OR**
+
+    - **4** individuals must pass one of the following certifications:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
+        - [MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): App Builder
+ -->
 
