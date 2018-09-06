@@ -5,12 +5,12 @@ ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: a3c5735a61a867c06268bb2257f3295d49bbe83f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 402920613cb5b45608f9099d250d79809a8d9f5a
+ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874574"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "3405436"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Создание учетных записей пользователей и назначение разрешений
 
@@ -61,6 +61,12 @@ ms.locfileid: "2874574"
 
 >[!Important]
 >Пользователям необходимо назначить хотя бы одну роль для работы в информационной панели Центра партнеров.
+
+
+### <a name="find-your-global-admin"></a>Найдите ваш глобальный администратор
+
+Иногда пользователю может потребоваться изменить роль или нового пользователя может потребоваться назначение определенных ролей.  
+Чтобы найти глобальный администратор, кто может вносить изменения ролей или назначение ролей для нового пользователя, с помощью **значок параметров** в верхней правой части панели мониторинга, выберите **Управление пользователями** и фильтр глобального администратора. 
 
 Сведения о роли и возможностях каждой роли см. [Назначение разрешений для пользователей](permissions-overview.md).
 
