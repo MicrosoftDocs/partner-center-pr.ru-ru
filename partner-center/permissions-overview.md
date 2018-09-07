@@ -4,12 +4,12 @@ description: Каждый сотрудник, кто будет работать
 author: labrenne
 keywords: роли, разрешения, администратор, агент
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e6e32b5e65d2d1dc52a5703fc405a14f9d5bc3e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 990d795a6a8b47b061f1853b67243ce21046205b
+ms.sourcegitcommit: 10d2df6a02cfe616e8184632b0676d5fe170ef22
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875994"
+ms.lasthandoff: 09/07/2018
+ms.locfileid: "3630615"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Назначать пользователям роли и разрешения
 
@@ -62,6 +62,7 @@ ms.locfileid: "2875994"
 <td><ul>
 <li><p>Просмотр, создание пользователей и управление ими</p></li>
 <li><p>Просмотр всех профилей партнеров</p></li>
+<li><p>Просмотр, создание пользователей партнера и управление ними</p></li>
 </ul></td>
 </tr>
 <tr class="even">
