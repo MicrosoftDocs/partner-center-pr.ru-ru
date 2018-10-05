@@ -4,12 +4,12 @@ description: Если пользователь забыл свой пароль,
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: d8b69ed976b8ee24edc9060a7d0d5fd252ea02bd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 02c45caba9b1a3c5452626d728359eaa300f93b8
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876844"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377426"
 ---
 # <a name="reset-a-user-password"></a>Сброс пароля пользователя
 
@@ -17,7 +17,8 @@ ms.locfileid: "2876844"
 
 -  Центр партнеров
    
->**Примечание.** Если вы регистрировались в программе поставщиков облачных решений (CSP) для Microsoft Cloud в Германии, сведения о сбросе пароля пользователя см. в разделе [Управление пользователями в Центре партнеров Microsoft Cloud в Германии](user-management-in-partner-center-for-microsoft-cloud-germany.md).
+> [!NOTE]  
+>  Если вы регистрировались в программе поставщиков облачных решений (CSP) в Microsoft Cloud в Германии, см. в разделе [Управление пользователями в центре партнеров Microsoft Cloud в Германии](user-management-in-partner-center-for-microsoft-cloud-germany.md) сведения о сбросе пароля пользователя.
 
 Если пользователь забыл свой пароль, вы можете назначить ему временный пароль. Он сможет использовать его при следующем входе в Центр партнеров.
 

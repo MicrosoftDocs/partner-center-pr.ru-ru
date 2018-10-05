@@ -4,12 +4,12 @@ description: При обновлении членства Microsoft Partner Netw
 author: MaggiePucciEvans
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: a8165a6e7f24437a556ecd72e4e87966b148db0a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b282ab2fc83acbf31c5682f6e66b7bc401b81c06
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875714"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377786"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Обновить членство Microsoft Partner Network
 
@@ -29,7 +29,7 @@ ms.locfileid: "2875714"
 
   - Компетенция уровня Gold — лучшие в классе возможности в конкретной области решений Майкрософт
 
-После присоединения к Microsoft Partner Network вы получите право обновить членство и купить предложения преимуществ эксклюзивного членства. Дополнительные сведения о членстве в Microsoft Partner Network [https://partner.microsoft.com](https://partner.microsoft.com).
+После присоединения к Microsoft Partner Network вы получите право обновить членство и купить предложения преимуществ эксклюзивного членства. Дополнительные сведения о членстве в Microsoft Partner Network см. в [https://partner.microsoft.com](https://partner.microsoft.com).
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Приобретение подписки на Microsoft Action Pack
@@ -44,9 +44,10 @@ ms.locfileid: "2875714"
 
 - Получайте каждый месяц кредиты Microsoft Azure в размере 100 долларов США
 
-Дополнительные сведения о Microsoft Action Pack, перейдите к [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
+Дополнительные сведения о Microsoft Action Pack, см. в [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
->**Примечание** Переход по этой ссылке переместит вас на другой веб-сайт. Вернитесь на этот сайт Центра партнеров, чтобы подписаться на Action Pack.
+> [!NOTE]  
+> Переход по этой ссылке вы перейдете на другой веб-сайт. Вернитесь на этот сайт Центра партнеров, чтобы подписаться на Action Pack.
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Подпишитесь на Microsoft Action Pack
@@ -75,8 +76,8 @@ ms.locfileid: "2875714"
 
 3. Выберите **Отключить автоматическое продление**, если вы не хотите, чтобы подписка на Action Pack автоматически продлевалась каждый год. 
 
-    >**Примечание**<br>
-Если отключить автоматическое продление подписки, вы не сможете снова включить эту функцию, пока заново не обновите подписку. Мы уведомим вас про необходимость обновления до истечения срока действия подписки.
+   > [!NOTE]  
+> Если отключить автоматическое продление подписки, вы не сможете снова включить эту функцию, пока заново не продлите подписку. Мы уведомим вас про необходимость обновления до истечения срока действия подписки.
 
 
 ### <a name="renew-your-action-pack-subscription"></a>Продление подписки на Action Pack

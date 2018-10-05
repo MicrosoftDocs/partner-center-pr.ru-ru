@@ -5,12 +5,12 @@ author: Janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ab388f9a178a0bfd3b3d3133da855bcddee9d4f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b24e69d21a50306cbd9bf3495fc55015d5966b17
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877454"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377806"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Приложение Azure Cost Management для партнеров Azure CSP  
 
@@ -41,8 +41,9 @@ Azure Cost Management от Cloudyn— это веб-приложение, поз
 ## <a name="add-a-secret-key-to-your-app"></a>Добавление секретного ключа в приложение
 1.  В раскрывающемся меню рядом с кнопкой **Добавить ключ** выберите период: 1 или 2 года.
 2.  Нажмите кнопку **Добавить ключ**. 
-3.  Копируйте и сохраните значение секретного ключа. Это необходимо для получения бесплатной пробной версии на 30 дней.
-<br>**Примечание**. Секретные ключи приложения напоминают пароли с более длительным сроком действия. Сохраните значение ключа в безопасном расположении для будущего использования.
+3.  Копируйте и сохраните значение секретного ключа. Это необходимо для получения бесплатной пробной версии на 30 дней.<br>
+> [!NOTE]  
+> Секретные ключи приложения напоминают пароли с более длительным сроком действия. Сохраните значение ключа в безопасном расположении для будущего использования.
 
 ## <a name="next-steps"></a>Дальнейшие действия
 Запустите [бесплатную пробную версию на 30 дней](https://go.microsoft.com/fwlink/?linkid=857895).

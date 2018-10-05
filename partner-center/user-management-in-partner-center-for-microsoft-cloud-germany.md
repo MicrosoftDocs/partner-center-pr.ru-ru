@@ -3,12 +3,12 @@ title: Управление пользователями и лицензиями
 description: В соответствии с национальными, региональными и отраслевыми требованиями к сбору и использованию персональных данных возможности управления пользователями недоступны в Центре партнеров Microsoft Cloud в Германии. Вместо этого добавлять пользователей и управлять ими необходимо на портале Azure для Microsoft Cloud в Германии.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 4e354fd3f5bf20ef10600a454a94704fe2db0700
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0ee4215c106076d3bc548efa50dd921ae3d5987a
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875774"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377416"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud в Германии
 
@@ -25,8 +25,8 @@ ms.locfileid: "2875774"
 Сброс пароля пользователя | Портал администрирования Azure для Microsoft Cloud в Германии
 Управление лицензиями | Центр администрирования Office 365 или портал лицензирования Azure Active Directory для Microsoft Cloud в Германии
 
->**Примечание.**<br>
-На момент публикации этой статьи документация по управлению лицензиями пользователей клиента на портале администрирования Azure или портале администрирования Office 365 была еще недоступна.
+> [!NOTE]  
+> На момент публикации этой статьи документация по управлению лицензиями пользователей клиента на портале администрирования Azure или портале администрирования Office 365 была еще недоступна.
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Управление пользователями на портале Azure для Microsoft Cloud в Германии 
 
@@ -34,7 +34,8 @@ ms.locfileid: "2875774"
 
 После успешного входа на портал Azure для Microsoft Cloud в Германии откройте страницу обзора Azure Active Directory (Azure AD), а затем следуйте инструкциям, представленным в следующих разделах:
 
->**Примечание.** При переходе по следующим ссылкам вы будете перенаправлены на другой сайт. 
+> [!NOTE]  
+> Переходе ссылки ниже вы будете перенаправлены на другой сайт. 
 
 -  [**Добавление новых пользователей в Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 

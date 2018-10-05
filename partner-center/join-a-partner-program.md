@@ -3,12 +3,12 @@ title: Присоединитесь к Microsoft Partner Network | Центр п
 description: Приобретите Microsoft Action Pack и получите компетенцию в Центре партнеров
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0983b5f9b62e29495d98248e88a2820721d3e828
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6d38a3bce720d4accca4387d279f222181e337ff
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877114"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377796"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Присоединитесь к Microsoft Partner Network (MPN)
 
@@ -37,7 +37,8 @@ ms.locfileid: "2877114"
 
 4.  Если вы регистрируетесь через существующую организацию, вам будет предложено указать имя и адрес организации.
 
->**Примечание**<br> Необходимо будет указать адрес главного офиса вашей организации для каждого региона, в котором вы осуществляете продажи.
+> [!NOTE]  
+>  Необходимо будет указать адрес главного офиса вашей организации для каждого региона, в котором вы осуществляете продажи.
 
 В качестве участника Microsoft Partner Network на этом базовом и бесплатном уровне вы получаете набор [прав на внутреннее использование](https://partner.microsoft.com/membership/core-benefits) для развития вашего бизнеса и перехода на следующий этап. 
 

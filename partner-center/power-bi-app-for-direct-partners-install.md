@@ -4,12 +4,12 @@ description: Выполните следующие действия, чтобы 
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0164a650fb92e4a445b195f3e7b34f1359759a8c
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8dd91d16ffe5e49271dd3c5fe50e8910299f1a1c
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874764"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377516"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Установить и ознакомиться с приложением "Аналитика Центра партнеров для Microsoft Power BI"
 
@@ -39,7 +39,8 @@ ms.locfileid: "2874764"
 
 4.  Во всплывающем окне **Подключение к аналитике Центра партнеров** убедитесь, что для параметра **Метод проверки подлинности** выбрано значение **oAuth2**. Если это не так, выберите **oAuth2** из списка. 
 
-    >**Примечание**<br> Для отображение окна может потребоваться несколько минут.
+    > [!NOTE]  
+>  Для отображение окна может потребоваться несколько минут.
 
 5.  На странице **Соединитель аналитики Центра партнеров** войдите в систему как глобальный администратор, агент администратора или администратор выставления счетов клиента Azure AD вашей компании, а затем выберите **Вход**.
  

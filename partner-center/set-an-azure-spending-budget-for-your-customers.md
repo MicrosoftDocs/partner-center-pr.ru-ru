@@ -4,12 +4,12 @@ description: В Центре партнеров вы можете устанав
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: adea2e44dcde77ae8f6c020407cd65957fdfd5cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e7fd895c3c8e0acda51fb79ab142a7723ecb227
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875374"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377476"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Установка расходного бюджета Azure для клиентов
 
@@ -29,7 +29,8 @@ ms.locfileid: "2875374"
 
 Данные о расходах в Azure приблизительны и не отражают налоги, кредиты, поправки и другие возможные взносы, поэтому фактическая сумма при выставлении счетов может отличаться. Данные о расходах обновляются раз в день. Клиенты продолжат использовать службы и ресурсы Azure (и оплачивать их), если вы не измените параметры учетной записи на портале Azure. 
 
->**Примечание.** Эта функция недоступна в «песочнице» или для учетных записей тестирования в рабочей среде (TIP).
+> [!NOTE]  
+> Эта функция недоступен в «песочнице» или тестирования в рабочей среде (TIP) учетных записей.
 
 **Включение уведомлений по электронной почте**
 1.  На панели мониторинга выберите **Расходы на Azure**.
