@@ -5,12 +5,12 @@ author: Janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: b24e69d21a50306cbd9bf3495fc55015d5966b17
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 9f5439f47dbc99421e493c9f84f8ea2469ba6525
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377806"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489390"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Приложение Azure Cost Management для партнеров Azure CSP  
 
@@ -33,7 +33,7 @@ Azure Cost Management от Cloudyn— это веб-приложение, поз
 ## <a name="register-your-web-app-in-the-partner-center"></a>Регистрация своего веб-приложения в Центре партнеров
 При регистрации веб-приложения Azure Active Directory в Центре партнеров вы предоставляете доступ к API Центра партнеров. 
 1.  Войдите в [Центр партнеров](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview) с помощью [учетной записи глобального администратора или агента администратора](create-user-accounts-and-set-permissions.md).
-2.  В меню **Панель мониторинга** выберите пункт **Параметры учетной записи** &gt; **[Управление пользователями](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)**.
+2.  В **Центре партнеров**, выберите **Параметры учетной записи** &gt; **[Управление приложениями](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)**.
 3.  В разделе **Веб-приложение** щелкните **Добавить новое веб-приложение**.
 <br> **Примечание**. Если ранее вы уже создали веб-приложение, шаг 3 можно пропустить.
 4.  Копируйте и сохраните GUID **ИД коммерции** и GUID **ИД приложения** вашего веб-приложения. Для использования бесплатной пробной версии приложения Azure Cost Management на 30 дней потребуются оба идентификатора.

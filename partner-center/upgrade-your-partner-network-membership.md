@@ -4,12 +4,12 @@ description: При обновлении членства Microsoft Partner Netw
 author: MaggiePucciEvans
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b282ab2fc83acbf31c5682f6e66b7bc401b81c06
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 5ff177cf0c4f424892d664e1d089a32ca04b385b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377786"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489710"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Обновить членство Microsoft Partner Network
 
@@ -47,12 +47,12 @@ ms.locfileid: "4377786"
 Дополнительные сведения о Microsoft Action Pack, см. в [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
 > [!NOTE]  
-> Переход по этой ссылке вы перейдете на другой веб-сайт. Вернитесь на этот сайт Центра партнеров, чтобы подписаться на Action Pack.
+> Переход по этой ссылке вы перейдете на другой веб-сайт. Вернитесь на этот сайт, сайт центра партнеров, чтобы подписаться на Action Pack.
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Подпишитесь на Microsoft Action Pack
 
-1. В меню **Информационная панель** выберите пункт **Партнерство > Предложения**. Пакет Microsoft Action Pack находится в списке **Доступные предложения**. Выберите **Подписаться сейчас**. 
+1. В меню **Центра партнеров** выберите **партнерство > предложения**. Пакет Microsoft Action Pack находится в списке **Доступные предложения**. Выберите **Подписаться сейчас**. 
 
 2. Выберите **Далее**, чтобы принять [условия](https://go.microsoft.com/fwlink/?linkid=842232) для прав на внутреннее использование, предоставляемых Microsoft Partner Network.  
 
@@ -70,7 +70,7 @@ ms.locfileid: "4377786"
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Отключение автоматического продления подписки на Action Pack
 
-1. В меню **Панель мониторинга** выберите пункт **Партнерство > Предложения**. Пакет Microsoft Action Pack находится в списке **Купленные предложения**.
+1. В меню **Центра партнеров** выберите **партнерство > предложения**. Пакет Microsoft Action Pack находится в списке **Купленные предложения**.
 
 2. Выберите **Подписка на Microsoft Action Pack**, чтобы просмотреть подробные сведения о подписке. 
 
@@ -82,7 +82,7 @@ ms.locfileid: "4377786"
 
 ### <a name="renew-your-action-pack-subscription"></a>Продление подписки на Action Pack
 
-1. В меню **Панель мониторинга** выберите пункт **Партнерство > Предложения**. Пакет Microsoft Action Pack находится в списке **Купленные предложения**.
+1. В меню **Центра партнеров** выберите **партнерство > предложения**. Пакет Microsoft Action Pack находится в списке **Купленные предложения**.
 
 2. Выберите **Подписка на Microsoft Action Pack**, чтобы просмотреть сведения о подписке, а затем нажмите кнопку **Продлить подписку** в разделе **Действия**.  
 

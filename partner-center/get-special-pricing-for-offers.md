@@ -4,12 +4,12 @@ Description: Microsoft provides special, reduced pricing for select groups of cu
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e60dd18ff9066efa72a4a290150faa6b1e7e8252
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f9e79f6705559056295c167e0825b3b5b3f9b16b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877494"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489590"
 ---
 # <a name="sell-to-specialized-industries"></a>Продажи представителям определенных отраслей
 
@@ -36,7 +36,7 @@ ms.locfileid: "2877494"
 
 ## <a name="check-the-customer-qualifications"></a>Просмотр требований к клиенту
 
-1.  В меню **Информационная панель** выберите пункт **Клиенты**. Выберите клиента в списке.
+1.  В меню **Центра партнеров** выберите **клиентов**. Выберите клиента в списке.
 2.  В меню клиента выберите пункт **Учетная запись**. В разделе **Сведения об организации** найдите пункт **Специальные требования**.
 3.  Если для параметра **Специальные требования** установлено значение **Нет**, но клиент соответствует этим требованиям, можно **Обновить** его сведения и включить эти данные.
 

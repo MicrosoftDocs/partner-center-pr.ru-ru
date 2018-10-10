@@ -3,12 +3,12 @@ title: Присоединитесь к Microsoft Partner Network | Центр п
 description: Приобретите Microsoft Action Pack и получите компетенцию в Центре партнеров
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d38a3bce720d4accca4387d279f222181e337ff
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 23f6b0d0f8bcc680a4bfc3ae63ea0297186942ed
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377796"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489720"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Присоединитесь к Microsoft Partner Network (MPN)
 
@@ -17,11 +17,11 @@ ms.locfileid: "4377796"
 -  Центр партнеров
 -  Microsoft Partner Network
 
-## <a name="new-to-the-partner-dashboard"></a>Знакомство с информационной панелью Центра партнеров
+## <a name="new-to-the-partner-center"></a>Впервые в центре партнеров
 
- Сотрудничество с корпорацией Майкрософт позволяет получить доступ к новым возможностям для преобразования бизнеса. В информационной панели Центра партнеров можно приобрести и обновить Microsoft Action Pack, а также легко получить доступ к информации о компетенциях и способах их получения.
+ Сотрудничество с корпорацией Майкрософт позволяет получить доступ к новым возможностям для преобразования бизнеса. В центре партнеров можно приобрести и обновить Microsoft Action Pack, и у вас есть доступ к информации о компетенциях и способах их получения.
 
- Мы постепенно приглашаем партнеров начать управлять своим членством в информационной панели Центра партнеров в дату годовщины MAPS или компетенции, а также после предоставления доступа к основным возможностям информационной панели Центра партнеров и подтверждения их соответствия потребностям бизнеса.  На данный момент планируйте продление и администрирование членства в Partner Membership Center (PMC), пока не получите приглашение на переход.
+ Мы постепенно Приглашаем партнеров начать управлять своим членством в центре партнеров MAPS или компетенции дату годовщины, а также когда центра партнеров были доступны и подтверждения их соответствия потребностям бизнеса.  На данный момент планируйте продление и администрирование членства в Partner Membership Center (PMC), пока не получите приглашение на переход.
 
 ## <a name="get-your-mpn-id"></a>Получите идентификатор MPN
 
@@ -54,7 +54,7 @@ ms.locfileid: "4377796"
 |**Действие**   |**Прочтите этот документ**   |
 |------------------|:---------------|
 |Станьте партнером корпорации Майкрософт|[Участие: принцип работы](https://partner.microsoft.com/membership/how-it-works)|
-Управление членством в Microsoft Partner Network в информационной панели Центра партнеров   |[Управление членством в Microsoft Partner Network](mpn-overview.md)
+Управление членством Microsoft Partner Network в центре партнеров   |[Управление членством в Microsoft Partner Network](mpn-overview.md)
 |Купить Action Pack   |[Приобретение или продление подписки на Microsoft Action Pack](https://msdn.microsoft.com/partner-center/mpn-get-action-pack)|
 |Получение компетенции уровня Silver или Gold   |[Требования к компетенциям для получения членства уровня Gold и Silver](https://msdn.microsoft.com/en-us/partner-center/learn-about-competencies)|
 |Подумайте об участии в программе поставщиков облачных решений|[Поставщик облачных решений — продажа облачных решений при появлении спроса](csp-overview.md)|

@@ -4,12 +4,12 @@ description: 'Сведения на этой странице были пере�
 author: MaggiePucciEvans
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 8967965341981161e6818b870198465913b9d3ab
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0c1f62b1980601bb6c97b9075689638ad9e350f3
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876834"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489230"
 ---
 # <a name="get-action-pack-subscription-details-on-the-microsoft-partner-networkhttpspartnermicrosoftcommembershipinternal-use-software-site"></a>Вы можете получить сведения о подписке Action Pack на сайте [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software). 
 
@@ -17,6 +17,6 @@ ms.locfileid: "2876834"
 
 Сведения о преимуществах, входящих в состав подписки Action Pack, см. в разделе [Ускорение развития бизнеса](https://partner.microsoft.com/membership/internal-use-software) на сайте Microsoft Partner Network.   
 
-Инструкции по приобретению подписки Action Pack в первый раз или продлению подписки Action Pack, которую вы приобрели ранее, см. в разделе [Получение Action Pack](mpn-get-action-pack.md) библиотеки справочных материалов на этом сайте, то есть информационной панели для партнеров.
+Сведения о покупке подписки Action Pack в первый раз или продлению подписки Action Pack, вы приобрели ранее см. в разделе [Получение Action Pack](mpn-get-action-pack.md) на этом сайте - сайт центра партнеров - Библиотека справки.
 
 

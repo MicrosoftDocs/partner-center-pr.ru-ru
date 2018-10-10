@@ -4,12 +4,12 @@ description: Узнайте о преимуществах сотрудничес
 author: MaggiePucciEvans
 keywords: партнер, сотрудничество, MPN, Microsoft Partner Network, action pack, MAPS, подписка action pack, преимущества, преимущества MPN, членство, silver, gold, компетенции
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ca936849762aca54787481a68acb79fda4025dc
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 43302afc456f810a310ed0751eccb44fcb9a64b5
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875634"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489650"
 ---
 # <a name="partner-with-microsoft"></a>Партнерство с Майкрософт
 
@@ -22,11 +22,11 @@ ms.locfileid: "2875634"
 Ознакомьтесь с уровнями членства и [преимуществами, связанными с правами на внутреннее использование программного обеспечения](https://partner.microsoft.com/membership/internal-use-software), на [сайте сети партнеров](https://partner.microsoft.com). 
 
 >[!IMPORTANT]
->Мы перенесем управление подписками Action Pack из Partner Membership Center (PMC) в информационную панель центра партнеров. Этот переход вступит в силу в течение следующего несколько месяцев. Внимательно ознакомьтесь с информацией в [Получение Action Pack](mpn-get-action-pack.md) тщательно таким образом, вы знаете, как и где на продление.  
+>Мы перенесем управление подписками Action Pack из Partner Membership Center (PMC) в центре партнеров. Этот переход будет продолжаться в течение следующих нескольких месяцев. Внимательно ознакомьтесь с информацией на [Получение Action Pack](mpn-get-action-pack.md) тщательно таким образом, вы знаете, как и где на продление.  
 
 |**Действие**   |**Прочтите этот документ**   |
 |-----------------|:---------------------------|
-|Купить годовую подписку на Microsoft Action Pack, чтобы получить доступ к средствам разработчика, поддержка, обучающие материалы и программное обеспечение, которое поможет вам создать вашей корпорации Майкрософт в эпоху облачных технологий. | [Получение Action Pack](mpn-get-action-pack.md)|
+|Приобретите годовую подписку на Microsoft Action Pack, чтобы получить доступ к средствам разработчика, поддержка, обучающие материалы и программное обеспечение, которое поможет вам создать ваше Майкрософт в эпоху облачных технологий. | [Получение Action Pack](mpn-get-action-pack.md)|
 |Продление подписки на Action Pack   |[Продление предложений MPN](renew-mpn-offers.md)|
 |Получайте **компетенции уровня Silver**, чтобы продемонстрировать свои специализированные опыт и навыки, а также стратегическое мышление.|[Дополнительные сведения о получении компетенций уровня Silver](https://partner.microsoft.com/membership/competencies)|
 |Получайте **компетенции уровня Gold**, чтобы продемонстрировать наиболее эффективные и узконаправленные навыки для удовлетворения потребностей клиентов. |[Дополнительные сведения о получении компетенций уровня Gold](https://partner.microsoft.com/membership/competencies)|

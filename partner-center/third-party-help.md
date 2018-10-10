@@ -4,12 +4,12 @@ description: Теперь можно находить и приобретать 
 author: labrenne
 Keywords: ISV, third-party, third party, 3rd party, details pages, vertical software, software publisher
 ms.localizationpriority: medium
-ms.openlocfilehash: 8076104d1707ed4441340f82c34ff7d587938778
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 5b98707f1d14ea689f718f386c09e0f3ebbc558c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877444"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490000"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Добавление стороннего ПО в свой портфель
 
@@ -48,7 +48,7 @@ ms.locfileid: "2877444"
 
 Приобретение стороннего программного обеспечения осуществляется так же, как приобретение ПО первых лиц. 
 
-1.  В меню **Информационная панель** выберите пункт **Клиенты**.
+1.  Выберите **клиентов**в **Центре партнеров**.
 2.  Нажмите кнопку **Создать подписку**.
 3.  Выберите ежемесячное выставление счетов для стороннего программного обеспечения. В настоящее время для стороннего ПО недоступно ежегодное и пробное выставление счетов.
 4.  На вкладке **Стороннее** выберите продукт, который вы хотите приобрести.

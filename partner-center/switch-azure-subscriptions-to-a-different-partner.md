@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: подписка azure, изменить партнера, сменить партнера, получить нового партнера, другой партнер
 ms.localizationpriority: medium
-ms.openlocfilehash: bfaf3d96760d8520935f3a872a11f14566eb0a52
-ms.sourcegitcommit: c45611276b62105c170ac3f2f3c8030b889c08f1
+ms.openlocfilehash: b579fc3fcebdba3f85265014e13c074b17b0fcdc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "3966161"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488970"
 ---
 # <a name="transfer-azure-subscriptions"></a>Передача подписок Azure 
 
@@ -39,7 +39,7 @@ ms.locfileid: "3966161"
 
     Создать запрос в службу поддержки Azure в Центре партнеров, чтобы запросить форму передачи подписки:
 
-    -   В меню информационной панели выберите **Клиенты**, выберите своего клиента из списка, а затем выберите пункт **Управление службами**. В разделе **Запросы в службу поддержки** выберите раскрывающееся меню **Новый запрос** и нажмите **Microsoft Azure**.
+    -   В меню центра партнеров выберите **пользователей**, выберите своего клиента из списка и выберите **Управление службами**. В разделе **Запросы в службу поддержки** выберите раскрывающееся меню **Новый запрос** и нажмите **Microsoft Azure**.
 
     -   На портале Azure выберите **Новый запрос на поддержку**.
 

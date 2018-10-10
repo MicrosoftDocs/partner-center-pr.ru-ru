@@ -5,12 +5,12 @@ ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: c441e8c78886fa53152b85bcfff98a1c6765862a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 79a0dc432e1d5407ffd1cc424019d5994d39ef48
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875904"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488650"
 ---
 # <a name="view-customer-activity-logs"></a>Просмотр журналов действий клиента
 
@@ -27,7 +27,7 @@ ms.locfileid: "2875904"
 
 **Просмотр и экспорт журналов действий**
 
-1.  В меню **Информационная панель** выберите пункт **Журнал действий**.
+1.  В меню **Центра партнеров** выберите **Журнал действий**.
 2.  Выберите период журнала действий в полях **От** и **До**. По умолчанию для журнала действий экспортируются данные за последний месяц.
 
     Каждый журнал предоставляет ссылку на страницу **Подписки** клиента.

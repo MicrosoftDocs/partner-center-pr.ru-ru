@@ -3,12 +3,12 @@ title: Налоговая информация организации | Цент
 description: Если это необходимо, в сведения об организации необходимо добавить номер плательщика НДС
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 20fef48dcd72de52abe6917c363e5d96f1213072
-ms.sourcegitcommit: a4ac47d85af00696d3b625ecaf448d8ecaf8275d
+ms.openlocfilehash: 84e85e54f9098c7cae57e1bd7f5415b0389b409d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4381764"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488660"
 ---
 # <a name="organization-tax-information"></a>Налоговая информация организации
 
@@ -20,7 +20,7 @@ ms.locfileid: "4381764"
 
 ### <a name="add-your-vat-id"></a>Добавьте ваш номер плательщика НДС
 
-1.  На **информационной панели** выберите **предложения в рамках членства**-> **доступно**
+1.  В **Центре партнеров** последовательно выберите пункты **предложения в рамках членства**-> **доступно**
 2.  Выберите, **Добавьте ваш номер Плательщика НДС**
 3.  Введите номер Плательщика НДС для вашей организации, выберите **Добавить** , а затем выберите **Далее**.
 
