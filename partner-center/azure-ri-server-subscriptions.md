@@ -4,12 +4,12 @@ description: Чтобы удовлетворить быстро растущий
 author: v-petand
 keywords: Azure, подписки, виртуальная машина, резервирование, зарезервированных экземпляров
 ms.localizationpriority: medium
-ms.openlocfilehash: a29e9b5b6de186f44a9e4c79baf8bfab4e47018a
-ms.sourcegitcommit: 8a189ccdbdaf5a75bab67c77c6a5a5338e63ca89
+ms.openlocfilehash: 4880e74519be2d334b3782c089790bcc89f18462
+ms.sourcegitcommit: c702328f342401e7baed501a14cd7c85077da7d1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/23/2018
-ms.locfileid: "5460089"
+ms.lasthandoff: 10/26/2018
+ms.locfileid: "5591920"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -65,12 +65,10 @@ ms.locfileid: "5460089"
 
 **Продажи готовности**
 
-- [Серверные подписки с Обзор Преимущество гибридного использования Azure](https://www.yammer.com/cloudpartnercommunity/#/files/141644181) Обновлены
-- [Листовка](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [Azure RI виртуальной Машины + сервера подписки: вопросы и ответы (обновлено)](https://www.yammer.com/cloudpartnercommunity/)
-- [Партнер: вопросы и ответы для резервирования Azure и базы данных SQL](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [Azure резервирования и серверные подписки с (обновлено) Обзор Преимущество гибридного Azure](http://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
+- [Листовка](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
 - [Партнер: вопросы и ответы для резервирования Azure (обновлено)](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
+- [Партнер: вопросы и ответы для резервирования Azure и базы данных SQL](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [Базы данных SQL в обзоре Azure (новое)](http://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
 - [Общие сведения о ценах на Azure](https://azure.microsoft.com/pricing/#explore-cost)
 - [Калькулятор цен для Azure](https://azure.microsoft.com/pricing/calculator/)
