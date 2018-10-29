@@ -1,19 +1,22 @@
 ---
 title: Компетенция "Совместная работа и содержимое"
+ms.topic: article
+ms.date: 10/29/2018
 description: Компетенция "Совместная работа и содержимое" подтверждает опыт партнеров в области предоставления решений SharePoint, которые помогают компаниям осуществлять общий доступ, взаимодействовать и повышать производительность.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: компетенции, компетенция, совместная работа и содержимое
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: efe413c3aec78d0f1b01f22e3db73cdb1122b2e9
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 70250f8c8be14a0d6de91ddf32f26fd51424b0e1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877074"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795967"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="a5b31-104">Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="a5b31-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="8c4b3-104">Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="8c4b3-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

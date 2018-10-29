@@ -1,19 +1,22 @@
 ---
 title: Компетенция "Управление корпоративной мобильной средой"
+ms.topic: article
+ms.date: 10/29/2018
 description: Компетенция "Управление корпоративной мобильной средой" подойдет партнерам, являющимся специалистами в области работы с мощными решениями для безопасного управления мобильными устройствами в больших организациях.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: компетенция, компетенции, управление корпоративной мобильной средой
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: e6c5fd30a82992d41a22b4892d27ec4709b4b931
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e41399862cc725b15853f365e96c2f8f715c88b
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876074"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796247"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="c7b38-104">Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="c7b38-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="afcda-104">Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="afcda-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

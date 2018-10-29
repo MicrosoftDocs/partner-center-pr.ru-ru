@@ -1,19 +1,22 @@
 ---
 title: Компетенция "Связь"
+ms.topic: article
+ms.date: 10/29/2018
 description: Компетенция "Связь" подтверждает опыт партнеров в области предоставления инновационных и персонализированных решений Skype для бизнеса.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: компетенция, компетенции, связь
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b202d8a1f134748f18b66edae1bae4b44e00aaef
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0b52e39fee9abfe8e869d48c073ac42cb69637c1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877234"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794637"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="6945e-104">Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="6945e-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="3e40f-104">Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="3e40f-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Communications
