@@ -1,14 +1,17 @@
 ---
 title: Динамические отчеты по данным заменяют ежемесячные отчеты для некоторых программах поощрений | Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 description: Для программ поощрений OSA Sell и Online Services Usage теперь доступны динамические отчеты.
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ae842761eb1de3c0c75c951033e128691e5029a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 815f0a9f7b88d1498381c5135c72eacdd2c8943a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877134"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796187"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>Динамические отчеты по данным заменяют ежемесячные отчеты для некоторых программах поощрений
 
@@ -45,9 +48,9 @@ ms.locfileid: "2877134"
 6. Представление по умолчанию **Корректировки** может не содержать данные.  В этом случае выберите представление **Прибыль** или **Платежи**.
 
 
- 
+ 
 
- 
+ 
 
 
 

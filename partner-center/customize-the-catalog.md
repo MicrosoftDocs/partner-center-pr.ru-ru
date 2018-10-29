@@ -1,15 +1,18 @@
 ---
 title: Настройка каталога | Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 description: В каталоге перечислены все продукты и надстройки Майкрософт, которые партнеры могут продавать.
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ba9d9efd51d4b647e02e7f27b54e4259e90d782f
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 626f25e3f56949d658c6ab7ff1fdf1fb1ffdd2ad
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488550"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797057"
 ---
 # <a name="customize-the-catalog"></a>Настройка каталога
 
@@ -26,9 +29,9 @@ ms.locfileid: "4488550"
 1.  Перейдите в меню центра партнеров &gt; **продажи** &gt; **каталога**.
 2.  Выберите не более пяти предложений для отображения вверху каталога.
 
- 
+ 
 
- 
+ 
 
 
 

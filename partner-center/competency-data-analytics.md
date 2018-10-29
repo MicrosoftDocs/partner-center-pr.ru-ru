@@ -1,16 +1,19 @@
 ---
 title: Компетенция "Аналитика данных"
+ms.topic: article
+ms.date: 10/29/2018
 description: Если ваша организация занимается анализом данных, помогая клиентам более подробно изучать аналитические сведения, составлять прогнозы или формировать рекомендации, то компетенция "Аналитика данных" позволит вам укрепить и подтвердить свою профессиональную квалификацию в этой области.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: компетенция, компетенции, аналитика данных
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 392efa7ef4fc6626d076c8419e68c9b510e7f0cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0adaa5e091614abadf0eebccd3b46459be1a4fdf
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875304"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796227"
 ---
 >[!IMPORTANT]
 >Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).

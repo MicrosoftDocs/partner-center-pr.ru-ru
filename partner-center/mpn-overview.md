@@ -1,15 +1,18 @@
 ---
 title: Членство Microsoft Partner Network | Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 description: Узнайте о преимуществах сотрудничества с Майкрософт.
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: партнер, сотрудничество, MPN, Microsoft Partner Network, action pack, MAPS, подписка action pack, преимущества, преимущества MPN, членство, silver, gold, компетенции
 ms.localizationpriority: medium
-ms.openlocfilehash: 43302afc456f810a310ed0751eccb44fcb9a64b5
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 9726297ff1a6b921ec848778f41df701afb8c49a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489650"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797087"
 ---
 # <a name="partner-with-microsoft"></a>Партнерство с Майкрософт
 
@@ -22,7 +25,7 @@ ms.locfileid: "4489650"
 Ознакомьтесь с уровнями членства и [преимуществами, связанными с правами на внутреннее использование программного обеспечения](https://partner.microsoft.com/membership/internal-use-software), на [сайте сети партнеров](https://partner.microsoft.com). 
 
 >[!IMPORTANT]
->Мы перенесем управление подписками Action Pack из Partner Membership Center (PMC) в центре партнеров. Этот переход будет продолжаться в течение следующих нескольких месяцев. Внимательно ознакомьтесь с информацией на [Получение Action Pack](mpn-get-action-pack.md) тщательно таким образом, вы знаете, как и где на продление.  
+>Мы перенесем управление подписками Action Pack из Partner Membership Center (PMC) в центре партнеров. Этот переход будет продолжаться в течение следующих нескольких месяцев. Внимательно ознакомьтесь с информацией в [Получение Action Pack](mpn-get-action-pack.md) тщательно таким образом, чтобы узнать, как и где на продление.  
 
 |**Действие**   |**Прочтите этот документ**   |
 |-----------------|:---------------------------|

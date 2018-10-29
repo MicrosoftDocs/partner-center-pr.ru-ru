@@ -1,15 +1,18 @@
 ---
 title: Обновить членство Microsoft Partner Network | Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 description: При обновлении членства Microsoft Partner Network вы имеете право на преимущества эксклюзивного членства. Узнайте, как найти и приобрести доступные предложения.
 author: MaggiePucciEvans
+ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ff177cf0c4f424892d664e1d089a32ca04b385b
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 62b14af53723cd8e28a1a5253e953f08fc03c867
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489710"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795717"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Обновить членство Microsoft Partner Network
 
@@ -107,7 +110,7 @@ ms.locfileid: "4489710"
 
 Чтобы отменить подписку на Microsoft Action Pack, вы должны обратиться в службу поддержки Центра партнеров.
 
-1. Перейдите в раздел https://partnercenter.microsoft.com/partner/support.
+1. Последовательно выберите пункты https://partnercenter.microsoft.com/partner/support.
 
 2. Выберите **Сообщить о проблемах с Центром партнеров**, а затем выберите **Новый запрос** на следующей странице.
 

@@ -1,15 +1,18 @@
 ---
 title: Используйте средство проверки операции в центре партнеров для обучения ваучеры | Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 description: Проверка и зарезервировать ваучеры на обучение в центре партнеров
 author: labrenne
+ms.author: labrenne
 keywords: ваучеры на обучение, программа software assurance, обучение, проверка ваучеры, зарезервировать операции
 ms.localizationpriority: medium
-ms.openlocfilehash: 7c9c2d7cda9d61510cb277074589e798762528f6
-ms.sourcegitcommit: 8a189ccdbdaf5a75bab67c77c6a5a5338e63ca89
+ms.openlocfilehash: 73f488a63e5089dec9462125cb4de79ba6bc5fc9
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/23/2018
-ms.locfileid: "5460106"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797097"
 ---
 # <a name="use-the-voucher-validation-tool-in-partner-center-for-training-vouchers"></a>Используйте средство проверки операции в центре партнеров для обучения ваучеры
 

@@ -1,15 +1,18 @@
 ---
 title: Сообщение о проблемах в Майкрософт | Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 description: Предполагается, что вы будете решать проблемы от имени своих клиентов.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7edd9d68e1bf144f9e05d4e5d1243f77a73d721f
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e1573615252cf40b34297be8666aa56d3b2b1f94
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489380"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797227"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Сообщение о проблемах в Майкрософт
 
@@ -33,13 +36,13 @@ ms.locfileid: "4489380"
 
 -   Региональные проблемы, влияющие на многих клиентов
 
-## <a name="submit-a-support-request"></a>Отправьте запрос на поддержку
+## <a name="submit-a-support-request"></a>Отправьте запрос в службу поддержки
 
 1. В центре партнеров выберите **клиентов**.
 2. Выберите клиента, который требуется поддержка.
 3. Выберите **Управление службами** и **запросы на обслуживание**.
 4. Выберите **новый запрос** , а затем выберите **Microsoft Office 365**.
-5. Будет выполнен переход на портале Office 365, где требуется вход, используя учетные данные центра партнеров.
+5. Будет выполнен переход на портал Office 365, где требуется вход, используя учетные данные центра партнеров.
 6. Выберите **поддержки**, **новый запрос на обслуживание** в меню слева.
 7. Выберите в разделе поддержки.
 
@@ -49,9 +52,9 @@ ms.locfileid: "4489380"
 
 Сведения о сообщает о проблемах от имени клиента см. в разделе [отправки отчетов о проблемах от имени клиента](report-problems-on-behalf-of-a-customer.md).
 
- 
+ 
 
- 
+ 
 
 
 

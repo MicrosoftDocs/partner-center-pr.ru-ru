@@ -1,14 +1,17 @@
 ---
 title: Использование рекламных акций для привлечения новых клиентов | Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 description: В качестве партнера корпорации Майкрософт в рамках программы поставщиков облачных решений вы можете приобретать подписки по акциям и передавать клиентам скидки.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fa719f0824e525a2c63b58970b3385c63056a135
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 011f825d6cd4c47e793dd63fb8b1dcf61979453d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488990"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795057"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Использование рекламных акций для привлечения новых клиентов  
 

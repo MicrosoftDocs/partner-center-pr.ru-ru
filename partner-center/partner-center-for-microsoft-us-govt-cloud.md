@@ -1,14 +1,17 @@
 ---
 title: Центр партнеров для Microsoft Cloud для правительства США | Центр партнеров для Microsoft Cloud для правительства США
+ms.topic: article
+ms.date: 10/29/2018
 description: Центр партнеров для Microsoft Cloud для правительства США — это деловой портал для партнеров корпорации Майкрософт, которые желают предложить облачные решения Microsoft Cloud своим клиентам, сотрудничающим с правительственными учреждениями в США.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: efbcf0ee2c6a7f60d50c07320894c908168a10f2
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 245390fdea46f891f3cc75830bd11952d56dbcdc
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377526"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796717"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Центр партнеров для Microsoft Cloud для правительства США
 

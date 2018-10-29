@@ -1,20 +1,21 @@
 ---
 layout: LandingPage
 hide_bc: true
-title: Справка с помощью центра партнеров
-description: Получите справку по настройке учетной записи, взаимодействию с клиентами и покупке подписки Action Pack. Найдите ответы в центре партнеров, это поможет библиотеки, созданных специально для партнеров в программе CSP и MPN.
-author: v-chmccl
+title: Справка с центром партнеров
 ms.topic: landing-page
+ms.date: 10/29/2018
+description: Получите справку по настройке учетной записи, взаимодействию с клиентами и покупке подписки Action Pack. Найдите ответы в центре партнеров, это поможет библиотеки, созданных специально для партнеров в программе CSP и MPN. 
+author: v-chmccl
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: e36908da6d71b9f10b2fe80af21a22b4c9083cd5
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5677ad5ea93cef313aa2b7373e75c9621d0a4e48
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489680"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795917"
 ---
-# <a name="start-here-for-help-with-partner-center"></a>Справка с помощью центра партнеров
+# <a name="start-here-for-help-with-partner-center"></a>Справка с центром партнеров
 
 Получите справку по настройке учетной записи, взаимодействию с клиентами и покупке подписки Action Pack. Найдите ответы в центре партнеров, это поможет библиотеки, созданных специально для партнеров в программе CSP и MPN.
 

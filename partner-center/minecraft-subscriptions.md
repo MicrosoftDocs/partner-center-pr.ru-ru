@@ -1,15 +1,18 @@
 ---
 title: 'Продажа подписок на Minecraft: Education Edition клиентам из образовательной сферы'
+ms.topic: article
+ms.date: 10/29/2018
 description: 'Продажа подписок на Minecraft: Education Edition квалифицированным клиентам из образовательной сферы.'
 author: KPacquer
+ms.author: kenpacq
 keywords: Авторизованные партнеры в сфере образования
 ms.localizationpriority: medium
-ms.openlocfilehash: cb968300a2254aac6c56b3ecdfc8ac32eb7345a8
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: aa86e62d19d3f83ad828afbc8cd1c9880a6c93c3
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489690"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796587"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Продажа подписок на Minecraft: Education Edition клиентам из образовательной сферы
 
@@ -17,7 +20,7 @@ ms.locfileid: "4489690"
 
 -  Центр партнеров
 
-Партнеры, которые работают с образовательными учреждениями, могут предлагать им подписки на **Minecraft: Education Edition**. Вы приобретаете подписку от имени клиента в центре партнеров, и затем клиент скачивает программное обеспечение в [Магазине Майкрософт для образования](https://educationstore.microsoft.com). 
+Партнеры, которые работают с образовательными учреждениями, могут предлагать им подписки на **Minecraft: Education Edition**. Вы приобретаете подписку от лица клиента в центре партнеров, а затем клиент скачивает программное обеспечение в [Магазине Майкрософт для образования](https://educationstore.microsoft.com). 
 
 >[!IMPORTANT]
 >Чтобы начать продавать предложения для образовательных учреждений клиентам из сферы образования, необходимо зарегистрироваться в программе поставщиков облачных решений (CSP) и быть [авторизованным продавцом для образовательных учреждений](https://www.mepn.com) Кроме того, клиент должен быть [квалифицированным пользователем для образовательных целей](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).  

@@ -1,16 +1,19 @@
 ---
 title: Взаимодействие Майкрософт с клиентами | Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 description: В целом, мы ожидаем, что все сообщения клиент будет получать от партнера по программе поставщиков облачных решений.
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: взаимодействие, взаимодействие с клиентами, пообщаться с Microsoft
 ms.localizationpriority: medium
-ms.openlocfilehash: 3906c4c304c123bbc3332e7ad0be1bd70c3a9efa
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b0e9dde7596ea980a44c3df6d6291c4db248240f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875604"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797207"
 ---
 # <a name="customer-communication-from-microsoft"></a>Взаимодействие Microsoft с клиентами
 
@@ -26,9 +29,9 @@ ms.locfileid: "2875604"
 
 С клиентами, у которых уже имеются коммерческие отношения с Майкрософт, Майкрософт будет и дальше связываться напрямую по поводу продуктов и служб, отличных от CSP.
 
- 
+ 
 
- 
+ 
 
 
 

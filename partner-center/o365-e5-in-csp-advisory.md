@@ -1,15 +1,18 @@
 ---
 title: Доступность единичного номера SKU Office 365 E5 в CSP | Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 description: Единичный номер SKU Office 365 корпоративный E5 доступен в CSP и включает конференц-связь по ТСОП.
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cce364069f6710d81435f8d973cd187c98543f96
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: a16a02f64e1f87d5b5db44f8987a79f1f373459d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876294"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795658"
 ---
 # <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Консультация для партнеров по Office 365: доступность единичного номера SKU Office 365 E5 в CSP
 
@@ -89,7 +92,7 @@ E5 без ТСОП (окончание срока действия)
 
 Надстройка ТСОП
 
- 
+ 
 
 **После выпуска единичного Office 365 корпоративный Выход единичного номера SKU E5**
 
@@ -143,7 +146,7 @@ E5 без ТСОП (окончание срока действия)
 
 Надстройка ТСОП
 
- 
+ 
 
 ## <a href="" id="invoices-and-partner-reconciliation-files-"></a>Счета и файлы выверки партнеров
 
@@ -197,7 +200,7 @@ E5 без ТСОП (окончание срока действия)
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="additional-resources"></a>Дополнительные ресурсы
 
@@ -210,9 +213,9 @@ E5 без ТСОП (окончание срока действия)
 
 -   **Лицензирование Office 365 E5 и Skype для бизнеса: вопросы и ответы**
 
- 
+ 
 
- 
+ 
 
 
 

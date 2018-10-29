@@ -1,15 +1,17 @@
 ---
 title: Соглашения с клиентами и доступные рынки поставщиков облачных решений Майкрософт | Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 description: Скачайте шаблоны соглашений с клиентами для конкретных рынков из Центра партнеров
 author: Maggie Evans
 keywords: Соглашения Microsoft cloud agreements, шаблоны соглашения с клиентами, соглашения с клиентами CSP, MCA, соглашения MCA, CSP, где можно продавать по программе CSP?, страны и регионы CSP, соглашения CSP MCA на нескольких языках, CSP Северная Америка, CSP Центральная Америка, CSP Южная Америка, CSP Карибы, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud в Германии, CSP Ближний Восток, CSP Африка, CSP Европа, CSP Азия, CSP Тихоокеанский регион, соглашения CSP MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: 1248e8f658fc7a851dbc92b2a88d75490fb9b7df
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 629d15b8a233168420147b8324d85bbee385b170
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377816"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797327"
 ---
 # <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Соглашения с клиентами и рынки поставщиков облачных решений Майкрософт
 

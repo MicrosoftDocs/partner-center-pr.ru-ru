@@ -1,15 +1,18 @@
 ---
 title: Продажи представителям определенных отраслей | Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 Description: Microsoft provides special, reduced pricing for select groups of customers, including education customers, non-profit customers, and government users.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f9e79f6705559056295c167e0825b3b5b3f9b16b
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: d252af955ea82d42ebd8196ad020088edee43dfb
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489590"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795017"
 ---
 # <a name="sell-to-specialized-industries"></a>Продажи представителям определенных отраслей
 
@@ -36,7 +39,7 @@ ms.locfileid: "4489590"
 
 ## <a name="check-the-customer-qualifications"></a>Просмотр требований к клиенту
 
-1.  В меню **Центра партнеров** выберите **клиентов**. Выберите клиента в списке.
+1.  Выберите в меню **Центра партнеров** выберите **клиентов**. Выберите клиента в списке.
 2.  В меню клиента выберите пункт **Учетная запись**. В разделе **Сведения об организации** найдите пункт **Специальные требования**.
 3.  Если для параметра **Специальные требования** установлено значение **Нет**, но клиент соответствует этим требованиям, можно **Обновить** его сведения и включить эти данные.
 
@@ -49,11 +52,11 @@ ms.locfileid: "4489590"
 [Продажа подписок на Minecraft: Education Edition клиентам из образовательной сферы](minecraft-subscriptions.md)
 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

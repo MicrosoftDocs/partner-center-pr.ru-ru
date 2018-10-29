@@ -1,16 +1,19 @@
 ---
 title: Компетенция "Облачные решения для малого и среднего бизнеса"
+ms.topic: article
+ms.date: 10/29/2018
 description: Компетенция "Облачные решения для малого и среднего бизнеса" поможет вам создать свой бренд в качестве партнера, специализирующегося на продаже и развертывании решений Office 365 для малого и среднего бизнеса.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: компетенция, компетенции, облачные решения для малого и среднего бизнеса
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f8034f7d779d2dae13b916f01efa8c10be224bb2
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8f7533c113f1daa8a088b2d0c74402f16f661b48
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876194"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796857"
 ---
 >[!IMPORTANT]
 >Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).

@@ -1,15 +1,18 @@
 ---
 title: Поддержка нескольких каналов | Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 description: В некоторых случаях клиенты могут предложить вам заняться подготовкой к работе и поддержкой их подписки, которую они приобрели в другом месте.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6706d8326de77da1ccfb952d39c294f271b3d3ef
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 9d8f5b58e539d214f0b9b11ff6ba06c447ac81d0
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489420"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795747"
 ---
 # <a name="multi-channel-support"></a>Поддержка нескольких каналов
 
@@ -55,11 +58,11 @@ ms.locfileid: "4489420"
 
 Если вы— косвенный посредник, см. раздел [Партнерство с косвенными поставщиками](indirect-reseller-tasks-in-partner-center.md)
 
-Если вы— косвенный поставщик, см. раздел [Партнерство с косвенными торговыми посредниками](indirect-provider-tasks-in-partner-center.md) 
+Если вы— косвенный поставщик, см. раздел [Партнерство с косвенными торговыми посредниками](indirect-provider-tasks-in-partner-center.md) 
 
- 
+ 
 
- 
+ 
 
 
 

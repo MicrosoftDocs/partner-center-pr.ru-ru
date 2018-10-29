@@ -1,18 +1,21 @@
 ---
 title: Перенос членства MPN из Partner Membership Center в Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 description: Вниманию пользователей PMC! Теперь мы осуществляем управление членством MPN через Центр партнеров. Вот, что нужно сделать.
 author: KPacquer
+ms.author: kenpacq
 keywords: членство mpn, компетенции, из pmc в центр партнеров
 robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: f6da4a837ccabc6611e7751a9a22cebbbe998bda
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: ba6b58a035445824d8a0a3266fbd240fc9c4aa6e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490080"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794957"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>Перенос членства MPN из Partner Membership Center в Центр партнеров
 

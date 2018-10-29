@@ -1,15 +1,18 @@
 ---
 title: Размеры виртуальных Машин Microsoft Azure для максимального использования резервирования | Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 Description: Information on purchasing and managing Azure reservations
 author: v-petand
+ms.author: v-petand
 keywords: azure, резервирования, виртуальная машина, управление, использование, размеры
 ms.localizationpriority: medium
-ms.openlocfilehash: 6279ff9e6ecd66af9eb320b2d72a1cdfaad4ccb4
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 00978e8e000dded2e4f7bb5d5d6506711e521c86
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489620"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795927"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Размеры виртуальных машин Microsoft Azure для максимального использования резервирования 
 
@@ -45,7 +48,7 @@ ms.locfileid: "4489620"
 
 **Получение сведений о размере виртуальной машины на портале Microsoft Azure**
 
-1.  В центре партнеров перейдите к странице " **Клиенты** ".
+1.  В центре партнеров перейдите на страницу **пользователей** .
 
 2.  Найдите клиента, желающего приобрести резервирования Azure, затем выберите стрелку вниз, чтобы посмотреть сведения о клиенте. Выберите **Портал управления Microsoft Azure**, чтобы открыть запись клиента на портале Azure. 
 
@@ -89,7 +92,7 @@ ms.locfileid: "4489620"
 
 ### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Проверка использования резервирования клиента на портале Microsoft Azure
 
-1.  В центре партнеров перейдите к странице " **Клиенты** ".
+1.  В центре партнеров перейдите на страницу **пользователей** .
 
 2.  Найдите клиента, для которого необходимо проверить использование резервирования и скидку, затем выберите стрелку вниз, чтобы посмотреть сведения о клиенте. Выберите **Портал управления Microsoft Azure**, чтобы открыть запись клиента на портале Azure. 
 

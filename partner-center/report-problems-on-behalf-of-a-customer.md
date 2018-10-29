@@ -1,16 +1,19 @@
 ---
 title: Сообщение о проблемах от имени клиента | Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 Description: If your customer is experiencing a service problem that you can''t resolve, and that meets the criteria described in Escalate problems to Microsoft, file a support ticket for them.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f4de4c9159d451c39ffa2b71cc000fda3c82acf
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 1b2698c45a996394e0bbd24bc759e807c4957942
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490050"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795617"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Сообщение о проблемах от имени клиента
 
@@ -24,7 +27,7 @@ ms.locfileid: "4490050"
 
 **Отправка запроса на обслуживание клиента**
 
-1.  В меню **Центра партнеров** выберите **запросы на обслуживание** , а затем **запроса клиента**. 
+1.  Выберите в меню **Центра партнеров** выберите **запросы на обслуживание** , а затем **запроса клиента**. 
 
 2.  На странице "Запросы клиентов" найдите необходимого клиента.
 
@@ -34,7 +37,7 @@ ms.locfileid: "4490050"
 
 **Примечание** Если вам необходимо создать запрос на обслуживание для клиента в Azure, следует учитывать следующее:
 
-- В порядке, чтобы создать запросы на обслуживание для клиента в Azure ваш непрямой поставщик должен предоставить вам доступ к учетной записи Azure клиента. Это отличается от администрирования Office 365 от имени клиентов. 
+- Чтобы создать запросы на обслуживание для вашего клиента в Azure ваш непрямой поставщик должен предоставить вам доступ к учетной записи Azure клиента. Это отличается от администрирования Office 365 от имени клиентов. 
 
 - Несмотря на то, что администратора службы поддержки в центре партнеров невозможно создать запросы на обслуживание в портале обслуживания Azure, что они могут сделать — создать группу поддержки в портале обслуживания Azure и предоставить разрешения для входа запросы на поддержку этой группы.
 
@@ -94,7 +97,7 @@ ms.locfileid: "4490050"
 
 **Как получить дополнительную поддержку Dynamics 365?**
 
- Если возникают проблемы, связанные с: Dynamics 365 Plan подписки, лицензирование, выставление счетов, процент и операций, IURs или требуют дальнейшего технической поддержки:
+ Если возникают проблемы, связанные с: Dynamics 365 Plan подписки, лицензирование, выставление счетов, процент и операций, IURs или требуют дальнейшего технической поддержки:
  
 Обратитесь в службу [поддержки Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 

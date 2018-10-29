@@ -1,16 +1,19 @@
 ---
 title: Просмотр журналов действий клиента | Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 description: Журналы действий содержат сведения о транзакциях и действиях по управлению партнерами для клиентов.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: 79a0dc432e1d5407ffd1cc424019d5994d39ef48
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 40bcbde087fda68428c50d1f840a44a87bdebbc3
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488650"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794857"
 ---
 # <a name="view-customer-activity-logs"></a>Просмотр журналов действий клиента
 
@@ -27,7 +30,7 @@ ms.locfileid: "4488650"
 
 **Просмотр и экспорт журналов действий**
 
-1.  В меню **Центра партнеров** выберите **Журнал действий**.
+1.  Выберите в меню **Центра партнеров** выберите **Журнал действий**.
 2.  Выберите период журнала действий в полях **От** и **До**. По умолчанию для журнала действий экспортируются данные за последний месяц.
 
     Каждый журнал предоставляет ссылку на страницу **Подписки** клиента.
@@ -41,9 +44,9 @@ ms.locfileid: "4488650"
     -   **Состояние** — предоставляет данные, связанные с действием, например код заказа. Зависит от типа действия.
     -   **Дополнительные сведения** — данные о транзакции для журнала действий. Например, если действие — это заказ клиента, в этом поле указано содержимое для покупки.
 
- 
+ 
 
- 
+ 
 
 
 

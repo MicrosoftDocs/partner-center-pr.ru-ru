@@ -1,14 +1,17 @@
 ---
 title: Регистрация в программе поставщиков облачных решений Microsoft Cloud в Германии | Центр партнеров Microsoft Cloud в Германии
+ms.topic: article
+ms.date: 10/29/2018
 description: Прежде чем регистрироваться в программе поставщиков облачных решений Microsoft Cloud в Германии, ознакомьтесь с требованиями программы CSP.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ff6e0c0ecbf6ef67ae22f21dca25a0026ae0b59
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 7ed0b90395e3a15dd03963891dbadc9b1feebeec
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489630"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796977"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Регистрация в программе поставщиков облачных решений Microsoft Cloud в Германии
 
@@ -70,7 +73,7 @@ ms.locfileid: "4489630"
 Microsoft Cloud для Германии предоставляет отдельный экземпляр Microsoft Azure, который доставляется из немецких центров обработки данных через специальную сеть, работающую в Германии. Чтобы администраторы могли управлять пользователями и лицензиями на портале Azure для Германии, вам необходимо вручную назначить для них роль Агента по администрированию.
 
 > [!NOTE]  
-> После назначения пользователям роли агента администратора, меню " **Клиенты** " будут отображаться в меню центра партнеров и вы сможете получить доступ к списку клиентов и [добавлять новых клиентов](add-a-new-customer.md).   
+> После назначения пользователям роли агента администратора меню **пользователей** будет отображаться в меню центра партнеров и вы сможете получить доступ к списку клиентов и [добавлять новых клиентов](add-a-new-customer.md).   
 
 1.  Вход на портал Azure для Германии по https://portal.microsoftazure.de/.
 

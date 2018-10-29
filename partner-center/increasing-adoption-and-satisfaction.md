@@ -1,15 +1,18 @@
 ---
 title: Повышение популярности и удовлетворенности | Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 description: Наши партнеры используют множество метрик, чтобы понять, растет ли их бизнес и куда следует направлять инвестиции. Центр партнеров может помочь вам, предоставив данные о том, используют ли ваши клиенты лицензии, которые приобрели, и, если да, то как именно.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8159d203a64632ff8802af5acdd1cb35a194a2ae
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: b18ebfc5e376478ebdadab51993af78ea92fe97e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489600"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795257"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Повышение популярности и удовлетворенности
 
@@ -80,11 +83,11 @@ ms.locfileid: "4489600"
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

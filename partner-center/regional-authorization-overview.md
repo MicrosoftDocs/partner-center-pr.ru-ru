@@ -1,16 +1,19 @@
 ---
 title: Региональная авторизация CSP | Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 description: Благодаря региональной авторизации партнеры с международными компаниями могут без лишних усилий управлять клиентами в различных регионах и странах по всему миру.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: Клиент Azure AD, объединение клиентов, стратегия клиента, клиенты в CSP, партнерские учетные записи в CSP, рынки и территории CSP, где можно осуществлять продажи по программе CSP?
 ms.localizationpriority: medium
-ms.openlocfilehash: 46fbc08562cdddd75cabf9822b1fff84c151f031
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 351fbad0bfc818b16ca7a40eccedefb4dfea9307
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377636"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796637"
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>Стратегии консолидации клиентов в CSP
 
@@ -69,7 +72,7 @@ ms.locfileid: "4377636"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="one-tenant-for-multiple-regions-or-countries"></a>Один клиент для нескольких регионов или стран
 
@@ -101,7 +104,7 @@ ms.locfileid: "4377636"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="some-tenants-for-some-regions-or-countries"></a>Несколько клиентов для определенных регионов или стран
 
@@ -137,7 +140,7 @@ ms.locfileid: "4377636"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="consolidating-tenants"></a>Объединение клиентов
 
@@ -211,7 +214,7 @@ ms.locfileid: "4377636"
 | Австралийский доллар (AUD) | Австралия, остров Рождества, Кокосовые о-ва (о-ва Килинг), о-ва Кука, Фиджи, о-ва Херд и Макдональд, Кирибати, Маршалловы острова, Науру, Ниуэ, Норфолк, Северные Марианские острова, Палау, Папуа-Новая Гвинея, Питкэрн, Соломоновы о-ва, Токелау, Тонга, Тувалу, Уоллис и Футуна. |
 
 
- 
+ 
 
 
 

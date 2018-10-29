@@ -1,25 +1,28 @@
 ---
 title: Назначение подписок Azure в Центре партнеров | Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 description: Теперь можно назначать подписки Azure вашим клиентам в Центре партнеров. Кроме того, можно предоставить им возможность самостоятельного управления подписками
-author: Labrenne
+author: labrenne
+ms.author: labrenne
 keywords: Azure, подписка Azure, подписка, подписки, назначение подписки, управление подпиской Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c0c82d60ec5032357ab21421b89c5f578d5fe1d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5438803bf25fb40267cbecbdcbe25ed6e6a44cfa
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489030"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796047"
 ---
 # <a name="assign-azure-subscriptions-in-partner-center"></a>Назначение подписок Azure в Центре партнеров
 
 **Относится к:**
 
 -  Центр партнеров
- 
+ 
 ## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>Назначение подписок Azure вашим клиентам в Центре партнеров
 
-1. Выберите **клиентов** в меню **Центра партнеров** и найдите клиента, которого вы хотите управлять.
+1. Выберите **клиентов** меню **Центра партнеров** и найдите клиента, которого вы хотите управлять.
 
 2.  Нажмите стрелку вниз в конце строки, чтобы развернуть запись клиента, а затем выберите **Портал управления Microsoft Azure**. Вы будете направлены на портал Azure, где вы сможете управлять подписками клиента. 
 

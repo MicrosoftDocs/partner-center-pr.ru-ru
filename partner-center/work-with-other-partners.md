@@ -1,14 +1,17 @@
 ---
 title: Работа с другими партнерами | Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 description: Работайте с другими партнерами в CSP в целях удовлетворения потребностей общих клиентов.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7bac4fd3fa01495125aa054c90b79cc777455f98
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 641acf32646b193622ca4dce59f75970568af9b4
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377696"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794887"
 ---
 # <a name="work-with-other-partners"></a>Работа с другими партнерами
 

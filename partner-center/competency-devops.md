@@ -1,16 +1,19 @@
 ---
 title: Компетенция "Разработка и эксплуатация"
+ms.topic: article
+ms.date: 10/29/2018
 description: Если у вас есть большой опыт в области предоставления компаниям услуг по управлению жизненным циклом программного обеспечения с помощью возможностей разработки и эксплуатации (DevOps) платформы разработки Майкрософт, то компетенция "Разработка и эксплуатация" лучше всего подойдет для того, чтобы стать партнером Майкрософт.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: компетенция, компетенции, DevOps
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 575027d70b033085db21a30b7e703df53790f996
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 893022074c375c51e7fa21c17cc2e4fab888b132
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875724"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794807"
 ---
 >[!IMPORTANT]
 >Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).

@@ -1,15 +1,18 @@
 ---
 title: Продление предложений MPN | Центр партнеров
+ms.topic: article
+ms.date: 10/29/2018
 description: Продление предложений MPN из центра партнеров
 author: labrenne
+ms.author: labrenne
 keywords: MPN, Microsoft Action Pact, MAPS, продление компетенции, дата продления
 ms.localizationpriority: medium
-ms.openlocfilehash: b31a73706c6f88d67aabc8ec4bf0e79297de2978
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 8f611a01118449a1247764d0dcee0de8ba820c00
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489350"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796147"
 ---
 # <a name="renew-your-mpn-offers"></a>Продление предложений MPN
 
