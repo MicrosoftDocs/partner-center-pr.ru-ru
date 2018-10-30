@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: компетенции, членство уровня silver, членство уровня gold, mpn, MAPS, навыки, Microsoft Partner Network, членство в сети
 ms.localizationpriority: medium
-ms.openlocfilehash: c4546c8e7675f2d25cd29da765c1320531c8c11f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 7c739e3e7142eee7dcc0ec4906e2dbc89fc671d4
+ms.sourcegitcommit: bf952686358864cb268f71d039c682ee2a50ba68
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796827"
+ms.locfileid: "5797392"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Требования к компетенциям Майкрософт для получения членства уровня Gold и Silver
 
@@ -45,6 +45,7 @@ ms.locfileid: "5796827"
 | [Компетенция "Разработка и эксплуатация"](https://partner.microsoft.com/membership/devops-competency)| Microsoft Visual Studio, Visual Studio Team Foundation Server (TFS) 2012, жизненный цикл ПО, сертификация SCRUM |
 | [Компетенция "Управление корпоративной мобильной средой"](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| Enterprise Mobility + Security (EMS), Microsoft Intune, Azure Information Protection, Azure Active Directory Premium (AADP), управление мобильными устройствами, управление удостоверениями и доступом, защита данных, безопасность облачных приложений |
 | [Компетенция "Планирование корпоративных ресурсов"](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Dynamics AX/GP/SL/NAV/365, планирование ресурсов предприятий (ERP), базы данных SQL Server 2012  |
+|[Компетенция независимых поставщиков программного обеспечения](https://partner.microsoft.com/en-us/membership/isv-competency)| Azure, SQL Server 2016, Dynamics 365, Microsoft Office 365, Windows Server 2019, System Center 2016| 
 | [Компетенция "Сообщения"](https://partner.microsoft.com/membership/messaging-competency)| Office 365, Exchange Server 2016 |
 | [Компетенция "Управление проектами и портфелями"](https://partner.microsoft.com/membership/project-portfolio-management-competency)| Microsoft Project, Project and Portfolio Management (PPM), SharePoint Server 2016|
 | [Компетенция "Облачные решения для малого и среднего бизнеса"](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office365 |
