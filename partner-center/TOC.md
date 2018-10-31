@@ -1,7 +1,7 @@
-# [Сведения о информационной панели Центра партнеров Майкрософт](index.md)
+# [Сведения о Центре партнеров Майкрософт](index.md)
 
 # [Членство в Partner Network](mpn-overview.md)
-## [Создание учетной записи информационной панели Центра партнеров](mpn-create-a-partner-center-account.md)
+## [Создание учетной записи Центра партнеров](mpn-create-a-partner-center-account.md)
 ## Предложения в рамках членства
 ### [Пакет Action Pack](mpn-get-action-pack.md)
 ### [Продление подписок на предложения](renew-mpn-offers.md)
@@ -18,13 +18,13 @@
 ## [Шаблоны соглашений с клиентом](agreements.md)
 
 ## [Примените, чтобы осуществлять продажи в национальных облаках](csp-national-clouds-overview.md)
-### [Информационная панель Центра партнеров для Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
-### [Информационная панель Центра партнеров Microsoft Cloud в Германии](partner-center-for-microsoft-cloud-germany.md)
+### [Центр партнеров для Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
+### [Центр партнеров Microsoft Cloud для Германии](partner-center-for-microsoft-cloud-germany.md)
 
-# [Управление учетной записью информационной панели Центра партнеров](partner-center-account-setup.md)
-## [Рабочие учетные записи и информационная панель Центра партнеров](azure-active-directory-tenants-and-partner-center.md)
+# [Управление учетной записью Центра партнеров](partner-center-account-setup.md)
+## [Рабочие учетные записи и Центр партнеров](azure-active-directory-tenants-and-partner-center.md)
 ## [Обновление профиля партнера](update-your-partner-profile.md)
-## [Восстановление приостановленной учетной записи информационной панели Центра партнеров](suspended-partner-center-account.md)
+## [Восстановление приостановленной учетной записи Центра партнеров](suspended-partner-center-account.md)
 ## [Создание учетных записей пользователей](create-user-accounts-and-set-permissions.md)
 ## [Назначение пользователям ролей и разрешений](permissions-overview.md)
 ## [Проверка вашего владения доменом](become-global-admin.md)
@@ -73,7 +73,7 @@
 ## [Веб-службы (подписки)](customer-subscriptions.md)
 ### [Создание, приостановка и отмена подписок клиентов](create-a-new-subscription.md)
 ### [Предлагайте клиентам пробные версии продуктов Майкрософт](offer-your-customers-trials-of-microsoft-products.md)
-### [Назначение подписок Azure на информационной панели Центра партнеров](assign-azure-subscriptions.md)
+### [Назначение подписок Azure в Центре партнеров](assign-azure-subscriptions.md)
 ### [Назначение лицензий пользователям](assign-licenses-to-users.md)
 ### [Добавление лицензий или служб к существующей подписке](add-licenses-or-services-to-an-existing-subscription.md)
 ### [Назначение и отзыв лицензий для нескольких пользователей](bulk-license-provisioning-for-multiple-users.md)
@@ -88,7 +88,7 @@
 ### [Перенос Плана 1 для Skype для бизнеса Online в новые версии Office 365](skype-retiring.md)
 ### [Перенос подписок Azure](switch-azure-subscriptions-to-a-different-partner.md)
 
-# Данные и аналитика в панели мониторинга Центра партнеров
+# Данные и аналитика в Центре партнеров
 ## [Получение и анализ бизнес-данных](data-analysis-lp.md)
 ## [Приложение "Аналитика Центра партнеров" для Microsoft Power BI](power-bi-app-for-direct-partners.md)
 ## [Вклад партнеров: отслеживание индикаторов производительности](partner-contributions.md)
@@ -97,12 +97,12 @@
 ## [Анализ подписок и лицензий](analyze-subscriptions-licenses.md)
 
 # [Работа с другими партнерами](work-with-other-partners.md)
-## [Задачи непрямого поставщика в информационной панели Центра партнеров](indirect-provider-tasks-in-partner-center.md)
-## [Задачи торгового посредника в панели мониторинга Центра партнеров](indirect-reseller-tasks-in-partner-center.md)
+## [Задачи непрямого поставщика в Центре партнеров](indirect-provider-tasks-in-partner-center.md)
+## [Задачи непрямого торгового посредника в Центре партнеров](indirect-reseller-tasks-in-partner-center.md)
 
 
 # [Получение поддержки от Майкрософт](support-from-microsoft.md)
-## [Сообщение о проблеме с информационной панелью Центра партнеров](report-problems-with-partner-center.md)
+## [Сообщить о проблемах с Центром партнеров](report-problems-with-partner-center.md)
 ## [Сообщение о проблемах от имени клиента](report-problems-on-behalf-of-a-customer.md)
 ## [Автоматизация уведомлений служб с помощью наших API](get-automated-service-notifications-with-our-apis.md)
 
