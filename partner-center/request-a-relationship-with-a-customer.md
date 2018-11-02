@@ -7,20 +7,18 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 118094c56549306b6ec659c6827362c07d6bd750
-ms.sourcegitcommit: 917e4b1ff2f8ae0d12e581dc2d098151eda7b8c0
+ms.openlocfilehash: 5211d68b79a1a67cd17c8974edd360999c10fb8d
+ms.sourcegitcommit: 6b781672d91f7ede942a9044a41e785dcf63f807
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 11/01/2018
-ms.locfileid: "5917984"
+ms.locfileid: "5962397"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Связь с клиентами в Центре партнеров
 
 **Относится к:**
 
 -  Центр партнеров
--  Центр партнеров для Microsoft Cloud для правительства США
--  Центр партнеров Microsoft Cloud для Германии
 
 Если вы хотите управлять службой или подпиской от имени клиента, клиент должен предоставить вам права администратора для этой службой или подпиской. В следующей процедуре показано, как запросить разрешение по электронной почте. Когда клиент утвердит запрос, вы сможете войти в систему на портале администратора службы и управлять службой от имени клиента. 
 
