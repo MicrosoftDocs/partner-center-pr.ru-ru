@@ -1,27 +1,38 @@
 ---
-title: Соглашения с клиентами и доступные рынки поставщиков облачных решений Майкрософт | Центр партнеров
+title: Шаблоны с клиентами Microsoft Cloud Agreement | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
-description: Скачайте шаблоны соглашений с клиентами для конкретных рынков из Центра партнеров
+ms.date: 11/03/2018
+description: Найти и загрузить версии конкретного языка и региона соглашения Microsoft Cloud для просмотра с клиентами.
 author: Maggie Evans
 keywords: Соглашения Microsoft cloud agreements, шаблоны соглашения с клиентами, соглашения с клиентами CSP, MCA, соглашения MCA, CSP, где можно продавать по программе CSP?, страны и регионы CSP, соглашения CSP MCA на нескольких языках, CSP Северная Америка, CSP Центральная Америка, CSP Южная Америка, CSP Карибы, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud в Германии, CSP Ближний Восток, CSP Африка, CSP Европа, CSP Азия, CSP Тихоокеанский регион, соглашения CSP MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: 629d15b8a233168420147b8324d85bbee385b170
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: d43afff6f759ccdbdfddc94e354b990009d2f044
+ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797327"
+ms.lasthandoff: 11/04/2018
+ms.locfileid: "6022248"
 ---
-# <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Соглашения с клиентами и рынки поставщиков облачных решений Майкрософт
+# <a name="microsoft-cloud-agreements-by-region-and-language"></a>Соглашения Microsoft Cloud, язык и региональные стандарты
 
-В этой статье перечислены рынки, доступные в настоящее время через канал продаж поставщика облачных решений (CSP) Майкрософт, и приводятся ссылки на шаблоны соглашений с клиентами для каждого доступного региона и страны. Когда все готово для работы с клиентом в определенном регионе и стране, предоставьте ему правильное соглашение в зависимости от его расположения. 
+**Относится к:**
 
-В некоторых расположениях соглашения доступны на нескольких языках в зависимости от языковых настроек пользователя. Предоставьте клиенту версию на выбранном им языке.
+- Партнеры CSP
+
+Прежде чем можно разместить заказ от имени клиента, клиент необходимо принять и подписание соглашения Microsoft Cloud.
+
+>[!IMPORTANT]
+> Начиная с 7 ноября 2018 г., необходимо убедиться, что пользователь принял Microsoft Cloud Agreement, предоставляя информацию о лица, подписавшего. Дополнительные сведения см. [Подтверждение клиента принятие соглашения Microsoft Cloud](confirm-consent.md) .
+
+Соглашения Microsoft Cloud конкретного региона и доступны на нескольких языках. Найдите клиента расположение и предпочитаемого языка в одном из списков ниже для скачивания правильное соглашение.
+
+Если вы не уверены какие регионах и странах, вы можете продавать, см. в разделе [региональных рынков, программа для поставщиков облачных решений и валют](regional-authorization-overview.md).
+
+<!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
 
 > [!NOTE]  
-> Шаблоны соглашения Microsoft Cloud Agreement для клиентов, перечисленные ниже, действуют с 1 сентября 2017 г. для всех языков и регионов.
-
+> The Microsoft Cloud Agreement customer templates listed below are valid starting September 1, 2017 for all regions and all languages.
+-->
 
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>Северная Америка, Центральная Америка, Латинская Америка и Карибский бассейн
 
@@ -233,24 +244,24 @@ ms.locfileid: "5797327"
 - Кирибати: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - Киргизия: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [русский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_RUS_Sep20172_CR.pdf)  
 - Лаос: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
-- Макао (САР): [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [китайский (традиционное письмо)](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_CHT_Sep20172_CR.pdf)  
+- Макао (САР): [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [китайский (традиционное письмо)](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_CHT_Sep20172_CR.pdf)
 - Малайзия: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [бахаса (малайский)](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_MSL_Sep20172_CR.pdf)  
 - Мальдивские о-ва: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
 - Маршалловы о-ва: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
 - Микронезия: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
 - Мьянма: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
 - Науру: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
-- Непал: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)    
-- Новая Зеландия: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf) 
+- Непал: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
+- Новая Зеландия: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
 - Ниуэ: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - Норфолк: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - Северные Марианские острова: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - Палау: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - Папуа-Новая Гвинея: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
-- Филиппины: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)   
+- Филиппины: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
 - Острова Питкэрн: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - Самоа: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
-- Сингапур: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [китайский (упрощенное письмо)](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_CHT_Sep20172_CR.pdf)    
+- Сингапур: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [китайский (упрощенное письмо)](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_CHT_Sep20172_CR.pdf)
 - Соломоновы острова: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - Южная Корея: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_KOR_ENG_Sep20172_CR.pdf), [корейский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_KOR_KOR_Sep20172_CR.pdf)    
 - Шри-Ланка: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)    
