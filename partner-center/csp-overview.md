@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: Поставщик облачных решений, CSP, облачные службы, Azure, Office 365, Dynamics, партнер CSP, продажа в CSP, прямой партнер, прямой партнер CSP, непрямой торговый посредник CSP, прямой CSP, непрямой CSP, прямая модель, непрямая модель, непрямой торговый посредник, непрямой поставщик, поставщик, дистрибьютор, программа cloud solution provider
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e8f55bc76d8bda8494b83794184f928d680f68f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ddeaecdca6fe918d6b3d581befa295c66b80a705
+ms.sourcegitcommit: 0c7018284e589f3ab9cf97c741b07f1947f30e65
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795217"
+ms.lasthandoff: 11/05/2018
+ms.locfileid: "6066696"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Программа для поставщиков облачных решений — продажа облачных решений при появлении спроса 
 
@@ -60,7 +60,9 @@ ms.locfileid: "5795217"
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>Где можно осуществлять продажи в рамках программы CSP?
 
-Программа для поставщиков облачных решений доступна в регионах и странах, перечисленных на [странице рынков поставщиков облачных решений Microsoft и соглашений с клиентами](agreements.md).  
+Расположение компании определяет вашего рынка. Вашего рынка включает в себя регионах и странах, где вы можете продавать предложения CSP. См. в разделе [региональных рынков, программа для поставщиков облачных решений и валют](regional-authorization-overview.md) полный список стран CSP и валют.
+
+Перед созданием заказа на CSP предложениями от имени клиента, клиент должен подписать соглашение Microsoft Cloud. Вы можете найти применимые соглашения Microsoft Cloud для вашего клиента расположение [здесь](agreements.md).  
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>Что можно продавать в рамках программы CSP?
 
@@ -73,7 +75,6 @@ ms.locfileid: "5795217"
 |:---------------------------|:--------------------|
 |Требования для каждой модели CSP   | [Программа поставщиков облачных решений](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |Осуществление продаж в национальных облаках Microsoft   | [Подача заявки на осуществление продаж в национальных облаках Microsoft](csp-national-clouds-overview.md)|
-|Где и что вы можете продавать   |[Соглашения с клиентами и рынки поставщиков облачных решений Microsoft](agreements.md)|
-|  | [Клиентские стратегии в CSP](regional-authorization-overview.md)
+|Шаблоны соглашения Microsoft Cloud клиентов   |[Соглашения Microsoft Cloud, язык и региональные стандарты](agreements.md)|
 |Задачи непрямого поставщика в центре партнеров  |[Партнерство с непрямыми торговыми посредниками в программе поставщиков облачных решений](indirect-provider-tasks-in-partner-center.md)|
 |Задачи торгового посредника в центре партнеров   |[Партнерство с непрямыми поставщиками в программе для поставщиков облачных решений](indirect-reseller-tasks-in-partner-center.md)|
