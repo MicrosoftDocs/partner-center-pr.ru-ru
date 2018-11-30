@@ -13,11 +13,10 @@
 ## [Регистрация в программе поставщиков облачных решений](enrolling-in-the-csp-program.md)
 ## [Новые требования к прямым партнерам CSP](direct-partner-new-requirements.md) 
 ## [Соглашения, прайс-листы и предложения CSP](csp-documents-and-learning-resources.md)
-## [Обзор региональной авторизации CSP](regional-authorization-overview.md)
-## [Консолидация клиента региональной авторизации CSP](csp-regional-authorization-tenant-consolidation.md)
-## [Шаблоны соглашений с клиентом](agreements.md)
+## [Региональные рынки и валюты CSP](regional-authorization-overview.md)
+## [Соглашения Microsoft Cloud по региону и языку](agreements.md)
 
-## [Примените, чтобы осуществлять продажи в национальных облаках](csp-national-clouds-overview.md)
+## [Национальные облака](csp-national-clouds-overview.md)
 ### [Центр партнеров для Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
 ### [Центр партнеров Microsoft Cloud для Германии](partner-center-for-microsoft-cloud-germany.md)
 
@@ -44,6 +43,7 @@
 
 
 # [Выставление счетов и налоги](billing.md)
+## [Обзор выставления счетов для партнеров CSP](billing-basics.md)
 ## [Вопросы и ответы по новым возможностям выставления счетов](faq-about-new-billing-features.md)
 ## [Просмотр счета](read-your-bill.md)
 ## [Использование файлов выверки](use-the-reconciliation-files.md)
@@ -80,6 +80,7 @@
 ### [Перенос клиентов служб на основе лицензий в программу поставщиков облачных услуг](transition-seat-based-services.md)
 ### [Продажа подписок Minecraft: Education Edition](minecraft-subscriptions.md)
 ### [Продажи представителям определенных отраслей](Get-special-pricing-for-offers.md)
+### [Продажа Office 365 для государственных организаций в средах GCC соответствующим государственным организациям](csp-gcc-overview.md)
 ### [Повышение популярности и уровня удовлетворенности](increasing-adoption-and-satisfaction.md)
 ### [Упрощение настройки устройств с помощью Windows Autopilot](autopilot.md)
 ##  Обновление или перенос предложений в более поздние версии
