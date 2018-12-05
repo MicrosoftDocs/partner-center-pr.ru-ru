@@ -7,30 +7,37 @@ fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f176b71072a67043df2ffe59b004b0ae8411dd4a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: e4eaecc151f8cc4e5e45bbfa7d02236fb1444a24
+ms.sourcegitcommit: 3eb069edf36bdb61518c0c7cc2ccaf2d8dde4adb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795537"
+ms.lasthandoff: 11/07/2018
+ms.locfileid: "6131703"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Установить и ознакомиться с приложением "Аналитика Центра партнеров для Microsoft Power BI"
 
 **Область применения**
 
--   Центр партнеров
+- Центр партнеров
 
 ## <a name="before-you-begin"></a>Перед началом работы
 
+Выберите приложение, которое наиболее важны для вашего бизнеса из следующего списка доступных приложений Power BI:
+- [Прямого партнера](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
+
+- [Косвенного партнера](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
+
+- [Непрямой торговый посредник](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
+
 Перед установкой предварительной версии приложения "Аналитика Центра партнеров" убедитесь, что соблюдены следующие требования.
 
--   Вы являетесь прямым партнером в программе поставщиков облачных решений и в Центре партнеров. Вы являетесь прямым партнером, если вы взаимодействуете непосредственно с корпорацией Майкрософт и клиентами.
+- Вам выбрать правильный приложению Power BI для вашего бизнеса.
 
--   У вас есть активная подписка на Microsoft Power BI Professional или Microsoft Power BI Premium.
+- У вас есть активная подписка на Microsoft Power BI Professional или Microsoft Power BI Premium.
 
--   Вы можете войти в Power BI.
+- Вы можете войти в Power BI.
 
--   Вы можете войти в качестве глобального администратора, агента администратор или администратора выставления счетов в [клиент Azure Active Directory (Azure AD) вашей компании](azure-active-directory-tenants-and-partner-center.md).
+- Вы можете войти в качестве глобального администратора, агента администратор или администратора выставления счетов в [клиент Azure Active Directory (Azure AD) вашей компании](azure-active-directory-tenants-and-partner-center.md).
 
 ## <a name="to-install-the-app"></a>Установка приложения
 
