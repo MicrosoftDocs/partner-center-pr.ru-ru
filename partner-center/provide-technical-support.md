@@ -7,12 +7,12 @@ ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4315e585d74bd331f3ed8e45a5402cfd912b2406
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ef966df6b7bce7d3dcb2334c8fcaf1d0499b16d1
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795127"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683603"
 ---
 # <a name="provide-technical-support"></a>Предоставление технической поддержки
 
@@ -20,7 +20,7 @@ ms.locfileid: "5795127"
 
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud для правительства США
--  Центр партнеров Microsoft Cloud для Германии
+
 
 Как поставщик облачных решений вы получаете полномочия делегированного администратора, которые предоставляют вам доступ к средам пользователей. Указанные ниже полномочия дают вам возможность непосредственно поддерживать, настраивать подписки клиентов и управлять ними.
 

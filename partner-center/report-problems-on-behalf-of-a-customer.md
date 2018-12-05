@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b2698c45a996394e0bbd24bc759e807c4957942
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1907212ff56bed8b3e3345c51bbf79770f2699c8
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795617"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683773"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Сообщение о проблемах от имени клиента
 
@@ -21,7 +21,7 @@ ms.locfileid: "5795617"
 
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud для правительства США
--  Центр партнеров Microsoft Cloud для Германии
+
 
 Если у вашего клиента возникла проблема с обслуживанием, которую вы не можете устранить и которая отвечает критериям, описанным в разделе [Сообщение о проблемах в Майкрософт](escalate-problems-to-microsoft.md), подайте запрос в службу поддержки. Этот процесс также полезен для сообщения о проблемах или спорах, связанных с выставлением счетов, и об опасениях, связанных с мошенничеством.
 

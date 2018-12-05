@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b5fbab84c30743e4d91b32bf4cbd2bb8b950992
-ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
+ms.openlocfilehash: 188f6fe28277cfab624d407bb47157f2dce7e854
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/04/2018
-ms.locfileid: "6022237"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683823"
 ---
 # <a name="use-the-reconciliation-files"></a>Использование файлов выверки
 
@@ -20,7 +20,7 @@ ms.locfileid: "6022237"
 
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud для правительства США
--  Центр партнеров Microsoft Cloud для Германии
+
 
 Для просмотра подробных позиции элементов каждой оплаты в расчетном цикле Загрузите файлы выверки в центре партнеров. Эти сведения включают плату за подписки каждого клиента и детализированные события (например, добавление количества мест к подписке в середине срока).
 

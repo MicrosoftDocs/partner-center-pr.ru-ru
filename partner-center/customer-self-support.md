@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: самообслуживание для клиентов, самообслуживание,
 ms.localizationpriority: medium
-ms.openlocfilehash: 46525d10888ec910ac86421dc018b6d8ff1f68ab
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ac6e78057dc8499ad2e46713afe6ade4b4c8ca1e
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794777"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683483"
 ---
 # <a name="customer-self-support"></a>Самообслуживание для клиентов
 
@@ -21,7 +21,7 @@ ms.locfileid: "5794777"
 
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud для правительства США
--  Центр партнеров Microsoft Cloud для Германии
+
 
 Клиенты могут входить в собственный центр администрирования MicrosoftOffice365 и портал управления Azure и управлять своими учетными записями.
 

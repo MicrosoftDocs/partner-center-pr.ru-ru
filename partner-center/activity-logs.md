@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: 40bcbde087fda68428c50d1f840a44a87bdebbc3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 78f30fc2eadefaf9f9e1624e200f097ad7c57aa8
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794857"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683763"
 ---
 # <a name="view-customer-activity-logs"></a>Просмотр журналов действий клиента
 
@@ -21,7 +21,7 @@ ms.locfileid: "5794857"
 
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud для правительства США
--  Центр партнеров Microsoft Cloud для Германии
+-  
 
 
 Журналы действий содержат сведения о транзакциях и действиях по управлению партнеров для клиентов. Журналы транзакций предоставляют подробные сведения о транзакции, в том числе о приобретенных подписках. Вы также можете экспортировать журналы действий в файл Excel с разделителями-запятыми (CSV).

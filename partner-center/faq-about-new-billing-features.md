@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f0b26856d0fb18062591c2311ef18c68fbbd7498
-ms.sourcegitcommit: 757c2e498334322862932068122665846f528b9c
+ms.openlocfilehash: 19544d00aa0a040b4dcf1a4733714dc80b4e745e
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/16/2018
-ms.locfileid: "7012607"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683813"
 ---
 # <a name="faq-about-new-billing-features"></a>Вопросы и ответы по новым возможностям выставления счетов
 
@@ -20,7 +20,7 @@ ms.locfileid: "7012607"
 
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud для правительства США
--  Центр партнеров Microsoft Cloud для Германии
+
 
 Ниже приведены вопросы и ответы о возможностях годового выставления счетов и бесплатных пробных версиях в Центре партнеров. 
 

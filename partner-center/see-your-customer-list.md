@@ -7,12 +7,12 @@ ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 430fe97ffac1f517e9086afb077b0f126e98ae3c
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 949536273e4b07778f4a9fac4f4779858573fc1f
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796117"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683703"
 ---
 # <a name="manage-your-customer-list"></a>Управление списком клиентов
 
@@ -20,7 +20,7 @@ ms.locfileid: "5796117"
 
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud для правительства США
--  Центр партнеров Microsoft Cloud для Германии
+
 
 Записи клиентов — один из важнейших типов данных в Центре партнеров. Вы можете выполнять поиск в базе учетных записей клиентов, экспортировать всю базу данных клиентов или подмножество в совместимый с Excel файл с разделителями-запятыми (.csv). Вы также можете экспортировать сведения о подписках клиента в CSV-файл.
 

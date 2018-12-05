@@ -7,12 +7,12 @@ ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 626f25e3f56949d658c6ab7ff1fdf1fb1ffdd2ad
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4eafca2c4d9273157d920197758488d399b9018d
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797057"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683753"
 ---
 # <a name="customize-the-catalog"></a>Настройка каталога
 
@@ -20,7 +20,7 @@ ms.locfileid: "5797057"
 
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud для правительства США
--  Центр партнеров Microsoft Cloud для Германии
+
 
 В каталоге перечислены все продукты и надстройки Майкрософт, которые вы можете предлагать клиентам. Предлагаемые товары сгруппированы отдельно по сегментам заказчиков, таким как предприятия, малый бизнес и государственные учреждения. Чтобы упростить для пользователей процесс выбора товаров, наиболее часто используемых в организации, или продемонстрировать новые товары вашим агентам по продажам, вы можете закрепить до пяти предложений в начале списка.
 

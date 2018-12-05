@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: выставление счетов за подписки, выставление счетов, выставления счетов в центре партнеров, просмотр счета, счет, счет центра партнеров, счет CSP, где мой счет?
 ms.localizationpriority: medium
-ms.openlocfilehash: 8505e0cc42bd294f6c6645ed02c1c5529cffff54
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 070d0c78acf9b8af016e1a1d46040fb5de780e97
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795697"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683793"
 ---
 # <a name="read-your-bill"></a>Просмотр счета
 
@@ -21,7 +21,7 @@ ms.locfileid: "5795697"
 
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud для правительства США
--  Центр партнеров Microsoft Cloud для Германии
+
 
 Для составления счета перейдите в меню **Центра партнеров** , а затем выберите **выставления счетов** , чтобы увидеть журнал выставления счетов и тенденции, ссылки на ваш счет-фактура и файл выверки, а также ваш последний платеж.
 

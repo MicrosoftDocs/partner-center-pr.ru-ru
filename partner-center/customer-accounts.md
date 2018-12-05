@@ -7,12 +7,12 @@ ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c50791c224834dffd0b113e5f3d4a5bca3aad9a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f6793b1b7524a5f715dd416e17c08679d14f9818
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796887"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683513"
 ---
 # <a name="customer-accounts"></a>Учетные записи клиента
 
@@ -20,7 +20,7 @@ ms.locfileid: "5796887"
 
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud для правительства США
--  Центр партнеров Microsoft Cloud для Германии
+
 
 Как торговый посредник вы должны создать учетную запись для каждого из ваших клиентов в центре партнеров. Учетная запись клиента станет вашей отправной точкой для продажи подписок, выставления счетов и предоставления поддержки. Вам необходимо создать учетную запись центра партнеров для каждого из ваших клиентов, включая тех клиентов, которые были у вас до перехода на работу в центр партнеров.
 

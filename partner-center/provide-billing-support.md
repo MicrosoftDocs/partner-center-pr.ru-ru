@@ -7,12 +7,12 @@ ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: d9741071008341d41f2b37c564346d667644f33e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9744dee5696ffd6ccd2fc0f7a32e4b2f53e80722
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796707"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683543"
 ---
 # <a name="provide-billing-support"></a>Предоставление поддержки выставления счетов
 
@@ -20,7 +20,7 @@ ms.locfileid: "5796707"
 
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud для правительства США
--  Центр партнеров Microsoft Cloud для Германии
+
 
 Вы владеете отношения оплаты с клиентов и ответственность за ответы на вопросы, связанные с выставлением счетов, пользователей.
 

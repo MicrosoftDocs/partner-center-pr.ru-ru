@@ -7,12 +7,12 @@ ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e1573615252cf40b34297be8666aa56d3b2b1f94
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: d759001b2cbaf8cab5f5b6e501dd0635b7adb11b
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797227"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683553"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Сообщение о проблемах в Майкрософт
 
@@ -20,7 +20,7 @@ ms.locfileid: "5797227"
 
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud для правительства США
--  Центр партнеров Microsoft Cloud для Германии
+
 
 Предполагается, что вы будете решать проблемы от имени своих клиентов. Сначала необходимо [проверить работоспособность службы](check-service-health.md) для обнаружения существующих, документально оформленных проблем. Если проблему клиента решить не удалось, тогда вы можете воспользоваться правами администратора, чтобы устранить неполадки программного обеспечения, параметров и конфигурации.
 
