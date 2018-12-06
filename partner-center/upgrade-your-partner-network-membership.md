@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 62b14af53723cd8e28a1a5253e953f08fc03c867
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 800e816ad882b11721f26f7c219997de7a33e416
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795717"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776478"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Обновить членство Microsoft Partner Network
 
@@ -79,7 +79,7 @@ ms.locfileid: "5795717"
 
 3. Выберите **Отключить автоматическое продление**, если вы не хотите, чтобы подписка на Action Pack автоматически продлевалась каждый год. 
 
-   > [!NOTE]  
+> [!NOTE]  
 > Если отключить автоматическое продление подписки, вы не сможете снова включить эту функцию, пока заново не продлите подписку. Мы уведомим вас про необходимость обновления до истечения срока действия подписки.
 
 

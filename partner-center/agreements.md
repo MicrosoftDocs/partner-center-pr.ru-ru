@@ -1,21 +1,22 @@
 ---
-title: Шаблоны клиентами Microsoft Cloud Agreement | Центр партнеров
+title: Шаблоны с клиентами Microsoft Cloud Agreement | Центр партнеров
 ms.topic: article
 ms.date: 11/03/2018
 description: Найти и загрузить версии конкретного языка и региона соглашения Microsoft Cloud для просмотра с клиентами.
 author: Maggie Evans
+ms.author: evensma
 keywords: Соглашения Microsoft cloud agreements, шаблоны соглашения с клиентами, соглашения с клиентами CSP, MCA, соглашения MCA, CSP, где можно продавать по программе CSP?, страны и регионы CSP, соглашения CSP MCA на нескольких языках, CSP Северная Америка, CSP Центральная Америка, CSP Южная Америка, CSP Карибы, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud в Германии, CSP Ближний Восток, CSP Африка, CSP Европа, CSP Азия, CSP Тихоокеанский регион, соглашения CSP MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: 670c3657b3865eac97eff4b07b1a333d119b382e
-ms.sourcegitcommit: deea6667687f1c15b1f56ae71c0600533ad63c77
+ms.openlocfilehash: a664c2bd9486f2f3b32dc09a7d47d32eb9913ed0
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/14/2018
-ms.locfileid: "6715285"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776538"
 ---
-# <a name="microsoft-cloud-agreements-by-region-and-language"></a>Соглашения Microsoft Cloud, языка и региона
+# <a name="microsoft-cloud-agreements-by-region-and-language"></a>Соглашения Microsoft Cloud по региону и языку
 
-**Относится к:**
+**Область применения**
 
 - Партнеры CSP
 
@@ -26,7 +27,7 @@ ms.locfileid: "6715285"
 
 Соглашения Microsoft Cloud конкретного региона и доступны на нескольких языках. Найдите клиента расположение и предпочитаемого языка в одном из списков ниже для скачивания правильное соглашение.
 
-Если вы не уверены, какие регионах и странах, вы можете продавать, найти местоположение вашей компании в этом списке: [региональных рынков, программа для поставщиков облачных решений и валют](regional-authorization-overview.md).
+Если вы не уверены, какие регионах и странах, вы можете продавать, определение местоположения вашей компании в этом списке: [региональных рынков, программа для поставщиков облачных решений и валют](regional-authorization-overview.md).
 
 <!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
 
@@ -119,13 +120,13 @@ ms.locfileid: "6715285"
 - Грузия: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - Германия: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [немецкий](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_Sep20172_CR.pdf)
     
-    В Германии их кода (раздел 203) и профессиональных коды поведения требуют, что определенные отношения клиента, чтобы быть единственные, например, отношение между пациентов и их медицинских врачи и связи между Юридические и своих клиентов. Эти производственная группы нужно обеспечить профессиональных безопасной пересылки. Для этих и других профессиях приобрести облачные службы из поставщики облачных решений облачных услуг необходимо заключить соглашении с клиента, который обеспечивает профессиональных безопасной пересылки.
+    В Германии их кода (раздел 203) и профессиональные коды поведения требуют, определенных взаимоотношений с клиентами, которые должны храниться конфиденциальные, например, связь между пациентов и их медицинских врачи и связи между Юридические и своих клиентов. Эти производственная группы нужно обеспечить профессиональных безопасной пересылки. Для этих и других профессиях купить облачных служб с поставщики облачных решений облачных услуг необходимо заключить соглашении с клиента, который обеспечивает профессиональных безопасной пересылки.
 
-    Если вы взаимодействуете в Германии, может потребоваться предоставить этот поправка профессиональных безопасной пересылки для пользователей есть помимо соглашения Microsoft Cloud.
+    Если вы взаимодействуете в Германии, может потребоваться предоставить этот поправка профессиональных безопасной пересылки вашего клиентам в дополнение к Microsoft Cloud Agreement.
 
-    - [Дополнительное профессиональных безопасной пересылки соглашение Microsoft Cloud в Германии (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+    - [Поправка профессиональных безопасной пересылки соглашение Microsoft Cloud в Германии (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
-     - [Дополнительное профессиональных безопасной пересылки соглашение Microsoft Cloud в Германии (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+     - [Поправка профессиональных безопасной пересылки соглашение Microsoft Cloud в Германии (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
 - Гибралтар: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - Греция: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [греческий](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GRE_Sep20172_CR.pdf)
