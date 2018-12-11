@@ -1,6 +1,7 @@
 # [Сведения о Центре партнеров Майкрософт](index.md)
 
 # [Членство в Partner Network](mpn-overview.md)
+## [Переход от PMC к Центру партнеров](pmc-to-partner-center.md)
 ## [Создание учетной записи Центра партнеров](mpn-create-a-partner-center-account.md)
 ## Предложения в рамках членства
 ### [Пакет Action Pack](mpn-get-action-pack.md)
