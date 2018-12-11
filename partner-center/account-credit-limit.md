@@ -2,17 +2,19 @@
 title: Кредитные лимиты для учетной записи поставщика облачных решений (CSP) | Центр партнеров
 ms.topic: article
 ms.date: 10/29/2018
-description: ''
+description: Когда вы становитесь партнером в рамках программы CSP, для вашей организации устанавливается кредитный лимит, и вы можете приобретать программное обеспечение для продажи клиентам, пока ждете оплаты от клиентов.
 ms.assetid: ''
-author: ''
-Keywords: ''
+author: labrenne
+ms.author: labrenne
+keywords: кредитный лимит, приобретение, увеличение лимита кредитной линии
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e6e3f562cc9a8f6f1e8ad78f1fa0c7103b962a3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 29ea91d24e141deb843f7ba00e438f882a092fff
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795143"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917396"
 ---
 # <a name="cloud-solution-provider-csp-account-credit-limits"></a>Кредитные лимиты для учетной записи поставщика облачных решений (CSP)
 

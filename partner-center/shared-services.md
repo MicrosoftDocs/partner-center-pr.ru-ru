@@ -2,17 +2,18 @@
 title: Добавление служб Azure Partner Shared Services | Центр партнеров
 ms.topic: article
 ms.date: 10/29/2018
-description: Теперь партнеры CSP могут приобретать подписки Azure для внутреннего использования.
+description: Службы Azure Partner Shared Services— это новый тип предложения в рамках программы CSP, который позволяет партнерам приобретать подписки на Azure для собственного использования.
 author: labrenne
 ms.author: labrenne
 Keywords: Azure, shared services, tenant
 ms.localizationpriority: medium
-ms.openlocfilehash: c663ffe58575acc02663492bf14f5ae3a3c8b43e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 51f235cfc840ab60e90fbbce44cb239b82273ce1
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795727"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917636"
 ---
 # <a name="add-azure-partner-shared-services"></a>Добавление служб Azure Partner Shared Services
 

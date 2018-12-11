@@ -1,29 +1,30 @@
 ---
 title: Анализ использования Azure | Центр партнеров
 ms.date: 07/12/2018
-Description: Get data about the usage of your customers' Azure subscriptions.
+Description: Use Partner Center to get data about the usage of your customers' Azure subscriptions.
 Author: Xansky
 ms.author: mhopkins
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
 keywords: бизнес-данные
 ms.localizationpriority: medium
-ms.openlocfilehash: e5ed6ce99a8319ce2e86b8522f1bdf40ccf5b2f9
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 2a1311cb163d5e7f12e7649b56e74e240f0caca1
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795667"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917416"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Получение данных об использовании подписок Azure клиентов 
 
-**Относится к:**
+**Область применения**
 - Центр партнеров
 
 Данные помогают принимать правильные бизнес-решения. Используйте метрики на странице **использования Azure** для идентификации успешное выполнение и области, которые требуется больше внимания. Эти сведения можно использовать при планировании новых бизнес-целей.
 
 > [!NOTE]
-> Использование Azure аналитика доступно только для партнеров в программе поставщиков облачных решений.
+> Использование Azure аналитики доступна только для партнеров в программе поставщиков облачных решений.
 
 Мы отслеживаем следующие метрики:
 
@@ -35,7 +36,7 @@ ms.locfileid: "5795667"
 **5 лучших клиентов в категории**  
  -  5 лучших клиентов для указанной категории  
 
-**Подписок без использования**  
+**Подписки без использования**  
  -  Список подписок sepcific без использования Azure в заданный период времени  
 
 **Обработка подписки Azure**  

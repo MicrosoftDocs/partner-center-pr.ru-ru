@@ -2,18 +2,19 @@
 title: Самообслуживание для клиентов | Центр партнеров
 ms.topic: article
 ms.date: 10/29/2018
-description: Самообслуживание для клиентов
+description: Пользователи могут входить в собственный центр администрирования Microsoft Office 365 или портал управления Azure и управлять своими учетными записями. Чтобы приобрести дополнительные подписки или отменить свои подписки, клиенты должны связаться со своим партнером по программе поставщиков облачных решений.
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: самообслуживание для клиентов, самообслуживание,
 ms.localizationpriority: medium
-ms.openlocfilehash: ac6e78057dc8499ad2e46713afe6ade4b4c8ca1e
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.custom: seodec18
+ms.openlocfilehash: 62a4486419183544ba6720c6e23a096fe4dd3841
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683483"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917586"
 ---
 # <a name="customer-self-support"></a>Самообслуживание для клиентов
 

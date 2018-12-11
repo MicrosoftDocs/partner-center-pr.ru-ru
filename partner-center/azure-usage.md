@@ -2,17 +2,18 @@
 title: Размеры виртуальных Машин Microsoft Azure для максимального использования резервирования | Центр партнеров
 ms.topic: article
 ms.date: 10/29/2018
-Description: Information on purchasing and managing Azure reservations
+Description: When buying Microsoft Azure reservations on behalf of your customers, you’ll need to choose a virtual machine (VM) sized to meet the customer’s computing needs.
 author: v-petand
 ms.author: v-petand
 keywords: azure, резервирования, виртуальная машина, управление, использование, размеры
 ms.localizationpriority: medium
-ms.openlocfilehash: 00978e8e000dded2e4f7bb5d5d6506711e521c86
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 04a027bf50739434f9a6d155eb8a31f4074185a7
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795927"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917546"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Размеры виртуальных машин Microsoft Azure для максимального использования резервирования 
 
@@ -48,7 +49,7 @@ ms.locfileid: "5795927"
 
 **Получение сведений о размере виртуальной машины на портале Microsoft Azure**
 
-1.  В центре партнеров перейдите на страницу **пользователей** .
+1.  В центре партнеров перейдите к странице " **Клиенты** ".
 
 2.  Найдите клиента, желающего приобрести резервирования Azure, затем выберите стрелку вниз, чтобы посмотреть сведения о клиенте. Выберите **Портал управления Microsoft Azure**, чтобы открыть запись клиента на портале Azure. 
 
@@ -56,13 +57,13 @@ ms.locfileid: "5795927"
 
 4.  На странице сведений о виртуальной машине найдите информацию о размере и регионе (см. рисунок ниже) и используйте эту информацию для приобретения резервирования в Центр партнеров.  
 
-    ![](images/usage1.png)
+    ![Сведения о размере и регионе на странице сведений о](images/usage1.png)
 
 **Получение сведений о размере виртуальной машины с помощью Microsoft Azure PowerShell**
 
 Чтобы определить местоположение и размер виртуальной машины, для которой нужно приобрести резервирование, используйте данные, показанные на рисунке ниже. 
 
-![](images/usage2.png)
+![Виртуальная машина расположение и размер](images/usage2.png)
 
 **Получение сведений о размере виртуальной машины с помощью API для Azure Resource Manager (ARM)**
 
@@ -72,8 +73,8 @@ ms.locfileid: "5795927"
 
 3.  Вызов возвращает значения для параметров **vmSize** и **location**, как показано ниже.
 
-    ![](images/usage3.png)
-    ![](images/usage4.png)
+    ![значение vmSize](images/usage3.png)
+    ![значение расположения](images/usage4.png)
  
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Проверка использования виртуальной машины Azure и скидки на резервирование
@@ -92,7 +93,7 @@ ms.locfileid: "5795927"
 
 ### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Проверка использования резервирования клиента на портале Microsoft Azure
 
-1.  В центре партнеров перейдите на страницу **пользователей** .
+1.  В центре партнеров перейдите к странице " **Клиенты** ".
 
 2.  Найдите клиента, для которого необходимо проверить использование резервирования и скидку, затем выберите стрелку вниз, чтобы посмотреть сведения о клиенте. Выберите **Портал управления Microsoft Azure**, чтобы открыть запись клиента на портале Azure. 
 
@@ -118,7 +119,7 @@ ms.locfileid: "5795927"
 
 Вы можете получить данные об использовании резервирования с помощью API использования Azure. Так можно проверить, получает ли клиент скидку за резервирование, и посмотреть, к каким виртуальным машинам применяется эта скидка. Сравните проверку использования резервирования в примерах А и Б. 
 
-![](images\usage5.png)
+![Примеры использования резервирования](images\usage5.png)
 
 -   Идентификатор reservationId определяет резервирование Azure, которое использовалось для применения скидки к виртуальной машине.
 -   consumptionMeter — это MeterId для виртуальной машины, к которой применена скидка за резервирование.
@@ -134,7 +135,7 @@ ms.locfileid: "5795927"
 |:-----------------------------|:-----------------|
 |Обзор резервирований Azure в программе CSP  | [Продажа Microsoft Azure Reserved VM Instances](azure-reservations.md)
 |Приобретение резервирований Azure для клиентов в центре партнеров   |[Приобретение резервирований Azure](azure-reservations-buying.md)
-| Управление резервированиями Azure в центре партнеров | [Управление резервированиями Azure в центре партнеров](azure-reservations-manage.md)
+|Управление резервированиями Azure в центре партнеров | [Управление резервированиями Azure в центре партнеров](azure-reservations-manage.md)
 |Приобретение резервирований Azure на портале Azure | [Предоплата за виртуальные машины с Azure Reserved VM Instances](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) в справке Azure |
 |Управление резервированиями Azure на портале Azure   |[Управление зарезервированными экземплярами виртуальных машин](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) в справке Azure  |
 |Приобретение резервирований Azure с помощью API Центра партнеров | [Приобретение услуги Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) в документации для разработчиков в Центре партнеров

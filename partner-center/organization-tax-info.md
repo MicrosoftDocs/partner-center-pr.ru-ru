@@ -2,16 +2,17 @@
 title: Налоговая информация организации | Центр партнеров
 ms.topic: article
 ms.date: 10/29/2018
-description: Если это необходимо, в сведения об организации необходимо добавить номер плательщика НДС
+description: 'Налоги на покупки в Центре партнеров рассчитываются в соответствии с вашим рабочим адресом. Компании в некоторых странах могут указывать свой номер плательщика НДС или местный эквивалент:'
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 94cee559de16e10c23cc1d85aff7f661859373be
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 2a7d06a812098812b8edef274e7ca2b7de2f5c44
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797147"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917486"
 ---
 # <a name="organization-tax-information"></a>Налоговая информация организации
 
