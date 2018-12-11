@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: национальные облака, Microsoft Cloud в Германии, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud в Китае
 ms.localizationpriority: medium
-ms.openlocfilehash: cf2d126fa7d9c5e62313309b8ff89c7abaa2887b
-ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
+ms.openlocfilehash: 851b8695b6cb409ef9f70f8b2acf2504bc7b16f5
+ms.sourcegitcommit: 13a9a1cb7c810479998353d969bc15e0654d8ff1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/21/2018
-ms.locfileid: "7460921"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8962376"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>Подача заявки на осуществление продаж в национальных облаках Microsoft
 
@@ -36,9 +36,10 @@ ms.locfileid: "7460921"
 
 -   [**Microsoft Cloud в Германии**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Cloud в Германии предоставляет Azure, Office 365 и Dynamics 365 в немецких центрах обработки данных по уникальной модели. В этой модели доступ к данным клиентов обеспечивается независимым немецким доверенным лицом по обработке данных, осуществляющим свою деятельность согласно законодательству Германии. T-Systems International GmbH, подразделение Deutsche Telecom, выступает в качестве независимого доверенного лица по обработке данных для Microsoft Cloud в Германии. 
 
-    >[!IMPORTANT] В зависимости от следующий шаг в потребности клиентов, наше стратегии облака в Германии рассмотрим доставки областях новый облака в Германии, согласующиеся с наши глобальные облака предлагать. С помощью этого фокуса мы будет больше не принятие новых клиентов или развертывания все новые службы из в настоящее время Microsoft Cloud в Германии. Существующие клиенты могут продолжать использовать текущий облачных служб доступных сегодня, которые мы будем поддерживать с необходимых обновлений безопасности.
-
-    >Двигаться вперед, новые клиенты могут использовать в настоящее время европейских регионов или новые области в Германии, когда они становятся доступны. Дополнительные сведения см. в разделе [Microsoft для доставки облачных служб в новый центрах обработки данных в Германии](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
+    > [!IMPORTANT]  
+    > В зависимости от следующий шаг в потребности клиентов, стратегия облака в Германии рассмотрим доставки новых облачных областей в Германии, согласующиеся с наши глобальные облака предлагать. Этот фокус мы будет больше не принимает новых клиентов или развертывания все новые службы в настоящее время Microsoft Cloud в Германии. Существующие клиенты могут продолжать использовать текущего облачных служб доступных сегодня, которые мы будем поддерживать с необходимых обновлений безопасности.
+    >  
+    > Двигаться вперед, новые клиенты могут использовать в настоящее время европейской регионов или новые области в Германии, когда те становятся доступны. Дополнительные сведения см. в разделе [Microsoft для доставки облачных служб в новый центрах обработки данных в Германии](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
 
     
 -   [**Azure и Office 365 под управлением 21Vianet в Китае**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Корпорация Майкрософт предоставляет облачные службы в Китае посредством уникального партнерства с Shanghai Blue Cloud Technology Co., Ltd. (21Vianet), подразделения Beijing 21Vianet Broadband Data Center Co., Ltd. 21Vianet является крупнейшим в Китае независимым от операторов поставщиком услуг центров обработки данных, хостинга, управляемых сетей и инфраструктуры облачных вычислений. 
