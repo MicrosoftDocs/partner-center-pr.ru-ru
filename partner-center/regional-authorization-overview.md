@@ -375,9 +375,9 @@ ms.locfileid: "8917676"
 |  Россия         |    Рубль (RUB)   |
 |
 
-## <a name="taiwan-region-and-market"></a>Тайвань региона и рынка
+## <a name="taiwan-region-and-market"></a>Taiwan region and market
 
-Если вашей компании нацелены на Тайвань, вы можете продавать предложения CSP клиентам в Тайване.
+If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
 
 |  Страна или регион | Валюта |
 |  -------------- |:--------:|
