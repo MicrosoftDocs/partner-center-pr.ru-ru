@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: CSP рынков, территории, где можно i продажи и предложения CSP, регионы, продавать облачные решения, глобальные поставщики облачных Решений
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 19a48a5ffc0ab9a3d2555c47cbf67c0376d771bf
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 456a37e965d7594e29df47437dedb587bff46db3
+ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917676"
+ms.lasthandoff: 12/20/2018
+ms.locfileid: "8980628"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Облачные региональных рынков, программа для поставщиков решений и валют
 
@@ -27,7 +27,7 @@ ms.locfileid: "8917676"
 >[!IMPORTANT]
 > С 7 ноября 2018 г. необходимо убедиться, что пользователь принял Microsoft Cloud Agreement, предоставляя информацию о лица, подписавшего. Дополнительные сведения см. [Подтверждение клиента принятие соглашения Microsoft Cloud](confirm-consent.md) .
 
-Чтобы определить, где вы можете продавать предложения CSP, определение местоположения вашей компании в одном из списков ниже.
+Чтобы определить, где вы можете продавать предложения CSP, определение местоположения вашей компании в одном из списков ниже. Необходимо иметь активные идентификатор Microsoft Partner Network (MPN) для продажи в нужное место.  
 
 ## <a name="africa-region-and-market"></a>Африка региона и рынка
 
@@ -375,9 +375,9 @@ ms.locfileid: "8917676"
 |  Россия         |    Рубль (RUB)   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>Тайвань региона и рынка
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+Если вашей компании нацелены на Тайвань, вы можете продавать предложения CSP клиентам в Тайване.
 
 |  Страна или регион | Валюта |
 |  -------------- |:--------:|
