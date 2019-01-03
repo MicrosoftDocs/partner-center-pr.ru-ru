@@ -7,12 +7,12 @@ author: Maggie Evans
 ms.author: evensma
 keywords: Соглашения Microsoft cloud agreements, шаблоны соглашения с клиентами, соглашения с клиентами CSP, MCA, соглашения MCA, CSP, где можно продавать по программе CSP?, страны и регионы CSP, соглашения CSP MCA на нескольких языках, CSP Северная Америка, CSP Центральная Америка, CSP Южная Америка, CSP Карибы, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud в Германии, CSP Ближний Восток, CSP Африка, CSP Европа, CSP Азия, CSP Тихоокеанский регион, соглашения CSP MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: a664c2bd9486f2f3b32dc09a7d47d32eb9913ed0
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: c3afd36ff14f40ec293ff8dcbda1833d56265c0b
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776538"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990986"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>Соглашения Microsoft Cloud по региону и языку
 
@@ -20,12 +20,12 @@ ms.locfileid: "8776538"
 
 - Партнеры CSP
 
-Прежде чем можно разместить заказ от имени клиента, клиент необходимо принять и подписание соглашения Microsoft Cloud.
+Прежде чем разместить заказ от имени клиента, клиент должен принять и подписание соглашения Microsoft Cloud.
 
 >[!IMPORTANT]
 > Начиная с 7 ноября 2018 г., необходимо убедиться, что пользователь принял Microsoft Cloud Agreement, предоставляя информацию о лица, подписавшего. Дополнительные сведения см. [Подтверждение клиента принятие соглашения Microsoft Cloud](confirm-consent.md) .
 
-Соглашения Microsoft Cloud конкретного региона и доступны на нескольких языках. Найдите клиента расположение и предпочитаемого языка в одном из списков ниже для скачивания правильное соглашение.
+Соглашения Microsoft Cloud конкретного региона и доступны на нескольких языках. Поиск расположения и предпочитаемый язык пользователя в одном из списков ниже для скачивания правильное соглашение.
 
 Если вы не уверены, какие регионах и странах, вы можете продавать, определение местоположения вашей компании в этом списке: [региональных рынков, программа для поставщиков облачных решений и валют](regional-authorization-overview.md).
 
@@ -120,13 +120,13 @@ ms.locfileid: "8776538"
 - Грузия: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - Германия: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [немецкий](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_Sep20172_CR.pdf)
     
-    В Германии их кода (раздел 203) и профессиональные коды поведения требуют, определенных взаимоотношений с клиентами, которые должны храниться конфиденциальные, например, связь между пациентов и их медицинских врачи и связи между Юридические и своих клиентов. Эти производственная группы нужно обеспечить профессиональных безопасной пересылки. Для этих и других профессиях купить облачных служб с поставщики облачных решений облачных услуг необходимо заключить соглашении с клиента, который обеспечивает профессиональных безопасной пересылки.
+    В Германии их код (раздел 203) и профессиональные коды поведения требуется, определенных взаимоотношений с клиентами, которые должны храниться конфиденциальные, например, связи между пациентов и их долгосрочные врачи и связи между Юридические и своих клиентов. Эти производственная группы нужно обеспечить профессиональных безопасной пересылки. Для этих и других профессиях приобрести облачных служб с поставщики облачных решений облачных услуг необходимо заключить соглашении с клиента, который обеспечивает профессиональных безопасной пересылки.
 
-    Если вы взаимодействуете в Германии, может потребоваться предоставить этот поправка профессиональных безопасной пересылки вашего клиентам в дополнение к Microsoft Cloud Agreement.
+    Если вы взаимодействуете в Германии, может потребоваться предоставить этот поправка профессиональных безопасной пересылки для пользователей есть помимо соглашения Microsoft Cloud.
 
-    - [Поправка профессиональных безопасной пересылки соглашение Microsoft Cloud в Германии (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+    - [Дополнительное профессиональных безопасной пересылки соглашение Microsoft Cloud в Германии (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
-     - [Поправка профессиональных безопасной пересылки соглашение Microsoft Cloud в Германии (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+     - [Дополнительное профессиональных безопасной пересылки соглашение Microsoft Cloud в Германии (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
 - Гибралтар: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - Греция: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [греческий](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GRE_Sep20172_CR.pdf)
@@ -205,7 +205,7 @@ November 5, 2018 - commenting out this section because we've stopped accepting n
 - Гвинея: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [французский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_FRE_Sep20172_CR.pdf)    
 - Гвинея-Бисау: [португальский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_PTE_Sep20172_CR.pdf)
 - Ирак: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep2017_CR.pdf), [арабский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
-- Израиль: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [иврит](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_HEB_Sep20172_CR.pdf)  
+- Израиль: [Английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)  
 - Иордан: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [арабский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
 - Кения: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)     
 - Косово: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)
