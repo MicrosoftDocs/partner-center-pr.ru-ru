@@ -14,7 +14,8 @@
 ## [Регистрация в программе поставщиков облачных решений](enrolling-in-the-csp-program.md)
 ## [Новые требования к прямым партнерам CSP](direct-partner-new-requirements.md) 
 ## [Регистрация в качестве поставщика панелей управления](enroll-as-cpv.md)
-## [Соглашения, прайс-листы и предложения CSP](csp-documents-and-learning-resources.md)
+###[Для получения доступа к этой странице необходимо включить многофакторную идентификацию (MFA) в своем клиенте](enable-mfa.md)
+## [Соглашения, прейскуранты и предложения CSP](csp-documents-and-learning-resources.md)
 ## [Региональные рынки и валюты CSP](regional-authorization-overview.md)
 ## [Соглашения Microsoft Cloud по региону и языку](agreements.md)
 
