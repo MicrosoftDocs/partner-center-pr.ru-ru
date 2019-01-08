@@ -7,12 +7,12 @@ ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6dce06b0c65c3ac85318b1c04b5a8b490d620e55
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 8b35332e27b90488f76132d115dd66ddb0c8d8d6
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683673"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995608"
 ---
 # <a name="multi-channel-support"></a>Поддержка нескольких каналов
 
@@ -37,20 +37,20 @@ ms.locfileid: "8683673"
 <tbody>
 <tr class="odd">
 <td><p><strong>Услуги на основе лицензии</strong></p></td>
-<td><p>Чтобы предоставлять поддержку для учетных записей с несколькими каналами, вам необходимо запросить у клиента разрешения на управление его подписками. Сведения о том, как это сделать, см. в разделе [Запрос связи с клиентом](request-a-relationship-with-a-customer.md).</p></td>
+<td><p>Чтобы предоставлять поддержку для учетных записей с несколькими каналами, вам необходимо запросить у клиента разрешения на управление его подписками. Сведения о том, как это сделать, см. в разделе <a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">Запрос связи с клиентом</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Службы с учетом использования</strong></p></td>
 <td>
-<p>Для клиента, у которого уже есть подписка на Microsoft Azure с другого канала, например Advisor, Open или EA, необходимо создать новую подписку Azure в Центре партнеров, вручную ввести сведения о подписке, а затем отменить отдельные службы или всю подписку.</p>
-<p>Для пользователя, у которого уже есть подписка на Microsoft Azure от другого партнера, например, можно переключить службы Azure на другого партнера. Подробнее см. в разделе [Переключение подписок Azure на другого партнера](switch-azure-subscriptions-to-a-different-partner.md).</p>
+<p>Для клиента, у которого уже есть подписка на Microsoft Azure с другого канала, например Advisor, Open, или EA, вы & #39; ответить всем необходимо создать новую подписку Azure в центре партнеров, вручную ввести сведения о подписке и затем отменить отдельные службы или всю подписку.</p>
+<p>Для пользователя, у которого уже есть подписка на Microsoft Azure от другого партнера, например, можно переключить службы Azure на другого партнера. Подробнее см. в разделе <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Переключение подписок Azure на другого партнера</a>.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
 > [!IMPORTANT]  
-> Партнер CSP в настоящий момент не может перепродавать веб-службы другому партнеру CSP. Корпорация Майкрософт постоянно пересматривает политику и возможности всех программ. Получать объявления о функции будет сообщаться посредством обычных каналов связи, в том числе в центр партнеров. 
+> Партнер CSP в настоящий момент не может перепродавать веб-службы другому партнеру CSP. Корпорация Майкрософт постоянно пересматривает политику и возможности всех программ. Получать объявления о функции будет сообщаться посредством обычных каналов связи, в том числе в центре партнеров. 
 
 ## <a name="see-also"></a>См. также:
 
@@ -60,9 +60,9 @@ ms.locfileid: "8683673"
 
 Если вы— косвенный поставщик, см. раздел [Партнерство с косвенными торговыми посредниками](indirect-provider-tasks-in-partner-center.md) 
 
- 
+ 
 
- 
+ 
 
 
 

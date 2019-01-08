@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c5a78af8e58b61ff5b0ed469eefdd172cf329306
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 8a4915f8ae0ad0d0b72f0e8b50f803fb8f84c17e
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917596"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995908"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Неплатеж, мошенничество или неправильное использование
 
@@ -83,9 +83,9 @@ ms.locfileid: "8917596"
 > [!IMPORTANT]  
 > Если Microsoft обнаружит деятельность партнера или клиента, которая является подозрительной и нарушает политику допустимого использования, мы предпримем ограничительные меры. Подписка клиента может быть немедленно приостановлена, и вы получите уведомление об ограничительных мерах или информацию относительно ваших запросов в Microsoft.
 
- 
+ 
 
- 
+ 
 
 
 

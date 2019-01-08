@@ -7,12 +7,12 @@ author: Maggie Evans
 ms.author: evensma
 keywords: Соглашения Microsoft cloud agreements, шаблоны соглашения с клиентами, соглашения с клиентами CSP, MCA, соглашения MCA, CSP, где можно продавать по программе CSP?, страны и регионы CSP, соглашения CSP MCA на нескольких языках, CSP Северная Америка, CSP Центральная Америка, CSP Южная Америка, CSP Карибы, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud в Германии, CSP Ближний Восток, CSP Африка, CSP Европа, CSP Азия, CSP Тихоокеанский регион, соглашения CSP MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: c3afd36ff14f40ec293ff8dcbda1833d56265c0b
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: 7ff679ffa3c98f17a3b39e6ca92fe3f46e119189
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990986"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8996008"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>Соглашения Microsoft Cloud по региону и языку
 
@@ -124,9 +124,9 @@ ms.locfileid: "8990986"
 
     Если вы взаимодействуете в Германии, может потребоваться предоставить этот поправка профессиональных безопасной пересылки для пользователей есть помимо соглашения Microsoft Cloud.
 
-    - [Дополнительное профессиональных безопасной пересылки соглашение Microsoft Cloud в Германии (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+  - [Дополнительное профессиональных безопасной пересылки соглашение Microsoft Cloud в Германии (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
-     - [Дополнительное профессиональных безопасной пересылки соглашение Microsoft Cloud в Германии (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+  - [Дополнительное профессиональных безопасной пересылки соглашение Microsoft Cloud в Германии (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
 - Гибралтар: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - Греция: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [греческий](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GRE_Sep20172_CR.pdf)
@@ -208,7 +208,7 @@ November 5, 2018 - commenting out this section because we've stopped accepting n
 - Израиль: [Английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)  
 - Иордан: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [арабский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
 - Кения: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)     
-- Kosovo: [English](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)
+- Косово: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)
 - Кувейт: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [арабский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)
 - Ливан: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [арабский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)
 - Лесото: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf) 
