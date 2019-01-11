@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: Поставщик служб конфигурации, прямого партнера, прямой выставления счетов, требования
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3282e925c9364d443fca52036dd8ae673a8350c3
-ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
+ms.openlocfilehash: c5bf89bd9f02dfd5a01018433bb5328e7c2a50a6
+ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/20/2018
-ms.locfileid: "8980608"
+ms.lasthandoff: 01/11/2019
+ms.locfileid: "9001684"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>Новые требования к прямым партнерам CSP
 
@@ -23,7 +23,7 @@ ms.locfileid: "8980608"
 
 ## <a name="enroll-as-a-direct-partner"></a>Регистрация в качестве прямого партнера
 
-Выступая в роли прямого партнера, вы полностью выстраиваете отношения с клиентом и с корпорацией Майкрософт. Мы обновили требования к регистрации для прямого выставления счетов партнеров начиная с 31 августа 2018 г. Эти новые требования поможет вам ускорения роста вашего бизнеса с помощью модели регистрации правильный CSP и расширяя отношениями с клиентами с помощью дополнительных услуг и поддержки. 
+Выступая в роли прямого партнера, вы полностью выстраиваете отношения с клиентом и с корпорацией Майкрософт. Мы обновили требования к регистрации для прямого выставления счетов партнеров, начиная с августа 31,2018. Эти новые требования поможет вам ускорения роста вашего бизнеса с помощью модели регистрации правильный CSP и расширяя отношениями с клиентами с помощью дополнительных услуг и поддержки. 
 
 ### <a name="minimum-requirements"></a>Минимальные требования
 
@@ -37,6 +37,7 @@ ms.locfileid: "8980608"
 
 Дополнительные сведения о получения статуса [торгового посредника CSP](https://partner.microsoft.com/cloud-solution-provider)
 
-## <a name="transition-from-direct-to-indirect-reseller"></a>Переход из пространств для непрямого торгового посредника
+<!-- for Jan 14 live date
+## Transition from direct to indirect reseller
 
-Если вы решите переместить из пространств счет бизнес бизнеса торгового, существует несколько шагов, которые необходимо выполнить. Для получения дополнительных сведений о переходе, чтение [перехода от прямого партнера поставщиков облачных решений (CSP) для торгового посредника CSP](transition-direct-to-indirect) 
+If you decide to move from a direct bill business to indirect reseller business,there are several steps you will need to take. To learn more about the transition, read [Transition from Cloud Solution Provider (CSP) direct partner to CSP indirect reseller](transition-direct-to-indirect) -->
