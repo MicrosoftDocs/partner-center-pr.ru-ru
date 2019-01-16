@@ -1,19 +1,19 @@
 ---
 title: Прямое новым требованиям партнеров CSP | Центр партнеров
 ms.topic: article
-ms.date: 12/18/2018
+ms.date: 1/14/2018
 Description: If you are currently enrolled in the CSP program as a direct partner, you should prepare to meet these updated support and services requirements.
 program.author: labrenne
 ms.author: labrenne
 keywords: Поставщик служб конфигурации, прямого партнера, прямой выставления счетов, требования
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c5bf89bd9f02dfd5a01018433bb5328e7c2a50a6
-ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
+ms.openlocfilehash: 4e4052a54ab7ddbd53f6d793512704de8aa13670
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "9001684"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011091"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>Новые требования к прямым партнерам CSP
 
@@ -37,7 +37,8 @@ ms.locfileid: "9001684"
 
 Дополнительные сведения о получения статуса [торгового посредника CSP](https://partner.microsoft.com/cloud-solution-provider)
 
-<!-- for Jan 14 live date
-## Transition from direct to indirect reseller
+## <a name="transition-from-direct-to-indirect-reseller"></a>Переход из пространств для непрямого торгового посредника
 
-If you decide to move from a direct bill business to indirect reseller business,there are several steps you will need to take. To learn more about the transition, read [Transition from Cloud Solution Provider (CSP) direct partner to CSP indirect reseller](transition-direct-to-indirect) -->
+Если вы решите переместить из пространств счет бизнес бизнеса торгового, существует несколько шагов, которые необходимо выполнить. Для получения дополнительных сведений о переходе, прочитайте [перехода от прямого партнера поставщиков облачных решений (CSP) для торгового посредника CSP](transition-direct-to-indirect.md). 
+
+См. также [Дополнительные сведения о становится косвенный Торговый посредник](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) и [прямой счет преобразуется в торгового посредника вопросы и ответы по](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).

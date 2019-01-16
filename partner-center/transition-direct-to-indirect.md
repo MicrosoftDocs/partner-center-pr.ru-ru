@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: прямой выставления счетов, переход, непрямой Торговый посредник
-ms.openlocfilehash: a4a09a4302775fb34cf45f37aed152a765e75ff8
-ms.sourcegitcommit: fe4e7cb7effea3343aec1be96a64323022822e84
+ms.openlocfilehash: f99a6bcffc3b8279ffebd00c0a6f4d834f7b4939
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2019
-ms.locfileid: "9004630"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011111"
 ---
 ## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>Перехода от прямого партнера поставщиков облачных решений (CSP) для торгового посредника CSP 
 
@@ -156,3 +156,5 @@ ms.locfileid: "9004630"
 После вы успешно зарегистрированы в качестве косвенного торгового посредника на существующему клиенту пространств выставления счетов партнера, вы получите приглашение для подачи заявки на поощрений непрямого торгового посредника в течение 30 дней. Приглашение основана на партнера MPN учетной записью, которая в настоящее время связана с вашего клиента партнера CSP. Приглашение будет отправляться электронный адрес, связанный с счет MPN партнера. 
 
 Вы также имеют право на регистрацию для каждой программы поощрений прямого выставления счетов с помощью этого же клиента партнера. Программы необходимо управлять отдельно.
+
+См. также [Дополнительные сведения о становится косвенный Торговый посредник](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) и [прямой счет преобразуется в торгового посредника вопросы и ответы по](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).
