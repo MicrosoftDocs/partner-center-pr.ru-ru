@@ -8,12 +8,12 @@ ms.author: v-petand
 keywords: azure, резервирования, виртуальная машина, управление, использование, размеры
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 04a027bf50739434f9a6d155eb8a31f4074185a7
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 344eb01f363c7a79ca27082e3eeb1531889f134b
+ms.sourcegitcommit: 15d8b6de2b8a4c7d01852f5ed3603338d4281b00
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917546"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "9014821"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a><span data-ttu-id="568d2-103">Размеры виртуальных машин Microsoft Azure для максимального использования резервирования</span><span class="sxs-lookup"><span data-stu-id="568d2-103">Microsoft Azure VM sizing for maximum reservation usage</span></span> 
 
@@ -120,7 +120,7 @@ ms.locfileid: "8917546"
 
 <span data-ttu-id="568d2-161">Вы можете получить данные об использовании резервирования с помощью API использования Azure. Так можно проверить, получает ли клиент скидку за резервирование, и посмотреть, к каким виртуальным машинам применяется эта скидка.</span><span class="sxs-lookup"><span data-stu-id="568d2-161">You can get reservation usage data with the Azure utilization API to verify that the customer is getting the reservation discount and to see which VMs (virtual machines) the discount is applied to.</span></span> <span data-ttu-id="568d2-162">Сравните проверку использования резервирования в примерах А и Б.</span><span class="sxs-lookup"><span data-stu-id="568d2-162">Compare Example A to Example B to see how to verify a customer’s reservation usage.</span></span> 
 
-![Примеры использования резервирования](images\usage5.png)
+![Примеры использования резервирования](images/usage5.png)
 
 -   <span data-ttu-id="568d2-164">Идентификатор reservationId определяет резервирование Azure, которое использовалось для применения скидки к виртуальной машине.</span><span class="sxs-lookup"><span data-stu-id="568d2-164">The reservationId identifies the Azure reservation that was used to apply the discount to the VM.</span></span>
 -   <span data-ttu-id="568d2-165">consumptionMeter — это MeterId для виртуальной машины, к которой применена скидка за резервирование.</span><span class="sxs-lookup"><span data-stu-id="568d2-165">consumptionMeter is the MeterId for the VM that has the reservation discount applied to it.</span></span>
