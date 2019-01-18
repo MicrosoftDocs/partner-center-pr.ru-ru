@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: подписка azure, изменить партнера, сменить партнера, получить нового партнера, другой партнер
 ms.localizationpriority: medium
-ms.openlocfilehash: d66e24d831aa3ea9d84138d1ca06e5e9be51742b
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: f9df7ac6c1e30f9e0d9d62c5e0c18aae529c472a
+ms.sourcegitcommit: 15d8b6de2b8a4c7d01852f5ed3603338d4281b00
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995898"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "9014811"
 ---
 # <a name="transfer-azure-subscriptions"></a>Передача подписок Azure 
 
@@ -25,8 +25,7 @@ ms.locfileid: "8995898"
 
 >[!Note]  
 >В настоящее время только прямым или косвенным поставщикам могут передача подписок.
-
->[!Note]Это не в данный момент невозможно изменить партнеров для подписок поставщика облачных решений для Office 365, Enterprise Mobility Suite и Microsoft Dynamics CRM.
+>Это не в данный момент невозможно изменить партнеров для подписок поставщика облачных решений для Office 365, Enterprise Mobility Suite и Microsoft Dynamics CRM.
 
 
 
