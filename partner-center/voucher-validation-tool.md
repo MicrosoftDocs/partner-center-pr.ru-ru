@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: training, voucher tool, validate voucher, software assurance claims, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: e1c8f12b2e3683aff69383d58e265d5ed895c2ed
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 3ee3449cc4ebde4417bd1b30c3f944ebdbb47d55
+ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015396"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "9025338"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Средство проверки операции и при использовании в центре партнеров для проверки, зарезервировать и получение ваучеры 
 
@@ -47,11 +47,13 @@ ms.locfileid: "9015396"
 ## <a name="redeem-a-voucher"></a>Использование операции
 
 Как только вы зарезервировали операции, его можно активировать. 
+
 1. В списке зарезервированных операций выберите документы, которые вы хотите использовать. 
-2. При необходимости обновить список участников и выберите **обновления**.
-3. Теперь вы увидите список **Redeemed** операции.
+2. Теперь вы увидите список **Redeemed** операции.
+
 4. Создание заявки, выберите **Создание заявки**, или на странице сведений операции, выберите **Создание заявки**.
-5. Выбрав **Создание заявки** вы перейдете на веб-средство платежа преимущество операции Software Assurance программного обеспечения (SAVB) для счета-фактуры корпорации Майкрософт.
+
+5. Выбрав **Создание заявки** вы перейдете на [Веб-средство платежа преимущество операции Software Assurance программного обеспечения (SAVB)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) для счета-фактуры корпорации Майкрософт.
 
 
 ### <a name="cancel-a-voucher"></a>Отмена операции
