@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: training, voucher tool, validate voucher, software assurance claims, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ee3449cc4ebde4417bd1b30c3f944ebdbb47d55
-ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
+ms.openlocfilehash: ede912569436c159b2dcc1661298e712f9b2065e
+ms.sourcegitcommit: daa8de3e6a269b28e77e097792ac35d70fa26461
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "9025338"
+ms.lasthandoff: 01/26/2019
+ms.locfileid: "9030074"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Средство проверки операции и при использовании в центре партнеров для проверки, зарезервировать и получение ваучеры 
 
@@ -60,7 +60,7 @@ ms.locfileid: "9025338"
 
 Существует несколько причин, вам может потребоваться отменить резервирование операции.
 
-- Предложения или программы изменено с при boucher был изначально зарезервированные.
+- Предложения или программы изменено с при операции первоначально было зарезервировано.
 
 - Включение больше не будет иметь место.
 
