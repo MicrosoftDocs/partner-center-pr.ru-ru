@@ -1,26 +1,28 @@
 # [Сведения о Центре партнеров Майкрософт](index.md)
 
 # [Членство в Partner Network](mpn-overview.md)
-## [Переход от PMC к Центру партнеров](pmc-to-partner-center.md)
 ## [Создание учетной записи Центра партнеров](mpn-create-a-partner-center-account.md)
 ## Предложения в рамках членства
 ### [Пакет Action Pack](mpn-get-action-pack.md)
 ### [Продление подписок на предложения](renew-mpn-offers.md)
 ## [Компетенции](learn-about-competencies.md)
 ## [Преимущества](manage-your-partner-network-benefits.md)
-
+## [Программы Software Assurance](software-assurance-lp.md)
+### [Ваучерная программа обучения Software Assurance (SATV) в Центре партнеров](software-assurance-satv.md)
+### [Используйте средство проверки и погашения ваучеров в Центре партнеров для проверки, резервирования и погашения ваучеров](voucher-validation-tool.md)
+### [Вопросы и ответы: использование средства проверки и погашения ваучеров](vvr-faq.md)
+### [Службы планирования Software Assurance в Центре партнеров ](software-assurance-dps.md)
 
 # [Поставщик облачных решений](csp-overview.md)
 ## [Регистрация в программе поставщиков облачных решений](enrolling-in-the-csp-program.md)
 ## [Новые требования к прямым партнерам CSP](direct-partner-new-requirements.md) 
-## [Переход от прямого партнера в программе поставщиков облачных решений (CSP) к косвенному торговому посреднику CSP](transition-direct-to-indirect.md)
-## [Регистрация в качестве поставщика панелей управления](enroll-as-cpv.md)
-###[Для получения доступа к этой странице необходимо включить многофакторную идентификацию (MFA) в своем клиенте](enable-mfa.md)
+##[Переход со статуса партнера с прямым выставлением счетов на статус косвенного торгового посредника в рамках программы поставщиков облачных решений CSP](transition-direct-to-indirect.md)
 ## [Соглашения, прейскуранты и предложения CSP](csp-documents-and-learning-resources.md)
-## [Региональные рынки и валюты CSP](regional-authorization-overview.md)
-## [Соглашения Microsoft Cloud по региону и языку](agreements.md)
+## [Обзор региональной авторизации CSP](regional-authorization-overview.md)
+## [Консолидация клиента региональной авторизации CSP](csp-regional-authorization-tenant-consolidation.md)
+## [Шаблоны соглашений с клиентом](agreements.md)
 
-## [Национальные облака](csp-national-clouds-overview.md)
+## [Примените, чтобы осуществлять продажи в национальных облаках](csp-national-clouds-overview.md)
 ### [Центр партнеров для Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
 ### [Центр партнеров Microsoft Cloud для Германии](partner-center-for-microsoft-cloud-germany.md)
 
@@ -44,10 +46,9 @@
 ### [Создание и администрирование заявок на компенсацию средств в рамках программы поощрения](create-incentives-claims.md)
 ### [Основные требования, предъявляемые к заявкам на компенсацию средств в рамках программы поощрений](core-requirements.md)
 ### [Обзор выплат по заявкам на компенсацию средств в рамках программы поощрения](incentives-payouts.md)
-## [Программа Azure Expert Microsoft Services Provider](azure-expert-msp.md)
+
 
 # [Выставление счетов и налоги](billing.md)
-## [Обзор выставления счетов для партнеров CSP](billing-basics.md)
 ## [Вопросы и ответы по новым возможностям выставления счетов](faq-about-new-billing-features.md)
 ## [Просмотр счета](read-your-bill.md)
 ## [Использование файлов выверки](use-the-reconciliation-files.md)
@@ -84,12 +85,10 @@
 ### [Перенос клиентов служб на основе лицензий в программу поставщиков облачных услуг](transition-seat-based-services.md)
 ### [Продажа подписок Minecraft: Education Edition](minecraft-subscriptions.md)
 ### [Продажи представителям определенных отраслей](Get-special-pricing-for-offers.md)
-### [Продажа Office 365 для государственных организаций в средах GCC соответствующим государственным организациям](csp-gcc-overview.md)
 ### [Повышение популярности и уровня удовлетворенности](increasing-adoption-and-satisfaction.md)
 ### [Упрощение настройки устройств с помощью Windows Autopilot](autopilot.md)
 ##  Обновление или перенос предложений в более поздние версии
-### [Перенос Dynamics 365 и плана Customer Engagement с "Базового" уровня (соответствующие предложения) в более новые версии](manual-subscription-migration.md)
-### [Перенос предложений с выпуском Dynamics 365 Business в более новые версии](migrate-dynamics-365-to-new.md)
+### [Обновление подписок Dynamics AX до Dynamics 365](manual-subscription-migration.md)
 ### [Перенос подписок Office 365 корпоративный E4 в новые версии Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [Перенос Плана 1 для Skype для бизнеса Online в новые версии Office 365](skype-retiring.md)
 ### [Перенос подписок Azure](switch-azure-subscriptions-to-a-different-partner.md)
