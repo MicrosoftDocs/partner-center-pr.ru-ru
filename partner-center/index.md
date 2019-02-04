@@ -4,21 +4,21 @@ hide_bc: true
 title: Справка с центром партнеров
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: Справка центра партнеров для развития партнерского бизнеса в программе поставщиков облачных решений Майкрософт. Настройте учетную запись, связь с клиентами, приобретение подписки Action Pack и найти дополнительные сведения для партнеров в программе CSP и MPN. 
+description: Центр партнеров помогут вам развивать свой бизнес в рамках программы поставщиков облачных решений (CSP) Майкрософт. Настройте учетную запись, связь с клиентами, приобретение подписки Action Pack и найти дополнительные сведения для партнеров в программе CSP и MPN. 
 author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f15360e6d1c8f03a856fc97e78e854d2496a4e9
-ms.sourcegitcommit: c937b024b2151c8ed5a69a354b731fd2db44a570
+ms.openlocfilehash: d2070ff75dfa1197349b2cfdf55e5b06aeb4d8ea
+ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/29/2019
-ms.locfileid: "9035474"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043571"
 ---
-# <a name="partner-center-help"></a>Справка Центра партнеров
+# <a name="welcome-to-partner-center"></a>Добро пожаловать в центр партнеров
 
-У вас есть вопросы о том, советы и рекомендации по управлению учетной записи, взаимодействию с клиентами, покупке подписки Action Pack, регистрация в программе поощрений? Найдите ответы в центре партнеров обеспечения библиотеки.
+Центр партнеров Майкрософт — это ваш централизованно управлять начала до конца отношения с Майкрософт. Он имеет средства и ресурсы, которые помогут вам продавать и развивать свой бизнес, включая параметры членством, рекомендациями клиентов и в программе поставщиков облачных решений (CSP). Сведения о рекомендациях по управлению учетной записи, взаимодействию с клиентами и покупке подписки Action Pack регистрации в программе поощрений в центре партнеров Библиотека справки.
 
 
 <ul id="products1" class="cardsF cols cols3 panelContent singlePanelContent">
@@ -27,7 +27,7 @@ ms.locfileid: "9035474"
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
-                        <div class="cardImage bgdAccent1">
+                        <div class="cardImage">
                             <img alt="" src="images/message-icon.png" data-linktype="external">
                         </div>
                     </div>
@@ -45,7 +45,7 @@ ms.locfileid: "9035474"
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
-                        <div class="cardImage bgdAccent1">
+                        <div class="cardImage">
                             <img alt="" src="images/yammer-logo.png" data-linktype="external">
                         </div>
                     </div>
