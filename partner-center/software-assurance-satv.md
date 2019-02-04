@@ -7,14 +7,14 @@ author: labrenne
 ms.author: labrenne
 keywords: ваучеры на обучение, программа software assurance, обучение, зарегистрироваться в SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0183f63272c06a9b2bcfeffd89b319258c657bfb
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 305ee8fad4de9f9928dd07ee49dd4f4703d0bcc1
+ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015392"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043591"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Программа Software Assurance обучение операции (SATV) в центре партнеров
+# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Ваучерная программа обучения Software Assurance (SATV) в Центре партнеров
 
 Развивайте свой бизнес, регистрации в программе Software Assurance партнерские программы. Microsoft компенсация партнерами для предоставления обучения, планирования и другие службы для корпоративных клиентов, которым имеет Software Assurance. 
 
@@ -72,7 +72,7 @@ ms.locfileid: "9015392"
 
 ## <a name="reserve-and-redeem-training-vouchers"></a>Резервирование и получение ваучеры на обучение
 
-Теперь вы можете зарезервировать и получение ваучеры и начать обучение клиентов. Имеет доступ к средству операции проверки и при использовании (VVR) в центре партнеров и можете добавить пользователей, которым необходимо работать в средстве администратора MPN вашей компании. Дополнительные сведения о VVR [Управление операции в операции проверки и при использовании средства](voucher-validation-tool)см.
+Теперь вы можете зарезервировать и получение ваучеры и начать обучение клиентов. Имеет доступ к средству операции проверки и при использовании (VVR) в центре партнеров и можете добавить пользователей, которым необходимо работать в средстве администратора MPN вашей компании. Дополнительные сведения о VVR [Управление операции в операции проверки и при использовании средства](voucher-validation-tool.md)см.
 
 >[!Note]
 >Средство VVR переместилась в центр партнеров. Начиная с марта 2019 г. будет действовать старого веб-сайта средства VVR.
