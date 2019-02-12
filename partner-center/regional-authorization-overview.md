@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: CSP рынков, территории, где можно i продажи и предложения CSP, регионы, продавать облачные решения, глобальные поставщики облачных Решений
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 456a37e965d7594e29df47437dedb587bff46db3
-ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
+ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
+ms.sourcegitcommit: 004edfd8633620e6b0e0558d818e0dbf32be9e88
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/20/2018
-ms.locfileid: "8980628"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "9065611"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Облачные региональных рынков, программа для поставщиков решений и валют
 
@@ -28,6 +28,14 @@ ms.locfileid: "8980628"
 > С 7 ноября 2018 г. необходимо убедиться, что пользователь принял Microsoft Cloud Agreement, предоставляя информацию о лица, подписавшего. Дополнительные сведения см. [Подтверждение клиента принятие соглашения Microsoft Cloud](confirm-consent.md) .
 
 Чтобы определить, где вы можете продавать предложения CSP, определение местоположения вашей компании в одном из списков ниже. Необходимо иметь активные идентификатор Microsoft Partner Network (MPN) для продажи в нужное место.  
+
+## <a name="for-unsupported-countries"></a>Неподдерживаемые стран
+
+Если вашей страны не поддерживается, установите клиент связи CSP с помощью URL-адрес администратора Office. 
+
+- Партнеры пространств счет использовать следующий URL-адрес: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0. Замените **partnertenantguid** с вашим идентификатором клиента. 
+
+- URL-адрес торговых посредников —: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid. Необходимо будет заменить **IRtenantguid** с вашим идентификатором клиента. Замените **IRMPNID** идентификатор MPN, а **IPtenantguid** на идентификатор клиента косвенным поставщиком.
 
 ## <a name="africa-region-and-market"></a>Африка региона и рынка
 
@@ -375,9 +383,9 @@ ms.locfileid: "8980628"
 |  Россия         |    Рубль (RUB)   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>Тайвань региона и рынка
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+Если вашей компании нацелены на Тайвань, вы можете продавать предложения CSP клиентам в Тайване.
 
 |  Страна или регион | Валюта |
 |  -------------- |:--------:|
