@@ -9,12 +9,12 @@ author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: d2070ff75dfa1197349b2cfdf55e5b06aeb4d8ea
-ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
+ms.openlocfilehash: 2dbf6aed32caa3b9dd9cfa3047762a4a945ba833
+ms.sourcegitcommit: 9db33fec9bee98b270d5a6d457dad628481bbcd7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "9043571"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "9066054"
 ---
 # <a name="welcome-to-partner-center"></a>Добро пожаловать в центр партнеров
 
@@ -86,8 +86,8 @@ ms.locfileid: "9043571"
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/software-assurance-lp">
-                        <h3>Программы Software assurance</h3>
-                        <p>Теперь вы сможете зарегистрироваться в обучение Software assurance программного обеспечения и служб перед развертыванием в центре партнеров.</p></a>
+                        <h3>Программы Software Assurance</h3>
+                        <p>Теперь вы сможете зарегистрироваться в программе Software Assurance обучение и развертывание служб в центре партнеров.</p></a>
                     </div>
                 </div>
             </div>
