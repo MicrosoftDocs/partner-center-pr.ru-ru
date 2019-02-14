@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: руководства по программе csp, руководство по программе, партнерские соглашения, соглашение с клиентом, прейскуранты, предложения
 ms.localizationpriority: medium
-ms.openlocfilehash: a58edd5c7643c5c72f12672d1e289d4266b2af23
-ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
+ms.openlocfilehash: 56d18f008237b7d9959afc545f28e67f9b4f72b2
+ms.sourcegitcommit: ba76262db7a479b188f22de823b882f70cdf61c8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "9000054"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "9075187"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Руководство по программе облако поставщиков решений, соглашения, прайс-листы и предложения
 
@@ -41,7 +41,7 @@ ms.locfileid: "9000054"
 
 [Соглашение торгового посредника для облачной платформы Майкрософт — Северная Америка, Центральная Америка, Латинская Америка и Карибский бассейн](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[Соглашение торгового посредника для облачной платформы Майкрософт — Азия, Австралия и Тихоокеанский регион](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Sep2018_CR.pdf)
+[Соглашение торгового посредника для облачной платформы Майкрософт — Азия, Австралия и Тихоокеанский регион](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
 [Соглашение торгового посредника для облачной платформы Майкрософт — Европа, Ближний Восток и Африка](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
@@ -51,7 +51,7 @@ ms.locfileid: "9000054"
 
 [Соглашение торгового посредника для облачной платформы Майкрософт — Тайвань](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Соглашение торгового посредника для облачной платформы Майкрософт — Microsoft Cloud для правительства США](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
+[Соглашение торгового посредника для облачной платформы Майкрософт — Microsoft Cloud для правительства США](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
 
 ## <a name="microsoft-cloud-agreement-templates"></a>Шаблоны соглашения Microsoft Cloud

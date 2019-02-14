@@ -7,12 +7,12 @@ author: Maggie Evans
 ms.author: evensma
 keywords: Соглашения Microsoft cloud agreements, шаблоны соглашения с клиентами, соглашения с клиентами CSP, MCA, соглашения MCA, CSP, где можно продавать по программе CSP?, страны и регионы CSP, соглашения CSP MCA на нескольких языках, CSP Северная Америка, CSP Центральная Америка, CSP Южная Америка, CSP Карибы, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud в Германии, CSP Ближний Восток, CSP Африка, CSP Европа, CSP Азия, CSP Тихоокеанский регион, соглашения CSP MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ff679ffa3c98f17a3b39e6ca92fe3f46e119189
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 3fb51af0561a0a33ef618e4e748f584daeed551c
+ms.sourcegitcommit: ba76262db7a479b188f22de823b882f70cdf61c8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8996008"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "9075207"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>Соглашения Microsoft Cloud по региону и языку
 
@@ -96,7 +96,7 @@ ms.locfileid: "8996008"
 - Виргинские острова, США: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 
 ## <a name="microsoft-cloud-for-us-government"></a>Microsoft Cloud для правительства США
- - США: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017_NAOC_USGCC_ENG_Mar2018_CR.pdf)
+ - США: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017_NAOC_USGCC_ENG_Feb2019_CR.pdf)
 
 ## <a name="europe"></a>Европа
 - Аландские острова: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
@@ -208,7 +208,7 @@ November 5, 2018 - commenting out this section because we've stopped accepting n
 - Израиль: [Английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)  
 - Иордан: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [арабский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
 - Кения: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)     
-- Kosovo: [English](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)
+- Косово: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)
 - Кувейт: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [арабский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)
 - Ливан: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [арабский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)
 - Лесото: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf) 
@@ -253,16 +253,16 @@ November 5, 2018 - commenting out this section because we've stopped accepting n
 - Острова Кука: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf) 
 - Фиджи: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)    
 - О-ва Херд и Макдональд: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf) 
-- Гонконг (САР): [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [китайский (традиционное письмо)](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_CHT_Sep20172_CR.pdf)     
-- Индия: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [хинди](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_HIN_Sep20172_CR.pdf)    
-- Индонезия: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [индонезийский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_IND_Sep20172_CR.pdf)  
+- Гонконг (САР): [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [китайский (традиционное письмо)](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_CHT_Mar2019_CR.pdf)     
+- Индия: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [хинди](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_HIN_Mar2019_CR.pdf)    
+- Индонезия: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [индонезийский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_IND_Mar2019_CR.pdf)  
 - Япония: [Английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf) , [Японский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_JPN_JPN_Sep20172_CR.pdf)    
-- Казахстан: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [казахский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_KAZ_Sep20172_CR.pdf)  
+- Казахстан: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [казахский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_KAZ_Mar2019_CR.pdf)  
 - Кирибати: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf) 
 - Киргизия: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [русский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_RUS_Sep20172_CR.pdf)  
 - Лаос: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
-- Макао (САР): [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [китайский (традиционное письмо)](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_CHT_Sep20172_CR.pdf)
-- Малайзия: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [бахаса (малайский)](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_MSL_Sep20172_CR.pdf)  
+- Макао (САР): [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [китайский (традиционное письмо)](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_CHT_Mar2019_CR.pdf)
+- Малайзия: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [бахаса (малайский)](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_MSL_Mar2019_CR.pdf)  
 - Мальдивские о-ва: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
 - Маршалловы о-ва: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
 - Микронезия: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
@@ -288,7 +288,7 @@ November 5, 2018 - commenting out this section because we've stopped accepting n
 - Токелау: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
 - Тонга: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
 - Тувалу: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
-- Узбекистан: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [русский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_RUS_Sep20172_CR.pdf) 
+- Узбекистан: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [русский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_RUS_Mar2019_CR.pdf) 
 - Вануату: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
-- Вьетнам: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [вьетнамский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_VIT_Sep20172_CR.pdf) 
+- Вьетнам: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf), [вьетнамский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_VIT_Mar2019_CR.pdf) 
 - Уоллис и Футуна: [французский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_FRE_Sep20172_CR.pdf)

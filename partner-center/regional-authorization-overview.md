@@ -330,7 +330,7 @@ ms.locfileid: "9065611"
 |  Израиль         |   Доллар США (USD)    |
 |  Иордания         |          |
 |  Казахстан     |   Доллар США (USD)    |
-|  Косово         |   Доллар США (USD)    |
+|  Kosovo         |   Доллар США (USD)    |
 |  Кувейт         |   Доллар США (USD)    |
 |  Киргизия     |   Доллар США (USD)    |
 |  Ливан        |   Доллар США (USD)    |
@@ -383,9 +383,9 @@ ms.locfileid: "9065611"
 |  Россия         |    Рубль (RUB)   |
 |
 
-## <a name="taiwan-region-and-market"></a>Тайвань региона и рынка
+## <a name="taiwan-region-and-market"></a>Taiwan region and market
 
-Если вашей компании нацелены на Тайвань, вы можете продавать предложения CSP клиентам в Тайване.
+If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
 
 |  Страна или регион | Валюта |
 |  -------------- |:--------:|
