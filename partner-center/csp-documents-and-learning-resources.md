@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: руководства по программе csp, руководство по программе, партнерские соглашения, соглашение с клиентом, прейскуранты, предложения
 ms.localizationpriority: medium
-ms.openlocfilehash: 56d18f008237b7d9959afc545f28e67f9b4f72b2
-ms.sourcegitcommit: ba76262db7a479b188f22de823b882f70cdf61c8
+ms.openlocfilehash: 3ce6421c103f0f52113dc41ffc3427e7222ceb36
+ms.sourcegitcommit: a9e9b1d1f77922e7aa8a2f900a5ac3ade439dff8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "9075187"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "9079262"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Руководство по программе облако поставщиков решений, соглашения, прайс-листы и предложения
 
@@ -56,9 +56,9 @@ ms.locfileid: "9075187"
 
 ## <a name="microsoft-cloud-agreement-templates"></a>Шаблоны соглашения Microsoft Cloud
 
-Как партнер в CSP вы несете ответственность за проверку условий Майкрософт, включая условия допустимого использования продуктов и служб Майкрософт. Перейдите по ссылке ниже, чтобы найти Microsoft Cloud Agreement, вам потребуется ознакомьтесь с новыми клиентами. 
+Как партнер в CSP вы несете ответственность за проверку условий Майкрософт, включая условия допустимого использования продуктов и служб Майкрософт. Перейдите к Microsoft Cloud Agreement [шаблоны с клиентами](agreements.md) для поиска Microsoft Cloud Agreement, вам потребуется ознакомьтесь с новыми клиентами. 
 
-Microsoft Cloud Agreement [шаблоны клиентов](agreements.md)
+
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Поправка профессиональных безопасной пересылки для соглашение Microsoft Cloud (Германия)
 
