@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: руководства по программе csp, руководство по программе, партнерские соглашения, соглашение с клиентом, прейскуранты, предложения
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ce6421c103f0f52113dc41ffc3427e7222ceb36
-ms.sourcegitcommit: a9e9b1d1f77922e7aa8a2f900a5ac3ade439dff8
+ms.openlocfilehash: f4ac831773af2b23500f08bf5dbc2324a5184456
+ms.sourcegitcommit: 3a613625812d9f6d2ac74d2ef17ced7cdccb0684
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 02/15/2019
-ms.locfileid: "9079262"
+ms.locfileid: "9079733"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Руководство по программе облако поставщиков решений, соглашения, прайс-листы и предложения
 
@@ -43,6 +43,8 @@ ms.locfileid: "9079262"
 
 [Соглашение торгового посредника для облачной платформы Майкрософт — Азия, Австралия и Тихоокеанский регион](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
+
+
 [Соглашение торгового посредника для облачной платформы Майкрософт — Европа, Ближний Восток и Африка](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
 [Соглашение торгового посредника для облачной платформы Майкрософт — Япония](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
@@ -57,6 +59,7 @@ ms.locfileid: "9079262"
 ## <a name="microsoft-cloud-agreement-templates"></a>Шаблоны соглашения Microsoft Cloud
 
 Как партнер в CSP вы несете ответственность за проверку условий Майкрософт, включая условия допустимого использования продуктов и служб Майкрософт. Перейдите к Microsoft Cloud Agreement [шаблоны с клиентами](agreements.md) для поиска Microsoft Cloud Agreement, вам потребуется ознакомьтесь с новыми клиентами. 
+
 
 
 
