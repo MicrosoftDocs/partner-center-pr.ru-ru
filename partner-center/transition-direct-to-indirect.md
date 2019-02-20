@@ -7,17 +7,17 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: прямой выставления счетов, переход, непрямой Торговый посредник
-ms.openlocfilehash: 8a114829c5460bf169938e69de65a69996dc4010
-ms.sourcegitcommit: 8ab406beefbfd0965ed35d8dfe064b682162a5fa
+ms.openlocfilehash: b8e7f4f13f3c3ef3bf0525f22ea74f80df8ed0d7
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "9024916"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083377"
 ---
-## <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Переход от поставщиков облачных решений (CSP) направлять выставления счета партнера для торгового посредника CSP 
-
 **Область применения**
  - Партнеры CSP
+
+# <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Переход со статуса партнера с прямым выставлением счетов на статус косвенного торгового посредника в рамках программы поставщиков облачных решений CSP 
 
 >[!Note] 
 >Эта статья предназначена для партнеров прямого выставления счетов, которые решили перехода к торговых посредников. 
