@@ -5,14 +5,14 @@ ms.date: 10/29/2018
 Description: As a partner, you need to obtain your customer’s acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer. To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing certain details regarding the person who accepted the agreement.
 author: v-petand
 ms.author: v-petand
-keywords: Клиент, клиенты, согласия
+keywords: Клиент, клиенты, согласны, MCA, соглашения Microsoft Cloud, шаблоны соглашений с клиентами
 ms.localizationpriority: medium
-ms.openlocfilehash: 356782420046cb8b49ac4e05981becd253d7049a
-ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
+ms.openlocfilehash: 0cadf9462152786fd5cb5c70f7bd787caf85658b
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "9000034"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083197"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Подтверждение клиента принятие соглашения Microsoft Cloud
 
@@ -31,7 +31,7 @@ ms.locfileid: "9000034"
 
 -   Дата принятия
 
-Дополнительные сведения см. в разделе [подтверждения принятия клиента Microsoft Cloud Agreement вопросы и ответы](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq).
+Дополнительные сведения см. в разделе подтверждения принятия клиента Microsoft Cloud Agreement [Вопросы и ответы](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq).
 
 ## <a name="schedule"></a>Расписание
 
@@ -63,7 +63,8 @@ ms.locfileid: "9000034"
 
 ### <a name="confirm-customer-acceptance-for-a-new-customer"></a>Подтверждение принятия клиента для нового клиента
 
-Выполните следующие действия для подтверждения принятия клиента при создании нового клиента клиента в центре партнеров. Обратите внимание, что вы должны быть агент администратора или агента продаж для этого. 
+Выполните следующие действия для подтверждения принятия клиента при создании нового клиента клиента в центре партнеров. Обратите внимание, что вы должны быть агент администратора или агента продаж для этого.
+ 
 1.  Выберите **пользователей**, а затем **нового клиента** , а затем выберите **сведения об учетной записи**.
 
 2.  Введите сведения об **организации** и **основное контактное лицо**.
@@ -79,7 +80,6 @@ ms.locfileid: "9000034"
 ![Добавление даты принятия](images/mca/MCA3.png)
 
 По умолчанию отображается основного контактного пользовательских данных. Если это сделать неправильно, выберите **обновления** , а затем введите **имя**, **фамилию**, **адрес электронной почты**, и **номер телефона* (необязательно пользователя, который принятия соглашения).
-
 
 6.  Выберите **Далее** выполните оставшиеся шаги для создания в клиенте пользователя.
 

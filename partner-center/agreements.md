@@ -5,14 +5,14 @@ ms.date: 11/03/2018
 description: Найти и загрузить версии конкретного языка и региона соглашения Microsoft Cloud для просмотра с клиентами.
 author: Maggie Evans
 ms.author: evensma
-keywords: Соглашения Microsoft cloud agreements, шаблоны соглашения с клиентами, соглашения с клиентами CSP, MCA, соглашения MCA, CSP, где можно продавать по программе CSP?, страны и регионы CSP, соглашения CSP MCA на нескольких языках, CSP Северная Америка, CSP Центральная Америка, CSP Южная Америка, CSP Карибы, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud в Германии, CSP Ближний Восток, CSP Африка, CSP Европа, CSP Азия, CSP Тихоокеанский регион, соглашения CSP MCA
+keywords: Соглашения Microsoft cloud, шаблоны соглашений с клиентами, CSP соглашения с клиентами, соглашения Microsoft Cloud, MCA, CSP, где можно осуществлять продажи через CSP?, CSP стран и регионов, MCAs CSP на нескольких языках, CSP Северная Америка, CSP Центральная Америка, CSP Южная Америка, CSP Карибский бассейн, CSP Microsoft Cloud для правительства США, CSP Microsoft Cloud в Германии, CSP Ближний Восток, CSP Африка, CSP Европа, CSP Азия, CSP Тихоокеанский регион, CSP MCAs
 ms.localizationpriority: medium
-ms.openlocfilehash: 3fb51af0561a0a33ef618e4e748f584daeed551c
-ms.sourcegitcommit: ba76262db7a479b188f22de823b882f70cdf61c8
+ms.openlocfilehash: a9434756a5c35c84da4d316a9d5fe8a242864440
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "9075207"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083207"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>Соглашения Microsoft Cloud по региону и языку
 
@@ -38,6 +38,7 @@ ms.locfileid: "9075207"
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>Северная Америка, Центральная Америка, Латинская Америка и Карибский бассейн
 
 - Американское Самоа: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
+
 - Ангилья: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - Антарктида: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - Антигуа и Барбуда: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
@@ -178,8 +179,8 @@ November 5, 2018 - commenting out this section because we've stopped accepting n
 -->
 
 ## <a name="middle-east-and-africa"></a>Ближний Восток и Африка
-- Алжир: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [французский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_FRE_Sep20172_CR.pdf), [арабский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
-
+- Алжир: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [французский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_FRE_Sep20172_CR.pdf), [арабский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)
+ 
 - Ангола: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [португальский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_PTE_Sep20172_CR.pdf)     
 - Бахрейн: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [арабский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
 - Бенин: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)
@@ -208,7 +209,7 @@ November 5, 2018 - commenting out this section because we've stopped accepting n
 - Израиль: [Английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)  
 - Иордан: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [арабский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
 - Кения: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)     
-- Kosovo: [English](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)
+- Косово: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)
 - Кувейт: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [арабский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)
 - Ливан: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [арабский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)
 - Лесото: [английский](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf) 

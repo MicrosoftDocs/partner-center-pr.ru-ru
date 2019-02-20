@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: руководства по программе csp, руководство по программе, партнерские соглашения, соглашение с клиентом, прейскуранты, предложения
 ms.localizationpriority: medium
-ms.openlocfilehash: f4ac831773af2b23500f08bf5dbc2324a5184456
-ms.sourcegitcommit: 3a613625812d9f6d2ac74d2ef17ced7cdccb0684
+ms.openlocfilehash: 9f3e7b1a72e5c47ab2cbd5ef418a061e317c38e0
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "9079733"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083147"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Руководство по программе облако поставщиков решений, соглашения, прайс-листы и предложения
 
@@ -27,13 +27,12 @@ ms.locfileid: "9079733"
 
 ## <a name="cloud-solution-provider-program-guide"></a>Руководство по программе поставщиков облачных решений
 
-
 Ознакомьтесь с требованиями для получения статуса партнера в программе поставщиков облачных решений.
 
 [Руководство по программе для партнеров по программе поставщиков облачных решений](http://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
->Если требуется букву состояния сертификации или подтверждения вы можете запросить, [обратитесь в службу поддержки](https://partner.microsoft.com/pcv/servicerequests/create).
+>Если требуется букву бизнеса подтверждение или сертификация вашего статуса как утвержденного партнера корпорации Майкрософт в рамках программы поставщиков облачных решений, [обратитесь в службу поддержки](https://partner.microsoft.com/pcv/servicerequests/create) запрос один.
 
 ## <a name="cloud-solution-provider-partner-agreement"></a>Поставщик облачных решений — соглашение партнера
 
@@ -42,8 +41,6 @@ ms.locfileid: "9079733"
 [Соглашение торгового посредника для облачной платформы Майкрософт — Северная Америка, Центральная Америка, Латинская Америка и Карибский бассейн](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
 [Соглашение торгового посредника для облачной платформы Майкрософт — Азия, Австралия и Тихоокеанский регион](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
-
-
 
 [Соглашение торгового посредника для облачной платформы Майкрософт — Европа, Ближний Восток и Африка](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
@@ -55,13 +52,12 @@ ms.locfileid: "9079733"
 
 [Соглашение торгового посредника для облачной платформы Майкрософт — Microsoft Cloud для правительства США](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
+## <a name="microsoft-cloud-agreement-customer-templates"></a>Шаблоны с клиентами Microsoft Cloud Agreement
 
-## <a name="microsoft-cloud-agreement-templates"></a>Шаблоны соглашения Microsoft Cloud
+Прежде чем разместить заказ от имени клиента, клиент должен принять и подписать применимые соглашения Microsoft Cloud. Соглашения Microsoft Cloud конкретного региона и доступны на нескольких языках. Перейдите к Microsoft Cloud Agreement [шаблоны с клиентами](agreements.md) для поиска Microsoft Cloud Agreement, вам потребуется ознакомьтесь с новыми клиентами.
 
-Как партнер в CSP вы несете ответственность за проверку условий Майкрософт, включая условия допустимого использования продуктов и служб Майкрософт. Перейдите к Microsoft Cloud Agreement [шаблоны с клиентами](agreements.md) для поиска Microsoft Cloud Agreement, вам потребуется ознакомьтесь с новыми клиентами. 
-
-
-
+>[!IMPORTANT]
+>Необходимо убедиться, что пользователь принял Microsoft Cloud Agreement, предоставляя информацию о лица, подписавшего. Дополнительные сведения см. [Подтверждение клиента принятие соглашения Microsoft Cloud](confirm-consent.md) и [подтверждения принятия клиента Microsoft Cloud Agreement вопросы и ответы](confirm-consent-faq.md) .
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Поправка профессиональных безопасной пересылки для соглашение Microsoft Cloud (Германия)
 
