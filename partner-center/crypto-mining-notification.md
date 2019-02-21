@@ -8,12 +8,12 @@ ms.author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: cfc9dd5592b9b4da631f316f8b5d56ee965e6e51
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4cd56641a44cab84796ae051584e1e1cca63d3ff
+ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796167"
+ms.lasthandoff: 02/21/2019
+ms.locfileid: "9086722"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Уведомление центра партнеров для майнинга криптовалют
 
@@ -24,7 +24,7 @@ ms.locfileid: "5796167"
 
 Вам может быть предоставлено следующее уведомление о майнинге криптовалют на центр партнеров:
  
-![](images/crypto1.png)
+![Изображение уведомления безопасности в центре партнеров](images/crypto1.png)
 
 Цель данного уведомления — сообщить о том, что в течение прошлой недели были обнаружены попытки майнинга криптовалют в одной или нескольких подписках Azure. Майнинг криптовалют не всегда указывает на мошенничество. Тем не менее, это нетипичная ситуация, поскольку затраты на майнинг криптовалют в Azure, как правило, превышают потенциальные финансовые выгоды. Чтобы защитить себя и своих клиентов от финансового мошенничества, рекомендуется принять следующие меры:
 
@@ -37,7 +37,7 @@ ms.locfileid: "5796167"
 Если это нормальная активность, вернитесь к странице сведений о подписке Azure этого клиента и подтвердите законность майнинга криптовалют. 
 
 
-![](images/crypto2.png)
+![Изображение страницы сведений подписки Azure клиента](images/crypto2.png)
 
 Если эта активность нетипична, рекомендуется сделать следующее:
 

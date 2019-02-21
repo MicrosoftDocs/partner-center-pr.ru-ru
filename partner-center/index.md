@@ -4,18 +4,13 @@ hide_bc: true
 title: Справка с центром партнеров
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: Центр партнеров помогут вам развивать свой бизнес в рамках программы поставщиков облачных решений (CSP) Майкрософт. Настройте учетную запись, связь с клиентами, приобретение подписки Action Pack и найти дополнительные сведения для партнеров в программе CSP и MPN. 
+description: "Центр партнеров помогут вам развивать свой бизнес в рамках программы поставщиков облачных решений (CSP) Майкрософт. Настройте учетную запись, связь с клиентами, приобретение подписки Action Pack и найти дополнительные сведения для партнеров в программе CSP и MPN.\_"
 author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 2dbf6aed32caa3b9dd9cfa3047762a4a945ba833
-ms.sourcegitcommit: 9db33fec9bee98b270d5a6d457dad628481bbcd7
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9066054"
 ---
+
 # <a name="welcome-to-partner-center"></a>Добро пожаловать в центр партнеров
 
 Центр партнеров Майкрософт — это ваш централизованно управлять начала до конца отношения с Майкрософт. Он имеет средства и ресурсы, которые помогут вам продавать и развивать свой бизнес, включая параметры членством, рекомендациями клиентов и в программе поставщиков облачных решений (CSP). Сведения о рекомендациях по управлению учетной записи, взаимодействию с клиентами и покупке подписки Action Pack регистрации в программе поощрений в центре партнеров Библиотека справки.
@@ -28,7 +23,7 @@ ms.locfileid: "9066054"
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/message-icon.png" data-linktype="external">
+                            <img alt="Message icon" src="images/message-icon.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -46,7 +41,7 @@ ms.locfileid: "9066054"
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/yammer-logo.png" data-linktype="external">
+                            <img alt="Yammer logo" src="images/yammer-logo.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -64,7 +59,7 @@ ms.locfileid: "9066054"
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/i_api.png" data-linktype="external">
+                            <img alt="API icon" src="images/i_api.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -129,7 +124,7 @@ ms.locfileid: "9066054"
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
+                            <img alt="Get started icon" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -146,7 +141,7 @@ ms.locfileid: "9066054"
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
+                            <img alt="Connection icon" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -163,7 +158,7 @@ ms.locfileid: "9066054"
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
+                            <img alt="Scenario icon" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -186,7 +181,7 @@ ms.locfileid: "9066054"
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
+                            <img alt="Get started icon" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -202,7 +197,7 @@ ms.locfileid: "9066054"
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
+                            <img alt="API icon" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
                         </div>
                     </div>                
                     <div class="cardText">
@@ -218,7 +213,7 @@ ms.locfileid: "9066054"
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
+                            <img alt="Benefits icon" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
