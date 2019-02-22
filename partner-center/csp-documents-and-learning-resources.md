@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: руководства по программе csp, руководство по программе, партнерские соглашения, соглашение с клиентом, прейскуранты, предложения
 ms.localizationpriority: medium
-ms.openlocfilehash: 9f3e7b1a72e5c47ab2cbd5ef418a061e317c38e0
-ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
+ms.openlocfilehash: 4300da2261618474e44f28fd8aba0dbf50817313
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083147"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098771"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a><span data-ttu-id="09cf1-104">Руководство по программе облако поставщиков решений, соглашения, прайс-листы и предложения</span><span class="sxs-lookup"><span data-stu-id="09cf1-104">Cloud Solution Provider program guide, agreements, price lists, and offers</span></span>
 
@@ -29,7 +29,7 @@ ms.locfileid: "9083147"
 
 <span data-ttu-id="09cf1-110">Ознакомьтесь с требованиями для получения статуса партнера в программе поставщиков облачных решений.</span><span class="sxs-lookup"><span data-stu-id="09cf1-110">Review requirements for becoming a partner in the Cloud Solution Provider program.</span></span>
 
-[<span data-ttu-id="09cf1-111">Руководство по программе для партнеров по программе поставщиков облачных решений</span><span class="sxs-lookup"><span data-stu-id="09cf1-111">Program guide for Cloud Solution Provider partners</span></span>](http://go.microsoft.com/fwlink/p/?LinkId=617100)
+[<span data-ttu-id="09cf1-111">Руководство по программе для партнеров по программе поставщиков облачных решений</span><span class="sxs-lookup"><span data-stu-id="09cf1-111">Program guide for Cloud Solution Provider partners</span></span>](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
 ><span data-ttu-id="09cf1-112">Если требуется букву бизнеса подтверждение или сертификация вашего статуса как утвержденного партнера корпорации Майкрософт в рамках программы поставщиков облачных решений, [обратитесь в службу поддержки](https://partner.microsoft.com/pcv/servicerequests/create) запрос один.</span><span class="sxs-lookup"><span data-stu-id="09cf1-112">If you require a business letter confirming or certifying your status as an approved Microsoft partner in the Cloud Solution Provider program, [contact support](https://partner.microsoft.com/pcv/servicerequests/create) to request one.</span></span>
@@ -38,19 +38,19 @@ ms.locfileid: "9083147"
 
 <span data-ttu-id="09cf1-114">Майкрософт требует от партнеров подписать это соглашение, чтобы присоединиться к программе поставщиков облачных решений.</span><span class="sxs-lookup"><span data-stu-id="09cf1-114">Microsoft requires partners to sign this agreement to join the Cloud Solution Provider program.</span></span> <span data-ttu-id="09cf1-115">Изучите руководство для рынка или национальное облако, в котором вы планируете продавать.</span><span class="sxs-lookup"><span data-stu-id="09cf1-115">Review the guide for the market or national cloud in which you plan to sell.</span></span>
 
-[<span data-ttu-id="09cf1-116">Соглашение торгового посредника для облачной платформы Майкрософт — Северная Америка, Центральная Америка, Латинская Америка и Карибский бассейн</span><span class="sxs-lookup"><span data-stu-id="09cf1-116">Microsoft Cloud Reseller agreement – North America, Central America, South America, and Caribbean</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
+[<span data-ttu-id="09cf1-116">Соглашение торгового посредника для облачной платформы Майкрософт — Северная Америка, Центральная Америка, Латинская Америка и Карибский бассейн</span><span class="sxs-lookup"><span data-stu-id="09cf1-116">Microsoft Cloud Reseller agreement – North America, Central America, South America, and Caribbean</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[<span data-ttu-id="09cf1-117">Соглашение торгового посредника для облачной платформы Майкрософт — Азия, Австралия и Тихоокеанский регион</span><span class="sxs-lookup"><span data-stu-id="09cf1-117">Microsoft Cloud Reseller agreement – Asia, Australia, and Pacific</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
+[<span data-ttu-id="09cf1-117">Соглашение торгового посредника для облачной платформы Майкрософт — Азия, Австралия и Тихоокеанский регион</span><span class="sxs-lookup"><span data-stu-id="09cf1-117">Microsoft Cloud Reseller agreement – Asia, Australia, and Pacific</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
-[<span data-ttu-id="09cf1-118">Соглашение торгового посредника для облачной платформы Майкрософт — Европа, Ближний Восток и Африка</span><span class="sxs-lookup"><span data-stu-id="09cf1-118">Microsoft Cloud Reseller agreement – Europe, Middle East, and Africa</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
+[<span data-ttu-id="09cf1-118">Соглашение торгового посредника для облачной платформы Майкрософт — Европа, Ближний Восток и Африка</span><span class="sxs-lookup"><span data-stu-id="09cf1-118">Microsoft Cloud Reseller agreement – Europe, Middle East, and Africa</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
-[<span data-ttu-id="09cf1-119">Соглашение торгового посредника для облачной платформы Майкрософт — Япония</span><span class="sxs-lookup"><span data-stu-id="09cf1-119">Microsoft Cloud Reseller agreement – Japan</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
+[<span data-ttu-id="09cf1-119">Соглашение торгового посредника для облачной платформы Майкрософт — Япония</span><span class="sxs-lookup"><span data-stu-id="09cf1-119">Microsoft Cloud Reseller agreement – Japan</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
 
-[<span data-ttu-id="09cf1-120">Соглашение торгового посредника для облачной платформы Майкрософт — Корея</span><span class="sxs-lookup"><span data-stu-id="09cf1-120">Microsoft Cloud Reseller agreement – Korea</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
+[<span data-ttu-id="09cf1-120">Соглашение торгового посредника для облачной платформы Майкрософт — Корея</span><span class="sxs-lookup"><span data-stu-id="09cf1-120">Microsoft Cloud Reseller agreement – Korea</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
 
-[<span data-ttu-id="09cf1-121">Соглашение торгового посредника для облачной платформы Майкрософт — Тайвань</span><span class="sxs-lookup"><span data-stu-id="09cf1-121">Microsoft Cloud Reseller agreement – Taiwan</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
+[<span data-ttu-id="09cf1-121">Соглашение торгового посредника для облачной платформы Майкрософт — Тайвань</span><span class="sxs-lookup"><span data-stu-id="09cf1-121">Microsoft Cloud Reseller agreement – Taiwan</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[<span data-ttu-id="09cf1-122">Соглашение торгового посредника для облачной платформы Майкрософт — Microsoft Cloud для правительства США</span><span class="sxs-lookup"><span data-stu-id="09cf1-122">Microsoft Cloud Reseller agreement - Microsoft Cloud for US Government</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
+[<span data-ttu-id="09cf1-122">Соглашение торгового посредника для облачной платформы Майкрософт — Microsoft Cloud для правительства США</span><span class="sxs-lookup"><span data-stu-id="09cf1-122">Microsoft Cloud Reseller agreement - Microsoft Cloud for US Government</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a><span data-ttu-id="09cf1-123">Шаблоны с клиентами Microsoft Cloud Agreement</span><span class="sxs-lookup"><span data-stu-id="09cf1-123">Microsoft Cloud Agreement customer templates</span></span>
 
