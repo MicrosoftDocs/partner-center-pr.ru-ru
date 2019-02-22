@@ -7,12 +7,12 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: AutoPilot, windows autopilot, microsoft autopilot, zero-touch deployment, oobe, экраны входа, out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: d563ad09d1fa3b67b01835480a348a524455efbc
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 46b8a74383585c630864079efa42b6e34412b91e
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083407"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098831"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Настроить out-of-box устройства с помощью профилей Windows Autopilot
 
@@ -25,7 +25,7 @@ ms.locfileid: "9083407"
 Если вы еще не знакомы с помощью Autopilot, просмотрите сведения в следующих статьях:
 
 - [Обзор Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
-- [Справочник развертывания AutoPilot](http://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
+- [Справочник развертывания AutoPilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>Обзор
 

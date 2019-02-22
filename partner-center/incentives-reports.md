@@ -6,12 +6,12 @@ description: Для программ поощрений OSA Sell и Online Servi
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 815f0a9f7b88d1498381c5135c72eacdd2c8943a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bc9047e21beafb9973723260b437353bbe291603
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796187"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098721"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>Динамические отчеты по данным заменяют ежемесячные отчеты для некоторых программах поощрений
 
@@ -35,7 +35,7 @@ ms.locfileid: "5796187"
  
 ## <a name="start-using-the-new-reporting-functionality"></a>Начните использовать новые возможности создания отчетов: 
 
-1. Скачайте и прочитайте материалы для подготовки готовности в разделе [Отчеты по поощрениям партнеров в Partner Incentives Experience](http://aka.ms/osareadiness ) на портале MPN.
+1. Скачайте и прочитайте материалы для подготовки готовности в разделе [Отчеты по поощрениям партнеров в Partner Incentives Experience](https://aka.ms/osareadiness ) на портале MPN.
 
 2. Перейти на портал [PIE](https://partnerincentives.microsoft.com/)
 

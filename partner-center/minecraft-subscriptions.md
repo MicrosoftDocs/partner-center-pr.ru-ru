@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: Авторизованные партнеры для образовательных учреждений, для образовательных учреждений, продавать для образовательных учреждений, учебных заведений
 ms.localizationpriority: medium
-ms.openlocfilehash: 04014dc307744c9eda7038a3e820cd49957fc15c
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: e71c28f1fcf9b47fffea21eddfa2ab6a2e4313ab
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062332"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098761"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Продажа подписок на Minecraft: Education Edition клиентам из образовательной сферы
 
@@ -23,7 +23,7 @@ ms.locfileid: "9062332"
 Партнеры, которые работают с образовательными учреждениями, могут предлагать им подписки на **Minecraft: Education Edition**. Вы приобретаете подписку от лица клиента в центре партнеров, а затем клиент скачивает программное обеспечение в [Магазине Майкрософт для образования](https://educationstore.microsoft.com). 
 
 >[!IMPORTANT]
->Чтобы начать продавать предложения для образовательных учреждений клиентам из сферы образования, необходимо зарегистрироваться в программе поставщиков облачных решений (CSP) и быть [авторизованным продавцом для образовательных учреждений](https://www.mepn.com) Кроме того, клиент должен быть [квалифицированным пользователем для образовательных целей](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).  
+>Чтобы начать продавать предложения для образовательных учреждений клиентам из сферы образования, необходимо зарегистрироваться в программе поставщиков облачных решений (CSP) и быть [авторизованным продавцом для образовательных учреждений](https://www.mepn.com) Кроме того, клиент должен быть [квалифицированным пользователем для образовательных целей](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).  
 
  
 ## <a name="buy-minecraft-education-edition-on-behalf-of-your-customer"></a>Покупка **Minecraft: Education Edition** от имени клиента

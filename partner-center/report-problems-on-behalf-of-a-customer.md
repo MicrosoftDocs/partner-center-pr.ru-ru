@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d1652493791aedac27aaaa3dcfb03adcd15b67e
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: fdeaaa855e8cf1ff906569703d2bfde363a762ae
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995968"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098851"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Сообщение о проблемах от имени клиента
 
@@ -105,7 +105,7 @@ ms.locfileid: "8995968"
 
 При входе напрямую на портал Microsoft Azure вы будете просматривать Центр в собственном контексте, а не в контексте клиента. Поэтому необходимо выполнять вход непосредственно на портал Microsoft Azure, только если вы создаете запрос на обслуживание, связанный с вашими собственными подписками.
 
-Ваш объем поддержки CSP не включает поддержку вашей собственной партнерской подписки, поэтому при отправке связанного с ней запроса на обслуживание вам необходимо предоставить свою действительную подписку на план поддержки. Например, это может быть идентификатор контракта MPN, план поддержки Premier или Azure. См. раздел [Часто задаваемые вопросы о поддержке Azure](http://go.microsoft.com/fwlink/?LinkId=717532).
+Ваш объем поддержки CSP не включает поддержку вашей собственной партнерской подписки, поэтому при отправке связанного с ней запроса на обслуживание вам необходимо предоставить свою действительную подписку на план поддержки. Например, это может быть идентификатор контракта MPN, план поддержки Premier или Azure. См. раздел [Часто задаваемые вопросы о поддержке Azure](https://go.microsoft.com/fwlink/?LinkId=717532).
 
 **Что произойдет, если я войду в Центр администрирования Office 365 в обход Центра партнеров?**
 
@@ -113,7 +113,7 @@ ms.locfileid: "8995968"
 
 **Как получить дополнительную поддержку Dynamics 365?**
 
-Если возникают проблемы, связанные с: Dynamics 365 Plan подписки, лицензирование, выставление счетов, процент и операций, IURs или требуют дальнейшего технической поддержки:
+Если возникают проблемы, связанные с: Dynamics 365 Plan подписки, лицензирование, выставление счетов, процент & операции, IURs или требуют дальнейшего технической поддержки:
  
 Обратитесь в службу [поддержки Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 

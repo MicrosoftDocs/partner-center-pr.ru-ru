@@ -7,12 +7,12 @@ ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: bf0145b9e82d14d51486f7063329b971451c2fcd
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 58c11c47a5d3e069fcbcea1a234cf6cf548a8006
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995808"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098811"
 ---
 # <a name="tax-and-tax-exemptions"></a>Налоги и освобождение от уплаты налогов
 
@@ -48,7 +48,7 @@ ms.locfileid: "8995808"
 </tr>
 <tr class="even">
 <td>Европейский союз</td>
-<td><p>В государствах— членах ЕС партнеры должны указывать действительный идентификатор плательщика НДС для возврата платежей и правильного выставления счетов. Номер плательщика НДС должен быть <a href="http://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](http://go.microsoft.com/fwlink/p/?LinkId=808160)">принят как допустимый</a>.</p>
+<td><p>В государствах— членах ЕС партнеры должны указывать действительный идентификатор плательщика НДС для возврата платежей и правильного выставления счетов. Номер плательщика НДС должен быть <a href="https://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](https://go.microsoft.com/fwlink/p/?LinkId=808160)">принят как допустимый</a>.</p>
 <p>Корпорация Майкрософт не поддерживает кредитование и переоформление счетов, поэтому перед продажей подписок вам нужно зарегистрировать свой номер плательщика НДС в Центре партнеров.</p>
 <p>Отправка номера плательщика НДС в Майкрософт</strong></p>
 <ol>

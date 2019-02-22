@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: руководства по программе csp, руководство по программе, партнерские соглашения, соглашение с клиентом, прейскуранты, предложения
 ms.localizationpriority: medium
-ms.openlocfilehash: 9f3e7b1a72e5c47ab2cbd5ef418a061e317c38e0
-ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
+ms.openlocfilehash: 4300da2261618474e44f28fd8aba0dbf50817313
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083147"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098771"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Руководство по программе облако поставщиков решений, соглашения, прайс-листы и предложения
 
@@ -29,7 +29,7 @@ ms.locfileid: "9083147"
 
 Ознакомьтесь с требованиями для получения статуса партнера в программе поставщиков облачных решений.
 
-[Руководство по программе для партнеров по программе поставщиков облачных решений](http://go.microsoft.com/fwlink/p/?LinkId=617100)
+[Руководство по программе для партнеров по программе поставщиков облачных решений](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
 >Если требуется букву бизнеса подтверждение или сертификация вашего статуса как утвержденного партнера корпорации Майкрософт в рамках программы поставщиков облачных решений, [обратитесь в службу поддержки](https://partner.microsoft.com/pcv/servicerequests/create) запрос один.
@@ -38,19 +38,19 @@ ms.locfileid: "9083147"
 
 Майкрософт требует от партнеров подписать это соглашение, чтобы присоединиться к программе поставщиков облачных решений. Изучите руководство для рынка или национальное облако, в котором вы планируете продавать.
 
-[Соглашение торгового посредника для облачной платформы Майкрософт — Северная Америка, Центральная Америка, Латинская Америка и Карибский бассейн](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
+[Соглашение торгового посредника для облачной платформы Майкрософт — Северная Америка, Центральная Америка, Латинская Америка и Карибский бассейн](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[Соглашение торгового посредника для облачной платформы Майкрософт — Азия, Австралия и Тихоокеанский регион](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
+[Соглашение торгового посредника для облачной платформы Майкрософт — Азия, Австралия и Тихоокеанский регион](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
-[Соглашение торгового посредника для облачной платформы Майкрософт — Европа, Ближний Восток и Африка](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
+[Соглашение торгового посредника для облачной платформы Майкрософт — Европа, Ближний Восток и Африка](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
-[Соглашение торгового посредника для облачной платформы Майкрософт — Япония](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
+[Соглашение торгового посредника для облачной платформы Майкрософт — Япония](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
 
-[Соглашение торгового посредника для облачной платформы Майкрософт — Корея](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
+[Соглашение торгового посредника для облачной платформы Майкрософт — Корея](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
 
-[Соглашение торгового посредника для облачной платформы Майкрософт — Тайвань](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
+[Соглашение торгового посредника для облачной платформы Майкрософт — Тайвань](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Соглашение торгового посредника для облачной платформы Майкрософт — Microsoft Cloud для правительства США](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
+[Соглашение торгового посредника для облачной платформы Майкрософт — Microsoft Cloud для правительства США](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Шаблоны с клиентами Microsoft Cloud Agreement
 

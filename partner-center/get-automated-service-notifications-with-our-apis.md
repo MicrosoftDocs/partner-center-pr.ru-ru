@@ -7,12 +7,12 @@ ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c7315e875af8c161e725f5eebba1cb2517490795
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: fb0dcdf12a59842ebf1400f4a5e917ad64fbb14f
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796957"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098731"
 ---
 # <a name="get-automated-service-notifications-with-our-apis"></a>Автоматизация уведомлений служб с помощью наших API
 
@@ -24,9 +24,9 @@ Office365 и MicrosoftAzure предоставляют API, который па�
 
 Для ваших разработчиков доступны следующие API:
 
-[API служебных сообщений службы Office365](http://go.microsoft.com/fwlink/p/?LinkId=616899)
+[API служебных сообщений службы Office365](https://go.microsoft.com/fwlink/p/?LinkId=616899)
 
-Azure Insights REST API: [код](http://go.microsoft.com/fwlink/p/?LinkId=617299) и [справочник по API](http://go.microsoft.com/fwlink/p/?LinkId=617300)
+Azure Insights REST API: [код](https://go.microsoft.com/fwlink/p/?LinkId=617299) и [справочник по API](https://go.microsoft.com/fwlink/p/?LinkId=617300)
 
  
 
