@@ -15,12 +15,12 @@
 
 # [Поставщик облачных решений](csp-overview.md)
 ## [Регистрация в программе поставщиков облачных решений](enrolling-in-the-csp-program.md)
-## [Новые требования к прямым партнерам CSP](direct-partner-new-requirements.md) 
+## [Новые требования к прямым партнерам CSP](direct-partner-new-requirements.md)
+## [Соглашения Microsoft Cloud по региону и языку](agreements.md)
 ##[Переход со статуса партнера с прямым выставлением счетов на статус косвенного торгового посредника в рамках программы поставщиков облачных решений CSP](transition-direct-to-indirect.md)
 ## [Соглашения, прейскуранты и предложения CSP](csp-documents-and-learning-resources.md)
 ## [Обзор региональной авторизации CSP](regional-authorization-overview.md)
 ## [Консолидация клиента региональной авторизации CSP](csp-regional-authorization-tenant-consolidation.md)
-## [Шаблоны соглашений с клиентом](agreements.md)
 
 ## [Примените, чтобы осуществлять продажи в национальных облаках](csp-national-clouds-overview.md)
 ### [Центр партнеров для Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
