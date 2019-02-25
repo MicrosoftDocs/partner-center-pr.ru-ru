@@ -1,18 +1,18 @@
 ---
 title: Подтвердить принятие клиента Microsoft Cloud Agreement | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 02/22/2019
 Description: As a partner, you need to obtain your customer’s acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer. To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing certain details regarding the person who accepted the agreement.
 author: v-petand
 ms.author: v-petand
 keywords: Клиент, клиенты, согласны, MCA, соглашения Microsoft Cloud, шаблоны соглашений с клиентами
 ms.localizationpriority: medium
-ms.openlocfilehash: 0cadf9462152786fd5cb5c70f7bd787caf85658b
-ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
+ms.openlocfilehash: 269647b819dda4c86ae7397dac3504268767abba
+ms.sourcegitcommit: 83d2757756ed1ed8f5f7ae06c84e7547174faf9a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083197"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "9099442"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Подтверждение клиента принятие соглашения Microsoft Cloud
 
@@ -46,7 +46,7 @@ ms.locfileid: "9083197"
 
 **7 ноября 2018 г.**
 
--   Прямой выставления счетов партнеры, так и косвенные поставщики, **необходимо** подтвердить клиента принятие соглашения Microsoft Cloud. Подтверждение является *обязательным*.
+-   Прямой выставления счетов партнеры, так и косвенные поставщики, **необходимо** подтвердить клиента принятие соглашения Microsoft Cloud при по транзакциям с помощью информационной панели центра партнеров. Подтверждение является *обязательным*.
 
 -   Если подтверждение не указан для данного клиента:
 
@@ -57,6 +57,33 @@ ms.locfileid: "9083197"
 -   Подтверждение принятия клиент может осуществляться через Центр партнеров или API центра партнеров.
 
 -   Подтверждение принятия клиента поддерживается только в общедоступном облаке Microsoft.
+
+-   Это относится к рабочей среде и песочницы средах.
+
+**11 марта 2018 г.**
+
+- Прямой выставления счетов партнеры, так и косвенные Providersmust подтверждения клиента принятие соглашения Microsoft Cloud в изолированной среде CSP при по транзакциям с помощью API центра партнеров.
+- Если подтверждение не указан для данного клиента:
+
+    - Вы не сможете создавать новые заказы для данного клиента с использованием API центра партнеров.
+ 
+    - Вы не сможете изменить количество рабочих мест существующих подписок на основе числа мест для данного клиента с использованием API центра партнеров.
+- Подтверждение принятия клиента поддерживается только в общедоступном облаке Microsoft. 
+
+**22 марта, 12018**
+
+- Прямой выставления счетов партнеры, так и косвенные Providersmust подтверждения клиента принятие соглашения Microsoft Cloud в рабочей среде CSP при по транзакциям с помощью API центра партнеров.
+
+- Если подтверждение не указан для данного клиента:
+  - Вы не сможете создавать новые заказы для данного клиента с использованием API центра партнеров.
+
+  - Вы не сможете изменить количество рабочих мест существующих подписок на основе числа мест для данного клиента с использованием API центра партнеров.
+-  Подтверждение принятия клиента поддерживается только в общедоступном облаке Microsoft.
+
+
+
+
+
 
 
 ## <a name="confirming-customer-acceptance-in-partner-center"></a>Подтверждение принятия клиента в центре партнеров
