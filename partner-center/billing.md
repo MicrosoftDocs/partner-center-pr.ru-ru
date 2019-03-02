@@ -2,18 +2,18 @@
 title: Выставление счетов | Центр партнеров
 ms.topic: article
 ms.date: 10/29/2018
-Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
+Description: В качестве партнера программы поставщиков облачных решений вы должны будете оплатить корпорации Майкрософт 60дней за прошедший период для подписок на основании лицензий и подписок на основании использования ваших клиентов.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: выставление счетов, платежи, заказы, отмена, управление заказами, неоплата, мошенничество, ненадлежащее использование, налоги, освобождение от уплаты налогов, файлы выверки, файл выверки
 ms.localizationpriority: medium
-ms.openlocfilehash: b8041b6fb5ae913786bf7e755d11e727e636f518
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 1d742b014e531539eaf89cffcbbe08b0232a2161
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683453"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122181"
 ---
 # <a name="billing"></a>Выставление счетов
 
@@ -42,6 +42,7 @@ ms.locfileid: "8683453"
 |:-----------------------------|:-----------------|
 |Основы выставления счетов, платежей, счетов-фактур и многое другое   |[Основы выставления счетов](billing-basics.md)
 |Многие новые возможности выставления счетов, например ежегодное выставление счетов   |[Вопросы и ответы по новым возможностям выставления счетов](faq-about-new-billing-features.md)|
+|Типы выставления счетов   |[Общие сведения о типах выставления счетов в центре партнеров](billing-different-types.md)   |
 |Какая информация содержится в счете   |[Просмотр счета](read-your-bill.md)   |
 |Как проанализировать и использовать файл сверки   |[Использование файлов выверки](use-the-reconciliation-files.md)|
 |Распространенные сценарии выставления счетов (см. дополнительные сценарии выставления счетов в разделе [Вопросы и ответы по новым возможностям выставления счетов](faq-about-new-billing-features.md))|[Распространенные сценарии выставления счетов](common-billing-scenarios.md)|
