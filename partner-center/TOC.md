@@ -49,7 +49,9 @@
 
 
 # [Выставление счетов и налоги](billing.md)
-## [Вопросы и ответы по новым возможностям выставления счетов](faq-about-new-billing-features.md)
+## [Выставление счетов: вопросы и ответы](faq-about-new-billing-features.md)
+## [Основы выставления счетов](billing-basics.md)
+## [Общие сведения о типах выставления счетов в центре партнеров](billing-different-types.md)
 ## [Просмотр счета](read-your-bill.md)
 ## [Использование файлов выверки](use-the-reconciliation-files.md)
 ## [Налоги и освобождение от уплаты налогов](tax-and-tax-exemptions.md)
@@ -78,6 +80,7 @@
 ## [Веб-службы (подписки)](customer-subscriptions.md)
 ### [Создание, приостановка и отмена подписок клиентов](create-a-new-subscription.md)
 ### [Предлагайте клиентам пробные версии продуктов Майкрософт](offer-your-customers-trials-of-microsoft-products.md)
+### [Продажа подписок на продукты Azure Marketplace](sell-marketplace-products.md)
 ### [Назначение подписок Azure в Центре партнеров](assign-azure-subscriptions.md)
 ### [Назначение лицензий пользователям](assign-licenses-to-users.md)
 ### [Добавление лицензий или служб к существующей подписке](add-licenses-or-services-to-an-existing-subscription.md)
