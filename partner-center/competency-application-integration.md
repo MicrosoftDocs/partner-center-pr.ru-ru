@@ -3,20 +3,20 @@ title: Компетенция "Интеграция приложений"
 ms.topic: article
 ms.date: 10/29/2018
 description: Компетенция "Интеграция приложений" подтверждает опыт партнеров и разработчиков в области интеграции уникальных приложений и решений в различные продукты экосистемы Майкрософт.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: компетенция, компетенции, интеграция приложений
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 5acf238ddb323e7031253e5b9176b8ac6841c0ec
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 988274508a65bafdf3789e71fa2bd3ad278c7065
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797317"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584067"
 ---
 >[!IMPORTANT]
->Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Дополнительные сведения о требованиях, предъявляемых к получению этой компетенции, см. на [портале Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

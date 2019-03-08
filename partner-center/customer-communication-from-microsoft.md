@@ -9,18 +9,18 @@ ms.author: evansma
 keywords: взаимодействие, взаимодействие с клиентами, пообщаться с Microsoft
 ms.localizationpriority: medium
 ms.openlocfilehash: fbb5e9fab5ae9a92218988f0ff1465443d9a4eac
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683463"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586677"
 ---
-# <a name="customer-communication-from-microsoft"></a>Взаимодействие Microsoft с клиентами
+# <a name="customer-communication-from-microsoft"></a>Взаимодействие Майкрософт с клиентами
 
-**Относится к:**
+**Применяется к**
 
 -  Центр партнеров
--  Центр партнеров для Microsoft Cloud для правительства США
+-  Центр партнеров для Microsoft Cloud for US Government
 
 
 В целом, мы ожидаем, что все сообщения клиент будет получать от партнера по программе поставщиков облачных решений. Поскольку у вас есть отношения выставления счетов с клиентами, Майкрософт не будет отправлять напрямую вашим клиентам сообщения, связанные с их подписками.

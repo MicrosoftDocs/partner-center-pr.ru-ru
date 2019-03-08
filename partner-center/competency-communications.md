@@ -3,20 +3,20 @@ title: Компетенция "Связь"
 ms.topic: article
 ms.date: 10/29/2018
 description: Компетенция "Связь" подтверждает опыт партнеров в области предоставления инновационных и персонализированных решений Skype для бизнеса.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: компетенция, компетенции, связь
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 0b52e39fee9abfe8e869d48c073ac42cb69637c1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: a537ec778cf2c9b482dda1d733ac89ec76a69800
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794637"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586167"
 ---
 >[!IMPORTANT]
->Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Дополнительные сведения о требованиях, предъявляемых к получению этой компетенции, см. на [портале Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 #Communications

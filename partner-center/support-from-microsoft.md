@@ -7,32 +7,32 @@ ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ba8d2d81e8e618b27b1ca8703d24d7b67a9698d5
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: fbaa42dd79b18f4db0188e9fa44c82104e0934b3
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683613"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583917"
 ---
 # <a name="support-from-microsoft"></a>Поддержка от Майкрософт
 
-**Относится к:**
+**Применяется к**
 
 -  Центр партнеров
--  Центр партнеров для Microsoft Cloud для правительства США
+-  Центр партнеров для Microsoft Cloud for US Government
 
 
 При возникновении проблемы в работе службы Майкрософт или с Центром партнеров вы можете сообщить о проблеме в Майкрософт для получения помощи и отслеживать этот вопрос до его решения.
 
-[Проверка работоспособности службы](check-service-health.md)
+[Проверяйте работоспособность служб](check-service-health.md)
 
-[Сообщить о проблемах с Центром партнеров](report-problems-with-partner-center.md)
+[Сообщение о проблемах с Центром партнеров](report-problems-with-partner-center.md)
 
-[Сообщение о проблемах от имени клиента](report-problems-on-behalf-of-a-customer.md)
+[Сообщить о проблемах от имени клиента](report-problems-on-behalf-of-a-customer.md)
 
-[Автоматизация уведомлений служб с помощью наших API](get-automated-service-notifications-with-our-apis.md)
+[Получение уведомлений автоматические службы с помощью наших API-интерфейсов](get-automated-service-notifications-with-our-apis.md)
 
-[Преимущества службы поддержки Майкрософт](https://partner.microsoft.com/support/contact-support)
+[Преимущества поддержки Майкрософт](https://partner.microsoft.com/support/contact-support)
 
  
 

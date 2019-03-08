@@ -3,20 +3,20 @@ title: Компетенция "Планирование корпоративны
 ms.topic: article
 ms.date: 10/29/2018
 description: Станьте партнером корпорации Майкрософт, подтвердив опыт вашей организации в области разработки и развертывания решений Dynamics для управления корпоративными ресурсами.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: компетенция, компетенции, планирование корпоративных ресурсов
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f0c69dafa24a61923fbc69521cdc87a89ad87c70
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cf3150bca54770453da4dc3b56302a30f348aca7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795547"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584337"
 ---
 >[!IMPORTANT]
->Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Дополнительные сведения о требованиях, предъявляемых к получению этой компетенции, см. на [портале Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 #Enterprise Resource Planning 

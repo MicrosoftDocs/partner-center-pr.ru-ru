@@ -3,20 +3,20 @@ title: Компетенция "Облачные бизнес-приложени�
 ms.topic: article
 ms.date: 10/29/2018
 description: Компетенция "Облачные бизнес-приложения" предназначена для партнеров, специализирующихся в развертывании и управлении Microsoft Dynamics 365 для своих клиентов.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: компетенция, компетенции, облачные бизнес-приложения
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e48aa911f554757f75c53c0ebd1301709f06f36
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 6b962539a106f2b18d116bf3ca2f4b30084076a1
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794577"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583947"
 ---
 >[!IMPORTANT]
->Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Дополнительные сведения о требованиях, предъявляемых к получению этой компетенции, см. на [портале Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

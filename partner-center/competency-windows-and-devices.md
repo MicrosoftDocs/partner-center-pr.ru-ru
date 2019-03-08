@@ -3,20 +3,20 @@ title: Компетенция "Windows и устройства"
 ms.topic: article
 ms.date: 10/29/2018
 description: Присоединитесь к нам в достижении нашей цели по распространению Windows 10 на 1 млрд устройств. К этой компетенции относится подтверждение навыков работы со службами, приложениями и устройствами. Эта компетенция предоставляет средства, содержимое и ресурсы, которые помогут вам развить навыки практического применения возможностей Windows 10.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 robots: noindex,nofollow
 keywords: компетенция, компетенции, Windows и устройства
 ms.localizationpriority: medium
-ms.openlocfilehash: 12798d8a500cde7a3fb35d806064277fd2b8c6a6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 634aedeafc118cd661f11cb927944499feda46af
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795587"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584617"
 ---
 >[!IMPORTANT]
->Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Дополнительные сведения о требованиях, предъявляемых к получению этой компетенции, см. на [портале Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

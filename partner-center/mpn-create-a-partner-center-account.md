@@ -7,15 +7,15 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 93b8eb679731025cd7ded38abf6e071c5b797893
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796207"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587597"
 ---
 # <a name="create-a-partner-center-account"></a>Создание учетной записи Центра партнеров
 
-**Область применения**
+**Применяется к**
 
 -   Центр партнеров
 -   Члены Microsoft Partner Network
@@ -27,11 +27,11 @@ ms.locfileid: "5796207"
 
 После создания учетной записи Центра партнеров вы получите следующие возможности
 
--   [Приобретение или продление подписки на Microsoft Action Pack](mpn-get-action-pack.md)
+-   [Купить или продлить подписку Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Создание бизнес-профиля для получения потенциальных клиентов от Майкрософт](create-a-marketing-profile.md)
+-   [Создание бизнес-профиль для получения продаж корпорации Майкрософт](create-a-marketing-profile.md)
 
--   [Получение потенциальных клиентов от корпорации Майкрософт и управление ими](responding-to-referrals.md)
+-   [Получение и управление потенциальными от корпорации Майкрософт](responding-to-referrals.md)
 
 ## <a name="before-you-begin"></a>Перед началом работы
 
@@ -70,18 +70,18 @@ ms.locfileid: "5796207"
 
 5.  Убедитесь, что вы добавлены в группу агента администратора. Чтобы завершить настройку учетной записи, включая добавление других пользователей, необходимы разрешения агента администратора. Выполните эти действия, чтобы просмотреть или обновить разрешения:
 
-    А. В **Центре партнеров**выберите значок « **Параметры** », а затем выберите **Управление пользователями**.  
+    а. В вашей **центра партнеров**выберите **параметры** значок и выберите **Управление пользователями**.  
 
-    Б. Выберите свое имя в списке пользователей, а затем выберите **Агент администрирования**, если он еще не выбран. Выберите **Обновить**.  
+    б) Выберите свое имя в списке пользователей, а затем выберите **Агент администрирования**, если он еще не выбран. Выберите **Обновить**.  
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
--   [Добавление пользователей и назначение им разрешений](create-user-accounts-and-set-permissions.md)
+-   [Добавьте учетные записи пользователей и назначать им разрешения](create-user-accounts-and-set-permissions.md)
 
--   [Приобретение или продление подписки на Microsoft Action Pack](mpn-get-action-pack.md)
+-   [Купить или продлить подписку на Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Управление преимуществами членства](manage-your-partner-network-benefits.md)
+-   [Управляйте своими преимуществами членства](manage-your-partner-network-benefits.md)
 
--   [Подробнее о требованиях к компетенциям Майкрософт для получения членства уровня Gold и Silver](https://partner.microsoft.com/membership/competencies)
+-   [Дополнительные сведения о требованиях к компетенции Gold и Silver членства](https://partner.microsoft.com/membership/competencies)
 
--   [Создание бизнес-профиля для получения потенциальных клиентов от Майкрософт](create-a-marketing-profile.md)
+-   [Создание бизнес-профиль для получения продаж корпорации Майкрософт](create-a-marketing-profile.md)

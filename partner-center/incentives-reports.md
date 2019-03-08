@@ -3,19 +3,19 @@ title: Динамические отчеты по данным заменяют 
 ms.topic: article
 ms.date: 10/29/2018
 description: Для программ поощрений OSA Sell и Online Services Usage теперь доступны динамические отчеты.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bc9047e21beafb9973723260b437353bbe291603
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: 37458d9c6343fc27d3745a478c24c581eb06c03c
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098721"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583847"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>Динамические отчеты по данным заменяют ежемесячные отчеты для некоторых программах поощрений
 
-**Область применения**
+**Применяется к**
 
 -  Центр партнеров
 
@@ -41,7 +41,7 @@ ms.locfileid: "9098721"
 
 3. Войдите на портал PIE с учетной записью Майкрософт (ранее LiveID), связанной с вашим идентификатором Microsoft Partner Network (MPN ID) в Partner Membership Center. Выберите **Личная учетная запись**, если появится запрос на выбор между **рабочей** и **личной учетной записью**.
 
-4. Щелкните **Отчеты**, а затем— **Программы**. 
+4. Щелкните **Отчеты**, а затем — **Программы**. 
 
 5. Выберите программу поощрений, для которой вы хотите получить отчеты. 
 

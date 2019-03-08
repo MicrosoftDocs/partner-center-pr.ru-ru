@@ -1,37 +1,37 @@
-# You've added your first ReadMe file!
-A README.md file is intended to quickly orient readers to what your project can do.  New to Markdown? [Learn more](https://go.microsoft.com/fwlink/p/?LinkId=524306&clcid=0x409)
+# <a name="youve-added-your-first-readme-file"></a>Вы добавили первого файла ReadMe!
+Файл README.md предназначен для быстрого ориентирования читателей в проекте, которые можно сделать.  Не знакомы с Markdown? [Подробнее](https://go.microsoft.com/fwlink/p/?LinkId=524306&clcid=0x409)
 
-## Edit this ReadMe and commit your change to a topic branch
-In Git, branches are cheap.  You should use them whenever you're making changes to your repository.  Edit this file by clicking on the edit icon.
+## <a name="edit-this-readme-and-commit-your-change-to-a-topic-branch"></a>Измените этот файл ReadMe и зафиксировать ваши изменения тематические ветви
+В Git ветвей обходятся дешево.  Их следует использовать всякий раз, когда вы вносите изменения в репозиторий.  Измените этот файл, щелкнув значок редактирования.
 
-Then make some changes to this ReadMe file.
+Затем внести некоторые изменения в этот файл ReadMe.
 
-> Make some **edits** to _this_ blockquote
+> Выполнить некоторые **изменения** для _это_ blockquote
 
-When you are done, click the dropdown arrow next to the save button - that will allow you to commit your changes to a new branch.
+Когда вы закончите, щелкните стрелку раскрывающегося списка рядом с сохранения кнопка -, вы сможете сохранить изменения в новой ветви.
 
-## Create a pull request to contribute your changes back into master
-Pull requests are the way to move changes from a topic branch back into the master branch.
+## <a name="create-a-pull-request-to-contribute-your-changes-back-into-master"></a>Создать запрос на Вытягивание отправить изменения обратно в главную ветвь
+Запросы на Вытягивание — это способ переместить изменения из тематической ветви обратно в главную ветвь.
 
-Click on the **Pull Requests** page in the **CODE** hub, then click "New Pull Request" to create a new pull request from your topic branch to the master branch.
+Щелкните **запросы на Вытягивание** странице в **кода** концентратора, затем нажмите кнопку «Новый запрос на Вытягивание» создать новый запрос на Вытягивание из тематическую ветвь в главную ветвь.
 
-When you are done adding details, click "Create Pull request". Once a pull request is sent, reviewers can see your changes, recommend modifications, or even push follow-up commits.
+После добавления сведений, нажмите кнопку «Create Pull request». После отправки запроса на Вытягивание рецензенты можно увидеть изменения, изменении или даже передачи фиксаций по обработке результатов.
 
-First time creating a pull request?  [Learn more](https://go.microsoft.com/fwlink/?LinkId=533211&clcid=0x409)
+При первом создании запроса на включение внесенных изменений?  [Подробнее](https://go.microsoft.com/fwlink/?LinkId=533211&clcid=0x409)
 
-### Congratulations! You've completed the grand tour of the CODE hub!
+### <a name="congratulations-youve-completed-the-grand-tour-of-the-code-hub"></a>Поздравляем! Вы завершили grand примером центр кода!
 
-# Next steps
+# <a name="next-steps"></a>Дальнейшие действия
 
-If you haven't already done so, [install Git](https://git-scm.com/downloads) (as well as [Git Credential Manager](https://java.visualstudio.com/Downloads/gitcredentialmanager/Index) for Linux or Mac OS)
+Если вы еще не сделали, [Установка Git](https://git-scm.com/downloads) (а также [Git Credential Manager](https://java.visualstudio.com/Downloads/gitcredentialmanager/Index) для Linux или Mac OS)
 
-Choose and install one of these supported IDEs:
+Выберите и установите один из этих поддерживаемых интегрированные среды разработки:
 * [Visual Studio](https://go.microsoft.com/fwlink/?LinkId=309297&clcid=0x409&slcid=0x409)
-* [Android Studio](https://developer.android.com/studio) (with [Team Services Plugin](https://java.visualstudio.com/Downloads/intellijplugin/Index))
-* [Eclipse](https://www.eclipse.org/downloads) (with [Team Explorer Everywhere](https://java.visualstudio.com/Downloads/eclipseplugin/Index))
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/download) (with [Team Services Plugin](https://java.visualstudio.com/Downloads/intellijplugin/Index))
-* [Visual Studio Code](https://code.visualstudio.com/Download) (with [Team Services Extension](https://java.visualstudio.com/Downloads/visualstudiocode/Index))
+* [Android Studio](https://developer.android.com/studio) (с [Team Services подключаемый модуль](https://java.visualstudio.com/Downloads/intellijplugin/Index))
+* [Eclipse](https://www.eclipse.org/downloads) (с [Team Explorer Everywhere](https://java.visualstudio.com/Downloads/eclipseplugin/Index))
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/download) (с [Team Services подключаемый модуль](https://java.visualstudio.com/Downloads/intellijplugin/Index))
+* [Visual Studio Code](https://code.visualstudio.com/Download) (с [Team Services расширение](https://java.visualstudio.com/Downloads/visualstudiocode/Index))
 
-Then clone this repo to your local machine to get started with your own project.
+Затем клонируйте этот репозиторий на локальный компьютер, чтобы приступить к работе с помощью собственного проекта.
   
-Happy coding!
+Удачного программирования!

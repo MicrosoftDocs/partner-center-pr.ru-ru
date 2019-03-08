@@ -3,20 +3,20 @@ title: Компетенция "Управление отношениями с к
 ms.topic: article
 ms.date: 10/29/2018
 description: Получите статус первоклассного поставщика Microsoft Dynamics CRM Online или Dynamics 365 благодаря компетенции "Управление отношениями с клиентами в облаке".
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: компетенция, компетенции, управление отношениями с клиентами в облаке
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 8eec85b1be8b16ec161733d956b90d6c11e9531e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 97213ea35a0188819c7d4d1132a98582b9e18fc7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796287"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586357"
 ---
 >[!IMPORTANT]
->Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Дополнительные сведения о требованиях, предъявляемых к получению этой компетенции, см. на [портале Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 #Cloud Customer Relationship Management

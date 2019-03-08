@@ -4,34 +4,34 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Выполните следующие действия, чтобы ознакомиться с приложением "Аналитика Центра партнеров для Power BI" (для прямых партнеров в программе CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ef641484ada5332a7129e13f8d7bbd8f1d269f96
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: d51c7afa2ebe69218aeb926c46425bcbd4245cb0
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995558"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585867"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Установить и ознакомиться с приложением "Аналитика Центра партнеров для Microsoft Power BI"
 
-**Область применения**
+**Применяется к**
 
 - Центр партнеров
 
 ## <a name="before-you-begin"></a>Перед началом работы
 
-Выберите приложение, которое наиболее важны для вашего бизнеса из следующего списка доступных приложений Power BI:
-- [Прямого партнера](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
+Выберите приложение, которое наиболее важных для бизнеса, в следующем списке доступных приложений Power BI:
+- [Прямой партнер](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
 
-- [Косвенного партнера](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
+- [Косвенные партнера](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
 
-- [Непрямой торговый посредник](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
+- [Непрямого торгового посредника](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
 
 Перед установкой предварительной версии приложения "Аналитика Центра партнеров" убедитесь, что соблюдены следующие требования.
 
-- Вам выбрать правильный приложению Power BI для вашего бизнеса.
+- Выберите правильное приложение Power BI для вашего бизнеса.
 
 - У вас есть активная подписка на Microsoft Power BI Professional или Microsoft Power BI Premium.
 
@@ -62,4 +62,4 @@ ms.locfileid: "8995558"
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
-[Просматривайте бизнес-данные с помощью приложения "Аналитика Центра партнеров для Microsoft Power BI"](power-bi-app-for-direct-partners-use.md)
+[Просмотреть бизнес-данных с помощью приложения Analytics центра партнеров для Microsoft Power BI](power-bi-app-for-direct-partners-use.md)
