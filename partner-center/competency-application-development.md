@@ -2,21 +2,21 @@
 title: Компетенция "Разработка приложений"
 ms.topic: article
 ms.date: 10/29/2018
-description: Обеспечьте ускоренное предоставление приложений и постоянное повышение эффективности. Присоединяйтесь к нашему сообществу, включающему в себя более 60тыс. партнеров по разработке приложений, чтобы выделиться на фоне конкурентов и стать официальным партнером Майкрософт, получив компетенцию "Разработка приложений".
-author: Daniel Simpson
+description: Обеспечьте ускоренное предоставление приложений и постоянное повышение эффективности. Присоединяйтесь к нашему сообществу, включающему в себя более 60 тыс. партнеров по разработке приложений, чтобы выделиться на фоне конкурентов и стать официальным партнером Майкрософт, получив компетенцию "Разработка приложений".
+author: LauraBrenner
 ms.author: dansimp
 keywords: компетенция, компетенции, облачные бизнес-приложения, разработка приложений
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: c367960a24cdf278991cc74cd5354c8886d67694
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 5a0123f1ec9052f409ad9964cf9c1761f9df7bb2
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795037"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583897"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="5b336-105">Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="5b336-105">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="581ac-105">Дополнительные сведения о требованиях, предъявляемых к получению этой компетенции, см. на [портале Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="581ac-105">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

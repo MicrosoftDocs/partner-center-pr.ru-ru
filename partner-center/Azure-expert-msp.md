@@ -1,27 +1,27 @@
 ---
-title: Azure программу поставщика управляемых служб эксперта | Центр партнеров
+title: Программа Expert управляемый поставщик служб Azure | Центр партнеров
 ms.topic: article
 ms.date: 12/03/2018
-description: Эксперты по вопросам на продаже и поддержка Azure можно применить в MSP эксперта Azure
-author: labrenne
+description: Специалистов по продаже и поддержке Azure можно применить в Azure Expert MSP
+author: LauraBrenner
 ms.author: labrenne
-Keywords: Azure sales, expert programs, partner programs
+Keywords: Торговый представитель Azure, эксперт по программам, партнерские программы
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 07ef1925313599981f69e7885bc4515243dd2af9
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 4ad3ba4a5f8646b70ff2c8bd8aee950ff5c30339
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083366"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584217"
 ---
-# <a name="azure-expert-managed-services-provider-program"></a><span data-ttu-id="d9886-103">Azure программу поставщика управляемых служб эксперта</span><span class="sxs-lookup"><span data-stu-id="d9886-103">Azure Expert Managed Services Provider program</span></span>
+# <a name="azure-expert-managed-services-provider-program"></a><span data-ttu-id="064de-104">Программа Expert управляемый поставщик служб Azure</span><span class="sxs-lookup"><span data-stu-id="064de-104">Azure Expert Managed Services Provider program</span></span>
 
 
-<span data-ttu-id="d9886-104">Если ваша компания является Высочайшая на продажи и управление ими служб Azure для клиентов, найдите на участие в программе поставщика управляемых служб Azure экспертом.</span><span class="sxs-lookup"><span data-stu-id="d9886-104">If your company is a superstar at selling and managing Azure services to customers, look into applying to the Azure Expert Managed Services Provider program.</span></span> <span data-ttu-id="d9886-105">Azure партнеров MSP эксперта получайте монопольный индикатора событий, делая их различий с другими партнерами корпорации Майкрософт и получить приоритетными в модуле рекомендацию, они приоритеты для совместной продажи сосредоточить, получить поддержку при разработке новые рекомендации и могут присутствовать монопольный события.</span><span class="sxs-lookup"><span data-stu-id="d9886-105">Azure Expert MSP partners earn an exclusive badge differentiating them from other Microsoft partners and gain top priority in the referral engine, They are prioritized for co-sell engagements, receive support when developing new practices, and can attend exclusive events.</span></span>
+<span data-ttu-id="064de-105">Если ваша компания Высочайшая по продажам и управления службами Azure для клиентов, рассмотрим применение в программу поставщика управляемых служб Azure эксперта.</span><span class="sxs-lookup"><span data-stu-id="064de-105">If your company is a superstar at selling and managing Azure services to customers, look into applying to the Azure Expert Managed Services Provider program.</span></span> <span data-ttu-id="064de-106">Партнеры Azure специалист MSP получите эксклюзивные эмблемы запоминающихся их с другими партнерами корпорации Microsoft и получить основным приоритетом в модуле ссылок, они приоритеты более глубоких занятий совместные продажи, получать поддержку при разработке новых рекомендаций и можете посетить эксклюзивных мероприятиях.</span><span class="sxs-lookup"><span data-stu-id="064de-106">Azure Expert MSP partners earn an exclusive badge differentiating them from other Microsoft partners and gain top priority in the referral engine, They are prioritized for co-sell engagements, receive support when developing new practices, and can attend exclusive events.</span></span>
 
-<span data-ttu-id="d9886-106">Чтобы начать процесс применения к Azure MSP, из левого меню навигации</span><span class="sxs-lookup"><span data-stu-id="d9886-106">To begin the process of applying to the Azure MSP, from the left nav.</span></span> <span data-ttu-id="d9886-107">Выберите **Компетенции и программы** , а затем выберите **MSP эксперта Azure**.</span><span class="sxs-lookup"><span data-stu-id="d9886-107">select **Competencies and programs** and then select **Azure Expert MSP**.</span></span> <span data-ttu-id="d9886-108">Дополнительные сведения о [процесса необходимые компоненты и приложения](https://partner.microsoft.com/membership/azure-expert-msp).</span><span class="sxs-lookup"><span data-stu-id="d9886-108">Learn more about [the prerequisites and application process](https://partner.microsoft.com/membership/azure-expert-msp).</span></span> 
+<span data-ttu-id="064de-107">Чтобы начать процесс применения к Azure MSP, в левой области навигации</span><span class="sxs-lookup"><span data-stu-id="064de-107">To begin the process of applying to the Azure MSP, from the left nav.</span></span> <span data-ttu-id="064de-108">Выберите **компетенции и программы** , а затем выберите **Azure специалист MSP**.</span><span class="sxs-lookup"><span data-stu-id="064de-108">select **Competencies and programs** and then select **Azure Expert MSP**.</span></span> <span data-ttu-id="064de-109">Дополнительные сведения о [необходимых условий и процесс приложения](https://partner.microsoft.com/membership/azure-expert-msp).</span><span class="sxs-lookup"><span data-stu-id="064de-109">Learn more about [the prerequisites and application process](https://partner.microsoft.com/membership/azure-expert-msp).</span></span> 
 
-<span data-ttu-id="d9886-109">Если не еще, вы можете создать по-прежнему отношениями Майкрософт через усовершенствования членства, обучающие материалы и другие возможности роста.</span><span class="sxs-lookup"><span data-stu-id="d9886-109">If you don’t qualify yet, you can still build your Microsoft partnership through membership enhancements, training, and other growth opportunities.</span></span>
-<span data-ttu-id="d9886-110">Сведения о действий, которые можно выполнить для [разработки опыт и вашего бизнеса](https://partner.microsoft.com/membership/azure-expert-msp).</span><span class="sxs-lookup"><span data-stu-id="d9886-110">Learn about steps you can take to [develop your business and expertise](https://partner.microsoft.com/membership/azure-expert-msp).</span></span>
+<span data-ttu-id="064de-110">Еще не определен, по-прежнему можно создавать связи Microsoft через расширения членства, обучение и другие возможности роста.</span><span class="sxs-lookup"><span data-stu-id="064de-110">If you don’t qualify yet, you can still build your Microsoft partnership through membership enhancements, training, and other growth opportunities.</span></span>
+<span data-ttu-id="064de-111">Дополнительные сведения о шагах, которые можно предпринять для [разрабатывать коммерческие и опыт](https://partner.microsoft.com/membership/azure-expert-msp).</span><span class="sxs-lookup"><span data-stu-id="064de-111">Learn about steps you can take to [develop your business and expertise](https://partner.microsoft.com/membership/azure-expert-msp).</span></span>
 

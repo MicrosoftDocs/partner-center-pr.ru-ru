@@ -3,20 +3,20 @@ title: Компетенция "Облачная платформа"
 ms.topic: article
 ms.date: 10/29/2018
 description: Компетенция "Облачная платформа" предназначена для партнеров, которые хотят извлекать выгоду из растущего спроса на решения типа "инфраструктура как услуга" и "ПО как услуга" (SaaS), созданных на основе Microsoft Azure.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: компетенция, компетенции, облачная платформа
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: ae31be9420e3fdc0c09e6747bd73c38a955e79d3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 362e829a1d408d7bc63c1e776077d28442eb75c2
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795757"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586237"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="8c1c4-104">Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="8c1c4-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="719ff-104">Дополнительные сведения о требованиях, предъявляемых к получению этой компетенции, см. на [портале Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="719ff-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Cloud Platform

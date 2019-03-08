@@ -3,20 +3,20 @@ title: Компетенция "Управление проектами и пор
 ms.topic: article
 ms.date: 10/29/2018
 description: Компетенция "Управление проектами и портфелями" демонстрирует возможность партнеров предоставлять клиентам решения для управления корпоративными проектами.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: компетенция, компетенции
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 570f1eef7840f5a4944a21c95b2302615ba68edb
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 276595d07e43cc7e12976dc9140d6726bb49d2d6
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795477"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586797"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="ef692-104">Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="ef692-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="1c162-104">Дополнительные сведения о требованиях, предъявляемых к получению этой компетенции, см. на [портале Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="1c162-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

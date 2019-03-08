@@ -3,20 +3,20 @@ title: Компетенция "Облачные решения для малог
 ms.topic: article
 ms.date: 10/29/2018
 description: Компетенция "Облачные решения для малого и среднего бизнеса" поможет вам создать свой бренд в качестве партнера, специализирующегося на продаже и развертывании решений Office 365 для малого и среднего бизнеса.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: компетенция, компетенции, облачные решения для малого и среднего бизнеса
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f7533c113f1daa8a088b2d0c74402f16f661b48
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1d273e9011871edc9f65c41ae234264a28360c42
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796857"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583927"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="e94ee-104">Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="e94ee-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="cd458-104">Дополнительные сведения о требованиях, предъявляемых к получению этой компетенции, см. на [портале Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="cd458-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 # Small and Midmarket Cloud Solutions 

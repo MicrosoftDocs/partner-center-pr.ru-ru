@@ -3,20 +3,20 @@ title: Компетенция "Разработка и эксплуатация"
 ms.topic: article
 ms.date: 10/29/2018
 description: Если у вас есть большой опыт в области предоставления компаниям услуг по управлению жизненным циклом программного обеспечения с помощью возможностей разработки и эксплуатации (DevOps) платформы разработки Майкрософт, то компетенция "Разработка и эксплуатация" лучше всего подойдет для того, чтобы стать партнером Майкрософт.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
-keywords: компетенция, компетенции, DevOps
+keywords: компетенция, компетенции, разработка и эксплуатация
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 4258beccb8f6e0d876e60ec6f5fcb16a6e265089
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: 6c617358b097517258ed9f83aef9a3a9e9ab6d77
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098891"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585737"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="ad6f0-104">Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="ad6f0-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="849a7-104">Дополнительные сведения о требованиях, предъявляемых к получению этой компетенции, см. на [портале Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="849a7-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

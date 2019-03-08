@@ -3,20 +3,20 @@ title: Компетенция "Облачная производительнос
 ms.topic: article
 ms.date: 10/29/2018
 description: Компетенция "Облачная производительность" предназначена для партнеров, специализирующихся в области корпоративного развертывания Office 365. Выделитесь на фоне конкурентов с помощью этой компетенции как надежный поставщик облачных решений для клиентов, ищущих квалифицированных партнеров по облачным решениям.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: компетенция, компетенции, облачная производительность
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 86a423236440dbcf25b7974c1d24ba7f0a14fa2f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f0aabf09435dbb1f08ddd79f6fac5075860c3033
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794647"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585497"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="bd546-105">Чтобы узнать о требованиях к сообществу этой компетенции, посетите [портал Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="bd546-105">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="1419e-105">Дополнительные сведения о требованиях, предъявляемых к получению этой компетенции, см. на [портале Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="1419e-105">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 # Cloud Productivity competency

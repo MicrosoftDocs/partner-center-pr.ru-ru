@@ -8,46 +8,46 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: ae2ce5ec0ac117d0adcb9e9b0f63e2c43e906bb7
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683473"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584467"
 ---
-# <a name="restore-a-suspended-partner-center-account"></a><span data-ttu-id="bb0c3-103">Восстановление приостановленной учетной записи Центра партнеров</span><span class="sxs-lookup"><span data-stu-id="bb0c3-103">Restore a suspended Partner Center account</span></span>
+# <a name="restore-a-suspended-partner-center-account"></a><span data-ttu-id="6567f-103">Восстановление приостановленной учетной записи Центра партнеров</span><span class="sxs-lookup"><span data-stu-id="6567f-103">Restore a suspended Partner Center account</span></span>
 
-<span data-ttu-id="bb0c3-104">В этой статье рассказывается о том, как поступить, если действие вашей учетной записи в Центре партнеров приостановлено.</span><span class="sxs-lookup"><span data-stu-id="bb0c3-104">This article explains what to do if your Partner Center account is suspended.</span></span>
+<span data-ttu-id="6567f-104">В этой статье рассказывается о том, как поступить, если действие вашей учетной записи в Центре партнеров приостановлено.</span><span class="sxs-lookup"><span data-stu-id="6567f-104">This article explains what to do if your Partner Center account is suspended.</span></span>
 
-**<span data-ttu-id="bb0c3-105">Относится к:</span><span class="sxs-lookup"><span data-stu-id="bb0c3-105">Applies to</span></span>**
+<span data-ttu-id="6567f-105">**Применяется к**</span><span class="sxs-lookup"><span data-stu-id="6567f-105">**Applies to**</span></span>
 
--  <span data-ttu-id="bb0c3-106">Центр партнеров</span><span class="sxs-lookup"><span data-stu-id="bb0c3-106">Partner Center</span></span>
--  <span data-ttu-id="bb0c3-107">Центр партнеров для Microsoft Cloud для правительства США</span><span class="sxs-lookup"><span data-stu-id="bb0c3-107">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="6567f-106">Центр партнеров</span><span class="sxs-lookup"><span data-stu-id="6567f-106">Partner Center</span></span>
+-  <span data-ttu-id="6567f-107">Центр партнеров для Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="6567f-107">Partner Center for Microsoft Cloud for US Government</span></span>
 
 
 > [!IMPORTANT]  
-> <span data-ttu-id="bb0c3-108">Если ваша учетная запись Центра партнеров приостановлена, вы можете продолжать управлять существующими развертываниями, лицензиями и службами.</span><span class="sxs-lookup"><span data-stu-id="bb0c3-108">While your Partner Center account is suspended, you can continue to manage your existing deployments, licenses, and services.</span></span> <span data-ttu-id="bb0c3-109">Однако вы не сможете авторизовывать или перепродавать новые лицензии или службы, пока ваша учетная записи не будет приведена в надлежащее состояние.</span><span class="sxs-lookup"><span data-stu-id="bb0c3-109">However, you won’t be able to authorize or resell new licenses or services until your account is in good standing again.</span></span>
+> <span data-ttu-id="6567f-108">Если ваша учетная запись Центра партнеров приостановлена, вы можете продолжать управлять существующими развертываниями, лицензиями и службами.</span><span class="sxs-lookup"><span data-stu-id="6567f-108">While your Partner Center account is suspended, you can continue to manage your existing deployments, licenses, and services.</span></span> <span data-ttu-id="6567f-109">Однако вы не сможете авторизовывать или перепродавать новые лицензии или службы, пока ваша учетная записи не будет приведена в надлежащее состояние.</span><span class="sxs-lookup"><span data-stu-id="6567f-109">However, you won’t be able to authorize or resell new licenses or services until your account is in good standing again.</span></span>
 
-## <a name="why-partner-center-accounts-are-suspended"></a><span data-ttu-id="bb0c3-110">Причины приостановки учетной записи Центра партнеров</span><span class="sxs-lookup"><span data-stu-id="bb0c3-110">Why Partner Center accounts are suspended</span></span>
+## <a name="why-partner-center-accounts-are-suspended"></a><span data-ttu-id="6567f-110">Причины приостановки учетной записи Центра партнеров</span><span class="sxs-lookup"><span data-stu-id="6567f-110">Why Partner Center accounts are suspended</span></span>
 
-<span data-ttu-id="bb0c3-111">Майкрософт приостанавливает учетную запись Центра партнеров по следующим причинам:</span><span class="sxs-lookup"><span data-stu-id="bb0c3-111">Microsoft will suspend a Partner Center account for one of the following reasons:</span></span>
+<span data-ttu-id="6567f-111">Майкрософт приостанавливает учетную запись Центра партнеров по следующим причинам:</span><span class="sxs-lookup"><span data-stu-id="6567f-111">Microsoft will suspend a Partner Center account for one of the following reasons:</span></span>
 
-- <span data-ttu-id="bb0c3-112">текущая сумма выставленных счетов просрочена более чем на 60 дней;</span><span class="sxs-lookup"><span data-stu-id="bb0c3-112">When the current billing amount is more than 60 days overdue</span></span> 
-- <span data-ttu-id="bb0c3-113">обнаружено значительное злоупотребление учетной записью;</span><span class="sxs-lookup"><span data-stu-id="bb0c3-113">When significant account abuse is detected</span></span>
-- <span data-ttu-id="bb0c3-114">проблемы связаны с деятельностью косвенного поставщика и негативно сказываются на вашей учетной записи (только для косвенных торговых посредников).</span><span class="sxs-lookup"><span data-stu-id="bb0c3-114">When issues affect Indirect Provider operations and negatively impact your account (Indirect Resellers only)</span></span>
+- <span data-ttu-id="6567f-112">текущая сумма выставленных счетов просрочена более чем на 60 дней;</span><span class="sxs-lookup"><span data-stu-id="6567f-112">When the current billing amount is more than 60 days overdue</span></span> 
+- <span data-ttu-id="6567f-113">обнаружено значительное злоупотребление учетной записью;</span><span class="sxs-lookup"><span data-stu-id="6567f-113">When significant account abuse is detected</span></span>
+- <span data-ttu-id="6567f-114">проблемы связаны с деятельностью косвенного поставщика и негативно сказываются на вашей учетной записи (только для косвенных торговых посредников).</span><span class="sxs-lookup"><span data-stu-id="6567f-114">When issues affect Indirect Provider operations and negatively impact your account (Indirect Resellers only)</span></span>
 
-## <a name="what-to-do-if-your-account-is-suspended"></a><span data-ttu-id="bb0c3-115">Действия при приостановке действия учетной записи</span><span class="sxs-lookup"><span data-stu-id="bb0c3-115">What to do if your account is suspended</span></span>
+## <a name="what-to-do-if-your-account-is-suspended"></a><span data-ttu-id="6567f-115">Действия при приостановке действия учетной записи</span><span class="sxs-lookup"><span data-stu-id="6567f-115">What to do if your account is suspended</span></span>
 
-<span data-ttu-id="bb0c3-116">Если вы знаете, что в вашей учетной записи нет просроченных платежей, отправьте запрос в службу поддержки Центра партнеров, чтобы выяснить, почему действие учетной записи было приостановлено.</span><span class="sxs-lookup"><span data-stu-id="bb0c3-116">If you know that your account is current, submit a support request with Partner Center Support to find out why your account was suspended.</span></span> 
+<span data-ttu-id="6567f-116">Если вы знаете, что в вашей учетной записи нет просроченных платежей, отправьте запрос в службу поддержки Центра партнеров, чтобы выяснить, почему действие учетной записи было приостановлено.</span><span class="sxs-lookup"><span data-stu-id="6567f-116">If you know that your account is current, submit a support request with Partner Center Support to find out why your account was suspended.</span></span> 
 
-<span data-ttu-id="bb0c3-117">Если вы не знаете ли вашей учетной записи нет просроченных, выберите в меню **Центра партнеров** , чтобы проверить счет **выставления счетов** .</span><span class="sxs-lookup"><span data-stu-id="bb0c3-117">If you’re not sure whether your account is current, select **Billing** from the **Partner Center** menu to check your bill.</span></span> <span data-ttu-id="bb0c3-118">На странице выставления счетов отображается журнал выставления счетов и тенденции, сумма задолженности за текущий месяц, ссылки на ваш счет, файлы выверки, а также ваш последний платеж.</span><span class="sxs-lookup"><span data-stu-id="bb0c3-118">The billing page shows your billing history and trends, the balance due for the current month, links to your invoice and reconciliation files, and your most recent payment.</span></span>
+<span data-ttu-id="6567f-117">Если вы не знаете ли ваша учетная запись является текущей, выберите **выставления счетов** из **центра партнеров** меню, чтобы просмотреть счета.</span><span class="sxs-lookup"><span data-stu-id="6567f-117">If you’re not sure whether your account is current, select **Billing** from the **Partner Center** menu to check your bill.</span></span> <span data-ttu-id="6567f-118">На странице выставления счетов отображается журнал выставления счетов и тенденции, сумма задолженности за текущий месяц, ссылки на ваш счет, файлы выверки, а также ваш последний платеж.</span><span class="sxs-lookup"><span data-stu-id="6567f-118">The billing page shows your billing history and trends, the balance due for the current month, links to your invoice and reconciliation files, and your most recent payment.</span></span>
 
-<span data-ttu-id="bb0c3-119">Если в вашей учетной записи есть просроченные платежи, следуйте инструкциям в счете для внесения платы, а затем отправьте в службу поддержки запрос на восстановление учетной записи.</span><span class="sxs-lookup"><span data-stu-id="bb0c3-119">If your account is overdue, follow the instructions on your bill to arrange payment and then submit a support request to ask that your account be reinstated.</span></span> 
+<span data-ttu-id="6567f-119">Если в вашей учетной записи есть просроченные платежи, следуйте инструкциям в счете для внесения платы, а затем отправьте в службу поддержки запрос на восстановление учетной записи.</span><span class="sxs-lookup"><span data-stu-id="6567f-119">If your account is overdue, follow the instructions on your bill to arrange payment and then submit a support request to ask that your account be reinstated.</span></span> 
 
-**<span data-ttu-id="bb0c3-120">Отправка запроса в службу поддержки</span><span class="sxs-lookup"><span data-stu-id="bb0c3-120">To Submit a support request</span></span>**
+<span data-ttu-id="6567f-120">**Чтобы отправить запрос в службу поддержки**</span><span class="sxs-lookup"><span data-stu-id="6567f-120">**To Submit a support request**</span></span>
 
-1.  <span data-ttu-id="bb0c3-121">В меню **Центра партнеров** выберите **запросы в службу поддержки > запросы по центру партнеров**.</span><span class="sxs-lookup"><span data-stu-id="bb0c3-121">From the **Partner Center** menu, select **Support requests > Partner Center requests**.</span></span>
-2.  <span data-ttu-id="bb0c3-122">Выберите **Новый запрос**.</span><span class="sxs-lookup"><span data-stu-id="bb0c3-122">Select **New request**.</span></span> 
-3.  <span data-ttu-id="bb0c3-123">Заполните форму, затем выберите **Отправить**.</span><span class="sxs-lookup"><span data-stu-id="bb0c3-123">Complete the form and then select **Submit**.</span></span> <span data-ttu-id="bb0c3-124">Представитель службы поддержки Центра партнеров свяжется с вами и объяснит, почему действие учетной запись было приостановлено и как его возобновить.</span><span class="sxs-lookup"><span data-stu-id="bb0c3-124">A Partner Center Support representative will contact you to explain why your account was suspended and how to reinstate it.</span></span>
+1.  <span data-ttu-id="6567f-121">Из **центра партнеров** меню, выберите **запросы на поддержку > запросы центра партнеров**.</span><span class="sxs-lookup"><span data-stu-id="6567f-121">From the **Partner Center** menu, select **Support requests > Partner Center requests**.</span></span>
+2.  <span data-ttu-id="6567f-122">Выберите **Новый запрос**.</span><span class="sxs-lookup"><span data-stu-id="6567f-122">Select **New request**.</span></span> 
+3.  <span data-ttu-id="6567f-123">Заполните форму, затем выберите **Отправить**.</span><span class="sxs-lookup"><span data-stu-id="6567f-123">Complete the form and then select **Submit**.</span></span> <span data-ttu-id="6567f-124">Представитель службы поддержки Центра партнеров свяжется с вами и объяснит, почему действие учетной запись было приостановлено и как его возобновить.</span><span class="sxs-lookup"><span data-stu-id="6567f-124">A Partner Center Support representative will contact you to explain why your account was suspended and how to reinstate it.</span></span>
 
 
 
