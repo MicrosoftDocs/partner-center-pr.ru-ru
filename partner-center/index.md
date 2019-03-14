@@ -1,19 +1,19 @@
 ---
 layout: LandingPage
 hide_bc: true
-title: Справка с центром партнеров
+title: Справка по использованию Центра партнеров
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: "Центр партнеров помогут вам развивать свой бизнес в рамках программы поставщиков облачных решений (CSP) Майкрософт. Настройте учетную запись, связь с клиентами, приобретение подписки Action Pack и найти дополнительные сведения для партнеров в программе CSP и MPN.\_"
-author: labrenne
+description: "Центр партнеров поможет развить вашу компанию в рамках программы поставщиков облачных решений (Майкрософт). Настройте учетную запись, свяжитесь с клиентами, купите подписку Action Pack и найдите дополнительные сведения о партнерах по программам CSP и MPN.\_"
+author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
 ---
 
-# <a name="welcome-to-partner-center"></a>Добро пожаловать в центр партнеров
+# <a name="welcome-to-partner-center"></a>Добро пожаловать в Центр партнеров
 
-Центр партнеров Майкрософт — это ваш централизованно управлять начала до конца отношения с Майкрософт. Он имеет средства и ресурсы, которые помогут вам продавать и развивать свой бизнес, включая параметры членством, рекомендациями клиентов и в программе поставщиков облачных решений (CSP). Сведения о рекомендациях по управлению учетной записи, взаимодействию с клиентами и покупке подписки Action Pack регистрации в программе поощрений в центре партнеров Библиотека справки.
+Центр партнеров Майкрософт позволяет полностью управлять отношениями с корпорацией Майкрософт. Он предоставляет инструменты и ресурсы, которые помогут вам управлять своей компанией и развивать ее, включая различные варианты членства, рекомендации клиентов и программу поставщиков облачных решений (CSP). Узнайте о рекомендациях по управлению учетной записью, общению с клиентами, приобретению подписки Action Pack и регистрации в программе поощрения в библиотеке справки Центра партнеров.
 
 
 <ul id="products1" class="cardsF cols cols3 panelContent singlePanelContent">
@@ -28,8 +28,8 @@ ms.localizationpriority: medium
                     </div>
                     <div class="cardText">
                         <h3>Объявления</h3>
-                        <p>Войдите в информационную панель центра партнеров для обнаружения новости и позднее критических изменений.</p>
-                        <p><a href="https://partner.microsoft.com/pcv/announcements"><b>Войдите в систему</b></a></p>
+                        <p>Войдите в панель мониторинга Центра партнеров, чтобы ознакомиться с последними критическими изменениями и новостями.</p>
+                        <p><a href="https://partner.microsoft.com/pcv/announcements"><b>Войти сейчас</b></a></p>
                     </div>
                 </div>
             </div>
@@ -46,8 +46,8 @@ ms.localizationpriority: medium
                     </div>
                     <div class="cardText">
                         <h3>Yammer</h3>
-                        <p>Оставайтесь на связи через нашего сообщества Yammer.</p>
-                        <p><a href="https://go.microsoft.com/fwlink/p/?linkid=851605"><b>Присоединяйтесь к сообществу</b></a></p>
+                        <p>Оставайтесь на связи с помощью нашего сообщества Yammer.</p>
+                        <p><a href="https://go.microsoft.com/fwlink/p/?linkid=851605"><b>Присоединиться к сообществу</b></a></p>
                     </div>
                 </div>
             </div>
@@ -63,8 +63,8 @@ ms.localizationpriority: medium
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>API и пакет SDK программы ранних последователей</h3>
-                        <p>Получить доступ к блогов, новые возможности и поддержку от экспертов.</p>
+                        <h3>Программа ранних последователей API и SDK</h3>
+                        <p>Получите доступ к семинарам, новым функциям и помощи экспертов.</p>
                         <p><a href="/partner-center/develop/early-adopter-program"><b>Начало работы</b></a></p>
                     </div>
                 </div>
@@ -73,8 +73,8 @@ ms.localizationpriority: medium
     </li>    
 </ul>
 
-<h2>Новые возможности</h2>
-<p>Получите последние сведения о новых возможностях, преимущества, предложения и возможностями для развития вашего бизнеса.</p>
+<h2>Что нового</h2>
+<p>Получите самую актуальную информацию о новых функциях, преимуществах, предложениях и возможностях для развития компании.</p>
 <ul id="products1" class="cardsZ cols cols3 panelContent singlePanelContent">
     <li>
         <div class="cardSize">
@@ -82,7 +82,7 @@ ms.localizationpriority: medium
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/software-assurance-lp">
                         <h3>Программы Software Assurance</h3>
-                        <p>Теперь вы сможете зарегистрироваться в программе Software Assurance обучение и развертывание служб в центре партнеров.</p></a>
+                        <p>Теперь вы можете зарегистрироваться для обучения по программе Software Assurance и использования служб развертывания в Центре партнеров.</p></a>
                     </div>
                 </div>
             </div>
@@ -93,8 +93,8 @@ ms.localizationpriority: medium
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/voucher-validation-tool">
-                        <h3>Средство проверки операции и при использовании</h3>
-                        <p>Утверждение и получение ваучеры, поддерживающих разработку и бизнес-потребностей клиентов.</p></a>
+                        <h3>Инструмент проверки и погашения ваучеров</h3>
+                        <p>Вы можете активировать и погашать ваучеры, которые поддерживают деловые операции и операции разработки клиентов.</p></a>
                     </div>
                 </div>
             </div>
@@ -105,8 +105,8 @@ ms.localizationpriority: medium
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/responding-to-referrals#new-referrals">
-                        <h3>Более эффективное управление ссылок</h3>
-                        <p>Мы улучшили как можно просмотреть рекомендацию Затребования и принять или отклонить их.</p></a>
+                        <h3>Более эффективное управление рекомендациями</h3>
+                        <p>Мы улучшили возможности просмотра запросов информации клиентов, а также их принятия или отклонения.</p></a>
                     </div>
                 </div>
             </div>
@@ -115,7 +115,7 @@ ms.localizationpriority: medium
 </ul>
 
 
-<h2>Работа в центре партнеров</h2>
+<h2>Работа в Центре партнеров</h2>
 
 <ul id="products1" class="cardsC cols cols3 panelContent singlePanelContent">
     <li>
@@ -129,7 +129,7 @@ ms.localizationpriority: medium
                     </div>
                     <div class="cardText">
                         <h3>Регистрация</h3>
-                        <p><a href="/partner-center/mpn-create-a-partner-center-account">Создание учетной записи</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Управление клиентом и расположениями</a></p>
+                        <p><a href="/partner-center/mpn-create-a-partner-center-account">Создать учетную запись</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Управление клиентом и расположениями</a></p>
                     </div>
                 </div>
             </div>
@@ -146,7 +146,7 @@ ms.localizationpriority: medium
                     </div>
                     <div class="cardText">
                         <h3>Связь с клиентами</h3>
-                        <p><a href="/partner-center/customer-accounts">Учетные записи клиентов</a><br /><a href="/partner-center/customer-subscriptions">Продажа подписок</a><br /><a href="/partner-center/assign-licenses-to-users">Управление лицензиями</a><br /><a href="/partner-center/billing">Выставление счетов</a></p>
+                        <p><a href="/partner-center/customer-accounts">Учетные записи клиента</a><br /><a href="/partner-center/customer-subscriptions">Продажа подписок</a><br /><a href="/partner-center/assign-licenses-to-users">Управление лицензиями</a><br /><a href="/partner-center/billing">Выставление счетов</a></p>
                     </div>
                 </div>
             </div>
@@ -163,7 +163,7 @@ ms.localizationpriority: medium
                     </div>
                     <div class="cardText">
                         <h3>Развивайте ваш бизнес</h3>
-                        <p><a href="/partner-center/referrals">Бизнес-профили/партнеры</a><br /><a href="/partner-center/promotions">Рекламные акции</a><br /><a href="/partner-center/get-special-pricing-for-offers">Продажи представителям определенных отраслей</a></p>
+                        <p><a href="/partner-center/referrals">Бизнес-профили и партнеры</a><br /><a href="/partner-center/promotions">Рекламные акции</a><br /><a href="/partner-center/get-special-pricing-for-offers">Продажи представителям определенных отраслей</a></p>
                     </div>
                 </div>
             </div>
@@ -185,7 +185,7 @@ ms.localizationpriority: medium
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="/partner-center/mpn-get-action-pack">Получить Microsoft Action Pack (MAPS)</a></h3>
+                        <h3><a href="/partner-center/mpn-get-action-pack">Получение Microsoft Action Pack (MAPS)</a></h3>
                     </div>
                 </div>
             </div>
@@ -201,7 +201,7 @@ ms.localizationpriority: medium
                         </div>
                     </div>                
                     <div class="cardText">
-                        <h3><a href="/partner-center/develop/">Справочник по API/SDK центра партнеров</a></h3>
+                        <h3><a href="/partner-center/develop/">Справочник по API и пакетам SDK для Центра партнеров</a></h3>
                     </div>
                 </div>
             </div>
@@ -217,7 +217,7 @@ ms.localizationpriority: medium
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx">Не партнера? Присоединитесь к Microsoft Partner Network прямо сейчас.</a></h3>
+                        <h3><a href="https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx">Не являетесь партнером? Присоединитесь к Microsoft Partner Network прямо сейчас.</a></h3>
                     </div>
                 </div>
             </div>
