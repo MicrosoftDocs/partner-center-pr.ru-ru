@@ -2,17 +2,17 @@
 title: Фирменную out-of-box устройства с помощью профилей Windows Autopilot | Центр партнеров
 description: Выполните предварительную настройку устройства out-of-box опыт профилей Autopilot.
 ms.topic: article
-ms.date: 02/06/19
+ms.date: 03/18/19
 author: maggiepuccievans
 ms.author: evansma
 keywords: AutoPilot, windows autopilot, microsoft autopilot, развертывания без участия пользователя, oobe, экраны входа, out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: 00c4bc3717b5f40984f60dd2c04ee7fec10b80da
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: e940a7ccf79f6b43d3712a2f3ae2f9b150e1473e
+ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586917"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "58162224"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Настройка устройства out-of-box опыт профили Windows Autopilot
 
@@ -45,7 +45,7 @@ ms.locfileid: "57586917"
 
 - Партнеры CSP могут продолжать управлять профилей Autopilot для существующих клиентов, с которыми у них есть отношений торгового посредника, даже если клиенты были удалены права делегированного администрирования партнера.
 
-- Вы можете управлять существующих устройств для клиентов, добавленных пользователем или другой партнер CSP.
+- Вы можете управлять существующих устройств для ваших клиентов, которые были добавлены.
 
 - Нельзя управлять устройствами, которые клиент загруженные пользователем в Microsoft Store для бизнеса или на портале Microsoft Intune.
 
@@ -94,11 +94,11 @@ ms.locfileid: "57586917"
 
 4. Выполните следующие действия, чтобы проверить, что профиль будет успешно применена к устройству.
 
-    а.  Подключите устройство к сети и включить его.
+    1.  Подключите устройство к сети и включить его.
 
-    б)  Убедитесь, что отображаются соответствующие экраны OOBE (если они должны отображаться).
+    2.  Убедитесь, что отображаются соответствующие экраны OOBE (если они должны отображаться).
 
-    в)  При остановке процесса OOBE, сброс устройства до заводских настроек по умолчанию для подготовки его для нового пользователя.
+    В.  При остановке процесса OOBE, сброс устройства до заводских настроек по умолчанию для подготовки его для нового пользователя.
 
 ### <a name="remove-an-autopilot-profile-from-a-customers-device"></a>Удаление профиля Autopilot с устройства клиента
 

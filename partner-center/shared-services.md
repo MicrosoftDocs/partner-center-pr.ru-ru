@@ -8,12 +8,12 @@ ms.author: labrenne
 Keywords: Azure, общие службы, клиент
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ad0d7fcaa1a4a8f65f26dd2a3e826f44b10be80a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: ff1e169f54c71e634d07ade9981ecb11009fa9de
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586987"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682472"
 ---
 # <a name="add-azure-partner-shared-services"></a>Добавление служб Azure Partner Shared Services
 
@@ -57,4 +57,19 @@ ms.locfileid: "57586987"
 
 Чтобы ознакомиться с новым прайс-листом на службы Azure Partner Shared Services перейдите в раздел **Продажа** > **Цены и предложения** и выберите прайс-лист для текущего месяца. В ближайшее время также будет выпущен специальный API-интерфейс тарифных карт.
 
+## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Предложения Marketplace и общим службам партнеров Azure
+
+Начиная с 1 марта 2019 г. службы общих служб Azure Partner (APSS) больше не поддерживает предложения Marketplace.   
+
+|**Поддержка Marketplace**   |**APSS поддерживается до 1 марта 2019 г.**|**После 1 марта 2019 г.**|
+|---------------------------|:----------------------------|:-------------------|
+|Задайте свои собственные лицензии (BYOL) и бесплатных служб   | Да   | Нет|
+|Другие предложения marketplace независимых производителей   | Нет   |Нет|
+
+
+Партнеры, имеющие BYOL или бесплатные службы, развернутые с помощью APSS не будут затронуты; Тем не менее после 1 марта 2019 г. они не смогут приобрести новый BYOL или бесплатных служб. 
+
+Чтобы воспользоваться преимуществами полный каталог доступных предложений в Marketplace (не только BYOL и бесплатными службами) мы рекомендуем партнерам CSP развертывание общих служб, с помощью подписки Azure Web-direct.  Партнеров CSP, которые развернули третьих сторон BYOL и освобождения ресурсов из Marketplace службы ранее и продолжить их использование и развертывание более третьей стороной, рекомендуется перенести подписку APSS в Интернете прямые предложений [Миграция Существующие подписки Azure](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
+
+Партнеры, которые планируется продолжить использование APSS подписку после 1 марта 2019 года и хотите развернуть новый сторонний [BYOL служб](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) или бесплатных служб, можно воспользоваться инструкциями из независимых поставщиков программного обеспечения для развертывания их в свои подписки APSS.
 

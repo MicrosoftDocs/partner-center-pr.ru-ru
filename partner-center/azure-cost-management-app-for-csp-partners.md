@@ -8,12 +8,12 @@ ms.author: janet
 Keywords: Приложение для управления расходами, управлять затратами, веб-приложения
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 586ec2936b8491e91b4f2a56cbc392e4dee350b3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: f1627727908eff9c686dd8359558e960d0fbff88
+ms.sourcegitcommit: 6578eea4fe6836dad5710f8d22376ad8bba6e307
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586087"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "58490346"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Приложение Azure Cost Management для партнеров Azure CSP  
 
@@ -31,7 +31,7 @@ ms.locfileid: "57586087"
 
 ## <a name="overview"></a>Обзор
 
-Azure Cost Management от Cloudyn — это веб-приложение, позволяющее отслеживать и контролировать объем и стоимость использования Azure вашими клиентами. Приложение доступно через API Центра партнеров.
+Cloudyn — это веб-приложение, которое позволяет отслеживать и управлять, насколько ваши клиенты используют Azure и стоимости использования. Приложение доступно через API Центра партнеров.
 
 ## <a name="register-your-web-app-in-the-partner-center"></a>Регистрация своего веб-приложения в Центре партнеров
 При регистрации веб-приложения Azure Active Directory в Центре партнеров вы предоставляете доступ к API Центра партнеров. 
@@ -48,7 +48,7 @@ Azure Cost Management от Cloudyn — это веб-приложение, по
    > [!NOTE]  
    > Секретный ключ приложения, такие как пароли с больше даты окончания срока действия. Сохраните значение ключа в безопасном расположении для будущего использования.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 Запустите [бесплатную пробную версию на 30 дней](https://go.microsoft.com/fwlink/?linkid=857895).
 Для запуска пробной версии потребуются следующие сведения:
 - Учетные данные для входа в Центр партнеров

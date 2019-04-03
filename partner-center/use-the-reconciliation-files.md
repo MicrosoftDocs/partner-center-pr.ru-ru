@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ce9b7cd9ead08b7709c68a0e967d64e9f2a32bd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 9997b01c76dacb736baa33f458def0b820753f1d
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585137"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682512"
 ---
 # <a name="use-the-reconciliation-files"></a>Использование файлов выверки
 
@@ -345,7 +345,7 @@ ms.locfileid: "57585137"
 <td>Азиатско-Тихоокеанский регион, Европа, Латинская Америка, Северная Америка</td>
 </tr>
 <tr class="even">
-<td>SKU</td>
+<td>номер SKU</td>
 <td><p>Уникальный идентификатор MSFT для предложения</p></td>
 <td>7UD-00001</td>
 </tr>
@@ -642,7 +642,7 @@ ms.locfileid: "57585137"
 
 <tr class="odd">
 <td>Альтернативного имени пользователя</td>
-<td><p>Альтернативный идентификатор с идентификатором.</p></td>
+<td><p>Альтернативный идентификатор с идентификатором заказа.</p></td>
 </tr>
 </tbody>
 </table>

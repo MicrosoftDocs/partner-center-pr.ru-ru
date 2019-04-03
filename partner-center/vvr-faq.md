@@ -7,16 +7,16 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: купоны на обучение, программы software assurance, учебные курсы, проверить операции, операции резервирования
 ms.localizationpriority: medium
-ms.openlocfilehash: 98ca652900afd38ed022801a9cb7ec4c2b917180
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
+ms.sourcegitcommit: 283aff5f4251e09fbc92c2cd7467cab598ed91c0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584457"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "58863992"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>ВОПРОСЫ И ОТВЕТЫ: С помощью операции проверки и активации средства 
 
-**Применяется к**
+**Применение**
 
 - Центр партнеров
 
@@ -48,6 +48,9 @@ ms.locfileid: "57584457"
 
 - Центр партнеров требует входа с помощью рабочей учетной записи (AAD).  МИКРОСХЕМА используется личная учетная запись для входа в систему (MSA или Live ID).  При переходе из VVR в центре партнеров по МИКРОСХЕМЫ, необходимо войти в МИКРОСХЕМЕ, с помощью MSA или Live ID, который регистрируется с помощью МИКРОСХЕМ.
 
+**Как моей организации доступа к средству VVR?**
+
+- Для доступа к средству VVR, вашей компании необходимо зарегистрироваться для участия в программе SATV или программы SA DPS.
 Сведения о том, как зарегистрироваться для участия в SATV [программы Software Assurance обучения ваучер (SATV) в центре партнеров](software-assurance-satv.md).
  <!--
 For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->

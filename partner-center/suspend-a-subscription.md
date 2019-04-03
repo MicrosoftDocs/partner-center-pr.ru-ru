@@ -1,18 +1,18 @@
 ---
 title: Приостановка подписки | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/11/2018
 description: Партнеры могут приостановить или отменить подписку по просьбе клиента либо в случаях неплатежа или мошенничества.
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b89b8182c8a15026ca91e321e97e3b75ac42a7ee
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: acf9a30f10f5d0608843cd2e3e088ac9f6bb1559
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585317"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756891"
 ---
 # <a name="suspend-a-subscription"></a>Приостановка подписки
 
@@ -24,7 +24,7 @@ ms.locfileid: "57585317"
 
 Партнеры могут приостановить или отменить подписку по просьбе клиента либо в случаях неплатежа или мошенничества.
 
-При изменении статуса подписки на **Приостановленная** пользователи не смогут входить в систему или получать доступ к службам. Администраторы по-прежнему смогут входить в систему и получать доступ к данным.
+При изменении статуса подписки на **Приостановленная** пользователи не смогут входить в систему или получать доступ к службам.
 
 **Приостановка подписки**
 

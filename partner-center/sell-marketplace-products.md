@@ -1,18 +1,18 @@
 ---
 title: Приобрести подписки на продукты Azure Marketplace | Центр партнеров
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/27/2019
 description: Можно использовать центр партнеров для продажи заказчикам подписки на программное обеспечение как услуга (SaaS) продукты, которые опубликованы в Azure Marketplace, независимыми поставщиками программного обеспечения (ISV).
 author: JnHs
 ms.author: jenhayes
 keywords: подписки, Marketplace, третьих лиц, независимых поставщиков программного обеспечения
 ms.localizationpriority: medium
-ms.openlocfilehash: 074527f791cad6b0234994fc3985d9657f5acccd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 98229a93d5ca4ba165fcfe7fc03a084c32c630b2
+ms.sourcegitcommit: f9c930479a5d7b594a968d4f7cffb81aef8abc59
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587717"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "58508961"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>Приобрести подписки на продукты Azure Marketplace
 
@@ -32,5 +32,4 @@ ms.locfileid: "57587717"
 
 Приобретение подписок для продуктов Azure Marketplace SaaS используется такой же процесс как приобретение подписок для продуктов Майкрософт. Дополнительные сведения см. в разделе [создать новую подписку](create-a-new-subscription.md). Обратите внимание на то, что некоторые предложения не могут быть доступны для определенных клиентов, в зависимости от того, поддерживает ли поставщик программного обеспечения клиента Страна или регион выставления счетов или из-за других факторов.
 
-Ожидается в ближайшее время мы добавим возможность использовать API центра партнеров для управления подписками Azure Marketplace для клиентов. 
-
+Можно также использовать [API центра партнеров](https://docs.microsoft.com/en-us/partner-center/develop/) для управления подписками Azure Marketplace для клиентов.
