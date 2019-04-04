@@ -1,10 +1,15 @@
 ---
-title: 'Центр партнеров, предоставляемый 21Vianet'
+title: Центр партнеров, предоставляемый 21Vianet
 ms.topic: article
 ms.date: 10/29/2018
-description: 'Использование Центра партнеров, предоставляемого 21Vianet, для перепродажи услуг CSP в Китае.'
+description: Использование Центра партнеров, предоставляемого 21Vianet, для перепродажи услуг CSP в Китае.
+ms.openlocfilehash: 236f425c9e49ca7683b3c337f0258b7a86f76ca9
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588267"
 ---
-   
 # <a name="partner-center-operated-by-21vianet"></a><span data-ttu-id="cbc8f-103">Центр партнеров, предоставляемый 21Vianet</span><span class="sxs-lookup"><span data-stu-id="cbc8f-103">Partner Center operated by 21Vianet</span></span>
 
 <span data-ttu-id="cbc8f-104">Добро пожаловать в Центр партнеров, предоставляемый 21Vianet, — бизнес-портал для торговых посредников, продающих услуги поставщика облачных решений (CSP) 21Vianet в Китае.</span><span class="sxs-lookup"><span data-stu-id="cbc8f-104">Welcome to Partner Center operated by 21Vianet, the business portal for resellers of 21Vianet's Cloud Solution Provider (CSP) services in China.</span></span> 
