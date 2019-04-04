@@ -17,10 +17,10 @@
 ## [Регистрация в программе поставщиков облачных решений](enrolling-in-the-csp-program.md)
 ## [Новые требования к прямым партнерам CSP](direct-partner-new-requirements.md)
 ## [Соглашения Microsoft Cloud по региону и языку](agreements.md)
-##[Переход со статуса партнера с прямым выставлением счетов в статус косвенного торгового посредника в рамках программы CSP](transition-direct-to-indirect.md)
+## [Переход со статуса партнера с прямым выставлением счетов в статус косвенного торгового посредника в рамках программы CSP](transition-direct-to-indirect.md)
 ## [Соглашения, прайс-листы и предложения CSP](csp-documents-and-learning-resources.md)
-## [Обзор региональной авторизации CSP](regional-authorization-overview.md)
-## [Консолидация клиента региональной авторизации CSP](csp-regional-authorization-tenant-consolidation.md)
+## [Региональные рынки и валюты CSP](regional-authorization-overview.md)
+
 
 ## [Применение для продаж в национальных облаках](csp-national-clouds-overview.md)
 ### [Центр партнеров для Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
@@ -29,6 +29,7 @@
 # [Управление учетной записью Центра партнеров](partner-center-account-setup.md)
 ## [Рабочие учетные записи и Центр партнеров](azure-active-directory-tenants-and-partner-center.md)
 ## [Обновление профиля партнера](update-your-partner-profile.md)
+## [Расположения](manage-locations.md)
 ## [Восстановление приостановленной учетной записи Центра партнеров](suspended-partner-center-account.md)
 ## [Создание учетных записей пользователей](create-user-accounts-and-set-permissions.md)
 ## [Назначение пользователям ролей и разрешений](permissions-overview.md)
