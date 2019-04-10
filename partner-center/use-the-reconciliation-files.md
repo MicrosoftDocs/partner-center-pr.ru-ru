@@ -7,22 +7,38 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9997b01c76dacb736baa33f458def0b820753f1d
-ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
+ms.openlocfilehash: 0d986ca81e77578ecbb79b909d8f2a8afc4777e4
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "57682512"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430203"
 ---
 # <a name="use-the-reconciliation-files"></a>Использование файлов выверки
 
-**Применяется к**
+**Применение**
 
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud for US Government
 
 
 Для просмотра подробных строке каждой издержки в цикле выставления счетов скачайте сверочные файлы из центра партнеров. Эти сведения включают оплаты за подписки каждого клиента и детализированные события (например, добавление количества мест к подписке в середине срока).
+
+## <a name="formatting-issues"></a>Особенности форматирования
+
+Иногда проверка файла возможно, проблемы форматирования. (Это может произойти, например, если не используется языковой стандарт EN-US.) Выполните следующие действия, чтобы устранить эти проблемы. 
+
+<ol>
+<li>Откройте CSV-файл в Excel и выберите первый столбец. На ленте выберите <strong>данных</strong>, а затем выберите <strong>текст по столбцам</strong>.</li>
+
+<li>В преобразовать в столбцы мастера выберите <strong>с разделителями тип файла</strong>, а затем выберите <strong>Далее</strong>.</li> 
+
+<li>В поле разделителей групп разрядов выберите <strong>разделителями</strong>. Если <strong>вкладке</strong> является еще выбран, можно оставить его. Выберите <strong>Далее</strong>.</li>
+
+<li>В поле формата столбца данных, выберите <strong>даты: MDY (МДГ)</strong>, а затем выберите <strong>Далее</strong>.</li> 
+
+<li>В поле формата столбца данных, выберите <strong>текст</strong> для всех сумма столбцов, а затем выберите <strong>Готово</strong>.</li>
+</ol>
 
 ## <a href="" id="itemizebypartner"></a>Детализировать партнером
 
@@ -72,9 +88,9 @@ ms.locfileid: "57682512"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>столбец</strong></td>
+<td><strong>Column</strong></td>
 <td><strong>Описание</strong></td>
-<td><strong>Образец значения</strong></td>
+<td><strong>Пример значения</strong></td>
 </tr>
 <tr class="even">
 <td>PartnerId</td>
@@ -241,9 +257,9 @@ ms.locfileid: "57682512"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>столбец</strong></td>
+<td><strong>Column</strong></td>
 <td><strong>Описание</strong></td>
-<td><strong>Образец значения</strong></td>
+<td><strong>Пример значения</strong></td>
 </tr>
 <tr class="even">
 <td>PartnerID</td>
@@ -902,21 +918,21 @@ ms.locfileid: "57682512"
 <tbody>
 <tr>
 <td>
-<p><strong>Описание платежа счета</strong></p>
+<p><strong>Описание расходов по накладной</strong></p>
 </td>
 <td>
-<p><strong>Описание платежа сверочный файл (столбец ChargeType)</strong></p>
+<p><strong>Описание расходов по файлу выверки (столбец ChargeType)</strong></p>
 </td>
 <td>
-<p><strong>Что такое эта плата?</strong></p>
+<p><strong>Что представляют собой данные расходы?</strong></p>
 </td>
 <td>
-<p><strong>Как сопоставить эти счетом в счет?</strong></p>
+<p><strong>Как сопоставить эти типы расходов (ChargeTypes) со счетом-фактурой?</strong></p>
 </td>
 </tr>
 <tr>
 <td rowspan="10">
-<p><strong>Расходы на основе лицензий</strong></p>
+<p><strong>Оплата на основе лицензии</strong></p>
 </td>
 <td>
 <p>Стоимость активации</p>
@@ -1025,7 +1041,7 @@ ms.locfileid: "57682512"
 </tr>
 <tr>
 <td>
-<p><strong>Деньги на счете</strong></p>
+<p><strong>Кредиты</strong></p>
 </td>
 <td>
 <p>Смещение позиции строки</p>
@@ -1081,10 +1097,10 @@ ms.locfileid: "57682512"
 
 <tr>
 <td>
-<p><strong>Скидки на основе лицензий</strong></p>
+<p><strong>Скидки на основе лицензии</strong></p>
 </td>
 <td>
-<p><em>Может применяться к нескольким типам платежей</em></p>
+<p><em>Может применяться к различным типам платежей</em></p>
 </td>
 <td>
 <p></p>
@@ -1098,8 +1114,8 @@ ms.locfileid: "57682512"
 <p><strong>Налоги</strong>&nbsp;или&nbsp;<strong>НДС</strong></p>
 </td>
 <td>
-<p><em>Может применяться к нескольким типам платежей</em></p>
-<p><em>Исключение: &quot;Смещение элемента строки&quot; уже включает в себя налоги. Деньги на счете, см. выше.</em></p>
+<p><em>Может применяться к различным типам платежей</em></p>
+<p><em>Исключение: &quot;Смещение элемента строки&quot; уже включает в себя налоги. См. пункт "Кредиты" выше.</em></p>
 </td>
 <td>
 <p>Налоги и налоги на добавленную стоимость (НДС)</p>
