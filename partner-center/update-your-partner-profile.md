@@ -2,48 +2,49 @@
 title: Обновление профиля партнера | Центр партнеров
 description: При первом входе в качестве администратора убедитесь, что данные службы поддержки указаны правильно, внесите сведения об освобождении от уплаты налогов, если необходимо, и проверьте контактные данные в профилях.
 MS.Topic: article
-Date: 02/19/29
+Date: 02/19/2019
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-MS.Author: evansma
-ms.openlocfilehash: 1e341d9209f59121d16c82a5b3bff752019e691c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.author: evansma
+ms.localizationpriority: medium
+ms.openlocfilehash: ff8f149adda67ae911870ead8f3c03ab35f5f1be
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587467"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430103"
 ---
-# <a name="update-your-partner-profile"></a><span data-ttu-id="38c03-103">Обновление профиля партнера</span><span class="sxs-lookup"><span data-stu-id="38c03-103">Update your partner profile</span></span>
+# <a name="update-your-partner-profile"></a><span data-ttu-id="fea86-103">Обновление профиля партнера</span><span class="sxs-lookup"><span data-stu-id="fea86-103">Update your partner profile</span></span>
 
 
-<span data-ttu-id="38c03-104">При первом входе в Центр партнеров в качестве администратора убедитесь, что данные службы поддержки указаны правильно, внесите сведения об освобождении от уплаты налогов, если необходимо, и проверьте контактные данные в профилях.</span><span class="sxs-lookup"><span data-stu-id="38c03-104">The first time you sign into Partner Center as an admin, make sure your support details are correct, file tax exemptions if appropriate, and review the contact information in your profiles.</span></span> <span data-ttu-id="38c03-105">Если вашей организации есть несколько расположений, просмотрите данные расположения для повышения точности.</span><span class="sxs-lookup"><span data-stu-id="38c03-105">If your organization has more than one location, review your location data for accuracy.</span></span>
+<span data-ttu-id="fea86-104">При первом входе в Центр партнеров в качестве администратора убедитесь, что данные службы поддержки указаны правильно, внесите сведения об освобождении от уплаты налогов, если необходимо, и проверьте контактные данные в профилях.</span><span class="sxs-lookup"><span data-stu-id="fea86-104">The first time you sign into Partner Center as an admin, make sure your support details are correct, file tax exemptions if appropriate, and review the contact information in your profiles.</span></span> <span data-ttu-id="fea86-105">Если вашей организации есть несколько расположений, просмотрите данные расположения для повышения точности.</span><span class="sxs-lookup"><span data-stu-id="fea86-105">If your organization has more than one location, review your location data for accuracy.</span></span>
 
-<span data-ttu-id="38c03-106">**Обновить ваши данные поддержки**</span><span class="sxs-lookup"><span data-stu-id="38c03-106">**Update your support details**</span></span>
+**<span data-ttu-id="fea86-106">Обновление данных службы поддержки</span><span class="sxs-lookup"><span data-stu-id="fea86-106">Update your support details</span></span>**
 
-1.  <span data-ttu-id="38c03-107">Перейдите к **параметры** &gt; **просмотреть все параметры** &gt; **профиль партнера**.</span><span class="sxs-lookup"><span data-stu-id="38c03-107">Go to **Settings** &gt; **View all settings** &gt;**Partner Profile**.</span></span>
-2.  <span data-ttu-id="38c03-108">В разделе **Поддержка** выберите **Обновление**.</span><span class="sxs-lookup"><span data-stu-id="38c03-108">In the **Support** section, select **Update**.</span></span>
-3.  <span data-ttu-id="38c03-109">Если какой-либо из ваших клиентов обратится за поддержкой в Майкрософт, корпорация Майкрософт направит его на веб-сайт или сообщит адрес электронной почты и номер телефона, которые вы указали в профиле поддержки.</span><span class="sxs-lookup"><span data-stu-id="38c03-109">If any of your customers call Microsoft looking for support, Microsoft will point them back to the website, email, and phone contact info that you list in your support profile.</span></span>
+1.  <span data-ttu-id="fea86-107">Перейдите к **параметры** &gt; **просмотреть все параметры** &gt; **профиль партнера**.</span><span class="sxs-lookup"><span data-stu-id="fea86-107">Go to **Settings** &gt; **View all settings** &gt;**Partner Profile**.</span></span>
+2.  <span data-ttu-id="fea86-108">В разделе **Поддержка** выберите **Обновление**.</span><span class="sxs-lookup"><span data-stu-id="fea86-108">In the **Support** section, select **Update**.</span></span>
+3.  <span data-ttu-id="fea86-109">Если какой-либо из ваших клиентов обратится за поддержкой в Майкрософт, корпорация Майкрософт направит его на веб-сайт или сообщит адрес электронной почты и номер телефона, которые вы указали в профиле поддержки.</span><span class="sxs-lookup"><span data-stu-id="fea86-109">If any of your customers call Microsoft looking for support, Microsoft will point them back to the website, email, and phone contact info that you list in your support profile.</span></span>
 
-<span data-ttu-id="38c03-110">**Файл налога исключения**</span><span class="sxs-lookup"><span data-stu-id="38c03-110">**File tax exemptions**</span></span>
+**<span data-ttu-id="fea86-110">Подача заявок на освобождение от уплаты налогов</span><span class="sxs-lookup"><span data-stu-id="fea86-110">File tax exemptions</span></span>**
 
--   <span data-ttu-id="38c03-111">Определите, имеете ли вы право на освобождение от уплаты налогов, и, если да, подайте соответствующую заявку, прежде чем добавлять клиентов или подписки.</span><span class="sxs-lookup"><span data-stu-id="38c03-111">Decide whether tax exemptions apply to you, and if so file them before you add any customers or subscriptions.</span></span> <span data-ttu-id="38c03-112">См. раздел [Налоги и освобождение от уплаты налогов](tax-and-tax-exemptions.md).</span><span class="sxs-lookup"><span data-stu-id="38c03-112">See [Tax and tax exemptions](tax-and-tax-exemptions.md).</span></span>
+-   <span data-ttu-id="fea86-111">Определите, имеете ли вы право на освобождение от уплаты налогов, и, если да, подайте соответствующую заявку, прежде чем добавлять клиентов или подписки.</span><span class="sxs-lookup"><span data-stu-id="fea86-111">Decide whether tax exemptions apply to you, and if so file them before you add any customers or subscriptions.</span></span> <span data-ttu-id="fea86-112">См. раздел [Налоги и освобождение от уплаты налогов](tax-and-tax-exemptions.md).</span><span class="sxs-lookup"><span data-stu-id="fea86-112">See [Tax and tax exemptions](tax-and-tax-exemptions.md).</span></span>
 
-<span data-ttu-id="38c03-113">**Проверьте данные профиля**</span><span class="sxs-lookup"><span data-stu-id="38c03-113">**Verify your profile information**</span></span>
+**<span data-ttu-id="fea86-113">Проверка информации профиля</span><span class="sxs-lookup"><span data-stu-id="fea86-113">Verify your profile information</span></span>**
 
-1.  <span data-ttu-id="38c03-114">Перейдите к **параметры** &gt; **просмотреть все параметры** .</span><span class="sxs-lookup"><span data-stu-id="38c03-114">Go to **Settings** &gt;**View all settings** .</span></span> 
-2.  <span data-ttu-id="38c03-115">Проверьте информацию в разделах **Профиль партнера**, **Профиль выставления счетов партнера** и **Профиль организации**.</span><span class="sxs-lookup"><span data-stu-id="38c03-115">Review your **Partner profile**, **Partner billing profile**, and **Organizational profile**.</span></span>
+1.  <span data-ttu-id="fea86-114">Перейдите к **параметры** &gt; **просмотреть все параметры** .</span><span class="sxs-lookup"><span data-stu-id="fea86-114">Go to **Settings** &gt;**View all settings** .</span></span> 
+2.  <span data-ttu-id="fea86-115">Проверьте информацию в разделах **Профиль партнера**, **Профиль выставления счетов партнера** и **Профиль организации**.</span><span class="sxs-lookup"><span data-stu-id="fea86-115">Review your **Partner profile**, **Partner billing profile**, and **Organizational profile**.</span></span>
 
-## <a name="manage-your-partner-profile"></a><span data-ttu-id="38c03-116">Управление профилем партнера</span><span class="sxs-lookup"><span data-stu-id="38c03-116">Manage your Partner profile</span></span> 
+## <a name="manage-your-partner-profile"></a><span data-ttu-id="fea86-116">Управление профилем партнера</span><span class="sxs-lookup"><span data-stu-id="fea86-116">Manage your Partner profile</span></span> 
 
-<span data-ttu-id="38c03-117">Теперь вы можете обновить ваш юридический адрес в центре партнеров.</span><span class="sxs-lookup"><span data-stu-id="38c03-117">You can now update your legal address on Partner Center.</span></span>
+<span data-ttu-id="fea86-117">Теперь вы можете обновить ваш юридический адрес в центре партнеров.</span><span class="sxs-lookup"><span data-stu-id="fea86-117">You can now update your legal address on Partner Center.</span></span>
 
-1. <span data-ttu-id="38c03-118">Перейдите к **параметры** &gt; **просмотреть все параметры** &gt; **профиль партнера**.</span><span class="sxs-lookup"><span data-stu-id="38c03-118">Go to **Settings** &gt; **View all settings** &gt;**Partner Profile**.</span></span>
-2. <span data-ttu-id="38c03-119">Выберите **обновления** рядом с юридический адрес.</span><span class="sxs-lookup"><span data-stu-id="38c03-119">Select **Update** next to Legal address.</span></span> 
+1. <span data-ttu-id="fea86-118">Перейдите к **параметры** &gt; **просмотреть все параметры** &gt; **профиль партнера**.</span><span class="sxs-lookup"><span data-stu-id="fea86-118">Go to **Settings** &gt; **View all settings** &gt;**Partner Profile**.</span></span>
+2. <span data-ttu-id="fea86-119">Выберите **обновления** рядом с юридический адрес.</span><span class="sxs-lookup"><span data-stu-id="fea86-119">Select **Update** next to Legal address.</span></span> 
 
 >[!Important]
-><span data-ttu-id="38c03-120">Нельзя изменить страну, связанный с вашей юридический адрес. Страну юридический адрес связан с клиента и службы.</span><span class="sxs-lookup"><span data-stu-id="38c03-120">You can't change the country associated with your legal address.Your legal address country is tied to your tenant and services.</span></span> <span data-ttu-id="38c03-121">Сведения см. в статье [изменить адрес юридические](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="38c03-121">For details, read [Change your legal address](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more?view=o365-worldwide).</span></span>
+><span data-ttu-id="fea86-120">Нельзя изменить страну, связанный с вашей юридический адрес. Страну юридический адрес связан с клиента и службы.</span><span class="sxs-lookup"><span data-stu-id="fea86-120">You can't change the country associated with your legal address.Your legal address country is tied to your tenant and services.</span></span> <span data-ttu-id="fea86-121">Сведения см. в статье [изменить адрес юридические](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="fea86-121">For details, read [Change your legal address](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more?view=o365-worldwide).</span></span>
 
-3. <span data-ttu-id="38c03-122">При выборе **отправить**, вашего юридического удостоверение будет повторно имущество, и вы получите другой адрес электронной почты, который нужно будет принять.</span><span class="sxs-lookup"><span data-stu-id="38c03-122">When you select **Submit**, your legal identity will be re-assessed, and you will receive another email which you will need to accept.</span></span>
+3. <span data-ttu-id="fea86-122">При выборе **отправить**, вашего юридического удостоверение будет повторно имущество, и вы получите другой адрес электронной почты, который нужно будет принять.</span><span class="sxs-lookup"><span data-stu-id="fea86-122">When you select **Submit**, your legal identity will be re-assessed, and you will receive another email which you will need to accept.</span></span>
 
 
 
