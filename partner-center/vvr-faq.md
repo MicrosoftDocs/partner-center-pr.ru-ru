@@ -8,15 +8,15 @@ ms.author: labrenne
 keywords: купоны на обучение, программы software assurance, учебные курсы, проверить операции, операции резервирования
 ms.localizationpriority: medium
 ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
-ms.sourcegitcommit: 283aff5f4251e09fbc92c2cd7467cab598ed91c0
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "58863992"
 ---
-# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>ВОПРОСЫ И ОТВЕТЫ: С помощью операции проверки и активации средства 
+# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Вопросы и ответы. Использование инструмента проверки и погашения ваучеров 
 
-**Применение**
+**Применяется к**
 
 - Центр партнеров
 

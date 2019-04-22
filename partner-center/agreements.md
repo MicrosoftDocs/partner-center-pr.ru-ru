@@ -8,15 +8,15 @@ ms.author: evensma
 keywords: Microsoft cloud соглашений, шаблоны соглашения клиентов, соглашений клиентов CSP, соглашение по использованию Microsoft Cloud, MCA, CSP, где можно продать через CSP?, CSP стран и регионов, MCAs CSP на нескольких языках, CSP Северная Америка, Центральная Америка CSP, Южная CSP Америка, Карибские острова CSP, CSP Microsoft Cloud для государственных организаций США, CSP Microsoft Cloud для Германии, CSP Ближний Восток, Африка CSP, CSP Европа, Азия CSP, CSP по тихоокеанскому, CSP MCAs
 ms.localizationpriority: medium
 ms.openlocfilehash: b2a65feac1f9f873512913ec2e4f26dc42efe865
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430223"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>Соглашения Microsoft Cloud по региону и языку
 
-**Применение**
+**Применяется к**
 
 - Партнеры CSP
 
@@ -96,7 +96,7 @@ ms.locfileid: "59430223"
 - Венесуэла: [Английский](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf), [испанский](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_SPA_Sep20172_CR.pdf)
 - Виргинские о-ва США: [Английский](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 
-## <a name="microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government
+## <a name="microsoft-cloud-for-us-government"></a>Microsoft Cloud для правительства США
  - США: [Английский](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017_NAOC_USGCC_ENG_Feb2019_CR.pdf)
 
 ## <a name="europe"></a>Европа
