@@ -8,7 +8,7 @@ ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: c7c40434f8d762507623ac4ee4b84d4c7b42616a
 ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 03/05/2019
 ms.locfileid: "57585387"
@@ -109,7 +109,7 @@ ms.locfileid: "57585387"
 |Location       | Страна или регион с идентификатором виртуальной организации партнера MPN|
 |Название программы   |Название программы поощрения |
 |Имя клиента  |   Имя клиента, который приобрели подписку |
-|Расположение клиента  | Страна, в которой находится клиент  |
+|Расположение клиента  | Страна или регион, где находится клиент  |
 |Номер основного соглашения    |Название соглашения |
 |InvoiceNumber| Номер счета|
 |Номер соглашения   |Номер лицензионного соглашения |

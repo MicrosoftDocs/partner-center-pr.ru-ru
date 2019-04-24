@@ -9,7 +9,7 @@ ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 0d986ca81e77578ecbb79b909d8f2a8afc4777e4
 ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430203"
@@ -517,8 +517,8 @@ ms.locfileid: "59430203"
 </tr>
 
 <tr class="odd">
-<td>Страна клиента</td>
-<td><p>Страна, в которой находится клиент.</p></td>
+<td>Страна или регион клиента</td>
+<td><p>Страна или регион, где находится клиент.</p></td>
 </tr>
 
 <tr class="even">
@@ -706,8 +706,8 @@ ms.locfileid: "59430203"
 </tr>
 
 <tr class="even">
-<td>Страна клиента</td>
-<td><p>Страна, в которой находится клиент.</p></td>
+<td>Страна или регион клиента</td>
+<td><p>Страна или регион, где находится клиент.</p></td>
 </tr>
 
 <tr class="odd">
