@@ -1,18 +1,18 @@
 ---
 title: Поддержка нескольких каналов | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: В некоторых случаях клиенты могут предложить вам заняться подготовкой к работе и поддержкой их подписки, которую они приобрели в другом месте.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b35332e27b90488f76132d115dd66ddb0c8d8d6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 3a3149adf746e199cf5b82e590997cc4e311db5d
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587087"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134284"
 ---
 # <a name="multi-channel-support"></a>Поддержка нескольких каналов
 

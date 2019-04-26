@@ -1,17 +1,17 @@
 ---
 title: Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud в Германии | Центр партнеров Microsoft Cloud в Германии
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: В соответствии с национальными, региональными и отраслевыми требованиями к сбору и использованию персональных данных возможности управления пользователями недоступны в Центре партнеров Microsoft Cloud в Германии. Вместо этого добавлять пользователей и управлять ими необходимо на портале Azure для Microsoft Cloud в Германии.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6e408345f1d2169d84dcb206fa276166512829c3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: edd1bf143b591d375b2d911459629110799a1426
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587037"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132694"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud в Германии
 
@@ -52,6 +52,6 @@ ms.locfileid: "57587037"
 
 -  [Microsoft Azure для Германии](https://azure.microsoft.com/en-us/global-infrastructure/germany/)
 
--  [Центр партнеров для Microsoft Cloud для Германии](partner-center-for-microsoft-cloud-germany.md)
+-  [Центр партнеров Microsoft Cloud для Германии](partner-center-for-microsoft-cloud-germany.md)
 
 

@@ -9,11 +9,11 @@ keywords: рекомендация, радиочастота, поиск пар�
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: a9cabe4772fa60a3b56433998da81030916279f8
-ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2019
-ms.locfileid: "57756901"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133941"
 ---
 # <a name="respond-to-referrals"></a>Реакция на ссылки
 

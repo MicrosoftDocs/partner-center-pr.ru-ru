@@ -1,18 +1,18 @@
 ---
 title: Обновить членство Microsoft Partner Network | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: При обновлении членства Microsoft Partner Network вы имеете право на преимущества эксклюзивного членства. Узнайте, как найти и приобрести доступные предложения.
 author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 5322b85cf8fb57d1c8cc203d39a3412f3e119772
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: c7d6639ef747c0089e89565680e96a22408770cb
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587677"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132864"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Обновить членство Microsoft Partner Network
 
@@ -121,12 +121,12 @@ ms.locfileid: "57587677"
     Чтобы проверить состояние своего запроса на обслуживание, выберите **Запросы на обслуживание > Запросы Центра партнеров** и нажмите кнопку **Открыть**. Выберите в списке соответствующий запрос на обслуживание.  
 
  
-### <a name="next-steps"></a>Дальнейшие действия
+### <a name="next-steps"></a>Следующие шаги
 
 [Активировать подписку, Action Pack](manage-your-partner-network-benefits.md)
 
 
-### <a name="related-topics"></a>Статьи по теме
+### <a name="related-topics"></a>См. также
 
 [Добавление пользователей и назначать им разрешения](create-user-accounts-and-set-permissions.md)
 

@@ -1,19 +1,19 @@
 ---
 title: Назначение и отзыв лицензий для нескольких пользователей | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Вы можете назначить лицензии и службы одному или нескольким пользователям одновременной в учетной записи клиента, а также отозвать назначенные пользователям лицензии.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Назначение лицензии, отозвать лицензию, назначить несколько пользователей
 ms.localizationpriority: medium
-ms.openlocfilehash: 4a5e81d78a8e07b6fc5c5d3b13a6e2d9ebeecd4c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e4917f4881b0dcca2e13f17dd116ff5faad0d0b9
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584257"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135344"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Назначение и отзыв лицензий для нескольких пользователей
 
@@ -80,7 +80,7 @@ ms.locfileid: "57584257"
 6.  В разделе **Назначение и отзыв лицензий**снимите флажки для продуктов, назначенных пользователям. Например, если у всех выбранных пользователей есть лицензии на Office 365 корпоративный и вы хотите отозвать их, снимите флажок.
 7.  Выберите **Сохранить**.
 
-## <a name="related-topics"></a>Статьи по теме
+## <a name="related-topics"></a>См. также
 
 
 [Назначение лицензий пользователям](assign-licenses-to-users.md)

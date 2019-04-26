@@ -1,19 +1,19 @@
 ---
 title: Продление предложений MPN | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Период продления подписки на предложения MPN начинается на следующий день после годовщины со дня покупки.
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, Microsoft Action Pact, MAPS, продление компетенции, дата продления
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e3008352b141625a974c78c11615161b29334eb1
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: f84493a8394188d56bc19ccd7e67af75f6fdd090
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586897"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134114"
 ---
 # <a name="renew-your-mpn-offers"></a>Продление подписки на предложения MPN
 

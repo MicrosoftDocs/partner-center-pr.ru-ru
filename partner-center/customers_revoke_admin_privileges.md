@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: привилегии, страницы доступа к данным, принципу удалить полномочного администратора, администратора от имени владельца
 ms.localizationpriority: medium
 ms.openlocfilehash: 9253bcca2d93d9f0d62d6d7241132f0c0c9bf5ec
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586157"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135454"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Делегирование прав администрирования клиентами партнерам
 

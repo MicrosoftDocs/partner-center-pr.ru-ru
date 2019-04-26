@@ -9,11 +9,11 @@ keywords: CSP, прямой партнер, прямое выставление 
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 7320d26479ce9d42959bdf91bafec7853ac4ca04
-ms.sourcegitcommit: 9bf271e05d7114e4c954a8102471b74323a3dafc
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "58320717"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135594"
 ---
 # <a name="csp-direct-bill-partner-new-requirements"></a>Новые требования к партнерам прямой счета CSP
 

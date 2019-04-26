@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: клиент, добавление клиента, учетная запись клиента, учетная запись клиента в Центре партнеров, клиенты, добавление клиентов, создание учетной записи клиента
 ms.localizationpriority: medium
 ms.openlocfilehash: b086796f6907b4ff4705b7c2fe1965b7d2adceff
-ms.sourcegitcommit: 3441bb8085f14f4242d5c640d45eab00f751bf23
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "58343405"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134484"
 ---
 # <a name="add-a-new-customer"></a>Добавление нового клиента
 

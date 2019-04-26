@@ -9,13 +9,13 @@ keywords: Выставление счета, платежи, заказы, св�
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 4b2b42c0d9bbb2654bbd486f987e3d5da9c562a2
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586077"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135384"
 ---
-# <a name="understanding-the-types-of-billing-in-partner-center"></a>Основные сведения о типах выставления счета в центре партнеров
+# <a name="understanding-the-types-of-billing-in-partner-center"></a>Основные сведения о способах выставления счетов в Центре партнеров
 
 **Применяется к**
 

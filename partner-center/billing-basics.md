@@ -1,19 +1,19 @@
 ---
 title: Обзор выставления счетов | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Сведения об основных сценариях выставления счетов и различия между лицензий и об использовании выставления счетов
 author: LauraBrenner
 ms.author: labrenne
 keywords: выставление счетов, платежи, заказы, отмена, управление заказами, неоплата, мошенничество, ненадлежащее использование, налоги, освобождение от уплаты налогов, файлы выверки, файл выверки
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 917b04e9aba40aaf8dbfa27960e7baed7f39819d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: cd1488fbe107363ca924823cdd526005f5a3f21c
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584677"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135394"
 ---
 # <a name="billing-overview"></a>Общие сведения о выставлении счетов
 

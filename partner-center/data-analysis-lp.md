@@ -1,18 +1,18 @@
 ---
 title: Данные и анализ в Центре партнеров | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Используйте возможности данных в Центре партнеров, чтобы лучше понять свой бизнес.
 author: LauraBrenner
 ms.author: labrenne
 keywords: данные, анализ, анализ данных, power bi
 ms.localizationpriority: medium
-ms.openlocfilehash: 6bc863943e968bb66ec1090751d1e2a38e3f5d66
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 9c706ce831b6f47a939c6cf958a91abcfad2afd5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587077"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135604"
 ---
 # <a name="get-data-and-analyze-your-business"></a>Получение данных и анализ бизнеса 
 
@@ -36,7 +36,7 @@ ms.locfileid: "57587077"
 
 |**Для получения данных на**   |**Скачайте это**   |**Прочитать этот текст**   | **Применяется к**    |
 |---------------------|:-----------------------|:---------------|:--------------|
-|Как ваши клиенты используют приобретенные лицензии   |Развертывание и использование данных из центра партнеров = > analytics продукта   |[Увеличение внедрения и степень удовлетворенности](increasing-adoption-and-satisfaction.md)|Партнеры CSP|
+|Как ваши клиенты используют приобретенные лицензии   |Развертывание и использование данных из центра партнеров = > analytics продукта   |[Повышение популярности и удовлетворенности](increasing-adoption-and-satisfaction.md)|Партнеры CSP|
 |Активность клиента в отношении подписок   |Журналы активности   |[Просмотр журналов действий клиента](activity-logs.md)|Партнеры CSP   |
 |Увеличение клиентской базы, использования, потребления ресурсов Azure и многое другое   |Приложение "Аналитика Центра партнеров для Power BI"   |[Приложение центра партнеров Analytics для Power BI (прямые партнеры в CSP)](power-bi-app-for-direct-partners.md)|Прямые партнеры CSP|
 

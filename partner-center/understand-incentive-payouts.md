@@ -1,17 +1,17 @@
 ---
 title: Обзор выплат по программам поощрений | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Просматривайте прибыль и выплаты для каждой программы поощрений.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c7c40434f8d762507623ac4ee4b84d4c7b42616a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 01e5cc1ba04d17313a9d0693807661ad654cf2a6
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585387"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132904"
 ---
 # <a name="incentive-payouts-overview"></a>Общие сведения о программе выплаты
 

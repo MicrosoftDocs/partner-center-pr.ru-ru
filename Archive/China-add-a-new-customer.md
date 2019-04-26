@@ -6,11 +6,11 @@ description: Описание способов добавления нового
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: fbe381a3307c4e0e9eb4d53267550bbf8047f498
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584367"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132065"
 ---
 # <a name="add-a-new-customer"></a>Добавление нового клиента
 

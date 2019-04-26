@@ -1,18 +1,18 @@
 ---
 title: Управление преимуществами членства в Microsoft Partner Network | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Как член Microsoft Partner Network вы имеете право на приобретение определенных преимуществ. Объясняется, как активировать и контролировать свои преимущества членства в центре партнеров.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, преимущества членства, членство
 ms.localizationpriority: medium
-ms.openlocfilehash: 60af091fdfe47d51d5e7b669f66cb8d0610286bb
-ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
-ms.translationtype: MT
+ms.openlocfilehash: fd97db7d1bdd56567c5fc52bb3d8a878ea73ede2
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "57988218"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134394"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Управление преимуществами членства в Microsoft Partner Network
 

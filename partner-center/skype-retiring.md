@@ -1,19 +1,19 @@
 ---
 title: Перенос подписок Плана 1 для Skype для бизнеса Online в новые версии Office 365 | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Переход клиентов с истекающим сроком действия Скайп для бизнеса Online план 1 подписок на поддерживаемый параметр SKU. Мы рекомендуем перейти клиентов на новые подписки до окончания годовой подписки.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Планы Skype для бизнеса, прекращение поддержки Skype, Office 365
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 74df419f8cbd416da494bd87d873f5315d6a9b70
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e71e6b05b5ea489b2b6b486f388f5c575dfd02c5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586107"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133933"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Перенос подписок Плана 1 для Skype для бизнеса Online в новые версии Office 365
 
@@ -38,7 +38,7 @@ ms.locfileid: "57586107"
 - Вариант 2. Microsoft 365 Enterprise F1
 - Вариант 3. Другие планы Office 365
 
-|**Функция**    |**Вариант 1**   |**Вариант 2**   |**Вариант 3**   |
+|**Возможность**    |**Вариант 1**   |**Вариант 2**   |**Вариант 3**   |
 |:-----------------|:-----------------|:-------------|:------------|
 |Получите все функции, входящие в состав Skype для бизнеса Online (План 1)|Да   |Да   |Да   |
 |Обмен мгновенными сообщениями и присутствие в сети |Да   |Да   |Да   |

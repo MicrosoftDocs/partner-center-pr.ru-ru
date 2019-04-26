@@ -8,12 +8,12 @@ author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b3b3f5fe29830e786206e31927d015acc0ec7a7d
-ms.sourcegitcommit: 319b6f8850d95e2b10e6367312f9365e079a1c88
-ms.translationtype: MT
+ms.openlocfilehash: f1bbc53a1fa923e67c370e908fc209147a3eb69c
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "59533857"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135094"
 ---
 # <a name="consolidate-your-company-accounts"></a>Консолидировать вашей компании
 
@@ -35,4 +35,4 @@ ms.locfileid: "59533857"
 
 В центре партнеров так как все учетные записи расположения, которые будут объединены в одной учетной записи, преимущества и компетенции консолидируются также. 
 
-См. сведения о различиях между PMC и центр партнеров [перемещение из PMC в центре партнеров](pmc-pc-map.md)
+См. сведения о различиях между PMC и центр партнеров [перемещение из PMC в центре партнеров](pmc-to-partner-center.md)

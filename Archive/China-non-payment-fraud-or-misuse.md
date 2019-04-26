@@ -6,11 +6,11 @@ description: Вы несете финансовую ответственност
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d63f909e8728296eed88543988f595b62e8dc3a7
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583857"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132554"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Неплатеж, мошенничество или неправильное использование
 
@@ -46,7 +46,7 @@ ms.locfileid: "57583857"
 
 **См. также**
 
--   [Предоставления поддержки по выставлению счетов](provide-billing-support.md)
+-   [Предоставление поддержки выставления счетов](provide-billing-support.md)
 -   [Поддержка клиентов](customer-support.md) 
 
  

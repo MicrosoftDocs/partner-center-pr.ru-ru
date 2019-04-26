@@ -1,17 +1,17 @@
 ---
 title: Регистрация в программе поставщиков облачных решений Microsoft Cloud для правительства США | Центр партнеров Microsoft Cloud для правительства США
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Прежде чем регистрироваться в программе поставщиков облачных решений Microsoft Cloud для правительства США, ознакомьтесь с требованиями программы CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0df1f72cdb0b062774accfd15299f046dac19031
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 226aa0829080f46706a0934176e229f3e7d3117b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585647"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135584"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Регистрация в программе поставщиков облачных решений Microsoft Cloud для правительства США
 
@@ -73,15 +73,15 @@ Microsoft Cloud для правительства США предоставля�
 
 2.  Назначьте роль агента по администрированию соответствующим пользователям в вашей организации. Для этого вам необходимо добавить этих пользователей во встроенную группу **AdminAgent**. +Порядок выполнения этой операции приведен в разделе [Управление участниками группы в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal).
  
-## <a name="connect-with-us"></a>Контакты
+## <a name="connect-with-us"></a>Свяжитесь с нами
 
 - Есть вопросы? Отправьте нам сообщение электронной почты на адрес azgovcsp@microsoft.com
 
 - Присоединяйтесь к нам в [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all) 
 
-## <a name="related-topics"></a>Статьи по теме
+## <a name="related-topics"></a>См. также
 
--  [Центр партнеров для Microsoft Cloud для государственных организаций США](partner-center-for-microsoft-us-govt-cloud.md)
+-  [Центр партнеров для Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
 
 -  [Управление пользователями и лицензий в центре партнеров для Microsoft Cloud для государственных организаций США](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
 

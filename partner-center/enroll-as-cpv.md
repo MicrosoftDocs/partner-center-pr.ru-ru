@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: Элемент управления панели поставщика, регистрировать приложения CPV, управление приложениями CPV
 ms.localizationpriority: medium
 ms.openlocfilehash: 7d00cfc7addf120a3b42597cda3758597533dd5e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586057"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135564"
 ---
 # <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>Регистрация в центре партнеров, как поставщик панели управления
 
@@ -27,7 +27,7 @@ ms.locfileid: "57586057"
 Просмотрите [соглашения между производителями панели управления Microsoft](https://go.microsoft.com/fwlink/?linkid=2055198)
 
 
-## <a name="working-in-partner-center"></a>Работа в центре партнеров
+## <a name="working-in-partner-center"></a>Работа в Центре партнеров
 После регистрации в системе работы с CPV центра партнеров и принятия соглашения CPV, вы можете:
 
 - Управляйте (добавлять приложения на портал Azure, регистрации и отмены регистрации приложения в центре партнеров) приложений с несколькими клиентами.

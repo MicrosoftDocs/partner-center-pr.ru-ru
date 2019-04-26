@@ -1,19 +1,19 @@
 ---
 title: Задач управления пользователя для учетных записей клиентов | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: После приобретения новой подписки для клиента вы можете назначать лицензии определенным пользователям.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Управление клиентами, учетная запись, создайте учетную запись, лицензии, назначить лицензии, управление пользователями, пароль, сбросить пароль, изменение пароля
 ms.localizationpriority: medium
-ms.openlocfilehash: 2145455a063d1e21f6943abfc9d2f8905ed78a1e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: a66c1fe8965ecbc2d432efaf0a3e732b6ecd792b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586757"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134874"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Задачи управления пользователями для учетных записей клиентов
 
@@ -90,10 +90,10 @@ ms.locfileid: "57586757"
 
     Все выбранные учетные записи пользователей появятся на странице **Пользователи и лицензии**.
 
-## <a name="related-topics"></a>Статьи по теме
+## <a name="related-topics"></a>См. также
 
 
-[Назначение или отзыв лицензий для нескольких пользователей](bulk-license-provisioning-for-multiple-users.md)
+[Назначение и отзыв лицензий для нескольких пользователей](bulk-license-provisioning-for-multiple-users.md)
 
 [Создать несколько пользователей для учетной записи клиента](adding-multiple-users-to-a-customer-account.md)
 

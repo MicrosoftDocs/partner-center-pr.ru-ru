@@ -8,11 +8,11 @@ ms.author: v-petand
 keywords: Клиент, клиенты, с согласия пользователя MCA, соглашение по использованию Microsoft Cloud, шаблоны соглашения клиентов
 ms.localizationpriority: medium
 ms.openlocfilehash: 9dad303b419f3dadd33f4937933638c60c45994b
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "59652256"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135155"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Подтверждение принятия клиентом условий соглашения Microsoft Cloud
 

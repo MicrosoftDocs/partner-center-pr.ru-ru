@@ -6,11 +6,11 @@ description: Рекомендации и требования для Предо�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: adce46be7073164bd285146bf8058bfa41a32709
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585787"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132544"
 ---
 # <a name="customer-support"></a>Поддержка клиентов
 
@@ -48,9 +48,9 @@ ms.locfileid: "57585787"
 
 **См. также**
 
--   [Предоставляет техническую поддержку](provide-technical-support.md)
--   [Предоставления поддержки по выставлению счетов](provide-billing-support.md)
--   [Самостоятельной поддержки клиентов](customer-self-support.md)
+-   [Предоставление технической поддержки](provide-technical-support.md)
+-   [Предоставление поддержки выставления счетов](provide-billing-support.md)
+-   [Самообслуживание для клиентов](customer-self-support.md)
 
  
 ### <a name="escalate-a-customer-issue-to-21vianet"></a>Эскалировать сообщите о проблеме клиента в 21Vianet 

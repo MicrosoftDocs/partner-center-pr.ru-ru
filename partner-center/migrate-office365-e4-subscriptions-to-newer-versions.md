@@ -1,17 +1,17 @@
 ---
 title: Перенос подписок Office 365 E4 в новые версии Office 365 | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Microsoft Office 365 корпоративный E4 перестал действовать 7 апреля 2017 г. Узнайте, как перенести подписки клиентов на более новые версии Office 365.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 381b4c5dda7486737ef010d7fa22e65710b5e5bf
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e14ffbfaeaec64e8ccf3612cba9ed0f27aa31968
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587797"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134384"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Перенос подписок Office 365 E4 на новые версии Office 365
 
@@ -45,7 +45,7 @@ ms.locfileid: "57587797"
 - Вариант 4. Office 365 корпоративный E3
 
 
-| Функция | Способ 1 | Способ 2 | Способ 3 | Предложение 4 |
+| Компонент | Способ 1 | Способ 2 | Способ 3 | Предложение 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
 | Получить все возможности, включенные в Office 365 корпоративный E4? | Да | Да | Да | Нет |
 | Управление номерами телефона в Office 365? | Да | Да | Нет | Нет |

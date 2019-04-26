@@ -6,11 +6,11 @@ description: Ресурсы, посвященные управлению уче�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 93cbd054db0827135aaf6e8bb2c1dcd55768b78a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584437"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132394"
 ---
 # <a name="customer-accounts"></a>Учетные записи клиента
 
@@ -21,7 +21,7 @@ ms.locfileid: "57584437"
 При получении нового клиента, необходимо создать учетную запись клиента для них. Взаимодействие и transact с клиентов с помощью их учетных записей клиентов. 
 
 -   [Добавление нового клиента](add-a-new-customer.md)
--   [См. в разделе списка клиентов](see-your-customer-list.md)
+-   [Просмотр списка клиентов](see-your-customer-list.md)
 -   [Обновить данные учетной записи клиента](update-customer-account-info.md)
 
  

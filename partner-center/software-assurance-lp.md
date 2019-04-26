@@ -7,11 +7,11 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 9a2f0fcb90ed13af3f885325f2211523df5c981e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587617"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133864"
 ---
 # <a name="participate-in-software-assurance-programs"></a>Участвовать в программы Software Assurance
 
@@ -20,7 +20,7 @@ ms.locfileid: "57587617"
 |**Дополнительные сведения о**   |**Прочитать этот текст**   |
 |--------------------------|:------------------|
 |Регистрация в программе Software Assurance обучения ваучеры (SATV)|[Программы обучения ваучеры Software Assurance (SATV) программного обеспечения в центре партнеров](software-assurance-satv.md)|
-|С помощью операции проверки и активации средства|[Средство операции проверки и активации в центре партнеров для проверки, резервировать и активировать операции](voucher-validation-tool.md)|
+|Использование инструмента проверки и погашения ваучеров|[Использование инструмента проверки и погашения ваучеров в Центре партнеров для проверки, резервирования и погашения ваучеров](voucher-validation-tool.md)|
 |Регистрация в программе Software Assurance, планирование служб|[Службы планирования Software Assurance в центре партнеров](software-assurance-dps.md) 
 
 

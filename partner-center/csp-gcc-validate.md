@@ -1,17 +1,17 @@
 ---
 title: Квалификационные критерии для партнеров и клиентов по Office 365 для государственных организаций в средах GCC | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Процедуры проверки партнеров и клиентов для продажи и использования Office 365 для государственных организаций в средах GCC для CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a7aa26c44e09285b2d6cdb69d83f756e15493497
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: eeb6cc3bc4c34d9006da46b86af4b80c83e18406
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586957"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134854"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Квалификационные критерии для партнеров и клиентов по Office 365 для государственных организаций в средах GCC для CSP
 
@@ -40,7 +40,7 @@ ms.locfileid: "57586957"
 2.  Предоставляет услуги правительственным клиентам США через администрацию общего обслуживания или другие договорные механизмы.
 
 **Пользовательские критерии**
-1.  Является государственным учреждением США. Например:
+1.  Является государственным учреждением США. Пример:
  
     -  Федеральное агентство (например, бюро, агентство, подразделение или другое юридическое лицо правительства США)
     -   Региональное/муниципальное юридическое лицо 

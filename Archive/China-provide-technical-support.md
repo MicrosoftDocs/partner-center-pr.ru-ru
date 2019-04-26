@@ -6,11 +6,11 @@ description: Торговые посредники Китае поставщик
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d3e32af7f96f2261e3e03550dd5519258a58dec6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584297"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132634"
 ---
 # <a name="provide-technical-support"></a>Предоставление технической поддержки
 
@@ -51,8 +51,8 @@ ms.locfileid: "57584297"
  
 **См. также**
 
--   [Предоставления поддержки по выставлению счетов](provide-billing-support.md)
--   [Самостоятельной поддержки клиентов](customer-self-support.md)
+-   [Предоставление поддержки выставления счетов](provide-billing-support.md)
+-   [Самообслуживание для клиентов](customer-self-support.md)
 -   [Поддержка клиентов](customer-support.md)
 
 

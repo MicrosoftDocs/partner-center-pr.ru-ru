@@ -1,18 +1,18 @@
 ---
 title: Запрос связи с клиентом | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Запрос связи используется для сценариев с поддержкой нескольких партнеров и нескольких каналов. Он также используется, если клиент удаляет делегированные права администратора и вам нужно восстановить их для подготовки или поддержки клиента.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5441f38621dc4f498dc869789f416c4910518690
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 4fbd6e5e14c12e81cff4297b60b542ab0ccd5277
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585197"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133985"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Связь с клиентами в Центре партнеров
 
@@ -63,5 +63,5 @@ ms.locfileid: "57585197"
 
 ## <a name="see-also"></a>См. также
 
-- [Назначить контакты службы поддержки](assign-support-contacts.md)
+- [Назначение контактов службы поддержки](assign-support-contacts.md)
 - [Удаление связи с клиентом](remove-a-relationship.md)

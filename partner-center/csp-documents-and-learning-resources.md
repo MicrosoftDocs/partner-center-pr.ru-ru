@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: руководства по программе csp, руководство по программе, партнерские соглашения, соглашение с клиентом, прейскуранты, предложения
 ms.localizationpriority: medium
 ms.openlocfilehash: c6ea36d5fb807f10364d28f8ae014b80c91b6013
-ms.sourcegitcommit: f9c930479a5d7b594a968d4f7cffb81aef8abc59
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "58508971"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134994"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Руководство по программе поставщика решений облака, соглашения, прайс-листы и предложения
 

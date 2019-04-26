@@ -1,18 +1,18 @@
 ---
 title: Развивайте свой бизнес с помощью рекомендаций от Майкрософт | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Получайте потенциальных клиентов и связывайтесь с пользователями, которым нужна помощь в реализации продуктов и решений Майкрософт.
 author: LauraBrenner
 ms.author: labrenne
 keywords: рекомендации, бизнес-профиль, поиск партнера
 ms.localizationpriority: medium
-ms.openlocfilehash: 4a5e75959597effb281347a42af5fd93a9c5e72d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: d0dd23eaadc5a27a6818aeac2529288b639c6b36
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586937"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134038"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 

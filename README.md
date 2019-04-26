@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 94eb23f854a85fa08ed01a0ccdaff8e546911d78
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132944"
+---
 # <a name="youve-added-your-first-readme-file"></a>Вы добавили первого файла ReadMe!
 Файл README.md предназначен для быстрого ориентирования читателей в проекте, которые можно сделать.  Не знакомы с Markdown? [Подробнее](https://go.microsoft.com/fwlink/p/?LinkId=524306&clcid=0x409)
 
@@ -21,7 +29,7 @@
 
 ### <a name="congratulations-youve-completed-the-grand-tour-of-the-code-hub"></a>Поздравляем! Вы завершили grand примером центр кода!
 
-# <a name="next-steps"></a>Дальнейшие действия
+# <a name="next-steps"></a>Следующие шаги
 
 Если вы еще не сделали, [Установка Git](https://git-scm.com/downloads) (а также [Git Credential Manager](https://java.visualstudio.com/Downloads/gitcredentialmanager/Index) для Linux или Mac OS)
 

@@ -6,11 +6,11 @@ description: Можно приостановить или отменить по�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 389d92017aaca0e6cf4cce73e6a71e9aa90ac6bd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584347"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132114"
 ---
 # <a name="suspend-a-subscription"></a>Приостановка подписки
 
@@ -31,6 +31,6 @@ ms.locfileid: "57584347"
 
 **См. также**
 
--   [Non оплаты мошенничества и несанкционированного использования](non-payment-fraud-or-misuse.md)
--   [Предоставления поддержки по выставлению счетов](provide-billing-support.md)
+-   [Неплатеж, мошенничество или неправильное использование](non-payment-fraud-or-misuse.md)
+-   [Предоставление поддержки выставления счетов](provide-billing-support.md)
 -   [Поддержка клиентов](customer-support.md)

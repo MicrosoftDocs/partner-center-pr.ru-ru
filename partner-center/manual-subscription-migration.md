@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: seodec18
 Keywords: Dynamics 365 предлагает, обновить предложения, новые номера SKU Dynamics 365
 ms.openlocfilehash: e5128abe71cfab4e2cdabb0cafcd5fd7df56b116
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586947"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134404"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Перенос Dynamics 365 и плана Customer Engagement с "Базового" уровня (соответствующие предложения) в более новые версии
 

@@ -1,19 +1,19 @@
 ---
 title: Уведомления центра партнеров для шифрования — это понятие | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Уведомление о потенциальных операциях криптомайнинга.
 author: LauraBrenner
 ms.author: v-petand
 Keywords: cryptocurrency Crypto интеллектуального анализа данных, интеллектуального анализа данных, безопасность
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: cac28b394ee0593e5f1e313cb14e7b6dfa45520a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b2a9a93d71b6464c0e3b2932b9da366e1bbbb845
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587497"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135063"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Уведомления центра партнеров для действия cryptocurrency интеллектуального анализа данных
 

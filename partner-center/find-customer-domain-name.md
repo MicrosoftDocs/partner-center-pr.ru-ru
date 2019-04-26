@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: поощрения для утверждений, утверждения кооперативного, кооперативного средств, OSA, независимых поставщиков программного обеспечения, ассоциации доход, доменное имя, идентификатор каталога
 ms.localizationpriority: medium
 ms.openlocfilehash: 1a267de71c050ede872feaf6e1b24588fba74792
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430661"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135654"
 ---
 #<a name="find-your-customers-domain-name-and-directory-id"></a>Найти доменное имя вашего клиента и идентификатор каталога
 

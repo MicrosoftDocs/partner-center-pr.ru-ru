@@ -8,11 +8,11 @@ ms.author: v-petand
 keywords: Azure, подписки, виртуальной Машины, резервирования, зарезервированного экземпляра
 ms.localizationpriority: medium
 ms.openlocfilehash: 15de1f8ce78eca7eec34113eaf1115fa8c441edf
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586407"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135404"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -24,7 +24,7 @@ ms.locfileid: "57586407"
  
 ## <a name="what-are-azure-reservations"></a>Что такое резервирование Azure?
 
-Резервирование Azure помогают сократить расходы с помощью предварительной оплаты один год или три года вперед виртуальной машины, базы данных SQL вычислений емкости, пропускной способности Azure Cosmos DB или других ресурсов Azure. Предварительной оплаты позволяет получить скидку на ресурсы, которые используете. Резервирование может значительно снизить виртуальной машины, вычислительные ресурсы базы данных SQL, Azure Cosmos DB и других ресурсов стоит до 72% по сравнению с оплатой по мере использования. Резервирования обеспечивают экономию выставления счетов и не влияет на состояние среды выполнения ваших ресурсов. Дополнительные сведения см. в разделе [Каковы резервирования Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+Резервирование Azure помогают сократить расходы с помощью предварительной оплаты один год или три года вперед виртуальной машины, базы данных SQL вычислений емкости, пропускной способности Azure Cosmos DB или других ресурсов Azure. Предварительная оплата позволяет получить скидку на используемые ресурсы. Резервирования помогают значительно снизить затраты на виртуальную машину, вычислительную мощность базы данных SQL, Azure Cosmos DB и другие ресурсы до 72% по сравнению с оплатой по мере использования. Резервирования обеспечивают экономию выставления счетов и не влияет на состояние среды выполнения ваших ресурсов. Дополнительные сведения см. в разделе [Каковы резервирования Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 
 ## <a name="why-should-customers-buy-a-reservation"></a>Почему клиенты должны приобрести резервирование?
 
@@ -65,13 +65,13 @@ ms.locfileid: "57586407"
 
 **Подготовке к продаже**
 
-- [Azure резервирования и серверные подписки с помощью гибридных преимуществ Общие сведения о Azure (обновление)](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
-- [Продажи таблицы стилей](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [Партнер вопросы и ответы для резервирования Azure (обновление)](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
-- [Партнер вопросы и ответы для Azure резервирования и база данных SQL](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
-- [Базы данных SQL в Azure Обзор (новое)](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
-- [Общие сведения о ценах Azure](https://azure.microsoft.com/pricing/#explore-cost)
-- [Калькулятор цен Azure](https://azure.microsoft.com/pricing/calculator/)
+- [Обзор резервирований Azure и серверных подписок с преимуществом гибридного использования Azure (обновлено)](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
+- [Информационный листок](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
+- [Раздел вопросов и ответов для партнеров по резервированиям Azure (обновлено)](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
+- [Раздел вопросов и ответов для партнеров по резервированиям Azure и базе данных SQL (обновлено)](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
+- [Обзор базы данных SQL в Azure (новое)](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
+- [Общие сведения о ценах на Azure](https://azure.microsoft.com/pricing/#explore-cost)
+- [Калькулятор цен для Azure](https://azure.microsoft.com/pricing/calculator/)
 - Список — цена Azure резервирования см. в разделе Microsoft Azure Reserved Instances прайс-лист в партнерском центре [цены и предложения](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) страницы.
 - Список — цена серверные подписки см. в разделе программное обеспечение подписок прайс-лист в партнерском центре [цены и предложения](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) страницы.
 
@@ -86,12 +86,12 @@ ms.locfileid: "57586407"
 **Операции**
 
 - [Руководство по использованию современных Commerce](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (обновление):  Полное руководство по охватывающие ключа политики и производственных характеристик, например соглашения, упорядочение через центра партнеров, счета, сведения о списке Цена, поощрения, сверочный файл, API или пакет SDK, "песочницы" и общим службам партнеров Azure.
-- [Доступность страны современных предложения и таблица валюты клиента](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
+- [Последние сведения о доступности предложений в странах и матрица валют для клиентов](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [Продавать зарезервированные экземпляры Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=872806)
-- [Купить резервирование Microsoft Azure для клиентов](https://go.microsoft.com/fwlink/?linkid=872807)
+- [Приобретение резервирований Microsoft Azure от лица клиентов](https://go.microsoft.com/fwlink/?linkid=872807)
 - [Управление Azure резервирования для клиентов](https://go.microsoft.com/fwlink/?linkid=872808)
 - [Выставление счетов за Azure резервирования](https://go.microsoft.com/fwlink/?linkid=872809)
-- [Определение размера виртуальной Машины для использования максимального резервирования](https://go.microsoft.com/fwlink/?linkid=872810)
+- [Размеры виртуальных машин для максимального использования резервирования](https://go.microsoft.com/fwlink/?linkid=872810)
 - [API центра партнеров (API и SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances)
 
 ## <a name="azure-hybrid-benefit"></a>Преимущество гибридного использования Azure

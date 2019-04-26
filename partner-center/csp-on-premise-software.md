@@ -1,19 +1,19 @@
 ---
 title: Продажа локального программного обеспечения через программу CSP | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Продажа локального программного обеспечения через программу CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Поставщик облачных решений, CSP, облачные службы, Azure, Office 365, Dynamics, партнер CSP, продажа в CSP, прямой партнер, прямой партнер CSP, непрямой торговый посредник CSP, прямой CSP, непрямой CSP, прямая модель, непрямая модель, непрямой торговый посредник, непрямой поставщик, поставщик, дистрибьютор, программа cloud solution provider
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: fde92419bf0cfbe0095502e5b0684d1c86545b70
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: d02b1ff64aa529c4f36dc50e16187bb48fa88bab
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584607"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134804"
 ---
 # <a name="sell-on-premise-software-through-csp"></a>Продажа локального программного обеспечения через программу CSP
 

@@ -1,19 +1,19 @@
 ---
 title: Создание и управление ими утверждение поощрения | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Поощрения инициирующего кооперативного утверждения из центра партнеров. Все действия, выполняемые в процессе создания вашей заявки, отображаются в разделе "Журнал".
 author: LauraBrenner
 ms.author: labrenne
 keywords: заявки на возмещение средств в рамках программы поощрения, совместные заявки, совместные фонды
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c48761825888e646b689328772de400181d9a362
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: adccedd89123a2dbe40500cba11c63f832e6c8f5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586417"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134964"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>Создание и администрирование заявки на возмещение средств за выполненную работу в рамках программы поощрения
 

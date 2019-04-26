@@ -1,17 +1,17 @@
 ---
 title: Управление программами поощрений в Центре партнеров | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Программы поощрений для партнеров Майкрософт обеспечивают прибыльность и развитие бизнеса партнеров
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 644ac2020551e199ff20f520a8ac3c68ddbece54
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 6f2f50ac3d965b20b1ee40983c624bde9b04ed5d
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586997"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134451"
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>Управление программами поощрений в Центре партнеров 
 

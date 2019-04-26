@@ -1,18 +1,18 @@
 ---
 title: Подача заявки на осуществление продаж в национальных облаках Майкрософт | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Партнеры корпорации Майкрософт в программе поставщиков облачных решений могут осуществлять продажи клиентам, зарегистрированным в поддерживаемых национальных облаках.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: национальные облака, Microsoft Cloud в Германии, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud в Китае
 ms.localizationpriority: medium
-ms.openlocfilehash: 851b8695b6cb409ef9f70f8b2acf2504bc7b16f5
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: ea4461e187490565172733207dc16c5328ee5ee7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584237"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134824"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>Подача заявки на осуществление продаж в национальных облаках Microsoft
 

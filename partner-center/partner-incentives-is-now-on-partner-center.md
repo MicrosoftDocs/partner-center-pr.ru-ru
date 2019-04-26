@@ -1,17 +1,17 @@
 ---
 title: В Центре партнеров появились программы поощрений для партнеров | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Программы поощрений побуждают партнеров разрабатывать новые методы маркетинга, предлагать обучение и многое другое
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8387fd08a6826b0984e491d34ceba76266af59ab
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: eb1e6dcfb32970a634a393d8ce33c1a6128458e5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587517"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134180"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>В Центре партнеров появились программы поощрений для партнеров 
 
@@ -43,7 +43,7 @@ ms.locfileid: "57587517"
 
 **См. также**
 
-[Создание учетных записей пользователей и задание разрешений](create-user-accounts-and-set-permissions.md)
+[Создание учетных записей пользователей и определение разрешений](create-user-accounts-and-set-permissions.md)
 
 [Изменить временный пароль](change-your-temporary-password.md)
 

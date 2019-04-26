@@ -1,18 +1,18 @@
 ---
 title: Программа для поставщиков облачных решений — продажа облачных решений при появлении спроса | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Программа для поставщиков облачных решений может помочь вам расширить свой бизнес благодаря появлению новых клиентов и новых знаний.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Поставщик облачных решений, CSP, облачные службы, Azure, Office 365, Dynamics, партнер CSP, продажа в CSP, прямой партнер, прямой партнер CSP, непрямой торговый посредник CSP, прямой CSP, непрямой CSP, прямая модель, непрямая модель, непрямой торговый посредник, непрямой поставщик, поставщик, дистрибьютор, программа cloud solution provider
 ms.localizationpriority: medium
-ms.openlocfilehash: 1840d87626bef935347218b44d44c3d44607722d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 12bc6a32dd6b1890e66076b280dba4d38588eee5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584197"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134754"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Программа для поставщиков облачных решений — продажа облачных решений при появлении спроса 
 
@@ -75,6 +75,6 @@ ms.locfileid: "57584197"
 |:---------------------------|:--------------------|
 |Требования для каждой модели CSP   | [Программе для поставщиков решений облака](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |Осуществление продаж в национальных облаках Microsoft   | [Применить для продажи в национальных облаках Майкрософт](csp-national-clouds-overview.md)|
-|Шаблоны для клиентов соглашения Microsoft Cloud   |[Microsoft Cloud соглашений по регионам и язык](agreements.md)|
+|Шаблоны для клиентов соглашения Microsoft Cloud   |[Соглашения Microsoft Cloud по региону и языку](agreements.md)|
 |Непрямой поставщик задач в центре партнеров  |[Сотрудничайте с непрямых торговых посредников в программе поставщика облачных решений](indirect-provider-tasks-in-partner-center.md)|
 |Задачи непрямого торгового посредника в центре партнеров   |[Сотрудничайте с непрямыми поставщиками в программе поставщика облачных решений](indirect-reseller-tasks-in-partner-center.md)|

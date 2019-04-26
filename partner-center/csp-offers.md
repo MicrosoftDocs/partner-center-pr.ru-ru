@@ -8,11 +8,11 @@ ms.author: evansma
 keywords: Поставщик облачных решений, программа поставщиков облачных решений, CSP, добавить продукт, продажа клиентам, предложения для партнеров, предложения CSP, облачные службы, Azure, Office 365, Dynamics, партнер CSP, продажи в рамках CSP, Azure RI, Azure Reserved VM Instances, резервирования Azure, веб-службы, программное обеспечение по подписке, AHUB, SQL Server в Azure, Windows Server в Azure, подписки клиентов
 ms.localizationpriority: medium
 ms.openlocfilehash: ea246701f57615064a87abb37cecafbb0d9151dc
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586717"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134814"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Предложения для партнеров по программе поставщиков облачных решений 
 

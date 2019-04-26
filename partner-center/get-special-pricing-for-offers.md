@@ -1,18 +1,18 @@
 ---
 title: Продажи представителям определенных отраслей | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Корпорация Майкрософт предоставляет специальные, уменьшенное на цены для избранных групп клиентов, включая клиенты для образовательных учреждений, некоммерческих организаций клиентов и пользователей для государственных организаций.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cef6e3cc6b5bb25593ae150351121793de26cb3e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 66edfdd31c7c2c9821894b9b1a254d9a5e29ed8e
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585757"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135664"
 ---
 # <a name="sell-to-specialized-industries"></a>Продажи представителям определенных отраслей
 
@@ -49,7 +49,7 @@ ms.locfileid: "57585757"
 
 ## <a name="see-also"></a>См. также
 
-[Продавайте Minecraft: Подписки для образовательных учреждений Edition клиентам из сферы образования](minecraft-subscriptions.md)
+[Продажа подписок Minecraft: Подписки для образовательных учреждений Edition клиентам из сферы образования](minecraft-subscriptions.md)
 
 
  

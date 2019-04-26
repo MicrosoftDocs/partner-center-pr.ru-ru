@@ -1,19 +1,19 @@
 ---
 title: Консолидация клиента региональной авторизации CSP | Центр партнеров
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Соблюдайте эти инструкции, чтобы консолидировать клиентов для разных стран и регионов.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: перенос пользователей, подготовка, учетная запись клиента, консолидировать клиенты
 ms.localizationpriority: medium
-ms.openlocfilehash: 183b5f518a57fdaf27badce5927a2ea09a5ec89c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: c2226fea4523b5f34a2cb1b5fcfcde88048dda82
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587557"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134783"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Консолидация клиента региональной авторизации CSP
 
@@ -119,7 +119,7 @@ The Subscription shows **suspended** on the subscriptions list.
 
 6.  Повторите эти действия для всех подписок всех клиентов, чтобы остановить выставление счетов за **переносимые** учетные записи. Партнеры получат последний счет с кредитом за неиспользованные дни между датой отмены и последним днем периода выставления счетов. После этого периода счета больше не будут выставляться.
 
-### <a name="notes"></a>Заметки
+### <a name="notes"></a>Примечания
 
 -   Отключение подписки в **переносимой** учетной записи CSP не влияет на службу клиента, если она была подготовлена на основе **целевой** учетной записи CSP до отключения.
 

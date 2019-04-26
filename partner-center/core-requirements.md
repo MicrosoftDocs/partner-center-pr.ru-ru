@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: заявки на возмещение средств в рамках программы поощрения, совместные заявки, совместные фонды, основные требования
 ms.localizationpriority: medium
 ms.openlocfilehash: c5a48d7624baf3fd4b0a2100625c7b463f2f2413
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59019437"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135034"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>Основные требования, предъявляемые к заявкам на возмещение средств в рамках программы поощрений
 
