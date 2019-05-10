@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: c3de548b5986db66d103129e40fdacbe5ca4bff8
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: 38bdae28d49553e39827375b1ab1c1376e3378b3
+ms.sourcegitcommit: 17d030d87530d4c9832e8be7aeff37821941d343
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134615"
+ms.lasthandoff: 05/03/2019
+ms.locfileid: "65035525"
 ---
 # <a name="welcome-to-partner-center"></a>Добро пожаловать в Центр партнеров
 
@@ -85,9 +85,9 @@ ms.locfileid: "62134615"
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardText"><a href="/partner-center/software-assurance-lp">
-                        <h3>Программы Software Assurance</h3>
-                        <p>Теперь вы можете зарегистрироваться для обучения по программе Software Assurance и использования служб развертывания в Центре партнеров.</p></a>
+                    <div class="cardText"><a href="/partner-center/move-pmc-pc-map">
+                        <h3>Переход от PMC к Центру партнеров</h3>
+                        <p>Узнайте, как подготовить свою компанию к переходу в Центр партнеров</p></a>
                     </div>
                 </div>
             </div>
@@ -97,9 +97,9 @@ ms.locfileid: "62134615"
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardText"><a href="/partner-center/voucher-validation-tool">
-                        <h3>Инструмент проверки и погашения ваучеров</h3>
-                        <p>Вы можете активировать и погашать ваучеры, которые поддерживают деловые операции и операции разработки клиентов.</p></a>
+                    <div class="cardText"><a href="/partner-center/Azure-expert-msp">
+                        <h3>Программа Azure Expert Manage Services Provider</h3>
+                        <p>Ваша компания преуспевает в сфере продажи и поддержке Azure? См. сведения о регистрации в программе Azure Expert MSP</p></a>
                     </div>
                 </div>
             </div>
@@ -134,7 +134,7 @@ ms.locfileid: "62134615"
                     </div>
                     <div class="cardText">
                         <h3>Регистрация</h3>
-                        <p><a href="/partner-center/mpn-create-a-partner-center-account">Создать учетную запись</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Управление клиентом и расположениями</a></p>
+                        <p><a href="/partner-center/manage-locations">Управление расположениями</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Выбор клиента</a></p>
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@ ms.locfileid: "62134615"
                     </div>
                     <div class="cardText">
                         <h3>Связь с клиентами</h3>
-                        <p><a href="/partner-center/customer-accounts">Учетные записи клиента</a><br /><a href="/partner-center/customer-subscriptions">Продажа подписок</a><br /><a href="/partner-center/assign-licenses-to-users">Управление лицензиями</a><br /><a href="/partner-center/billing">Выставление счетов</a></p>
+                        <p><a href="/partner-center/csp-offers">Приобретение продуктов для клиентов</a><br /><a href="/partner-center/customer-subscriptions">Продажа подписок</a><br /><a href="/partner-center/assign-licenses-to-users">Управление лицензиями</a><br /><a href="/partner-center/billing">Выставление счетов</a></p>
                     </div>
                 </div>
             </div>

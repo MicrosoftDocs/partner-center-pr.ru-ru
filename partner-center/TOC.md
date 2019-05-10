@@ -2,6 +2,11 @@
 
 # [Членство Partner Network](mpn-overview.md)
 ## [Создание учетной записи Центра партнеров](mpn-create-a-partner-center-account.md)
+## Переход от PMC к Центру партнеров
+### [Руководство по переходу от PMC к Центру партнеров](guide-to-migration.md)
+### [Краткий обзор различий между PMC и Центром партнеров](move-pmc-pc-map.md)
+### [Руководство по переходу нескольких компаний в Центр партнеров](move-multiple-companies.md)
+### [Консолидация учетных записей компаний](consolidate-accounts.md)
 ## Предложения в рамках членства
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Продление подписок на предложения](renew-mpn-offers.md)
@@ -58,7 +63,6 @@
 ## [Использование файлов выверки](use-the-reconciliation-files.md)
 ## [Налоги и освобождение от уплаты налогов](tax-and-tax-exemptions.md)
 ## [Сведения об НДС для организации](organization-tax-info.md)
-## [Кредитные лимиты для учетной записи поставщика облачных решений](account-credit-limit.md)
 ## [Установка расходного бюджета Azure для клиентов](set-an-azure-spending-budget-for-your-customers.md)
 ## [Распространенные сценарии выставления счетов](common-billing-scenarios.md)
 ## [Неплатеж, мошенничество или неправильное использование](non-payment--fraud--or-misuse.md)
