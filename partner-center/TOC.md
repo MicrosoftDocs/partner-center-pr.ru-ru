@@ -7,6 +7,7 @@
 ### [Краткий обзор различий между PMC и Центром партнеров](move-pmc-pc-map.md)
 ### [Руководство по переходу нескольких компаний в Центр партнеров](move-multiple-companies.md)
 ### [Консолидация учетных записей компаний](consolidate-accounts.md)
+
 ## Предложения в рамках членства
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Продление подписок на предложения](renew-mpn-offers.md)
@@ -36,6 +37,7 @@
 
 # [Управление учетной записью Центра партнеров](partner-center-account-setup.md)
 ## [Рабочие учетные записи и Центр партнеров](azure-active-directory-tenants-and-partner-center.md)
+## [Структура учетной записи в Центре партнеров](account-structure.md)
 ## [Обновление профиля партнера](update-your-partner-profile.md)
 ## [Расположения](manage-locations.md)
 ## [Восстановление приостановленной учетной записи Центра партнеров](suspended-partner-center-account.md)
