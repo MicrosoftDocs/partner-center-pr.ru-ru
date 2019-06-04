@@ -2,6 +2,7 @@
 
 # [Членство Partner Network](mpn-overview.md)
 ## [Создание учетной записи Центра партнеров](mpn-create-a-partner-center-account.md)
+## [Структура учетной записи в Центре партнеров](account-structure.md)
 ## Переход от PMC к Центру партнеров
 ### [Руководство по переходу от PMC к Центру партнеров](guide-to-migration.md)
 ### [Краткий обзор различий между PMC и Центром партнеров](move-pmc-pc-map.md)
@@ -67,6 +68,7 @@
 ## [Просмотр счета](read-your-bill.md)
 ## [Использование файлов выверки](use-the-reconciliation-files.md)
 ## [Налоги и освобождение от уплаты налогов](tax-and-tax-exemptions.md)
+## [Проверка начисления подоходного налога](withholding-tax-credit-form.md)
 ## [Сведения об НДС для организации](organization-tax-info.md)
 ## [Установка расходного бюджета Azure для клиентов](set-an-azure-spending-budget-for-your-customers.md)
 ## [Распространенные сценарии выставления счетов](common-billing-scenarios.md)
