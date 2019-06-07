@@ -1,18 +1,18 @@
 ---
 title: Зарезервированные экземпляры виртуальных машин Azure (RI) + серверные подписки на Azure | Центр партнеров
 ms.topic: article
-ms.date: 11/30/2018
+ms.date: 6/5/2019
 description: Чтобы удовлетворить быстро растущий спрос на экономичные решения для непрерывных и четко прогнозируемых облачных рабочих нагрузок, мы включили Azure RI и серверные подписки в партнерскую программу CSP. Программа CSP позволяет партнерам приобретать, развертывать и контролировать Azure RI и серверные подписки от имени коммерческих клиентов через Центр партнеров Майкрософт и портал Azure.
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, подписки, виртуальной Машины, резервирования, зарезервированного экземпляра
 ms.localizationpriority: medium
-ms.openlocfilehash: 15de1f8ce78eca7eec34113eaf1115fa8c441edf
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: aa9fbdad29b79a65a7542d283ea08b47c7c092f3
+ms.sourcegitcommit: 97418ed4882400155099b73bde4b69075434933a
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135404"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "66736065"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -37,15 +37,23 @@ ms.locfileid: "62135404"
 
 С помощью [Azure Reserved VM Instances](https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/) к примеру, коммерческими клиентами теперь можно сохранять до 72% и оплаты по мере использования Azure цены на виртуальные Машины путем приобретения — или «резервирование» — виртуальной машины в течение 1 или 3 года. Клиенты с Windows Server, которые уже успели оценить преимущества гибридного использования Azure и поддержки Software Assurance, могут сэкономить до 80% по сравнению с моделью оплаты по мере использования. 
 
-С удачным сочетанием привлекательных цены и гибкость непарные развертывания клиенты будут видеть наиболее общее значение при выборе резервирования Azure: 
+С удачным сочетанием привлекательных цены и гибкость непарные развертывания клиенты будут видеть наиболее общее значение при выборе резервирования Azure:
 
-- [Azure зарезервированных экземпляров виртуальных Машин](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
-- [Серверные подписки](https://www.microsoft.com/en-us/Licensing/news/windows-sql-server-through-csp) 
-- [Клиентские лицензии служб удаленных рабочих СТОЛОВ удаленных](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/) , доступном до окончания календарного 2018 г.
-- [Резервирования базы данных SQL](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
-- [SUSE Linux](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
-- [Azure Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
-- [Управляемый экземпляр SQL](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
+#### <a name="azure-reservations"></a>Резервирования Azure
+-   Azure зарезервированных экземпляров виртуальных Машин
+-   Резервирования базы данных SQL
+-   Управляемый экземпляр SQL
+-   Azure Cosmos DB
+-   Хранилище данных Azure SQL
+
+#### <a name="server-subscriptions"></a>Серверные подписки
+-   Windows Server
+-   (RDS) клиентских лицензий служб удаленных рабочих столов
+-   SQL Server
+
+#### <a name="linux-isv-annual-subscriptions"></a>Годовые подписки независимых поставщиков программного обеспечения Linux
+-   SUSE Linux
+-   Red Hat Enterprise Linux
 
 ## <a name="getting-started"></a>Начало работы
 
@@ -65,15 +73,25 @@ ms.locfileid: "62135404"
 
 **Подготовке к продаже**
 
-- [Обзор резервирований Azure и серверных подписок с преимуществом гибридного использования Azure (обновлено)](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
+- [Azure резервирования и серверные подписки с Обзор программы преимуществ гибридного](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
 - [Информационный листок](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [Раздел вопросов и ответов для партнеров по резервированиям Azure (обновлено)](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
+- [Часто задаваемые вопросы о партнером Azure резервирования](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
 - [Раздел вопросов и ответов для партнеров по резервированиям Azure и базе данных SQL (обновлено)](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
-- [Обзор базы данных SQL в Azure (новое)](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
-- [Общие сведения о ценах на Azure](https://azure.microsoft.com/pricing/#explore-cost)
-- [Калькулятор цен для Azure](https://azure.microsoft.com/pricing/calculator/)
-- Список — цена Azure резервирования см. в разделе Microsoft Azure Reserved Instances прайс-лист в партнерском центре [цены и предложения](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) страницы.
-- Список — цена серверные подписки см. в разделе программное обеспечение подписок прайс-лист в партнерском центре [цены и предложения](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) страницы.
+- [Удаленных клиентских лицензий служб удаленных рабочих СТОЛОВ (объявление)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
+- [Azure зарезервированных экземпляров виртуальных Машин (портал Azure)](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [Серверные подписки](https://docs.microsoft.com/en-us/partner-center/csp-software-subscriptions)
+- [Базы данных SQL в Azure Обзор](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
+- [Резервирования базы данных SQL (портал Azure)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-reserved-capacity)
+- [Azure Cosmos DB (портал Azure)](https://docs.microsoft.com/en-us/azure/cosmos-db/cosmos-db-reserved-capacity)
+- [Управляемый экземпляр SQL (портал Azure)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-managed-instance)
+- [SUSE и Red Hat Enterprise Linux (портал Azure)](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [Red Hat Linux в Azure](https://azure.com/redhat)
+- [SUSE Linux в Azure](https://azure.microsoft.com/en-us/overview/linux-on-azure/suse/)
+- [Linux в Azure](https://azure.microsoft.com/en-us/overview/linux-on-azure/)
+- [Общие сведения о ценах на Azure](https://azure.microsoft.com/en-us/pricing/)
+- [Калькулятор цен для Azure](https://azure.microsoft.com/en-us/pricing/calculator/)
+- CSP прайс-листы:  **Microsoft Azure Reserved Instances** и **программное обеспечение подписок** прайс-листы, находятся в центре партнеров [цены и предложения](https://partner.microsoft.com/en-us/pcv/sales) страницы.
+
 
 **Обучение**
 
@@ -93,6 +111,7 @@ ms.locfileid: "62135404"
 - [Выставление счетов за Azure резервирования](https://go.microsoft.com/fwlink/?linkid=872809)
 - [Размеры виртуальных машин для максимального использования резервирования](https://go.microsoft.com/fwlink/?linkid=872810)
 - [API центра партнеров (API и SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances)
+- [Службы удаленных рабочих столов](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/welcome-to-rds)
 
 ## <a name="azure-hybrid-benefit"></a>Преимущество гибридного использования Azure
 
