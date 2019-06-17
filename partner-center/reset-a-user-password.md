@@ -1,20 +1,20 @@
 ---
-title: Сброс пароля пользователя | Центр партнеров
+title: Сброс пароля пользователя или изменить свой пароль | Центр партнеров
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/15/2019
 description: Если пользователь забыл свой пароль, вы можете назначить ему новый временный пароль. Он сможет использовать его при следующем входе в Центр партнеров.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: efb357b1b9157155fdf5cf7f9ee59afa2c8b9abc
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 83d7417dcd71323822d066faca6c193ca5ef2e58
+ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133937"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "67145339"
 ---
-# <a name="reset-a-user-password"></a>Сброс пароля пользователя
+# <a name="reset-a-user-password-or-update-your-own-password"></a>Сброс пароля пользователя или изменить свой пароль
 
 **Применяется к**
 

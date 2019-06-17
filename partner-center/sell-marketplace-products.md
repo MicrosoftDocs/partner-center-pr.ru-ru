@@ -1,18 +1,18 @@
 ---
 title: Приобрести подписки на продукты Azure Marketplace | Центр партнеров
 ms.topic: article
-ms.date: 04/04/2019
+ms.date: 06/10/2019
 description: Можно использовать центр партнеров для продажи заказчикам подписки на программное обеспечение как услуга (SaaS) продукты, которые опубликованы в Azure Marketplace, независимыми поставщиками программного обеспечения (ISV).
 author: JnHs
 ms.author: jenhayes
 keywords: подписки, Marketplace, третьих лиц, независимых поставщиков программного обеспечения
 ms.localizationpriority: medium
-ms.openlocfilehash: a086ab3a58e926d33c118690e7b171ba4f0fd18b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: d870bfef7d967e8f5b890fadfe86f527e558cda5
+ms.sourcegitcommit: a9916e90efbb21bff250effd36a213420889633c
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133834"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67045073"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>Продажа подписок на продукты Azure Marketplace
 
@@ -46,6 +46,9 @@ ms.locfileid: "62133834"
 > Можно также использовать [API центра партнеров](https://docs.microsoft.com/partner-center/develop/) для создания подписок Azure Marketplace для клиентов. Дополнительные сведения см. в разделе [Создание подписки для Azure Marketplace продуктов](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).
 
 С помощью подписки на продукты Azure Marketplace, у вас есть возможность [отменить подписку на](https://docs.microsoft.com/partner-center/create-a-new-subscription#cancel-a-subscription) в течение периода отмены (24 часа для подписки с ежемесячной или ежегодной подписки — 14 дней). Вы также можете [ли автоматически продлевать срок действия подписки выберите](https://docs.microsoft.com/partner-center/create-a-new-subscription#choose-whether-to-automatically-renew-an-azure-marketplace-subscription).
+
+> [!NOTE]
+> Для [продукты Azure Marketplace](sell-marketplace-products.md), назначение лицензий и активации управляются через независимым поставщиком программного обеспечения (ISV), опубликовавшего продукта.
 
 ## <a name="access-billing-info-for-marketplace-products"></a>Доступ к сведения о выставлении счетов для продуктов Marketplace
 
