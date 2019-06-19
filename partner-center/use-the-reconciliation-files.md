@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8e7b17cb39f266c404d7873dc17e471741d52b32
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2d5792ad8f1a01c94336b208c825b10a269ae054
+ms.sourcegitcommit: 47a91bb6d961630f154fde738075b73ff84a829e
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132784"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67193425"
 ---
 # <a name="use-the-reconciliation-files"></a>Использование файлов выверки
 
@@ -39,6 +39,10 @@ ms.locfileid: "62132784"
 
 <li>В поле формата столбца данных, выберите <strong>текст</strong> для всех сумма столбцов, а затем выберите <strong>Готово</strong>.</li>
 </ol>
+
+## <a name="downloading-a-large-recon-file"></a>Загрузка больших файлов разведывательную
+
+Проверка файлов может стать очень большой и иногда трудно загрузки. Сценарий PowerShell для загрузки больших файлов разведывательную, см. в разделе [позиций в строках счета Get](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items).
 
 ## <a href="" id="itemizebypartner"></a>Детализировать партнером
 
@@ -891,7 +895,7 @@ ms.locfileid: "62132784"
 </tr>
 
 <tr class="odd">
-<td>Теги</td>
+<td>Tags</td>
 <td><p>Теги, присваиваемый средству измерения в порядке для группировки записей выставления счетов. Например можно использовать теги для распределения затрат по отделу, который использует данное средство измерения.</p></td>
 </tr>
 
@@ -1017,6 +1021,8 @@ ms.locfileid: "62132784"
 <p>Пропорциональные сборы с момента активации до конца периода выставления счетов</p>
 </td>
 </tr>
+
+
 <tr>
 <td rowspan="2">
 <p><strong>Плата за использование</strong></p>
@@ -1039,6 +1045,7 @@ ms.locfileid: "62132784"
 <p>Сбор за использование Access за текущий период выставления счетов</p>
 </td>
 </tr>
+
 <tr>
 <td>
 <p><strong>Деньги на счете</strong></p>
