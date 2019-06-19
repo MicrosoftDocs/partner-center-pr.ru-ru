@@ -2,8 +2,9 @@
 
 # [Членство Partner Network](mpn-overview.md)
 ## [Создание учетной записи Центра партнеров](mpn-create-a-partner-center-account.md)
-## [Структура учетной записи в Центре партнеров](account-structure.md)
+## [Как получить рабочий адрес электронной почты](buy-email-domain.md)
 ## Переход от PMC к Центру партнеров
+### [Подготовка к переходу из Partner Membership Center в Центр партнеров](prepare-pmc-pc-migration.md)
 ### [Руководство по переходу от PMC к Центру партнеров](guide-to-migration.md)
 ### [Краткий обзор различий между PMC и Центром партнеров](move-pmc-pc-map.md)
 ### [Руководство по переходу нескольких компаний в Центр партнеров](move-multiple-companies.md)
@@ -39,6 +40,7 @@
 # [Управление учетной записью Центра партнеров](partner-center-account-setup.md)
 ## [Рабочие учетные записи и Центр партнеров](azure-active-directory-tenants-and-partner-center.md)
 ## [Структура учетной записи в Центре партнеров](account-structure.md)
+## [Проверка данных учетной записи](verification-responses.md)
 ## [Обновление профиля партнера](update-your-partner-profile.md)
 ## [Расположения](manage-locations.md)
 ## [Восстановление приостановленной учетной записи Центра партнеров](suspended-partner-center-account.md)
