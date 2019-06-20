@@ -7,28 +7,26 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ffc8ee2fa589168925aa2c20230df5978c209554
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 8123141a2a283bc646613a0dbcf69f8903a101a8
+ms.sourcegitcommit: 1dfaa862741d9af918886f9f1133a0602546d145
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134234"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "67262966"
 ---
-# <a name="organization-tax-information"></a><span data-ttu-id="6f49c-104">Налоговая информация организации</span><span class="sxs-lookup"><span data-stu-id="6f49c-104">Organization tax information</span></span>
+# <a name="organization-tax-information"></a><span data-ttu-id="85b08-104">Налоговая информация организации</span><span class="sxs-lookup"><span data-stu-id="85b08-104">Organization tax information</span></span>
 
-<span data-ttu-id="6f49c-105">**Применяется к**</span><span class="sxs-lookup"><span data-stu-id="6f49c-105">**Applies to**</span></span>
+<span data-ttu-id="85b08-105">**Применяется к**</span><span class="sxs-lookup"><span data-stu-id="85b08-105">**Applies to**</span></span>
 
--  <span data-ttu-id="6f49c-106">Центр партнеров</span><span class="sxs-lookup"><span data-stu-id="6f49c-106">Partner Center</span></span>
+-  <span data-ttu-id="85b08-106">Центр партнеров</span><span class="sxs-lookup"><span data-stu-id="85b08-106">Partner Center</span></span>
 
-<span data-ttu-id="6f49c-107">Налоги на покупки в Центре партнеров рассчитываются в соответствии с вашим рабочим адресом.</span><span class="sxs-lookup"><span data-stu-id="6f49c-107">Taxes for Partner Center purchases are determined by your business address.</span></span> <span data-ttu-id="6f49c-108">Компании в некоторых странах могут указывать свой номер плательщика НДС или местный эквивалент:</span><span class="sxs-lookup"><span data-stu-id="6f49c-108">Businesses in some countries can provide their VAT number or local equivalent.</span></span>
+<span data-ttu-id="85b08-107">Налоги на покупки в Центре партнеров рассчитываются в соответствии с вашим рабочим адресом.</span><span class="sxs-lookup"><span data-stu-id="85b08-107">Taxes for Partner Center purchases are determined by your business address.</span></span> <span data-ttu-id="85b08-108">Компании в некоторых странах могут указывать свой номер плательщика НДС или местный эквивалент:</span><span class="sxs-lookup"><span data-stu-id="85b08-108">Businesses in some countries can provide their VAT number or local equivalent.</span></span>
 
-### <a name="add-your-vat-id"></a><span data-ttu-id="6f49c-109">Добавьте ваш номер плательщика НДС</span><span class="sxs-lookup"><span data-stu-id="6f49c-109">Add your VAT ID</span></span>
+### <a name="add-your-vat-id"></a><span data-ttu-id="85b08-109">Добавьте ваш номер плательщика НДС</span><span class="sxs-lookup"><span data-stu-id="85b08-109">Add your VAT ID</span></span>
 
-1.  <span data-ttu-id="6f49c-110">Из **центра партнеров** перейдите **предлагает членства**-> **доступно**</span><span class="sxs-lookup"><span data-stu-id="6f49c-110">From the **Partner Center** go to **Membership offers**-> **Available**</span></span>
-2.  <span data-ttu-id="6f49c-111">Выберите **добавьте код НДС**</span><span class="sxs-lookup"><span data-stu-id="6f49c-111">Select **Add your VAT ID**</span></span>
-3.  <span data-ttu-id="6f49c-112">Введите код НДС вашей организации, выберите **добавить** , а затем выберите **Далее**.</span><span class="sxs-lookup"><span data-stu-id="6f49c-112">Enter the VAT ID for your organization, select **Add** and then select **Next**.</span></span>
-
-
+1.  <span data-ttu-id="85b08-110">Из **центра партнеров** перейдите **параметры учетной записи**-> **партнера профиль выставления счетов**.</span><span class="sxs-lookup"><span data-stu-id="85b08-110">From the **Partner Center** go to **Account settings**-> **Partner billing profile**.</span></span>
+2.  <span data-ttu-id="85b08-111">В разделе **Финансовые данные** выберите **Обновление**.</span><span class="sxs-lookup"><span data-stu-id="85b08-111">In the **Financial data** section, select **Update**.</span></span>
+3.  <span data-ttu-id="85b08-112">В **код налогоплательщика компании** введите свой номер код НДС.</span><span class="sxs-lookup"><span data-stu-id="85b08-112">In the **Company Tax ID** field, enter your VAT ID number.</span></span>
 
 
 
