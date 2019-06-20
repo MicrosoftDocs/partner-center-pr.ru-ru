@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ffc8ee2fa589168925aa2c20230df5978c209554
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 8123141a2a283bc646613a0dbcf69f8903a101a8
+ms.sourcegitcommit: 1dfaa862741d9af918886f9f1133a0602546d145
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134234"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "67262966"
 ---
 # <a name="organization-tax-information"></a>Налоговая информация организации
 
@@ -24,11 +24,9 @@ ms.locfileid: "62134234"
 
 ### <a name="add-your-vat-id"></a>Добавьте ваш номер плательщика НДС
 
-1.  Из **центра партнеров** перейдите **предлагает членства**-> **доступно**
-2.  Выберите **добавьте код НДС**
-3.  Введите код НДС вашей организации, выберите **добавить** , а затем выберите **Далее**.
-
-
+1.  Из **центра партнеров** перейдите **параметры учетной записи**-> **партнера профиль выставления счетов**.
+2.  В разделе **Финансовые данные** выберите **Обновление**.
+3.  В **код налогоплательщика компании** введите свой номер код НДС.
 
 
 
