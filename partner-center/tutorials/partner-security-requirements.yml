@@ -1,0 +1,162 @@
+### YamlMime:Tutorial
+title: <span data-ttu-id="a70f5-101">Реализации требований безопасности партнера</span><span class="sxs-lookup"><span data-stu-id="a70f5-101">Implementing the partner security requirements</span></span>
+metadata:
+  title: Реализации требований безопасности партнера
+  description: В этом руководстве вы узнаете о требования к безопасности партнерам и способах их выполнения.
+  audience: Partners
+  level: Beginner
+  ms.date: 06/24/2019
+  displayType: two-column
+  ms.custom: mvc
+  ms.openlocfilehash: 08a558f53c5f2f2c58141cdb66912e93b76fb21b
+  ms.sourcegitcommit: ca7f000a58575fa9a089693256c095120dde3c5d
+  ms.translationtype: MT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 06/24/2019
+  ms.locfileid: "67347013"
+items:
+- title: <span data-ttu-id="a70f5-104">Введение</span><span class="sxs-lookup"><span data-stu-id="a70f5-104">Introduction</span></span>
+  durationInMinutes: 5
+  content: >
+    <span data-ttu-id="a70f5-105">Безопасность и конфиденциальность клиентов и партнеров являются главными приоритетами Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="a70f5-105">Security and privacy of customers and partners are top priorities for Microsoft.</span></span> <span data-ttu-id="a70f5-106">Мы продолжаем см. в разделе возрастающий номер более сложных атак на систему безопасности, в основном связанных с скомпрометированных удостоверений.</span><span class="sxs-lookup"><span data-stu-id="a70f5-106">We continue to see an increasing number of more sophisticated security attacks, primarily related to compromised identities.</span></span> <span data-ttu-id="a70f5-107">Упреждающие элементов управления играют ключевую роль в общей стратегии защиты для предотвращения атак на систему безопасности, мы начнем, принудительное применение набора требований обязательных безопасности для защиты, партнерами и клиентами.</span><span class="sxs-lookup"><span data-stu-id="a70f5-107">As preventive controls play a key role in an overall defense strategy to thwart security attacks, we will start enforcing a set of mandatory security requirements to help protect partners and their customers.</span></span>
+
+
+    <span data-ttu-id="a70f5-108">В этом учебнике вы узнаете Дополнительные сведения о безопасности партнеров, как выполнить их и влияния на пользователей в каталоге партнеров.</span><span class="sxs-lookup"><span data-stu-id="a70f5-108">Through this tutorial you will learn more about the partner security requirements, how to fulfill them, and the impact to users in your partner directory.</span></span>
+- title: <span data-ttu-id="a70f5-109">Каковы требования к безопасности партнера?</span><span class="sxs-lookup"><span data-stu-id="a70f5-109">What are the partner security requirements?</span></span>
+  durationInMinutes: 1
+  content: >
+    <span data-ttu-id="a70f5-110">Всех партнеров, участвующих в программе поставщика облачных решений, элемент управления панели поставщики и партнеры помощник по должны использовать многофакторную идентификацию (MFA) для каждого пользователя в свой клиент партнера.</span><span class="sxs-lookup"><span data-stu-id="a70f5-110">All partners who are participating in the Cloud Solution Provider program, Control Panel Vendors, and Advisor partners are required to enforce Multi-Factor Authentication (MFA) for each user in their partner tenant.</span></span> <span data-ttu-id="a70f5-111">Это можно сделать, включив два [Azure Active Directory базовая политика](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).</span><span class="sxs-lookup"><span data-stu-id="a70f5-111">This can be done by enabling two [Azure Active Directory baseline policies](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).</span></span> <span data-ttu-id="a70f5-112">Базовая политика — это набор стандартных политик, которые позволяют защищать компании от многих распространенных атак.</span><span class="sxs-lookup"><span data-stu-id="a70f5-112">Baseline policies are a set of predefined policies that help protect organizations against many common attacks.</span></span> <span data-ttu-id="a70f5-113">Этих распространенных атак может включать пароль Распылитель, воспроизведения и фишинга.</span><span class="sxs-lookup"><span data-stu-id="a70f5-113">These common attacks can include password spray, replay, and phishing.</span></span> <span data-ttu-id="a70f5-114">Базовая политика доступны во всех выпусках Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="a70f5-114">Baseline policies are available in all editions of Azure Active Directory.</span></span> <span data-ttu-id="a70f5-115">Майкрософт обеспечение эти политики защиты базовых показателей доступности для всех поскольку атак на основе удостоверений были развертывают за последние несколько лет.</span><span class="sxs-lookup"><span data-stu-id="a70f5-115">Microsoft is making these baseline protection policies available to everyone because identity-based attacks have been on the rise over the last few years.</span></span>
+
+
+    <span data-ttu-id="a70f5-116">В следующей таблице описаны два базовых показателей политики, которые должны быть включены.</span><span class="sxs-lookup"><span data-stu-id="a70f5-116">The two baseline policies that should be enabled are described in the table below.</span></span>
+
+
+    |<span data-ttu-id="a70f5-117">**Политика**</span><span class="sxs-lookup"><span data-stu-id="a70f5-117">**Policy**</span></span>| |
+
+    |-----|-----|
+
+    |<span data-ttu-id="a70f5-118">**Требовать многофакторную Идентификацию для администраторов**</span><span class="sxs-lookup"><span data-stu-id="a70f5-118">**Require MFA for admins**</span></span>|<span data-ttu-id="a70f5-119">Для включения MFA требуется для политики "Администраторы", потребуется регистрации для многофакторной проверки Подлинности, используя приложение для проверки подлинности пользователей в роли администратора.</span><span class="sxs-lookup"><span data-stu-id="a70f5-119">Enabling the Require MFA for admins policy, will require users in the administrator roles  to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="a70f5-120">После завершения регистрации многофакторной проверки Подлинности, администраторы должны будут выполнять эту Проверку при каждом входе.</span><span class="sxs-lookup"><span data-stu-id="a70f5-120">Once MFA registration is complete, administrators will need to perform MFA every time they sign-in.</span></span>|
+
+    |<span data-ttu-id="a70f5-121">**Защита конечных пользователей**</span><span class="sxs-lookup"><span data-stu-id="a70f5-121">**End user protection**</span></span>|<span data-ttu-id="a70f5-122">Защита конечного пользователя — рисков многофакторной проверки Подлинности базовых показателей политику, которая обеспечивает защиту всех пользователей в каталоге.</span><span class="sxs-lookup"><span data-stu-id="a70f5-122">End user protection is a risk-based MFA baseline policy that protects all users in a directory.</span></span> <span data-ttu-id="a70f5-123">При включении этой политики требует регистрации для многофакторной проверки Подлинности, используя приложение для проверки подлинности всех пользователей.</span><span class="sxs-lookup"><span data-stu-id="a70f5-123">Enabling this policy requires all users to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="a70f5-124">Пользователи могут пропустить запрос регистрации на многофакторную Идентификацию для 14 дней, после чего они будут заблокированы вход до регистрации в MFA.</span><span class="sxs-lookup"><span data-stu-id="a70f5-124">Users can ignore the MFA registration prompt for 14 days, after which they will be blocked from signing in until they register for MFA.</span></span> <span data-ttu-id="a70f5-125">После регистрации для многофакторной проверки Подлинности пользователей будут запрашиваться многофакторной проверки Подлинности только во время рискованных попытки входа в систему.</span><span class="sxs-lookup"><span data-stu-id="a70f5-125">Once registered for MFA, users will be prompted for MFA only during risky sign-in attempts.</span></span> <span data-ttu-id="a70f5-126">Скомпрометированные учетные записи пользователей блокируются, пока не сбросить пароль и события риска были отключены.</span><span class="sxs-lookup"><span data-stu-id="a70f5-126">Compromised user accounts are blocked until their password is reset and risk events have been dismissed.</span></span>|
+
+
+    <span data-ttu-id="a70f5-127">Если эти политики включены, каждый пользователь сможет использовать Azure MFA без дополнительной платы.</span><span class="sxs-lookup"><span data-stu-id="a70f5-127">When these policies are enabled, each user will be able to utilize Azure MFA at no additional cost.</span></span> <span data-ttu-id="a70f5-128">Если вы используете стороннее решение, затем необходимо для принудительного применения многофакторной проверки Подлинности для каждого пользователя при доступе к Microsoft коммерческих облачных служб.</span><span class="sxs-lookup"><span data-stu-id="a70f5-128">If you are using a third-party solution, then you are required to enforce MFA for each user when accessing Microsoft Commercial cloud services.</span></span>
+
+
+    > [!IMPORTANT]
+
+    > <span data-ttu-id="a70f5-129">Поскольку многофакторной проверки Подлинности будет применяться для каждого пользователя в каталог партнеров, может быть последствия для любой службы автоматизации или интеграции, который использует учетные данные пользователя.</span><span class="sxs-lookup"><span data-stu-id="a70f5-129">Since MFA will be enforced for every user in the partner directory, there will be an impact to any automation or integration that utilizes user credentials.</span></span> <span data-ttu-id="a70f5-130">Чтобы устранить это влияние, достаточно изменить метод автоматизации или интеграции подключается к коммерческих облачных служб Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="a70f5-130">To address this impact you will need to modify the way your automation or integration connects to Microsoft commercial cloud services.</span></span> <span data-ttu-id="a70f5-131">Если вы подключаетесь к служба поддерживает токена проверки подлинности на основе, то рекомендуется реализовать [framework модель защиты приложения](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).</span><span class="sxs-lookup"><span data-stu-id="a70f5-131">If the service you are connecting to supports token based authentication, then it is recommended that you implement the [Secure Application Model framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).</span></span>
+- title: <span data-ttu-id="a70f5-132">Как включить MFA требуется для "Администраторы" базовую политику?</span><span class="sxs-lookup"><span data-stu-id="a70f5-132">How do I enable the Require MFA for admins baseline policy?</span></span>
+  durationInMinutes: 5
+  content: >
+    <span data-ttu-id="a70f5-133">*Требования MFA для администратора* базовая политика требует многофакторной проверки Подлинности для следующих ролей каталога, считается наиболее привилегированных ролей Azure AD:</span><span class="sxs-lookup"><span data-stu-id="a70f5-133">The *Require MFA for admin* baseline policy requires MFA for the following directory roles, considered to be the most privileged Azure AD roles:</span></span>
+
+
+    - <span data-ttu-id="a70f5-134">Глобальный администратор</span><span class="sxs-lookup"><span data-stu-id="a70f5-134">Global administrator</span></span>
+
+    - <span data-ttu-id="a70f5-135">Администратор SharePoint</span><span class="sxs-lookup"><span data-stu-id="a70f5-135">SharePoint administrator</span></span>
+
+    - <span data-ttu-id="a70f5-136">Администратор Exchange</span><span class="sxs-lookup"><span data-stu-id="a70f5-136">Exchange administrator</span></span>
+
+    - <span data-ttu-id="a70f5-137">Администратор условного доступа</span><span class="sxs-lookup"><span data-stu-id="a70f5-137">Conditional access administrator</span></span>
+
+    - <span data-ttu-id="a70f5-138">Администратор безопасности</span><span class="sxs-lookup"><span data-stu-id="a70f5-138">Security administrator</span></span>
+
+    - <span data-ttu-id="a70f5-139">Администратор службы технической поддержки и администратор паролей</span><span class="sxs-lookup"><span data-stu-id="a70f5-139">Helpdesk administrator / Password administrator</span></span>
+
+    - <span data-ttu-id="a70f5-140">Администратор выставления счетов</span><span class="sxs-lookup"><span data-stu-id="a70f5-140">Billing administrator</span></span>
+
+    - <span data-ttu-id="a70f5-141">Администратор пользователей</span><span class="sxs-lookup"><span data-stu-id="a70f5-141">User administrator</span></span>
+
+
+    <span data-ttu-id="a70f5-142">При включении MFA требуется для политики "Администраторы", указанных выше ролей девять администратора потребуется для регистрации для многофакторной проверки Подлинности, используя приложение для проверки подлинности.</span><span class="sxs-lookup"><span data-stu-id="a70f5-142">Upon enabling the Require MFA for admins policy, the above nine administrator roles will be required to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="a70f5-143">После завершения регистрации многофакторной проверки Подлинности, администраторы должны будут выполнять эту Проверку по одному их входа в систему.</span><span class="sxs-lookup"><span data-stu-id="a70f5-143">Once MFA registration is complete, administrators will need to perform MFA every single time they sign-in.</span></span>
+
+
+    <span data-ttu-id="a70f5-144">Если ваша организация использует эти учетные записи используется в сценарии или код, рассмотрите возможность замены их с помощью [управляемые удостоверения](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).</span><span class="sxs-lookup"><span data-stu-id="a70f5-144">If your organization has these accounts in use in scripts or code, consider replacing them with [managed identities](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).</span></span>
+
+
+    <span data-ttu-id="a70f5-145">Чтобы включить эту политику и защитить администраторов:</span><span class="sxs-lookup"><span data-stu-id="a70f5-145">To enable this policy and protect your administrators:</span></span>
+
+
+    1. <span data-ttu-id="a70f5-146">Войдите в **портала Azure** как глобального администратора, администратора безопасности или администратора условного доступа.</span><span class="sxs-lookup"><span data-stu-id="a70f5-146">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
+
+    2. <span data-ttu-id="a70f5-147">Перейдите к **Azure Active Directory** > **условного доступа**.</span><span class="sxs-lookup"><span data-stu-id="a70f5-147">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
+
+    3. <span data-ttu-id="a70f5-148">В списке политик выберите **базовая политика: Требовать многофакторную Идентификацию для администраторов**.</span><span class="sxs-lookup"><span data-stu-id="a70f5-148">In the list of policies, select **Baseline policy: Require MFA for admins**.</span></span>
+
+    4. <span data-ttu-id="a70f5-149">Задайте **включить политику** для **использовать политику немедленно**.</span><span class="sxs-lookup"><span data-stu-id="a70f5-149">Set **Enable policy** to **Use policy immediately**.</span></span>
+
+    5. <span data-ttu-id="a70f5-150">Нажмите кнопку **Сохранить**.</span><span class="sxs-lookup"><span data-stu-id="a70f5-150">Click **Save**.</span></span>
+
+      ![Требовать многофакторную Идентификацию для администраторов](../images/security/baseline-policy-require-mfa-for-admins.png)
+
+    > [!WARNING]
+
+    > <span data-ttu-id="a70f5-152">Прежде чем эта политика включена, убедитесь, что ваши пользователи не используют устаревшие протоколы аутентификации.</span><span class="sxs-lookup"><span data-stu-id="a70f5-152">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="a70f5-153">См. в статье [как: Блок устаревшей проверки подлинности Azure AD с помощью условного доступа](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) Дополнительные сведения.</span><span class="sxs-lookup"><span data-stu-id="a70f5-153">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
+
+
+    > [!IMPORTANT]
+
+    > <span data-ttu-id="a70f5-154">Имеется известная проблема, которая влияет на возможность использовать делегированные права администратора для подключения к Exchange Online PowerShell, при применении многофакторной проверки Подлинности.</span><span class="sxs-lookup"><span data-stu-id="a70f5-154">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="a70f5-155">См. в разделе [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) Дополнительные сведения.</span><span class="sxs-lookup"><span data-stu-id="a70f5-155">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
+
+
+    <span data-ttu-id="a70f5-156">После включения *требования MFA для администраторов* базовой политики, пользователям, являющимся членом указанных выше ролей администратора столкнутся новое взаимодействие с пользователем при входе.</span><span class="sxs-lookup"><span data-stu-id="a70f5-156">Once you have enable the *Require MFA for admins* baseline policy, users who are a member of the above administrator roles will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="a70f5-157">На следующих рисунках, пользователей, затронутых этой политики, которые могут возникнуть</span><span class="sxs-lookup"><span data-stu-id="a70f5-157">The following figures are what users impacted by this policy will experience</span></span>
+
+      ![Запрашивать дополнительные сведения](../images/security/baseline-require-more-info.png)
+
+      ![Дополнительной проверки безопасности](../images/security/baseline-security-verification-setup.png)
+
+      ![Настройка мобильного приложения](../images/security/baseline-configure-mobile-app.png)
+
+      ![Установка проверки дополнительной защиты завершена](../images/security/baseline-security-verification-setup-completed.png)
+
+      ![Дополнительной проверки безопасности проверен](../images/security/baseline-security-verification-confirmed.png)
+
+    <span data-ttu-id="a70f5-163">После завершения перечисленных выше пользователя они смогут войти в облачную службу Майкрософт, которой они обращение.</span><span class="sxs-lookup"><span data-stu-id="a70f5-163">After the user has completed the above they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span>
+- title: <span data-ttu-id="a70f5-164">Как включить базовую политику защиты конечного пользователя?</span><span class="sxs-lookup"><span data-stu-id="a70f5-164">How do I enable the End user protection baseline policy?</span></span>
+  durationInMinutes: 5
+  content: >-
+    <span data-ttu-id="a70f5-165">Базовая политика защиты конечного пользователя защищает все пользователи в каталоге.</span><span class="sxs-lookup"><span data-stu-id="a70f5-165">The End user protection baseline policy protects all users in a directory.</span></span> <span data-ttu-id="a70f5-166">При включении этой политики всем пользователям потребуется для регистрации в Azure MFA в течение 14 дней.</span><span class="sxs-lookup"><span data-stu-id="a70f5-166">Enabling this policy requires all users to register for Azure MFA within 14 days.</span></span> <span data-ttu-id="a70f5-167">После регистрации пользователи будут получать запрос для многофакторной проверки Подлинности только во время рискованных попытки входа в систему, это поведение будет изменено для клиентов-партнеров в будущем.</span><span class="sxs-lookup"><span data-stu-id="a70f5-167">Once registered, users will be prompted for MFA only during risky sign-in attempts, this behavior will change for partner tenants in the future.</span></span> <span data-ttu-id="a70f5-168">Скомпрометированные учетные записи пользователей блокируются, пока не сбросить пароль и риск увольнения.</span><span class="sxs-lookup"><span data-stu-id="a70f5-168">Compromised user accounts are blocked until password reset and risk dismissal.</span></span>
+
+
+    <span data-ttu-id="a70f5-169">Политика **базовая политика: Защита конечных пользователей** поставляется предварительно настроенным и будут отображаться в верхней при переходе к колонка условного доступа на портале Azure.</span><span class="sxs-lookup"><span data-stu-id="a70f5-169">The policy **Baseline policy: End user protection** comes pre-configured and will show up at the top when you navigate to the Conditional Access blade in Azure portal.</span></span>
+
+
+    <span data-ttu-id="a70f5-170">Чтобы включить эту политику и защитить пользователей.</span><span class="sxs-lookup"><span data-stu-id="a70f5-170">To enable this policy and protect your users:</span></span>
+
+
+    1. <span data-ttu-id="a70f5-171">Войдите в **портала Azure** как глобального администратора, администратора безопасности или администратора условного доступа.</span><span class="sxs-lookup"><span data-stu-id="a70f5-171">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
+
+    2. <span data-ttu-id="a70f5-172">Перейдите к **Azure Active Directory** > **условного доступа**.</span><span class="sxs-lookup"><span data-stu-id="a70f5-172">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
+
+    3. <span data-ttu-id="a70f5-173">В списке политик выберите **базовая политика: Защита конечных пользователей (Предварительная версия)**.</span><span class="sxs-lookup"><span data-stu-id="a70f5-173">In the list of policies, select **Baseline policy: End user protection (preview)**.</span></span>
+
+    4. <span data-ttu-id="a70f5-174">Задайте **включить политику** для **использовать политику немедленно**.</span><span class="sxs-lookup"><span data-stu-id="a70f5-174">Set **Enable policy** to **Use policy immediately**.</span></span>
+
+    5. <span data-ttu-id="a70f5-175">Нажмите кнопку **Сохранить**.</span><span class="sxs-lookup"><span data-stu-id="a70f5-175">Click **Save**.</span></span>
+
+      ![Защита конечных пользователей](../images/security/baseline-policy-end-user-protection.png)
+
+    > [!WARNING]
+
+    > <span data-ttu-id="a70f5-177">Прежде чем эта политика включена, убедитесь, что ваши пользователи не используют устаревшие протоколы аутентификации.</span><span class="sxs-lookup"><span data-stu-id="a70f5-177">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="a70f5-178">См. в статье [как: Блок устаревшей проверки подлинности Azure AD с помощью условного доступа](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) Дополнительные сведения.</span><span class="sxs-lookup"><span data-stu-id="a70f5-178">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
+
+
+    > [!IMPORTANT]
+
+    > <span data-ttu-id="a70f5-179">Имеется известная проблема, которая влияет на возможность использовать делегированные права администратора для подключения к Exchange Online PowerShell, при применении многофакторной проверки Подлинности.</span><span class="sxs-lookup"><span data-stu-id="a70f5-179">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="a70f5-180">См. в разделе [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) Дополнительные сведения.</span><span class="sxs-lookup"><span data-stu-id="a70f5-180">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
+
+
+    <span data-ttu-id="a70f5-181">После включения *защиты конечного пользователя* базовой политики все пользователи столкнутся с новое взаимодействие с пользователем при входе.</span><span class="sxs-lookup"><span data-stu-id="a70f5-181">Once you have enabled the *End user protection* baseline policy, all users will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="a70f5-182">На следующих рисунках являются пользователи, которые будут испытывать</span><span class="sxs-lookup"><span data-stu-id="a70f5-182">The following figures are what users will experience</span></span>
+
+      ![Запрашивать дополнительные сведения](../images/security/baseline-require-more-info.png)
+
+      ![Дополнительной проверки безопасности](../images/security/baseline-security-verification-setup.png)
+
+      ![Настройка мобильного приложения](../images/security/baseline-configure-mobile-app.png)
+
+      ![Установка проверки дополнительной защиты завершена](../images/security/baseline-security-verification-setup-completed.png)
+
+      ![Дополнительной проверки безопасности проверен](../images/security/baseline-security-verification-confirmed.png)
+
+    <span data-ttu-id="a70f5-188">После выполнения пользователем указанных выше, они смогут войти в облачную службу Майкрософт, которой они обращение.</span><span class="sxs-lookup"><span data-stu-id="a70f5-188">After the user has completed the above, they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span> <span data-ttu-id="a70f5-189">Обратите внимание, пока не применяются требования к безопасности партнерам, а пользователи, не охваченных *требования MFA для администраторов* базовая политика будет запрашиваться только для многофакторной проверки Подлинности на основе рисков.</span><span class="sxs-lookup"><span data-stu-id="a70f5-189">Note until the partner security requirements are enforced, users who are not covered by the *Require MFA for admins* baseline policy will only be prompted for MFA based on risk.</span></span>
