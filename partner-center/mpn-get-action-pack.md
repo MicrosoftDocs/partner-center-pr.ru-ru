@@ -1,25 +1,27 @@
 ---
-title: Приобретение или продление подписки Microsoft Action Pack | Центр партнеров
+title: Купить или обновить ваши предложения по преимуществу | Центр партнеров
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 04/25/2019
 description: Узнайте, как получить Microsoft Action Pack в первый раз или продлить имеющуюся подписку.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, продление MAPS, продление action pack, получение action pack
 ms.localizationpriority: medium
-ms.openlocfilehash: 552e288bb983b940d8211328553e6b33be242cb8
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: cb30847f6ce5697bfd545c6b13cd0641aab66fba
+ms.sourcegitcommit: d99b3cdca6edbc478e2ac6e2927541448bf8190b
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134304"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "67407881"
 ---
-# <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Приобретение подписки на Microsoft Action Pack в первый раз или ее продление
+# <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Приобрести в первый раз или продлить подписку Microsoft Action Pack или компетенции silver или gold
 
 **Применяется к**
 
 -  Центр партнеров
 -  Partner Membership Center
+
+Теперь с помощью панели мониторинга центра партнеров, вы можете приобрести или обновить свои преимущества предложения, включая подписки и silver и gold компетенций Microsoft Action Pack. 
 
 Action Pack предлагает программное обеспечение, поддержку и преимущества для организаций, которые хотят расширить свои возможности работы с решениями Майкрософт в эпоху мобильных и облачных технологий. При покупке Action Pack вы получаете набор надежного программного обеспечения, обеспечивающего следующие преимущества. 
 
@@ -30,6 +32,8 @@ Action Pack предлагает программное обеспечение, 
 
 Вы можете получить дополнительные сведения об Action Pack на сайте [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-3).
 
+Стать [партнер с компетенцией](https://partner.microsoft.com/membership/competencies). 
+
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Приобретение Microsoft Action Pack в первый раз
 
 Если вы еще не являетесь партнером корпорации Майкрософт, сначала необходимо присоединиться к сети Microsoft Partner Network. Если вы еще не являетесь членом сети партнеров, перейдите на [страницу членства](https://partner.microsoft.com/membership) на сайте сети партнеров и выберите пункт **Зарегистрироваться сейчас**, когда вы будете готовы зарегистрироваться. 
@@ -39,7 +43,7 @@ Action Pack предлагает программное обеспечение, 
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Продление подписки на Microsoft Action Pack
 
 >[!IMPORTANT]
->Между теперь и в конце календарного года переходим Управление подпиской Action Pack из центра партнеров членства (PMC) центр партнеров — этого сайта. Способ продления подписки Action Pack за это время может измениться, поэтому внимательно ознакомьтесь с представленной ниже информацией.  
+>Теперь вы управлять подпиской Action Pack от центра партнеров - этого сайта. 
 
 ### <a name="check-your-renewal-eligibility"></a>Проверка наличия права на продление
 
@@ -59,7 +63,7 @@ Action Pack предлагает программное обеспечение, 
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Продление подписки Microsoft Action Pack в центре партнеров
 
-1. Перейдите на страницу [**Предложений в рамках членства**](https://partnercenter.microsoft.com/pcv/partnership/offers), а затем выберите **Приобретено**. Найдите плитку **Подписка на Microsoft Action Pack**.  
+1. Перейдите к [ **предлагает членства** ](https://partnercenter.microsoft.com/pcv/partnership/offers) страницы. Найдите плитку **Подписка на Microsoft Action Pack**.  
 
 2. Выберите **Продлить подписку**, а затем выберите способ оплаты. Вы можете осуществить оплату с помощью кредитной карты или электронного банковского перевода.
 
@@ -77,7 +81,7 @@ Action Pack предлагает программное обеспечение, 
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Отключение автоматического продления подписки на Action Pack
 
-1. Перейдите на страницу [**Предложений в рамках членства**](https://partnercenter.microsoft.com/pcv/partnership/offers), а затем выберите **Приобретено**. Выберите **Подписка на Microsoft Action Pack**, чтобы просмотреть подробные сведения о подписке. 
+1. Перейдите к [ **предлагает членства** ](https://partnercenter.microsoft.com/pcv/partnership/offers) страницы.  Выберите **Подписка на Microsoft Action Pack**, чтобы просмотреть подробные сведения о подписке. 
 
 2. Выберите **Отключить автоматическое продление**, если вы не хотите, чтобы подписка на Action Pack автоматически продлевалась каждый год. 
 
@@ -89,7 +93,7 @@ Action Pack предлагает программное обеспечение, 
 
 Чтобы отменить подписку на Microsoft Action Pack, вы должны обратиться в службу поддержки Центра партнеров.
 
-1. Перейдите на страницу [**Предложений в рамках членства**](https://partnercenter.microsoft.com/pcv/partnership/offers), а затем выберите **Приобретено**. Выберите **Подписка на Microsoft Action Pack**, чтобы просмотреть подробные сведения о подписке. 
+1. Перейдите к [ **предлагает членства** ](https://partnercenter.microsoft.com/pcv/partnership/offers) страницы. Выберите **Подписка на Microsoft Action Pack**, чтобы просмотреть подробные сведения о подписке. 
 
 3. Нажмите кнопку **Отменить подписку**. Следуйте инструкциям, чтобы создать запрос в службу поддержки. 
 
@@ -105,7 +109,7 @@ Action Pack предлагает программное обеспечение, 
 
 ## <a name="download-your-action-pack-invoice"></a>Скачивание счета-фактуры для Action Pack
 
-1. Перейдите на страницу [**Предложений в рамках членства**](https://partnercenter.microsoft.com/pcv/partnership/offers), а затем выберите **Приобретено**. Выберите **Подписка на Microsoft Action Pack**, чтобы просмотреть подробные сведения о подписке. 
+1. Перейдите к [ **предлагает членства** ](https://partnercenter.microsoft.com/pcv/partnership/offers) страницы. Выберите **Подписка на Microsoft Action Pack**, чтобы просмотреть подробные сведения о подписке. 
 
 3. Нажмите **Скачать счет-фактуру**.
  
