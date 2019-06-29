@@ -8,16 +8,16 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: руководства по программе csp, руководство по программе, партнерские соглашения, соглашение с клиентом, прейскуранты, предложения
 ms.localizationpriority: medium
-ms.openlocfilehash: c6ea36d5fb807f10364d28f8ae014b80c91b6013
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: b5c9349ba5b4770eec9b4b8923907dd8377b20e3
+ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134994"
+ms.lasthandoff: 06/29/2019
+ms.locfileid: "67468017"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Руководство по программе поставщика решений облака, соглашения, прайс-листы и предложения
 
-**Применяется к**
+**Относится к**
 
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud for US Government
@@ -38,19 +38,19 @@ ms.locfileid: "62134994"
 
 Майкрософт требует от партнеров подписать это соглашение, чтобы присоединиться к программе поставщиков облачных решений. Изучите руководство для рынка или национальное облако, в котором вы планируете продавать.
 
-[Соглашения торгового посредника Microsoft Cloud — Северная Америка, Центральная Америка, Южная Америка и Карибские острова](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
+[Соглашения торгового посредника Microsoft Cloud — Северная Америка, Центральная Америка, Южная Америка и Карибские острова](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g7eT)
 
-[Соглашения торгового посредника Microsoft Cloud — Азия, Австралия и Тихоокеанский](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
+[Соглашения торгового посредника Microsoft Cloud — Азия, Австралия и Тихоокеанский](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
 
-[Соглашения торгового посредника Microsoft Cloud — Европа, Ближний Восток и Африка](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
+[Соглашения торгового посредника Microsoft Cloud — Европа, Ближний Восток и Африка](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
 
-[Соглашения торгового посредника Microsoft Cloud — Япония](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
+[Соглашения торгового посредника Microsoft Cloud — Япония](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ9)
 
-[Соглашения торгового посредника Microsoft Cloud — Корея](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
+[Соглашения торгового посредника Microsoft Cloud — Корея](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gf2k)
 
-[Соглашения торгового посредника Microsoft Cloud — Тайвань](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
+[Соглашения торгового посредника Microsoft Cloud — Тайвань](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ8)
 
-[Соглашения торгового посредника Microsoft Cloud - Microsoft Cloud для государственных организаций США](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
+[Соглашения торгового посредника Microsoft Cloud - Microsoft Cloud для государственных организаций США](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gcrx)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Шаблоны для клиентов соглашения Microsoft Cloud
 
