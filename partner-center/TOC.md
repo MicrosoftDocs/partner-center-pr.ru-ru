@@ -48,6 +48,7 @@
 ## [Назначение пользователям ролей и разрешений](permissions-overview.md)
 ## [Проверка вашего владения доменом](become-global-admin.md)
 ## [Сброс пароля пользователя](reset-a-user-password.md)
+## [Сброс пароля](reset-my-pasword.md)
 ## [Добавление служб Azure Partner Shared Services](shared-services.md)
 ## [Цены и предложения](pricing-and-offers.md)
 ## [Настройка каталога](customize-the-catalog.md)
@@ -71,6 +72,7 @@
 ## [Использование файлов выверки](use-the-reconciliation-files.md)
 ## [Налоги и освобождение от уплаты налогов](tax-and-tax-exemptions.md)
 ## [Проверка начисления подоходного налога](withholding-tax-credit-form.md)
+## [Запрос на кредиты в рамках соглашения об уровне обслуживания от Майкрософт](request-credit.md)
 ## [Сведения об НДС для организации](organization-tax-info.md)
 ## [Установка расходного бюджета Azure для клиентов](set-an-azure-spending-budget-for-your-customers.md)
 ## [Распространенные сценарии выставления счетов](common-billing-scenarios.md)
@@ -137,4 +139,8 @@
 ## [Самообслуживание для клиентов](customer-self-support.md)
 ## [Сообщение о проблемах в корпорацию Майкрософт](escalate-problems-to-microsoft.md)
 
+# Безопасность
+## [Требования к безопасности для партнеров](partner-security-requirements.md)
 
+# Учебники
+## [Реализация требований к безопасности для партнеров](tutorials/partner-security-requirements.yml)
