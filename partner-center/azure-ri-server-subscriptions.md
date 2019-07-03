@@ -1,24 +1,24 @@
 ---
 title: Зарезервированные экземпляры виртуальных машин Azure (RI) + серверные подписки на Azure | Центр партнеров
 ms.topic: article
-ms.date: 6/5/2019
+ms.date: 7/2/2019
 description: Чтобы удовлетворить быстро растущий спрос на экономичные решения для непрерывных и четко прогнозируемых облачных рабочих нагрузок, мы включили Azure RI и серверные подписки в партнерскую программу CSP. Программа CSP позволяет партнерам приобретать, развертывать и контролировать Azure RI и серверные подписки от имени коммерческих клиентов через Центр партнеров Майкрософт и портал Azure.
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, подписки, виртуальной Машины, резервирования, зарезервированного экземпляра
 ms.localizationpriority: medium
-ms.openlocfilehash: aa9fbdad29b79a65a7542d283ea08b47c7c092f3
-ms.sourcegitcommit: 97418ed4882400155099b73bde4b69075434933a
+ms.openlocfilehash: 17455913cbe6aef75cbea61ca26a979682a61147
+ms.sourcegitcommit: 1d5f3fbf9bb53bc7f42cefbbedb2d7f3f3bc66eb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "66736065"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "67509954"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
 # <a name="azure-reserved-vm-instances-ri--server-subscriptions-for-azure"></a>Azure Reserved VM Instances (RI) + серверные подписки на Azure
 
-**Применяется к**
+**Относится к**
 
 - Центр партнеров
  
@@ -45,6 +45,7 @@ ms.locfileid: "66736065"
 -   Управляемый экземпляр SQL
 -   Azure Cosmos DB
 -   Хранилище данных Azure SQL
+-   Службы приложений
 
 #### <a name="server-subscriptions"></a>Серверные подписки
 -   Windows Server
@@ -54,6 +55,10 @@ ms.locfileid: "66736065"
 #### <a name="linux-isv-annual-subscriptions"></a>Годовые подписки независимых поставщиков программного обеспечения Linux
 -   SUSE Linux
 -   Red Hat Enterprise Linux
+-   Azure Red Hat OpenShift
+
+#### <a name="isv-annual-subscriptions"></a>Годовые подписки независимых поставщиков программного обеспечения
+-   Решение Azure VMware, CloudSimple
 
 ## <a name="getting-started"></a>Начало работы
 
@@ -119,4 +124,4 @@ ms.locfileid: "66736065"
 
 См. также [Преимущество гибридного использования Azure — вопросы и ответы](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/faq/)
 
-* Актуальные цены могут изменяться в зависимости от региона, типа экземпляра или от использования.
+\* Актуальные цены могут изменяться в зависимости от региона, типа экземпляра или от использования.
