@@ -1,24 +1,21 @@
 ---
 title: Требования к компетенциям Майкрософт для получения членства уровня Gold и Silver | Центр партнеров
 ms.topic: article
-ms.date: 12/5/2018
+ms.date: 5/7/2019
 description: Подробнее о требованиях к компетенциям Майкрософт для получения членства уровней Gold и Silver.
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: компетенции, членство уровня silver, членство уровня gold, mpn, MAPS, навыки, Microsoft Partner Network, членство в сети
+keywords: компетенции, членства silver, gold членства, mpn, КАРТ, знание, Microsoft Partner Network, членство в сетях, advanced специализации
 ms.localizationpriority: medium
-ms.openlocfilehash: 152f5186471572a3dafbf3a273867e1d64aafa69
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 480f14df79f5899a24b23947528b44a7aa3b73ba
+ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134414"
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "67549522"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Требования к компетенциям Майкрософт для получения членства уровня Gold и Silver
 
-**Применяется к**
-
-- Центр партнеров
 
 Продемонстрируйте свой подтвержденный опыт в предоставлении качественных решений в одной или нескольких специализированных областях. Компетенции Майкрософт предназначены для подготовки организаций к удовлетворению потребностей клиентов и привлечения новых заказчиков, которым нужны сертифицированные Майкрософт поставщики решений. Присоединяйтесь к элитному уровню партнеров корпорации Майкрософт и выделяйтесь из подобных вам компаний.
 
@@ -26,32 +23,10 @@ ms.locfileid: "62134414"
 
 - Получите **членство уровня Gold**, чтобы продемонстрировать свои передовые возможности в определенной области решений Майкрософт
 
-Узнайте, что необходимо для получения членства Silver и Gold в следующих областях специализации:
+Дополнительные сведения о [что необходимо для получения членства Silver и Gold](https://partner.microsoft.com/membership/competencies)
 
-<!-- Removed the ISV competency row as per Sarah Hodge on 12/5/18 
+Дополнительные сведения о [счета-фактуры и налогов для компетенции](mpn-view-print-maps-invoice.md)
 
-[ISV competency](https://partner.microsoft.com/en-us/membership/isv-competency)| Azure, SQL Server 2016,  Dynamics 365, Office 365, Windows Server 2019, System Center 2016|
+## <a name="advanced-specializations"></a>Расширенные специализации
 
--->
-
-| Компетенции  | Технологии |
-|   ------------------   |   -------   |
-| [Компетенция разработки приложения](https://partner.microsoft.com/membership/application-development-competency) | Приложения HTML5, C#, ASP.NET, UWP, Microsoft Azure |
-| [Компетенция интеграции приложений](https://partner.microsoft.com/membership/application-integration-competency) | Windows Server, SQL Server и базы данных, C#, Azure, BizTalk Server 2013|
-| [Компетенции облачной бизнес-приложений](https://partner.microsoft.com/membership/cloud-business-applications-competency)| Microsoft Dynamics 365/Enterprise/Operations/AX, базы данных SQL |
-| [Компетенции облачной управления отношениями с клиентами](https://partner.microsoft.com/membership/cloud-customer-relationship-management-competency)| Dynamics 365 и Dynamics CRM |
-| [Компетенции облачной платформы](https://partner.microsoft.com/membership/cloud-platform-competency)| Azure, Linux в Azure |
-| [Компетенции облачной производительности](https://partner.microsoft.com/membership/cloud-productivity-competency)| Службы Microsoft Office 365 (Exchange Online, SharePoint Online, Skype для бизнеса или Yammer)|
-| [Компетенция совместной работы и содержимого](https://partner.microsoft.com/membership/collaboration-and-content-competency)| Office 365, SharePoint Server 2016, App Builder |
-| [Компетенция Communications](https://partner.microsoft.com/membership/communications-competency)| Skype для бизнеса, корпоративная голосовая связь в Skype для бизнеса 2015 |
-| [Компетенция аналитики данных](https://partner.microsoft.com/membership/data-analytics-competency)| Базы данных SQL, Azure, Microsoft R Server, Microsoft Insight HD, Power BI |
-| [Компетенция платформы данных](https://partner.microsoft.com/membership/data-platform-competency)| Базы данных SQL, SQL Server 2016, хранилище данных Azure, Azure Data Services, Transact-SQL |
-| [Компетенция центра обработки данных](https://partner.microsoft.com/membership/datacenter-competency)| System Center 2012, виртуализация Windows Server и Hyper-V, Windows Server 2012/2016 |
-| [Компетенция DevOps](https://partner.microsoft.com/membership/devops-competency)| Microsoft Visual Studio, Visual Studio Team Foundation Server (TFS) 2012, жизненный цикл ПО, сертификация SCRUM |
-| [Управление корпоративной мобильностью компетенции](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| Enterprise Mobility + Security (EMS), Microsoft Intune, Azure Information Protection, Azure Active Directory Premium (AADP), управление мобильными устройствами, управление удостоверениями и доступом, защита данных, безопасность облачных приложений |
-| [Компетенции, планирования ресурсов предприятия](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Dynamics AX/GP/SL/NAV/365, планирование ресурсов предприятий (ERP), базы данных SQL Server 2012  |
-| [Компетенция обмена сообщениями](https://partner.microsoft.com/membership/messaging-competency)| Office 365, Exchange Server 2016 |
-| [Компетенция управления проектами и портфелями](https://partner.microsoft.com/membership/project-portfolio-management-competency)| Microsoft Project, Project and Portfolio Management (PPM), SharePoint Server 2016|
-| [Малого и среднего размера Cloud Solutions competency](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office 365 |
-| [Компетенция Windows и устройств](https://partner.microsoft.com/membership/windows-and-devices-competency)| Windows 10, Windows 10 IoT, универсальная платформа Windows, Surface Hub, Office 365, Skype для бизнеса 2015, корпоративное развертывание |
-|
+Выходят за рамки вашего gold достаточный опыт работы с расширенной специализации. Они предоставляют средства для демонстрации проверенные, проверяемыми опыт в продукт, область решения или службы. Клиенты смогут видеть ваши компетенции Gold и вашей расширенные специализации в профиль организации в каталог партнеров. Для получения с тегом расширенные специализации, вашего бизнеса должен полностью соответствовать набор критериев, опубликованных и проверены корпорацией Майкрософт. [Подробнее](https://partner.microsoft.com/en-us/membership/competencies#tab-content-2). 
