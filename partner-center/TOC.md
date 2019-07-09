@@ -115,11 +115,12 @@
 
 # Данные и аналитика в Центре партнеров
 ## [Получение и анализ бизнес-данных](data-analysis-lp.md)
-## [Аналитика Центра партнеров для Microsoft Power BI](power-bi-app-for-direct-partners.md)
+## [Приложение "Аналитика Центра партнеров для Power BI"](power-bi-app-for-direct-partners.md)
 ## [Вклад партнеров: отслеживание индикаторов производительности](partner-contributions.md)
 ## [Получение данных об использовании подписок Azure клиентов](analyze-azure-usage.md)
 ## [Анализ эффективности косвенных торговых посредников](analyze-indirect-resellers.md)
 ## [Анализ подписок и лицензий](analyze-subscriptions-licenses.md)
+## [Аналитика Microsoft Learn](ms-learn-analytics.md)
 
 # [Работа с другими партнерами](work-with-other-partners.md)
 ## [Задачи непрямого поставщика в Центре партнеров](indirect-provider-tasks-in-partner-center.md)
