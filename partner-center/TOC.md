@@ -46,6 +46,7 @@
 ## [Восстановление приостановленной учетной записи Центра партнеров](suspended-partner-center-account.md)
 ## [Создание учетных записей пользователей](create-user-accounts-and-set-permissions.md)
 ## [Назначение пользователям ролей и разрешений](permissions-overview.md)
+## [Связывание учетной записи Microsoft Learn с Центром партнеров](ms-learn-associate.md)
 ## [Проверка вашего владения доменом](become-global-admin.md)
 ## [Сброс пароля пользователя](reset-a-user-password.md)
 ## [Сброс пароля](reset-my-pasword.md)
@@ -116,7 +117,7 @@
 # Данные и аналитика в Центре партнеров
 ## [Получение и анализ бизнес-данных](data-analysis-lp.md)
 ## [Приложение "Аналитика Центра партнеров для Power BI"](power-bi-app-for-direct-partners.md)
-## [Вклад партнеров: отслеживание индикаторов производительности](partner-contributions.md)
+## [Индикаторы вклада партнеров](partner-contribution-indicators.md)
 ## [Получение данных об использовании подписок Azure клиентов](analyze-azure-usage.md)
 ## [Анализ эффективности косвенных торговых посредников](analyze-indirect-resellers.md)
 ## [Анализ подписок и лицензий](analyze-subscriptions-licenses.md)
