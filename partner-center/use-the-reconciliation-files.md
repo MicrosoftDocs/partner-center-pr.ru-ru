@@ -1,22 +1,22 @@
 ---
 title: Использование файлов выверки | Центр партнеров
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 07/08/2019
 description: Для просмотра подробных строке каждой издержки в цикле выставления счетов скачайте сверочные файлы из центра партнеров.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fca9897720412a77ac39c86ba31db411c58c2cb0
-ms.sourcegitcommit: 1f9078d422af5f8514d79a6ab9c3444500abfe27
+ms.openlocfilehash: 83be47cd9963d7e5f14b6c670cd57a8ab1d54011
+ms.sourcegitcommit: 66afdaa662cfad217e29ba1f9e3a9ffd4349112f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67343471"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67694927"
 ---
 # <a name="use-the-reconciliation-files"></a>Использование файлов выверки
 
-**Применяется к**
+**Относится к**
 
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud for US Government
@@ -834,10 +834,6 @@ ms.locfileid: "67343471"
 <td><p>Используемая служба платформы Azure.</p></td>
 </tr>
 
-<tr class="odd">
-<td>Группа ресурсов</td>
-<td><p>Группа ресурсов, в которой выполняется развернутое средство измерения.</p></td>
-</tr>
 
 <tr class="even">
 <td>URI ресурса</td>
@@ -892,11 +888,6 @@ ms.locfileid: "67343471"
 <tr class="even">
 <td>Сведения о службе 2</td>
 <td><p>Устаревшее поле, в которое записываются необязательные метаданные службы.</p></td>
-</tr>
-
-<tr class="odd">
-<td>Tags</td>
-<td><p>Теги, присваиваемый средству измерения в порядке для группировки записей выставления счетов. Например можно использовать теги для распределения затрат по отделу, который использует данное средство измерения.</p></td>
 </tr>
 
 <tr class="even">

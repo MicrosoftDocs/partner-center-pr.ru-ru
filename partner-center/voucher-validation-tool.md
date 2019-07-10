@@ -7,22 +7,31 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: учебные курсы, операции средство, проверить операцию, утверждения программы software assurance, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 6cf844129bb1d684b10de2d4ff69f976235aef57
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: ab74a3264ebf7461919072b7fd367f7619252b10
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132654"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674264"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Используйте средство проверки и погашения ваучеров в Центре партнеров для проверки, резервирования и погашения ваучеров 
 
-**Область применения:**
+**Относится к**
 
 - Центр партнеров
 
 Полное партнером программы Software Assurance, для обучения или Планирование развертывания службы Microsoft компенсирует вам предоставление этих услуг для корпоративных клиентов за счет операции, которые они получают с Software Assurance.
 
 Когда клиент получает операции, необходимо проверить и зарезервировать его. Сделать этой работы инструмента операции проверки и активации (VVR) в прошлом. Сегодня мы приносят друг с другом в один узел — центр партнеров — все средства и сайтов, включая средство VVR партнеров, которые раньше приходилось посетите на ведение деятельности с корпорацией Майкрософт с целью создания рабочей упрощенный и более эффективно.
+
+Этот документ содержит общие сведения для проверки и зарезервировать операции. Подробные сведения о полный рабочий процесс проверки операции и политик см.: 
+
+- [Рабочий процесс ваучер Software assurance обучения](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
+
+- [Вопросы и ответы операции обучения Software assurance](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) 
+
+- [Программное обеспечение assurance обучение операции политики](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP) 
+
 
 ## <a name="validate-and-reserve-a-voucher"></a>Проверка и зарезервировать ваучер
 

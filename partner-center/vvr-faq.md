@@ -7,16 +7,16 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: купоны на обучение, программы software assurance, учебные курсы, проверить операции, операции резервирования
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e244140fd0283a50ef7dc64584748524e84ebb0
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 210218d027af2cb0e02556593e3a6212124e28f6
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132591"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674220"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Вопросы и ответы. Использование инструмента проверки и погашения ваучеров 
 
-**Применяется к**
+**Относится к**
 
 - Центр партнеров
 
@@ -51,6 +51,9 @@ ms.locfileid: "62132591"
 **Как моей организации доступа к средству VVR?**
 
 - Для доступа к средству VVR, вашей компании необходимо зарегистрироваться для участия в программе SATV или программы SA DPS.
+
+Вопросы и более подробные ответы на [рабочий процесс для средства проверки ваучер](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o).
+
 Сведения о том, как зарегистрироваться для участия в SATV [программы Software Assurance обучения ваучер (SATV) в центре партнеров](software-assurance-satv.md).
- <!--
-For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->
+
+Сведения о том, как зарегистрироваться для участия в программы Software Assurance DPS [программы Software Assurance в центре партнеров](software-assurance-dps.md).
