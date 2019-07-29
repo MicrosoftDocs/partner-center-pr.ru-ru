@@ -3,7 +3,8 @@
 # [Членство Partner Network](mpn-overview.md)
 ## [Создание учетной записи Центра партнеров](mpn-create-a-partner-center-account.md)
 ## [Как получить рабочий адрес электронной почты](buy-email-domain.md)
-## Переход от PMC к Центру партнеров
+## [Центр администрирования партнеров переносится в Центр партнеров](pac-to-pc-overview.md)
+## Переход из Partner Membership Center в Центр партнеров
 ### [Подготовка к переходу из Partner Membership Center в Центр партнеров](prepare-pmc-pc-migration.md)
 ### [Руководство по переходу от PMC к Центру партнеров](guide-to-migration.md)
 ### [Краткий обзор различий между PMC и Центром партнеров](move-pmc-pc-map.md)
@@ -123,6 +124,7 @@
 ### [Упростите настройку устройств с помощью Windows Autopilot](autopilot.md)
 ##  Обновление или перенос предложений в более поздние версии
 ### [Обновление подписок Dynamics AX до Dynamics 365](manual-subscription-migration.md)
+### [Перенос предложений с выпуском Dynamics 365 Business в более новые версии](migrate-dynamics-365-to-new.md)
 ### [Перенос подписок Office 365 корпоративный E4 в новые версии Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [Перенос Плана 1 для Skype для бизнеса Online в новые версии Office 365](skype-retiring.md)
 ### [Перенос подписок Azure](switch-azure-subscriptions-to-a-different-partner.md)
