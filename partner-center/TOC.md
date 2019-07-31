@@ -107,6 +107,7 @@
 ### [Размеры виртуальных машин для максимального использования резервирования](azure-usage.md)
 ### [Приобретение резервирований Microsoft Azure от лица клиентов](azure-reservations-buying.md)
 ### [Управление резервированиями Microsoft Azure от лица клиентов](azure-reservations-manage.md)
+### [Azure Reserved VM Instances (RI) + серверные подписки](azure-ri-server-subscriptions.md)
 ## [Подписки на программное обеспечение](csp-software-subscriptions.md)
 ## [Веб-службы (подписки)](customer-subscriptions.md)
 ### [Создание, приостановка и отмена подписок клиентов](create-a-new-subscription.md)
