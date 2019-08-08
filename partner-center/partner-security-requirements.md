@@ -1,18 +1,18 @@
 ---
 title: Требования к безопасности партнеров | Центр партнеров
 ms.topic: article
-ms.date: 07/18/2019
+ms.date: 08/05/2019
 description: Узнайте о требованиях безопасности для помощников и партнеров, участвующих в программе поставщика облачных решений.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, поставщик облачных решений, программа поставщика облачных решений, CSP, поставщик панели управления, КПВ, многофакторная проверка подлинности, MFA, модель безопасного приложения, защищенная модель приложений, безопасность
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ce8a8dd5a58d1647c8d9e53dec0d0bbf7fe6592
-ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
+ms.openlocfilehash: 39081f42c326665bdc30bf25df302d9ae00d9723
+ms.sourcegitcommit: fe21430f96e203d279714623888224662d2782a2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "68313928"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "68787259"
 ---
 # <a name="partner-security-requirements"></a>Требования к безопасности партнеров
 
@@ -57,9 +57,22 @@ ms.locfileid: "68313928"
 
 При применении устаревшей проверки подлинности MFA протоколы, такие как IMAP, POP3, SMTP и т. д., будут заблокированы, так как эти протоколы не поддерживают MFA. Чтобы устранить это ограничение, можно использовать функцию, известную как [пароли приложений](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) , чтобы убедиться, что приложение или устройство все еще может пройти проверку подлинности. Ознакомьтесь с замечаниями по использованию паролей приложений, описанными [здесь](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) , чтобы определить, можно ли использовать их в вашей среде.
 
+#### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>Есть ли у вас пользователи, использующие Office 365, предоставляемые лицензиями, связанными с вашим клиентом-партнером?
+
+Перед реализацией любого решения рекомендуется определить, почему версия Microsoft Office используется пользователями в клиенте-партнере. Перед выполнением каких-либо действий ознакомьтесь с разработкой [плана многофакторной идентификации для развертываний Office 365](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa) . Существует вероятность того, что ваши пользователи смогут столкнуться с проблемами с подключением к таким приложениям, как Outlook. Перед применением MFA необходимо убедиться, что используется Outlook 2013 с пакетом обновления 1 (SP1) или более поздней версии, а также включена современная проверка подлинности в Организации. Дополнительные сведения см. [в статье Включение современной проверки подлинности в Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) .
+
+Чтобы включить современную проверку подлинности для любых устройств под Windows, на которых установлено Microsoft Office 2013, необходимо создать два раздела реестра. См. статью [Включение современной проверки подлинности для Office 2013 на устройствах Windows](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication).
+
+> [!IMPORTANT]
+> Если вы включили пользователей для Azure AD MFA и у них есть устройства с Office 2013, для которых не включена современная проверка подлинности, на этих устройствах потребуется использовать пароли приложений. Дополнительные сведения о паролях приложений и их использовании можно найти здесь: [Пароли приложений с поддержкой многофакторной идентификации Azure](https://go.microsoft.com/fwlink/p/?LinkId=528178).
+
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Существует ли политика, запрещающая пользователям использовать свои мобильные устройства во время работы?
 
-Важно определить любую корпоративную политику, которая не позволяет сотрудникам использовать мобильные устройства во время работы, так как это повлияет на то, какое решение MFA будет реализовано. Существуют решения MFA, например, предоставляемые через реализацию [базовых политик](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection), которые позволяют использовать только приложение для проверки подлинности. В случае, если в Организации есть политика, которая не позволяет использовать мобильные устройства, следует рассмотреть возможность приобретения [Azure AD Premium](https://azure.microsoft.com/pricing/details/active-directory/) для затронутых пользователей или реализовать стороннее решение, которое обеспечивает наиболее подходящую проверку. функцию.
+Важно определить любую корпоративную политику, которая не позволяет сотрудникам использовать мобильные устройства во время работы, так как это повлияет на то, какое решение MFA будет реализовано. Существуют решения MFA, например, предоставляемые посредством реализации [политик базовой защиты](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection), которые позволяют использовать только приложение для проверки подлинности. В случае, если в Организации есть политика, запрещающая использование мобильных устройств, следует принять во внимание один из следующих вариантов.
+
+- Развертывание виртуализированного устройства Android, в котором можно установить приложение для проверки подлинности
+- Реализуйте стороннее решение, которое применяет MFA для каждого пользователя в клиенте-партнере, предоставляющего наиболее подходящий вариант проверки.
+- Приобретение лицензий [Azure AD Premium](https://azure.microsoft.com/pricing/details/active-directory/) для затронутых пользователей
 
 #### <a name="what-automation-or-integration-do-you-have-that-leverages-user-credentials-for-authentication"></a>Какая автоматизация или интеграция использует учетные данные пользователя для проверки подлинности?
 
@@ -204,8 +217,31 @@ ms.locfileid: "68313928"
 
 ### <a name="exchange-online-powershell"></a>Exchange Online PowerShell
 
-Если служба MFA включена, партнеры не смогут использовать свои делегированные административные привилегии с Exchange Online PowerShell для выполнения действий с клиентами. Дополнительные сведения об этом ограничении см. [в статье подключение к Exchange Online PowerShell с использованием многофакторной проверки](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) подлинности.
+Когда MFA применяется принудительно, партнеры не смогут использовать свои делегированные административные привилегии с Exchange Online PowerShell для выполнения действий с клиентами. Дополнительные сведения об этом ограничении см. [в статье подключение к Exchange Online PowerShell с использованием многофакторной проверки](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) подлинности.
+
+Это ограничение можно обойти, создав новую учетную запись и никогда не используя ее для выполнения интерактивной проверки подлинности. Рекомендуется использовать [Azure AD PowerShell](https://docs.microsoft.com/powershell/module/azuread/) для создания новой учетной записи и выполнения начальной настройки. Для создания и настройки учетной записи можно использовать следующую PowerShell.
+
+```powershell
+Import-Module AzureAD
+Connect-AzureAD
+
+$PasswordProfile = New-Object -TypeName Microsoft.Open.AzureAD.Model.PasswordProfile
+
+$PasswordProfile.Password = "Password"
+$PasswordProfile.ForceChangePasswordNextLogin = $false
+
+$user = New-AzureADUser -DisplayName "New User" -PasswordProfile $PasswordProfile -UserPrincipalName "NewUser@contoso.com" -AccountEnabled $true
+
+# Uncomment the following two lines if you want the account to have Admin Agent privileges
+# $adminAgentsGroup = Get-AzureADGroup -Filter "DisplayName eq 'AdminAgents'"
+# Add-AzureADGroupMember -ObjectId $adminAgentsGroup.ObjectId -RefObjectId $user.ObjectId
+```
+
+При следующем подключении к Exchange Online с помощью PowerShell эта учетная запись будет работать должным образом.
+
+> [!IMPORTANT]
+> Возможность партнерам использовать делегированные административные привилегии с Exchange Online PowerShell для выполнения действий с клиентами, когда MFA применяется, будет доступно в будущем. До этого следует использовать этот обходной обход.
 
 ## <a name="resources-and-support"></a>Ресурсы и поддержка
 
-В [сообществе группы руководств по безопасности центра партнеров](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) можно найти дополнительные ресурсы и узнать о предстоящих событиях, таких как технические часы. Дополнительные сведения о требованиях см. в документе с [часто задаваемыми вопросами](http://assetsprod.microsoft.com/security-requirements-faq.pdf) .
+В [сообществе группы руководств по безопасности центра партнеров](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) можно найти дополнительные ресурсы и узнать о предстоящих событиях, таких как технические часы. Дополнительные сведения о требованиях см. в документе с [часто задаваемыми вопросами](partner-security-requirements-faq.md) .

@@ -5,14 +5,14 @@ ms.date: 5/7/2019
 description: Подробнее о требованиях к компетенциям Майкрософт для получения членства уровней Gold и Silver.
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: компетенции, членства silver, gold членства, mpn, КАРТ, знание, Microsoft Partner Network, членство в сетях, advanced специализации
+keywords: компетенции, серебряные принадлежности, Золотое членство, MPN, карты, знание, Microsoft Partner Network, членство в сети, Дополнительные специализации
 ms.localizationpriority: medium
-ms.openlocfilehash: 480f14df79f5899a24b23947528b44a7aa3b73ba
-ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.openlocfilehash: efc69215010e1ad32ae63c81556979f18f157f07
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "67549522"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820639"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Требования к компетенциям Майкрософт для получения членства уровня Gold и Silver
 
@@ -23,10 +23,10 @@ ms.locfileid: "67549522"
 
 - Получите **членство уровня Gold**, чтобы продемонстрировать свои передовые возможности в определенной области решений Майкрософт
 
-Дополнительные сведения о [что необходимо для получения членства Silver и Gold](https://partner.microsoft.com/membership/competencies)
+Узнайте о [том, что требуется для получения серебристого и Золотого членства](https://partner.microsoft.com/membership/competencies)
 
-Дополнительные сведения о [счета-фактуры и налогов для компетенции](mpn-view-print-maps-invoice.md)
+Сведения о [счетах и налогах для компетенций](mpn-view-print-maps-invoice.md)
 
-## <a name="advanced-specializations"></a>Расширенные специализации
+## <a name="advanced-specializations"></a>Дополнительные специализации
 
-Выходят за рамки вашего gold достаточный опыт работы с расширенной специализации. Они предоставляют средства для демонстрации проверенные, проверяемыми опыт в продукт, область решения или службы. Клиенты смогут видеть ваши компетенции Gold и вашей расширенные специализации в профиль организации в каталог партнеров. Для получения с тегом расширенные специализации, вашего бизнеса должен полностью соответствовать набор критериев, опубликованных и проверены корпорацией Майкрософт. [Подробнее](https://partner.microsoft.com/en-us/membership/competencies#tab-content-2). 
+Выйдите за пределы компетенции Gold с расширенной специализацией. Они предоставляют средства для демонстрации проверенного и проверяемого опыта в продукте, области решения или службе. Клиенты смогут увидеть компетенцию Gold и расширенную специализацию в вашем бизнес-профиле в каталоге партнера. Чтобы получить тег расширенной специализации, ваш бизнес должен полностью соответствовать набору опубликованных критериев и проверяться корпорацией Майкрософт. [Подробнее](https://partner.microsoft.com/membership/competencies#tab-content-2). 

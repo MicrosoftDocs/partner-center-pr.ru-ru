@@ -6,16 +6,16 @@ description: В соответствии с национальными, реги
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: edd1bf143b591d375b2d911459629110799a1426
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 884146657aa84fa1d5f28801d5ad2a4d83c1359a
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132694"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820530"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud в Германии
 
-**Применяется к**
+**Относится к**
 
 -  Центр партнеров Microsoft Cloud в Германии
 
@@ -40,17 +40,17 @@ ms.locfileid: "62132694"
 После успешного входа на портал Azure для Microsoft Cloud в Германии откройте страницу обзора Azure Active Directory (Azure AD), а затем следуйте инструкциям, представленным в следующих разделах:
 
 > [!NOTE]  
-> Выборе следующих ссылок вы перейдете на другой сайт. 
+> Перейдя по приведенным ниже ссылкам, вы перейдете на другой веб-сайт. 
 
 -  [Добавление новых пользователей в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
 -  [Назначение пользователю ролей администратора в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [Сброс пароля для пользователя в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [Сброс пароля пользователя в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **Связанные разделы**
 
--  [Microsoft Azure для Германии](https://azure.microsoft.com/en-us/global-infrastructure/germany/)
+-  [Microsoft Azure — Германия](https://azure.microsoft.com/global-infrastructure/germany/)
 
 -  [Центр партнеров Microsoft Cloud для Германии](partner-center-for-microsoft-cloud-germany.md)
 

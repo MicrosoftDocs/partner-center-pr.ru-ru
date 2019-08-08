@@ -6,12 +6,12 @@ description: Вопросы, которые следует учесть пере
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 411093a885abf2144df218d8ef28a07a10f09061
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
+ms.openlocfilehash: d6db2dcb5ac53e29d907c09ca2b16d123b21c07f
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67854518"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820574"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Подготовьтесь к переходу от центра участия в партнерских организациях (PMC) в центр партнеров
 
@@ -29,7 +29,7 @@ ms.locfileid: "67854518"
 - Ваша Рабочая учетная запись:john@contoso.com
 - Ваша личная учетная запись:John@outlook.com
 
-Рабочий адрес электронной почты является частью вашего клиента Azure Active Directory. Чтобы иметь учетную запись в центре партнеров, необходимо иметь клиент AAD. Дополнительные сведения о Azure Active Directory см. [в статье Создание каталога в Azure AD](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+Рабочий адрес электронной почты является частью вашего клиента Azure Active Directory. Чтобы иметь учетную запись в центре партнеров, необходимо иметь клиент AAD. Дополнительные сведения о Azure Active Directory см. [в статье Создание каталога в Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
 
 **Когда вы переходите в центр партнеров из PMC, какая учетная запись должна входить в центр партнеров, если у вас есть клиент AAD с Майкрософт (например, Office 365) и у вас также есть клиент для бизнеса CSP?**
 
@@ -66,7 +66,7 @@ ms.locfileid: "67854518"
 
 **Что происходит с ролями пользователей при переходе с PMC на центр партнеров?**
 
-За исключением глобального администратора MPN или основного контакта программы, выполняющего миграцию, все пользователи в PMC потеряют свои роли администратора. Человек, который завершает перенос, должен назначить роли в центре партнеров. Роли в центре партнеров отличаются от ролей в PMC. Дополнительные сведения о ролях пользователей в центре партнеров см. в статье [назначение ролей и разрешений пользователей] (разрешения — overview.md и [Переход от PMC к центру партнеров](https://docs.microsoft.com/en-us/partner-center/move-pmc-pc-map#user-roles) .)
+За исключением глобального администратора MPN или основного контакта программы, выполняющего миграцию, все пользователи в PMC потеряют свои роли администратора. Человек, который завершает перенос, должен назначить роли в центре партнеров. Роли в центре партнеров отличаются от ролей в PMC. Дополнительные сведения о ролях пользователей в центре партнеров см. в статье [назначение ролей и разрешений пользователей] (разрешения — overview.md и [Переход от PMC к центру партнеров](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles) .)
 
 
 **В чем разница между профилем моей компании и моим бизнес-профилем?**
