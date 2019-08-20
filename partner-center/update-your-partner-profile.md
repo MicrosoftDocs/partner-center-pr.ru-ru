@@ -1,54 +1,60 @@
 ---
-title: Обновление профиля партнера | Центр партнеров
+title: Проверка профиля партнера | Центр партнеров
 description: При первом входе в качестве администратора убедитесь, что данные службы поддержки указаны правильно, внесите сведения об освобождении от уплаты налогов, если необходимо, и проверьте контактные данные в профилях.
 MS.Topic: article
-Date: 02/19/2019
+Date: 08/06/2019
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
-author: MaggiePucciEvans
-ms.author: evansma
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f5e6089d022fb60b848124d1a1a1057e81024585
-ms.sourcegitcommit: 1201c95758188d9cc52aabdf5e1993ba6cc5402a
-ms.translationtype: MT
+ms.openlocfilehash: 6a8e8e85650306c67130fcd91dcbdb40f2d9498b
+ms.sourcegitcommit: ea68a16c2ed386cca983dd3fa85032450eacf871
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "68642328"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "68860955"
 ---
-# <a name="update-your-partner-profile"></a><span data-ttu-id="1b338-103">Обновление профиля партнера</span><span class="sxs-lookup"><span data-stu-id="1b338-103">Update your partner profile</span></span>
+# <a name="verify-your-partner-profile"></a><span data-ttu-id="53150-103">Проверка профиля партнера</span><span class="sxs-lookup"><span data-stu-id="53150-103">Verify your partner profile</span></span>
 
+<span data-ttu-id="53150-104">При первом входе в Центр партнеров в качестве глобального администратора убедитесь, что все сведения о компании, такие как основное контактное лицо, официальное название и адрес вашей организации, и сведения о программе добавлены правильно.</span><span class="sxs-lookup"><span data-stu-id="53150-104">The first time you sign into Partner Center as  global admin, make sure all your company details such as primary contact, legal business name and address, and program information is correctly added.</span></span> <span data-ttu-id="53150-105">Если в вашей компании есть несколько расположений, проверьте правильность данных о расположении.</span><span class="sxs-lookup"><span data-stu-id="53150-105">If your company has more than one location, review your location data for accuracy.</span></span> <span data-ttu-id="53150-106">Как глобальный администратор, администратор выставления счетов или агент администратора, вы также сможете просматривать и обновлять сведения о выставлении счетов и налогах.</span><span class="sxs-lookup"><span data-stu-id="53150-106">As global admin, billing admin, or admin agent, you will also be able to see and update your billing and tax information.</span></span> 
 
-<span data-ttu-id="1b338-104">При первом входе в Центр партнеров в качестве администратора убедитесь, что данные службы поддержки указаны правильно, внесите сведения об освобождении от уплаты налогов, если необходимо, и проверьте контактные данные в профилях.</span><span class="sxs-lookup"><span data-stu-id="1b338-104">The first time you sign into Partner Center as an admin, make sure your support details are correct, file tax exemptions if appropriate, and review the contact information in your profiles.</span></span> <span data-ttu-id="1b338-105">Если в Организации есть несколько расположений, проверьте данные о местоположении на предмет точности.</span><span class="sxs-lookup"><span data-stu-id="1b338-105">If your organization has more than one location, review your location data for accuracy.</span></span>
+<span data-ttu-id="53150-107">**Проверка информации профиля партнера**</span><span class="sxs-lookup"><span data-stu-id="53150-107">**Verify your partner profile information**</span></span>
 
-<span data-ttu-id="1b338-106">**Обновление сведений о поддержке**</span><span class="sxs-lookup"><span data-stu-id="1b338-106">**Update your support details**</span></span>
+<span data-ttu-id="53150-108">В вашем профиле партнера указана официальная информация о компании, имя и электронная почта основного контактного лица, программы, в которых участвует ваша компания, и, если это уместно, другие компании, которые теперь объединены в рамках вашей предпринимательской деятельности.</span><span class="sxs-lookup"><span data-stu-id="53150-108">Your partner profile consists of your legal business information, primary contact name and email, the programs which your company participates in, and if relevant, your other companies that are now merged under your legal business.</span></span>
 
-1.  <span data-ttu-id="1b338-107">Перейдите в раздел **Параметры** и выберите **профиль партнера**.</span><span class="sxs-lookup"><span data-stu-id="1b338-107">Go to **Settings** and select **Partner profile**.</span></span>
-2.  <span data-ttu-id="1b338-108">В разделе **Поддержка** выберите **Обновление**.</span><span class="sxs-lookup"><span data-stu-id="1b338-108">In the **Support** section, select **Update**.</span></span>
-3.  <span data-ttu-id="1b338-109">Если какой-либо из ваших клиентов обратится за поддержкой в Майкрософт, корпорация Майкрософт направит его на веб-сайт или сообщит адрес электронной почты и номер телефона, которые вы указали в профиле поддержки.</span><span class="sxs-lookup"><span data-stu-id="1b338-109">If any of your customers call Microsoft looking for support, Microsoft will point them back to the website, email, and phone contact info that you list in your support profile.</span></span>
+1.  <span data-ttu-id="53150-109">Перейдите в раздел **Параметры** и выберите **Профиль партнера**.</span><span class="sxs-lookup"><span data-stu-id="53150-109">Go to **Settings** and select **Partner profile**.</span></span>
 
-<span data-ttu-id="1b338-110">**Налоговые исключения файлов**</span><span class="sxs-lookup"><span data-stu-id="1b338-110">**File tax exemptions**</span></span>
+2.  <span data-ttu-id="53150-110">Проверьте свой **официальный бизнес-профиль**, **информацию об основном контактном лице** и **сведения о программе**.</span><span class="sxs-lookup"><span data-stu-id="53150-110">Review your **Legal business profile**, **Primary contact info**, and your **Program info**.</span></span>
 
--   <span data-ttu-id="1b338-111">Определите, имеете ли вы право на освобождение от уплаты налогов, и, если да, подайте соответствующую заявку, прежде чем добавлять клиентов или подписки.</span><span class="sxs-lookup"><span data-stu-id="1b338-111">Decide whether tax exemptions apply to you, and if so file them before you add any customers or subscriptions.</span></span> <span data-ttu-id="1b338-112">См. раздел [Налоги и освобождение от уплаты налогов](tax-and-tax-exemptions.md).</span><span class="sxs-lookup"><span data-stu-id="1b338-112">See [Tax and tax exemptions](tax-and-tax-exemptions.md).</span></span>
+<span data-ttu-id="53150-111">Если вы объединили другие компании в рамках своего официального предприятия, вы можете ознакомиться со сведениями о них на этой странице.</span><span class="sxs-lookup"><span data-stu-id="53150-111">If you have merged your other companies under your legal business, you can review their information as well on this page.</span></span>
 
-<span data-ttu-id="1b338-113">**Проверка сведений о профиле**</span><span class="sxs-lookup"><span data-stu-id="1b338-113">**Verify your profile information**</span></span>
+## <a name="update-your-legal-address"></a><span data-ttu-id="53150-112">Обновление юридического адреса</span><span class="sxs-lookup"><span data-stu-id="53150-112">Update your legal address</span></span>
 
-1.  <span data-ttu-id="1b338-114">Перейдите в раздел **Параметры** и выберите **профиль партнера**.</span><span class="sxs-lookup"><span data-stu-id="1b338-114">Go to **Settings** and select **Partner profile**.</span></span> 
-2.  <span data-ttu-id="1b338-115">Проверьте информацию в разделах **Профиль партнера**, **Профиль выставления счетов партнера** и **Профиль организации**.</span><span class="sxs-lookup"><span data-stu-id="1b338-115">Review your **Partner profile**, **Partner billing profile**, and **Organizational profile**.</span></span>
+<span data-ttu-id="53150-113">Теперь вы можете обновить свой юридический адрес в Центре партнеров.</span><span class="sxs-lookup"><span data-stu-id="53150-113">You can now update your legal address on Partner Center.</span></span>
 
-## <a name="manage-your-partner-profile"></a><span data-ttu-id="1b338-116">Управление профилем партнера</span><span class="sxs-lookup"><span data-stu-id="1b338-116">Manage your Partner profile</span></span> 
+1. <span data-ttu-id="53150-114">Перейдите в раздел **Параметры** и выберите **Профиль партнера**.</span><span class="sxs-lookup"><span data-stu-id="53150-114">Go to **Settings** and select **Partner profile**.</span></span> 
 
-<span data-ttu-id="1b338-117">Теперь вы можете обновить свой юридический адрес в центре партнеров.</span><span class="sxs-lookup"><span data-stu-id="1b338-117">You can now update your legal address on Partner Center.</span></span>
-
-1. <span data-ttu-id="1b338-118">Перейдите в раздел **Параметры** ND выберите **профиль партнера**.</span><span class="sxs-lookup"><span data-stu-id="1b338-118">Go to **Settings** nd select **Partner profile**.</span></span> 
-2. <span data-ttu-id="1b338-119">Выберите **Обновить** рядом с юридическим адресом.</span><span class="sxs-lookup"><span data-stu-id="1b338-119">Select **Update** next to Legal address.</span></span> 
+2. <span data-ttu-id="53150-115">Выберите **Обновить** рядом с полем "Юридический адрес".</span><span class="sxs-lookup"><span data-stu-id="53150-115">Select **Update** next to Legal address.</span></span> 
 
 >[!Important]
-><span data-ttu-id="1b338-120">Вы не можете изменить страну, связанную с юридическим адресом. Страна вашего юридического адреса связана с вашим клиентом и службами.</span><span class="sxs-lookup"><span data-stu-id="1b338-120">You can't change the country associated with your legal address.Your legal address country is tied to your tenant and services.</span></span> <span data-ttu-id="1b338-121">Дополнительные сведения см. [в статье изменение вашего юридического адреса](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="1b338-121">For details, read [Change your legal address](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more?view=o365-worldwide).</span></span>
+><span data-ttu-id="53150-116">Вы не можете изменить страну, связанную с юридическим адресом. Страна вашего юридического адреса привязывается к вашему клиенту и службам, а также к валюте, в которой работает ваше предприятие.</span><span class="sxs-lookup"><span data-stu-id="53150-116">You can't change the country associated with your legal address.Your legal address country is tied to your tenant and services as well as the currency you do business with.</span></span> 
 
-3. <span data-ttu-id="1b338-122">Когда вы наберете " **Отправить**", ваше юридическое удостоверение будет повторно оцениваться, и вы получите другое сообщение электронной почты, которое необходимо принять.</span><span class="sxs-lookup"><span data-stu-id="1b338-122">When you select **Submit**, your legal identity will be re-assessed, and you will receive another email which you will need to accept.</span></span>
+3. <span data-ttu-id="53150-117">Если выбрать **Отправить**, ваше юридическое удостоверение будет повторно проанализировано и вы получите еще одно сообщение электронной почты, которое необходимо принять.</span><span class="sxs-lookup"><span data-stu-id="53150-117">When you select **Submit**, your legal identity will be re-assessed, and you will receive another email which you will need to accept.</span></span>
 
+## <a name="update-legal-business"></a><span data-ttu-id="53150-118">Обновление официального предприятия</span><span class="sxs-lookup"><span data-stu-id="53150-118">Update legal business</span></span>
 
+<span data-ttu-id="53150-119">Если во время миграции из Partner Membership Center в Центр партнеров была допущена ошибка при определении официального предприятия, вы можете это исправить.</span><span class="sxs-lookup"><span data-stu-id="53150-119">If, during your migration from Partner Membership Center to Partner Center, the wrong business was identified as the legal business, you can change it to the correct business.</span></span>
+
+1. <span data-ttu-id="53150-120">Из раздела **Параметры учетной записи** перейдите в раздел **Расположения** и убедитесь, что ваше предприятие находится в списке в качестве официального.</span><span class="sxs-lookup"><span data-stu-id="53150-120">From **Account settings** go to **Locations** and make sure the business you want as your legal business is in the list.</span></span> <span data-ttu-id="53150-121">Если это не так, его можно добавить.</span><span class="sxs-lookup"><span data-stu-id="53150-121">If it isn't, you can add it.</span></span> <span data-ttu-id="53150-122">Выберите **Добавить расположение**.</span><span class="sxs-lookup"><span data-stu-id="53150-122">Select **Add location**.</span></span>
+
+2.  <span data-ttu-id="53150-123">Далее перейдите в раздел **Профиль партнера** и выберите **Update legal business profile** (Обновить официальный бизнес-профиль).</span><span class="sxs-lookup"><span data-stu-id="53150-123">Next go to **Partner profile** and select **Update legal business profile**.</span></span>
+
+3.  <span data-ttu-id="53150-124">Выберите расположение и предприятие, которое необходимо использовать в качестве юридического, а затем нажмите кнопку **Сохранить**.</span><span class="sxs-lookup"><span data-stu-id="53150-124">Select the location and business you want to use as your legal business and then select **Save**.</span></span>
+
+## <a name="update-your-billing-address"></a><span data-ttu-id="53150-125">Обновление адреса для выставления счетов</span><span class="sxs-lookup"><span data-stu-id="53150-125">Update your billing address</span></span>
+
+<span data-ttu-id="53150-126">Если вы являетесь глобальным администратором, администратором выставления счетов или агентом администратора, вы можете изменить адрес, который будет отображаться в вашем счете-фактуре в разделе **Профиль выставления счетов**.</span><span class="sxs-lookup"><span data-stu-id="53150-126">If you are the global admin, billing admin, or admin agent, you can change the address that appears on your invoice in your **Billing profile**.</span></span> <span data-ttu-id="53150-127">Тем не менее вы не можете изменить имя компании в счете-фактуре из-за ограничений в системе выставления счетов.</span><span class="sxs-lookup"><span data-stu-id="53150-127">You can't, however, change the company name on your invoice because of a limitation with the invoice system.</span></span>
 
  
-
 
 
