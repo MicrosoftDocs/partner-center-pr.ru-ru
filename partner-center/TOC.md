@@ -4,6 +4,8 @@
 ## [Создание учетной записи Центра партнеров](mpn-create-a-partner-center-account.md)
 ## [Как получить рабочий адрес электронной почты](buy-email-domain.md)
 ## [Центр администрирования партнеров переносится в Центр партнеров](pac-to-pc-overview.md)
+### [Переход от Центра администрирования партнеров (PAC) к Центру партнеров](moving-from-pac-to-pc.md)
+## [Пользователи Центра администрирования партнеров Office 365: ваши бизнес-операции переносятся в Центр партнеров](o365-partner-admin-center-to-partner-center.md)
 ## Переход из Partner Membership Center в Центр партнеров
 ### [Подготовка к переходу из Partner Membership Center в Центр партнеров](prepare-pmc-pc-migration.md)
 ### [Руководство по переходу от PMC к Центру партнеров](guide-to-migration.md)
@@ -24,6 +26,7 @@
 ### [Службы планирования Software Assurance в Центре партнеров](software-assurance-dps.md)
 ## Счета и налоги
 ### [Счета и налоги в программе Microsoft Partner Network](mpn-view-print-maps-invoice.md)
+## [Тестирование новых функций](test-drive-new-features.md)
 
 
 # [Поставщик облачных решений](csp-overview.md)
@@ -77,6 +80,7 @@
 ### [Основные требования, предъявляемые к заявкам на компенсацию средств в рамках программы поощрения](core-requirements.md)
 ### [Обзор выплат по программам поощрений](understand-incentive-payouts.md)
 ### [Отправка утверждений OSA в Центр партнеров](submit-osa-claim.md)
+### [Поиск доменного имени и идентификатора каталога клиента для создания заявки на возмещение средств](find-customer-domain-name.md)
 
 
 # [Выставление счетов и налоги](billing.md)
@@ -100,6 +104,7 @@
 ## [Удаление связи торгового посредника с клиентом](remove-a-relationship.md)
 ## [Делегирование прав администрирования клиентами партнерам или отзыв таких прав](customers_revoke_admin_privileges.md) 
 ## [Просмотр списка клиентов](see-your-customer-list.md)
+## [Просмотр журналов действий клиента](activity-logs.md)
 ## [Обновление сведений учетной записи клиента](update-customer-account-info.md)
 ## [Создание нескольких пользователей для клиента](adding-multiple-users-to-a-customer-account.md)
 ## [Назначение контактов службы поддержки](assign-support-contacts.md)
