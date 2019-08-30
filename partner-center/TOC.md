@@ -72,6 +72,7 @@
 ## [Рекомендации](referrals.md)
 ### [Создание бизнес-профиля](create-a-marketing-profile.md)
 ### [Реакция на ссылки](responding-to-referrals.md)
+### [Регистрация сделок](register-deals.md)
 ### [Совместные продажи с Майкрософт](co-sell-with-microsoft.md)
 ### [Получение сведений о рефералах](referral-insights.md)
 ### [Анализ бизнес-профиля](analyze-your-marketing-profile.md)
@@ -96,7 +97,6 @@
 ## [Установка расходного бюджета Azure для клиентов](set-an-azure-spending-budget-for-your-customers.md)
 ## [Распространенные сценарии выставления счетов](common-billing-scenarios.md)
 ## [Неплатеж, мошенничество или неправильное использование](non-payment--fraud--or-misuse.md)
-## [Службы PSTN](o365-e5-in-csp-advisory.md)
 
 # [Связь с клиентами](customer-accounts.md)
 ## [Добавление нового клиента](add-a-new-customer.md)
