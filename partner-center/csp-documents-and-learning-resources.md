@@ -1,19 +1,19 @@
 ---
 title: Соглашения CSP, прайс-листы и предложения | Центр партнеров
 ms.topic: article
-ms.date: 03/27/2019
+ms.date: 08/29/2019
 description: В этой статье приводятся ссылки на руководства по программе поставщиков облачных решений, соглашения партнеров, соглашения клиентов, прейскуранты и предложения.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: руководства по программе csp, руководство по программе, партнерские соглашения, соглашение с клиентом, прейскуранты, предложения
 ms.localizationpriority: medium
-ms.openlocfilehash: bd6c0a4aa17c8163a2ffbade8ef337e9320e0389
-ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
+ms.openlocfilehash: 9c566b43a0624a90bad746852e971a316b085005
+ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "69993975"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "70259917"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Руководство по программе поставщиков облачных решений, соглашения, прейскуранты и предложения
 
@@ -33,24 +33,6 @@ ms.locfileid: "69993975"
 
 >[!Note]
 >Если вам требуется официальное письмо с подтверждением или сертификацией вашего статуса в качестве утвержденного партнера Майкрософт в программе поставщиков облачных решений, [обратитесь в службу поддержки](https://partner.microsoft.com/pcv/servicerequests/create), чтобы запросить его.
-
-## <a name="cloud-solution-provider-partner-agreement"></a>Соглашение партнера по программе поставщиков облачных решений
-
-Майкрософт требует от партнеров подписать это соглашение, чтобы присоединиться к программе поставщиков облачных решений. Изучите руководство для рынка или национального облака, в котором вы планируете продавать предложения.
-
-[Соглашение торгового посредника для облачной платформы Майкрософт — Северная Америка, Центральная Америка, Латинская Америка и Карибский бассейн](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g7eT)
-
-[Соглашение торгового посредника для облачной платформы Майкрософт — Азия, Австралия и Тихоокеанский регион](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
-
-[Соглашение торгового посредника для облачной платформы Майкрософт — Европа, Ближний Восток и Африка](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
-
-[Соглашение торгового посредника для облачной платформы Майкрософт — Япония](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ9)
-
-[Соглашение торгового посредника для облачной платформы Майкрософт — Корея](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gf2k)
-
-[Соглашение торгового посредника для облачной платформы Майкрософт — Тайвань](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ8)
-
-[Соглашение торгового посредника для облачной платформы Майкрософт — Microsoft Cloud for US Government](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gcrx)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Соглашение об использовании Microsoft Cloud: шаблоны для клиентов
 

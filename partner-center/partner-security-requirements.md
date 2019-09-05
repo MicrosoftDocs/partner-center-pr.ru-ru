@@ -1,18 +1,18 @@
 ---
 title: Требованиях к безопасности для партнеров | Центр партнеров
 ms.topic: article
-ms.date: 08/05/2019
+ms.date: 08/30/2019
 description: Сведения о требованиях к безопасности для консультантов и партнеров, участвующих в программе для поставщиков облачных решений.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, поставщик облачных решений, программа поставщика облачных решений, CSP, поставщик панели управления, CPV, многофакторная проверка подлинности, MFA, модель безопасного приложения, безопасность
 ms.localizationpriority: medium
-ms.openlocfilehash: 40f5ac3e1481c0b630fc7e22e680409b1ca80926
-ms.sourcegitcommit: a5d5bd83e20649e9f02d2d82d682f87bb28a0265
+ms.openlocfilehash: c95ec38f928ca4032ffecebaf25f23e87d10c079
+ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "68912649"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "70215650"
 ---
 # <a name="partner-security-requirements"></a>Требования к безопасности для партнеров
 
