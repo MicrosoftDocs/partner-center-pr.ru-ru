@@ -1,18 +1,18 @@
 ---
 title: 'Требованиях к безопасности для партнеров: вопросы и ответы | Центр партнеров'
 ms.topic: article
-ms.date: 08/23/2019
+ms.date: 08/30/2019
 description: Часто задаваемые вопросы о требованиях к безопасности для партнеров
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, поставщик облачных решений, программа поставщика облачных решений, CSP, поставщик панели управления, CPV, многофакторная проверка подлинности, MFA, модель безопасного приложения, безопасность
 ms.localizationpriority: medium
-ms.openlocfilehash: 54ac919aeadec85b941e0dce9b1556df843e5fcb
-ms.sourcegitcommit: 435634c55c3d20a42083c0a58d96c7f6b8ec0a6d
+ms.openlocfilehash: 353e38853edb29d9fdea6692db34a239a31b2382
+ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "70020536"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "70215657"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Часто задаваемые вопросы о требованиях к безопасности для партнеров
 
@@ -85,8 +85,8 @@ ms.locfileid: "70020536"
 
     - Косвенные поставщики должны помочь непрямым торговым посредникам перейти в Центр партнеров, если они еще не сделали этого, и стимулировать своих торговых посредников выполнять эти требования.
     - Azure MFA бесплатно предоставляется всем пользователям в арендаторах клиента с помощью базовых политик с единственным методом проверки посредством [приложения Microsoft Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview).
-    - Дополнительные методы проверки можно применить с помощью номеров SKU [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium), если требуются другие методы (например, с использованием SMS или электронной почты).
-    - Партнеры могут также использовать стороннее решение MFA для каждого пользователя при доступе к коммерческим облачным службам (Майкрософт).
+    - Дополнительные методы проверки можно применить с помощью номеров SKU [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium), если требуются другие методы (например, с использованием телефонных звонков или текстовых сообщений).
+    - Партнеры могут также использовать стороннее решение MFA для каждой учетной записи при доступе к коммерческим облачным службам (Майкрософт).
 
 2. **Внедрение платформы "Модель безопасных приложений"**
 
@@ -94,10 +94,10 @@ ms.locfileid: "70020536"
 
     - [Общие сведения о Модели безопасных приложений](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
     - [Центр партнеров: руководство по Модели безопасных приложений](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-    - [Партнеры по программе CSP: пример кода .NET для реализации Модели безопасных приложений](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)
-    - [Партнеры по программе CSP: пример кода Java для реализации Модели безопасных приложений](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+    - [Партнеры по программе CSP: пример кода .NET для реализации Модели безопасных приложений](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+    - [Партнеры по программе CSP: пример кода Java для реализации Модели безопасных приложений](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
     - [Документ об аутентификации Центра партнеров](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-    - [Документ о Многофакторной идентификации (MFA) с помощью PowerShell Центра партнеров](https://docs.microsoft.com/partner-center/develop/multi-factor-auth)
+    - [Документ о Многофакторной идентификации (MFA) с помощью PowerShell Центра партнеров](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
     При использовании панели управления необходимо обратиться к поставщику по поводу внедрения платформы "Модель безопасных приложений".
 
@@ -122,7 +122,7 @@ MFA — это механизм безопасности, при котором 
 
 ### <a name="what-baseline-policies-must-i-enable"></a>Какие базовые политики необходимо включить?
 
-Если вы планируете использовать текущие базовые политики защиты, чтобы обеспечить MFA для каждого пользователя в арендаторах партнера, необходимо включить базовые политики [Require MFA for admins](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) и [End user protection](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users). Эти базовые политики защиты позволят выполнить требование о применении MFA для каждого пользователя в арендаторах партнера бесплатно, но только для партнеров, использующих приложения Microsoft Authenticator на мобильных устройствах.
+Если вы планируете использовать текущие базовые политики защиты, чтобы обеспечить MFA для каждой учетной записи в арендаторе партнера, необходимо включить базовые политики [Require MFA for admins](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) и [End user protection](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users). Эти базовые политики защиты позволят выполнить требование о применении MFA для каждого пользователя в арендаторах партнера бесплатно, но только для партнеров, использующих приложения Microsoft Authenticator на мобильных устройствах.
 
 Базовая политика [Require MFA for admins](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) применяется для администраторов в каталоге партнера, а базовая политика [End user protection](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) используется для защиты пользователей без прав администратора в арендаторах партнера. Для включения этих политик пользователям потребуется зарегистрироваться для использования MFA. После успешной регистрации пользователь будет получать запрос на MFA при входе в зависимости от критериев политики. Функциональные возможности базовых политик будут постоянно развиваться, чтобы обеспечить защиту партнеров и клиентов от постоянно меняющихся угроз системе безопасности. Поэтому важно ознакомиться с [документацией по базовым политикам](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection), чтобы узнать больше.
 
@@ -246,10 +246,10 @@ MFA — это механизм безопасности, при котором 
 
 - [Общие сведения о Модели безопасных приложений](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
 - [Центр партнеров: руководство по Модели безопасных приложений](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [Партнеры по программе CSP: пример кода .NET для реализации Модели безопасных приложений](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)
-- [Партнеры по программе CSP: пример кода Java для реализации Модели безопасных приложений](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+- [Партнеры по программе CSP: пример кода .NET для реализации Модели безопасных приложений](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [Партнеры по программе CSP: пример кода Java для реализации Модели безопасных приложений](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [Документ об аутентификации Центра партнеров](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-- [Документ о Многофакторной идентификации (MFA) с помощью PowerShell Центра партнеров](https://docs.microsoft.com/partner-center/develop/multi-factor-auth)
+- [Документ о Многофакторной идентификации (MFA) с помощью PowerShell Центра партнеров](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
 При использовании панели управления необходимо обратиться к поставщику по поводу внедрения платформы "Модель безопасных приложений".
 
@@ -333,10 +333,10 @@ CPV нужно будет создать приложение Azure Active Direc
 
 - [Общие сведения о Модели безопасных приложений](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
 - [Центр партнеров: руководство по Модели безопасных приложений](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [Партнеры по программе CSP: пример кода .NET для реализации Модели безопасных приложений](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)
-- [Партнеры по программе CSP: пример кода Java для реализации Модели безопасных приложений](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+- [Партнеры по программе CSP: пример кода .NET для реализации Модели безопасных приложений](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [Партнеры по программе CSP: пример кода Java для реализации Модели безопасных приложений](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [Документ об аутентификации Центра партнеров](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-- [Документ о Многофакторной идентификации (MFA) с помощью PowerShell Центра партнеров](https://docs.microsoft.com/partner-center/develop/multi-factor-auth)
+- [Документ о Многофакторной идентификации (MFA) с помощью PowerShell Центра партнеров](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
 ## <a name="support"></a>Поддержка
 
@@ -353,6 +353,10 @@ CPV нужно будет создать приложение Azure Active Direc
 ### <a name="how-do-i-get-technical-information-and-support-to-help-me-adopt-secure-application-model-framework"></a>Как получить техническую информацию и поддержку, чтобы внедрить платформу "Модель безопасных приложений"?
 
 Различные варианты технической поддержки для Azure Active Directory обеспечиваются преимуществами MPN. Партнеры с действующей подпиской ASfP или PSfP могут обратиться к соответствующему менеджеру по работе с партнерами (SAM или TAM), чтобы лучше понять, какие варианты им доступны.
+
+### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>Как обратиться в службу поддержки, если утрачен доступ к Центру партнеров?
+
+Перейдите на сайт [Поддержка партнеров Microsoft](https://partner.microsoft.com/support) и выберите **Отобразите все параметры поддержки**. Вы увидите доступные варианты обращения в службу поддержки партнеров Майкрософт. Они включают в себя номер телефона для звонка в службу поддержки и возможность общаться в чате с ее сотрудниками. 
 
 ### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>Где можно найти дополнительные сведения о распространенных технических проблемах?
 
