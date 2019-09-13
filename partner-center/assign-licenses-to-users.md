@@ -10,7 +10,7 @@ Keywords: Управление клиентами, учетная запись, 
 ms.localizationpriority: medium
 ms.openlocfilehash: fa8aabcc668630906fa2c9b3a88abbaee8a89693
 ms.sourcegitcommit: a9916e90efbb21bff250effd36a213420889633c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 06/13/2019
 ms.locfileid: "67044997"
