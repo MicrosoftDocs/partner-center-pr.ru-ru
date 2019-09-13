@@ -9,7 +9,7 @@ keywords: Полномочные партнеры по обучению, обр�
 ms.localizationpriority: medium
 ms.openlocfilehash: 712b36badfc43c5c62d4c8e74c231076e88d44a4
 ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 08/06/2019
 ms.locfileid: "68820635"
