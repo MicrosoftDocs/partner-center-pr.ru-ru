@@ -31,6 +31,7 @@
 
 # [Поставщик облачных решений](csp-overview.md)
 ## [Регистрация в программе поставщиков облачных решений](enrolling-in-the-csp-program.md)
+## [Соглашение с партнером Майкрософт для поставщиков облачных решений](microsoft-partner-agreement.md)
 ## [Новые требования к прямым партнерам CSP](direct-partner-new-requirements.md)
 ## [Соглашения Microsoft Cloud по региону и языку](agreements.md)
 ## [Переход со статуса партнера с прямым выставлением счетов в статус косвенного торгового посредника в рамках программы CSP](transition-direct-to-indirect.md)
