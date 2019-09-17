@@ -171,6 +171,7 @@
 # Безопасность
 ## [Требования к безопасности для партнеров](partner-security-requirements.md)
 ## [Часто задаваемые вопросы о требованиях к безопасности для партнеров](partner-security-requirements-faq.md)
+## [Состояние соответствия требованиям к безопасности для партнеров](partner-security-compliance.md)
 
 # Учебники
 ## [Реализация требований к безопасности для партнеров](tutorials/partner-security-requirements.yml)
