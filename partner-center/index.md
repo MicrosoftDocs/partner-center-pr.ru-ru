@@ -3,18 +3,18 @@ layout: LandingPage
 hide_bc: true
 title: Справка по использованию Центра партнеров
 ms.topic: landing-page
-ms.date: 01/29/2019
+ms.date: 10/01/2019
 description: Центр партнеров поможет развить вашу компанию в рамках программы поставщиков облачных решений (Майкрософт). Настройте учетную запись, свяжитесь с клиентами, купите подписку Action Pack и найдите дополнительные сведения о партнерах по программам CSP и MPN. 
 author: LauraBrenner
 ms.author: labrenne
 searchScope: []
-ms.localizationpriority: medium
-ms.openlocfilehash: 38bdae28d49553e39827375b1ab1c1376e3378b3
-ms.sourcegitcommit: 17d030d87530d4c9832e8be7aeff37821941d343
+ms.localizationpriority: high
+ms.openlocfilehash: f94ef72fc69cd4fe29cd27c2dc4bab11ab5e64c3
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/03/2019
-ms.locfileid: "65035525"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318885"
 ---
 # <a name="welcome-to-partner-center"></a>Добро пожаловать в Центр партнеров
 
@@ -87,7 +87,7 @@ ms.locfileid: "65035525"
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/move-pmc-pc-map">
                         <h3>Переход от PMC к Центру партнеров</h3>
-                        <p>Узнайте, как подготовить свою компанию к переходу в Центр партнеров</p></a>
+                        <p>Подготовка компании к переходу в Центр партнеров</p></a>
                     </div>
                 </div>
             </div>
