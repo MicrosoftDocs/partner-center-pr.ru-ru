@@ -28,7 +28,6 @@
 ### [Счета и налоги в программе Microsoft Partner Network](mpn-view-print-maps-invoice.md)
 ## [Тестирование новых функций](test-drive-new-features.md)
 
-
 # [Поставщик облачных решений](csp-overview.md)
 ## [Регистрация в программе поставщиков облачных решений](enrolling-in-the-csp-program.md)
 ## [Соглашение с партнером Майкрософт для поставщиков облачных решений](microsoft-partner-agreement.md)
@@ -39,7 +38,6 @@
 ## [Региональные рынки и валюты CSP](regional-authorization-overview.md)
 ## [Подтверждение принятия клиентом условий соглашения об использовании Microsoft Cloud](confirm-consent.md)
 ## [Подтверждение принятия клиентом условий клиентского соглашения Майкрософт (ознакомительная версия)](confirm-customer-agreement.md)
-
 
 ## [Применение для продаж в национальных облаках](csp-national-clouds-overview.md)
 ### [Центр партнеров для Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
@@ -84,7 +82,6 @@
 ### [Обзор выплат по программам поощрений](understand-incentive-payouts.md)
 ### [Отправка утверждений OSA в Центр партнеров](submit-osa-claim.md)
 ### [Поиск доменного имени и идентификатора каталога клиента для создания заявки на возмещение средств](find-customer-domain-name.md)
-
 
 # [Выставление счетов и налоги](billing.md)
 ## [Вопросы и ответы: выставление счетов](faq-about-new-billing-features.md)
@@ -169,10 +166,10 @@
 ## [Самообслуживание для клиентов](customer-self-support.md)
 ## [Сообщение о проблемах в корпорацию Майкрософт](escalate-problems-to-microsoft.md)
 
-# Безопасность
-## [Требования к безопасности для партнеров](partner-security-requirements.md)
-## [Часто задаваемые вопросы о требованиях к безопасности для партнеров](partner-security-requirements-faq.md)
-## [Состояние соответствия требованиям к безопасности для партнеров](partner-security-compliance.md)
+# Требования к безопасности
+## [Обзор](partner-security-requirements.md)
+## [Состояние соответствия](partner-security-compliance.md)
+## [Вопросы и ответы](partner-security-requirements-faq.md)
 
 # Учебники
 ## [Реализация требований к безопасности для партнеров](tutorials/partner-security-requirements.yml)
