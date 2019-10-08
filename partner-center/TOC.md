@@ -78,10 +78,12 @@
 ## [Заявки на компенсацию средств в рамках программы поощрения](claims-overview.md)
 ### [Создание и администрирование заявок на компенсацию средств в рамках программы поощрения](create-incentives-claims.md)
 ### [Основные требования, предъявляемые к заявкам на компенсацию средств в рамках программы поощрения](core-requirements.md)
+
+
 ### [Общие сведения о выплатах](incentives-unified-user-guide.md)
-### [Обзор выплат по программам поощрений](understand-incentive-payouts.md)
-### [Отправка утверждений OSA в Центр партнеров](submit-osa-claim.md)
-### [Поиск доменного имени и идентификатора каталога клиента для создания заявки на возмещение средств](find-customer-domain-name.md)
+
+### [Доступ к странице выплат по программам поощрений](incentives-unified-user-guide.md)
+
 
 # [Выставление счетов и налоги](billing.md)
 ## [Вопросы и ответы: выставление счетов](faq-about-new-billing-features.md)
@@ -168,7 +170,7 @@
 
 # Требования к безопасности
 ## [Обзор](partner-security-requirements.md)
-## [Состояние соответствия](partner-security-compliance.md)
+## [Соответствие требованиям](partner-security-compliance.md)
 ## [Вопросы и ответы](partner-security-requirements-faq.md)
 
 # Учебники
