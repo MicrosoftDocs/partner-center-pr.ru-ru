@@ -1,19 +1,19 @@
 ---
 title: Соглашения CSP, прайс-листы и предложения | Центр партнеров
 ms.topic: article
-ms.date: 08/29/2019
+ms.date: 09/23/2019
 description: В этой статье приводятся ссылки на руководства по программе поставщиков облачных решений, соглашения партнеров, соглашения клиентов, прейскуранты и предложения.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: руководства по программе csp, руководство по программе, партнерские соглашения, соглашение с клиентом, прейскуранты, предложения
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c566b43a0624a90bad746852e971a316b085005
-ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
-ms.translationtype: HT
+ms.openlocfilehash: 03f6730f8b52e17c044e67f1ced982fbbabab59d
+ms.sourcegitcommit: 8a494949f5c4efdcf33b01760d2ae10405f1daae
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "70259917"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "71204629"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Руководство по программе поставщиков облачных решений, соглашения, прейскуранты и предложения
 
@@ -33,6 +33,10 @@ ms.locfileid: "70259917"
 
 >[!Note]
 >Если вам требуется официальное письмо с подтверждением или сертификацией вашего статуса в качестве утвержденного партнера Майкрософт в программе поставщиков облачных решений, [обратитесь в службу поддержки](https://partner.microsoft.com/pcv/servicerequests/create), чтобы запросить его.
+
+### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Дополнительные условия предложения для партнерского соглашения Майкрософт
+
+[Рекомендации по дополнительным предложениям по подпискам веб-служб и авторизации канала программного обеспечения](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Соглашение об использовании Microsoft Cloud: шаблоны для клиентов
 
