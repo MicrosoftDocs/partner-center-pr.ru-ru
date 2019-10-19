@@ -1,18 +1,18 @@
 ---
 title: Доступ к странице "выплаты поощрения" | Центр партнеров
 ms.topic: article
-ms.date: 09/19/19
+ms.date: 10/17/2019
 description: Общие сведения о выплатах
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Поощрения, выплата
 ms.localizationpriority: medium
-ms.openlocfilehash: b2cf78be2a15db74e1f68224076f43872f997466
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
-ms.translationtype: HT
+ms.openlocfilehash: 97d43b2d42ace1c4ef289efbfb6ff34df53cba20
+ms.sourcegitcommit: ccb08d947ab6b488d02f9bcbb6c550b0d5f0de9f
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425110"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "72584247"
 ---
 # <a name="access-your-incentives-payouts-page"></a>Доступ к странице "выплаты стимулов"
 
@@ -22,4 +22,4 @@ ms.locfileid: "72425110"
 
 - Сведения о выплатах за Microsoft Partner Network (MPN) см. в разделе [Просмотр сведений о поощрениях выплат](understand-incentive-payouts.md) в документации по поощрениям MPN.
 
-- Сведения о коммерческой оплате в Marketplace для независимых поставщиков программного обеспечения см. в разделе получение платных продуктов.
+- В ближайшее время будет добавлено информация о коммерческих платежах для независимых поставщиков программного обеспечения (ISV).
