@@ -1,19 +1,19 @@
 ---
 title: Членство Microsoft Partner Network | Центр партнеров
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 10/25/2019
 description: Узнайте о преимуществах сотрудничества с Майкрософт. Microsoft Partner Network предоставляет широкий спектр продуктов в отрасли, а также программные средства для различения бизнеса, перехода на рынке и продажи решений.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: партнер, сотрудничество, MPN, Microsoft Partner Network, action pack, MAPS, подписка action pack, преимущества, преимущества MPN, членство, silver, gold, компетенции
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 85c4fa8c0b8d6e0e680f4e7ce6f4b3498bdfcd0a
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 109333a4cea7d19ff18708cc55d5c0b87b2bb13f
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820622"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978749"
 ---
 # <a name="partner-with-microsoft"></a>Партнерство с Майкрософт
 
@@ -33,13 +33,13 @@ Microsoft Partner Network предоставляет широкий спектр
 
 ### <a name="how-to-join"></a>Как присоединиться
 
-Чтобы присоединиться к Microsoft Partner Network, перейдите на [страницу **членство** ](https://partner.microsoft.com/membership) на веб-сайте MPN и выберите **зарегистрировать** или присоединиться **сейчас**.
+Чтобы присоединиться к Microsoft Partner Network, перейдите на [страницу **членство** ](https://partner.microsoft.com/membership) на веб-сайте MPN и выберите **зарегистрировать** или **присоединиться сейчас**.
 
-## <a name="microsoft-partner-network-membership-types"></a>Microsoft Partner Network типов членства
+## <a name="make-the-microsoft-partner-network-membership-work-for-you"></a>Сделайте Microsoft Partner Network членства в вашей работе
 
-<!-- 12/5/18 The content below was copied and pasted directly from the Membership pages of the MPN site (https://partner.microsoft.com/membership)-->
+<!-- 10/25/2019 The content below content from the Membership pages of the MPN site (https://partner.microsoft.com/membership) and additional updated content.-->
 
-Microsoft Partner Network предоставляет три типа членства, как описано ниже. С каждым из них связан ряд преимуществ, которые помогут в развитии вашего бизнеса. Достигая поставленные цели, выбирайте уровень участия в программе, соответствующий вашим уникальным потребностям, чтобы получать дополнительные преимущества и развивать отношения с Майкрософт и другими партнерами.
+По мере достижения бизнес-целей примите участие в программе на уровне, отвечающем вашим уникальным потребностям, для доступа к дополнительным преимуществам, а также для разработки отношений с нами и другими партнерами в сети.
 
 ### <a name="action-pack"></a>Пакет Action Pack
 
@@ -48,10 +48,11 @@ Action Pack предлагает программное обеспечение, 
 Ознакомьтесь с приведенными ниже ресурсами, чтобы узнать больше о Action Pack.
 
 - [Перенос облачных бизнес-процессов с помощью Microsoft Action Pack](https://partner.microsoft.com/membership/action-pack)
+
 - [Получение Action Pack](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >Мы перемещая Управление подпиской Action Pack из центра управления партнерами (PMC) в центр партнеров. Этот перенос будет выполнен в течение следующих нескольких месяцев. Внимательно ознакомьтесь с информацией в разделе [Получить пакет Action Pack](mpn-get-action-pack.md), чтобы знать, как продлить подписку.  
+    >Вы управляете подпиской Action Pack в центре партнеров. Если ваша компания еще не перешла в центр партнеров из центра управления партнерами, прочитайте статью [Подготовка к переходу в центр партнеров](partner-center/prepare-pmc-pc-migration.md) .  
 
 - [Продлите предложения MPN](renew-mpn-offers.md)
 
