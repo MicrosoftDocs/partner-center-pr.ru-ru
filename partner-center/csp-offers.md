@@ -1,18 +1,18 @@
 ---
 title: Предложения для партнеров по программе поставщиков облачных решений | Центр партнеров
 ms.topic: article
-ms.date: 05/01/2019
+ms.date: 10/28/2019
 description: Узнайте о предложениях, доступных для партнеров, которые осуществляют продажи в рамках программы поставщиков облачных решений.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Поставщик облачных решений, программа поставщиков облачных решений, CSP, добавить продукт, продажа клиентам, предложения для партнеров, предложения CSP, облачные службы, Azure, Office 365, Dynamics, партнер CSP, продажи в рамках CSP, Azure RI, Azure Reserved Virtual Machine Instances, резервирования Azure, веб-службы, программное обеспечение по подписке, AHUB, SQL Server в Azure, Windows Server в Azure, подписки клиентов
 ms.localizationpriority: high
-ms.openlocfilehash: a77e41742689221b77d06d7732b86f367148ab13
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 062c64254ab731bd9396201268aad61ff6b3b74f
+ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318452"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "73045630"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Предложения для партнеров по программе поставщиков облачных решений 
 
@@ -23,6 +23,9 @@ ms.locfileid: "71318452"
 Для партнеров корпорации Майкрософт по программе поставщиков облачных решений (CSP) доступен постоянно расширяющийся каталог предложений. Вы можете продавать полный спектр [облачных служб (Майкрософт)](https://partner.microsoft.com/cloud-solution-provider/products-and-services), а также множество дополнительных предложений, перечень которых часто меняется. Чтобы просмотреть предложения CSP за текущий месяц, войдите в Центр партнеров, а затем перейдите на страницу [**Цены и предложения**](https://partnercenter.microsoft.com/pcv/sales).  
 
 Еще не зарегистрированы в программе поставщиков облачных решений? Дополнительные инструкции по регистрации в программе см. на странице [программы поставщиков облачных решений](https://partner.microsoft.com/cloud-solution-provider). 
+
+>[!NOTE]
+>К 31 января 2020 года все клиенты должны будут подписать клиентский договор с Майкрософт. Это относится как к существующим, так и к новым клиентам. Чтобы узнать больше, прочитайте о [подтверждении принятия клиентом условий клиентского договора с Майкрософт](confirm-customer-agreement.md).
 
 ## <a name="what-you-can-sell-through-csp"></a>Продукты, доступные для продажи в рамках CSP
 

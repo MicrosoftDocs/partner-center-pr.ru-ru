@@ -1,18 +1,18 @@
 ---
 title: Приобретение или продление преимуществ | Центр партнеров
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 10/25/2019
 description: Узнайте, как получить Microsoft Action Pack в первый раз или продлить имеющуюся подписку.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, продление MAPS, продление action pack, получение action pack
 ms.localizationpriority: high
-ms.openlocfilehash: c4e1f58bd703c1809f1d315a8cc2d8c61fee8fa3
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 544059c06d0e4dd0714ac2fd29b8d2e4291deda1
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318856"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978745"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Первое приобретение или продление подписки Microsoft Action Pack, а также компетенций уровня Silver или Gold.
 
@@ -21,7 +21,7 @@ ms.locfileid: "71318856"
 -  Центр партнеров
 -  Partner Membership Center
 
-Теперь на Панели мониторинга Центра партнеров вы можете приобрести или продлить предложения, включая подписку Microsoft Action Pack, а также компетенции уровня Silver и Gold. 
+Теперь на [Панели мониторинга](https://docs.microsoft.com/partner-center/) Центра партнеров вы можете приобрести или продлить предложения, включая подписку Microsoft Action Pack, а также компетенции уровня Silver и Gold. 
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Приобретение Microsoft Action Pack в первый раз
 
@@ -36,23 +36,13 @@ ms.locfileid: "71318856"
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Продление подписки Microsoft Action Pack
 
 >[!IMPORTANT]
->Теперь вы можете управлять подпиской Action Pack в Центре партнеров (на этом сайте). 
+>Теперь вы можете управлять подпиской Action Pack в Центре партнеров.
 
 ### <a name="check-your-renewal-eligibility"></a>Проверка наличия права на продление
 
-1. Войдите в [Partner Membership Center (PMC)](https://partner.microsoft.com/_login?authType=OpenIdConnect).
-
-2. После входа:
-
-    - вы сможете продлить подписку в PMC или
-
-    - получите сообщение с приглашением на продление подписки в Центре партнеров (на этом сайте).
-
 >[!IMPORTANT]
 >При появлении приглашения на продление подписки в Центре партнеров обратите внимание на то, что мы изменили политику в отношении периода продления. Теперь вы сможете продлить подписку только после истечения ее срока действия. Например, если срок действия вашей подписки истекает 22 июня, ее можно продлить с 23 июня в течение 30 дней.       
->Дата окончания срока действия вашей подписки указана на вашей странице [**Предложения членства**](https://partnercenter.microsoft.com/pcv/partnership/offers) (требуется вход). Если у вас есть право на продление подписки, выполните следующие действия ы Центре партнеров.  
-
-
+>Дата окончания срока действия вашей подписки указана на вашей странице [**Предложения членства**](https://partnercenter.microsoft.com/pcv/partnership/offers) (требуется вход). Если у вас есть право на продление подписки, выполните следующие действия в Центре партнеров.  
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Чтобы продлить подписку Microsoft Action Pack в Центре партнеров, выполните следующие действия.
 
