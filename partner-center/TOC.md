@@ -37,7 +37,7 @@
 ## [Соглашения, прайс-листы и предложения CSP](csp-documents-and-learning-resources.md)
 ## [Региональные рынки и валюты CSP](regional-authorization-overview.md)
 ## [Подтверждение принятия клиентом условий соглашения об использовании Microsoft Cloud](confirm-consent.md)
-## [Подтверждение принятия клиентом условий клиентского соглашения Майкрософт (ознакомительная версия)](confirm-customer-agreement.md)
+## [Подтверждение принятия клиентом условий клиентского договора с Майкрософт](confirm-customer-agreement.md)
 
 ## [Применение для продаж в национальных облаках](csp-national-clouds-overview.md)
 ### [Центр партнеров для Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
