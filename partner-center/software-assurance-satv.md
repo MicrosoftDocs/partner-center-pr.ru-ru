@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: купоны на обучение, Software Assurance, обучение, регистрация в SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 03fb0c9a9391bc3e5ebcf99cfd77aa7de8a74f51
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 0b5b91efea2814582e64e147cf3bf9f7c22bdd89
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425184"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73142014"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Программа Software Assurance Training Voucher (SATV) в Центре партнеров
 
@@ -25,8 +25,8 @@ ms.locfileid: "72425184"
 Если вы не знакомы со службами обучения Software Assurance, выполните все приведенные ниже действия. Если вы уже участвуете в программе обучения, начните с четвертого (4) шага. 
 
 1. Подтверждение права на участие в программе
-2. Регистрация в программе обучения
-3. Подтверждение права на прохождение курса
+2. Регистрация в программе обучения.
+3. Подтверждение права на прохождение курса.
 4. Создание и назначение ваучера клиентом.
 5. Проверка и резервирование ваучера клиента.
 6. Предоставление обучения и активация продукта.
@@ -37,16 +37,16 @@ ms.locfileid: "72425184"
 
 ## <a name="confirm-program-eligibility"></a>Подтверждение права на участие в программе
 
-Прежде чем вы сможете зарегистрироваться в программе SATV, необходимо сначала выполнить требования режима Microsoft Partner Network Learning, который заменяет компетенцию Microsoft Learning. Узнайте, как приступить к работе в [режиме обучения.](https://partner.microsoft.com/en-us/membership/learning-partners)
+Прежде чем вы сможете зарегистрироваться в программе SATV, необходимо сначала выполнить требования режима Microsoft Partner Network Learning, который заменяет компетенцию Microsoft Learning. Узнайте, как приступить к работе в [режиме обучения.](https://partner.microsoft.com/membership/learning-partners)
 
 Вы можете проверить соответствие вашей компании, включая требования к компетенции и оценке, в Центре партнеров. Чтобы получить дополнительные сведения и снимки экрана, следуйте инструкциям, приведенным на [шаге 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса сатв.
 
-## <a name="enroll-in-the-training-program"></a>Регистрация в программе обучения
+## <a name="enroll-in-the-training-program"></a>Регистрация в программе обучения.
 
 Если компания соответствует требованиям, а участники программы прошли курс обучения по соответствию, можно подписывать соглашение участника в программе Software Assurance Training Voucher и регистрироваться. Обязательно просмотрите все [политики программы сатв](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP), а затем следуйте инструкциям на [шаге 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса, чтобы завершить процесс регистрации сатв в центре партнеров.   
 
 
-## <a name="confirm-course-eligibility"></a>Подтверждение права на прохождение курса
+## <a name="confirm-course-eligibility"></a>Подтверждение права на прохождение курса.
 После регистрации в программе SATV партнеры могут предложить по курсам соответствующих SATV сеансы обучения, для которых клиенты могут использовать свои ваучеры на обучение. Подходящие курсы перечислены в [каталоге соответствия сатв Course](http://savl-catalog.microsoft.com/). Ознакомьтесь с [шагом 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса, чтобы узнать, какие типы курсов сатв.
 
 ## <a name="have-customer-create-and-assign-voucher"></a>Создание и назначение ваучера клиентом.

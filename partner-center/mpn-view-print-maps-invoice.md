@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, счет, карты, налоговый освобождения, НДС, идентификатор НДС
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b972aa9261d319c55d26abcc32e33af5546550a
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 42006ee073db1481fffa42b5cc4e3982526cf720
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978775"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73142000"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Счета и налоги в Microsoft Partner Network
 
@@ -26,7 +26,7 @@ ms.locfileid: "72978775"
 
 Для выполнения этой процедуры необходимо быть администратором глобального администратора или MPN партнером. 
 
-1.  Войдите в [Центр партнеров](https://partner.microsoft.com/en-us/dashboard/home) с рабочей учетной записью и выберите **MPN** в меню слева.
+1.  Войдите в [Центр партнеров](https://partner.microsoft.com/dashboard/home) с рабочей учетной записью и выберите **MPN** в меню слева.
 
 4.  В раскрывающемся списке выберите **предложения членства** , чтобы просмотреть доступные предложения по приобретению, а также счета, доступные для текущего года регистрации. Чтобы просмотреть счета за предыдущие годы, выберите **срок действия истек**.
 
@@ -45,7 +45,7 @@ ms.locfileid: "72978775"
 
 ## <a name="send-microsoft-your-vat-id-number"></a>Отправка номера плательщика НДС в Майкрософт
 
-1.  На [панели мониторинга](https://partner.microsoft.com/en-us/dashboard/home)центра партнеров выберите **предложения членства**, а затем щелкните **доступно**. 
+1.  На [панели мониторинга](https://partner.microsoft.com/dashboard/home)центра партнеров выберите **предложения членства**, а затем щелкните **доступно**. 
 
 2.  Выберите **добавить идентификатор плательщика НДС**. 
 

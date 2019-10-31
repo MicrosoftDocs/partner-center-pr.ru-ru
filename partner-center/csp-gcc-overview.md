@@ -2,21 +2,21 @@
 title: Продажа Office 365 для государственных организаций в средах GCC в рамках программы поставщиков облачных решений | Центр партнеров
 ms.topic: article
 ms.date: 03/15/2019
-description: Партнеры корпорации Майкрософт, участвующие в программе CSP, могут продавать Office 365 для государственных организаций в средах GCC для подписок CSP клиентам, отвечающим необходимым требованиям. Office 365 GCC для государственных организаций для CSP — это набор облачных служб на производительность, предназначенная для государственных организаций США и подрядчиков для государственных организаций.
+description: Партнеры корпорации Майкрософт, участвующие в программе CSP, могут продавать Office 365 для государственных организаций в средах GCC для подписок CSP клиентам, отвечающим необходимым требованиям. Office 365 правительства GCC для CSP — это набор облачных служб для повышения производительности, разработанных для США государственных и правительственных подрядчиков.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f7187b0a35bae927dc991b4bd92506f902c53b95
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: caf8c6614a360c45c9976277b9dca14197391f39
+ms.sourcegitcommit: 718064303cc8a632005a2b4561bc34100ec93477
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134844"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73168559"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Продажа Office 365 для государственных организаций в средах GCC для подписок CSP клиентам, отвечающим необходимым требованиям
 
-**Применяется к**
+**Относится к**
 
 -  Центр партнеров
 -  Партнеры CSP
@@ -32,11 +32,9 @@ ms.locfileid: "62134844"
 
 ## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a>Продажа Office 365 для государственных организаций в средах GCC для подписок CSP
 
-После утверждения вашей компании продавать предложения Office 365 для государственных организаций GCC по программе CSP, можно запустить продаж клиентам, с помощью центра партнеров. Ссылки на эти ресурсы, чтобы узнать, как использовать центр партнеров для продажи подписок: 
+После того как ваша компания будет утверждена для продажи Office 365 правительства GCC для CSP, вы можете начать продавать клиентов, использующих центр партнеров. Сведения об использовании центра партнеров для продажи подписок см. в этих ресурсах: 
 
 -   Пошаговое руководство по продажам Office 365 для государственных организаций в средах GCC для подписок CSP см. [здесь](https://go.microsoft.com/fwlink/?linkid=2007323).  
-
--   Ответы на часто задаваемые вопросы см. [здесь](https://o365pp.blob.core.windows.net/media/Resources/GCC/Office%20365%20Government%20GCC%20for%20CSP%20Partner%20FAQ.docx)
 
 
 ## <a name="additional-resources"></a>Дополнительные ресурсы
@@ -48,5 +46,5 @@ ms.locfileid: "62134844"
 - [Описание службы Office 365 для государственных организаций](https://technet.microsoft.com/library/mt774581.aspx)
 - [Roadmap.Office.com](https://products.office.com/business/office-365-roadmap)
 - [Центр управления безопасностью Майкрософт](https://www.microsoft.com/TrustCenter/)
-- [Портал служб Microsoft защиты данных](https://aka.ms/STP)
+- [Портал доверия служб Майкрософт](https://aka.ms/STP)
 
