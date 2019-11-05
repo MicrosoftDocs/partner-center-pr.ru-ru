@@ -122,7 +122,7 @@
 ### [Приобретение плана Azure](purchase-azure-plan.md)
 ### [Сравнение предложений Azure](compare-azure-offers.md)
 ### [Перевод клиентов на план Azure](azure-plan-transition.md)
-### [Общие сведения о партнерских баллах](partner-earned-credit-overview.md)
+### [Общие сведения о партнерских баллах](partner-earned-credit.md)
 ### [Как вычисляются и выплачиваются партнерские баллы](partner-earned-credit-explanation.md)
 ### [Новый интерфейс для коммерческих приложений в CSP. Выставление счетов в Azure](azure-plan-billing.md) 
 ### [Прейскурант для новой коммерческой модели в CSP для Azure](azure-plan-price-list.md)
