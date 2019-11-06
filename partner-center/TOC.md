@@ -100,6 +100,7 @@
 ## [Установка расходного бюджета Azure для клиентов](set-an-azure-spending-budget-for-your-customers.md)
 ## [Распространенные сценарии выставления счетов](common-billing-scenarios.md)
 ## [Неплатеж, мошенничество или неправильное использование](non-payment--fraud--or-misuse.md)
+## [Консультация для партнеров по Office 365: возможности Microsoft 365 в CSP](o365-partner-advisory.md)
 
 # [Связь с клиентами](customer-accounts.md)
 ## [Добавление нового клиента](add-a-new-customer.md)
