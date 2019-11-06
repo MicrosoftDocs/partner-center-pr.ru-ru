@@ -1,18 +1,18 @@
 ---
 title: Требования к компетенциям Майкрософт для получения членства уровня Gold и Silver | Центр партнеров
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 10/29/2019
 description: Узнайте о требованиях к компетенциям Майкрософт для получения членства уровней Gold и Silver.
 author: LauraBrenner
 ms.author: labrenne
 keywords: компетенции, членство уровня silver, членство уровня gold, mpn, MAPS, навыки, Microsoft Partner Network, членство в сети, дополнительные специализации
 ms.localizationpriority: high
-ms.openlocfilehash: 6ae993e049fc651f15e9669aab68c2183085b308
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: d6991a6df1800b279aefb553188af79d3dd33ec2
+ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318865"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73413354"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Сведения о компетенциях уровней Silver и Gold, а также дополнительных специализациях Майкрософт.
 
@@ -24,6 +24,8 @@ ms.locfileid: "71318865"
 - Получите **членство уровня Gold**, чтобы продемонстрировать свои передовые возможности в определенной области решений Майкрософт.
 
 - Партнер уровня Gold может также добавить в свой портфель дополнительные специализации.
+
+Получение компетенций уровня **Silver** или **Gold** также позволяет получить большие маркетинговые и торговые преимущества для [выхода на рынок](mpn-learn-about-go-to-market-benefits.md), которые помогут вам расширять и развивать свою компанию.
 
 ## <a name="competency-areas"></a>Области компетенции
 
@@ -40,6 +42,8 @@ ms.locfileid: "71318865"
 
 
 Узнайте, [что необходимо для получения членства уровня Silver и Gold](https://partner.microsoft.com/membership/competencies).
+
+Узнайте о конкретных [преимуществах для выхода на рынок, доступных для членов уровня Silver и Gold](mpn-learn-about-go-to-market-benefits.md). 
 
 Узнайте о [счетах и налогах, связанных с компетенциями](mpn-view-print-maps-invoice.md).
 
