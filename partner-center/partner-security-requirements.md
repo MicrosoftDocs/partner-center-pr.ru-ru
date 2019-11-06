@@ -7,12 +7,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, поставщик облачных решений, программа поставщика облачных решений, CSP, поставщик панели управления, CPV, многофакторная проверка подлинности, MFA, модель безопасного приложения, безопасность
 ms.localizationpriority: high
-ms.openlocfilehash: b09588387d3b4f0f3f726a700245999c89755199
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 4c7f4e61cc249fb51f58e4a94892a2d937cae4e1
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425202"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141982"
 ---
 # <a name="partner-security-requirements"></a>Требования к безопасности для партнеров
 
@@ -80,44 +80,7 @@ ms.locfileid: "72425202"
 
 ## <a name="accessing-your-environment"></a>Оценка своей среды
 
-Чтобы точно определить, кто или что выполняет аутентификацию, избегая запроса на многофакторную проверку подлинности, рекомендуем запросить журналы аудита Azure Active Directory. Это можно сделать с помощью модуля [Azure PowerShell](https://docs.microsoft.com/powershell/azure/overview) и приведенного ниже сценария. Он создаст отчет, который предоставит сведения о выполненных за прошедший день попытках аутентификации, для которых не запрашивалась многофакторная проверка подлинности.
-
-```powershell
-Login-AzAccount
-$context = Get-AzContext
-
-function Get-SignInEvents
-{
-    param([string]$userId)
-
-    $content = '{"startDateTime":"' + (Get-Date).AddDays(-1).ToUniversalTime().ToString("yyyy-MM-ddT05:00:00.000Z") + '","endDateTime":"' + (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ss.fffZ")  + '","userId":"' + $userId +'","riskState":[],"totalRisk":[],"realtimeRisk":[],"tokenIssuerType":[],"isAdfsEnabled":false}'
-
-    $token = [Microsoft.Azure.Commands.Common.Authentication.AzureSession]::Instance.AuthenticationFactory.Authenticate($context.Account, $context.Environment, $context.Tenant.Id, $null, "Never", $null, "74658136-14ec-4630-ad9b-26e160ff0fc6")
-
-    $headers = @{
-    'Authorization' = 'Bearer ' + $token.AccessToken
-    'Content-Type' = 'application/json'
-        'X-Requested-With'= 'XMLHttpRequest'
-        'x-ms-client-request-id'= [guid]::NewGuid()
-        'x-ms-correlation-id' = [guid]::NewGuid()
-    }
-
-    Invoke-RestMethod -Body $content -Header $headers -Method POST -Uri "https://main.iam.ad.ext.azure.com/api/Reports/SignInEventsV3"
-}
-
-$report = $()
-
-Get-AzADUser | foreach {
-    $events = Get-SignInEvents $_.Id
-    $report += $events.Items
-}
-
-$report | Where-Object {$_.mfaRequired -eq $false -and $_.loginSucceeded -eq $true} | Select-Object userPrincipalName, userDisplayName, createdDateTime, resourceDisplayName, loginSucceeded, failureReason, mfaRequired, mfaAuthMethod, mfaAuthDetail, mfaResult, @{Name='policies'; Expression={[string]::join(',', $($_.conditionalAccessPolicies | Select-Object displayName).displayName )}}, conditionalAccessStatus | Export-Csv report.csv
-```
-
-После запуска приведенного выше сценария сведения будут доступны в файле report.csv. Он будет содержать список попыток проверки подлинности, которые произошли за последний день, когда для пользователя не отображался запрос на выполнение MFA. Вам нужно будет просмотреть каждую запись, определив, является ли такое поведение ожидаемым, и в случае необходимости выполнить надлежащие действия.
-
-![Отчет об оценке](images/security/assessment-report.png)
+Чтобы лучше понять, кто или что выполняет аутентификацию, избегая запроса на многофакторную проверку подлинности, рекомендуется проверить действия входа. Лицензия Azure Active Directory Premium дает возможность использовать отчет о событиях входа. Дополнительные сведения см. в разделе [Отчеты о действиях входа на портале Azure Active Directory](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins). Если у вас нет лицензии Azure Active Directory Premium или вам нужно получать эти данные с помощью PowerShell, то вы можете использовать командлет [Get-PartnerUserSignActivity](https://docs.microsoft.com/powershell/module/partnercenter/get-partnerusersigninactivity) из модуля [PowerShell для Центра партнеров](https://www.powershellgallery.com/packages/PartnerCenter/).
 
 ## <a name="how-the-requirements-will-be-enforced"></a>Как будут применяться требования
 

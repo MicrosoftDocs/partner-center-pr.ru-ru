@@ -7,12 +7,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, поставщик облачных решений, программа поставщика облачных решений, CSP, поставщик панели управления, CPV, многофакторная проверка подлинности, MFA, модель безопасного приложения, безопасность
 ms.localizationpriority: high
-ms.openlocfilehash: e9471ae8dd0e478540e30a879d010ffb0c1f1bc0
-ms.sourcegitcommit: c388fae97437b727edeb0de3712bd2822010ecd6
+ms.openlocfilehash: 43ad23ea7d4b4b39fb2dc6d15095a8416c7360ab
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "71678301"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73142030"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Часто задаваемые вопросы о требованиях к безопасности для партнеров
 
@@ -67,6 +67,17 @@ ms.locfileid: "71678301"
 
 Нет, невозможно исключить какую-либо учетную запись из требования обязательного применения MFA. Учитывая высокий уровень привилегий партнеров, [руководство по работе с программой поставщиков облачных решений](https://go.microsoft.com/fwlink/p/?LinkId=617100) предписывает принудительное применение MFA для каждой учетной записи в арендаторах клиента.
 
+### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Как узнать, выполнены ли требования к безопасности для партнеров?
+
+Необходимо выполнить указанные ниже действия.
+
+- Вам потребуется выполнить все требования, описанные в разделе [Требования к безопасности для партнеров](https://docs.microsoft.com/partner-center/partner-security-requirements).
+- Необходимо обеспечить принудительную многофакторную проверку подлинности всех учетных записей пользователей в арендаторе партнера.
+
+Чтобы вам было проще определить ключевые области для действий, мы предоставляем отчет о [соответствии требованиям к безопасности](https://partner.microsoft.com/pcv/security/compliance), доступный в Центре партнеров.
+
+Дополнительные сведения об этом отчете приведены в разделе [Соответствие требованиям к безопасности для партнеров](https://docs.microsoft.com/partner-center/partner-security-compliance).
+
 ## <a name="required-actions"></a>Необходимые действия
 
 ### <a name="what-are-the-key-actions-i-need-to-take-to-meet-the-requirements"></a>Какие ключевые действия необходимо предпринять для выполнения требований?
@@ -93,7 +104,7 @@ ms.locfileid: "71678301"
     Все партнеры, которые разработали пользовательскую интеграцию с помощью каких-либо интерфейсов API (например, Azure Resource Manager, Microsoft Graph, API Центра партнеров и т. д.) или реализовали пользовательскую автоматизацию с помощью таких инструментов, как PowerShell, должны внедрить [платформу "Модель безопасных приложений"](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) для интеграции с облачными службами (Майкрософт). Если этого не сделать, это может привести к нарушению работы из-за развертывания MFA. Приведенные ниже материалы содержат общие сведения и рекомендации по внедрению модели.
 
     - [Общие сведения о Модели безопасных приложений](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-    - [Центр партнеров: руководство по Модели безопасных приложений](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+    - [Центр партнеров: руководство по Модели безопасных приложений](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
     - [Партнеры по программе CSP: пример кода .NET для реализации Модели безопасных приложений](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
     - [Партнеры по программе CSP: пример кода Java для реализации Модели безопасных приложений](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
     - [Документ об аутентификации Центра партнеров](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
@@ -101,7 +112,7 @@ ms.locfileid: "71678301"
 
     При использовании панели управления необходимо обратиться к поставщику по поводу внедрения платформы "Модель безопасных приложений".
 
-    Поставщики панели управления обязаны [подключиться](https://docs.microsoft.com/partner-center/enroll-as-cpv) к Центру партнеров в качестве поставщика панели управления и немедленно приступить к выполнению этого требования. Ознакомьтесь с разделом [Центр партнеров: платформа "Модель безопасных приложений"](http://assetsprod.microsoft.com/secure-application-model-guide.pdf). Поставщики панели управления должны получить согласие партнеров CSP и управлять им вместо учетных данных, а также очистить все существующие учетные данные партнеров CSP.
+    Поставщики панели управления обязаны [подключиться](https://docs.microsoft.com/partner-center/enroll-as-cpv) к Центру партнеров в качестве поставщика панели управления и немедленно приступить к выполнению этого требования. Ознакомьтесь с разделом [Центр партнеров: платформа "Модель безопасных приложений"](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Поставщики панели управления должны получить согласие партнеров CSP и управлять им вместо учетных данных, а также очистить все существующие учетные данные партнеров CSP.
 
 ## <a name="multi-factor-authentication"></a>Многофакторная идентификация
 
@@ -237,18 +248,18 @@ MFA — это механизм безопасности, при котором 
 
 ### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>Кто должен внедрять Модель безопасных приложений для выполнения требований?
 
-Корпорация Майкрософт представляет безопасную масштабируемую платформу аутентификации для партнеров по программе поставщиков облачных решений (CSP) и поставщиков панели управления (CPV), использующих Многофакторную идентификацию. Дополнительные сведения см. в [этом руководстве](http://assetsprod.microsoft.com/secure-application-model-guide.pdf). Все партнеры, которые разработали пользовательскую интеграцию с помощью каких-либо интерфейсов API (например, Azure Resource Manager, Microsoft Graph, API Центра партнеров и т. д.) или реализовали пользовательскую автоматизацию с помощью таких инструментов, как PowerShell, должны внедрить [платформу "Модель безопасных приложений"](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) для интеграции с облачными службами (Майкрософт).
+Корпорация Майкрософт представляет безопасную масштабируемую платформу аутентификации для партнеров по программе поставщиков облачных решений (CSP) и поставщиков панели управления (CPV), использующих Многофакторную идентификацию. Дополнительные сведения см. в [этом руководстве](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Все партнеры, которые разработали пользовательскую интеграцию с помощью каких-либо интерфейсов API (например, Azure Resource Manager, Microsoft Graph, API Центра партнеров и т. д.) или реализовали пользовательскую автоматизацию с помощью таких инструментов, как PowerShell, должны внедрить [платформу "Модель безопасных приложений"](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) для интеграции с облачными службами (Майкрософт).
 
 ### <a name="what-is-the-secure-application-model"></a>Что такое Модель безопасных приложений?
 
-Корпорация Майкрософт представляет безопасную масштабируемую платформу аутентификации для партнеров по программе поставщиков облачных решений (CSP) и поставщиков панели управления (CPV), использующих Многофакторную идентификацию. Дополнительные сведения см. в [этом руководстве](http://assetsprod.microsoft.com/secure-application-model-guide.pdf).  
+Корпорация Майкрософт представляет безопасную масштабируемую платформу аутентификации для партнеров по программе поставщиков облачных решений (CSP) и поставщиков панели управления (CPV), использующих Многофакторную идентификацию. Дополнительные сведения см. в [этом руководстве](https://assetsprod.microsoft.com/secure-application-model-guide.pdf).  
 
 ### <a name="how-do-i-implement-the-secure-application-model"></a>Как можно внедрить Модель безопасных приложений?
 
 Все партнеры, которые разработали пользовательскую интеграцию с помощью каких-либо интерфейсов API (например, Azure Resource Manager, Microsoft Graph, API Центра партнеров и т. д.) или реализовали пользовательскую автоматизацию с помощью таких инструментов, как PowerShell, должны внедрить [платформу "Модель безопасных приложений"](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) для интеграции с облачными службами (Майкрософт). Если этого не сделать, это может привести к нарушению работы из-за развертывания MFA. Приведенные ниже материалы содержат общие сведения и рекомендации по внедрению модели.
 
 - [Общие сведения о Модели безопасных приложений](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-- [Центр партнеров: руководство по Модели безопасных приложений](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+- [Центр партнеров: руководство по Модели безопасных приложений](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
 - [Партнеры по программе CSP: пример кода .NET для реализации Модели безопасных приложений](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
 - [Партнеры по программе CSP: пример кода Java для реализации Модели безопасных приложений](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [Документ об аутентификации Центра партнеров](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
@@ -256,11 +267,11 @@ MFA — это механизм безопасности, при котором 
 
 При использовании панели управления необходимо обратиться к поставщику по поводу внедрения платформы "Модель безопасных приложений".
 
-Поставщики панели управления обязаны [подключиться](https://docs.microsoft.com/partner-center/enroll-as-cpv) к Центру партнеров в качестве поставщика панели управления и немедленно приступить к выполнению этого требования. Ознакомьтесь с разделом [Центр партнеров: платформа "Модель безопасных приложений"](http://assetsprod.microsoft.com/secure-application-model-guide.pdf). Поставщики панели управления должны получить согласие партнеров CSP и управлять им вместо учетных данных, а также очистить все существующие учетные данные партнеров CSP.
+Поставщики панели управления обязаны [подключиться](https://docs.microsoft.com/partner-center/enroll-as-cpv) к Центру партнеров в качестве поставщика панели управления и немедленно приступить к выполнению этого требования. Ознакомьтесь с разделом [Центр партнеров: платформа "Модель безопасных приложений"](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Поставщики панели управления должны получить согласие партнеров CSP и управлять им вместо учетных данных, а также очистить все существующие учетные данные партнеров CSP.
 
 ### <a name="who-is-a-control-panel-vendor-cpv"></a>Кто такой поставщик панели управления (CPV)?
 
-Поставщик панели управления — это независимый поставщик программного обеспечения, который разрабатывает приложения, обеспечивающие интеграцию с интерфейсами API Центра партнеров, для партнеров CSP. Поставщик панели управления не является партнером CSP с прямым доступом к Панели мониторинга Центра партнеров или интерфейсам API Центра партнеров. Подробное описание доступно в разделе [Центр партнеров: руководство по Модели безопасных приложений](http://assetsprod.microsoft.com/secure-application-model-guide.pdf).
+Поставщик панели управления — это независимый поставщик программного обеспечения, который разрабатывает приложения, обеспечивающие интеграцию с интерфейсами API Центра партнеров, для партнеров CSP. Поставщик панели управления не является партнером CSP с прямым доступом к Панели мониторинга Центра партнеров или интерфейсам API Центра партнеров. Подробное описание доступно в разделе [Центр партнеров: руководство по Модели безопасных приложений](https://assetsprod.microsoft.com/secure-application-model-guide.pdf).
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>Нужно ли внедрять Модель безопасных приложений только для API или пакета SDK Центра партнеров?
 
@@ -296,7 +307,7 @@ MFA — это механизм безопасности, при котором 
 
 ### <a name="i-am-using-the-partner-center-sdk-will-sdk-automatically-adopt-the-secure-application-model"></a>Я использую SDK Центра партнеров. Этот пакет SDK внедрит Модель безопасных приложений автоматически?
 
-Нет, необходимо следовать указаниям, приведенным в [руководстве по Модели безопасных приложений](http://assetsprod.microsoft.com/secure-application-model-guide.pdf).
+Нет, необходимо следовать указаниям, приведенным в [руководстве по Модели безопасных приложений](https://assetsprod.microsoft.com/secure-application-model-guide.pdf).
 
 ### <a name="can-i-generate-a-refresh-token-for-the-secure-application-model-with-accounts-that-do-not-have-mfa-enabled"></a>Можно ли создать маркер обновления для Модели безопасных приложений с помощью учетных записей, для которых не включена MFA?
 
@@ -304,7 +315,7 @@ MFA — это механизм безопасности, при котором 
 
 ### <a name="how-should-my-application-obtain-an-access-token-if-we-enable-mfa"></a>Как моему приложению следует получать маркер доступа, если мы включаем MFA?
 
-Нужно будет выполнить указания из [руководства по Модели безопасных приложений](http://assetsprod.microsoft.com/secure-application-model-guide.pdf), в котором подробно описывается, как это сделать, чтобы выполнить новые требования к безопасности. Пример кода .NET можно найти [здесь](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model), а пример кода Java — [здесь](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model).
+Нужно будет выполнить указания из [руководства по Модели безопасных приложений](https://assetsprod.microsoft.com/secure-application-model-guide.pdf), в котором подробно описывается, как это сделать, чтобы выполнить новые требования к безопасности. Пример кода .NET можно найти [здесь](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model), а пример кода Java — [здесь](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model).
 
 ### <a name="as-a-cpv-do-i-create-an-azure-ad-application-in-our-cpv-tenant-or-the-tenant-of-the-csp-partner"></a>CPV создает приложение Azure AD в своем арендаторе CPV или в арендаторе партнера CSP?
 
@@ -312,7 +323,7 @@ CPV нужно будет создать приложение Azure Active Direc
 
 ### <a name="i-am-a-csp-that-is-using-app-only-authentication-do-i-need-to-make-any-changes"></a>Я являюсь CSP и использую аутентификацию только приложений. Нужно ли вносить какие-либо изменения?
 
-Аутентификация только приложений никак не затрагивается, так как учетные данные пользователей не используются для запроса маркера доступа. Если учетные данные пользователя являются общими, то поставщики панели управления (CPV) должны внедрить [платформу "Модель безопасных приложений](http://assetsprod.microsoft.com/secure-application-model-guide.pdf) и удалить все существующие учетные данные партнеров.
+Аутентификация только приложений никак не затрагивается, так как учетные данные пользователей не используются для запроса маркера доступа. Если учетные данные пользователя являются общими, то поставщики панели управления (CPV) должны внедрить [платформу "Модель безопасных приложений](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) и удалить все существующие учетные данные партнеров.
 
 ### <a name="as-a-cpv-can-i-leverage-the-app-only-authentication-style-to-get-access-tokens"></a>Может ли CPV использовать метод аутентификации только приложений для получения маркеров доступа?
 
@@ -347,7 +358,7 @@ CPV нужно будет создать приложение Azure Active Direc
 ### <a name="resources-for-adopting-secure-application-model"></a>Ресурсы по внедрению Модели безопасных приложений
 
 - [Общие сведения о Модели безопасных приложений](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-- [Центр партнеров: руководство по Модели безопасных приложений](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+- [Центр партнеров: руководство по Модели безопасных приложений](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
 - [Партнеры по программе CSP: пример кода .NET для реализации Модели безопасных приложений](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
 - [Партнеры по программе CSP: пример кода Java для реализации Модели безопасных приложений](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [Документ об аутентификации Центра партнеров](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)

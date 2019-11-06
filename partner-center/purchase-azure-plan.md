@@ -1,18 +1,18 @@
 ---
 title: Приобретение плана Azure | Центр партнеров
 ms.topic: article
-ms.date: 10/01/2019
-description: Как приобрести несколько подписок Azure без необходимости отправлять отдельный заказ для каждой подписки.
+ms.date: 11/01/2019
+description: Приобретение нескольких подписок Azure в плане Azure.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 0eead95dc6847dd1eca8f54d7a6e15f8312f9481
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 6415235db3e0307e9185e69c1b8beee48512c792
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171190"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428502"
 ---
 # <a name="purchase-the-azure-plan"></a>Приобретение плана Azure
 
@@ -30,10 +30,11 @@ ms.locfileid: "72171190"
 
 ![Приобретение](images/azure/Azurepurchase1.png)
 
-Партнер должен убедиться, что клиент изучил и принял условия клиентского договора с Майкрософт. Дополнительные сведения о том, как партнер может это сделать, см. в разделе [Подтверждение принятия клиентом соглашения Майкрософт для клиентов](https://docs.microsoft.com/en-us/partner-center/confirm-customer-agreement). Дополнительные материалы доступны в [коллекции ресурсов](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
+Партнер должен убедиться, что клиент изучил и принял условия клиентского договора с Майкрософт. Дополнительные сведения о том, как партнер может это сделать, см. в разделе [Подтверждение принятия клиентом соглашения Майкрософт для клиентов](https://docs.microsoft.com/partner-center/confirm-customer-agreement). Дополнительные материалы доступны в [коллекции ресурсов](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
-1. Подтверждение операций
-2. Приглашение клиента подписать клиентский договор непосредственно с корпорацией Майкрософт. 
+**Как подтвердить**
+1. Можно подтвердить с помощью цифровой подписи или
+2. пригласить клиента подписать клиентский договор непосредственно с корпорацией Майкрософт. 
 
 ### <a name="to-confirm"></a>Подтверждение 
 
@@ -66,7 +67,7 @@ ms.locfileid: "72171190"
 
 Обратите внимание на то, что в настоящее время в качестве области резервирования можно задать только **Общая**. 
 
-![Общая область](images/azure/scopeshared.png)
+![Общая область](images/azure/addprods1.png)
 
 Вот как можно управлять резервированием клиента на портале Azure. 
 
@@ -78,7 +79,7 @@ ms.locfileid: "72171190"
 
 На странице **Подписки** в разделе данных об использовании разверните **План Azure**, чтобы просмотреть связанные подписки Azure в плане Azure.
 
-![Просмотр списка](images/azure/viewlist.png)
+![Просмотр списка](images/azure/addprods2.png) 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Добавление подписок и настройка ресурсов
