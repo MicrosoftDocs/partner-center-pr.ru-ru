@@ -2,17 +2,19 @@
 title: Узнайте о преимуществах Microsoft Partner Network для перехода на рынок | Центр партнеров
 ms.topic: article
 ms.date: 10/31/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Как член Microsoft Partner Network, вы имеете право на определенные преимущества для перехода на рынок. Узнайте о различных уровнях преимуществ перехода на рынок и о том, как активировать их и управлять ими в центре партнеров.
 author: MicheleHope
 ms.author: v-mihope
 keywords: MPN, преимущества участия, членство, преимущества перехода на рынок, переход на рынок, переход на рынок, GTM, членство Gold, Серебряное членство
 ms.localizationpriority: medium
-ms.openlocfilehash: 2fc160c0f98b13c8f3576e518dfdb625162beeb1
-ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
+ms.openlocfilehash: e1a71bc69982e4ff86b8442fc1dd3ec20fc486ea
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73413593"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653257"
 ---
 # <a name="explore-your-mpn-go-to-market-gtm-membership-benefits"></a>Узнайте о преимуществах участия в MPNе на рынке (GTM)
 
@@ -41,7 +43,7 @@ ms.locfileid: "73413593"
 Все члены MPN имеют доступ к определенным стандартным преимуществам GTM. К ним относятся доступ к маркетинговым ресурсам, платформе включения продаж и цифровому маркетингу по запросу. Партнерам, которые достигают серебряных или золотых компетенций, могут быть еще более GTMые преимущества.
 
 >[!NOTE]
->Преимущества GTM могут быть дополнены и изменены. Перейдите на страницу Microsoft Partner Network [Переход на рынок](https://partner.microsoft.com/en-us/membership/go-to-market) , чтобы узнать о последних преимуществах GTM, доступных на уровне компетенции.
+>Преимущества GTM могут быть дополнены и изменены. Перейдите на страницу Microsoft Partner Network [Переход на рынок](https://partner.microsoft.com/membership/go-to-market) , чтобы узнать о последних преимуществах GTM, доступных на уровне компетенции.
 
 Дополнительные преимущества GTM, доступные для тех, у которых есть **серебряные** уровни компетенции:
 
@@ -63,7 +65,7 @@ ms.locfileid: "73413593"
 
 Чтобы просмотреть преимущества GTM:
 
-1. Войдите на [панель мониторинга]( https://docs.microsoft.com/en-us/partner-center/)центра партнеров.
+1. Войдите на [панель мониторинга]( https://docs.microsoft.com/partner-center/)центра партнеров.
 
 2. В меню слева выберите **MPN**. Затем выполните одно из следующих действий.
 
