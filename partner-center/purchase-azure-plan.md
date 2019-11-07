@@ -1,18 +1,18 @@
 ---
 title: Приобретение плана Azure | Центр партнеров
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/03/2019
 description: Приобретение нескольких подписок Azure в плане Azure.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 6415235db3e0307e9185e69c1b8beee48512c792
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 2fefc10c0b5043e6617f4cea9e9c0245a8532321
+ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428502"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "73595922"
 ---
 # <a name="purchase-the-azure-plan"></a>Приобретение плана Azure
 
@@ -53,7 +53,7 @@ ms.locfileid: "73428502"
   
 Вы можете также от имени клиентов купить резервирования Microsoft Azure в плане Azure в Центре партнеров.
 
-1. В меню Центра партнеров на Панели мониторинга выберите **Клиенты**. Найдите клиента, желающего приобрести резервирования Azure, затем выберите стрелку вниз, чтобы развернуть строку клиента. 
+1. В меню Центра партнеров на [Панели мониторинга](https://partner.microsoft.com/dashboard/) выберите **Клиенты**. Найдите клиента, желающего приобрести резервирования Azure, затем выберите стрелку вниз, чтобы развернуть строку клиента. 
 
 2. Выберите **Добавить продукты**, а затем выберите **Azure**. 
 - Выберите сегмент рынка клиента из списка **Сегмент**. 
