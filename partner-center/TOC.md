@@ -1,4 +1,4 @@
-# [Сведения о Центре партнеров Майкрософт](index.md)
+# [Сведения о Центре партнеров Майкрософт](index.yml)
 
 # [Членство Partner Network](mpn-overview.md)
 ## [Создание учетной записи Центра партнеров](mpn-create-a-partner-center-account.md)
