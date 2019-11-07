@@ -1,0 +1,140 @@
+### YamlMime:Hub
+title: Документация Центра партнеров
+summary: Центр партнеров помогает расширить возможности компании с помощью Microsoft Partner Network (MPN), программы поставщиков облачных решений (CSP) и многого другого.
+brand: windows
+metadata:
+  title: Документация Центра партнеров
+  description: Центр партнеров помогает расширить возможности компании с помощью Microsoft Partner Network (MPN), программы поставщиков облачных решений (CSP) и многого другого.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-csp
+  ms.topic: hub-page
+  author: LauraBrenner
+  ms.author: labrenne
+  manager: evansma
+  ms.date: 11/05/2019
+  ms.openlocfilehash: 66e35332bc8deaa4357c1b6c4296707fd5f0c67a
+  ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 11/06/2019
+  ms.locfileid: "73654410"
+highlightedContent:
+  items:
+  - title: Войдите, чтобы просмотреть последние объявления
+    itemType: whats-new
+    url: https://partner.microsoft.com/pcv/announcements
+  - title: Еще не являетесь партнером? Присоединитесь к Microsoft Partner Network (MPN) сегодня.
+    itemType: get-started
+    url: https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx
+  - title: Присоединитесь к программе ранних последователей API и SDK
+    itemType: deploy
+    url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
+  - title: Новый клиентский договор с Майкрософт
+    itemType: concept
+    url: confirm-customer-agreement.md
+  - title: Многофакторная проверка подлинности и рекомендации по обеспечению безопасности
+    itemType: overview
+    url: partner-security-requirements.md
+  - title: 'Новая коммерческая модель в Центре партнеров: план Azure'
+    itemType: whats-new
+    url: azure-plan-get-started.md
+conceptualContent:
+  title: Работа в Центре партнеров
+  items:
+  - title: Регистрация и управление учетной записью
+    links:
+    - url: mpn-create-a-partner-center-account.md
+      itemType: how-to-guide
+      text: Создание учетной записи Центра партнеров
+    - url: manage-locations.md
+      itemType: how-to-guide
+      text: Управление расположениями
+    - url: azure-active-directory-tenants-and-partner-center.md
+      itemType: how-to-guide
+      text: Управление арендатором
+    footerLink:
+      url: partner-center-account-setup.md
+      text: Дополнительные сведения
+  - title: Связь с клиентами
+    links:
+    - url: csp-offers.md
+      itemType: how-to-guide
+      text: Продажа продуктов и услуг
+    - url: assign-licenses-to-users.md
+      itemType: how-to-guide
+      text: Управление лицензиями клиента
+    - url: see-your-customer-list.md
+      itemType: how-to-guide
+      text: Просмотр списка клиентов
+    footerLink:
+      url: customer-accounts.md
+      text: Дополнительные сведения
+  - title: Развивайте ваш бизнес
+    links:
+    - url: referrals.md
+      itemType: how-to-guide
+      text: Авторы и бизнес-профили
+    - url: promotions.md
+      itemType: how-to-guide
+      text: Использование преимуществ акций
+    - url: get-special-pricing-for-offers.md
+      itemType: how-to-guide
+      text: Продажи представителям определенных отраслей
+    footerLink:
+      url: grow-your-business.md
+      text: Дополнительные сведения
+  - title: Обще сведения о выставлении счетов и налогах
+    links:
+    - url: billing-basics.md
+      itemType: how-to-guide
+      text: Основы выставления счетов
+    - url: read-your-bill.md
+      itemType: how-to-guide
+      text: Просмотр счета
+    - url: tax-and-tax-exemptions.md
+      itemType: how-to-guide
+      text: Налоги и освобождение от уплаты налогов
+    footerLink:
+      url: billing.md
+      text: Дополнительные сведения
+  - title: Анализ бизнес-данных
+    links:
+    - url: partner-contribution-indicators.md
+      itemType: how-to-guide
+      text: Индикаторы вклада партнеров
+    - url: analyze-azure-usage.md
+      itemType: how-to-guide
+      text: Данные об использовании ресурсов Azure клиентами
+    - url: analyze-indirect-resellers.md
+      itemType: how-to-guide
+      text: Показатели работы косвенных торговых посредников
+    footerLink:
+      url: data-analysis-lp.md
+      text: Дополнительные сведения
+  - title: Получение и предоставление поддержки
+    links:
+    - url: customer-support.md
+      itemType: how-to-guide
+      text: Предоставление поддержки клиентам
+    - url: check-service-health.md
+      itemType: how-to-guide
+      text: Проверка работоспособности службы
+    - url: report-problems-with-partner-center.md
+      itemType: how-to-guide
+      text: Сообщение о проблемах Центра партнеров
+    footerLink:
+      url: support-from-microsoft.md
+      text: Дополнительные сведения
+additionalContent:
+  sections:
+  - title: Ключевые задачи и инструменты
+  - items:
+    - title: Получение Microsoft Action Pack (MAPS)
+      summary: Купите или продлите предложения преимуществ, включая подписку Microsoft Action Pack.
+      url: mpn-get-action-pack.md
+    - title: Справочные материалы по API и пакетам SDK Центра партнеров
+      summary: Используйте пакет SDK Центра партнеров, чтобы управлять данными клиентов, подписок и заказов.
+      url: https://docs.microsoft.com/partner-center/develop/
+    - title: Будьте в курсе
+      summary: Присоединитесь к нашему сообществу CSP в Yammer.
+      url: https://go.microsoft.com/fwlink/p/?linkid=851605
