@@ -2,18 +2,20 @@
 title: Соглашения CSP, прайс-листы и предложения | Центр партнеров
 ms.topic: article
 ms.date: 09/23/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: В этой статье приводятся ссылки на руководства по программе поставщиков облачных решений, соглашения партнеров, соглашения клиентов, прейскуранты и предложения.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: руководства по программе csp, руководство по программе, партнерские соглашения, соглашение с клиентом, прейскуранты, предложения
 ms.localizationpriority: medium
-ms.openlocfilehash: 03f6730f8b52e17c044e67f1ced982fbbabab59d
-ms.sourcegitcommit: 8a494949f5c4efdcf33b01760d2ae10405f1daae
+ms.openlocfilehash: 6463c7c87773a281f455de9ef00deecc300ac830
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "71204629"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653571"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Руководство по программе поставщиков облачных решений, соглашения, прейскуранты и предложения
 
@@ -73,4 +75,4 @@ ms.locfileid: "71204629"
 
 Для партнеров CSP, которые используют API Crest Usage Record, корпорация Майкрософт также публикует список служб Azure в CSP на странице **Цены и предложения**.
 
-Чтобы узнать о предложениях Azure Marketplace, опубликованных независимыми поставщиками программного обеспечения, перейдите на страницу **Marketplace** в меню навигации слева. Сейчас в Центре партнеров можно приобрести только продукты типа SaaS (программное обеспечение как услуга). Чтобы узнать других типах предложений Azure Marketplace, необходимо посетить портал Azure.
+Чтобы узнать о предложениях Azure Marketplace, опубликованных независимыми поставщиками программного обеспечения, перейдите на страницу **Marketplace** в меню навигации слева. Сейчас в Центре партнеров можно приобрести только продукты типа SaaS (программное обеспечение как услуга). Для получения других типов предложений Azure Marketplace необходимо посетить портал Azure.

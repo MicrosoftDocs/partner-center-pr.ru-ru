@@ -2,17 +2,19 @@
 title: Управление преимуществами членства в Microsoft Partner Network | Центр партнеров
 ms.topic: article
 ms.date: 10/29/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Как член Microsoft Partner Network вы имеете право на приобретение определенных преимуществ. В этой статье объясняется, как активировать и управлять преимуществами членства в центре партнеров.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, преимущества членства, членство
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f958bf9fceb9f11edbd63b139796e4944486310
-ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
+ms.openlocfilehash: be9f4ab4bc23308c3f2a342e6debba1338de4454
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73413333"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653317"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Управление преимуществами членства в Microsoft Partner Network
 
@@ -35,7 +37,7 @@ ms.locfileid: "73413333"
 
 Пакеты преимуществ включают выделение лицензированного программного обеспечения, облачные службы, подписки Visual Studio и поддержку. Пакеты преимуществ могут также включать некоторые преимущества для перехода на рынок. Вы можете получить сведения о подписке Action Pack на сайте [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
-Чтобы просмотреть все ваши преимущества членства и управлять ими, перейдите на страницу [ **преимуществ** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (требуется вход). Кроме того, вы можете войти на [панель мониторинга](https://docs.microsoft.com/en-us/partner-center/)центра партнеров, выбрать [**вариант преимуществ**] в левом меню, а затем выбрать все возможные преимущества.  
+Чтобы просмотреть все ваши преимущества членства и управлять ими, перейдите на страницу [ **преимуществ** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (требуется вход). Кроме того, вы можете войти на [панель мониторинга](https://docs.microsoft.com/partner-center/)центра партнеров, выбрать [**вариант преимуществ**] в левом меню, а затем выбрать все возможные преимущества.  
 
 #### <a name="manage-software-benefits"></a>Управление преимуществами программного обеспечения
 
@@ -108,6 +110,7 @@ ms.locfileid: "73413333"
 
 - Глобальный администратор
 - Администратор партнера MPN
+
 
 1. Выберите **преимущества перехода на рынок** , чтобы просмотреть список преимуществ перехода на рынок Майкрософт.
 

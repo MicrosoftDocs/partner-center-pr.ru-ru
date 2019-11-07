@@ -2,17 +2,19 @@
 title: Программа Software Assurance Training Voucher (SATV) в Центре партнеров | Центр партнеров
 ms.topic: article
 ms.date: 10/11/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Регистрация в программе обучения Software Assurance
 author: LauraBrenner
 ms.author: labrenne
 keywords: купоны на обучение, Software Assurance, обучение, регистрация в SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0b5b91efea2814582e64e147cf3bf9f7c22bdd89
-ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
+ms.openlocfilehash: 60d60ecb5dca320bc0fc0da2908db95bd200a7be
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73142014"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651600"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Программа Software Assurance Training Voucher (SATV) в Центре партнеров
 
@@ -22,7 +24,7 @@ ms.locfileid: "73142014"
 
 ## <a name="get-started"></a>Начало работы
 
-Если вы не знакомы со службами обучения Software Assurance, выполните все приведенные ниже действия. Если вы уже участвуете в программе обучения, начните с четвертого (4) шага. 
+Если вы не знакомы со службами обучения Software Assurance, выполните все приведенные ниже действия. Если вы уже активно находитесь в программе обучения, начните с четвертого шага (4) ниже. 
 
 1. Подтверждение права на участие в программе
 2. Регистрация в программе обучения.
@@ -39,11 +41,11 @@ ms.locfileid: "73142014"
 
 Прежде чем вы сможете зарегистрироваться в программе SATV, необходимо сначала выполнить требования режима Microsoft Partner Network Learning, который заменяет компетенцию Microsoft Learning. Узнайте, как приступить к работе в [режиме обучения.](https://partner.microsoft.com/membership/learning-partners)
 
-Вы можете проверить соответствие вашей компании, включая требования к компетенции и оценке, в Центре партнеров. Чтобы получить дополнительные сведения и снимки экрана, следуйте инструкциям, приведенным на [шаге 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса сатв.
+Вы можете проверить возможность вашей компании, включая применимые требования к компетенции и оценке в центре партнеров. Чтобы получить дополнительные сведения и снимки экрана, следуйте инструкциям, приведенным на [шаге 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса сатв.
 
 ## <a name="enroll-in-the-training-program"></a>Регистрация в программе обучения.
 
-Если компания соответствует требованиям, а участники программы прошли курс обучения по соответствию, можно подписывать соглашение участника в программе Software Assurance Training Voucher и регистрироваться. Обязательно просмотрите все [политики программы сатв](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP), а затем следуйте инструкциям на [шаге 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса, чтобы завершить процесс регистрации сатв в центре партнеров.   
+После того как ваша компания соответствует требованиям к допустимости, а участники программы прошли курс обучения по соответствию требованиям, можно приступать к подписанию соглашения программы обучения Software Assurance и регистрации. Обязательно просмотрите все [политики программы сатв](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP), а затем следуйте инструкциям на [шаге 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса, чтобы завершить процесс регистрации сатв в центре партнеров.   
 
 
 ## <a name="confirm-course-eligibility"></a>Подтверждение права на прохождение курса.
@@ -55,7 +57,7 @@ ms.locfileid: "73142014"
 
 ## <a name="validate-and-reserve-customer-vouchers"></a>Проверка и резервирование ваучеров клиента
 
-Теперь вы можете зарезервировать и погасить ваучеры, а также начать обучение клиентов. Администратору MPN вашей компании доступно средство управления ваучерами в Центре партнеров и возможность добавления пользователей, которым необходимо работать со средством. Инструкции по проверке и резервированию ваучеров см. в [шаге 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса.
+Теперь вы можете зарезервировать и погасить ваучеры, а также начать обучение клиентов. Администратор MPN вашей компании имеет доступ к средству управления ваучерами в центре партнеров и может добавлять пользователей, которым необходимо работать в средстве. Инструкции по проверке и резервированию ваучеров см. в [шаге 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса.
 
 ## <a name="deliver-training-and-activate-product"></a>Предоставление обучения и активация продукта.
 

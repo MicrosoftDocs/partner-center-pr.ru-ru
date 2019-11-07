@@ -2,17 +2,19 @@
 title: Развивайте свой бизнес с помощью рекомендаций от Майкрософт | Центр партнеров
 ms.topic: article
 ms.date: 08/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Получайте потенциальных клиентов и связывайтесь с пользователями, которым нужна помощь в реализации продуктов и решений Майкрософт.
 author: LauraBrenner
 ms.author: labrenne
 keywords: рекомендации, бизнес-профиль, поиск партнера
 ms.localizationpriority: medium
-ms.openlocfilehash: de46c7546ea424c313d0f8216db86d515e851da1
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: a213c9b3a031b355f045b8fc976fac1dcc27e756
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958739"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652159"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -31,5 +33,5 @@ ms.locfileid: "68958739"
 Чтобы приступить к работе, просмотрите это короткое видео [Optimize your business profile](https://player.vimeo.com/video/252788046) (Оптимизация бизнес-профиля).  
 
 <!-- 
-*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you’re getting in front of your target customers.
+*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you're getting in front of your target customers.
 -->

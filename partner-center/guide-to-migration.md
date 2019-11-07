@@ -2,17 +2,19 @@
 title: Инструкции по переходу с PMC на центр партнеров | Центр партнеров
 ms.topic: article
 ms.date: 04/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Что следует учитывать при переносе компании из PMC в центр партнеров
 author: LauraBrenner
 ms.author: labrenne
-keywords: PMC, миграция, переход в центр партнеров
+keywords: PMC, миграция, переход в Центр партнеров
 ms.localizationpriority: medium
-ms.openlocfilehash: f8e0b1fa4b31608ed4031832018c0a003abf0ae9
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: a39c4114758004ff4291bc577182fd8ba469149b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708920"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653100"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Инструкции по переходу с PMC на центр партнеров
 
@@ -68,7 +70,7 @@ ms.locfileid: "68708920"
 ![Пригласить сотрудников](images/migration/invite.png)
 
 
-Если вы выполнили вход с помощью существующего клиента AAD, ваши сотрудники будут перемещены вместе с вами. В этом случае назначьте роли сотрудников, которые определяют, что они могут делать в центре партнеров. Примечание. Роли в центре партнеров отличаются от ролей в PMC. Дополнительные сведения см. [в статье переход от PMC к центру партнеров](move-pmc-pc-map.md).
+Если вы выполнили вход с помощью существующего клиента AAD, ваши сотрудники будут перемещены вместе с вами. В этом случае назначьте роли сотрудников, которые определяют, что они могут делать в центре партнеров. Примечание. роли в центре партнеров отличаются от ролей в PMC. Дополнительные сведения см. [в статье переход от PMC к центру партнеров](move-pmc-pc-map.md).
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>Проверьте домен и станьте глобальным администратором  
 
@@ -89,13 +91,13 @@ ms.locfileid: "68708920"
 
 ![Ознакомьтесь с обзором](images/migration/fre.png)
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
-- [Создание учетных записей пользователей](create-user-accounts-and-set-permissions.md)
-- [Назначение ролей и разрешений пользователя](permissions-overview.md)
-- [Управление программами членства](renew-mpn-offers.md)
-- [Создание бизнес-профиля компании](create-a-marketing-profile.md)
-- [Связь с клиентами через ссылки](responding-to-referrals.md)
+- [Create user accounts and assign permissions](create-user-accounts-and-set-permissions.md) (Создание учетных записей пользователей и назначение разрешений)
+- [Assign users roles and permissions](permissions-overview.md) (Назначение пользователям ролей и разрешений)
+- [Продление подписки на предложения MPN](renew-mpn-offers.md)
+- [Создание бизнес-профиля для получения потенциальных клиентов от Майкрософт](create-a-marketing-profile.md)
+- [Respond to referrals](responding-to-referrals.md) (Ответ на ссылки)
 
 ## <a name="see-also"></a>См. также
 

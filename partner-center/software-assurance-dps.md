@@ -2,21 +2,23 @@
 title: Службы планирования Software Assurance в центре партнеров | Центр партнеров
 ms.topic: article
 ms.date: 01/21/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Зарегистрируйтесь в службах планирования, чтобы обеспечить планирование перед развертыванием для корпоративных клиентов.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Предварительное развертывание, планирование, Software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 18c59996829e592edd1f137d9b19311f34158ef0
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 36913950ae7b8b2b9cdde025bfa66f20dec374a7
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708884"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651623"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Службы планирования Software Assurance в Центре партнеров
 
-Развивайте свой бизнес, зарегистрировавшись в программе Software Assurance Planning Services. Корпорация Майкрософт компенсирует партнеров по обеспечению обучения, планированию и другим услугам для корпоративных клиентов, имеющих участие в программе Software Assurance.
+Развивайте свой бизнес, зарегистрировавшись в программе Software Assurance Planning Services. Корпорация Майкрософт компенсирует партнерам предоставленное обучение, планирование и другие услуги для корпоративных клиентов, использующих программу Software Assurance.
 
 Как утвержденный партнер по службам планирования Корпорация Майкрософт компенсирует обязательства по планированию перед развертыванием для корпоративных клиентов. Участие в этой программе может помочь привлечь других клиентов, стать доверенным партнером по планированию и привести к дополнительным участием клиентов.
 
@@ -32,8 +34,8 @@ ms.locfileid: "68708884"
 3. Обновление профиля компании в каталоге партнеров
 4. Резервирование ваучера клиента 
 5. Завершение участия и отправка отчета о завершении
-6. Активировать ваучер 
-7. Запрос платежа от корпорации Майкрософт
+6. Погашение ваучера. 
+7. Запрос оплаты от Майкрософт
 
 В этой статье объясняется, как выполнить каждый шаг.
 

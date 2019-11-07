@@ -2,17 +2,19 @@
 title: Продажа Office 365 для государственных организаций в средах GCC в рамках программы поставщиков облачных решений | Центр партнеров
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Партнеры корпорации Майкрософт, участвующие в программе CSP, могут продавать Office 365 для государственных организаций в средах GCC для подписок CSP клиентам, отвечающим необходимым требованиям. Office 365 правительства GCC для CSP — это набор облачных служб для повышения производительности, разработанных для США государственных и правительственных подрядчиков.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: caf8c6614a360c45c9976277b9dca14197391f39
-ms.sourcegitcommit: 718064303cc8a632005a2b4561bc34100ec93477
+ms.openlocfilehash: 193cc10b02e0bee75799e5c64e59e3a3abe04a30
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73168559"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653560"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Продажа Office 365 для государственных организаций в средах GCC для подписок CSP клиентам, отвечающим необходимым требованиям
 

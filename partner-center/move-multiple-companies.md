@@ -2,17 +2,19 @@
 title: Инструкции по переносу нескольких компаний из PMC в Центр партнеров | Центр партнеров
 ms.topic: article
 ms.date: 08/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Что нужно учитывать при переносе нескольких компаний из PMC в Центр партнеров
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, миграция, переход в Центр партнеров
 ms.localizationpriority: medium
-ms.openlocfilehash: c0a03412a9b72c3e4c7784511720ea716f6f3abf
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: 41f6b9cefb8abc3325c156f465c2a630955b0ec3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958755"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654345"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>Перенос нескольких компаний в Центр партнеров
 
@@ -20,7 +22,7 @@ ms.locfileid: "68958755"
 
 ## <a name="move-your-additional-accounts-into-partner-center"></a>Перемещение дополнительных учетных записей в Центр партнеров 
 
-Так как вы уже переместили одну учетную запись компании на ПК, при входе вы узнаете, какая учетная запись уже находится в Центре партнеров. 
+Так как вы переместили одну учетную запись компании на ПК, при входе вы узнаете, какая учетная запись уже находится в центре партнеров. 
 
 
 Если после переноса вы обнаружите, что в качестве юридического подразделения указана неправильная учетная запись компании, ее можно изменить.

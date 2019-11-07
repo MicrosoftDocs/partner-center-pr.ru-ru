@@ -2,21 +2,23 @@
 title: Настройка каталога | Центр партнеров
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: В каталоге перечислены все продукты и надстройки Майкрософт, которые партнеры могут продавать.
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1617383b3cca62b30d4bb6825649f44985078118
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: bc06bf037811aa9d572febbe2bb88e652ee6f6b7
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135554"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653419"
 ---
 # <a name="customize-the-catalog"></a>Настройка каталога
 
-**Применяется к**
+**Относится к**
 
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud for US Government
@@ -26,7 +28,7 @@ ms.locfileid: "62135554"
 
 **Настройка каталога**
 
-1.  Перейдите к меню центра партнеров &gt; **продавать** &gt; **каталога**.
+1.  Перейдите в меню центра партнеров &gt; **продать** &gt; **Catalog**.
 2.  Выберите не более пяти предложений для отображения вверху каталога.
 
  

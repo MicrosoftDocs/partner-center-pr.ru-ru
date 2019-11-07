@@ -2,18 +2,20 @@
 title: Центр партнеров — обзор резервирования Microsoft Azure | Центр партнеров
 ms.topic: article
 ms.date: 11/05/2018
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Партнеры в программе поставщика облачных решений (CSP) могут предложить своим клиентам Microsoft Azure резервирования.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, резервирования, управление, выставление счетов, приобретение, Azure RI, Azure Reserved Instances
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a16726127705acde1bfcee23a5fe2b8c5ccafee7
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 757e4c6136c5911dfc7eec2a6afa461bc4e465c0
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708792"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653810"
 ---
 # <a name="partner-center---sell-microsoft-azure-reservations"></a>Центр партнеров — продажа Microsoft Azure резервированиях
 
@@ -44,7 +46,7 @@ ms.locfileid: "68708792"
 
 ## <a name="azure-reservations-resources"></a>Ресурсы о резервированиях Azure
 
-|**Дополнительные сведения**   |**Прочитать этот**    |
+|**Дополнительные сведения**   |**Прочитайте это**    |
 |:-----------------------------|:-----------------|
 | Документация по резервированию Azure для ваших клиентов | [Что такое резервирование Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 |Приобретение резервирований Azure для клиентов в центре партнеров   |[Приобретение резервирований Azure](azure-reservations-buying.md)

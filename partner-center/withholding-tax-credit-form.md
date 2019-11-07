@@ -2,18 +2,20 @@
 title: Убедитесь, что вы кредитовать за удержание налога | Центр партнеров
 ms.topic: article
 ms.date: 05/28/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Для открытия запроса на обслуживание потребуется как кредитный налоговый счет, так и сертификат подоходного налога.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
 keywords: Кредит налога на подоход, налоговые кредиты, налоговый кредит, форма налога
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d13c823297c2f681d0608a16d21a314cf9c4e1a
-ms.sourcegitcommit: e528ce5b05b89b19ba8cf2e48518f57067de9a2b
+ms.openlocfilehash: 654e4f32be1e86ce455c7d0409469bab37473f8b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "72892406"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653946"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Убедитесь, что вы кредитовать за удержание налога
 
@@ -49,7 +51,7 @@ ms.locfileid: "72892406"
 
 2. Выберите **CSP**.
 
-3. В поле **CSP — выставление счетов и оплата**выберите тип проблемы — **подоходный налог** и нажмите **кнопку Да**. 
+3. В разделе **CSP — выставление счетов и оплата**выберите тип проблемы — **подоходный налог** и нажмите **кнопку Да**. 
 
 4. При отправке запроса на обслуживание обязательно присоедините налоговый кредит и Цифровые копии налоговых сертификатов.
 

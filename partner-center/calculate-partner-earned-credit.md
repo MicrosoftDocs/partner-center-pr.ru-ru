@@ -2,17 +2,19 @@
 title: Как рассчитывается полученный кредит от партнера | Центр партнеров
 ms.topic: article
 ms.date: 09/17/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Как рассчитывается процент полученного кредита плана Azure
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: eb0dd5ef22632a85ca0227cc9e988a88263e9ddf
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 402ee0e2084191c7d4f592dd91480be8e1bd0341
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318769"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653720"
 ---
 # <a name="how-the-partner-earned-credit-pec-is-calculated"></a>Как вычисляется кредитоспособный кредит (PEC) партнера
 
@@ -44,4 +46,4 @@ ms.locfileid: "71318769"
 
 - [План Azure — выставление счетов](azure-plan-billing.md)
 
-- [Прейскурант для нового коммерческого опыта в CSP](azure-plan-price-list.md)
+- [Прейскурант для новой коммерческой модели в CSP](azure-plan-price-list.md)

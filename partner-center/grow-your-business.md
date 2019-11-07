@@ -2,17 +2,19 @@
 title: Развивайте свой партнерский бизнес с Майкрософт | Центр партнеров
 ms.topic: article
 ms.date: 05/23/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Ресурсы для развития партнерского бизнеса с Майкрософт. Сведения о получении потенциальных клиентов (рекомендаций) от Майкрософт.
 keywords: рекомендации, реагирование на рекомендации, потенциальные клиенты, возможные клиенты, маркетинговый профиль, бизнес-профиль, развития вашего бизнеса, бизнес-возможности, компетенции, членство уровня silver, членство уровня gold, пробные версии, расширение рынка, национальное облако
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: dc55055229dfc7cf52a50dba776e6234d481d5da
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: b9447ec8b03e92e85ea332e5dac3f9d79d8be0fc
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958732"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653050"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Развивайте свой партнерский бизнес вместе с Майкрософт 
 

@@ -2,17 +2,19 @@
 title: Роли и разрешения, доступные для получения кредита на получение партнеров | Центр партнеров
 ms.topic: article
 ms.date: 09/17/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Роли и разрешения, а также получившийся кредит партнера
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: edb43070cf0d34ce893bf13a501b91f32e904ad7
-ms.sourcegitcommit: e73d8a1d74ed4ea87a5330b00fe119222bc2c3da
+ms.openlocfilehash: c57effb8d7550da05ca55afd3d14ea9aa9f022ba
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "71093261"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653782"
 ---
 # <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>Роли и разрешения, доступные для получения кредита на получение партнеров
 
@@ -21,7 +23,7 @@ ms.locfileid: "71093261"
 >[!Important]
 >Эти роли и разрешения не совпадают с ролями и разрешениями, которые пользователь должен работать в центре партнеров.
 
-|**Role**   |**Описание**   |**Подходящие PEC**   |
+|**Роль**   |**Описание**   |**Подходящие PEC**   |
 |-----------------|:------------------|:--------------|
 |Владелец  |Вы управляете всеми ресурсами, включая доступ к ресурсам.|"Да",|
 |Участник |Вы управляете всеми ресурсами, кроме предоставления доступа к ресурсам.|"Да",|

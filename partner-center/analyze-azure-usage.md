@@ -1,6 +1,8 @@
 ---
 title: Анализ использования Azure | Центр партнеров
 ms.date: 08/02/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Используйте центр партнеров для получения данных об использовании подписок Azure ваших клиентов.
 author: LauraBrenner
 ms.author: labrenne
@@ -9,16 +11,16 @@ ms.topic: article
 keywords: бизнес-данные
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0cdf48f959591f11994b0538532fadbcb4f11a89
-ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
-ms.translationtype: HT
+ms.openlocfilehash: b4c85cc591dfe43feb6a442de1b239520b56fe45
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "68781983"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653379"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Получение данных об использовании подписок Azure клиентов
+# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Получение данных об использовании клиентских подписок Azure
 
-Относится к:
+Область применения
 
 - Центр партнеров
 
@@ -31,9 +33,9 @@ ms.locfileid: "68781983"
 
 ## <a name="summary"></a>Сводка
 
-- **Всего продано подписок Azure**: Количество подписок, проданных за указанный период времени  
-- **Клиенты с**использованием: Число клиентов с использованием Azure за указанный период времени  
-- **Клиенты без использования**: Количество клиентов без использования Azure за указанный период времени  
+- **Общее число проданных подписок Azure**: количество подписок, проданных за указанный период времени  
+- **Клиенты с использованием**: количество клиентов с использованием Azure за указанный период времени  
+- **Клиенты без использования**: количество клиентов без использования Azure за указанный период времени  
 
 ## <a name="top-5-customers-in-category"></a>Пять основных клиентов в категории
 
@@ -49,8 +51,8 @@ ms.locfileid: "68781983"
 
 ## <a name="azure-subscription-churn"></a>Обработка подписок Azure
 
-- **Активные подписки**: Число активных подписок по датам  
-- Отмененные **подписки**: Число подписок, отмененных или приостановленных на дату  
+- **Активные подписки**: число активных подписок по дате  
+- **Отозванные подписки**: количество отозванных или приостановленных подписок по дате  
 
 ## <a name="customer-count"></a>Число клиентов
 

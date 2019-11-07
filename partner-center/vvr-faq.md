@@ -2,19 +2,21 @@
 title: 'Средство проверки документов: вопросы и ответы | Центр партнеров'
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Проверка и резервирование ваучеров в центре партнеров
 author: LauraBrenner
 ms.author: labrenne
 keywords: Ваучеры обучения, Software Assurance, обучение, проверка ваучеров, резервный ваучер
 ms.localizationpriority: medium
-ms.openlocfilehash: ce1908e74169c3de4d2cd6d2d43ece379bf9d439
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 02da186de1918625068b08d82fee17892074159e
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820508"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651054"
 ---
-# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Вопросы и ответы. Использование инструмента проверки и погашения ваучеров 
+# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Вопросы и ответы: использование средства проверки и погашения ваучеров 
 
 **Относится к**
 
