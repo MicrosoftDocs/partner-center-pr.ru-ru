@@ -3,17 +3,19 @@ layout: HubPage
 hide_bc: true
 title: Документация для разработчика и службы Центра партнеров
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Эта документация предназначена для вас, если вы входите в Центр партнеров для публикации приложений, получения данных о классических приложениях, сертификации оборудования, публикации драйверов в Центре обновления Windows или проведения транзакций в качестве торгового посредника.
 author: LauraBrenner
 ms.author: labrenne
 ms.topic: hub-page
 searchScope: []
-ms.openlocfilehash: 77390321f899617c815166935cd10b93cc986118
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
+ms.openlocfilehash: fda7ff2418ba33fbbab3358a2161c70e297ac711
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668465"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653408"
 ---
 <div id="main" class="v2">
     <div class="container">
