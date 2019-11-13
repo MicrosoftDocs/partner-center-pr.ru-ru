@@ -1,22 +1,22 @@
 ---
 title: Предписывания MFA для клиента-партнера | Центр партнеров
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 11/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Сведения о предписывания MFA для требований безопасности клиента партнера
+description: Сведения о предписывания многофакторной идентификации (MFA) для требований безопасности клиента партнера
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, поставщик облачных решений, программа поставщика облачных решений, CSP, поставщик панели управления, CPV, многофакторная проверка подлинности, MFA, модель безопасного приложения, безопасность
 ms.localizationpriority: medium
-ms.openlocfilehash: f9319fc50c722df0e87f729444bb23654b75e910
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9241e7fd7f9812e2c456eac70065e185a9cf8d61
+ms.sourcegitcommit: 0f14e29540c6814f01395924223b495cc5299954
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652519"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "73983353"
 ---
-# <a name="mandating-mfa-for-your-partner-tenant"></a>Предписывания MFA для клиента-партнера
+# <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Предписывания многофакторной идентификации (MFA) для клиента-партнера
 
 **Относится к**
 
@@ -28,9 +28,9 @@ ms.locfileid: "73652519"
 
 Эти партнеры должны пройти проверку MFA для следующих областей:
 
-- [Панель мониторинга центра партнеров](#partner-center-dashboard)
-- [API центра партнеров](#partner-center-api)
-- [Делегированное администрирование партнера](#partner-delegated-administration)
+- [Панель мониторинга центра партнеров](#partner-center-dashboard) (нацеливание на H1 CY2020)
+- [API центра партнеров](#partner-center-api) (нацеливание на H1 CY2020)
+- [Делегированное администрирование партнера](#partner-delegated-administration) (начиная с 18 ноября 2019 г.)
 
 Цель этой функции — помочь партнерам защитить доступ к ресурсам клиентов от взлома учетных данных.
 
