@@ -2,17 +2,19 @@
 title: Получение полезных сведений об авторах | Центр партнеров
 ms.topic: article
 ms.date: 07/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Регулярно просматривайте полезные данные об авторах, чтобы определять тенденции или области, требующие внимания, и двигаться к бизнес-целям.
 author: JnHs
 ms.author: jenhayes
 keywords: автор, анализ, аналитика, метрика, конверсия
 ms.localizationpriority: high
-ms.openlocfilehash: 027fcfb3dbd9b2a8f9c2f53fbfd2e765f15eff53
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: fb1e93f830ea8ae8baaf4c75107511df88807f47
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318754"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654125"
 ---
 # <a name="get-referral-insights"></a>Получение полезных сведений об авторах
 
