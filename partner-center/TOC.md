@@ -135,6 +135,7 @@
 ### [Привлечение новых клиентов с помощью рекламных акций](promotions.md)
 ### [Предложение клиентам пробных версий продуктов Майкрософт](offer-your-customers-trials-of-microsoft-products.md)
 ### [Продажа подписок на коммерческие продукты Marketplace](sell-marketplace-products.md)
+### [Эксклюзивные предложения Marketplace](isv-opt-in.md)
 ### [Назначение подписок Azure в Центре партнеров](assign-azure-subscriptions.md)
 ### [Назначение лицензий пользователям](assign-licenses-to-users.md)
 ### [Добавление лицензий или служб в имеющуюся подписку](add-licenses-or-services-to-an-existing-subscription.md)
@@ -183,6 +184,7 @@
 
 # Требования к безопасности
 ## [Обзор](partner-security-requirements.md)
+## [Требование MFA для арендатора партнера](partner-security-requirements-mandating-mfa.md) 
 ## [Соответствие требованиям](partner-security-compliance.md)
 ## [Требование MFA для арендатора партнера](partner-security-requirements-mandating-mfa.md)
 ## [Вопросы и ответы](partner-security-requirements-faq.md)
