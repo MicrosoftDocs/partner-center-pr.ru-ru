@@ -2,17 +2,19 @@
 title: Приобретение или продление преимуществ | Центр партнеров
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Узнайте, как получить Microsoft Action Pack в первый раз или продлить имеющуюся подписку.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, продление MAPS, продление action pack, получение action pack
 ms.localizationpriority: high
-ms.openlocfilehash: 544059c06d0e4dd0714ac2fd29b8d2e4291deda1
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: ef1ad6e37fd15274ce6e2272dcd8e563738f263a
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978745"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654300"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Первое приобретение или продление подписки Microsoft Action Pack, а также компетенций уровня Silver или Gold.
 

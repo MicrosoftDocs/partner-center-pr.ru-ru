@@ -2,18 +2,20 @@
 title: Создание бизнес-профиля | Центр партнеров
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Создайте бизнес-профиль в Центре партнеров, чтобы получать сведения о потенциальных клиентах от корпорации Майкрософт.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, авторы, потенциальные клиенты, C2PC, профиль компании, реклама компании, поиск партнера, поиск поставщика решений, бизнес-профиль, маркетинговый профиль
 ms.localizationpriority: high
-ms.openlocfilehash: 8f18bb460495fc6f95af92e6510827ff13d0b8bc
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: 75c38b5844f60fc21326c546ac97db9868ab0e02
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997859"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653608"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
