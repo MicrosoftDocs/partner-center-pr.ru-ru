@@ -186,7 +186,6 @@
 ## [Обзор](partner-security-requirements.md)
 ## [Требование MFA для арендатора партнера](partner-security-requirements-mandating-mfa.md) 
 ## [Соответствие требованиям](partner-security-compliance.md)
-## [Требование MFA для арендатора партнера](partner-security-requirements-mandating-mfa.md)
 ## [Вопросы и ответы](partner-security-requirements-faq.md)
 
 # Учебники
