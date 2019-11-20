@@ -1,15 +1,21 @@
 ---
-ms.openlocfilehash: 496bf935432f46b9fe12a946c956071606e34d58
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+title: Verify your partner profile  | Partner Center
+MS.Topic: article
+Date: 08/06/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: При первом входе в качестве администратора убедитесь, что данные службы поддержки указаны правильно, внесите сведения об освобождении от уплаты налогов, если необходимо, и проверьте контактные данные в профилях.
+ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
+author: LauraBrenner
+ms.author: labrenne
+ms.localizationpriority: medium
+ms.openlocfilehash: e30d035cfdcd8f939200af33150dce22a354d360
+ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653991"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "74189057"
 ---
-MS. Service: Partner-Dashboard MS. подслужба: партнерцентер-CSP Description: при первом входе в систему в качестве администратора убедитесь, что сведения о поддержке правильны, исключаются из налоговых расшифрования, если это уместно, и проверьте контактные данные в профилях.
-Корпорация. Раздел: Дата статьи: 08/06/2019 MS. AssetID: B7FCD670-465F-443A-A80C-4E83B74E2D1E author: Лаурабреннер MS. author: лабренне MS. локализатионприорити: Medium
----
-
 # <a name="verify-your-partner-profile"></a>Проверка профиля партнера
 
 При первом входе в Центр партнеров в качестве глобального администратора убедитесь, что все сведения о компании, такие как основное контактное лицо, официальное название и адрес вашей организации, и сведения о программе добавлены правильно. Если в вашей компании есть несколько расположений, проверьте правильность данных о расположении. Как глобальный администратор, администратор выставления счетов или агент администратора, вы также сможете просматривать и обновлять сведения о выставлении счетов и налогах. 
