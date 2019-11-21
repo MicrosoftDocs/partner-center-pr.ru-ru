@@ -1,22 +1,22 @@
 ---
 title: Учетные записи клиентов | Центр партнеров
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Как торговый посредник вы должны создать в Центре партнеров учетную запись для каждого вашего клиента. Учетная запись клиента станет вашей отправной точкой для продажи подписок, выставления счетов и предоставления поддержки.
+Description: Найдите ресурсы для партнеров по торговым посредникам в центре партнеров. Сюда входит необходимость создания учетных записей клиентов до продажи подписок, выставления счетов или поддержки предложений.
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6e933cb42187589f44846ca68aee0f2f7afa9e34
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 40fb278c360b7cbedf779d3528e85a5a88a19544
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653474"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253568"
 ---
-# <a name="customer-accounts"></a>Учетные записи пользователей
+# <a name="customer-accounts"></a>Учетные записи клиента
 
 **Относится к**
 

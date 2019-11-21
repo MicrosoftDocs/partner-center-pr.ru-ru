@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Сведения об основных сценариях выставления счетов и различиях в выставлении счетов на основе лицензий и использования
+Description: Ознакомьтесь с основными сценариями выставления счетов в центре партнеров для подписок и резервирований Azure, а также различия между выставлением счетов на основе лицензий и использования.
 author: LauraBrenner
 ms.author: labrenne
 keywords: выставление счетов, платежи, заказы, отмена, управление заказами, неоплата, мошенничество, ненадлежащее использование, налоги, освобождение от уплаты налогов, файлы выверки, файл выверки
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 13c2ecd5efcd3b2917a98b218c568b080a2a7833
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2087b75419e0f5235e1efcc67ecdd8f203f382c1
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653759"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253213"
 ---
 # <a name="billing-overview"></a>Общие сведения о выставлении счетов
 

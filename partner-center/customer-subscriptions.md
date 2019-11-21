@@ -1,22 +1,22 @@
 ---
 title: Подписки клиентов | Центр партнеров
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Партнеры могут продавать подписки клиентам и управлять ими в Центре партнеров.
+description: Узнайте, как партнеры в программе CSP могут продавать подписки клиентам и управлять ими через центр партнеров.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: подписки, назначение лицензии, лицензии, удовлетворенность клиентов, подписки Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: 6a795eb78e8d8a5e346b5c47eaacf0e5b978c8ff
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 62b043a6bc6502bc8755f47e3b930d5f611ac62f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653436"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253500"
 ---
-# <a name="customer-subscriptions"></a>Подписки пользователей
+# <a name="customer-subscriptions"></a>Подписки клиентов
 
 **Относится к**
 

@@ -1,20 +1,20 @@
 ---
 title: Заявки на сооператоры поощрения | Центр партнеров
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Отправка заявок на возмещение средств в рамках программ поощрения без первоначальной проверки вашего плана деятельности.
+description: Узнайте, как отправлять заявки на использование стимулов без предварительного требования, чтобы проверить план действий.
 author: LauraBrenner
 ms.author: labrenne
 keywords: заявки на возмещение средств в рамках программы поощрения, совместные заявки, совместные фонды
 ms.localizationpriority: medium
-ms.openlocfilehash: 9f389f57051f49163e9c08d67391e374bbc87d67
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a13da629dad56afd62e9898df8cd6ba8f2f5c603
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653686"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253407"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Обзор совместных заявок на возмещение средств в рамках программ поощрения
 

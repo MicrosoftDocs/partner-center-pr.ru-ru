@@ -1,21 +1,21 @@
 ---
 title: Создание нескольких пользователей для учетной записи клиента | Центр партнеров
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Вы можете добавить несколько пользователей к учетной записи клиента одновременно, загрузив файл данных в формате CSV в Центр партнеров.
+description: Узнайте, как одновременно добавить нескольких пользователей в учетную запись клиента, передав файл данных в формате файла с разделителями-запятыми (CSV) в центр партнеров.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: массовая отправка, добавление нескольких пользователей в учетную запись клиента, добавление пользователей клиента, массовая отправка пользователей клиента, учетная запись клиента, пользователи клиента, пользователи
 ms.localizationpriority: medium
-ms.openlocfilehash: 4062c36d9f5d394d9d25eb67265784d2a5b301cf
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 5c9de7ed78a0494790b447d1755d5eef70a89cca
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653244"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253180"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Добавление нескольких пользователей к учетной записи клиента
 

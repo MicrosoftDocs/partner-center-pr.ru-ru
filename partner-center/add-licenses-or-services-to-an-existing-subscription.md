@@ -1,21 +1,21 @@
 ---
 title: Добавление лицензий или служб к существующей подписке | Центр партнеров
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Если клиенту требуются дополнительные лицензии или другая версия с дополнительными службами, вы можете обновить подписку.
+description: Узнайте, как обновить или изменить подписку клиента, например добавить дополнительные лицензии или рабочие места или перейти на другую версию с другими службами.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: добавление лицензий в существующую подписку, добавление мест для существующей подписки, изменение подписки, изменить подписку, приобретение дополнительных лицензий для клиента
 ms.localizationpriority: medium
-ms.openlocfilehash: 9998393608733fa1a69390873908a76e0500c118
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 3c38ba3b789d1719c7987cedc63533396f5827b1
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654368"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253143"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Добавление лицензий или служб к существующей подписке
 

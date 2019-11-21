@@ -1,24 +1,24 @@
 ---
 title: Назначить контакты службы поддержки | Центр партнеров
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: При настройке подписки на службы Майкрософт для клиентов, возможно, стоит назначить техническую поддержку для этих продуктов торговому посреднику продукта, а не предоставлять поддержку самостоятельно.
+description: Узнайте, как назначить торгового посредника в качестве контактного лица технической поддержки для клиентов с подписками на службы Майкрософт.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: LauraBrenner
 ms.author: labrenne
 keywords: агент поддержки, поддержка, назначение контактного лица по поддержке, назначенное контактное лицо из службы поддержки
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9d5318bd9cc33db50d2cc78fc4e31d10e2dbabd2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: cf8e4bde1380123ff9c93c23f1fb9b7a0924cca5
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653916"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253340"
 ---
-# <a name="assign-support-contacts"></a>Назначение контактов службы поддержки
+# <a name="assign-support-contacts"></a>Назначить контакты службы поддержки
 
 **Относится к**
 

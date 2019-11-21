@@ -1,20 +1,20 @@
 ---
 title: Настройка встроенного интерфейса устройства с помощью профилей Windows "Автопилот" | Центр партнеров
-description: Предварительная настройка встроенного интерфейса устройства с профилями автопилота.
 ms.topic: article
-ms.date: 03/18/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
+description: Сведения о настройке и предварительной настройке нового интерфейса устройства с профилями для автопилота перед доставкой устройства клиенту.
 author: maggiepuccievans
 ms.author: evansma
 keywords: Автопилот, Windows автопилот, Microsoft для автопилота, развертывание без вмешательства пользователя, OOBE, экраны входа, готовые
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ad6482c68da6c964414be3b7f036835934f049e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a07c18fda7de0aa5854fb46a91bea692c033d51c
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653904"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253329"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Настройка встроенного интерфейса устройства с помощью профилей Windows "Автопилот"
 

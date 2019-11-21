@@ -1,22 +1,22 @@
 ---
 title: Консолидация клиента региональной авторизации CSP | Центр партнеров
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Соблюдайте эти инструкции, чтобы консолидировать клиентов для разных стран и регионов.
+description: Соблюдайте эти инструкции, чтобы консолидировать клиентов для разных стран и регионов. Сюда входят действия по переносу учетных записей клиентов и клиентских подписок.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: перенос пользователей, подготовка, учетная запись клиента, консолидировать клиенты
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: 1a48c8ef8d4f3fd7348a80899253c8071235c317
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 52663d9f98f66f271702b29965f620fa9563115f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653493"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253598"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Консолидация клиента региональной авторизации CSP
 

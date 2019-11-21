@@ -1,21 +1,21 @@
 ---
 title: Просмотр журналов действий клиента | Центр партнеров
 ms.topic: article
-ms.date: 08/23/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Журналы действий содержат сведения о транзакциях и действиях по управлению партнеров для клиентов.
+description: Узнайте, как просматривать и экспортировать журналы действий, чтобы получить представление о транзакциях учетной записи клиента и других действиях по управлению партнерами, связанных с клиентом.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: журналы действий, подписка, подписки, платежи, выставление счетов, транзакции
 ms.localizationpriority: medium
-ms.openlocfilehash: 370844941c65dfd2018cb8958525192e1c04d25b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b9c1c2e6cc97fc923707ba8c2cbab42117c9c259
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653371"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252705"
 ---
 # <a name="view-customer-activity-logs"></a>Просмотр журналов действий клиента
 

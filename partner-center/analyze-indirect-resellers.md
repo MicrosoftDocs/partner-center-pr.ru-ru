@@ -1,9 +1,9 @@
 ---
 title: Анализ эффективности косвенных торговых посредников | Центр партнеров
-ms.date: 08/02/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Получите данные о производительности непрямых торговых посредников, чтобы узнать об успехах, а также об областях, которые могут потребовать дополнительных внимания.
+Description: Узнайте, как использовать аналитику, чтобы узнать, как работают непрямые торговые посредники, как их успеха, так и области, которые могут потребовать больше внимания.
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
@@ -11,16 +11,17 @@ ms.topic: article
 keywords: бизнес-данные
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ef7a20a669481b3724fd98a5fdb62feaea4ede74
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 188961444e4ec2f20fe305179b9f00673d7e371f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653927"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253375"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>Анализ эффективности косвенных торговых посредников 
 
 **Относится к**
+
 - Центр партнеров
 
 Данные помогают принимать правильные бизнес-решения. Используйте метрики на странице **Анализ торговых посредников** для определения того, каких целей добились вы и ваши косвенные торговые посредники, а также областей, нуждающихся в более пристальном внимании. Эти сведения можно использовать при планировании новых бизнес-целей.

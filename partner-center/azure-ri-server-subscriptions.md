@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 7/30/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Чтобы удовлетворить быстро растущий спрос на экономичные решения для непрерывных и четко прогнозируемых облачных рабочих нагрузок, мы включили Azure RI и серверные подписки в партнерскую программу CSP. Программа CSP позволяет партнерам приобретать, развертывать и контролировать Azure RI и серверные подписки от имени коммерческих клиентов через Центр партнеров Майкрософт и портал Azure.
+description: Узнайте о возможностях поставщиков облачных решений по приобретению, подготовке и управлению резервированиями Azure и серверными подписками для своих клиентов.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, подписки, виртуальная машина, резервирование, зарезервированный экземпляр
 ms.localizationpriority: medium
-ms.openlocfilehash: e745a52e1f80164ae13d1d4b0fe058775b1074b3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e9a5e6c7a28a20b0b168616f39db591b5dd90649
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653797"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253230"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -112,7 +112,7 @@ ms.locfileid: "73653797"
 
 **Операции**
 
-- [Руководство по современным коммерческим операциям](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (Обновлено): исчерпывающее руководство по ключевым политикам и рабочим аспектам, таким как соглашения, упорядочение по центру партнеров, счет, сведения о прайс-листах, поощрения, файл СВЕРКИ, API/SDK, песочница и Общие службы партнеров Azure.
+- [Руководство по современным коммерческим операциям](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (Обновлено): исчерпывающее руководство по ключевым политикам и рабочим аспектам, таким как соглашения, упорядочение по центру партнеров, счета, сведения о прайс-листах, поощрения, файл СВЕРКИ, API/SDK, песочница и общие службы партнеров Azure.
 - [Последние сведения о доступности предложений в странах и матрица валют для клиентов](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [Продажа Microsoft Azure зарезервированных экземпляров](https://go.microsoft.com/fwlink/?linkid=872806)
 - [Приобретение резервирований Microsoft Azure от лица клиентов](https://go.microsoft.com/fwlink/?linkid=872807)

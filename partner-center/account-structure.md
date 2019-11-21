@@ -1,20 +1,20 @@
 ---
 title: Структура учетной записи в центре партнеров | Центр партнеров
 ms.topic: article
-ms.date: 06/13/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: В центре партнеров в Организации есть два уровня учетных записей.
+description: Сведения о двух уровнях учетных записей в центре партнеров, основной глобальной учетной записи (PGA) и учетной записи расположения партнеров (PLA).
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: fc9f4f7e5f6e70a557d23bd23cc4fd32b0dd2a91
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 29988ecd4289f4c9b0772961a3b896124682aecb
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653057"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253154"
 ---
 # <a name="the-account-structure-in-partner-center"></a>Структура учетной записи в центре партнеров
 

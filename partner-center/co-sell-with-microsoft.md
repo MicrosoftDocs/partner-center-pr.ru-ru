@@ -1,21 +1,21 @@
 ---
 title: Совместная продажа с корпорацией Майкрософт | Центр партнеров
 ms.topic: article
-ms.date: 07/12/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Как квалифицированный партнер Майкрософт, у вас есть возможность совместно продаваться с корпорацией Майкрософт. Эта совместная работа помогает вам принимать решения на рынке, выручку за совместную работу и обеспечить успешное выполнение клиентов.
+description: Как квалифицированный партнер Майкрософт, вы можете совместно продавать с корпорацией Майкрософт. Узнайте, как определять задействования, приглашать Майкрософт для совместной работы или просматривать отправленные задействования.
 author: JnHs
 ms.author: jenhayes
-keywords: автор, запрос информации, поиск партнера
+keywords: рекомендация, радиочастота, поиск партнера
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e24475dfcad3b5a6732233aeafb6761e9a91e099
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: ce7fe09c57729517c9ecae124cdcb68e2ea84628
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653677"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253444"
 ---
 # <a name="co-sell-with-microsoft"></a>Совместная продажа с корпорацией Майкрософт
 

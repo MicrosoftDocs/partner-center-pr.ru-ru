@@ -1,19 +1,19 @@
 ---
 title: Квалификационные критерии для партнеров и клиентов по Office 365 для государственных организаций в средах GCC | Центр партнеров
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Процедуры проверки партнеров и клиентов для продажи и использования Office 365 для государственных организаций в средах GCC для CSP.
+description: Ознакомьтесь с инструкциями для партнеров по прямым счетам (прямые торговые посредники, косвенные поставщики), чтобы проверить партнеров и клиентов для Office 365 правительства GCC для CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ba7bf7c788e6dc90f68b7f46e5105be60c2c99ca
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 418aaa8624a7a22945dbbdb2d410dd061bab4586
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653542"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253525"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Квалификационные критерии для партнеров и клиентов по Office 365 для государственных организаций в средах GCC для CSP
 
@@ -42,7 +42,7 @@ ms.locfileid: "73653542"
 2.  Предоставляет услуги правительственным клиентам США через администрацию общего обслуживания или другие договорные механизмы.
 
 **Критерии клиента**
-1.  Является государственным учреждением США. Пример
+1.  Является государственным учреждением США. Например:
  
     -  Федеральное агентство (например, бюро, агентство, подразделение или другое юридическое лицо правительства США)
     -   Региональное/муниципальное юридическое лицо 

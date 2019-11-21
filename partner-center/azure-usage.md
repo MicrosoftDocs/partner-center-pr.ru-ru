@@ -1,21 +1,21 @@
 ---
 title: Microsoft Azure размер виртуальной машины для максимального использования резервирования | Центр партнеров
 ms.topic: article
-ms.date: 08/05/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: При покупке Microsoft Azure резервирования от имени ваших клиентов необходимо выбрать размер виртуальной машины, чтобы удовлетворить потребности клиента.
+Description: Узнайте, как масштабировать виртуальную машину с учетом потребностей клиентов при покупке Microsoft Azure резервирования для них.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, резервирования, виртуальная машина, управление, использование, размеры
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9d0c2935bd5a2202b50ffc470fbef144ce4d20e2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2b8148d66be8a439056efa41eccb60cbc3e4274b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653774"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253247"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Размеры виртуальных машин Microsoft Azure для максимального использования резервирования
 

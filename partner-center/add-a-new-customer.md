@@ -1,23 +1,23 @@
 ---
 title: Добавление нового клиента | Центр партнеров
 ms.topic: article
-ms.date: 03/21/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Прежде чем начинать продавать подписки, управлять выставлением счетов или предоставлять поддержку, необходимо зарегистрировать клиента в Центре партнеров.
+description: Узнайте, как добавить новую запись о клиенте в центр партнеров. Затем можно продать клиентские подписки, управлять выставлением счетов или предоставлять поддержку клиентов.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: клиент, добавление клиента, учетная запись клиента, учетная запись клиента в Центре партнеров, клиенты, добавление клиентов, создание учетной записи клиента
 ms.localizationpriority: medium
-ms.openlocfilehash: d33588fb599f0f74ddb2e9f0e267b9e423ccbead
-ms.sourcegitcommit: d50d4ae13ba4c6c4a19a7f2af8f9f5a42be6dbfc
+ms.openlocfilehash: 8452bc7040eab835bc5d068d0595bce48f8d2c0a
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "73840215"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253151"
 ---
-# <a name="add-a-new-customer"></a>Добавление нового пользователя
+# <a name="add-a-new-customer"></a>Добавление нового клиента
 
 **Относится к**
 

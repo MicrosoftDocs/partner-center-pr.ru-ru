@@ -1,27 +1,33 @@
 ---
 title: Azure Cost Management от Cloudyn для партнеров CSP | Центр партнеров
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Для использования Azure Cost Management от Cloudyn требуется предоставленный доступ к API Центра партнеров.
+description: Узнайте, как зарегистрировать веб-приложение Cloudyn и использовать секретный ключ в центре партнеров, чтобы вы могли использовать приложение для мониторинга использования и затрат Azure.
 author: Janet
 ms.author: janet
 Keywords: Приложение для управления затратами Azure, управление затратами, веб-приложения
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: a746522d3470a8b97b845ed723fae87455e33e5e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b05f2085aad63f8a0e23fa44de97550d13053f86
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653870"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253298"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Приложение Azure Cost Management для партнеров Azure CSP  
 
 **Относится к**
 
--  Центр партнеров
+- Центр партнеров
+- Партнеры по программе поставщиков облачных решений
+
+**Соответствующие роли**
+
+- Глобальный администратор
+- Агент администрирования
 
 [Получение дополнительных сведений об управлении затратами Azure](https://go.microsoft.com/fwlink/p/?linkid=857893)
 

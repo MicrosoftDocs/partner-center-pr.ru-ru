@@ -1,21 +1,21 @@
 ---
 title: Новые требования к прямым партнерам CSP | Центр партнеров
 ms.topic: article
-ms.date: 03/20/2018
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Если вы зарегистрированы в программе CSP в качестве прямого партнера, необходимо подготовиться к соблюдению этих обновленных требований к поддержке и службам.
+Description: Если вы являетесь прямым партнером в программе CSP, вы можете узнать о обновленных требованиях к поддержке и службах и о том, как их выполнять.
 author: LauraBrenner
 ms.author: labrenne
 keywords: CSP, прямой партнер, прямое выставление счета, требования
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ccc337138c62f2f2a1258f183a30e0ca09652f53
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 64015b298618ef7292433f0aedb5016ef83c1905
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653213"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253589"
 ---
 # <a name="csp-direct-bill-partner-new-requirements"></a>Партнеры прямого счета поставщика служб шифрования новые требования
 

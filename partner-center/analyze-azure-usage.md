@@ -1,9 +1,9 @@
 ---
 title: Анализ использования Azure | Центр партнеров
-ms.date: 08/02/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Используйте центр партнеров для получения данных об использовании подписок Azure ваших клиентов.
+Description: Узнайте, как использовать центр партнеров для получения данных об использовании подписок Azure ваших клиентов.
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
@@ -11,23 +11,23 @@ ms.topic: article
 keywords: бизнес-данные
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b4c85cc591dfe43feb6a442de1b239520b56fe45
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 89d76cf3945c5831f6ab2fd1fe77c8df1b9c233e
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653379"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253391"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Получение данных об использовании клиентских подписок Azure
+# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Получение данных об использовании подписок Azure клиентов
 
-Область применения
+Относится к:
 
 - Центр партнеров
 
 Данные помогают принимать правильные бизнес-решения. Используйте метрики на странице **Использование Azure** для определения того, каких целей добились вы и ваши клиенты, а также областей, нуждающихся в более пристальном внимании. Эти сведения можно использовать при планировании новых бизнес-целей.
 
 > [!NOTE]
-> Средства анализа использования Azure доступны только партнерам, участвующим в программе поставщиков облачных решений.
+> Аналитика использования Azure доступна только для партнеров в программе поставщика облачных решений.
 
 Мы отслеживаем следующие метрики:
 

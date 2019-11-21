@@ -1,19 +1,19 @@
 ---
 title: Партнерство с непрямыми торговыми посредниками в CSP | Центр партнеров
 ms.topic: article
-ms.date: 03/29/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: В качестве непрямого поставщика или дистрибьютора вы можете сотрудничать с непрямыми торговыми посредниками, чтобы расширить свою аудиторию.
+description: Дополнительные сведения о том, как косвенный поставщик или распространитель, можно расширить, выполнив партнерские отношения с непрямыми торговыми посредниками. Сюда входят задачи, которые можно выполнять в центре партнеров.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ed3cec1599db6af6a4d82243695fe8da9f2fbd2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 7f6a917dfae75549b55071858ad9216b0abe9138
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653340"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253680"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Партнерство с непрямыми торговыми посредниками в программе поставщиков облачных решений
 

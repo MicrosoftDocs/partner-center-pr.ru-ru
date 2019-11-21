@@ -1,20 +1,20 @@
 ---
 title: Делегирование прав администрирования клиентами партнерам | Центр партнеров
 ms.topic: article
-ms.date: 12/18/2018
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Клиент, являющийся партнером торгового посредника, может делегировать вас своим администраторам. Они также могут удалять привилегии.
+description: Узнайте, как попросить клиентов делегировать права администратора торговому посреднику или удалить те же разрешения и использовать разрешения.
 author: LauraBrenner
 ms.author: labrenne
 keywords: делегированные права администратора, администратор от имени, удаление привилегий, доступа к данным, АОБО
 ms.localizationpriority: medium
-ms.openlocfilehash: 35777dbdaa8ce77f4a1e7154447b37cd62772bc6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8f49fa5c4b320d05c6c6a9049b41170457bb394f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653422"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253474"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Делегирование прав администрирования клиентами партнерам
 

@@ -1,20 +1,20 @@
 ---
 title: Исключение одноразовых требований к экзаменам для компетенции разработки приложений | Центр партнеров
 ms.topic: article
-ms.date: 11/08/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Исключение одноразовых требований к экзаменам для компетенции при разработке приложений
+description: Сведения о том, как получить информацию о неоднократных требованиях к экзаменам для партнеров по разработке приложений, см. в этой статье.
 author: LauraBrenner
 ms.author: labrenne
 keywords: компетенции, независимые поставщики программного обеспечения, разработка приложений
 ms.localizationpriority: medium
-ms.openlocfilehash: d32936a6611d476628c655edd97bc8bf7a219d06
-ms.sourcegitcommit: 921e7ac2f9ee2a2b670903ff175fe8b17fb2f0a9
-ms.translationtype: MT
+ms.openlocfilehash: de86b5d849e0ae8027a766559c38ebec8668f48b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "74117231"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253358"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Исключение одноразовых требований к экзаменам для компетенции при разработке приложений
 

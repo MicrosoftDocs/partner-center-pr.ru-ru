@@ -1,20 +1,20 @@
 ---
 title: Продажи представителям определенных отраслей | Центр партнеров
 ms.topic: article
-ms.date: 05/14/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Корпорация Майкрософт предоставляет специальные и уменьшенные цены для выбранных групп клиентов, включая учебных клиентов, некоммерческих клиентов и пользователей государственных организаций.
+Description: Узнайте о специальных и сокращенных ценах для определенных групп клиентов, включая учебных заказчиков, некоммерческих клиентов и пользователей государственных организаций.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8405018cd33b36efcbeb936672afcab78273f6e8
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 89577819ea5601bebeb10be6d9d3ab6143abf2cc
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653077"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253653"
 ---
 # <a name="sell-to-specialized-industries"></a>Продажи представителям определенных отраслей
 
@@ -28,7 +28,7 @@ ms.locfileid: "73653077"
 
 |**Специальные цены**   |**Обязательные квалификации торгового посредника**   |**Квалификация, необходимая клиенту**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|для образовательных учреждений   |Необходимо стать [авторизованным продавцом для образовательных учреждений](https://www.mepn.com).   | Должен быть [квалифицированным пользователем для образовательных целей](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
+|Образование   |Необходимо стать [авторизованным продавцом для образовательных учреждений](https://www.mepn.com).   | Должен быть [квалифицированным пользователем для образовательных целей](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
 |Правительство   |Чтобы продать Azure, зарегистрируйтесь, используя [форму проверки облака Microsoft US для государственных организаций](https://azuregov.microsoft.com/csp). Чтобы продавать подписки на основе лицензии для государственных организаций, выполнение определенных требований не требуется.|   Нет|
 |Некоммерческий сектор  |Нет<br>Необходимо иметь некоммерческий клиент Azure Active Directory.<br>Дополнительные сведения о [некоммерческих специальных предложениях](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Зарегистрируйтесь через [программу Microsoft для некоммерческих организаций](https://nonprofit.microsoft.com/#/register), чтобы получить право.   |
 
