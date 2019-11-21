@@ -114,6 +114,14 @@
 ## [Назначение контактов службы поддержки](assign-support-contacts.md)
 
 # [Предложения CSP](csp-offers.md)
+## Коммерческая платформа
+### [Обзор коммерческой платформы](csp-commercial-marketplace-overview.md)
+### [Предложения коммерческой платформы](csp-commercial-marketplace-discover.md)
+### [Приобретение предложений коммерческой платформы](csp-commercial-marketplace-purchase.md)
+### [Управление предложениями коммерческой платформы](csp-commercial-marketplace-manage.md)
+### [Выставление счетов за предложения коммерческой платформы](csp-commercial-marketplace-billing.md)
+### [Поддержка предложений коммерческой платформы](csp-commercial-marketplace-support.md)
+### [Контракты для покупок на коммерческой платформе](csp-commercial-marketplace-contracting.md) 
 ## [Резервирования Azure](azure-reservations.md)
 ### [Размеры виртуальных машин для максимального использования резервирования](azure-usage.md)
 ### [Приобретение резервирований Microsoft Azure от лица клиентов](azure-reservations-buying.md)
@@ -135,7 +143,6 @@
 ### [Привлечение новых клиентов с помощью рекламных акций](promotions.md)
 ### [Предложение клиентам пробных версий продуктов Майкрософт](offer-your-customers-trials-of-microsoft-products.md)
 ### [Продажа подписок на коммерческие продукты Marketplace](sell-marketplace-products.md)
-### [Эксклюзивные предложения Marketplace](isv-opt-in.md)
 ### [Назначение подписок Azure в Центре партнеров](assign-azure-subscriptions.md)
 ### [Назначение лицензий пользователям](assign-licenses-to-users.md)
 ### [Добавление лицензий или служб в имеющуюся подписку](add-licenses-or-services-to-an-existing-subscription.md)
