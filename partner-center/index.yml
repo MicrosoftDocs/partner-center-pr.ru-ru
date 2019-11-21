@@ -11,13 +11,13 @@ metadata:
   author: LauraBrenner
   ms.author: labrenne
   manager: evansma
-  ms.date: 11/05/2019
-  ms.openlocfilehash: 4976296092b1c40e3b1ac77c8591a620a1c5c43c
-  ms.sourcegitcommit: 8425d3435892651e3e6cb1147cd3b268b2b1869b
+  ms.date: 11/20/2019
+  ms.openlocfilehash: 6b543cf8fcc25122b0c2ec48a3bd60202772f29a
+  ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 11/07/2019
-  ms.locfileid: "73753863"
+  ms.lasthandoff: 11/20/2019
+  ms.locfileid: "74253688"
 highlightedContent:
   items:
   - title: Войдите, чтобы просмотреть последние объявления
@@ -29,9 +29,9 @@ highlightedContent:
   - title: Присоединитесь к программе ранних последователей API и SDK
     itemType: deploy
     url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
-  - title: Новый клиентский договор с Майкрософт
-    itemType: concept
-    url: confirm-customer-agreement.md
+  - title: Обзор коммерческой платформы
+    itemType: whats-new
+    url: csp-commercial-marketplace-overview.md
   - title: Многофакторная проверка подлинности и рекомендации по обеспечению безопасности
     itemType: overview
     url: partner-security-requirements.md
@@ -57,9 +57,9 @@ conceptualContent:
       text: Дополнительные сведения
   - title: Связь с клиентами
     links:
-    - url: csp-offers.md
+    - url: confirm-customer-agreement.md
       itemType: how-to-guide
-      text: Продажа продуктов и услуг
+      text: Новый клиентский договор с Майкрософт
     - url: assign-licenses-to-users.md
       itemType: how-to-guide
       text: Управление лицензиями клиента
