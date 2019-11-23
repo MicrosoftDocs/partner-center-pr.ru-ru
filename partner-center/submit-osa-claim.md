@@ -1,97 +1,98 @@
 ---
-title: Создание связи с клиентом с помощью модели КПОР | Центр партнеров
+title: Create a customer association using the CPOR model | Partner Center
 ms.topic: article
 ms.date: 10/29/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Создание связи с клиентом с помощью модели КПОР
+description: Create a customer association using the CPOR model
 author: LauraBrenner
 ms.author: labrenne
-keywords: заявки на поощрения, заявления о сопоставлении, фонды совместных операций, осу, OSA, ISV, выручка
+keywords: incentives claims, co-op claims, co-op funds, OSU, OSA, ISV, revenue association
 ms.localizationpriority: medium
-ms.openlocfilehash: 052e41e1d61a1287550147530371c7e558a6ee69
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a3515c0fff52c9083bbad6cd19f033a88ae2f38a
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654034"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384887"
 ---
+# <a name="create-a-customer-association-using-the-cpor-model"></a>Create a customer association using the CPOR model
+
 **Относится к**
 
 -  Центр партнеров
 
-# <a name="create-a-customer-association-using-the-cpor-model"></a>Создание связи с клиентом с помощью модели КПОР
 
-1 октября 2019 г. Корпорация Майкрософт приступила к использованию модели "заявка партнера КПОР" для управления связями с клиентами Microsoft 365 и Dynamics 365 в соответствии с рекомендациями по интерактивным службам (OSA), использованием Интернет-служб (осу) — Microsoft 365 и осу — поощрения бизнес-приложений.
+On October 1, 2019, Microsoft began using the Claiming Partner of Record (CPOR) model to manage the associations you have with your Microsoft 365 and Dynamics 365 customers with regards to the Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 and OSU-Business Application incentives.
 
-При отправке заявки корпорация Майкрософт проверяет его. На этом этапе мы можем запросить дополнительные сведения. Мы также будем уведомлять Клиента о запросе на сопоставление. Клиенты могут отказаться от пяти рабочих дней. Если они не отказались от этого, связь с этим конкретным клиентом и рабочей нагрузкой будет официальной. На этом этапе у вас будет доступ к данным об использовании клиента. 
+When you submit your claim, Microsoft validates it. We may ask you for more information at this point. We'll also notify the customer of your association request. Customers have five business days to opt out. If they don't opt out, your association with this specific tenant and workload will be official. At this point you'll have access to the customer's usage data. 
 
-Для завершения утверждения потребуются следующие сведения:
+You'll need the following information to complete a claim:
 
-- **Идентификатор MPN** сущности, которая делает утверждение
+- The **MPN ID** for your entity that makes the claim
 
-- [Поиск](https://docs.microsoft.com/partner-center/find-customer-domain-name) в **доменном имени** клиента
+- Customer's **domain name** [Find this](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-- **Идентификатор каталога** клиента или **идентификатор клиента** [найти](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+- Customer's **Directory ID** or **Tenant ID** [Find this](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-- **Область решения**, например Business Applications или Microsoft 365
+- The **Solution area**, such as Business Applications or Microsoft 365
 
-- **Действие** , которое вы выполнили, и тип заявки, которую вы хотите сделать, например "Предварительная продажа", "использование" или "доход"
+- The **Activity** you have performed and the type of claim you want to make, such as Pre-sales, Usage, or Revenue association
 
-- **Имя контактного лица**, название и адрес электронной почты клиента
+- Your customer's **Contact name**, title, and email address
 
-- Для Dynamics 365 также необходимо **указать имя, название и** адрес электронной почты вашего клиента.
+- For Dynamics 365, you also need to provide your customer's **Technical contact** name, title, and email address
 
-- **Имя контактного лица** и адрес электронной почты своей организации
+- Your own company's **Contact name** and email address
 
-- Вы создадите **имя** для этого утверждения.
+- You'll create a **Name** for this claim
 
-- **Продукт (ы** ) или рабочие нагрузки, которые вы заказываете
+- The **Product(s)** or workload(s) you're claiming
 
-- **Подтверждение выполнения (ПОЕ)** , например заявление о работе, подписанное клиентом. Вы также можете скачать шаблон ПОЕ для использования.
+- **Proof of execution (POE)** , such as a statement of work signed by the customer. You can also download a POE template to use.
 
-- Для партнеров, которые заявляют только сопоставление доходов: **название продавца решения Dynamics**, **имя клиента**и **Название продукта или решения ISV**. 
+- For partners claiming revenue association only: **Dynamics solution seller name**, **Customer name**, and **Name of ISV product/solution**. 
 
-Следует также понимать следующие моменты.
-- Если у вас уже есть Microsoft 365 клиентов, вам потребуется повторно связать их с тем, что вы хотите продолжить получать осу поощрения с помощью этого процесса.
-- Если у вас есть существующие связи с Dynamics 365 или клиентами Power BI, эти связи останутся действительными до истечения срока действия подписок.
-- Клиент может иметь несколько партнеров, но каждая рабочая нагрузка (для осу-Microsoft 365) или подписка (для OSA-торгового и осу-Business Applications) может быть связана только с одним партнером.
+You should also understand the following points:
+- If you have existing Microsoft 365 customers, you'll need to re-associate with those you want to continue to earn OSU incentives by using this process.
+- If you have existing associations with Dynamics 365 or Power BI customers, these associations will remain valid, until the expiration of their subscriptions.
+- A customer can have multiple partners, but each workload (for OSU-Microsoft 365) or subscription (for OSA-Sell and OSU-Business Applications) can only be associated with one partner.
 
-## <a name="create-a-customer-association"></a>Создание связи с клиентом
-1.  На панели мониторинга центра партнеров в разделе **поощрения**выберите **Обзор**, а затем выберите **связи клиентов**. 
+## <a name="create-a-customer-association"></a>Create a customer association
+1.  In the Partner Center dashboard, under **Incentives**, select **Overview**, and then select **Customer associations**. 
 
-2.  В верхней части страницы ассоциации клиентов выберите **+ Сопоставление клиентов**.
+2.  At the top of the Customer associations page, select **+ Customer association**.
 
-3.  Выберите **идентификатор MPN** для партнера, который должен быть связан с клиентом, а затем добавьте доменное имя и идентификатор каталога клиента. [Где это?](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+3.  Select the **MPN ID** of the partner location to be associated with the customer, and then add the customer's domain name and Directory ID. [Where are these?](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
 Выберите пункт **Продолжить**.
 
-4.  Выберите **область решения** и **действие**. 
+4.  Select the **Solution area** and **Activity**. 
 
 >[!Note]
 
->Если выбран вариант Business Applications, выберите **использование и (или) предварительные продажи**или **Ассоциация доходов**, а затем нажмите кнопку **продолжить**. 
+>If you select Business Applications, select either **Usage and/or Pre-sales**, or **Revenue association**, and then select **Continue**. 
 
->При выборе предложения "выручка" будет предложено немного отличить информацию, указанную ниже. 
+>If you select Revenue association, you'll be prompted for slightly different information than what's listed below. 
 
-5.  Введите соответствующие сведения на странице **связать клиента** , а затем выберите **создать утверждение**.
+5.  Enter the appropriate information on the **Associate customer** page, and then select **Create claim**.
 
-6.  Выберите продукты, связанные с этой ассоциацией клиентов, а затем нажмите кнопку **продолжить**.
+6.  Select the product(s) associated with this customer association, and then select **Continue**.
 
-7.  Заполните контактные данные клиента и контактные данные вашей организации. Все поля являются обязательными. 
+7.  Complete the customer contact information and your company's contact information. Все поля являются обязательными. 
 
 >[!Note]
 
-Если ваш продукт является Dynamics 365, а у выбранного продукта несколько подписок для этого конкретного клиента, вам также потребуется ввести идентификатор подписки.
+If your product is Dynamics 365, and the product you choose has multiple subscriptions for this particular customer, you'll also need to enter the subscription ID.
 
-8.  Предоставьте свое подтверждение выполнения (ПОЕ). Можно перетащить его в поле, перейти к собственной вспомогательной документации или использовать шаблон, выбрав **загрузить шаблон**. 
+8.  Supply your proof of execution (POE). You can drag it to the box, browse to your own supporting documentation, or use a template by selecting **Download template**. 
 
-9.  При желании добавьте и сохраните комментарии, а затем выберите **отправить утверждение**. Мы отправим клиенту сообщение электронной почты, запрашивающее утверждение связи с клиентом. 
+9.  Add and save comments if you like, and then select **Submit claim**. We'll send an email to the customer requesting approval of your customer association. 
 
 >[!NOTE]
 
->После отправки связи с клиентом вы не сможете изменить ее. 
+>Once you submit your customer association, you can't edit it. 
 
-Состояние сопоставления с клиентом отображается в поле **состояние** . 
+The status of your customer association appears in the **Status** field. 
 
-Выберите **Журнал** , чтобы просмотреть историю сопоставления клиента.
+Select **History** to view the history of a customer association.

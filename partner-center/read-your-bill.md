@@ -1,154 +1,67 @@
 ---
 title: Просмотр счета | Центр партнеров
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/21/2019
+description: Your invoice is a summary of all Partner Center charges (across the program, products, and customers) for the current monthly period.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Ваш счет-фактура — это сводка всех платежей (по программе, продуктам и клиентам) за текущий месяц. Она доступна в центре партнеров.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: выставление счетов за подписки, выставление счетов, выставления счетов в центре партнеров, просмотр счета, счет, счет центра партнеров, счет CSP, где мой счет?
 ms.localizationpriority: medium
-ms.openlocfilehash: 37469a72137d5bc399f5ab765c49c8accd36808d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2f7fe5c2a3348e89cb69fc0d4e89b97f56fb2083
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652176"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384826"
 ---
 # <a name="read-your-bill"></a>Просмотр счета
 
-**Относится к**
+Область применения
 
--  Центр партнеров
--  Центр партнеров для Microsoft Cloud for US Government
+- Центр партнеров
+- Центр партнеров для Microsoft Cloud for US Government
 
+Your **invoice** is a **summary of all your Partner Center charges** (across the program, all products, and all customers) for the **current billing period**.
 
-Для вашего счета перейдите в меню **центра партнеров** , а затем выберите **выставление счетов** , чтобы просмотреть историю выставления счетов и тенденции, ссылки на файл счета и сверку и последний платеж.
+## <a name="invoice-types"></a>Invoice types
 
-Партнеры в программе поставщиков облачных решений, выбравшие ежемесячное выставление счетов, оплачивают корпорации Майкрософт 60 дней за прошедший период для подписок своих клиентов (как на основании лицензий, так и на основании использования).
+You will receive one invoice for any license-based charges (such as Office 365) and usage-based charges (such as Azure).
 
-> [!NOTE]  
-> Счет — это сводка по всем расходам — по программе, продуктам и клиентам — за текущий расчетный период и доступен в течение двух (2) дней выбранной даты выставления счетов в формате UTC. Например, если у вас 12 сентября Дата выставления счетов, процесс создания счета начнется с 12:8:00 UTC на 13-й день и завершается 12:8:00 UTC на 14. Если вы не видите счет на 11:59PM времени в формате UTC на 15-й странице, то у вас нет Соглашение об уровне обслуживания и он должен будет отправить запрос на обслуживание. 
+You will receive a separate invoice for one-time charges (such as Azure reserved VM instances).
 
-Вы получите один счет на оплату на основе лицензии (Office365) и оплату на основе использования (Azure), а также отдельный счет с однократным (Azure Reserved VM Instances) платежом.
+## <a name="invoice-file-fields"></a>Invoice file fields
 
-Классифицированные сведения о выставленных оплатах см. в прилагающихся файлах выверки. Файлы выверки включают идентификационный код клиента и идентификационный код подписки, которые можно использовать для создания счетов клиента. Дополнительные сведения см. в разделе [Использование файлов выверки](use-the-reconciliation-files.md).
+For a detailed description of all the fields in your invoice file (including fields for one-time charges), see [Invoice file fields](invoice-file.md).
 
-## <a name="invoice-file-definitions"></a>Определения файлов счетов
+## <a name="find-your-bill"></a>Find your bill
 
+You can find your invoice on the **Billing** page of the dashboard in Partner Center. You can also find your billing history, spending trends, and reconciliation files on this page.
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><strong>Поле</strong></td>
-<td><strong>Описание</strong></td>
-</tr>
-<tr class="even">
-<td>US FEIN</td>
-<td>Федеральный номер налогоплательщика.</td>
-</tr>
-<tr class="odd">
-<td>Номер клиента</td>
-<td>Номер клиента.</td>
-</tr>
-<tr class="even">
-<td>Плательщик</td>
-<td>Адрес, на который мы отправляем счет-фактуру. Чтобы изменить название или адрес Организации, измените профиль выставления счетов центра партнеров. </td>
-</tr>
-<tr class="odd">
-<td>Оплата на основе лицензии</td>
-<td>Фиксированные ежемесячные (или ежегодные) платежи за приобретенные лицензии на основе использования, счета на которые выставляются наперед. Это число представляет собой сумму всех платежей в столбце &quot;Subtotal&quot; в файле выверки на основе лицензии (столбец T).</td>
-</tr>
-<tr class="even">
-<td>Оплата на основе использования</td>
-<td>Использование Azure, включая новые службы или приложения (активированные и используемые) в течение месяца выставления счетов. Это число представляет собой сумму всех платежей в столбце &quot;PretaxCharges&quot; в файле выверки на основе использования (столбец Z).</td>
-</tr>
-<tr class="odd">
-<td>Скидки</td>
-<td>Например, скидка, которую получает клиент, от обычной цены подписки. Она отображается как фиксированная сумма, а не как цена за единицу или лицензию.</td>
-</tr>
-<tr class="odd">
-<td>Кредиты</td>
-<td>Кредиты или корректировки за изменения, внесенные в подписки (пример: увеличение или уменьшение количества рабочих мест).</td>
-</tr>
-<tr class="even">
-<tr class="even">
-<td>Промежуточный итог</td>
-<td>Итог до вычета налогов, а также исключающих налоги сборов и кредитов.</td>
-</tr>
-<td>Налог</td>
-<td>Общая сумма налогов за текущие платежи, приведенная в разделе подробных сведений, который начинается со страницы 2 в счете. Это число представляет собой сумму всех платежей в следующих столбцах:
-<ul>
-<li>&quot;TaxAmount&quot; в файле выверки на основе использования (столбец AA);</li>
-<li>&quot;Tax&quot; в файле на основе лицензии (столбец U).</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Другие кредиты</td>
-<td>Кредиты без учета налогов.</td>
-</tr>
-<tr class="even">
-<td>Общая сумма текущих платежей</td>
-<td>Сумма в валюте выставления счетов за период выставления счетов, которую необходимо внести до даты оплаты.</td>
-</tr>
-<tr class="odd">
-<td>Инструкции по оплате</td>
-<td>Описывает оплату счета в зависимости от вашего региона. При оплате обязательно указывайте номер счета-фактуры.</td>
-</tr>
-<tr class="even">
-<td>Номер счета-фактуры</td>
-<td>Номер вашего счета-фактуры.</td>
-</tr>
-<tr class="odd">
-<td>Период выставления счетов</td>
-<td>Месячный период, ведущий к дате выставления счета. Это период, в течение которого службы на основе использования потребляются, а службы на основе лицензий выверяются на наличие корректировок кредита или изменений в количестве лицензий.</td>
-</tr>
-<tr class="even">
-<td>Дата счета-фактуры</td>
-<td>Дата выставления счетов или Дата юбилея, на каждый месяц создается счет.</td>
-</tr>
-<tr class="odd">
-<td>Условия оплаты</td>
-<td>Для единовременных покупок срок оплаты всегда составляет 60 дней.</td>
-</tr>
-<tr class="even">
-<td>Дата внесения оплаты</td>
-<td>Оплаты должна быть получена до этой даты.</td>
-</tr>
-<tr class="odd">
-<td>Заказ на покупку от клиента</td>
-<td>Номер вашего заказа на покупку.</td>
-</tr>
-<tr class="even">
-<td>Обслуживание клиентов</td>
-<td>Адрес веб-сайта для доступа к службе по обслуживанию клиентов.</td>
-</tr>
-<tr class="odd">
-<td>Получатель службы</td>
-<td>Адрес, по которому используется служба. (Это юридический адрес компании, связанный с компанией заглянув.)</td>
-</tr>
-</tbody>
-</table>
+1. Sign in to the dashboard in Partner Center.
+2. In the left-hand menu, select **Billing**.
+3. On the **Billing** page, select the invoice you want to download.
+    - You can find a link to your latest invoice at the top of the page under **Account balance as of last invoice date**.
+    - You can find previous invoices in the **Billing history** section. Choose the appropriate year, then select the drop-down arrow next to the appropriate **Billing period**. You can select the link next to **Invoices (.pdf)** to download that period's invoice.
 
-## <a name="itemized-list-of-one-time-charges"></a>Подробный список единовременных платежей
+## <a name="understand-billing-periods"></a>Understand billing periods
 
-|**Поле** |**Определение**|
-|:----------------|:-----------------------------|
-|Дата |Дата покупки. |
-|Описание |Название продукта. |
-|Количество |Количество приобретенных продуктов (например, резервирований). |
-|Цена за единицу |Цена каждого продукта (например, резервирования). |
-|Скидки |Все применимые скидки. |
-|Сумма без налога |Предварительная итоговая сумма покупок до вычета налогов. |
-|Налог с продаж |Сумма налога. |
-|Total (Всего) |Итоговая сумма к оплате. |
- 
+Your invoice is available within **two (2) days** of your selected billing date in **UTC time**.
 
+For example, if you have a September 12th monthly billing date:
 
+- The invoice generation process will **begin** at 12:00AM UTC on September 13th.
+- The invoice generation process will **complete** by 12:00AM UTC on September 14th.
+- If you do not see your invoice by 11:59PM UTC on September 15th, you’re out of your Service Level Agreement (SLA) and should file a service request.
 
+### <a name="csp-monthly-billing"></a>CSP monthly billing
+
+Partners in the Cloud Solution Provider (CSP) program who have chosen to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based subscriptions).
+
+## <a name="find-itemized-details-for-charges"></a>Find itemized details for charges
+
+You can understand itemized details about your charges using your reconciliation files. The reconciliation files include customer identifiers and subscription identifiers that you can use to create customer invoices.
+
+Дополнительные сведения см. в разделе [Использование файлов выверки](use-the-reconciliation-files.md).

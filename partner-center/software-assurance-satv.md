@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: купоны на обучение, Software Assurance, обучение, регистрация в SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 60d60ecb5dca320bc0fc0da2908db95bd200a7be
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0d6339a63d4fbd7f1d742820ca90bb66d4d67c1a
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651600"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384795"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Программа Software Assurance Training Voucher (SATV) в Центре партнеров
 
@@ -24,7 +24,7 @@ ms.locfileid: "73651600"
 
 ## <a name="get-started"></a>Начало работы
 
-Если вы не знакомы со службами обучения Software Assurance, выполните все приведенные ниже действия. Если вы уже активно находитесь в программе обучения, начните с четвертого шага (4) ниже. 
+If you're new to Software Assurance training services, follow all the steps below. If you're already active in the training voucher program, start at step four (4) below. 
 
 1. Подтверждение права на участие в программе
 2. Регистрация в программе обучения.
@@ -41,41 +41,41 @@ ms.locfileid: "73651600"
 
 Прежде чем вы сможете зарегистрироваться в программе SATV, необходимо сначала выполнить требования режима Microsoft Partner Network Learning, который заменяет компетенцию Microsoft Learning. Узнайте, как приступить к работе в [режиме обучения.](https://partner.microsoft.com/membership/learning-partners)
 
-Вы можете проверить возможность вашей компании, включая применимые требования к компетенции и оценке в центре партнеров. Чтобы получить дополнительные сведения и снимки экрана, следуйте инструкциям, приведенным на [шаге 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса сатв.
+You can verify your company's eligibility including applicable competency and assessment requirements in Partner Center. Follow the instructions at [step 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the SATV workflow for more details and screen shots.
 
 ## <a name="enroll-in-the-training-program"></a>Регистрация в программе обучения.
 
-После того как ваша компания соответствует требованиям к допустимости, а участники программы прошли курс обучения по соответствию требованиям, можно приступать к подписанию соглашения программы обучения Software Assurance и регистрации. Обязательно просмотрите все [политики программы сатв](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP), а затем следуйте инструкциям на [шаге 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса, чтобы завершить процесс регистрации сатв в центре партнеров.   
+After your company meets the eligibility requirements and your program participants have passed the compliance training course, you're ready to sign the Software Assurance Training Voucher program agreement and enroll. Be sure to review all [SATV program policies](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP), then follow the instructions in [step 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow to complete the SATV enrollment process in Partner Center.   
 
 
 ## <a name="confirm-course-eligibility"></a>Подтверждение права на прохождение курса.
-После регистрации в программе SATV партнеры могут предложить по курсам соответствующих SATV сеансы обучения, для которых клиенты могут использовать свои ваучеры на обучение. Подходящие курсы перечислены в [каталоге соответствия сатв Course](http://savl-catalog.microsoft.com/). Ознакомьтесь с [шагом 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса, чтобы узнать, какие типы курсов сатв.
+После регистрации в программе SATV партнеры могут предложить по курсам соответствующих SATV сеансы обучения, для которых клиенты могут использовать свои ваучеры на обучение. Eligible courses are listed in the [SATV course eligibility catalog](https://savl-catalog.microsoft.com/). Review [step 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow to understand which types of courses are SATV-eligible.
 
 ## <a name="have-customer-create-and-assign-voucher"></a>Создание и назначение ваучера клиентом.
 
-Перед проведением обучения клиент должен сначала активировать преимущество SATV, а затем назначить его организации. Подробные инструкции по созданию снимков экрана, в которых показаны действия, которые должен предпринять клиент, для создания и назначения ваучера см. в [шаге 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса.
+Перед проведением обучения клиент должен сначала активировать преимущество SATV, а затем назначить его организации. For detailed instructions with screen shots showing the steps your customer must take in order to create a voucher and assign it to you, refer to [step 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow.
 
 ## <a name="validate-and-reserve-customer-vouchers"></a>Проверка и резервирование ваучеров клиента
 
-Теперь вы можете зарезервировать и погасить ваучеры, а также начать обучение клиентов. Администратор MPN вашей компании имеет доступ к средству управления ваучерами в центре партнеров и может добавлять пользователей, которым необходимо работать в средстве. Инструкции по проверке и резервированию ваучеров см. в [шаге 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса.
+Теперь вы можете зарезервировать и погасить ваучеры, а также начать обучение клиентов. Your company's MPN admin has access to the voucher management tool in Partner Center and can add users who need to work in the tool. For instructions on validating and reserving vouchers, refer to [step 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow.
 
 ## <a name="deliver-training-and-activate-product"></a>Предоставление обучения и активация продукта.
 
-После резервирования ваучера вы можете предоставить обучение клиенту. См. [Шаг 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса для обучения и инструкции по активации и приобретению официальных учебных курсов Майкрософт (MOC), экзаменов и сертификатов Microsoft Course (Лаас) для курсов mooc.
+После резервирования ваучера вы можете предоставить обучение клиенту. See [step 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow for training engagement guidelines and instructions for the activation and purchase of Microsoft Official Courseware (MOC), exams, and Microsoft Course Certificate vouchers (LaaS) for MOOC courses.
 
 ## <a name="redeem-voucher"></a>Погашение ваучера.
 
-После завершения обучения необходимо погасить ваучер. Следуйте инструкциям на [шаге 7](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса, чтобы убедиться, что выполнены все требования, чтобы можно было запросить оплату. 
+После завершения обучения необходимо погасить ваучер. Follow the instructions in [step 7](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow to ensure all requirements are met so that you can request payment. 
 
 
 ## <a name="request-payment-from-microsoft"></a>Запрос оплаты от Майкрософт
 
-Платежи обрабатываются с помощью средства электронных платежей Software Assurance Voucher Benefit (SAVB). Следуйте инструкциям на [шаге 8](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса, чтобы отправить счет в корпорацию Майкрософт через савб. 
+Платежи обрабатываются с помощью средства электронных платежей Software Assurance Voucher Benefit (SAVB). Follow the instructions in [step 8](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow to submit an invoice to Microsoft through SAVB. 
 
-Дополнительные сведения см. в статье [вопросы и ответы](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) и ознакомьтесь с [политиками программы сатв](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP).
+For additional information read the [FAQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) and review [SATV program policies](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP).
 
 См. также:
 
-- [Рабочий процесс "ваучеры обучения Software Assurance" (САТВ)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
-- [ВОПРОСЫ обучения по программе Software Assurance (САТВ)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
-- [Политики для операций обучения Software Assurance (САТВ)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)
+- [Software Assurance Training Vouchers (SATV) Workflow](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
+- [Software Assurance Training Vouchers (SATV) FAQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
+- [Software Assurance Training Vouchers (SATV) Policies](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)

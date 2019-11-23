@@ -1,78 +1,115 @@
 ---
-title: Убедитесь, что вы кредитовать за удержание налога | Центр партнеров
+title: Make sure you are credited for withholding tax | Partner Center
 ms.topic: article
-ms.date: 05/28/2019
+ms.date: 11/07/2019
+description: How to make sure your Partner Center account is credited for withholding tax.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Для открытия запроса на обслуживание потребуется как кредитный налоговый счет, так и сертификат подоходного налога.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
-keywords: Кредит налога на подоход, налоговые кредиты, налоговый кредит, форма налога
+keywords: withholding tax credit, tax credits, german tax credit form, form tax credit
 ms.localizationpriority: medium
-ms.openlocfilehash: 654e4f32be1e86ce455c7d0409469bab37473f8b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8f25c570f8a71a261e815891545acf48e0a8fe08
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653946"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384865"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Убедитесь, что вы кредитовать за удержание налога
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Make sure you are credited for withholding tax
 
->[!Note]
->В этом разделе описывается, как открыть запрос на обслуживание, используя форму глобального подоходного налога или форму подоходного налога для Германии.
+Область применения
 
-Чтобы ваша учетная запись была кредитуется для подоходного налога, необходимо заполнить форму кредита на подоходный налог. Форма предоставляет корпорации Майкрософт счет по счету, сумму, уплаченную корпорации Майкрософт, сумму подоходного налога, процент подоходного налога, тип платежа и компанию, которая была оплачена, если это не корпорация Майкрософт.  
+- Центр партнеров
 
-## <a name="global-withholding-tax-credit-form"></a>Кредитная форма глобальной подоходного налога
+This topic explains how to make sure that you are credited for withholding tax in Partner Center. It explains how to open a service request using the global withholding tax form or the withholding tax form for Germany.
 
-Заполните эту [форму](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311) полностью и включите ее вместе с цифровой копией сертификата подоходного налога, полученного от местного налогового агентства, при отправке запроса в центр партнеров.
->[!IMPORTANT]
->Итог в сертификате подоходного налога должен соответствовать вспомогательной информации в форме кредита на подоходный налог. Ваша учетная запись не будет кредитуется, если не получить эту форму вместе с цифровой копией сертификата подоходного налога.
+> [!IMPORTANT]
+> Microsoft must receive your **withholding tax credit form** and a copy of your **withholding tax certificate** for your account to be credited for withholding tax.
 
-### <a name="before-opening-the-service-request"></a>Перед открытием запроса на обслуживание:
+## <a name="withholding-tax-credit-form"></a>Withholding tax credit form
 
-- Убедитесь, что форма содержит название и страну Организации, номер сертификата подоходного налога и форма подписаны и имеют точную форму. Ниже приведены налоговые кредитные формы: для [Германии](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) и [других стран](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311).
+- Ensure the form includes your company name and country, the withholding tax certificate number, and the form is signed and dated accurately. Here are the tax credit forms: For [Germany](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) and [All other countries](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311).
 
-- Точно запишите соответствующую сумму подоходного налога в процентах на основе сведений о локальном налоговом органе.
+The withholding tax credit form provides Microsoft with the following information:
 
-- Убедитесь, что общий объем в форме налогового кредита совпадает с итогами отправляемых счетов. 
+- Invoice(s)
+- Amount paid to Microsoft
+- Сумма налога
+- Withholding tax percentage
+- Type of payment
+- Company that was paid (if other than Microsoft)
 
-- Когда эти сведения будут готовы, создайте запрос на обслуживание.
+- Once you have this information ready, create the service request.
 
-## <a name="cloud-solution-provider-partners"></a>Партнеры поставщиков облачных решений
+You'll need to fill out your **withholding tax credit form** before creating your support request. You will include this form with your support request.
 
->[!Note]
->Эта информация предназначена только для партнеров прямого счета и косвенных поставщиков. Косвенные торговые посредники должны работать с непрямыми поставщиками.
+Fill out the appropriate form for your country or region:
 
-### <a name="how-to-submit-the-tax-credit-form-and-the-certificates"></a>Отправка налоговой кредитной формы и сертификатов
+- [**Global withholding tax credit form**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311) (all countries, excluding Germany)
+- [**Germany withholding tax credit form**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)
 
-1. Выберите вопросительный **знак** **(?)** в уппор правом углу панели мониторинга в центре партнеров.
+Make sure that your form is accurate before submitting it to Microsoft:
 
-2. Выберите **CSP**.
+1. Select the **question mark** **(?)** in the uppor right corner of your dashboard in Partner Center.
 
-3. В разделе **CSP — выставление счетов и оплата**выберите тип проблемы — **подоходный налог** и нажмите **кнопку Да**. 
+2. Select **CSP**.
 
-4. При отправке запроса на обслуживание обязательно присоедините налоговый кредит и Цифровые копии налоговых сертификатов.
+3. Under **CSP - billing and payments**, select the issue type - **Withholding tax** and select **Yes**. 
 
-5. Если вы отправляете неанглийский налоговый сертификат через запрос на обслуживание на английском языке, требуется перевод налогового сертификата.
+4. When you submit the service request be sure to attach the tax credit form and digital copies of the tax certificates.
 
-6. Мы свяжемся с вами непосредственно по электронной почте или по телефону.
+5. If you are submitting a non-English tax certificate via an English service request, a translation of the tax certificate is required.
 
-При использовании способа **оплаты "счет-оплата** " после того, как налоговые сертификаты получены и проверены успешно, оставшийся баланс счета будет очищаться приблизительно на одну неделю. 
+6. We will contact you directly by email or phone.
 
-Налоговые сертификаты должны быть только для счетов Майкрософт. Если в сертификатах присутствуют другие компании, укажите сумму, чтобы мы могли исключить их во внутреннюю обработку, но все равно полностью проследите за общим числом сертификатов. 
+- Include your **company name** and **country** on the form.
+- Accurate **sign** and **date** the form.
+- Record the proper **withholding tax amount percentage** on the form, based on your local tax authority's information.
+- Make sure that the **total amount** on the form matches the totals from the invoices you are submitting.
 
-## <a name="instructions-for-completing-the-withholding-tax-credit-form-for-germany"></a>Инструкции по заполнению формы кредита на подоходный налог для Германии
+## <a name="include-withholding-tax-certificates"></a>Include withholding tax certificates
 
-Полностью заполните [кредитную форму подоходного налога](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) и отправьте ее вместе с просканированной копией сертификата подоходного налога при отправке запроса в центр партнеров или на портал Azure/O365/CRM/Intune. 
+The tax certificates should be for Microsoft invoices only. If there are other companies included in the certificates, please specify the amount so that we can exclude it in our internal processing, but still have full visibility to what the total certificates include. 
 
-Кроме того, отправьте по электронной почте хардкопиес сертификатов подоходного налога:
+You'll need to include a **digital copy** of your **withholding tax certificates** along with your support request. You received this certificate from your local tax agency when you submitted your request in Partner Center.
 
-АТТН: налоговая команда на Марианне Ганнон
+The total in the withholding tax certificate must match the supporting detail in the withholding tax credit form.
 
-Microsoft EMEA Operations Center
+Fill out the [withholding tax credit form](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) completely and send it along with the scanned copy of the Withholding Tax Certificate upon submission of your request in Partner Center or your Azure/O365/CRM/Intune Portal. 
 
-Одно место корпорации Майкрософт, Южная округ — припарк к работе
+If you are submitting a **non-English language tax certificate** through an **English language service request**, you must include a **translation** of the tax certificate.
 
-Леопардстовн, Дублин 18, Ирландия
+The tax certificates should be for **Microsoft invoices only**. If you have **other companies** that the certificates include, specify the amount such that we can exclude the amount in our internal processing, but still have full visibility to what the total certificates include.
+
+## <a name="create-a-service-request"></a>Create a service request
+
+The following information applies *only* to partners in the **Cloud Solution Provider (CSP) program**. These include only **direct bill partners** and **indirect providers**. **Indirect resellers** must work with their **indirect providers** instead.
+
+1. Sign in to the dashboard in Partner Center.
+2. On the left-hand menu in the dashboard, choose **Support**, then select **Partner support requests**.
+3. Choose **New request**.
+4. On the **Start the request** page, under **CSP - billing and payments**, choose **Select an issue type**. Select **withholding tax** as your issue type.
+5. On the **Recommended solutions** page, review the information. Then, under **Do you need more help?** , choose **Yes**.
+6. On the **Details** page, fill out all required fields under **Issue details**.
+7. Upload your [**withholding tax credit form**](#withholding-tax-credit-form) using the last field in the form.
+8. Upload your [**withholding tax certificate**](#include-withholding-tax-certificates) and, if applicable, a translation of the certificate.
+9. Choose **Submit** to send in your support request. Microsoft will then contact you directly by email or phone. 
+10. If you are in **Germany**, see [special instructions for Germany](#germany-tax-withholding) to mail in mandatory **hard copies** of your withholding tax certificate.
+
+Using the **invoice-pay payment** method, once tax certificates are received and validated successfully, the remaining balance on your invoice will clear in approximately one week.
+
+After your tax certificates are received and validated successfully by Microsoft, use the **invoice-pay payment** method. The remaining balance on your invoice will clear in approximately one week.
+
+## <a name="germany-tax-withholding"></a>Germany tax withholding
+
+For Germany *only*, follow the same normal steps to:
+
+1. [Fill out your Germany withholding tax credit form](#withholding-tax-credit-form)
+2. [Include your withholding tax certificates](#include-withholding-tax-certificates)
+3. [Create a Partner Center support request](#create-a-service-request) with the withholding tax credit form and withholding tax certificates attached.
+
+Then, mail hard copies of your withholding tax certificates to the following address:
+
+> ATTN: EOC Tax Team Marianne Gannon Microsoft EMEA Operations Centre One Microsoft Place, South County Business Park Leopardstown, Dublin 18, Ireland

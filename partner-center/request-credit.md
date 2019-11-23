@@ -1,70 +1,66 @@
 ---
-title: Запросить кредит соглашения об уровне обслуживания у корпорации Майкрософт | Центр партнеров
+title: Request an SLA credit from Microsoft | Partner Center
 ms.topic: article
-ms.date: 06/21/2019
+ms.date: 11/21/2019
+description: Request an SLA credit from Microsoft if they experience a service outage.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Если служба испытывает сбой, вы можете запросить кредит соглашения об уровне обслуживания для клиента.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6a04d8e179f48f60c71b2e0e5c723c9d821de797
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a3eb79b78b3edb052d85cc7461d9fd50a115eb43
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651701"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384903"
 ---
-# <a name="request-an-sla-credit-from-microsoft"></a>Запросить кредит соглашения об уровне обслуживания у корпорации Майкрософт 
+# <a name="request-an-sla-credit-from-microsoft"></a>Request an SLA credit from Microsoft 
 
-Если в службе, которую вы предоставляете для клиентов, произошел сбой, вы можете запросить кредит от корпорации Майкрософт. Соглашение об уровне обслуживания (соглашение об уровне обслуживания) определяются в зависимости от того, на какой из служб были затронуты службы (т. е. Если у клиента есть пакет Office 365, и только SharePoint был отключен, соглашение об уровне обслуживания утверждается только для SharePoint, а не для всего плана).
+You're able to request **service-level agreement (SLA) credits** from Microsoft if a service that you're providing for your customers has an outage.
 
-Кредиты на счете зависят от службы и продолжительности сбоя. Чтобы просмотреть типы сценариев, которые соответствуют критериям соглашения об уровне обслуживания, прочитайте [консолидированный документ по соглашению об уровне обслуживания в веб-службах](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37). Эта информация относится и к службам, проданным через программу поставщика облачных решений.
+## <a name="sla-credit-calculation"></a>SLA credit calculation
 
->[!Note]
->**ОЧЕНЬ ВАЖНО!** Партнер CSP (косвенный поставщик или прямой счет) должен отправить заявку и всю необходимую информацию в конце календарного месяца, следующего за месяцем, в котором произошел инцидент. Например, если инцидент выполнялся 15 февраля, мы должны получить заявку и всю необходимую информацию до 31 марта. 
+SLA credits from Microsoft are determined based on which service(s) were impacted. For example, if your customer has an Office 365 suite but only experienced a SharePoint outage, the SLA credit is approved only for SharePoint and not the customer's entire plan.
 
-## <a name="required-information"></a>Требуемая информация
+*Credits are pro-rated based on the service affected and the duration of the outage.* To see the types of scenarios that qualify for SLA credits, see the [Online Services Consolidated SLA document](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37). This information applies to services sold through the Cloud Solution Provider program, too.
 
+## <a name="request-an-sla-credit"></a>Request an SLA credit
 
-Чтобы запросить кредит соглашения об уровне обслуживания, необходимо предоставить следующие сведения: 
+*The Cloud Solution Provider (CSP) partner must submit the claim and all required information by the end of the calendar month following the month in which the incident occurred.* For example, if the incident occurred on February 15th, Microsoft must receive the claim and all required information by March 31st. End customers and indirect resellers can't submit SLA credit claims; either the indirect provider or direct bill partner must submit claims on their behalf.
 
-- Идентификатор GUID клиента: 
+### <a name="required-information"></a>Required information
 
-- Номер инцидента простоя: (см. ниже)
+Before you [submit an SLA credit request](#submit-sla-credit-request) to Microsoft, you must gather the following information to include in your support ticket:
 
-- Были ли затронутые подписки, приобретенные через CSP? Yes/No (да/нет)
+- The customer tenant's GUID
+- The [outage incident identifier](#outage-incident-identifier)?
+- Were the impacted subscriptions purchased through CSP? (*yes* or *no*)
 
-Идентификатор инцидента сбоя (например, EX25194) находится на странице "работоспособность службы" в центре администрирования Microsoft 365. Перед номерами инцидентов указывается 2-буквенное сокращение, указывающее на затронутую службу, например:
+#### <a name="outage-incident-identifier"></a>Outage incident identifier
 
-Пример Exchange Online
+You can find the identifier for the outage incident on the **Service Health** page in the Microsoft 365 admin center. The **Outage Incident ID** is a number preceded by a two-letter abbreviation that indicates the affected service (for example, *EX25194* for an Exchange Online outage). The follow table describes common service abbreviations:
 
-FO — защита Exchange Online
+| Two-letter abbreviation | Microsoft service |
+| ----------------------- | ----------------- |
+| EX | Exchange Online |
+| FO | Exchange Online Protection |
+| SB | Skype for Business Online (formerly Lync Online) |
+| ОС | Подписка Office, |
+| PB | Power BI for Office 365 |
+| SP | SharePoint Online |
+| YA | Yammer Enterprise |
+| MO | Portal error |
 
-SB-Skype для бизнеса Online (формально — Lync Online)
+### <a name="submit-sla-credit-request"></a>Submit SLA credit request
 
-Операционная система — подписка Office
+To submit your SLA credit request to Microsoft through the Partner Center dashboard:
 
-PB-Power BI для Office 365
-
-SP — SharePoint Online
-
-Я — Yammer Enterprise
-
-MO — ошибка портала
-
-## <a name="submit-a-request"></a>Отправить запрос
-
-Отправьте свой кредитный запрос в центр партнеров.
-
-1. На панели мониторинга центра партнеров выберите **Поддержка** в левой области навигации.
-
-2. Выберите **запросы на поддержку партнеров** , а затем выберите **CSP — клиенты, заказы и подписки/кредитные запросы клиентов**.
-
-3. Отправьте свой кредитный запрос соглашения об уровне обслуживания.
-
-
-
-
-
+1. Sign in to the Partner Center dashboard.
+2. In the left-hand menu, choose **Service requests**, then select **Partner support requests**.
+3. On the **Partner request** page, choose **New request**.
+4. On the **Start the request** page, find the section **CSP - customers, orders and subscriptions**. In this section, choose **Select an issue type**, then select **Customer services credit requests**.
+5. On the **Recommended solutions** page, under **Do you need more help?** , choose **Yes**.
+6. On the **Details** page, fill out the **Issue details** section. In the **Details** text box, be sure to enter the [required information](#required-information) that you gathered earlier.
+7. Choose **Submit** to send in your SLA credit request.

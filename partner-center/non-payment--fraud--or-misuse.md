@@ -1,7 +1,7 @@
 ---
-title: Неплатеж, мошенничество или неправильное использование | Центр партнеров
+title: Managing non-payment, fraud, or misuse | Partner Center
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Стратегии управления рисками, связанными с транзакциями в Интернете, включая неоплату клиентом товаров и услуг, мошеннические действия или злоупотребление.
@@ -11,83 +11,88 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 4cda8426d29fd2bf290cac2d7478bcb08641c5c3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 604c192259fd4194a3b43d57721caa7566704b58
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652966"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384768"
 ---
-# <a name="non-payment-fraud-or-misuse"></a>Неплатеж, мошенничество или неправильное использование
+# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Managing non-payment, fraud, or misuse in Partner Center
 
-**Относится к**
+Область применения
 
--  Центр партнеров
--  Центр партнеров для Microsoft Cloud for US Government
+- Центр партнеров
+- Центр партнеров для Microsoft Cloud for US Government
 
-
-
-Вы несете финансовую ответственность за мошеннические покупки ваших клиентов и (или) неоплату клиентами купленных служб. Поэтому мы рекомендуем внедрить меры по обнаружению и предотвращению рисков мошенничества.
-
-## <a name="types-of-online-risk"></a>Типы рисков в Интернете
+Вы несете финансовую ответственность за мошеннические покупки ваших клиентов и (или) неоплату клиентами купленных служб. Therefore, *we strongly recommend that you put in place fraud prevention and detection risk mitigation controls*.
 
 Во избежание и (или) с целью прекращения мошеннических действий или злоупотреблений очень важно понимать потенциальные риски и внедрять политики и практики, способствующие снижению этих рисков.
 
-#### <a name="risk-exposure-to-be-mitigated"></a>Факторы риска, которые необходимо снизить
+## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Enforcement of Microsoft Acceptable Use Policy
 
-- **Хищение услуги** Клиенты, которые не намерены платить за потребленные услуги и которые используют похищенные платежные средства, указывают неверные данные для выставления счетов и (или) не оплачивают задолженность
+If Microsoft detects partner or customer activity that we confirm or suspect violates the Acceptable Use Policy, we will take enforcement steps. The customer could be immediately suspended. You'll be notified of enforcement actions or updated on your requests by Microsoft.
 
-- Нарушение **обслуживания** Клиенты, использующие облачные службы, нарушают политику приемлемого использования корпорацией Майкрософт
+## <a name="abuse-of-service-risks"></a>Abuse of service risks
 
-#### <a name="examples-of-possible-fraud-or-service-abuse"></a>Примеры возможных мошеннических действий или злоупотребления услугами
+**Abuse of service** risks means customers who use cloud services in violation of Microsoft's Acceptable Use Policy.
+
+### <a name="examples-of-abuse-of-service"></a>Examples of abuse of service
+
+Examples of these violations of Microsoft's acceptable use policy can include:
+
 - Рассылка спама
 - Взлом
-- Атаки DDOS
+- Distributed denial-of-service (DDoS) attacks
 - Майнинг биткойнов
 - Распространение вредоносного ПО
-- Перепродажа пиратских подписок 
+- Перепродажа пиратских подписок
 
-#### <a name="examples-of-online-transaction-risk"></a>Примеры рисков, связанных с транзакциями в Интернете
-- Транзакции типа "Кредитная карта отсутствует", то есть транзакции, которые не выполняются с личным участием
+## <a name="theft-of-service-risks"></a>Theft of service risks
+
+**Theft of service** risks means customers who have no intention of paying for consumed services. This theft may involve using stolen payment instruments, providing false billing information, and/or defaulting on outstanding balances.
+
+### <a name="examples-of-service-theft"></a>Examples of service theft
+
+Examples of these online transaction risks can include:
+
+- Transactions that don't occur in person ("credit card not present" transactions)
 - Искажение идентификационных данных
-- Предоставление и использование услуг до получения первоначального платежа
-- Развивающиеся рынки и регионы с высокими рисками в сфере интернет-торговли
-- Возможность автоматического создания учетных записей и совершения покупок злоумышленниками
+- Services provisioned and used before initial payment is received
+- Emerging markets and/or high-risk regions for online fraud
+- Automate account creation and purchasing by bad actors
 
-## <a name="strategies-for-managing-online-risk"></a>Стратегии управления рисками в Интернете
+## <a name="managing-online-risk"></a>Managing online risk
 
-Эти рекомендации помогут разработать политики и методы, снижающие ваши риски в связи со сделками в Интернете на протяжении всего жизненного цикла ваших взаимоотношений с клиентами.  
+You can use the following recommendations to help you develop policies and practices to reduce your exposure to online transaction risks in the lifecycle of your customer relationships.
 
-#### <a name="when-onboarding-new-customers"></a>Адаптация новых клиентов
-- Старайтесь по возможности устанавливать личные отношения с клиентами, например созваниваясь с ними по телефону
-- Ищите более эффективные способы проверки учетных данных клиента и справочной информации о нем (кредитные бюро, агентства по составлению коммерческих отчетов для бизнеса и т. д.) 
-- Используйте проверку с помощью SMS во время регистрации, чтобы минимизировать подверженность созданию и приобретению учетных записей роботами
-- Осуществляйте управление удостоверениями и отслеживание с помощью таких служб, как службы цифровых удостоверений
-- Внедряйте эффективные системы обнаружения мошенничества с кредитными картами, чтобы оценить финансовое состояние клиента
-- Внедряйте понятную политику сборов, подробно описывающую ваш процесс сборов платежей и изменение доступа к подпискам (вы можете лишить клиента доступа или [приостановить действие подписки клиента](suspend-a-subscription.md) за неуплату)
+### <a name="onboarding-new-customers"></a>Onboarding new customers
 
-#### <a name="post-purchase-customer-account-management"></a>Управление учетными записями клиентов после покупки
-- Работайте с клиентами, чтобы понять их основные деловые потребности при использовании облака, одновременно настраивая соответствующие предельные значения для мониторинга
-    > [!NOTE]  
-    >  Вы можете [задать ежемесячный бюджет расходов на Azure](set-an-azure-spending-budget-for-your-customers.md) в центре партнеров, чтобы отслеживать использование клиентов в течение месяца и получать уведомления, когда клиенты близки к своим бюджетам.
-- Регулярно отслеживайте [журналы активности клиента](activity-logs.md), чтобы выявлять мошенничество на ранних этапах
-- При обнаружении подозрительных действий предпринимайте срочные меры
-- Старайтесь не предоставлять клиентам полный административный доступ к подпискам без внедрения элементов управления рисками
-- Внедрите процесс для быстрого получения, просмотра уведомлений Microsoft, реагирования и ответа на них
+Suggestions for reducing online risks when onboarding new customers include:
 
-#### <a name="post-purchase-customer-billing-management"></a>Управление выставлением счетов клиентам после покупки
-- Просите предоплату до совершения первых транзакций и выставления четов 
-- Не принимайте рискованные платежные средства, например карты предоплаты или карты фиксированной стоимости.
-- Тщательно отслеживайте платежи клиентов и старые счета дебиторской задолженности, агрессивно применяя стандартный процесс напоминания о просрочке или отсутствии оплаты
+- Establish personal relationships with customers when possible (for example, contacting customers by phone).
+- Verify customers' credentials and background through better methods (such as using credit bureaus or business commercial report agencies).
+- Use multi-factor authentication (such as SMS verification) during sign-up to minimize exposure to robotic account creationg and purchasing.
+- Manage and track identities using services (such as digital identity services).
+- Assess customer financial strength through rigorous credit card fraud detection systems.
+- Establish a clear collections policy. Detail your collections process and when access to subscriptions will be impacted by non-payment. (You can disable access or [suspend a customer's subscriptions](suspend-a-subscription.md) for non-payment.)
+
+### <a name="managing-customer-accounts"></a>Managing customer accounts
+
+Suggestions for managing customer accounts post-purchase include:
+
+- Implement a process to quickly receive, review, act on, and respond to Microsoft notifications.
+- Work with customers to understand their cloud usage business needs while settings appropriate monitoring thresholds. (For example, you can [set a monthly Azure spending budget](set-an-azure-spending-budget-for-your-customers.md) in Partner Center. This allows you to monitor customer usage during the month and be notified when customers are close to their budget.)
+- Monitor [customer activity logs](activity-logs.md) regularly to help detect fraud early.
+- Take quick action when suspicious activities are detected.
+- Avoid giving customers full administrative access to subscriptions without first implementing risk mitigation controls.
+
+### <a name="managing-customer-billing"></a>Managing customer billing
+
+Suggestions for managing customer billing post-purchase include:
+
+- Request prepayments prior to initial transactions and billing .
+- Don't accept high-risk payment instruments (such as pre-paid cards or stored-value cards).
+- Monitor customer payments and aging accounts receivables. Aggressively enforce standardized dunning processes for late payments or non-payment.
 
 Более подробно стратегии снижения рисков в Интернете описаны в [Руководстве по управлению рисками, связанными со сделками в Интернете.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)
-
-> [!IMPORTANT]  
-> Если Microsoft обнаружит деятельность партнера или клиента, которая является подозрительной и нарушает политику допустимого использования, мы предпримем ограничительные меры. Подписка клиента может быть немедленно приостановлена, и вы получите уведомление об ограничительных мерах или информацию относительно ваших запросов в Microsoft.
-
- Сведения о безопасности и многофакторной проверке подлинности см. в статье [требования к безопасности партнеров](partner-security-requirements.md) .
-
- 
-
-
-

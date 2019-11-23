@@ -1,109 +1,102 @@
 ---
-title: Налоги и освобождение от уплаты налогов | Центр партнеров
+title: Taxes and tax exemptions | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/21/2019
+description: Understand tax responsibilities and submit tax exemptions for your CSP sales.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Так как поставщик облачных решений является каналом сбыта, занимающимся перепродажей продуктов в качестве партнера, корпорация Майкрософт не всегда должна начислять налог с продаж на счета-фактуры партнера.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
+keywords: tax, tax exemption, vat, reseller, billing
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 06163368802263c49631d1eafabe5d18bf66b44b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 91f6c7265dec3a72a24130221cedef8de6d4ce31
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654012"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384873"
 ---
-# <a name="tax-and-tax-exemptions"></a>Налоги и освобождение от уплаты налогов
+# <a name="taxes-and-tax-exemptions"></a>Налоги и освобождение от уплаты налогов
 
-**Относится к**
+Область применения
 
--  Центр партнеров
--  Центр партнеров для Microsoft Cloud for US Government
+- Центр партнеров
+- Центр партнеров для Microsoft Cloud for US Government
 
+The Cloud Solution Provider (CSP) program is a sales channel focused on partner resale of products. As a result, Microsoft is not always required to charge sales tax on partner invoices. The rules vary by country and/or region. You can review [country-specific and region-specific details for tax exemptions](#country-and-region-tax-details).
 
-Так как поставщик облачных решений является каналом сбыта, занимающимся перепродажей продуктов в качестве партнера, корпорация Майкрософт не всегда должна начислять налог с продаж на счета-фактуры партнера. Правила зависят от страны и региона. Партнеры в сотрудничестве со своими налоговыми консультантами должны подать заявку на освобождение от уплаты налога на основании своего местоположения и местоположения своих клиентов. Чтобы отметить свою учетную запись торгового посредника Майкрософт как не облагаемую налогом, партнер должен отправить эти сертификаты об освобождении от налога в Майкрософт.
+Partners should work with their tax advisor to [file tax exemptions](#file-tax-exemptions) based on their locations and where their customers are based.
 
-**Освобождение налогового освобождения**
+## <a name="country-and-region-tax-details"></a>Country and region tax details
 
-1.  Поиск **идентификатора Майкрософт** в центре партнеров &gt; **Параметры учетной записи** &gt; **профиля организации**.
-2.  Найдите **идентификатор MPN** в центре партнеров &gt; **Параметры учетной записи** &gt; **Партнерский профиль**.
-3.  Создайте новый запрос в службу поддержки. В меню Центр партнеров выберите запросы на **обслуживание** &gt; **центре партнеров запросы** &gt; **новый запрос**.
-4.  Заполните форму. В пункте **Тип проблемы** выберите **Не могу управлять своим профилем**. В описании добавьте свои идентификаторы MPN и Майкрософт.
-5.  После того как запрос будет отправлен, Майкрософт обратится к вам по электронной почте, чтобы получить дополнительные сведения. К своему ответу приложите документы, подтверждающие наличие оснований для освобождения от уплаты налогов.
+Specific tax-related information is available for the following countries and regions: [Canada](#canada), [the European Union](#european-union), [South Africa](#south-africa), [Turkey](#turkey), and [the United States](#united-states). For Taiwan and Korea, see [tax receipts details](#tax-receipts-and-daf).
 
-## <a name="details-by-countryregion"></a>Сведения по странам и регионам
+If you're in another country or region that charges taxes, see [the information for other regions](#other-regions).
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Канада</td>
-<td><p>Большинство торговых посредников не освобождаются от налога GST/HST/QST. Чтобы определить, имеете ли вы право на освобождение от налога и, если да, какие документы необходимо предоставить корпорации Майкрософт, обратитесь к своему консультанту по вопросам налогообложения.</p>
-<p>Для освобождения от налога BC PST подайте заявление, как описано выше. Предоставьте свой номер BC PST или заполненное и подписанное <em>общее свидетельство об освобождении от уплаты налогов</em>.</p></td>
-</tr>
-<tr class="even">
-<td>Европейский союз</td>
-<td><p>В государствах — членах ЕС партнеры должны указывать действительный идентификатор плательщика НДС для возврата платежей и правильного выставления счетов. Номер плательщика НДС должен быть <a href="https://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](https://go.microsoft.com/fwlink/p/?LinkId=808160)">принят как допустимый</a>.</p>
-<p>Корпорация Майкрософт не поддерживает кредитование и переоформление счетов, поэтому перед продажей подписок вам нужно зарегистрировать свой номер плательщика НДС в Центре партнеров.</p>
-<p>Отправка номера плательщика НДС в Майкрософт</strong></p>
-<ol>
-<li>В центре партнеров перейдите в меню Центр партнеров &gt; <strong>Параметры учетной записи</strong> &gt; <strong>профиль выставления счетов партнера</strong>.</li>
-<li>В разделе <strong>Финансовые данные</strong> выберите <strong>Обновление</strong>.</li>
-<li>В разделе <strong>Налоговый идентификатор организации</strong> укажите номер плательщика НДС.</li>
-</ol></td>
-</tr>
-<tr class="odd">
-<td>Южно-Африканская республика</td>
-<td><p>
-Теперь корпорация Майкрософт применяет стандартную налоговую сумму (НДС) к цифровому содержимому и услугам, приобретенным партнерами в Южной Африки. Чтобы исключить НДС из счетов и управлять им самостоятельно, используйте следующую процедуру для обновления профиля выставления счетов партнера.
-</p>
-<p>Отправка номера плательщика НДС в Майкрософт</strong></p>
-<ol>
-<li>В центре партнеров перейдите в меню Центр партнеров &gt; <strong>Параметры учетной записи</strong> &gt; <strong>профиль выставления счетов партнера</strong>.</li>
-<li>В разделе <strong>Финансовые данные</strong> выберите <strong>Обновление</strong>.</li>
-<li>В разделе <strong>Налоговый идентификатор организации</strong> укажите номер плательщика НДС.</li>
-</ol></td>
-</tr>
-<tr class="even">
-<td>Турция</td>
-<td>
-<p>
-Теперь корпорация Майкрософт применяет стандартную налоговую сумму (НДС) к цифровому содержимому и услугам, приобретенным партнерами в Турция. Чтобы исключить НДС из счетов и управлять им самостоятельно, используйте следующую процедуру для обновления профиля выставления счетов партнера.
-</p>
-<p>Отправка номера плательщика НДС в Майкрософт</strong></p>
-<ol>
-<li>В центре партнеров перейдите в меню Центр партнеров &gt; <strong>Параметры учетной записи</strong> &gt; <strong>профиль выставления счетов партнера</strong>.</li>
-<li>В разделе <strong>Финансовые данные</strong> выберите <strong>Обновление</strong>.</li>
-<li>В разделе <strong>Налоговый идентификатор организации</strong> укажите номер плательщика НДС.</li>
-</ol></td>
-</tr>
-<tr class="odd">
-<td>Соединенные Штаты</td>
-<td><p>Все торговые посредники в США должны предоставлять документацию об освобождении от налога с продаж в течение 30 дней с заключения Соглашения торгового посредника Майкрософт. В разных штатах действуют разные сертификаты освобождения торговых посредников от налогов. Вместе со своим налоговым консультантом определите свой действительный юридический адрес и штаты регистрации.</p>
-<p>У вас может быть свидетельство освобождения торговых посредников от налогов, действующее в нескольких штатах, например <em>свидетельство освобождения от уплаты налогов в рамках налогового соглашения об оптимизации налогов на продажи и использование</em> или <em>единое свидетельство освобождения от уплаты налогов на продажи и использование междуштатной налоговой комиссии</em>.</p></td>
-</tr>
-<tr class="even">
-<td>Другие страны и регионы, которые взимают налоги</td>
-<td><p>По другим вопросам, касающимся освобождения от уплаты налогов и возврата денежных средств, обращайтесь в Центр партнеров. Корпорации Майкрософт может потребоваться до двух недель, чтобы связаться с вами и решить проблему.</p></td>
-</tr>
-<tr class="odd">
-<td>Другие налоговые документы</td>
-<td><p>Для налоговых квитанций (для Тайваня или Кореи) или DAF обычно требуется две недели на обработку после выставления счета-фактуры.</p>
-<p>По другим вопросам, связанным с необходимой для освобождения от налогов документацией, обращайтесь в Центр партнеров.</p></td>
-</tr>
-</tbody>
-</table>
- 
+For additional questions, [request support in Partner Center](#support).
 
- 
+### <a name="canada"></a>Канада
 
- 
+Большинство торговых посредников не освобождаются от налога GST/HST/QST. Consult your tax advisor to determine whether you are qualified for exemption, and what documentation you should provide to Microsoft.
 
+For a BC PST Exemption, file a tax exemption as described. Предоставьте свой номер BC PST или заполненное и подписанное *общее свидетельство об освобождении от уплаты налогов*.
 
+### <a name="european-union"></a>Европейский союз
 
+В государствах — членах ЕС партнеры должны указывать действительный идентификатор плательщика НДС для возврата платежей и правильного выставления счетов. The VAT number must be accepted as valid.
+
+Microsoft does not support credit and re-bill. Before you sell any subscriptions, you must [register your VAT ID number](organization-tax-info.md) in Partner Center.
+
+### <a name="south-africa"></a>Южно-Африканская республика
+
+Microsoft now applies the standard VAT on digital content and services purchased by partners in South Africa. To exclude the VAT from your invoices and manage this yourself, you must update your partner billing profile by [sending Microsoft your VAT ID number](organization-tax-info.md).
+
+### <a name="turkey"></a>Турция
+
+Microsoft now applies the standard VAT on digital content and services purchased by partners in Turkey. To exclude the VAT from your invoices and manage this yourself, you must update your partner billing profile by [sending Microsoft your VAT ID number](organization-tax-info.md).
+
+### <a name="united-states"></a>Соединенные Штаты
+
+Все торговые посредники в США должны предоставлять документацию об освобождении от налога с продаж в течение 30 дней с заключения Соглашения торгового посредника Майкрософт. В разных штатах действуют разные сертификаты освобождения торговых посредников от налогов. Вместе со своим налоговым консультантом определите свой действительный юридический адрес и штаты регистрации.
+
+This may include resale exemption certificates that work across multiple states such as the *Streamline Sales* and *Use Tax Agreement Certificate of Exemption* or the *MTC Uniform Sales & Use Tax Exemption Certificate*.
+
+### <a name="other-regions"></a>Другие регионы
+
+If you are in another country or region that charges taxes, [request support in Partner Center](#support) for your questions.
+
+## <a name="tax-receipts-and-daf"></a>Tax receipts and DAF
+
+Для налоговых квитанций (для Тайваня или Кореи) или DAF обычно требуется две недели на обработку после выставления счета-фактуры.
+
+## <a name="file-tax-exemptions"></a>Подача заявок на освобождение от уплаты налогов
+
+Before you file a tax exemption, find your **Microsoft ID** and **MPN ID** to include in the support ticket:
+
+1. Sign in to [the Partner Center dashboard](https://partner.microsoft.com/dashboard/).
+2. In the **Settings** menu (gear icon), choose **Partner Settings**.
+3. On the **Account settings** page, choose **Organization profile** in the dashboard menu.
+4. Note your **Microsoft ID**.
+5. On the same page, choose **Partner profile** in the dashboard menu.
+6. Note your **MPN ID**.
+
+Then, create a support ticket for Microsoft with your tax exemption information:
+
+1. In the dashboard menu, under **Support**, choose **Partner support requests**.
+2. On the **Partner request** page, choose **New request**. (You can also view your open and closed support requests later on this page.)
+3. On the **Basics** step, under **CSP - billing and payments**, choose **Select an issue type** and select **Tax exemption request**.
+4. On the **Solutions** step, under **Do you need more help?** , choose **Yes**.
+5. On the **Details** step, fill out the **Issue details** form. Be sure to:
+
+    - Fill out all required fields.
+    - Include your **Microsoft ID** and **MPN ID** in the **Details** field.
+    - Include any supporting documentation to your ticket in the attachments field.
+
+6. Choose **Submit** to send in your support request. Microsoft will email you back for more information.
+
+## <a name="support"></a>Поддержка
+
+For other questions about tax exemptions and refunds, request support in Partner Center. Корпорации Майкрософт может потребоваться до двух недель, чтобы связаться с вами и решить проблему.
+
+For other tax-related documentation needs, please also request service in Partner Center.
