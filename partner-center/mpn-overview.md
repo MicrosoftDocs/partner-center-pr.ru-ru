@@ -1,80 +1,80 @@
 ---
-title: Членство Microsoft Partner Network | Центр партнеров
+title: Членство в Microsoft Partner Network | Центр партнеров
 ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Узнайте о преимуществах сотрудничества с Майкрософт. Microsoft Partner Network предоставляет широкий спектр продуктов в отрасли, а также программные средства для различения бизнеса, перехода на рынке и продажи решений.
+description: Узнайте о преимуществах партнерских отношений с Майкрософт. Microsoft Partner Network предоставляет широкий спектр продуктов в отрасли, а также разнообразные программы для дифференциации бизнеса, выхода на рынок и продажи решений.
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: партнер, сотрудничество, MPN, Microsoft Partner Network, action pack, MAPS, подписка action pack, преимущества, преимущества MPN, членство, silver, gold, компетенции
-ms.localizationpriority: medium
+keywords: партнер, сотрудничество, MPN, Microsoft Partner Network, Action Pack, MAPS, подписка Action Pack, преимущества, преимущества MPN, членство, Silver, Gold, компетенции
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 03aab24eab0fdf0ee5e116b033da679b8049a923
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
-ms.translationtype: MT
+ms.openlocfilehash: ca47417870c2308758fe6e7db5ed9dfc5ae2a4fc
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661150"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096528"
 ---
 # <a name="partner-with-microsoft"></a>Партнерство с Майкрософт
 
 При присоединении к партнерской программе Майкрософт вы становитесь частью глобального сообщества, которое предоставляет вам доступ к полезным связям, аналитическим данным, средствам, ресурсам и программам, с помощью которых вы сможете удивлять своих клиентов и развивать свой бизнес.
 
-Дополнительные сведения о преимуществах сотрудничества с корпорацией Майкрософт см. в разделе [Причины выбрать Майкрософт в качестве партнера](https://partner.microsoft.com/business-opportunities/why-microsoft). 
+Дополнительные сведения о преимуществах сотрудничества с корпорацией Майкрософт см. на странице [Преимущества партнерства](https://partner.microsoft.com/business-opportunities/why-microsoft). 
 
 ## <a name="join-the-microsoft-partner-network"></a>Присоединитесь к Microsoft Partner Network
 
 <!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/membership)-->
 
-Microsoft Partner Network предоставляет широкий спектр продуктов в отрасли, а также программные средства для различения бизнеса, перехода на рынке и продажи решений. Присоединяйтесь бесплатно, а затем выберите способ вложения в партнерство с помощью пакета действий Майкрософт, начального набора или компетенции.
+Microsoft Partner Network предоставляет широкий спектр продуктов в отрасли, а также разнообразные программы для дифференциации бизнеса, выхода на рынок и продажи решений. Присоединяйтесь бесплатно, а затем выберите способ участия в качестве партнера: с помощью Microsoft Action Pack, начального набора или компетенций.
 
-Пакет действий или комплект для начала работы предоставляет программное обеспечение и поддержку для создания решений на базе Майкрософт, а компетенции, демонстрирующие ваши проверенные навыки для клиентов и других партнеров.
+Action Pack или начальный набор предоставляют программное обеспечение и поддержку для создания решений на базе Майкрософт, а компетенции демонстрируют ваш подтвержденный опыт для клиентов и других партнеров.
 
 Дополнительные сведения о Microsoft Partner Network (MPN) см. на [веб-сайте MPN](https://partner.microsoft.com/commercial).
 
 ### <a name="how-to-join"></a>Как присоединиться
 
-Чтобы присоединиться к Microsoft Partner Network, перейдите на [страницу **членство** ](https://partner.microsoft.com/membership) на веб-сайте MPN и выберите **зарегистрировать** или **присоединиться сейчас**.
+Чтобы присоединиться к Microsoft Partner Network, перейдите на [страницу **Членство**](https://partner.microsoft.com/membership) на веб-сайте MPN и выберите **Регистрация** или **Присоединиться**.
 
-## <a name="make-the-microsoft-partner-network-membership-work-for-you"></a>Сделайте Microsoft Partner Network членства в вашей работе
+## <a name="make-the-microsoft-partner-network-membership-work-for-you"></a>Сделайте так, чтобы членство в Microsoft Partner Network работало на вас
 
 <!-- 10/25/2019 The content below content from the Membership pages of the MPN site (https://partner.microsoft.com/membership) and additional updated content.-->
 
-По мере достижения бизнес-целей примите участие в программе на уровне, отвечающем вашим уникальным потребностям, для доступа к дополнительным преимуществам, а также для разработки отношений с нами и другими партнерами в сети.
+Достигая поставленные бизнес-цели, выбирайте уровень участия в программе, соответствующий вашим потребностям, чтобы получать дополнительные преимущества и развивать отношения с Майкрософт и другими партнерами.
 
-### <a name="action-pack"></a>Пакет Action Pack
+### <a name="action-pack"></a>Action Pack
 
-Action Pack предлагает программное обеспечение, поддержку и преимущества для предприятий, которые хотят начать, создать и расширить свою работу Майкрософт в облачной и мобильной среде. 
+Action Pack предлагает программное обеспечение, поддержку и преимущества для организаций, которые хотят расширить свои возможности работы с решениями Майкрософт в эпоху мобильных и облачных технологий. 
 
-Ознакомьтесь с приведенными ниже ресурсами, чтобы узнать больше о Action Pack.
+Ознакомьтесь с приведенными ниже ресурсами, чтобы узнать больше о Action Pack:
 
 - [Перенос облачных бизнес-процессов с помощью Microsoft Action Pack](https://partner.microsoft.com/membership/action-pack)
 
-- [Получение Action Pack](mpn-get-action-pack.md)
+- [Получение пакета Action Pack](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >Вы управляете подпиской Action Pack в центре партнеров. Если ваша компания еще не перешла в центр партнеров из центра управления партнерами, прочитайте статью [Подготовка к переходу в центр партнеров](prepare-pmc-pc-migration.md) .  
+    >Вы можете управлять подпиской Action Pack в Центре партнеров. Если ваша компания еще не перешла на Центр партнеров с Partner Membership Center, обратитесь к статье о подготовке к переходу в Центр партнеров [здесь](prepare-pmc-pc-migration.md).  
 
-- [Продлите предложения MPN](renew-mpn-offers.md)
+- [Продление подписки на предложения MPN](renew-mpn-offers.md)
 
 ### <a name="competencies"></a>Компетенции
 
-Продемонстрируйте проверенный опыт в сфере решений для обеспечения качества в специализированной области бизнеса. Компетенции корпорации Майкрософт предназначены для удовлетворения потребностей текущих клиентов и могут быть распознаны для потенциальных пользователей. Присоединяйтесь к элитному уровню партнеров корпорации Майкрософт и выделитесь из подобных вам компаний.
+Продемонстрируйте свой подтвержденный опыт в предоставлении качественных решений в специализированной области. Компетенции Microsoft предназначены для удовлетворения потребностей текущих клиентов и выделения вас для потенциальных клиентов. Присоединяйтесь к элитному уровню партнеров корпорации Майкрософт и выделитесь из подобных вам компаний.
 
-Ознакомьтесь с приведенными ниже ресурсами, чтобы узнать больше о компетенциях.
+Ознакомьтесь с приведенными ниже ресурсами, чтобы узнать больше о компетенциях:
 
-- [Партнеры по компетенции](https://partner.microsoft.com/membership/competencies)
+- [Партнеры с компетенциями](https://partner.microsoft.com/membership/competencies)
 
-## <a name="microsoft-partner-network-benefits-and-requirements"></a>Microsoft Partner Network преимущества и требования
+## <a name="microsoft-partner-network-benefits-and-requirements"></a>Преимущества и требования Microsoft Partner Network
 
 При присоединении к Microsoft Partner Network вы получаете набор основных преимуществ, которые помогут сэкономить время и средства, одновременно расширяя возможности, а также лучше обслуживать клиентов и создавать связи, чтобы раскрывать полный потенциал вашего бизнеса.
 
-Ознакомьтесь с приведенными ниже ресурсами, чтобы узнать больше о преимуществах и требованиях к сети.
+Ознакомьтесь с приведенными ниже ресурсами, чтобы узнать больше о преимуществах и требованиях Microsoft Partner Network:
 
 - [Основные преимущества](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-1)
-- [Управляйте своими преимуществами MPN в центре партнеров](manage-your-partner-network-benefits.md)
+- [Управление преимуществами членства в Microsoft Partner Network](manage-your-partner-network-benefits.md)
 - [Основные требования](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
 ## <a name="see-also"></a>См. также
-- [Развивайте свой бизнес партнера Майкрософт](grow-your-business.md)
+- [Развивайте свой партнерский бизнес вместе с Майкрософт](grow-your-business.md)

@@ -9,13 +9,13 @@ ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: руководства по программе csp, руководство по программе, партнерские соглашения, соглашение с клиентом, прейскуранты, предложения
-ms.localizationpriority: medium
-ms.openlocfilehash: 6463c7c87773a281f455de9ef00deecc300ac830
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: 06bcbea6068a3185f097b5db6b50f30dfd85f7c7
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653571"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096522"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Руководство по программе поставщиков облачных решений, соглашения, прейскуранты и предложения
 
@@ -36,9 +36,9 @@ ms.locfileid: "73653571"
 >[!Note]
 >Если вам требуется официальное письмо с подтверждением или сертификацией вашего статуса в качестве утвержденного партнера Майкрософт в программе поставщиков облачных решений, [обратитесь в службу поддержки](https://partner.microsoft.com/pcv/servicerequests/create), чтобы запросить его.
 
-### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Дополнительные условия предложения для партнерского соглашения Майкрософт
+### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Дополнительные условия предложений для Соглашения с партнером Майкрософт
 
-[Рекомендации по дополнительным предложениям по подпискам веб-служб и авторизации канала программного обеспечения](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
+[Руководство по дополнительным условиям предложений для подписок на Online Services и авторизации канала программного обеспечения](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Соглашение об использовании Microsoft Cloud: шаблоны для клиентов
 
@@ -75,4 +75,4 @@ ms.locfileid: "73653571"
 
 Для партнеров CSP, которые используют API Crest Usage Record, корпорация Майкрософт также публикует список служб Azure в CSP на странице **Цены и предложения**.
 
-Чтобы узнать о предложениях Azure Marketplace, опубликованных независимыми поставщиками программного обеспечения, перейдите на страницу **Marketplace** в меню навигации слева. Сейчас в Центре партнеров можно приобрести только продукты типа SaaS (программное обеспечение как услуга). Для получения других типов предложений Azure Marketplace необходимо посетить портал Azure.
+Чтобы узнать о предложениях Azure Marketplace, опубликованных независимыми поставщиками программного обеспечения, перейдите на страницу **Marketplace** в меню навигации слева. Сейчас в Центре партнеров можно приобрести только продукты типа SaaS (программное обеспечение как услуга). Чтобы узнать о других типах предложений Azure Marketplace, необходимо посетить портал Azure.
