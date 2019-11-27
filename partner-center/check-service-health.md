@@ -17,23 +17,23 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253432"
 ---
-# <a name="check-service-health"></a><span data-ttu-id="2277b-104">Проверка работоспособности службы</span><span class="sxs-lookup"><span data-stu-id="2277b-104">Check service health</span></span>
+# <a name="check-service-health"></a><span data-ttu-id="46dd2-104">Проверка работоспособности службы</span><span class="sxs-lookup"><span data-stu-id="46dd2-104">Check service health</span></span>
 
-<span data-ttu-id="2277b-105">**Относится к**</span><span class="sxs-lookup"><span data-stu-id="2277b-105">**Applies to**</span></span>
+<span data-ttu-id="46dd2-105">**Относится к**</span><span class="sxs-lookup"><span data-stu-id="46dd2-105">**Applies to**</span></span>
 
--  <span data-ttu-id="2277b-106">Центр партнеров</span><span class="sxs-lookup"><span data-stu-id="2277b-106">Partner Center</span></span>
+-  <span data-ttu-id="46dd2-106">Центр партнеров</span><span class="sxs-lookup"><span data-stu-id="46dd2-106">Partner Center</span></span>
 
-<span data-ttu-id="2277b-107">В числе первых действий, которые можно предпринять, если клиент испытывает проблемы с использованием службы, является проверка ее работоспособности.</span><span class="sxs-lookup"><span data-stu-id="2277b-107">One of the first things you can do when a customer is experiencing problems with a service is to check the service health.</span></span>
+<span data-ttu-id="46dd2-107">В числе первых действий, которые можно предпринять, если клиент испытывает проблемы с использованием службы, является проверка ее работоспособности.</span><span class="sxs-lookup"><span data-stu-id="46dd2-107">One of the first things you can do when a customer is experiencing problems with a service is to check the service health.</span></span>
 
-<span data-ttu-id="2277b-108">**Проверка работоспособности службы**</span><span class="sxs-lookup"><span data-stu-id="2277b-108">**Check service health**</span></span>
+<span data-ttu-id="46dd2-108">**Проверка работоспособности службы**</span><span class="sxs-lookup"><span data-stu-id="46dd2-108">**Check service health**</span></span>
 
-1.  <span data-ttu-id="2277b-109">В меню **Центр партнеров** выберите **работоспособность службы**.</span><span class="sxs-lookup"><span data-stu-id="2277b-109">From the **Partner Center** menu, select **Service health**.</span></span> 
+1.  <span data-ttu-id="46dd2-109">В меню **Центр партнеров** выберите **работоспособность службы**.</span><span class="sxs-lookup"><span data-stu-id="46dd2-109">From the **Partner Center** menu, select **Service health**.</span></span> 
 
-2.  <span data-ttu-id="2277b-110">Вы увидите все ваши службы вместе с соответствующими обозначениями, относящимися к состоянию их работоспособности.</span><span class="sxs-lookup"><span data-stu-id="2277b-110">You'll see all of your services displayed, along with indications if any are not in good health.</span></span> 
+2.  <span data-ttu-id="46dd2-110">Вы увидите все ваши службы вместе с соответствующими обозначениями, относящимися к состоянию их работоспособности.</span><span class="sxs-lookup"><span data-stu-id="46dd2-110">You'll see all of your services displayed, along with indications if any are not in good health.</span></span> 
 
-<span data-ttu-id="2277b-111">Во время простоя службы Майкрософт постоянно сообщает о ходе устранения проблемы.</span><span class="sxs-lookup"><span data-stu-id="2277b-111">During a service outage, Microsoft provides regular updates as we work to address the problem.</span></span> <span data-ttu-id="2277b-112">Лучший способ просмотреть эти обновления — из **центра уведомлений** в центре партнеров.</span><span class="sxs-lookup"><span data-stu-id="2277b-112">The best way to view these updates is from the **Notification center** on the the Partner Center.</span></span> <span data-ttu-id="2277b-113">Эти уведомления также отображаются на портале Microsoft Azure или в Центре администрирования Office 365.</span><span class="sxs-lookup"><span data-stu-id="2277b-113">These notifications are also displayed on either the Microsoft Azure portal or the Office 395 Admin Center.</span></span>
+<span data-ttu-id="46dd2-111">Во время простоя службы Майкрософт постоянно сообщает о ходе устранения проблемы.</span><span class="sxs-lookup"><span data-stu-id="46dd2-111">During a service outage, Microsoft provides regular updates as we work to address the problem.</span></span> <span data-ttu-id="46dd2-112">Лучший способ просмотреть эти обновления — из **центра уведомлений** в центре партнеров.</span><span class="sxs-lookup"><span data-stu-id="46dd2-112">The best way to view these updates is from the **Notification center** on the the Partner Center.</span></span> <span data-ttu-id="46dd2-113">Эти уведомления также отображаются на портале Microsoft Azure или в Центре администрирования Office 365.</span><span class="sxs-lookup"><span data-stu-id="46dd2-113">These notifications are also displayed on either the Microsoft Azure portal or the Office 395 Admin Center.</span></span>
 
-<span data-ttu-id="2277b-114">Если проблема не устранена после завершения простоя службы, отправьте запрос на обслуживание.</span><span class="sxs-lookup"><span data-stu-id="2277b-114">If the problem still persists after the end of the service outage, submit a service request.</span></span> <span data-ttu-id="2277b-115">См. раздел [Сообщение о проблемах от имени клиента](report-problems-on-behalf-of-a-customer.md).</span><span class="sxs-lookup"><span data-stu-id="2277b-115">See [Report problems on behalf of a customer](report-problems-on-behalf-of-a-customer.md).</span></span>
+<span data-ttu-id="46dd2-114">Если проблема не устранена после завершения простоя службы, отправьте запрос на обслуживание.</span><span class="sxs-lookup"><span data-stu-id="46dd2-114">If the problem still persists after the end of the service outage, submit a service request.</span></span> <span data-ttu-id="46dd2-115">См. раздел [Сообщение о проблемах от имени клиента](report-problems-on-behalf-of-a-customer.md).</span><span class="sxs-lookup"><span data-stu-id="46dd2-115">See [Report problems on behalf of a customer](report-problems-on-behalf-of-a-customer.md).</span></span>
 
  
 
