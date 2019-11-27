@@ -105,6 +105,6 @@ ms.locfileid: "74253722"
 
 Дополнительные сведения о работе CSP в Marketplace см. в статье [Обзор коммерческого рынка](csp-commercial-marketplace-overview.md).
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Приобретение предложений коммерческих рынков](csp-commercial-marketplace-purchase.md)

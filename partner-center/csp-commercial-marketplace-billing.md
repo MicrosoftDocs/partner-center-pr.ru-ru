@@ -1,13 +1,13 @@
 ---
-title: Billing for commercial marketplace products | Partner Center
+title: Выставление счетов за продукты для коммерческого рынка | Центр партнеров
 ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how billing works for ISV SaaS products or subscriptions purchased for customers from the commercial marketplace within Partner Center.
+description: Узнайте, как выставление счетов действует для продуктов и подписок ISV, приобретенных для клиентов из коммерческого рынка в центре партнеров.
 author: MicheleHope
 ms.author: v-mihope
-keywords: subscriptions, products, purchases, Marketplace, third party, ISV, billing, invoices, reconciliation, recon file
+keywords: подписки, продукты, покупки, Marketplace, сторонние лица, независимые поставщики программного обеспечения, выставление счетов, счета, сверка, разведывательную файл
 ms.localizationpriority: medium
 ms.openlocfilehash: bc4dcca3d8c3d454a17eca676d5fadd1dac202d3
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -16,98 +16,98 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384913"
 ---
-# <a name="billing-for-commercial-marketplace-products"></a>Billing for commercial marketplace products
+# <a name="billing-for-commercial-marketplace-products"></a>Выставление счетов за продукты для коммерческого рынка
 
 **Относится к**
 
 - Центр партнеров
 - Партнеры в программе CSP
 
-**Appropriate roles**
+**Соответствующие роли**
 
 - Глобальный администратор
 - Администратор выставления счетов
 
-As a partner in the CSP program, you can use Partner Center to purchase license-based SaaS products from ISV publishers in the commercial marketplace. After you do so, you can access a bill for these types of purchases. The billing period starts on the first day of the calendar month and ends on the last day of the calendar month. Invoices are made available on the 8th day of the following month.
+Как партнер в программе CSP, вы можете использовать центр партнеров для приобретения продуктов SaaS на основе лицензий от издателей ISV в коммерческом магазине. После этого вы сможете получить доступ к ведомости по этим типам покупок. Расчетный период начинается в первый день календарного месяца и заканчивается на последний день календарного месяца. Счета становятся доступны на восьмой день следующего месяца.
 
-You can access invoices from either the Partner Center [dashboard](https://partner.microsoft.com/dashboard/) or by using [Partner Center APIs](https://docs.microsoft.com/partner-center/develop/).
+Вы можете получить доступ к счетам из [панели мониторинга](https://partner.microsoft.com/dashboard/) центра партнеров или с помощью [API-интерфейсов центра партнеров](https://docs.microsoft.com/partner-center/develop/).
 
-Partners in the CSP program are billed for ISV commercial marketplace solutions purchased for a customer when they purchase those products from either Partner Center or from the Azure portal (using the customer's prior, CSP-purchased Azure tenant).
+Партнерам в программе CSP выставляются счета за решения для коммерческого рынка независимых поставщиков программного обеспечения, приобретенные для клиента, когда они приобретают эти продукты из центра партнеров или портал Azure (с использованием клиента Azure, приобретенного ранее поставщиком CSP).
 
 >[!NOTE]
->If customers use their own Azure AD tenant (not one purchased from a partner in the CSP program), customers can also choose to purchase their own ISV SaaS solution directly from ([Microsoft AppSource](https://appsource.microsoft.com/) or [Azure Marketplace](https://azuremarketplace.microsoft.com/)). If they do so, they will receive their own bill directly from Microsoft. Likewise, if a partner in the CSP program sells an Azure AD tenant to the customer and grants the customer [role-based access](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles) to that tenant (assigning any role to the customer besides **Reader**), that customer can also purchase commercial marketplace offers without prior approval or notification to the CSP partner. In these cases, Microsoft will not directly notify partners in the CSP program about purchases made by their customers. However, Microsoft does offer an optional [Azure Monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) mechanism that you can use to set alerts or notifications about activity on an Azure subscription.
+>Если клиенты используют собственный клиент Azure AD (не приобретенный у партнера в программе CSP), клиенты также могут приобрести собственное решение SaaS ISV непосредственно в ([Microsoft AppSource](https://appsource.microsoft.com/) или [Azure Marketplace](https://azuremarketplace.microsoft.com/)). Если это так, они получат свой счет непосредственно от корпорации Майкрософт. Аналогичным образом, если партнер в программе CSP продает клиенту Azure AD на клиент и предоставляет доступ к этому клиенту [на основе ролей](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles) , то он также может приобрести предложения коммерческих рынков без предварительного утвержденияили уведомления для партнера CSP. В таких случаях корпорация Майкрософт не будет напрямую уведомлять партнеров в программе CSP о покупках, сделанных клиентами. Однако корпорация Майкрософт предлагает дополнительный механизм [Azure Monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) , который можно использовать для настройки оповещений или уведомлений о действиях в подписке Azure.
 
-## <a name="access-billing-information-for-commercial-marketplace-products"></a>Access billing information for commercial marketplace products
+## <a name="access-billing-information-for-commercial-marketplace-products"></a>Доступ к сведениям о выставлении счетов для продуктов коммерческих рынков
 
-Глобальный администратор или администратор выставления счетов для вашей компании получат электронное сообщение, когда счет-фактура будет готов к просмотру. To access the latest invoice and reconciliation file for commercial marketplace product purchases:
+Глобальный администратор или администратор выставления счетов для вашей компании получат электронное сообщение, когда счет-фактура будет готов к просмотру. Чтобы получить доступ к последнему файлу счета и выверки для приобретения продуктов для коммерческого рынка, сделайте следующее:
 
 1. Выполните вход в [Панель мониторинга](https://partner.microsoft.com/dashboard/) Центра партнеров.
 
 2. В меню Центра партнеров выберите **Billing** (Выставление счетов). 
 
-    You will see two tabs at the top of the Billing page: **Recurring** and **Recurring and one-time purchases**. Each tab lets you access invoice and reconciliation (recon) files for different marketplace products:
+    В верхней части страницы выставления счетов отображаются две вкладки: **повторяющиеся** и **повторяющиеся и одноразовые покупки**. На каждой вкладке можно получить доступ к файлам счетов и сверки (разведывательную) для различных продуктов Marketplace:
 
-    - **Recurring** tab: Shows invoice and reconciliation files for subscriptions related to Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, PowerBI Pro, and Microsoft Azure.
+    - **Повторяющаяся** вкладка: показывает файлы счетов и выверки для подписок, связанных с Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, PowerBI Pro и Microsoft Azure.
 
-    - **Recurring and one-time purchases** tab: Shows invoice and reconciliation files for Azure plan, Azure reservations, software and commercial marketplace products.
+    - Вкладка " **повторяющиеся" и "разовые покупки** ": показывает файлы счетов и выверки для плана Azure, резервирования Azure, программного обеспечения и коммерческих продуктов.
   
-3. Select the **Recurring and one-time purchases** tab. If you purchased subscriptions for a customer in a different currency, you will see a tab for each currency. You can do a few things fr:om this page:
+3. Выберите вкладку **повторяющиеся и разовые покупки** . Если вы приобрели подписки для клиента в другой валюте, вы увидите вкладку для каждой валюты. На этой странице можно выполнить несколько действий. om:
 
-    - To see the latest invoice and reconciliation file, select **Invoice** or **Reconciliation file**. (If you wanted to, you can also access the latest invoice and recon file data using [Partner Center APIs](https://docs.microsoft.com/partner-center/develop/).
+    - Чтобы просмотреть последний файл счета и сверки, выберите **счет** или **файл сверки**. (Если вы хотите, вы также можете получить доступ к последним данным о счетах и разведывательную файлов с помощью [API центра партнеров](https://docs.microsoft.com/partner-center/develop/).
 
-    - To see earlier invoices and recon files, expand the **Billing history** row below.
+    - Чтобы просмотреть предыдущие счета и файлы разведывательную, разверните строку **Журнал выставления счетов** ниже.
 
-    - To check your estimated account balance or bill at any time based on the latest account activity, select a link under the **Estimates** heading.  
+    - Чтобы проверить оценочный баланс счета или счет в любое время на основе последней операции с учетной записью, выберите ссылку под заголовком **оценки** .  
 
     >[!NOTE]
-    > When we post your bill on the 8th day of the month, it will include taxes and any other applicable charges and credits. This means the final amount due might differ from what you see during the billing period.
+    > При публикации счета на восьмой день месяца он будет включать налоги и любые другие применимые платежи и кредиты. Это означает, что окончательная сумма может отличаться от той, которая отображается в течение расчетного периода.
 
-## <a name="more-about-invoices-and-recon-files-for-commercial-marketplace-products"></a>More about invoices and recon files for commercial marketplace products
+## <a name="more-about-invoices-and-recon-files-for-commercial-marketplace-products"></a>Дополнительные сведения о счетах и файлах разведывательную для продуктов коммерческих рынков
 
-This section offers more information about invoice and reconciliation files for commercial marketplace SaaS subscriptions purchased for customers from third-party ISV publishers.
+В этом разделе приводятся дополнительные сведения о файлах накладных и выверке для коммерческих партнеров по подписке SaaS, приобретенных для клиентов сторонними издателями независимых поставщиков программного обеспечения.
 
-When you select **Recurring and one-time purchases** from the **Billing** option in the Partner Center menu, you gain access to invoices and reconciliation files for charges related to both Microsoft (first-party) and ISV (third-party) purchases. These purchases may be associated with:
+Если выбрать **повторяющиеся и одноразовые покупки** из параметра **выставление счетов** в центре партнеров, вы получите доступ к счетам и файлам сверки для оплаты, связанной с покупками Майкрософт (первая сторона) и независимыми поставщиками программного обеспечения (сторонние продукты). Эти покупки могут быть связаны с:
 
-- SaaS subscriptions (from either Microsoft or ISV publishers)
+- Подписки SaaS (от издателей Майкрософт или ISV)
 
-- Azure plan
+- План Azure
 
 - Резервирования Azure
 
-- Other subscription-based software (from either Microsoft or ISV publishers)
+- Другое программное обеспечение на основе подписки (от издателей Майкрософт или ISV)
 
-Examples of these purchases might include SUSE Linux software (a software subscription) or an Azure ISV SaaS product subscription.
+Примерами таких покупок могут быть программное обеспечение SUSE Linux (подписка на программное обеспечение) или подписка на продукт SaaS ISV Azure.
 
 >[!NOTE]
-> For more information about how to read invoice and recon files, see also [Billing overview](billing.md).
+> Дополнительные сведения о том, как читать счета и файлы разведывательную, см. в разделе также [Общие сведения о выставлении счетов](billing.md).
 
-### <a name="tips-on-reading-your-invoice"></a>Tips on reading your invoice
+### <a name="tips-on-reading-your-invoice"></a>Советы по чтению счета
 
-When you purchase a license-based SaaS product from a third-party ISV publisher, you will only see charges for the license fee on your invoice. This is true even when the ISV's SaaS product uses (or consumes) underlying Azure infrastructure resources. That is because your customer's Azure infrastructure usage charges for an ISV's SaaS product are billed directly to the ISV. (ISVs will see associated Azure consumption charges in their own Azure usage daily-rated invoice reconciliation file.)
+При покупке продукта SaaS на основе лицензий от стороннего издателя независимого поставщика программного обеспечения вы будете видеть только оплату за лицензию на ваш счет. Это справедливо, даже если продукт SaaS ISV использует базовые ресурсы инфраструктуры Azure (или потребляет их). Это связано с тем, что плата за использование инфраструктуры Azure клиента для продукта SaaS ISV выставляется непосредственно на независимый поставщик программного обеспечения. (Независимые поставщики программного обеспечения увидят связанные расходы на использование Azure в отдельном файле сверки с оплатой по журналу использования Azure.)
 
-Your invoice will contain several pages:
+Ваш счет будет содержать несколько страниц:
 
-- **Page 1 of the invoice:** Contains a summary overview of the CSP program partner's billing details. This includes a summary of charges for the billing period, an invoice number, payment terms (Net 60 days), and billing payment methods to pay by wire or by check.
+- **Стр. 1 счета:** Содержит сводный обзор сведений о выставлении счетов партнера по программе CSP. Сюда входит сводка по расходам за расчетный период, номер счета, условия оплаты (в течение 60 дней) и способы оплаты счетов для оплаты по сети или по чекам.
 
-- **Page 2 (and any subsequent pages) of the invoice:** Details charges for both first-party Microsoft purchases and third-party ISV (license-based) purchases from the commercial marketplace. You can identify ISV license-based purchases by the **Publisher** line beneath each product name. The associated reconciliation file offers more billing details for specific invoice charges.
+- **Страница 2 (и все последующие страницы) счета:** Сведения о расходах на покупки продуктов Майкрософт и сторонних поставщиков ISV (на основе лицензий) от коммерческих рынков. Можно выровнять покупки по лицензии ISV по строке **издателя** под каждым названием продукта. Связанный файл сверки предлагает дополнительные сведения о выставлении счетов за определенные расходы на счета.
 
-- **Final page of the invoice:** If you were charged for license-based marketplace products from an ISV, this final page will display more details about the ISV publisher's name and address.
+- **Последняя страница счета:** Если вы платите за продукты, основанные на лицензиях, от ISV, на этой последней странице будут отображаться дополнительные сведения об имени и адресе издателя ISV.
 
-### <a name="tips-on-reading-your-reconciliation-file"></a>Tips on reading your reconciliation file
+### <a name="tips-on-reading-your-reconciliation-file"></a>Советы по чтению файла сверки
 
-The **Recurring and one-time purchases** reconciliation file contains several columns with additional details that map to the charges in your invoice. The **PublisherName** column shows whether the purchase is from Microsoft or a third-party ISV publisher.
+Файл сверки с **повторяющимися и одноразовыми покупками** содержит несколько столбцов с дополнительными сведениями, которые сопоставляются с платами в счете. В столбце **PublisherName** показано, относится ли покупка к издателю независимых поставщиков программных продуктов корпорации Майкрософт или сторонних производителей.
 
-Some charges in your reconciliation file may appear with a cost of $0. This may be due to an ISV "free trial" offer (usually 30 or 60 days) or a Bring Your Own License offer.
+В файле сверки может взиматься плата с ценой $0. Это может быть вызвано предложением бесплатной пробной версии ISV (обычно 30 или 60 дней) или предложением использования собственного лицензионного предложения.
 
-In the case of free trial ISV offers:
+В случае бесплатных пробных продуктов:
 
-- The free trial period covers the cost of the ISV's license-based SaaS product during that time. You will also not be charged for associated Azure infrastructure use of that SaaS product.  If you are using a usage-based ISV offer, however, the free trial does not include the cost of underlying Azure infrastructure usage. In this case, Azure infrastructure usage charges will appear in a separate Azure reconciliation file.
+- Бесплатный пробный период охватывает стоимость продукта SaaS на основе лицензий ISV в течение этого времени. Кроме того, вам не будет выставляться тариф за связанное использование инфраструктуры Azure этого продукта SaaS.  Однако если вы используете предложение ISV на основе использования, то Бесплатная пробная версия не включает стоимость использования базовой инфраструктуры Azure. В этом случае плата за использование инфраструктуры Azure будет отображаться в отдельном файле сверки Azure.
 
-- When you purchase and deploy an ISV's free trial-eligible product for your customer, the customer is automatically enrolled in the free trial by the ISV publisher. The free trial period ends automatically after the period defined by the ISV publisher. After the period ends, the customer will be charged. This means the reconciliation file may show two rows for a trial-eligible product: One that tracks the trial period and one that tracks the paid offer (which will display a cost of $0 until after the trial period ends). Once the trial ends, the row showing the paid offer will start to show charges. 
+- При покупке и развертывании бесплатной пробной версии продукта независимых поставщиков программного обеспечения клиент автоматически регистрируется в бесплатной пробной версии издателя ISV. Бесплатный пробный период завершается автоматически после периода, определенного издателем ISV. По окончании периода клиент будет оплачен. Это означает, что в файле сверки могут отображаться две строки для продукта, пригодного для пробной версии: один, отслеживающий пробный период, и второй, отслеживающий Платное предложение (которое будет отображать стоимость $0 до окончания пробного периода). После завершения пробной версии строка, показывающая Платное предложение, начнет показывать плату. 
 
-For more information about what each column represents, see [Use your reconciliation files](use-the-reconciliation-files.md). See also [Types of billing in Partner Center](billing-different-types.md)
+Дополнительные сведения о том, что представляет каждый столбец, см. [в разделе Использование файлов сверки](use-the-reconciliation-files.md). См. также [типы выставления счетов в центре партнеров](billing-different-types.md)
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
-- [Manage commercial marketplace products for customers](csp-commercial-marketplace-manage.md)
-- [Learn about support for commercial marketplace products](csp-commercial-marketplace-support.md)
+- [Управление продуктами коммерческого рынка для клиентов](csp-commercial-marketplace-manage.md)
+- [Дополнительные сведения о поддержке продуктов для коммерческого рынка](csp-commercial-marketplace-support.md)

@@ -1,12 +1,12 @@
 ---
-title: Common billing scenarios for license-based SaaS transactions | Partner Center
+title: Распространенные сценарии выставления счетов для транзакций SaaS на основе лицензий | Центр партнеров
 ms.topic: article
 ms.date: 11/21/2019
-description: Common billing scenarios in Partner Center for license-based SaaS transactions.
+description: Распространенные сценарии выставления счетов в центре партнеров по транзакциям SaaS на основе лицензий.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: billing, payments, one-time purchase, recurring purchase, subscriptions, seats
+Keywords: выставление счетов, оплата, одноразовая покупка, повторная покупка, подписки, рабочие места
 ms.localizationpriority: medium
 ms.openlocfilehash: b808a3bbfc0856e03f1c775d7e3145a29c2239fb
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,58 +15,58 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389612"
 ---
-# <a name="billing-scenarios-for-license-based-saas-transactions"></a>Billing scenarios for license-based SaaS transactions
+# <a name="billing-scenarios-for-license-based-saas-transactions"></a>Сценарии выставления счетов для транзакций SaaS на основе лицензий
 
-These example [common billing scenarios](common-billing-scenarios.md) are applicable to license-based software as a service (SaaS) subscriptions in Partner Center.
+В этих примерах [распространенные сценарии выставления счетов](common-billing-scenarios.md) применимы к подпискам на программное обеспечение как услуга (SaaS) на основе лицензий в центре партнеров.
 
-## <a name="convert-a-free-trial-saas-subscription-to-a-paid-subscription"></a>Convert a free trial SaaS subscription to a paid subscription
+## <a name="convert-a-free-trial-saas-subscription-to-a-paid-subscription"></a>Преобразование бесплатной пробной подписки SaaS в платную подписку
 
-This scenario describes billing for the renewal of a license-based free trial SaaS subscription. The renewal converts the free trial to a paid subscription at the end of the free trial period.
+Этот сценарий описывает выставление счетов за продление бесплатной пробной подписки SaaS на основе лицензий. Обновление преобразует бесплатную пробную версию в платную подписку в конце бесплатного пробного периода.
 
-In this example, you purchased a free trial of a license-based SaaS (software as a service) subscription on June 10th. This free trial automatically renewed as a paid subscription when the free trial period ends.
+В этом примере вы приобрели бесплатную пробную подписку на основе лицензии SaaS (программное обеспечение как услуга) на 10 июня. Эта бесплатная пробная версия автоматически продлится в виде платной подписки по окончании срока действия бесплатной пробной версии.
 
-The recon files will include the following charges:
+Файлы разведывательную будут включать следующие расходы:
 
-| Дата покупки | Charge start date | Charge end date | Цена за единицу | Unit quantity | Total amount | Тип оплаты | Subscription description |
+| Дата покупки | Дата начала оплаты | Дата окончания оплаты | Цена за единицу | Количество единиц | Общая сумма | Тип оплаты | Описание подписки |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 долл. США | 1 | 0 долл. США | Новый | Бесплатная пробная версия |
-| 07/10/2019 | 07/10/2019 | 08/09/2019 | 2 долл. США | 1 | 2 долл. США | "Продлить" | Paid subscription |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 долл. США | 1 | 0 долл. США | Оператор new | Бесплатная пробная версия |
+| 07/10/2019 | 07/10/2019 | 08/09/2019 | 2 долл. США | 1 | 2 долл. США | "Продлить" | Платная подписка |
 
-## <a name="cancel-a-free-trial-saas-subscription"></a>Cancel a free trial SaaS subscription
+## <a name="cancel-a-free-trial-saas-subscription"></a>Отмена бесплатной пробной подписки SaaS
 
 > [!TIP]
-> You can cancel a license-based free trial SaaS subscription any time, even during the free trial period.
+> Вы можете в любое время отменить бесплатную пробную подписку SaaS на основе лицензий, даже в течение бесплатного пробного периода.
 
-In this scenario, you purchased a license-based free trial SaaS subscription on July 1st, and then canceled it immediately in Partner Center. 
+В этом сценарии вы приобрели бесплатную пробную подписку SaaS на основе лицензий на 1 июля, а затем немедленно отменили ее в центре партнеров. 
 
-The recon file will include the following charges:
+Файл разведывательную будет включать следующие расходы:
 
-| Дата покупки | Charge start date | Charge end date | Цена за единицу | Unit quantity | Total amount | Тип оплаты | Subscription description |
+| Дата покупки | Дата начала оплаты | Дата окончания оплаты | Цена за единицу | Количество единиц | Общая сумма | Тип оплаты | Описание подписки |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 долл. США | 11 | 0 долл. США | Новый | Бесплатная пробная версия |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 долл. США | 11 | 0 долл. США | "Отмена" | Бесплатная пробная версия |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 долл. США | 11 | 0 долл. США | Оператор new | Бесплатная пробная версия |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 долл. США | 11 | 0 долл. США | Отмена | Бесплатная пробная версия |
 
-## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>Convert custom meter SaaS subscription to another SKU
+## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>Преобразование пользовательской подписки на измерение SaaS в другой SKU
 
-This scenario describes how to convert a custom meter SaaS subscription from one stock keeping unit (SKU) to another SKU for the same product, on the same date.
+В этом сценарии описывается преобразование пользовательской подписки на измерение SaaS из одной единицы складского учета (SKU) в другой номер SKU для одного и того же продукта в ту же самую дату.
 
-In this scenario, you purchased one SKU (Silver) under a product and converted it to another available SKU (Bronze) under this product on the same date.
+В этом сценарии вы приобрели один номер SKU (серебристый) под продуктом и преобразуете его в другой доступный номер SKU (бронзовый) в этом продукте с той же датой.
 
-The recon file will include the following charges:
+Файл разведывательную будет включать следующие расходы:
 
-| Дата покупки | Charge start date | Charge end date | Цена за единицу | Unit quantity | Total amount | Тип оплаты | Subscription description |
+| Дата покупки | Дата начала оплаты | Дата окончания оплаты | Цена за единицу | Количество единиц | Общая сумма | Тип оплаты | Описание подписки |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | Уровень Silver | 06/10/2019 | 06/10/2019 | 20 долл. США | 1 | 20 долл. США | Новый | Custom meter SaaS subscription |
-| 06/10/2019 | Уровень Silver | 06/10/2019 | 06/10/2019 | 20 долл. США | 1 | -$20 | Преобразование | Prorated rebill for custom meter SaaS subscription |
-| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 долл. США | 1 | 10 долл. США | Преобразование | Custom meter SaaS subscription |
+| 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | 20 долл. США | 1 | 20 долл. США | Оператор new | Подписка на SaaS с настраиваемым измерением |
+| 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | 20 долл. США | 1 | — $20 | Преобразование | Пропорциональное использование подписки на SaaS для настраиваемого измерительного датчика |
+| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 долл. США | 1 | 10 долл. США | Преобразование | Подписка на SaaS с настраиваемым измерением |
 
-## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>Purchase and cancel a customer meter SaaS subscription on same date
+## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>Приобретение и Отмена подписки на клиентский лимит SaaS на ту же дату
 
-This scenario describes billing for a customer meter SaaS subscription that you purchased and cancelled through the Azure portal on the same date.
+В этом сценарии описывается выставление счетов за подписку на клиентское измерение SaaS, которую вы приобрели и отменили в портал Azure с той же датой.
 
-In this scenario, you purchased a custom meter SaaS subscription on the Azure portal. Then, you canceled the subscription on the same date.
+В этом сценарии вы приобрели пользовательскую подписку на измерение SaaS на портал Azure. Затем вы отменили подписку на ту же дату.
 
-| Дата покупки | Charge start date | Charge end date | Цена за единицу | Unit quantity | Total amount | Тип оплаты | Subscription description |
+| Дата покупки | Дата начала оплаты | Дата окончания оплаты | Цена за единицу | Количество единиц | Общая сумма | Тип оплаты | Описание подписки |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 долл. США | 1 | 10 долл. США | Новый | Custom meter SaaS subscription |
-| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 долл. США | 1 | -$10 | CancelImmediate | Custom meter SaaS subscription |
+| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 долл. США | 1 | 10 долл. США | Оператор new | Подписка на SaaS с настраиваемым измерением |
+| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 долл. США | 1 | — $10 | CancelImmediate | Подписка на SaaS с настраиваемым измерением |

@@ -1,12 +1,12 @@
 ---
-title: Invoice files | Partner Center
+title: Файлы накладных | Центр партнеров
 ms.topic: article
 ms.date: 08/26/2019
-description: Understand the fields in your invoice file for Partner Center billing.
+description: Изучите поля в файле счета для выставления счетов в центре партнеров.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: billing, invoice
+keywords: выставление счетов, счет
 ms.localizationpriority: medium
 ms.openlocfilehash: 9b3219b5752de59b9dde81343b8bd4e1128037bd
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,48 +15,48 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389842"
 ---
-# <a name="invoice-files"></a>Invoice files
+# <a name="invoice-files"></a>Файлы накладных
 
-You can use the following tables to understand the fields in Partner Center invoice files.
+Для понимания полей в файлах счетов центра партнеров можно использовать следующие таблицы.
 
-## <a name="invoice-file-fields"></a>Invoice file fields
+## <a name="invoice-file-fields"></a>Поля файла накладной
 
-The following fields appear on your invoice files.
+В файлах накладных отображаются следующие поля.
 
 | Поле | Определение |
 | ----- | ---------- |
-| US FEIN | Your Federal Employer Identification Number (FEIN). This is your United States federal tax identifier number. |
+| US FEIN | Идентификационный номер правительственного работодателя (ФЕИН). Это ваш США Федеральный идентификационный номер налогоплательщика. |
 | Номер клиента | Номер клиента. |
-| Плательщик | Адрес, на который мы отправляем счет-фактуру. You can change your company name and/or address in your Partner Center billing profile. |
-| Оплата на основе лицензии | The flat monthly or annual charges for your purchased usage-based licenses, billed in advance of the service. This number is the sum of all charges in the **Subtotal** column (column **T**) in your license-based reconciliation file. |
-| Оплата на основе использования | Your Azure usage. This includes new services or applications enabled and used during the billing period. This number is the sum of all charges in the **PretaxCharges** column (column **Z**) in your usage-based reconciliation file. |
-| Скидки | The discount that the customer receives from subscription's normal price. This number is shown as a *flat amount*, not as a price per unit or license. |
-| Кредиты | Credits or adjustments for changes made to subscriptions (for example, seat increases or decreases). |
+| Плательщик | Адрес, на который мы отправляем счет-фактуру. Вы можете изменить название организации или адрес в профиле выставления счетов центра партнеров. |
+| Оплата на основе лицензии | Фиксированная ежемесячная или ежегодная плата за приобретенные лицензии на основе использования, выставленная до службы. Это число является суммой всех расходов в столбце **промежуточных итогов** (столбец **T**) в файле согласования на основе лицензий. |
+| Оплата на основе использования | Использование Azure. Сюда входят новые службы или приложения, включенные и используемые в течение расчетного периода. Это число является суммой всех расходов в столбце **PretaxCharges** (столбец **Z**) в файле сверки с учетом использования. |
+| Скидки | Скидка, получаемая клиентом от обычной цены подписки. Это число отображается как *фиксированный объем*, а не как цена за единицу или лицензию. |
+| Кредиты | Кредиты или корректировки изменений, внесенных в подписки (например, увеличение или уменьшение места на место). |
 | Промежуточный итог | Итог до вычета налогов, а также исключающих налоги сборов и кредитов. |
-| Налог | The total tax for your current charges, as totaled in the **Details** section beginning on page 2 of your invoice. This number is the sum of all charges in the **TaxAmount** column (column **AA**) in your usage-based reconciliation file, and the **Tax** column (column **U**) in your license-based reconciliation file. |
+| Налог | Общий налог за текущие расходы, как Итого в разделе **сведений** , начиная со страницы 2 в счете. Это число — сумма всех выплат в столбце **таксамаунт** (столбец **AA**) в файле сверки с учетом использования, а также **налоговый** столбец (столбец **U**) в файле согласования на основе лицензий. |
 | Другие кредиты | Кредиты без учета налогов. |
-| Общая сумма текущих платежей | The amount due in your billing currency for the billing period. These charges are due by the payment due date. |
-| Инструкции по оплате | Description of how to pay your invoice, based on your region. *Always be sure to include your invoice number when making a payment.* |
+| Общая сумма текущих платежей | Сумма оплаты за расчетный период в валюте выставления счетов. За эти расходы взимается Дата оплаты. |
+| Инструкции по оплате | Описание способа оплаты счета на основе вашего региона. *При создании платежа всегда обязательно включайте номер счета.* |
 | Номер счета-фактуры | Номер вашего счета-фактуры. |
-| Период выставления счетов | The monthly period leading up to the invoice date. This is the period during which usage-based services are consumed and license-based services are reconciled for any credit adjustments or changes in license count. |
-| Дата счета-фактуры | The billing date or anniversary date on which your invoice is generated each month. |
-| Условия оплаты | The payment term. Для единовременных покупок срок оплаты всегда составляет 60 дней. |
-| Дата внесения оплаты | The date by which your payment must be received. |
-| Заказ на покупку от клиента | Your purchase number order. |
-| Обслуживание клиентов | The website address where you can access customer service. |
-| Получатель службы | The address where the service is being used. (This is the legal company address associated with company vetting.) |
+| Период выставления счетов | Месячный период, ведущий к дате выставления счета. Это период, в течение которого службы на основе использования потребляются, а службы на основе лицензий выверяются на наличие корректировок кредита или изменений в количестве лицензий. |
+| Дата счета-фактуры | Дата выставления счетов или Дата юбилея, на каждый месяц создается счет. |
+| Условия оплаты | Срок платежа. Для единовременных покупок срок оплаты всегда составляет 60 дней. |
+| Дата внесения оплаты | Дата, на которую должна быть получена оплата. |
+| Заказ на покупку от клиента | Номер заказа на покупку. |
+| Обслуживание клиентов | Адрес веб-сайта, на который можно получить доступ к службе поддержки клиентов. |
+| Получатель службы | Адрес, по которому используется служба. (Это юридический адрес компании, связанный с компанией заглянув.) |
 
-## <a name="one-time-charges-fields"></a>One-time charges fields
+## <a name="one-time-charges-fields"></a>Поля оплаты за одноразовую оплату
 
-The following fields only apply to **one-time charges** in Partner Center:
+Следующие поля применяются только к **одноразовым платам** в центре партнеров:
 
 | Поле | Определение |
 | ----- | ---------- |
-| Дата | Дата покупки. |
+| Date | Дата покупки. |
 | Описание | Название продукта. |
-| Количество | The number of products (such as reservations) purchased. |
-| Цена за единицу | Price per product (such as a reservation). |
+| Количество | Количество приобретенных продуктов (например, резервирования). |
+| Цена за единицу | Цена за продукт (например, резервирование). |
 | Скидки | Все применимые скидки. |
 | Сумма без налога | Предварительная итоговая сумма покупок до вычета налогов. |
 | Налог с продаж | Сумма налога. |
-| Total (Всего) | Total amount to be paid. |
+| Total (Всего) | Общая сумма для оплаты. |

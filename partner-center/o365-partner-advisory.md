@@ -1,11 +1,11 @@
 ---
-title: Office 365 Partner Advisory - Microsoft 365 Voice in CSP | Partner Center
-description: PSTN services in some countries may be subject to special tax and regulatory requirements that may affect partner order and invoicing.
+title: Партнерские советы по Office 365 — Microsoft 365 Voice в CSP | Центр партнеров
+description: Службы PSTN в некоторых странах могут подвергаться особым налоговым и нормативным требованиям, которые могут повлиять на заказ партнеров и на выставление счетов.
 ms.topic: article
 ms.date: 11/04/2019
 author: maggiepuccievans
 ms.author: evansma
-keywords: Office, O365, PSTN services, taxes, requirements, invoice, invoicing
+keywords: Office, O365, службы PSTN, налоги, требования, счет, выставление счетов
 ms.localizationpriority: medium
 ms.openlocfilehash: b6359a49503237e72c8cffdb5758bdd418910306
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -14,41 +14,41 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384815"
 ---
-# <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 Partner Advisory: Microsoft 365 Voice in CSP
+# <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Партнерское рекомендательное по Office 365: Microsoft 365 Voice в CSP
 
 **Относится к**
 
 - Центр партнеров  
 
-Public Switched Telephone Network (PSTN) services in some countries may be subject to special tax and regulatory requirements that may affect partner order and invoicing.  In the United States, Puerto Rico, and Canada, Skype for Business PSTN and Microsoft 365 Voice services are subject to special tax and regulatory requirements. In the United States and Puerto Rico, Microsoft prices PSTN services as tax-inclusive.  Unique PSTN taxes and regulations will affect Office 365 partners transacting Microsoft 365 Voice products.  Если партнер повышает цену службы ТСОП Майкрософт, на них может лечь ответственность за расчет и уплату налогов и сборов ТСОП.
+Общедоступные службы коммутируемых телефонных сетей (PSTN) в некоторых странах могут подвергаться специальным налогам и нормативным требованиям, которые могут повлиять на заказ партнеров и на выставление счетов.  В США, Пуэрто-Рико и Канаде, Skype для бизнеса PSTN и Microsoft 365 Voice Services действуют специальные налоговые и нормативные требования. В США и Пуэрто-Рико службы Microsoft ценах PSTN в качестве налогов включительно.  Уникальные налоги и нормы PSTN повлияют на партнеров Office 365, которые взаимодействуют Microsoft 365 голосовыми продуктами.  Если партнер повышает цену службы ТСОП Майкрософт, на них может лечь ответственность за расчет и уплату налогов и сборов ТСОП.
 
-## <a name="partner-recommendations"></a>Partner Recommendations
+## <a name="partner-recommendations"></a>Рекомендации для партнеров
 
 Обратитесь к специалисту по налоговым и юридическим вопросам, чтобы уточнить круг ответственности вашей организации касательно нормативных требований, налогов и сборов, связанных со службами ТСОП, а также других возможных обязательств.
 
-## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Invoice Presentation and Partner Reconciliation File
+## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Счет презентации и файл согласования партнеров
 
-CSP invoices and CSP reconciliation files in the United States, Puerto Rico and Canada which include Skype for Business PSTN and Microsoft 365 Voice services will provide separate line items for the PSTN and non-PSTN components.
+Счета CSP и файлы сверки CSP в США, Пуэрто-Рико и Канаде, включая Skype для бизнеса PSTN и Microsoft 365 Voice Services, предоставляют отдельные элементы строк для компонентов PSTN и не-PSTN.
 
-Additionally, CSP invoices will display the following footnote:
+Кроме того, в счета CSP будет отображаться следующая сноска:
 
-* The price displayed is a charge for Audio Conferencing and Calling Plan Services.  Any applicable transactional taxes are charged exclusively of the amount shown except for sales made within the United States.  In the U.S., the price displayed is tax inclusive as it includes a charge for the Calling Plan and Audio Conferencing Services and a charge for the taxes and fees we are required to charge.  Audio Conferencing and Calling Plan Services are serviced by the Microsoft Affiliate authorized to provide them.  See [Microsoft Volume Licensing](https://go.microsoft.com/fwlink/?LinkId=690247) for details.
+* Отображаемая цена — это плата за аудио конференции и вызов служб планов.  Все применимые налоги по транзакциям взимается исключительно из показаний, за исключением продаж, сделанных в США.  В США отображается цена за включенный налог, так как включается плата за вызывающий план и службы аудио-конференций, а также взимается плата за налоги и сборы, которые необходимо оплатить.  Голосовые конференции и вызовы служб планов обслуживаются дочерними лицами Майкрософт, которым разрешено предоставлять их.  Дополнительные сведения см. в разделе [корпоративное лицензирование Майкрософт](https://go.microsoft.com/fwlink/?LinkId=690247) .
 
-## <a name="reconciliation-file-example"></a>Reconciliation File Example
+## <a name="reconciliation-file-example"></a>Пример файла сверки
 
-Office 365 Enterprise E5 presents on reconciliation file as two line items with identical names and identical IDs, but each line item has a unique unit price (example: $28.40 and $2.00). Таким образом отделяется компонент конференц-связи по ТСОП в Skype для бизнеса предложения Office 365, позволяя корректно применять налоги.
+В Office 365 Enterprise, в котором находится файл сверки, представлены два элемента строк с одинаковыми именами и идентичными идентификаторами, но каждая позиция строки имеет уникальную цену за единицу (например: $28,40 и $2,00). Таким образом отделяется компонент конференц-связи по ТСОП в Skype для бизнеса предложения Office 365, позволяя корректно применять налоги.
 
-**Partner Reconciliation example #1 (select columns):**
+**Пример сверки с партнером #1 (выбор столбцов):**
 
 |**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 корпоративный E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Оплата цикла   |28,4   |
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 корпоративный E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Оплата цикла   |2   |
 
-**Partner Reconciliation example #2**
+**Пример сверки с партнером #2**
 
-Microsoft 365 Business Voice available in Canada has additional PSTN taxable components that are consolidated on CSP Invoice (similar to Office 365 E5, two line items are presented, one for PSTN components and the other for non-PSTN components).  The CSP Reconciliation file for Microsoft 365 Business Voice will display all PSTN taxable components individually (individual PSTN components will not be consolidated in .CSV or API tool).  The summation of order details and billed amounts for customers found in the reconciliation file will match the CSP Invoice.
+В Microsoft 365 бизнес Voice, доступном в Канаде, есть дополнительные налогооблагаемые компоненты PSTN, консолидированные по счету CSP (как в Office 365, а также два элемента строк, один для компонентов PSTN, а другой для компонентов, не являющихся PSTN).  Файл сверки CSP для Microsoft 365 бизнес Voice будет отображать все налогооблагаемые компоненты PSTN отдельно (отдельные компоненты PSTN не будут объединены в. CSV или средство API).  Суммирование сведений о заказах и выставленных сумм по клиентам, найденным в файле сверки, будет соответствовать счету CSP.
 
 ## <a name="additional-resources"></a>Дополнительные ресурсы
-For more details, visit the [Microsoft 365 for Partners](https://drumbeat.office.com/Pages/home2016.aspx) site.
+Дополнительные сведения см. на сайте [Microsoft 365 для партнеров](https://drumbeat.office.com/Pages/home2016.aspx) .
 

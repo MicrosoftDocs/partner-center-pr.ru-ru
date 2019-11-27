@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to add a new customer record in Partner Center. Then, you can sell the customer subscriptions, manage billing, or provide customer support.
+description: Узнайте, как добавить новую запись о клиенте в центр партнеров. Затем можно продать клиентские подписки, управлять выставлением счетов или предоставлять поддержку клиентов.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 ms.author: evansma
@@ -17,42 +17,42 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384617"
 ---
-# <a name="add-a-new-customer"></a>Добавление нового пользователя
+# <a name="add-a-new-customer"></a>Добавление нового клиента
 
 **Относится к**
 
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud for US Government
 
-Before you can sell subscriptions, manage billing, or provide support to a customer, you need to add them to your list of customers in Partner  Center.
+Прежде чем продавать подписки, управлять выставлением счетов или предоставлять поддержку для клиента, необходимо добавить их в список клиентов в центре партнеров.
 
 >[!NOTE]
->For existing customers, including those who already have customer records in Partner Center through a [multi-channel](multichannel.md) or [Multipartner](multipartner.md) scenario, you can [Request a relationship with them](request-a-relationship-with-a-customer.md), instead of following the steps here.
+>Для существующих клиентов, включая тех, кто уже имеет записи о клиентах в центре партнеров через [многоканальный](multichannel.md) или [многопартнерский](multipartner.md) сценарий, вы можете [запросить связь с ними](request-a-relationship-with-a-customer.md), а не выполнять приведенные здесь действия.
 
-### <a name="to-add-a-new-customer-in-partner-center"></a>To add a new customer in Partner Center
+### <a name="to-add-a-new-customer-in-partner-center"></a>Добавление нового клиента в центре партнеров
 
-1. Select **Customers** from the Partner Center menu, and then select **Add customer**.
+1. В меню Центр партнеров выберите **Клиенты** , а затем щелкните **Добавить клиента**.
 
-2. On the **Account info** page, enter the customer's details and primary contact information and verify that the customer has accepted and signed the latest [Microsoft Cloud Agreement](agreements.md).
+2. На странице **сведения об учетной записи** введите сведения о клиенте и основные контактные данные и убедитесь, что клиент принял и подписал последнее [Соглашение Microsoft Cloud](agreements.md).
 
 >[!IMPORTANT] 
-> On October 1st, 2019, Microsoft introduced the **Microsoft Customer Agreement** to the CSP program to replace the Microsoft Cloud Agreement. Чтобы облегчить переход партнеров к новому соглашению, текущее Соглашение об использовании Microsoft Cloud будет поддерживаться в программе CSP до 31 января 2020 года. Read about the [Microsoft Customer Agreement and how to confirm consent](confirm-customer-agreement.md)
+> 1 октября, 2019, корпорация Майкрософт предоставила **Соглашение клиента Майкрософт** программе CSP, чтобы заменить соглашение Microsoft Cloud. Чтобы облегчить переход партнеров к новому соглашению, текущее Соглашение об использовании Microsoft Cloud будет поддерживаться в программе CSP до 31 января 2020 года. Узнайте о [соглашении для клиентов Майкрософт и о том, как подтвердить согласие](confirm-customer-agreement.md)
   
-3. If you're an indirect provider, select the indirect reseller you want to associate with this customer's subscriptions from the list.
+3. Если вы являетесь косвенным поставщиком, выберите непрямого торгового посредника, который необходимо связать с подписками этого клиента из списка.
 
-4. Select **Next: Subscriptions** when you're finished entering all required information.
+4. Нажмите кнопку **Далее: подписки** по завершении ввода всех необходимых сведений.
 
-5. On the **Subscriptions** page, select the offer(s) your customer wants to buy from you, enter the number of licenses, and then select **Next: Review**.
+5. На странице **подписки** выберите предложения, которые ваш клиент желает купить, введите число лицензий и нажмите кнопку **Далее: Проверка**.
 
-6. On the **Review** page, check your entries for accuracy and then select **Submit** if the information is correct.
+6. На странице " **Проверка** " Проверьте правильность записей и нажмите кнопку " **Отправить** ", если информация верна.
 
     >[!NOTE]
-    >If you need to change any customer details, select **Update** in the **Account info** section. If you need to change the offers you selected, select **Update** in the **Subscriptions** section.
+    >Если необходимо изменить сведения о клиенте, выберите **Обновить** в разделе **сведения об учетной записи** . Если вам нужно изменить выбранные предложения, выберите **Обновить** в разделе **подписки** .
 
-7. Select **Done** when you've finished adding the customer information and purchased the required subscriptions.
+7. По завершении добавления сведений о клиенте и приобретения необходимых подписок нажмите кнопку **Готово** .
 
 ## <a name="see-also"></a>См. также
 
-- See [Partner offers in the Cloud Solution Provider program](csp-offers.md) for more information about what you can sell to customers through the Cloud Solution Provider program.
+- Дополнительные сведения о том, что можно продать клиентам с помощью программы поставщика облачных решений, см. [в статье предложения партнеров в программе поставщика облачных решений](csp-offers.md) .
 
-- See [Connect with customers](customer-accounts.md) for more information about associating a new customer to your partner account in Partner Center.
+- Дополнительные сведения о связывании нового клиента с учетной записью партнера в центре партнеров см. в статье [подключение клиентов](customer-accounts.md) .

@@ -4,11 +4,11 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Explanation what you will see on your bill after you add new subscriptions, adjust the number of licenses in a subscription, or cancel a subscription. На подписках на основе использования и на подписках на основе лицензии это отразится по-разному.
+description: Объясните, что вы увидите в счете после добавления новых подписок, исправьте число лицензий в подписке или отмените подписку. На подписках на основе использования и на подписках на основе лицензии это отразится по-разному.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
+Keywords: выставление счетов, оплата, заказы, использование, выставление счетов на основе лицензий, Дата юбилея, термин, Отмена, продление цен, файл сверки, разведывательную-файл
 ms.localizationpriority: medium
 ms.openlocfilehash: eaedbdf3f931c1b28f1219efe2739e9b65162864
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -19,15 +19,15 @@ ms.locfileid: "74384604"
 ---
 # <a name="common-billing-scenarios"></a>Распространенные сценарии выставления счетов
 
-Область применения
+Относится к:
 
-- Cloud Solution Provider (CSP) program billing
+- Выставление счетов за программу поставщика облачных решений (CSP)
 
-These topics explain what you should expect to see on your bill after you add new subscriptions, add new seats, adjust the number of licenses to a subscription, or cancel a subscription. Other [Partner Center billing types](billing-different-types.md), such as usage-based and license-based subscriptions, are billed differently.
+В этих статьях объясняется, что следует рассчитывать на счет после добавления новых подписок, добавления новых мест, настройки количества лицензий для подписки или отмены подписки. Другие [типы выставления счетов в центре партнеров](billing-different-types.md), такие как использование и подписки на основе лицензий, выставляются по-разному.
 
-| Type of billing | Scenarios covered |
+| Тип выставления счетов | Рассмотренные сценарии |
 | --------------- | ----------------- |
-| [Monthly billing](common-billing-scenarios-monthly.md) | Adding new subscriptions, changing license quantity, and suspending subscriptions. |
-| [Annual billing](common-billing-scenarios-annual.md) | Adding new subscriptions, adding licenses before your billing date, change license quantity, and suspending and reactivating subscriptions. |
-| [Billing for one-time and select recurring purchases](common-billing-scenarios-onetime-recurring.md) | Purchasing subscriptions, adding more subscriptions, adding and removing seats. |
-| [Billing for license-based SaaS subscriptions](common-billing-scenarios-saas.md) | Free trials for license-based software as a service (SaaS) subscriptions. Purchasing and cancelling custom meter SaaS subscriptions. |
+| [Ежемесячное выставление счетов](common-billing-scenarios-monthly.md) | Добавление новых подписок, изменение количества лицензий и приостановка подписок. |
+| [Ежегодная оплата](common-billing-scenarios-annual.md) | Добавление новых подписок, Добавление лицензий до даты выставления счетов, изменение количества лицензий, приостановка и повторная активация подписок. |
+| [Выставление счетов за одноразовый период и выбор повторяющихся покупок](common-billing-scenarios-onetime-recurring.md) | Приобретение подписок, добавление дополнительных подписок, Добавление и удаление рабочих мест. |
+| [Выставление счетов для подписок SaaS на основе лицензий](common-billing-scenarios-saas.md) | Бесплатные пробные версии для подписок Software as Service (SaaS) на основе лицензий. Приобретение и отмена пользовательских подписок SaaS. |

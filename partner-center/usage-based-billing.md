@@ -1,11 +1,11 @@
 ---
-title: Usage-based billing | Partner Center
+title: Выставление счетов на основе использования | Центр партнеров
 ms.topic: article
 ms.date: 11/21/2019
-Description: Information on usage-based billing in Partner Center, where you're billed for monthly usage rates.
+Description: Сведения о выставлении счетов на основе использования в центре партнеров, где выставляются счета за использование месячного тарифа.
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: billing, usage-based, usage
+keywords: выставление счетов, использование (на основе использования)
 ms.localizationpriority: medium
 ms.openlocfilehash: c92c6f9014a40a0f8804ba83ba7cc85939e90281
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -19,27 +19,27 @@ ms.locfileid: "74389742"
 - Центр партнеров
 - Партнеры в программе CSP
 
-When you buy online services such as Azure subscriptions, you’re billed for monthly usage rates. Usage-based services, such as Azure, are billed according to metered rates, based on consumption.
+При покупке веб-службы, например подписки Azure, выставляются счета за использование месячного тарифа. Счета за службы, основанные на использовании, такие как Azure, выставляются в соответствии с тарифными тарифами на основе потребления.
 
-Some Microsoft products and services use a "pay as you go" billing model, in which you are billed only for services used. For example, Microsoft Azure uses this model. 
+В некоторых продуктах и службах Майкрософт используется модель выставления счетов с оплатой по мере использования, в рамках которой взимается плата только за используемые службы. Например, Microsoft Azure использует эту модель. 
 
-## <a name="usage-billing-frequency"></a>Usage billing frequency
+## <a name="usage-billing-frequency"></a>Частота выставления счетов за использование
 
-Only **monthly billing** is available for usage-based products. For more information on monthly billing, see [Monthly and annual billing differences](billing-annual-monthly.md).
+Для продуктов на основе использования доступно только **ежемесячное выставление счетов** . Дополнительные сведения о месячном выставлении счетов см. в статье [различия в ежемесячном и ежегодном выставлении счетов](billing-annual-monthly.md).
 
-Usage-based subscriptions are billed monthly, in arrears, on the **subscription anniversary date**. For example, if the subscription anniversary date is the 15th, you will be charged on January 15th for the service period of December 15th to January 14th. You will be charged again on February 15th for the service period of January 15th to February 14th. 
+Счета за использование подписок на основе использования выставляются ежемесячно в прошедший период на **дату годовщины подписки**. Например, если дата юбилея подписки равна 15, то будет оплачено 15 января для периода обслуживания с 15 декабря по Январьу 14. В течение срока службы с 15 января по 14 февраля вы получите еще раз плату. 
 
 ## <a name="usage-charges"></a>Плата за использование
 
-The charges that are generated on the subscription anniversary date will appear on the following invoice and [reconciliation file](usage-based-recon-files.md).
+Расходы, созданные на дату юбилея подписки, будут отображаться в следующем счете и [файле сверки](usage-based-recon-files.md).
 
-You may occasionally notice that some usage charges are missing from your invoice, or that usage from a previous month is charged in the current month’s invoice. This is not an error; it simply means that the service was timestamped after the services occurred. Usage reported within 24 hours of the end of the billing cycle will appear on the next month’s bill.
+Иногда вы можете заметить, что в счете отсутствуют некоторые из расходов на использование, или за использование за предыдущий месяц взимается плата за текущий месяц. Это не ошибка; Это просто означает, что служба была отметкой времени после возникновения служб. Сведения об использовании в течение 24 часов после окончания цикла выставления счетов будут отображаться в счете за следующий месяц.
 
-## <a name="cancelling-usage-based-subscriptions"></a>Cancelling usage-based subscriptions
+## <a name="cancelling-usage-based-subscriptions"></a>Отмена подписок на основе использования
 
-You can suspend usage-based subscriptions at any time.
+Вы можете приостановить подписки на основе использования в любое время.
 
-## <a name="pricing-for-usage"></a>Pricing for usage
+## <a name="pricing-for-usage"></a>Цены на использование
 
 Прейскурант Azure для программы CSP публикуется ежемесячно, и его можно найти в Центре партнеров на странице "Продажи" -> "Цены и предложения". Обратите внимание, что цены могут изменяться ежедневно. Актуальные цены отображаются на вкладке "История изменений" в прейскуранте.
 

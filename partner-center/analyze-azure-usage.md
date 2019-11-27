@@ -18,7 +18,7 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253391"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Получение данных об использовании подписок Azure клиентов
+# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Получение данных об использовании клиентских подписок Azure
 
 Относится к:
 

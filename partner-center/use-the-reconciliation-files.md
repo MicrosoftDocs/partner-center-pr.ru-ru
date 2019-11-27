@@ -1,8 +1,8 @@
 ---
-title: Use your reconciliation files | Partner Center
+title: Использование файлов сверки | Центр партнеров
 ms.topic: article
 ms.date: 11/21/2019
-description: Use your reconciliation files to understand detailed line-item views of Partner Center charges.
+description: Используйте файлы сверки, чтобы ознакомиться с подробными представлениями элементов в центре партнеров.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
@@ -16,80 +16,80 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384802"
 ---
-# <a name="use-your-reconciliation-files"></a>Use your reconciliation files
+# <a name="use-your-reconciliation-files"></a>Использование файлов сверки
 
-Область применения
+Относится к:
 
 - Центр партнеров
 - Центр партнеров для Microsoft Cloud for US Government
 
-You can download your reconciliation files from Partner Center for a detailed, line-item view of each charge in a billing cycle. Line-item details include charges for each customer's subscriptions, and detailed events (such as a mid-term addition of seats to a subscription).
+Вы можете скачать файлы сверки из центра партнеров, чтобы получить подробное представление каждого из элементов в цикле выставления счетов. Сведения об элементе строки включают в себя расходы на каждую из подписок клиента и подробные события (например, добавление мест в подписку).
 
-Appropriate roles:
+Соответствующие роли:
 
 - Администратор выставления счетов
 - Глобальный администратор
 
-For information on how to read your **invoice**, see [Read your bill](read-your-bill.md).
+Сведения о том, как прочитать **счет**, см. в разделе [Чтение](read-your-bill.md)счета.
 
-## <a name="understand-reconciliation-file-fields"></a>Understand reconciliation file fields
+## <a name="understand-reconciliation-file-fields"></a>Общие сведения о полях файла сверки
 
-- [License-based reconciliation file fields](license-based-recon-files.md)
-- [Usage-based reconciliation file fields](usage-based-recon-files.md)
-- [One-time and recurring reconciliation file fields](one-time-recurring-recon-files.md)
-- [Daily-rated usage reconciliation file fields](daily-rated-usage-recon-files.md)
+- [Поля файла сверки на основе лицензий](license-based-recon-files.md)
+- [Поля файла сверки с учетом использования](usage-based-recon-files.md)
+- [Поля файла одноразовой и повторяющейся сверки](one-time-recurring-recon-files.md)
+- [Поля файла сверки с оценкой использования по дням](daily-rated-usage-recon-files.md)
 
-## <a name="understand-charge-types-in-reconciliation-files"></a>Understand charge types in reconciliation files
+## <a name="understand-charge-types-in-reconciliation-files"></a>Понимание типов оплаты в файлах выверки
 
-To understand the types of charges in reconciliation files (the **ChargeType** column), see [Reconciliation file charge types](recon-file-charge-types.md).
+Сведения о типах начислений в файлах выверки (столбец **чаржетипе** ) см. в разделе [типы оплаты за файл выверки](recon-file-charge-types.md).
 
-## <a name="fix-formatting-issues"></a>Fix formatting issues
+## <a name="fix-formatting-issues"></a>Устранение проблем форматирования
 
-Occasionally, a reconciliation file might contain formatting issues. For example, this issue might occur if the en-US locale is not used.
+Иногда файл сверки может содержать проблемы форматирования. Например, эта проблема может возникать, если языковой стандарт EN-US не используется.
 
-Follow these steps for fix any formatting issues in your reconciliation files:
+Чтобы устранить проблемы форматирования в файлах сверки, выполните следующие действия.
 
-1. Open the reconciliation file (in .csv format) in Microsoft Excel.
-2. Select the first column in the file.
-3. Open the **Convert Text to Columns Wizard**. On the ribbon, select **Data**, then select **Text to Columns**.
-4. In the wizard, select **Delimited file type**. Then, select **Next**.
-5. In the **Delimiters** field, select **Comma**. (If **Tab** is already selected, you can leave this option selected.) Then, select **Next**.
-6. In the **Column data format** field, select **Date:MDY**. Then, select **Next**.
-7. In the **Column data format** field, select **Text** for all amount columns. Then, select **Finish**.
+1. Откройте файл сверки (в формате CSV) в Microsoft Excel.
+2. Выберите первый столбец в файле.
+3. Откройте **Мастер преобразования текста в столбцы**. На ленте выберите **данные**, а затем выберите **текст в столбцах**.
+4. В мастере выберите **Тип файла с разделителями**. Затем нажмите кнопку **Далее**.
+5. В поле **разделители** выберите **запятая**. (Если **вкладка** уже выбрана, можно оставить этот параметр установленным.) Затем нажмите кнопку **Далее**.
+6. В поле **Формат данных столбца** выберите **Date: mdy**. Затем нажмите кнопку **Далее**.
+7. В поле **Формат данных столбца** выберите **текст** для всех столбцов суммы. Затем нажмите кнопку **Готово**.
 
-## <a name="download-reconciliation-files-programmatically"></a>Download reconciliation files programmatically
+## <a name="download-reconciliation-files-programmatically"></a>Программное скачивание файлов выверки
 
-Reconciliation files can be very large and are sometimes difficult to download. To download reconciliation files programmatically, see [Get invoice line items](https://docs.microsoft.com/partner-center/develop/get-invoiceline-items).
+Файлы сверки могут быть очень большими и иногда трудно скачивать. Сведения об программной загрузке файлов выверки см. в разделе [Получение элементов строки счета](https://docs.microsoft.com/partner-center/develop/get-invoiceline-items).
 
-## <a name="map-taxes-or-vat"></a>Map taxes or VAT
+## <a name="map-taxes-or-vat"></a>Сопоставьте налоги или НДС
 
-To map Taxes or value-added tax (VAT) to your invoice:
+Чтобы сопоставлять налоги или налог на добавленные значения (VAT) к счету, выполните следующие действия.
 
-- Sum the **Tax** column from the license-based file.
-- Sum the **TaxAmount** column from the usage-based file.
+- Суммировать **налоговый** столбец из файла, основанного на лицензии.
+- Вычислите сумму столбца **таксамаунт** из файла на основе использования.
 
-## <a name="itemize-reconciliation-files-by-partner"></a>Itemize reconciliation files by partner
+## <a name="itemize-reconciliation-files-by-partner"></a>Детализировать файлы сверки по партнерам
 
-Partners in the **indirect model** can use these additional fields in both license-based and usage-based reconciliation files to itemize the files by reseller.
+Партнеры в **косвенной модели** могут использовать эти дополнительные поля в файлах согласования на основе лицензий и на основе использования для перечисления файлов по торговому посреднику.
 
 | Идентификатор MPN | Описание |
 | ------ | ----------- |
-| Идентификатор MPN | The Microsoft Partner Network (MPN) identifier of the Cloud Solution Provider (CSP) partner (direct or indirect). |
-| [Reseller MPN ID](#reseller-mpn-id) | The [MPN identifier of the reseller of record for the subscription](#reseller-mpn-id). This field corresponds to the reseller ID listed for the specific subscription in Partner Center. Отображается только в файлах выверки для партнеров в косвенной модели. |
+| Идентификатор MPN | Идентификатор Microsoft Partner Network (MPN) для партнера поставщика облачных решений (CSP) (прямой или косвенный). |
+| [Идентификатор MPN торгового посредника](#reseller-mpn-id) | [Идентификатор MPN торгового посредника записи для подписки](#reseller-mpn-id). Это поле соответствует ИДЕНТИФИКАТОРу торгового посредника, указанному для конкретной подписки в центре партнеров. Отображается только в файлах выверки для партнеров в косвенной модели. |
 
 ### <a name="reseller-mpn-id"></a>Идентификатор MPN торгового посредника
 
-If a CSP partner sold the subscription directly to the customer, their **MPN ID** is listed twice, as both the **MPN ID** and the **Reseller MPN ID**.
+Если партнер CSP продавал подписку непосредственно клиенту, его **идентификатор MPN** указывается дважды, как **идентификатор MPN** и **Идентификатор торгового посредника**.
 
-If a CSP partner has a reseller with no **MPN ID**, this value is set to the partner's **MPN ID** instead.
+Если у партнера CSP есть посредника, у которого нет **идентификатора MPN**, вместо него задается **идентификатор MPN** партнера.
 
-If the CSP partner removes a **Reseller MPN ID**, this value will be set to *-1*.
+Если партнер CSP удалит **MPN ID торгового посредника**, это значение будет равно *-1*.
 
-To view or update the **Reseller MPN ID**:
+Чтобы просмотреть или изменить **идентификатор MPN торгового посредника**:
 
 1. Войдите в Центр партнеров.
 2. В меню Центра партнеров выберите **Клиенты**.
 3. Выберите клиента в списке.
-4. In the customer menu, select **Subscriptions**.
-5. Choose the subscription from the list.
+4. В меню клиент выберите пункт **подписки**.
+5. Выберите подписку из списка.
 6. Выберите **обновить**, чтобы изменить пункт **Торговый посредник (идентификатор MPN)** .

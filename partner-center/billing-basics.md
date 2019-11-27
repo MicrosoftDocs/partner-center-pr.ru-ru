@@ -1,8 +1,8 @@
 ---
-title: Billing overview | Partner Center
+title: Общие сведения о выставлении счетов | Центр партнеров
 ms.topic: article
 ms.date: 11/21/2019
-description: Basic billing and invoice information for Partner Center.
+description: Базовая информация о выставлении счетов и счетах для центра партнеров.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -17,80 +17,80 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384543"
 ---
-# <a name="billing-overview"></a>Billing overview
+# <a name="billing-overview"></a>Общие сведения о выставлении счетов
 
-Область применения
+Относится к:
 
 - Центр партнеров
-- Partners in the Cloud Solution Provider (CSP) program
+- Партнеры в программе поставщика облачных решений (CSP)
 
-## <a name="find-your-bill"></a>Find your bill
+## <a name="find-your-bill"></a>Поиск счета
 
-To find your bill:
+Чтобы найти счет:
 
-1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
-2. In the left-hand menu, choose **Billing**.
-3. On the **Billing** page, you can download your latest bill or download previous bills in the **Billing history** section.
+1. [Войдите на панель мониторинга центра партнеров](https://partner.microsoft.com/dashboard/home).
+2. В меню слева выберите **выставление счетов**.
+3. На странице **выставление счетов** можно скачать последний счет или скачать предыдущие счета в разделе **Журнал выставления счетов** .
 
-## <a name="bill-your-customers"></a>Bill your customers
+## <a name="bill-your-customers"></a>Выставление счетов клиентам
 
-Microsoft has no requirements or conditions about how you handle your own invoicing.
+Корпорация Майкрософт не имеет требований или условий, отличных от того, как вы обрабатываете собственные выставляемые счета.
 
-To determine a customer's usage, [see your reconciliation files](#find-your-bill). You can use the customer name and other relevant fields to determine usage.
+Чтобы определить использование клиента, ознакомьтесь с [файлами сверки](#find-your-bill). Для определения использования можно использовать имя клиента и другие соответствующие поля.
 
-Next, you can add your own fees and charges for services and products that you provide. Then, you can send a single bill for all charges to your customer.
+Далее можно добавить собственные платы и оплаты для предоставляемых услуг и продуктов. Затем вы можете отправить клиенту один счет за все расходы.
 
-### <a name="billing-types"></a>Billing types
+### <a name="billing-types"></a>Типы выставления счетов
 
-Billing types in Partner Center include **license-based billing**, **usage-based billing**, and **one-time billign**. For more information, see the full explanation of [billing types in Partner Center](billing-different-types.md).
+Типы выставления счетов в центре партнеров включают **выставление счетов на основе лицензий**, **выставление счетов на основе использования**и **одноразовую биллигн**. Дополнительные сведения см. в статье полное описание [типов выставления счетов в центре партнеров](billing-different-types.md).
 
-### <a name="billing-currency"></a>Billing currency
+### <a name="billing-currency"></a>Валюта выставления счетов
 
-You'll be billed for product(s) in the currency of the country or region in which you're located. You're billed the same regardless of the location of the customer to whom you sold the product(s).
+Вам будет выставлен счет за продукты в валюте страны или региона, где вы находитесь. Счет выставляется независимо от местонахождения клиента, которому были проданы продукты.
 
 ## <a name="invoices"></a>Счета
 
-Your invoice is a summary of all charges for the current billing period. This includes charges across the program, all products, and all customers. For examples of monthly and annual billing scenarios, see [common billing scenarios](common-billing-scenarios.md)
+Счет представляет собой сводку по всем расходам за текущий расчетный период. Сюда входит плата за программу, все продукты и все клиенты. Примеры ежемесячных и ежегодных сценариев выставления счетов см. в статье [Общие сценарии выставления счетов](common-billing-scenarios.md) .
 
-Your invoice is available within two (2) days of your selected billing date in UTC time. For example, if you have a September 12th billing date, the invoice generation process will begin at 12:00AM UTC on the 13th and complete by 12:00AM UTC on the 14th. If you do not see your invoice by 11:59PM UTC on the 15th, you’re out of your Service Level Agreement and should file a service request.
+Ваш счет доступен в течение двух (2) дней выбранной даты выставления счетов в формате UTC. Например, если у вас 12 сентября Дата выставления счетов, процесс создания счета начнется с 12:8:00 UTC на 13-й день и завершается 12:8:00 UTC на 14. Если вы не видите счет на 11:59PM времени в формате UTC на 15-й странице, то у вас нет Соглашение об уровне обслуживания и он должен будет отправить запрос на обслуживание.
 
-Partners in the Cloud Solution Provider (CSP) program who choose to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based).
+Партнеры в программе поставщика облачных решений (CSP), которые выставляют ежемесячную оплату за 60 дней в прошедший период для подписок клиентов (на основе лицензий и на основе использования).
 
-## <a name="price-lists"></a>Price lists
+## <a name="price-lists"></a>Прайс списки
 
-Price lists are updated monthly. Preview price lists are available one (1) month in advance.
+Ценовые списки обновляются ежемесячно. Предварительные версии прайс-листа доступны через один (1) месяц заранее.
 
-To view price lists:
+Для просмотра прайс:
 
-1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
-2. In the left-hand menu, choose **Sell**, then select **Pricing and offers**.
-3. On the **Pricing and offers** page, you can see 6 months of price lists (including the current month) and preview price lists (where applicable).
+1. [Войдите на панель мониторинга центра партнеров](https://partner.microsoft.com/dashboard/home).
+2. В меню слева щелкните **продать**, а затем выберите **цены и предложения**.
+3. На странице **цены и предложения** можно увидеть 6 месяцев прайс-листа (включая текущий месяц) и предварительно просмотреть прайс-страницы (если применимо).
 
-**License-based** prices are guaranteed for the term of the subscription, usually 12 months from the purchase date. 
+Цены **на основе лицензий** гарантированы для термина подписки (обычно 12 месяцев с даты покупки). 
 
-**Usage-based prices** can change on a monthly basis.
+**Цены на основе использования** могут изменяться ежемесячно.
 
-**Prices for products, services, and software subscriptions** are guaranteed through the subscription duration. However, prices may change when you renew.
+**Цены на продукты, службы и подписки на программное обеспечение** гарантированно проходят через длительность подписки. Однако цены могут измениться при продлении.
 
-You'll see **adjustments** and **credits** in arrears on your next billing invoice after the credit or adjustment is applied.
+После применения кредита или корректировки вы увидите **корректировки** и **кредиты** в прошедший период для следующего счета выставления счетов.
 
 ## <a name="payment-terms"></a>Условия оплаты
 
-Payment terms are net 60 days. Invoices must be paid by the invoice due date (60 days after the billing date), or your account will be delinquent, which may impact your enrollment in CSP. 
+Условия оплаты — 60 дней. Счета должны быть оплачены датой оплаты счета (60 дней после даты выставления счетов) или ваша учетная запись будет безнадежным, что может повлиять на регистрацию в CSP. 
 
-You can regain full functionality of your suspended accounts when you pay the past due amount.
+Вы можете восстановить полную функциональность приостановленных учетных записей при оплате просроченной суммы.
 
-### <a name="taxes-and-vat"></a>Taxes and VAT
+### <a name="taxes-and-vat"></a>Налоги и НДС
 
-You are taxed based on your details (not your customers' details) because the billing relationship is between Microsoft and you. You can submit your tax identifier during the account setup process or through a support request later. Изменения отобразятся в следующем цикле выставления счетов.
+Вы ведете налог на основе ваших сведений (а не сведений о клиентах), так как отношение выставления счетов между корпорацией Майкрософт и вами. Вы можете отправить свой налоговый идентификатор во время процесса настройки учетной записи или через запрос на поддержку позже. Изменения отобразятся в следующем цикле выставления счетов.
 
-For **withholding and sales tax exemption**, you must submit tax documentation through a support request. Изменения и соответствующие возмещения отобразятся в следующем цикле выставления счетов.
+Для **подоходного и**налогового исключения необходимо отправить налоговую документацию по запросу на поддержку. Изменения и соответствующие возмещения отобразятся в следующем цикле выставления счетов.
 
-For **value-added tax (VAT) exemption**, you must submit your VAT ID (validated by Microsoft) through a service request. Изменения и соответствующие возмещения отобразятся в следующем цикле выставления счетов.
+Для **исключения налога**с возмещением НДС необходимо отправить идентификатор НДС (проверенный корпорацией Майкрософт) через запрос на обслуживание. Изменения и соответствующие возмещения отобразятся в следующем цикле выставления счетов.
 
-You can find further tax details from your local tax office or tax advisor.
+Дополнительные сведения о налогах можно найти в местном налоговом офисе или налоговом помощнике.
 
-### <a name="annual-billing-rules"></a>Annual billing rules
+### <a name="annual-billing-rules"></a>Правила ежегодного выставления счетов
 
 Подписки действуют год и продлеваются автоматически.
 
@@ -98,80 +98,80 @@ You can find further tax details from your local tax office or tax advisor.
 
 Счета выставляются наперед за следующий период выставления счетов за службы на основе лицензии, исходя из количества лицензий в конце предыдущего периода выставления счетов.
 
-Вам выставляется счет или предоставляется кредит за истекший период при любом изменении количества лицензий (пропорциональный расчет на основе дней лицензии). Pro-rata calculation uses the following formula:
+Вам выставляется счет или предоставляется кредит за истекший период при любом изменении количества лицензий (пропорциональный расчет на основе дней лицензии). При вычислении Pro-Рата используется следующая формула:
 
 `[ROUND((ROUND(Unit Price * Quantity / Number of days in pro-rated Month, 2) * Number of pro-rated days) / Quantity, 2) * Quantity]`
 
-Payments are billed for licenses sold, not licenses provisioned.
+Оплата взимается за проданные лицензии, а не на подготовленные лицензии.
 
-### <a name="change-billing-frequency"></a>Change billing frequency
+### <a name="change-billing-frequency"></a>Изменение частоты выставления счетов
 
-To change the billing frequency of an online service for a customer:
+Чтобы изменить частоту выставления счетов для веб-службы клиента, выполните следующие действия.
 
-1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
-2. In the left-hand menu, choose **Customers**.
-3. Select the customer whose subscription billing frequency you want to change.
-4. On the customer's **Subscriptions** page, select the subscription that you want to change.
-5. On the **Details** page, under **Billing frequency**, select **Monthly** or **Annual**. You’ll see a confirmation page with important information about changing billing frequency, as well as a list of the subscriptions about to be changed.
-6. Choose **OK** to make the change (or **Cancel** to undo it).
+1. [Войдите на панель мониторинга центра партнеров](https://partner.microsoft.com/dashboard/home).
+2. В меню слева выберите **Customers (клиенты**).
+3. Выберите клиента, для которого требуется изменить частоту выставления счетов по подписке.
+4. На странице **подписки** клиента выберите подписку, которую необходимо изменить.
+5. На странице **сведений** в разделе **Периодичность выставления счетов**выберите **ежемесячный** или **ежегодный**. Вы увидите страницу подтверждения с важной информацией об изменении частоты выставления счетов, а также список подписок, которые будут изменены.
+6. Нажмите кнопку **ОК** , чтобы внести изменение (или **отменить** , чтобы отменить его).
 
 ### <a name="adjustmentscreditscancellations"></a>Корректировки/кредиты/отмены
 
-Microsoft does not charge early termination fees for cancellation of license-based services.
+Корпорация Майкрософт не оплачивает сборы за использование раннего увольнения для отмены служб на основе лицензий.
 
-Cancellation credits for licensed-based services are pro-rated for unused days for mid-cycle cancellations (as well as license decreases according to the formula above).
+Кредиты на отмену для лицензированных служб зависят от количества неиспользуемых дней для отмены средних циклов (а также от снижений лицензий в соответствии с приведенной выше формулой).
 
 ### <a name="billing-rules"></a>Правила выставления счетов
 
-Subscriptions are month-to-month and automatically renew at the new metered service rates. You're billed each month for the previous month's usage.
+Подписки представляют собой месяц и автоматически обновляются с учетом новых тарифных тарифов. За использование за предыдущий месяц взимается плата за каждый месяц.
 
 Тарифы на измеренные службы могут изменяться в течение цикла выставления счета.
 
-#### <a name="price-changes"></a>Price changes
+#### <a name="price-changes"></a>Изменения цен
 
-For **price increases**, 30 days' notice is provided.
+Для **увеличения цены**предоставляется уведомление за 30 дней.
 
-**Price decreases** are reflected on the day of change.
+**Уменьшение цен** отражается в день изменения.
 
-**Existing subscriptions** use the rate in effect at the beginning of the bill cycle.
+**Существующие подписки** используют скорость, которая действует в начале цикла выставления счетов.
 
-**New subscriptions**, when created within the same billing cycle, use the rate in effect on the date you create them. 
+**Новые подписки**, созданные в рамках одного цикла выставления счетов, используют скорость, которая действует на дату их создания. 
 
 ### <a name="adjustmentscreditscancellations"></a>Корректировки/кредиты/отмены
 
 Откорректированные платежи отобразятся в следующем ежемесячном счете-фактуре.
 
-Microsoft does not charge early termination fees for cancellation of usage-based services. 
+Корпорация Майкрософт не оплачивает сборы за использование раннего увольнения для отмены служб на основе использования. 
 
 Любые типы кредитов, включая кредиты за соглашение об уровне обслуживания, отобразятся в следующем ежемесячном счете.
 
 >[!IMPORTANT]
->If you purchase Azure reservations and/or software subscriptions for a customer in a location with a currency different from yours, the default billing currency is based on the customer’s location, not your location. If you have customers in multiple locations, you’ll receive separate invoices and reconciliation files for each currency customers need to be billed in, allowing you to invoice your customers in the appropriate currency.
+>При покупке резервирований Azure и (или) подписок на программное обеспечение для клиента в местоположении с валютой, отличной от вашей, валюта выставления счетов по умолчанию зависит от местонахождения клиента, а не от вашего местонахождения. Если у вас есть клиенты в нескольких расположениях, вы получаете отдельные счета и файлы сверки для каждой валюты, которые должны быть выставлены в счете, что позволяет выставлять счета клиентам в соответствующей валюте.
 
-## <a name="manage-one-time-billing"></a>Manage one-time billing
+## <a name="manage-one-time-billing"></a>Управление одноразовым выставлением счетов
 
-### <a name="billing-status-invoices-and-reconciliation-files"></a>Billing status, invoices and reconciliation files
+### <a name="billing-status-invoices-and-reconciliation-files"></a>Состояние выставления счетов, счета и файлы сверки
 
-To view your current billing status, invoices, and reconciliation files:
+Просмотр текущего состояния выставления счетов, счетов и файлов сверки:
 
-1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
-2. On the left-hand menu, choose **Billing**, then select **One time**.
-3. On the billing status page, select an invoice or reconciliation file to view more detailed information.
+1. [Войдите на панель мониторинга центра партнеров](https://partner.microsoft.com/dashboard/home).
+2. В меню слева выберите **выставление счетов**, а затем выберите **один раз**.
+3. На странице состояние выставления счетов выберите счет или файл сверки для просмотра более подробных сведений.
 
-### <a name="customer-order-history"></a>Customer order history
+### <a name="customer-order-history"></a>Журнал заказов клиента
 
-To view a customer's order history:
+Чтобы просмотреть историю заказов клиента, выполните следующие действия.
 
-1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
-2. On the left-hand menu, choose **Customers**.
-3. On the **Customers** page, find the customer whose order history you want to view. Select the down arrow to expand the customer's record.
-4. Choose **View orders** to display the customer's order history.
+1. [Войдите на панель мониторинга центра партнеров](https://partner.microsoft.com/dashboard/home).
+2. В меню слева выберите **Customers (клиенты**).
+3. На странице **Клиенты** найдите клиента, журнал заказов которого вы хотите просмотреть. Щелкните стрелку вниз, чтобы развернуть запись клиента.
+4. Выберите **просмотреть заказы** , чтобы отобразить историю заказа клиента.
 
-### <a name="credit-notes"></a>Credit notes
+### <a name="credit-notes"></a>Кредит-ноты
 
-You might need to request a credit or rebill for the following reasons:
+Вам может потребоваться запросить кредит или получить счет по следующим причинам:
 
-- You need to make address or purchase order corrections.
-- A tax refund was applied after the invoice was generated. You can request a credit or rebill to get the tax refund pulled back into the original invoice. The same is also true for refunds. You can request a credit or rebill of the original invoice, then pull in a refund.
+- Необходимо выполнить корректировки адреса или заказа на покупку.
+- Возмещение налогов было применено после создания счета. Вы можете запросить кредит или пересчет, чтобы получить возмещение налогов, возвращенное в исходный счет. То же самое относится и к возврату денег. Вы можете запросить кредит или пересчет на первоначальный счет, а затем извлечь возмещение.
 
-If you request a credit or rebill, we'll give you a **credit note** to cancel the original invoice.
+Если вы запрашиваете кредит или счет, мы предоставим вам **кредитную заметку** , чтобы отменить первоначальный счет.

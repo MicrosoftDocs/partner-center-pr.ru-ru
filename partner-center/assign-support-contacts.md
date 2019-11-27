@@ -47,6 +47,6 @@ ms.locfileid: "74253340"
 
 4.  Убедитесь в правильности изменений и нажмите кнопку **Закрыть**.
 
-## <a name="related-topics"></a>Статьи по теме
+## <a name="related-topics"></a>См. также
 
 [Удаление связи с клиентом](remove-a-relationship.md)

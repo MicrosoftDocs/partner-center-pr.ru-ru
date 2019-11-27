@@ -23,19 +23,19 @@ ms.locfileid: "74189078"
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud for US Government
 
-The Partner Center's multi-partner feature supports scenarios when a customer wants to work with more than one partner. Например, клиент может захотеть нанять одного партнера для предложения по Office 365, но нанять другого партнера, который специализируется на Microsoft Azure. 
+Возможность использования нескольких партнеров в центре партнеров поддерживает сценарии, когда клиент хочет работать с несколькими партнерами. Например, клиент может захотеть нанять одного партнера для предложения по Office 365, но нанять другого партнера, который специализируется на Microsoft Azure. 
 
-An Azure CSP tenant can include an additional Azure subscription from a different CSP partner.
+Клиент Azure CSP может включать дополнительную подписку Azure от другого партнера CSP.
 
-To use the multi-partner feature in the Partner Center, invite the customer to give you delegated administration privileges. Информацию о том, как установить связь с клиентом, который уже работает с партнером, см. в разделе [Запрос связи с клиентом](request-a-relationship-with-a-customer.md).
+Чтобы использовать функцию с несколькими партнерами в центре партнеров, пригласите клиента, чтобы предоставить вам делегированные права администратора. Информацию о том, как установить связь с клиентом, который уже работает с партнером, см. в разделе [Запрос связи с клиентом](request-a-relationship-with-a-customer.md).
 
 Функция поддержки нескольких партнеров:
 
-- Change any of the customer's existing subscriptions
+- Изменение любой из существующих подписок клиента
 
-- Transition the customer's existing subscriptions or account ownership
+- Переход к существующим подпискам или владению учетных записей клиента
 
-- Change the terms or customer's obligations for any of their existing subscriptions
+- Изменение условий или обязательств клиента для любой из существующих подписок
 
 - не изменяет зарегистрированного партнера для подписки.
 

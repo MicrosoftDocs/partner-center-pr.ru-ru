@@ -16,28 +16,28 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384598"
 ---
-# <a name="company-tax-information"></a>Company tax information
+# <a name="company-tax-information"></a>Сведения о налогах компании
 
-Область применения
+Относится к:
 
 - Центр партнеров
 
-Налоги на покупки в Центре партнеров рассчитываются в соответствии с вашим рабочим адресом. Businesses in some countries can [provide their value-added tax (VAT) number](#submit-vat-id-number) or local equivalent.
+Налоги на покупки в Центре партнеров рассчитываются в соответствии с вашим рабочим адресом. Компании в некоторых странах могут [предоставить свой налоговый номер (VAT)](#submit-vat-id-number) или местный эквивалент.
 
 ### <a name="add-your-vat-id"></a>Добавьте ваш номер плательщика НДС
 
-You must be a global admin, billing admin, or admin agent to  edit the billing profile.
+Для изменения профиля выставления счетов необходимо быть глобальным администратором, администратором выставления счетов или агентом администратора.
 
-1.  From the **Partner Center dashboard** go to  **Settings** and then select **Billing profile**.
+1.  На **панели мониторинга центра партнеров** перейдите в раздел **Параметры** и выберите **профиль выставления счетов**.
 2.  В разделе **Финансовые данные** выберите **Обновление**.
-3.  In the **Company Tax ID** field, enter your VAT ID number.
+3.  В поле **код налога компании** введите свой идентификационный номер плательщика НДС.
 
-## <a name="submit-vat-id-number"></a>Submit VAT ID number
+## <a name="submit-vat-id-number"></a>Отправить ИДЕНТИФИКАЦИОНный номер плательщика НДС
 
-If applicable, follow these steps to send Microsoft your value-added tax (VAT) ID number:
+Если это применимо, выполните следующие действия, чтобы отправить корпорации Майкрософт ИДЕНТИФИКАЦИОНный номер налога (VAT):
 
-1. Sign in to [the Partner Center dashboard](https://partner.microsoft.com/dashboard/).
-2. In the **Settings** menu (gear icon), choose **Partner Settings**.
-3. On the **Account settings** page, choose **Partner billing profile** on the page menu.
-4. In the **Financial data** section, choose **Update**.
-5. For **Company Tax ID**, specify your VAT ID number.
+1. Войдите на [панель мониторинга центра партнеров](https://partner.microsoft.com/dashboard/).
+2. В меню **Параметры** (значок шестеренки) выберите **Параметры партнера**.
+3. На странице **Параметры учетной записи** выберите **профиль выставления счетов партнера** в меню страница.
+4. В разделе **финансовые данные** выберите **Обновить**.
+5. В качестве **кода налога компании**укажите свой идентификационный номер плательщика НДС.

@@ -1,11 +1,11 @@
 ---
-title: Billing for one-time and select recurring charges | Partner Center
+title: Выставление счетов за одноразовый период и выбор повторяющихся расходов | Центр партнеров
 ms.topic: article
 ms.date: 11/21/2019
-Description: Information on one-time billing in advance for a preset term (monthly and annual subscriptions), and billing for select recurring charges (for applicable Microsoft and third-party ISV products) in Partner Center.
+Description: Сведения о одноразовом выставлении счетов заранее в соответствии с предустановленным термином (ежемесячные и ежегодные подписки) и выставлении счетов за выбор регулярной оплаты (для соответствующих продуктов Майкрософт и сторонних поставщиков программного обеспечения) в центре партнеров.
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: billing, one-time, recurring, purchases, charges, isv
+keywords: выставление счетов, однократная, повторяющаяся, покупка, оплата, независимый поставщик
 ms.localizationpriority: medium
 ms.openlocfilehash: f2ccd0d1240d39409db53d668bac32001c678b09
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -19,38 +19,38 @@ ms.locfileid: "74389692"
 - Центр партнеров
 - Партнеры в программе CSP
 
-This topic describes the billing experience for **one-time and select recurring charges** for Microsoft and third-party independent software vendor (ISV) products. 
+В этом разделе описываются возможности выставления счетов за **одноразовый период и выбирается Регулярная оплата** продуктов Майкрософт и независимых поставщиков программного обеспечения (ISV). 
 
-**One-time billing** is when you purchase software subscriptions and Azure reservations in advance for a preset term. You can purchase for one-year or three-year terms. You're then billed for the entire cost in a one-time lump sum.
+**Одноразовая оплата** заключается в том, что при приобретении подписок на программное обеспечение и резервирования Azure заранее задается предустановленный термин. Вы можете купить условия на один или три года. После этого счета выставляются за всю стоимость единовременной общей суммы.
 
-Billing for one-time and select recurring charges applies to the following types of purchases:
+Выставление счетов за разовые и выбранные платежи применяются к следующим типам покупок:
 
-- [License-based and usage-based subscriptions](#license-based-and-usage-based-subscription-charges)
-- [Microsoft and third-party ISV products](#microsoft-and-third-party-isv-product-charges)
+- [Подписки на основе лицензий и использования](#license-based-and-usage-based-subscription-charges)
+- [Продукты корпорации Майкрософт и сторонних поставщиков программного обеспечения](#microsoft-and-third-party-isv-product-charges)
 
-## <a name="license-based-and-usage-based-subscription-charges"></a>License-based and usage-based subscription charges
+## <a name="license-based-and-usage-based-subscription-charges"></a>Плата за использование подписок на основе лицензий и на основе использования
 
 > [!IMPORTANT]
-> The billing experience for recurring charges of [**license-based subscriptions**](license-based-billing.md) and [**usage-based subscriptions**](usage-based-billing.md) remains the same.
+> Возможности выставления счетов за регулярную оплату [**подписок на основе лицензий**](license-based-billing.md) и [**подписок на основе использования**](usage-based-billing.md) остаются неизменными.
 
-**Recurring charges** for subscriptions (including **license-based and usage-based subscriptions**) are issued for all products from the [**online services catalog**](https://partner.microsoft.com/commerce/preferredoffers/list). Some examples include Office 365, Microsoft 365, Azure Active Directory (Azure AD), Azure (pay-as-you-go), Dynamics 365, and PowerBI Pro.
+**Периодические платежи** по подпискам (включая **подписки на основе лицензий и на основе использования**) выдаются для всех продуктов из [**каталога веб-службы**](https://partner.microsoft.com/commerce/preferredoffers/list). Примеры включают в себя Office 365, Microsoft 365, Azure Active Directory (Azure AD), Azure (с оплатой по мере использования), Dynamics 365 и PowerBI Pro.
 
-For applicable subscription charges, the **billing date** is the date you selected when you created your Partner Center account. The **billing period** is the month prior to your billing date.
+Для применимой оплаты по подписке **Дата выставления счета** — это дата, выбранная при создании учетной записи центра партнеров. **Расчетный период** — это месяц до даты выставления счетов.
 
-The **billing currency** is the currency of the country or region in which you're located. Например, если ваша компания находится в Соединенном Королевстве, то мы будем выставлять вам счета в британских фунтах стерлингов (GBP). Если ваша компания находится в Индии, то мы будем выставлять вам счета в индийских рупиях (INR).
+**Валюта выставления счетов** — это валюта страны или региона, в которой Вы находитесь. Например, если ваша компания находится в Соединенном Королевстве, то мы будем выставлять вам счета в британских фунтах стерлингов (GBP). Если ваша компания находится в Индии, то мы будем выставлять вам счета в индийских рупиях (INR).
 
-Current **billing activity** is *not available* for these types of charges.
+Текущая **Операция выставления счетов** *недоступна* для расходов такого типа.
 
-## <a name="microsoft-and-third-party-isv-product-charges"></a>Microsoft and third-party ISV product charges
+## <a name="microsoft-and-third-party-isv-product-charges"></a>Плата за продукты корпорации Майкрософт и сторонних поставщиков программного обеспечения
 
-**Recurring charges** and **one-time charges** are issued for **Microsoft and third-party ISV products**. Applicable products include all SaaS subscriptions, Azure reservations, and perpetual and subscription-based software products offered by Microsoft and third-party ISVs. See available products in the Marketplace. Examples include SUSE Linux software (software subscriptions), Windows Server 2019 Essentials (perpetual software), and Azure ISV SaaS product subscriptions.
+**Периодически взимается плата** за использование **продуктов Майкрософт и сторонних поставщиков программного обеспечения**. К применимым продуктам относятся все подписки SaaS, резервирования Azure, бессрочные и программные продукты на основе подписок, предлагаемые корпорацией Майкрософт и сторонними производителями. См. раздел доступные продукты в Marketplace. К примерам относятся программное обеспечение SUSE Linux (подписки на программное обеспечение), Windows Server 2019 Essentials (бессрочное программное обеспечение) и подписки на продукты SaaS ISV Azure.
 
-For applicable product charges, the **billing date** is the 8th day of each month. The **billing period** starts on the first day of the calendar month and ends on the last day of the calendar month. Any transactions you make between May 1 and May 31, 2019 will appear on your invoice June 8. Любые транзакции, выполненные с 1 по 31 июня 2019 года, отобразятся в счете 8 июля. Вам могут быть выставлены счета за повторяющиеся и одноразовые покупки в одном счете.
+Для применимой оплаты продуктов **Дата выставления счета** — это 8-й день каждого месяца. **Расчетный период** начинается в первый день календарного месяца и заканчивается на последний день календарного месяца. Все транзакции, выполняемые между 1 мая и 31 мая, 2019 будут отображаться в счете 8 июня. Любые транзакции, выполненные с 1 по 31 июня 2019 года, отобразятся в счете 8 июля. Вам могут быть выставлены счета за повторяющиеся и одноразовые покупки в одном счете.
 
-The **billing currency** is the currency of the country or region in which your customer is located. You’ll receive separate invoices and reconciliation files in the currency of the country or region of each customer that you sold to during the billing period.
+**Валюта выставления счетов** — это валюта страны или региона, в которой находится клиент. Вы получите отдельные счета и файлы сверки в валюте страны или региона каждого клиента, который вы продавали в течение расчетного периода.
 
-Current **billing activity** is *available* for these types of charges. You can check your account balance and bill at any time in Partner Center. Note that your final invoice amount may different from what you can see on your account during the billing period. This is because your invoice will include taxes and any other applicable charges and credits.
+Текущая **Операция выставления счетов** *доступна* для этих типов оплаты. Вы можете в любое время проверить баланс и счет в центре партнеров. Обратите внимание, что итоговая сумма счета может отличаться от того, что вы видите в вашей учетной записи в течение расчетного периода. Это связано с тем, что ваш счет будет включать налоги и любые другие применимые платежи и кредиты.
 
 ## <a name="common-billing-scenarios"></a>Распространенные сценарии выставления счетов
 
-For detailed explanations of common billing scenarios for these types of charges, see [Common billing scenarios for one-time and recurring purchases](common-billing-scenarios-onetime-recurring.md).
+Подробное описание распространенных сценариев выставления счетов за эти типы выплат см. в статье [Общие сценарии выставления счетов для одноразовых и повторяющихся покупок](common-billing-scenarios-onetime-recurring.md).

@@ -20,65 +20,65 @@ ms.locfileid: "74391699"
 ---
 # <a name="partner-contribution-indicators"></a>Индикаторы вклада партнеров
 
-Partner Contribution Indicators (PCI) provides a holistic measure of a partner’s impact in driving successful customer outcomes for Dynamics 365. Partners receive greater differentiation in the market when they attain and maintain the Cloud Business Applications competency.  Partners receive credit for key measures of customer success, such as successful deployments and increasing usage, and are rewarded for continuing to invest in and scale out their technical capabilities. 
+Индикаторы участия партнера (PCI) предоставляют целостную меру влияния партнера на выполнение успешных результатов клиента для Dynamics 365. Партнеры получают более широкие отличия на рынке при достижении и обслуживании компетенции облачной Business Applications.  Партнеры получают баллы за ключевые показатели успеха клиента, такие как успешные развертывания и повышение уровня использования, а также возросли на то, чтобы продолжить вкладывать и масштабировать свои технические возможности. 
 
 ## <a name="scoring"></a>Оценка
 
-PCI provides a sophisticated, holistic view of your company’s technical capabilities, ability to drive customer success, and sales performance. PCI measures your company’s prior-year performance across seven key indicators:
+PCI обеспечивает комплексное, целостное представление технических возможностей вашей компании, возможность управлять успешным выполнением клиентов и продуктивностью продаж. PCI измеряет производительность прошлого года компании в семи ключевых индикаторах:
 
-1. **Net new revenue** — Net new revenue across all sales channels for Microsoft Dynamics 365 products.
-2. **Net customer adds** — Net customers acquired for Dynamics 365 across all sales channels.
-3. **Functional consultants** — Number of individuals holding a currently active Functional Consultant Associate certification for Dynamics 365.
-4. **Functional consultant growth** — Growth in the number of Functional Consultant Associates since March 31, 2020.
-5. **Developers** — Number of individuals holding a currently active Developer Associate certification for Dynamics 365.
-6. **New large deployments** — Number of production tenants that cross the high-usage threshold over the past 12 months.
-7. **Monthly active user growth** — Growth in monthly active users across all your customers over the past 12 months.
+1. **Чистая новая прибыль** — чистая новая прибыль по всем каналам продаж для продуктов Microsoft Dynamics 365.
+2. **Добавление клиентов NET** — клиенты, приобретенные для Dynamics 365 по всем каналам продаж.
+3. **Функциональные консультанты** — количество человек, занимающихся действующей в настоящее время функциональным консультантом связь с сертификатом для Dynamics 365.
+4. **Функциональный рост консультанта** — рост количества функциональных партнеров, начиная с 31 марта 2020.
+5. **Разработчики** — количество человек, занимающихся назначением текущего активного в настоящее время сертификата для Dynamics 365.
+6. **Новые крупные развертывания** — количество рабочих клиентов, которые пересекают пороговое значение высокой загрузки за последние 12 месяцев.
+7. **Ежемесячное увеличение числа активных** пользователей — рост числа ежемесячных активных клиентов за последние 12 месяцев.
 
-Points are granted for each achieved indicator, resulting in a single-number PCI score. 100 maximum points are possible. PCI score determines competency eligibility:
+Точки предоставляются для каждого полученного индикатора, что приводит к получению однозначного рейтинга PCI. 100. Максимальное число точек. Оценка PCI определяет права на компетенцию:
 
-![PCI scores](images/pcinew1.png)
+![Оценки PCI](images/pcinew1.png)
 
-Each indicator brings a score that is added to the total. Here are the maximum scores for each indicator:
+Каждый индикатор помещает оценку, которая добавляется к общему итогу. Ниже приведены максимальные показатели для каждого индикатора.
 
 
-![pci performance 2](images/pci1.png)
+![производительность PCI 2](images/pci1.png)
 
 ### <a name="thresholds"></a>Пороговые значения
 
-Каждая метрика PCI имеет пороговые значения, заданные корпорацией Майкрософт, которые могут принести вашей компании максимальные баллы. Эти пороговые значения отличаются для планов Customer Engagement и Finance and Operations. Пороговые значения также отличаются для партнеров, работающих на развитых рынках, и для тех, кто работает исключительно на новых рынках. Если у партнера есть один или несколько клиентов на развитом рынке, применяются пороговые значения для развитого рынка. The developed or emerging market categorization of a country is based on the [Microsoft Partner Network definitions](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).
+Каждая метрика PCI имеет пороговые значения, заданные корпорацией Майкрософт, которые могут принести вашей компании максимальные баллы. Эти пороговые значения отличаются для планов Customer Engagement и Finance and Operations. Пороговые значения также отличаются для партнеров, работающих на развитых рынках, и для тех, кто работает исключительно на новых рынках. Если у партнера есть один или несколько клиентов на развитом рынке, применяются пороговые значения для развитого рынка. Разработанная или развивающаяся классификация рынка основана на [определениях Microsoft Partner Network](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).
 
-Points across each metric are tallied to yield a distinct PCI score for Customer Engagement and Finance & Operations which will be updated monthly.
+Баллы по каждой метрике подписываются для получения уникального рейтинга PCI для участия клиентов и финансовых & операций, которые будут обновляться ежемесячно.
 
 Партнеры могут получить максимальное количество баллов для заданной метрики, если они достигли или превысили пороговые значения, указанные ниже. Можно заработать часть баллов для всех метрик, за исключением метрики "Рост для консультантов по функциональным возможностям". Например, партнер на развитом рынке со 150 000 долл. США нового чистого дохода заработает половину (150 000 из 300 000) из максимальных 10 баллов.
 
-![customer engagement](images/pci/table_1.png)
+![участие клиентов](images/pci/table_1.png)
 
 ![Finance](images/pci/TABLE_2.png)
 
-![consultant](images/pci/table_3.png)
+![отделения](images/pci/table_3.png)
 
-## <a name="detailed-definitions-of-pci-metrics"></a>Detailed definitions of PCI metrics
+## <a name="detailed-definitions-of-pci-metrics"></a>Подробные определения метрик PCI
 
-![net new revenue](images/net_new1.png)
+![Чистая новая прибыль](images/net_new1.png)
 
-![net customer adds](images/netcustomer.png)
+![Добавление клиентов в сеть](images/netcustomer.png)
 
-![Functional Consultant](images/pci/functional_consultants.png)
+![Функциональный консультант](images/pci/functional_consultants.png)
 
-![growth](images/pci/functional_consultant_growth.png)
+![квот](images/pci/functional_consultant_growth.png)
 
 ![Разработчикам](images/pci/developers.png)
 
-![New deployments](images/pci/new_large_deployments.png)
+![Новые развертывания](images/pci/new_large_deployments.png)
 
-![active users](images/pci/monthly_active_user_growth.png)
+![Активные пользователи](images/pci/monthly_active_user_growth.png)
 
 
 ## <a name="customer-to-partner-association"></a>Связь между партнером и клиентами
 
-You receive credit for Net new revenue, Net customer adds, New large deployments, and Monthly active user growth for a given customer, within the bounds of the metric definition, only if you are the Cloud Solution Provider (CSP), the Claiming Partner of Record (CPOR), or Digital Partner of Record (DPOR) for a paid subscription belonging to the customer's tenant.
+Вы получаете баллы за чистую новую прибыль, net-клиенты, новые крупные развертывания и ежемесячное увеличение активного пользователя для данного клиента в пределах определения метрики, только если вы являетесь поставщиком облачных решений (CSP), партнером по заявке на запись (КПОР). или цифровой партнер записи (DPOR) для платной подписки, принадлежащей клиенту клиента.
 
-A partner becomes the CPOR if they have established association with a customer at the subscription level via the Dynamics 365 [Online Solution Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) incentive or Dynamics 365 [Online Services Usage](https://support.microsoft.com/en-us/help/3082044/become-eligible-for-the-online-services-usage-incentive-program) (OSU) incentive.
+Партнер станет КПОР, если он установил связь с клиентом на уровне подписки с 365 помощью стимула [помощника по](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) установке и активации Dynamics 365 Online [Services](https://support.microsoft.com/en-us/help/3082044/become-eligible-for-the-online-services-usage-incentive-program) (осу).
 
 Партнер получает статус DPOR, если он установил связь с клиентом на уровне подписки в рамках продукта.
 
@@ -90,7 +90,7 @@ A partner becomes the CPOR if they have established association with a customer 
 
 ## <a name="additional-resources"></a>Дополнительные ресурсы
 
-Please visit [Partner Contribution Indicators resource collection](https://partner.microsoft.com/asset/collection/pci-learn#/) where you can find detailed training videos, presentations, FAQs, and fact sheets. 
+Дополнительные обучающие видеоматериалы, презентации, часто задаваемые вопросы и листы фактов см. в [коллекции ресурсов](https://partner.microsoft.com/asset/collection/pci-learn#/) . 
 
 
 

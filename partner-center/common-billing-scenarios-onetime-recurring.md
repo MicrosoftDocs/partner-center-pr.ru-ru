@@ -1,12 +1,12 @@
 ---
-title: Common billing scenarios for one-time and select recurring purchases | Partner Center
+title: Распространенные сценарии выставления счетов за одноразовый период и выбор повторяющихся покупок | Центр партнеров
 ms.topic: article
 ms.date: 11/21/2019
-description: Common billing scenarios in Partner Center for one-time and select recurring purchases (such as purchasing subscriptions, adding more subscriptions, adding and removing seats).
+description: Распространенные сценарии выставления счетов в центре партнеров на разовые и выбранные повторяющиеся покупки (например, подписки на покупку, добавление дополнительных подписок, Добавление и удаление рабочих мест).
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: billing, payments, one-time purchase, recurring purchase, subscriptions, seats
+Keywords: выставление счетов, оплата, одноразовая покупка, повторная покупка, подписки, рабочие места
 ms.localizationpriority: medium
 ms.openlocfilehash: 69a7f1d4ded608942ea8b4bd7bec6054a44d52c7
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,11 +15,11 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389642"
 ---
-# <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>One-time and select recurring purchase billing scenarios
+# <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>Однократный и выбор повторяющихся сценариев выставления счетов на покупку
 
-These example [common billing scenarios](common-billing-scenarios.md) are applicable to [one-time and select recurring charges](one-time-and-recurring-billing.md) in Partner Center.
+В этих примерах [распространенные сценарии выставления счетов](common-billing-scenarios.md) применяются к [одноразовым и выбираются повторяющиеся платежи](one-time-and-recurring-billing.md) в центре партнеров.
 
-## <a name="purchase-a-subscription-and-add-a-seat-on-the-same-day"></a>Purchase a subscription and add a seat on the same day
+## <a name="purchase-a-subscription-and-add-a-seat-on-the-same-day"></a>Приобретите подписку и добавьте рабочее место в тот же день
 
 В сценарии 1 вы приобретаете подписку 11 июня по 4 долл. США за единицу. Позже в тот же день вы приобретаете еще одну такую подписку по той же цене.
 
@@ -31,11 +31,11 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 
 |**Дата покупки**   |**Начало платежа** |**Завершение платежа**  |**Цена за единицу**  |**Количество**  |**Сумма** |**Тип платежа** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11.06.2019      |10.06.2019   |09.07.2019         |4 долл. США                |1                 |4 долл. США            |Новый         |
+|11.06.2019      |10.06.2019   |09.07.2019         |4 долл. США                |1                 |4 долл. США            |Оператор new         |
 |11.06.2019     | 10.06.2019    |09.07.2019        |4 долл. США        |1        | –4 долл. США       |addQuantity           |
 |11.06.2019     | 10.06.2019    |09.07.2019        |4 долл. США        | 2      |8 долл. США         |addQuantity           |
 
-## <a name="purchase-a-subscription-and-add-more-subscriptions-later"></a>Purchase a subscription and add more subscriptions later
+## <a name="purchase-a-subscription-and-add-more-subscriptions-later"></a>Приобретите подписку и добавьте дополнительные подписки позже
 
 В сценарии 2 вы приобретаете подписку 11 июня по 4 долл. США за единицу, а 12 июня вы приобретаете еще одну подписку на тот же продукт по той же цене.
 
@@ -47,11 +47,11 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 
 |**Дата покупки**   |**Начало платежа** |**Завершение платежа**  |**Цена за единицу**  |**Количество**  |**Сумма** |**Тип платежа** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11.06.2019 (у вас одна лицензия)     |10.06.2019   |09.07.2019         |4 долл. США         |1        |4 долл. США            |Новый         |
+|11.06.2019 (у вас одна лицензия)     |10.06.2019   |09.07.2019         |4 долл. США         |1        |4 долл. США            |Оператор new         |
 |12.06.2019     | 10.06.2019    |09.07.2019        |4 долл. США        |1        | –3,87 долл. США       |addQuantity           |
 |12.06.2019     | 10.06.2019    |09.07.2019        |4 долл. США        | 2      |7,74 долл. США       |addQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-a-seat-on-the-same-day"></a>Purchase a subscription and remove a seat on the same day
+## <a name="purchase-a-subscription-and-remove-a-seat-on-the-same-day"></a>Приобрести подписку и удалить рабочее место в тот же день
 
 В сценарии 3 вы приобретаете две подписки на один и тот же продукт 11 июня по 4 долл. США за единицу. Позже в тот же день вы удаляете одно из рабочих мест.  
 
@@ -63,11 +63,11 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 
 |**Дата покупки**   |**Начало платежа** |**Завершение платежа**  |**Цена за единицу**  |**Количество**  |**Сумма** |**Тип платежа** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11.06.2019      |10.06.2019   |09.07.2019         |4 долл. США                |2                 |8 долл. США            |Новый         |
+|11.06.2019      |10.06.2019   |09.07.2019         |4 долл. США                |2                 |8 долл. США            |Оператор new         |
 |11.06.2019     | 10.06.2019    |09.07.2019        |4 долл. США        |2        | –8 долл. США       |removeQuantity           |
 |11.06.2019     | 10.06.2019    |09.07.2019        |4 долл. США        | 1      |4 долл. США         |removeQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-seats-later"></a>Purchase a subscription and remove seats later
+## <a name="purchase-a-subscription-and-remove-seats-later"></a>Приобретение подписки и удаление рабочих мест позже
 
 В сценарии 4 вы приобретаете 2 подписки по 4 долл. США за единицу 11 июня, а 12 июня вы удаляете одно из рабочих мест.
 
@@ -79,6 +79,6 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 
 |**Дата покупки**   |**Начало платежа** |**Завершение платежа**  |**Цена за единицу**  |**Количество**  |**Сумма** |**Тип платежа** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11.06.2019 (у вас 2 лицензии)     |10.06.2019   |09.07.2019         |4 долл. США         |2        |8 долл. США       |Новый       |
+|11.06.2019 (у вас 2 лицензии)     |10.06.2019   |09.07.2019         |4 долл. США         |2        |8 долл. США       |Оператор new       |
 |12.06.2019     | 10.06.2019    |09.07.2019        |4 долл. США        |2        | –7,74 долл. США       |removeQuantity           |
 |12.06.2019 (у вас 1 лицензия)    | 10.06.2019    |09.07.2019   |4 долл. США    |1      |3,87 долл. США    |removeQuantity |

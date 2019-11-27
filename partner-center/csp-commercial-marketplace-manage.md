@@ -111,7 +111,7 @@ ms.locfileid: "74253812"
 
 Вы также можете использовать API центра партнеров для управления жизненным циклом и управления счетами для ваших подписок. Дополнительные сведения см. [в статье Создание подписки для продуктов коммерческого рынка](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Приобретение предложений коммерческих рынков](csp-commercial-marketplace-purchase.md)
 - [Сведения о выставлении счетов в коммерческом магазине](csp-commercial-marketplace-billing.md)

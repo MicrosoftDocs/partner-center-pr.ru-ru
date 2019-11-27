@@ -2,11 +2,11 @@
 title: Распространенные сценарии выставления счетов | Центр партнеров
 ms.topic: article
 ms.date: 11/21/2019
-description: Common billing scenarios in Partner Center for annual billing (such as adding new subscriptions, adding licenses before your billing date, change license quantity, and suspending and reactivating subscriptions).
+description: Распространенные сценарии выставления счетов в центре партнеров за ежегодный счет (например, добавление новых подписок, Добавление лицензий до даты выставления счетов, изменение количества лицензий, приостановка и повторная активация подписок).
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
+Keywords: выставление счетов, оплата, заказы, использование, выставление счетов на основе лицензий, Дата юбилея, термин, Отмена, продление цен, файл сверки, разведывательную-файл
 ms.localizationpriority: medium
 ms.openlocfilehash: 91b8e318e2122f9510b160339984cc0743c318ee
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,11 +15,11 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389632"
 ---
-# <a name="annual-billing-scenarios"></a>Annual billing scenarios
+# <a name="annual-billing-scenarios"></a>Сценарии ежегодного выставления счетов
 
-These example [common billing scenarios](common-billing-scenarios.md) are applicable if you use annual billing in Partner Center.
+В этих примерах используются [Общие сценарии выставления счетов](common-billing-scenarios.md) , если в центре партнеров используется ежегодный счет.
 
-## <a name="new-annual-subscription"></a>New annual subscription
+## <a name="new-annual-subscription"></a>Новая ежегодная подписка
 
 Датой выставления счетов является 15-й день каждого месяца. 13 января вы приобретаете новую подписку с одной лицензией на 4 долл. США/мес и выбираете ежегодное выставление счетов. 15 января файл выверки на основе лицензий будет содержать следующую строку.
 
@@ -27,7 +27,7 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13.01.18|12.01.19|Пропорциональные сборы при покупке|48,00|1|48,00
 
-## <a name="add-license-after-subscription-anniversary-date-but-before-billing-date"></a>Add license after subscription anniversary date but before billing date
+## <a name="add-license-after-subscription-anniversary-date-but-before-billing-date"></a>Добавить лицензию после даты юбилея подписки, но до даты выставления счетов
 
 Вы приобретаете новую подписку 11 февраля 2017 года, стоимость одной лицензии — 211,20 долларов в год. Годовщина вашей подписки задана как 11 число каждого месяца. Система выставления счетов Microsoft создает следующие строки:
 
@@ -41,7 +41,7 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 
 В годовщину подписки, то есть 11 марта 2017 года, система выставления счетов Microsoft создает следующие строки счета для увеличения лицензий 12 февраля 2017 г.
 
-- $211.20 credit for period 2/11/17 – 2/10/18.
+- $211,20. кредит для периода 2/11/17 – 2/10/18.
 - пропорциональный сбор 0,58 долл. США за 1 лицензию за период 11.02.17–11.02.17;
 - пропорциональный сбор 15,62 долл. США за 2 лицензии за период 12.02.17–10.03.17;
 - пропорциональный сбор 195,00 долл. США за 2 лицензии за период 11.03.17–10.02.18;
@@ -59,7 +59,7 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 
 Одиннадцатого февраля 2018 г. подписка будет продлена на 12 месяцев.
 
-## <a name="change-license-quantity"></a>Change license quantity
+## <a name="change-license-quantity"></a>Изменение количества лицензий
 
 Датой выставления счетов является 15-й день каждого месяца. 13 января вы приобретаете новую подписку с одной лицензией на 4 долл. США/мес и выбираете ежегодное выставление счетов. 15 января файл выверки на основе лицензий будет содержать следующую строку.
 
@@ -72,7 +72,7 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 |Дата начала оплаты |Дата завершения оплаты |Тип оплаты |Цена за единицу |Количество |Сумма |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13.01.18|12.01.19|Пропорциональное распределение экземпляра цикла|-48,00|1|-48,00
-13.01.18|31.01.18|Пропорциональное распределение экземпляра цикла|2,47|1|2,47
+13.01.18|31.01.2018|Пропорциональное распределение экземпляра цикла|2,47|1|2,47
 01.02.18|12.01.19|Пропорциональное распределение экземпляра цикла|44,98|2|89,96
 
 Цена в год составляет 48,00, что соответствует цене в день 0,13 (48,00/365).
@@ -87,7 +87,7 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 
 Поэтому цена за единицу = 44,98 (346x0,13x2)
 
-## <a name="suspend-before-30-days"></a>Suspend before 30 days
+## <a name="suspend-before-30-days"></a>Приостановка до 30 дней
 
 Датой выставления счетов является 15-й день каждого месяца. 13 января вы приобретаете новую подписку с одной лицензией на 4 долл. США/мес и выбираете ежегодное выставление счетов. 15 января файл выверки на основе лицензий будет содержать следующую строку.
 
@@ -101,7 +101,7 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13.01.18|12.01.19|Сбор за отмену|-48,00|1|-48,00
 
-## <a name="suspend-after-30-days"></a>Suspend after 30 days
+## <a name="suspend-after-30-days"></a>Приостановка через 30 дней
 
 Датой выставления счетов является 15-й день каждого месяца. 13 января вы приобретаете новую подписку с одной лицензией на 4 долл. США/мес и выбираете ежегодное выставление счетов. 15 января файл выверки на основе лицензий будет содержать следующую строку.
 
@@ -124,7 +124,7 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 
 Поэтому цена за единицу = 41,34 (318x0,13x1). Так как это кредит, цена за единицу составляет -41,34.
 
-## <a name="suspend-and-reactivate"></a>Suspend and reactivate
+## <a name="suspend-and-reactivate"></a>Приостановка и повторная активация
 
 Датой выставления счетов является 15-й день каждого месяца. 13 января вы приобретаете новую подписку с одной лицензией на 4 долл. США/мес и выбираете ежегодное выставление счетов. 15 января файл выверки на основе лицензий будет содержать следующую строку.
 

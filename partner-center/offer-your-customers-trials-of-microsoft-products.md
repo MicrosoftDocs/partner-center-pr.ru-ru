@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Ваши клиенты могут ознакомиться с продуктами Майкрософт, доступными по подписке, в течение 30 дней. You can sign up for these trials in the catalog just like many other online services.
+description: Ваши клиенты могут ознакомиться с продуктами Майкрософт, доступными по подписке, в течение 30 дней. Вы можете зарегистрировать эти пробные версии в каталоге так же, как и многие другие веб-службы.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
@@ -18,26 +18,26 @@ ms.locfileid: "74384829"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Предложение клиентам пробных версий продуктов Майкрософт
 
-Область применения
+Относится к:
 
 - Центр партнеров
 
 Чтобы продемонстрировать клиентам новые продукты Майкрософт, рекомендуется предлагать 30-дневные бесплатные пробные версии. Процесс регистрации для получения пробной версии продукта из каталога аналогичен процессу регистрации во многих других веб-службах. Предложение доступно для всех партнеров.
 
-## <a name="available-trial-offers"></a>Available trial offers
+## <a name="available-trial-offers"></a>Доступные пробные предложения
 
-You can find all of your outstanding trial offers on the **Customer** page. This page lists all subscriptions, including free trials and paid subscriptions. (This feature is not currently available in China.)
+Все необработанные предложения по пробной версии можно найти на странице **клиента** . На этой странице перечислены все подписки, включая бесплатные пробные версии и платные подписки. (Эта функция в настоящее время недоступна в Китае.)
 
-Each customer is entitled to one free trial for each available offer. Например, они могут получить одну бесплатную пробную версию для Office 365 бизнес премиум и одну для Office 365 E3. However, if the customer already owns the offer, they can't use a free trial for that offer.
+Каждый клиент имеет право на одну бесплатную пробную версию для каждого доступного предложения. Например, они могут получить одну бесплатную пробную версию для Office 365 бизнес премиум и одну для Office 365 E3. Однако если клиент уже владеет предложением, он не сможет использовать бесплатную пробную версию этого предложения.
 
-### <a name="available-products"></a>Available products
+### <a name="available-products"></a>Доступные продукты
 
 Бесплатные пробные версии будут доступны для следующих продуктов:
 
 - Office 365 бизнес премиум
 - Office 365 E3
-- Office 365 E5 with PSTN
-- Office 365 E5 without PSTN
+- Office 365, пакет с КТСОП и PSTN
+- Office 365, не PSTN
 - Enterprise Mobility & Security E5
 - План 1 Dynamics 365 Enterprise Customer Engagement
 - Dynamics 365 for Financials
@@ -45,71 +45,71 @@ Each customer is entitled to one free trial for each available offer. Напри
 
 Мы предоставляем бесплатные пробные версии для этих продуктов, поскольку они являются наиболее полными и популярными бизнес-предложениями. В будущем мы можем добавить другие предложения для бесплатных пробных версий.
 
-Currently, there are **no free trials** for government offers, education offers, or add-on offers.
+В настоящее время отсутствуют **Бесплатные пробные** версии предложений для государственных организаций, предложений по образованию или дополнительных предложений.
 
-## <a name="licenses-for-free-trial-offers"></a>Licenses for free trial offers
+## <a name="licenses-for-free-trial-offers"></a>Лицензии на бесплатные пробные версии
 
-All free trials provide 25 licenses. You can't change this number during the trial. You can't add or remove seats in the free trial. After the trial is converted to a paid subscription, you can add additional licenses to the subscription.
+Все бесплатные пробные версии предоставляют 25 лицензий. Этот номер нельзя изменить во время пробной версии. Вы не можете добавлять или удалять рабочие места в бесплатной пробной версии. После преобразования пробной версии в платную подписку можно добавить дополнительные лицензии в подписку.
 
-You should assign trial licenses and seats just as you would for a paid service in Partner Center.
+Вы должны назначить пробные лицензии и рабочие места так же, как и в платной службе в центре партнеров.
 
-## <a name="sign-customers-up-for-trials"></a>Sign customers up for trials
+## <a name="sign-customers-up-for-trials"></a>Подписывать клиентов на пробные версии
 
-To sign your customer up for a trial through Partner Center:
+Чтобы подписать клиента для пробной версии через центр партнеров:
 
-1. From **Sell** on the Partner Center, go to **Catalog**. 
+1. Перейдя **в центр** партнеров, перейдите в **Каталог**. 
 2. В подразделе **Периодичность выставления счетов** в каталоге щелкните **Пробная версия**. При этом отобразятся только бесплатные пробные версии, а платные предложения будут скрыты. Пробные версии отобразятся на вкладке **Пробные версии** в каталоге.
 3. Выберите бесплатную пробную версию, которую вы хотите предложить, а затем нажмите **Отправить**. Срок действия всех пробных версий составляет 30 дней, в течение которых счет выставлен не будет. Также пробную версию можно преобразовать в платную подписку в любой момент пробного периода.
 
-## <a name="converting-trials-to-paid-subscriptions"></a>Converting trials to paid subscriptions
+## <a name="converting-trials-to-paid-subscriptions"></a>Преобразование пробных версий в платные подписки
 
-A free trial is not automatically converted to a paid subscription. After thirty days, a free trial must be converted to a paid subscription or it will [expire](#expiring-offers). Free trials can't be extended.
+Бесплатная пробная версия не преобразуется автоматически в платную подписку. По прошествии тридцати дней бесплатная пробная версия должна быть преобразована в платную подписку или [истечет срок ее действия](#expiring-offers). Бесплатные пробные версии не могут быть расширены.
 
-You'll need to convert the trial into a paid subscription yourself. You can do this [using the Partner Center](#convert-trials-using-partner-center) or [through the Partner Center APIs](#convert-trials-using-apis).
+Вам потребуется самостоятельно преобразовать пробную версию в платную подписку. Это можно сделать [с помощью центра партнеров](#convert-trials-using-partner-center) или [через API-интерфейсы центра партнеров](#convert-trials-using-apis).
 
 > [!NOTE]
-> Customer free trials for the Cloud Solution Provider (CSP) program can't be converted to another program tenant (such as EA, Open or MOSP).
+> Бесплатные пробные версии для программы поставщика облачных решений (CSP) не могут быть преобразованы в другой клиент программы (например, EA, Open или MOSP).
 
-### <a name="convert-trials-using-partner-center"></a>Convert trials using Partner Center
+### <a name="convert-trials-using-partner-center"></a>Преобразование пробных испытаний с помощью центра партнеров
 
-You can convert trials to paid subscriptions using the Partner Center dashboard as follows:
+Вы можете преобразовать пробные версии в платные подписки с помощью панели мониторинга центра партнеров, как показано ниже.
 
 1. Перейдите на страницу подписки клиента и выберите бесплатную пробную версию.
 2. Выберите **Преобразование пробной версии в платную подписку**.
 3. Введите требуемое количество лицензий и периодичность выставления счетов, а затем нажмите **Применить**.
 4. Выставление счетов за платную подписку начинается с даты преобразования и подписка автоматически продляется через 12 месяцев с даты преобразования. 
 
-### <a name="convert-trials-using-apis"></a>Convert trials using APIs
+### <a name="convert-trials-using-apis"></a>Преобразование ознакомительных версий с помощью API
 
-You may need to alter your APIs to accommodate the conversion of a free trial to a paid subscription. For more information, see the following developer documentation:
+Вам может потребоваться изменить API-интерфейсы, чтобы обеспечить преобразование бесплатной пробной версии в платную подписку. Дополнительные сведения см. в следующей документации для разработчиков:
 
 - [Преобразование пробной подписки в платную](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
 - [Получение списка предложений для преобразования пробных версий](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
-### <a name="expiring-offers"></a>Expiring offers
+### <a name="expiring-offers"></a>Предложения с истекающим сроком действия
 
-You will not be notified of expiring offers. You can track upcoming expiration dates using the customer view on Partner Center or by querying the API. Рекомендуется регулярно отслеживать эти даты, чтобы выполнить соответствующие действия, когда клиентам понадобится принять решение.
+Вы не будете уведомлены о предложениях с истекающим сроком действия. Вы можете контролировать будущие даты истечения срока действия с помощью представления "клиент" в центре партнеров или путем запроса к API. Рекомендуется регулярно отслеживать эти даты, чтобы выполнить соответствующие действия, когда клиентам понадобится принять решение.
 
-After a trial has expired, a customer who attempts to log into that trial will see an expiry message. However, the data is stored in line with data retention standards. After you purchase a new subscription with the same service plans, your customer's information can be accessed again from the newly activated subscription.
+По истечении срока действия пробной версии клиент, пытающийся войти в эту пробную версию, увидит сообщение с истекшим сроком действия. Однако данные хранятся в виде строк со стандартами хранения данных. После приобретения новой подписки с теми же планами обслуживания можно снова получить доступ к сведениям о клиенте из вновь активированной подписки.
 
 ## <a name="billing"></a>Выставление счетов
 
-Annual billing and free trials are the same in sovereign clouds and the public cloud. The only difference is the trial SKUs available at the time of launch.
+Ежегодные выставляемые и бесплатные пробные версии одинаковы в независимых облаках и общедоступном облаке. Единственное отличие заключается в наличии пробных версий, доступных на момент запуска.
 
-## <a name="billing-for-free-trials"></a>Billing for free trials
+## <a name="billing-for-free-trials"></a>Выставление счетов за бесплатные пробные версии
 
-Free trials can be used for both monthly and annually billed subscriptions. You can select the billing frequency when you convert the trial to a paid subscription.
+Бесплатные пробные версии можно использовать как для ежемесячных, так и для ежегодно выставленных подписок. Частоту выставления счетов можно выбрать при преобразовании пробной версии в платную подписку.
 
-The subscription start date is based on the conversion date. Если бесплатная пробная версия была преобразована в платное предложение с ежегодным выставлением счетов, подписка будет продлена через 12 месяцев с даты преобразования. Если бесплатная пробная версия была преобразована в платное предложение с ежемесячным выставлением счетов, подписка будет продлена через 12 месяцев с даты выставления счетов, следующей за датой преобразования.
+Дата начала подписки зависит от даты преобразования. Если бесплатная пробная версия была преобразована в платное предложение с ежегодным выставлением счетов, подписка будет продлена через 12 месяцев с даты преобразования. Если бесплатная пробная версия была преобразована в платное предложение с ежемесячным выставлением счетов, подписка будет продлена через 12 месяцев с даты выставления счетов, следующей за датой преобразования.
 
 ### <a name="invoices"></a>Счета
 
-You won't see free trials listed in your invoice or license-based reconciliation file. Free trials will only appear on your invoice and license-based reconciliation file after you convert a free trial to a paid subscription. The converted subscription will appear in the same way as any new subscription.
+Вы не увидите бесплатные пробные версии, перечисленные в счете или файле согласования на основе лицензий. Бесплатные пробные версии будут отображаться только в вашем счете и файле сверки с оплатой по лицензии после того, как вы перейдете бесплатную ознакомительную версию в платную подписку. Преобразованная подписка будет отображаться так же, как и любая новая подписка.
 
 ### <a name="incentives"></a>Программа поощрения
 
-Free trials do not have an impact on incentives.
+Бесплатные пробные версии не влияют на поощрения.
 
 ## <a name="support"></a>Поддержка
 
-For support on free trials, submit a service request through Partner Center.
+Чтобы получить поддержку по бесплатным пробным испытаниям, отправьте запрос на обслуживание через центр партнеров.

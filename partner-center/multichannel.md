@@ -24,11 +24,11 @@ ms.locfileid: "74189072"
 -  Центр партнеров для Microsoft Cloud for US Government
 
 
-The Partner Center's multi-channel feature supports scenarios when a customer wants to hire a partner to manage and support a subscription they purchased elsewhere. Поддержка нескольких каналов применима, если клиент:
+Многоканальная функция центра партнеров поддерживает сценарии, когда клиент хочет нанять партнера для управления и поддержки подписки, приобретенной в других местах. Поддержка нескольких каналов применима, если клиент:
 
 -   уже приобретал подписки напрямую у Майкрософт либо через программы Advisor, Open или EA;
 
--   приобретал подписки у стороннего поставщика, который не является участником программы поставщиков облачных решений или партнером Microsoft Syndication Partner. Customers can't switch existing license-based subscriptions to a different partner in the Cloud Solution Provider program-they must wait until the end of their subscription period or cancel before moving.
+-   приобретал подписки у стороннего поставщика, который не является участником программы поставщиков облачных решений или партнером Microsoft Syndication Partner. Клиенты не могут переключать существующие подписки на основе лицензий на другого участника в программе поставщика облачных решений — они должны дожидаться окончания срока действия подписки или отмены перед перемещением.
 
 
 <table>
@@ -38,13 +38,13 @@ The Partner Center's multi-channel feature supports scenarios when a customer wa
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>License-based services</strong></p></td>
+<td><p><strong>Службы на основе лицензий</strong></p></td>
 <td><p>Чтобы предоставлять поддержку для учетных записей с несколькими каналами, вам необходимо запросить у клиента разрешения на управление его подписками. Сведения о том, как это сделать, см. в разделе <a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">Запрос связи с клиентом</a>.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Usage-based services</strong></p></td>
+<td><p><strong>Службы на основе использования</strong></p></td>
 <td>
-<p>For a customer who already has a subscription to Microsoft Azure from another channel, such as Advisor, Open, or EA, you&#39;ll need to create a new Azure subscription in Partner Center, manually enter the subscription details, and then cancel the individual services or the entire subscription. Azure CSP can coexist with different channels.</p>
+<p>Для клиента, у которого уже есть подписка на Microsoft Azure из другого канала, например Advisor, Open или EA,&#39;необходимо создать новую подписку Azure в центре партнеров, вручную ввести сведения о подписке, а затем отменить индивидуальную службы или всю подписку. Azure CSP может сосуществовать с разными каналами.</p>
 <p>Для пользователя, у которого уже есть подписка на Microsoft Azure от другого партнера, например, можно переключить службы Azure на другого партнера.  Подробнее см. в разделе <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Переключение подписок Azure на другого партнера</a>.</p>
 </td>
 </tr>
@@ -52,7 +52,7 @@ The Partner Center's multi-channel feature supports scenarios when a customer wa
 </table>
 
 > [!IMPORTANT]  
-> Партнер CSP в настоящий момент не может перепродавать веб-службы другому партнеру CSP. Корпорация Майкрософт постоянно пересматривает политику и возможности всех программ. Any announcements about feature releases will be announced through the usual communication channels, including the Partner Center. 
+> Партнер CSP в настоящий момент не может перепродавать веб-службы другому партнеру CSP. Корпорация Майкрософт постоянно пересматривает политику и возможности всех программ. Все объявления о выпусках функций будут объявлены через обычные каналы связи, включая центр партнеров. 
 
 ## <a name="see-also"></a>См. также
 

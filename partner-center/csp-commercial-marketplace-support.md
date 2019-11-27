@@ -52,6 +52,6 @@ ms.locfileid: "74253732"
 
 Сведения о доступе к странице **сведений о предложении** см. [в статье Обнаружение предложений в коммерческом магазине](csp-commercial-marketplace-discover.md#view-marketplace-offers-in-partner-center).
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Сведения о контрактах, связанных с продуктами для коммерческого рынка](csp-commercial-marketplace-contracting.md)

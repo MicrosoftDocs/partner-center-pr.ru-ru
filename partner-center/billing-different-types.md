@@ -1,10 +1,10 @@
 ---
-title: Types of billing in Partner Center | Partner Center
+title: Типы выставления счетов в центре партнеров | Центр партнеров
 ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Learn about different billing types, billing periods, and billing dates you might see in Partner Center.
+Description: Сведения о различных типах выставления счетов, расчетных периодах и датах выставления счетов, которые могут отображаться в центре партнеров.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: выставление счетов, платежи, заказы, файлы сверки, файл сверки
@@ -17,20 +17,20 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384855"
 ---
-# <a name="types-of-billing-in-partner-center"></a>Types of billing in Partner Center
+# <a name="types-of-billing-in-partner-center"></a>Типы выставления счетов в центре партнеров
 
-Область применения
+Относится к:
 
 - Центр партнеров
 - Партнеры в программе CSP
 
-You'll be billed for Partner Center purchases depending on the products, solutions and services you buy on behalf of your customers. The types of billing are as follows:
+Вам будет выставлен счет за покупки в центре партнеров в зависимости от продуктов, решений и услуг, приобретенных от имени ваших клиентов. Ниже приведены типы выставления счетов.
 
-- [**License-based billing**](license-based-billing.md), where you're billed per license (not by license usage).
-- [**Usage-based billing**](usage-based-billing.md), where you're billed for monthly usage rates.
-- [**Billing for one-time and select recurring charges**](one-time-and-recurring-billing.md), where you pay in advance for a preset term for Microsoft and third-party ISV products.
-- Billing for license-based SaaS transactions (see [**common billing scenarios for SaaS charges**](common-billing-scenarios-saas.md)).
+- [**Выставление счетов на основе лицензий**](license-based-billing.md), при котором взимается плата за лицензию (не по использованию лицензии).
+- [**Выставление счетов на основе использования**](usage-based-billing.md), при котором счета выставляются за ежемесячные тарифы на использование.
+- [**Выставление счетов за разовые и выбирайте повторяющиеся платежи**](one-time-and-recurring-billing.md), в которых вы заранее оплачиваете предустановленный термин для продуктов Майкрософт и сторонних поставщиков программного обеспечения.
+- Выставление счетов за транзакции SaaS на основе лицензий (см. раздел [**Общие сценарии выставления счетов для оплаты SaaS**](common-billing-scenarios-saas.md)).
 
 В зависимости от типа продуктов, приобретенных для клиентов, периоды выставления счетов могут быть разными и счета могут выставляться по разным дням одного месяца.
 
-If you’ve chosen to be billed monthly or if you’ve bought usage-based products that are billed monthly, your monthly billing date is the day of the month you selected when you created your CSP account on Partner Center. After you’ve successfully created your CSP account, Microsoft will send a confirmation email that includes your billing date. Once created, this date cannot be changed.
+Если вы выбрали ежемесячный счет или если вы приобрели продукты на основе использования, которые выставляются ежемесячно, ежемесячная Дата выставления счета — это день месяца, который вы выбрали при создании учетной записи CSP в центре партнеров. После успешного создания учетной записи CSP Корпорация Майкрософт отправит сообщение электронной почты с подтверждением, которое будет включать дату выставления счетов. После создания эта дата не может быть изменена.

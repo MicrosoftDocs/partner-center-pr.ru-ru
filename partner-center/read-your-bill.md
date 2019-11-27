@@ -2,7 +2,7 @@
 title: Просмотр счета | Центр партнеров
 ms.topic: article
 ms.date: 11/21/2019
-description: Your invoice is a summary of all Partner Center charges (across the program, products, and customers) for the current monthly period.
+description: Счет — это сводка по всем тарифам центра партнеров (в рамках программы, продуктов и клиентов) за текущий месячный период.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
@@ -19,49 +19,49 @@ ms.locfileid: "74384826"
 ---
 # <a name="read-your-bill"></a>Просмотр счета
 
-Область применения
+Относится к:
 
 - Центр партнеров
 - Центр партнеров для Microsoft Cloud for US Government
 
-Your **invoice** is a **summary of all your Partner Center charges** (across the program, all products, and all customers) for the **current billing period**.
+Ваш **счет** представляет собой **сводку всех расходов центра партнеров** (в рамках всей программы, всех продуктов и всех клиентов) за **текущий расчетный период**.
 
-## <a name="invoice-types"></a>Invoice types
+## <a name="invoice-types"></a>Типы счетов
 
-You will receive one invoice for any license-based charges (such as Office 365) and usage-based charges (such as Azure).
+Вы получите один счет за любые платежи на основе лицензий (например, Office 365) и расходы на использование (например, Azure).
 
-You will receive a separate invoice for one-time charges (such as Azure reserved VM instances).
+Вы получите отдельный счет на одноразовую оплату (например, зарезервированные экземпляры виртуальных машин Azure).
 
-## <a name="invoice-file-fields"></a>Invoice file fields
+## <a name="invoice-file-fields"></a>Поля файла накладной
 
-For a detailed description of all the fields in your invoice file (including fields for one-time charges), see [Invoice file fields](invoice-file.md).
+Подробное описание всех полей в файле счета (включая поля для одноразовых платежей) см. в разделе [поля файла накладных](invoice-file.md).
 
-## <a name="find-your-bill"></a>Find your bill
+## <a name="find-your-bill"></a>Поиск счета
 
-You can find your invoice on the **Billing** page of the dashboard in Partner Center. You can also find your billing history, spending trends, and reconciliation files on this page.
+Вы можете найти свой счет на странице **выставления счетов** на панели мониторинга в центре партнеров. На этой странице также можно найти журнал выставления счетов, тенденции расходов и файлы сверки.
 
-1. Sign in to the dashboard in Partner Center.
-2. In the left-hand menu, select **Billing**.
-3. On the **Billing** page, select the invoice you want to download.
-    - You can find a link to your latest invoice at the top of the page under **Account balance as of last invoice date**.
-    - You can find previous invoices in the **Billing history** section. Choose the appropriate year, then select the drop-down arrow next to the appropriate **Billing period**. You can select the link next to **Invoices (.pdf)** to download that period's invoice.
+1. Войдите в информационную панель в центре партнеров.
+2. В меню слева выберите **выставление счетов**.
+3. На странице **выставление счетов** выберите счет, который нужно скачать.
+    - Ссылку на последний счет можно найти в верхней части страницы в разделе **баланс учетной записи на дату последнего счета**.
+    - Предыдущие счета можно найти в разделе **Журнал выставления счетов** . Выберите соответствующий год, а затем щелкните стрелку раскрывающегося списка рядом с соответствующим **расчетным периодом**. Чтобы скачать счет за этот период, можно выбрать ссылку рядом с пунктом **счета (PDF)** .
 
-## <a name="understand-billing-periods"></a>Understand billing periods
+## <a name="understand-billing-periods"></a>Общие сведения о периодах выставления счетов
 
-Your invoice is available within **two (2) days** of your selected billing date in **UTC time**.
+Ваш счет доступен в течение **двух (2) дней** выбранной даты выставления счетов в **формате UTC**.
 
-For example, if you have a September 12th monthly billing date:
+Например, если у вас 12 сентября ежемесячная Дата выставления счета:
 
-- The invoice generation process will **begin** at 12:00AM UTC on September 13th.
-- The invoice generation process will **complete** by 12:00AM UTC on September 14th.
-- If you do not see your invoice by 11:59PM UTC on September 15th, you’re out of your Service Level Agreement (SLA) and should file a service request.
+- Процесс создания счета **начнется** в 12:8:00 UTC в 13 сентября.
+- Процесс создания счета будет **выполнен** 12:8:00 UTC в сентябре 14.
+- Если вы не видите счет на 11:59PM времени в формате UTC 15 сентября, то у вас нет Соглашение об уровне обслуживания (SLA), и он должен отправить запрос на обслуживание.
 
-### <a name="csp-monthly-billing"></a>CSP monthly billing
+### <a name="csp-monthly-billing"></a>Ежемесячное выставление счетов CSP
 
-Partners in the Cloud Solution Provider (CSP) program who have chosen to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based subscriptions).
+Партнеры в программе поставщика облачных решений (CSP), для которой выставляется счет за ежемесячную оплату за Microsoft 60 дней в прошедший период для подписок клиентов (подписки на основе лицензий и на основе использования).
 
-## <a name="find-itemized-details-for-charges"></a>Find itemized details for charges
+## <a name="find-itemized-details-for-charges"></a>Поиск детализированных сведений о расходах
 
-You can understand itemized details about your charges using your reconciliation files. The reconciliation files include customer identifiers and subscription identifiers that you can use to create customer invoices.
+Вы можете понять детализированные сведения о расходах с помощью файлов сверки. Файлы сверки содержат идентификаторы клиентов и идентификаторы подписок, которые можно использовать для создания счетов клиентов.
 
 Дополнительные сведения см. в разделе [Использование файлов выверки](use-the-reconciliation-files.md).

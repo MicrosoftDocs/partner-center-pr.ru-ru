@@ -1,8 +1,8 @@
 ---
-title: License-based reconciliation files | Partner Center
+title: Файлы сверки на основе лицензий | Центр партнеров
 ms.topic: article
 ms.date: 11/21/2019
-description: Understand license-based reconciliation files in Partner Center.
+description: Общие сведения о выверке файлов на основе лицензий в центре партнеров.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
@@ -16,41 +16,41 @@ ms.locfileid: "74389822"
 ---
 # <a name="license-based-reconciliation-files"></a>Файлы выверки на основе лицензии
 
-Область применения
+Относится к:
 
 - Центр партнеров
 - Центр партнеров для Microsoft Cloud for US Government
 
-To reconcile your changes against a customer's orders, compare the **Syndication_Partner_Subscription_Number** from the reconciliation file against the **Subscription ID** from Partner Center.
+Чтобы согласовать изменения в заказах клиента, Сравните **Syndication_Partner_Subscription_Number** из файла СВЕРКИ с **идентификатором подписки** из центра партнеров.
 
-## <a name="fields-in-license-based-reconciliation-files"></a>Fields in license-based reconciliation files
+## <a name="fields-in-license-based-reconciliation-files"></a>Поля в файлах согласования на основе лицензий
 
 | Column | Описание | Пример значения |
 | ------ | ----------- | ------------ |
-| PartnerId | Unique identifier in GUID format for a specific billing entity. Not required for reconciliation. Одинаково во всех строках. | *8ddd03642-test-test-test-46b58d356b4e* |
-| CustomerID | Unique Microsoft identifier for the customer in GUID format. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
-| OrderID | Уникальный идентификатор заказа на платформе выставления счетов Майкрософт. May be useful to identify the order when contacting support. Not used for reconciliation. | *566890604832738111* |
-| SubscriptionID | Уникальный идентификатор подписки в платформе выставления счетов Майкрософт. May be useful to identify the subscription when contacting support. Not used for reconciliation. *This value is not the same as the **Subscription ID** on the Partner Admin Console. Please see **SyndicationPartnerSubscriptionNumber** instead.* | *usCBMgAAAAAAAAIA* |
-| SyndicationPartnerSubscriptionNumber | Уникальный идентификатор для подписок. A customer can have multiple subscriptions for the same plan. This column is important for reconciliation file analysis. This field maps to the **Subscription ID** in the Partner Admin Console. | *fb977ab5-test-test-test-24c8d9591708* |
-| OfferID | Unique offer identifier. Standard offer identifier, as defined in the price list. *This value does not match **Offer ID** from the price list. See **DurableOfferID** instead.* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
-| DurableOfferID | Unique durable offer identifier, as defined in the price list. *This value matches the **Offer ID** from the price list.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
-| OfferName | Имя предложения службы, приобретенной клиентом, как указано в прейскуранте. | *Microsoft Office 365 (Plan E3)* |
-| SubscriptionStartDate | The subscription start date. Временем всегда является начало дня, 0:00. This field is set to the day after the order was submitted. Used in conjunction with the **SubscriptionEndDate** to determine: if the customer is still within the first year of the subscription, or if the subscription has been renewed for the following year. | *2/1/2019 0:00* |
-| SubscriptionEndDate | The subscription end date. Временем всегда является начало дня, 0:00. Either *12 months plus **x** days after the start date* to align with the partner's billing date or *12 months from the renewal date*. При возобновлении цены обновляются в соответствии с текущим прайс-листом. При автоматическом возобновлении, возможно, необходимо будет заранее связаться с клиентом. | *2/1/2019 0:00* |
-| ChargeStartDate | Дата начала взимания оплаты. Временем всегда является начало дня, 0:00. Used to calculate daily charges (*pro rata* charges) when a customer changes seat numbers. | *2/1/2019 0:00* |
-| ChargeEndDate | День завершения взимания оплаты. Временем всегда является конец дня, 23:59. Used to calculate daily charges (*pro rata* charges) when a customer changes seat numbers. | *2/28/2019 23:59* |
-| ChargeType | The [type of charge](recon-file-charge-types.md) or adjustment. | See [charge types](recon-file-charge-types.md). |
-| UnitPrice | Цена за рабочее место, опубликованное в прайс-листе во время покупки. Be sure this matches the information stored in your billing system during reconciliation. | *6.82* |
-| Количество | Количество мест. Be sure this matches the information stored in your billing system during reconciliation. | *2* |
-| Сумма | Общая цена за количество. Used to check if the amount calculation matches how you calculate this value for your customers. | *13.32* |
-| TotalOtherDiscount | Сумма скидки, примененная к этой оплате. Product licenses included with a competency or MAPS, or new subscriptions eligible for an incentive, will also contain a discount amount in this column. | *2.32* |
-| Промежуточный итог | Сумма до налога. Checks if your subtotal matches your expected total, in case of a discount. | *11* |
-| Налог | Tax amount charge. Based on your market's tax rules and specific circumstances. | *0* |
-| TotalForCustomer | Цена после налогов. Проверьте, вычтены ли с вас налоги в накладной. | *11* |
-| Валюта | Тип валюты. Каждый объект выставления счетов имеет только одну валюту. Check if it matches your first invoice. Check again after any major billing platform updates. | *EUR* |
-| CustomerName | Customer's organization name, as reported in Partner Center. *Very important field for reconciling the invoice with your system information.* | *Test Customer A* |
-| MPNID | MPN identifier of the CSP partner. See [how to itemize by partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
-| ResellerMPNID | MPN identifier of the reseller of record for the subscription. See [how to itemize by partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
-| DomainName | Customer's domain name. Это поле может быть пустым до второго цикла выставления счетов. *Don't use this field as a unique identifier for the customer. The customer/partner can update the vanity or default domain through the  Office 365 portal.* | *example.onmicrosoft.com* |
-| SubscriptionName | Псевдоним подписки. If no nickname is specified, Partner Center uses the **OfferName**. | *PROJECT ONLINE* |
-| SubscriptionDescription | Имя предложения службы, приобретенной клиентом, как указано в прейскуранте. (This is an identical field to **OfferName**.) | *PROJECT ONLINE PREMIUM WITHOUT PROJECT CLIENT* |
+| PartnerId | Уникальный идентификатор в формате GUID для определенной сущности выставления счетов. Не требуется для сверки. Одинаково во всех строках. | *8ddd03642-test-test-test-46b58d356b4e* |
+| CustomerID | Уникальный идентификатор Майкрософт для клиента в формате GUID. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
+| OrderID | Уникальный идентификатор заказа в платформе выставления счетов Майкрософт. При обращении в службу поддержки может оказаться полезным указать заказ. Не используется для сверки. | *566890604832738111* |
+| SubscriptionID | Уникальный идентификатор подписки в платформе выставления счетов Майкрософт. При обращении в службу поддержки может оказаться полезным указать подписку. Не используется для сверки. *Это значение не совпадает с **идентификатором подписки** в консоли администратора партнера. Вместо этого см. **синдикатионпартнерсубскриптионнумбер** .* | *ускбмгааааааааиа* |
+| SyndicationPartnerSubscriptionNumber | Уникальный идентификатор для подписок. Клиент может иметь несколько подписок для одного и того же плана. Этот столбец важен для анализа файлов сверки. Это поле сопоставляется с **идентификатором подписки** в консоли администратора партнера. | *fb977ab5-test-test-test-24c8d9591708* |
+| OfferID | Уникальный идентификатор предложения. Стандартный идентификатор предложения, как определено в прейскуранте. *Это значение не соответствует **идентификатору предложения** из прайс списка. См. вместо этого **дураблеофферид** .* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
+| DurableOfferID | Уникальный идентификатор устойчивого предложения, как определено в прейскуранте. *Это значение соответствует **идентификатору предложения** из прайс списка.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
+| OfferName | Имя предложения службы, приобретенной клиентом, как указано в прейскуранте. | *Microsoft Office 365 (план E3)* |
+| SubscriptionStartDate | Дата начала подписки. Временем всегда является начало дня, 0:00. Это поле устанавливается в день после отправки заказа. Используется в сочетании с **субскриптионенддате** для определения: Если клиент по-прежнему находится в пределах первого года подписки или если подписка продлена на следующий год. | *2/1/2019 0:00* |
+| SubscriptionEndDate | Дата окончания подписки. Временем всегда является начало дня, 0:00. *12 месяцев плюс **x** дней после даты начала* для согласования с датой выставления счетов партнера или *12 месяцев с даты продления*. При возобновлении цены обновляются в соответствии с текущим прайс-листом. При автоматическом возобновлении, возможно, необходимо будет заранее связаться с клиентом. | *2/1/2019 0:00* |
+| ChargeStartDate | Дата начала взимания оплаты. Временем всегда является начало дня, 0:00. Используется для расчета ежедневных расходов (Рата плата за*Pro* ), когда клиент изменяет номера мест. | *2/1/2019 0:00* |
+| ChargeEndDate | День завершения взимания оплаты. Временем всегда является конец дня, 23:59. Используется для расчета ежедневных расходов (Рата плата за*Pro* ), когда клиент изменяет номера мест. | *2/28/2019 23:59* |
+| ChargeType | [Тип оплаты](recon-file-charge-types.md) или корректировки. | См. раздел [типы начислений](recon-file-charge-types.md). |
+| UnitPrice | Цена за рабочее место, опубликованное в прайс-листе во время покупки. Убедитесь, что это соответствует информации, хранящейся в системе выставления счетов во время сверки. | *6,82* |
+| Количество | Количество мест. Убедитесь, что это соответствует информации, хранящейся в системе выставления счетов во время сверки. | *2* |
+| Сумма | Общая цена за количество. Используется для проверки совпадения суммы при вычислении этого значения для клиентов. | *13,32* |
+| TotalOtherDiscount | Сумма скидки, примененная к этой оплате. Лицензии на продукт, поставляемые с компетенцией или КАРТАми, или новые подписки, подходящие для стимула, также будут содержать сумму скидки в этой статье. | *2,32* |
+| Промежуточный итог | Сумма до налога. Проверяет, соответствует ли подытог ожидаемому итогу, в случае скидки. | *стр* |
+| Налог | Сумма налогов на оплату. В зависимости от правил налогов на рынке и определенных обстоятельств. | *0* |
+| TotalForCustomer | Цена после налогов. Проверьте, вычтены ли с вас налоги в накладной. | *стр* |
+| Currency | Тип валюты. Каждый объект выставления счетов имеет только одну валюту. Проверьте, соответствует ли он первому счету. Повторите проверку после любых основных обновлений для платформы выставления счетов. | *1000,00* |
+| CustomerName | Название организации клиента, зарегистрированное в центре партнеров. *Очень важное поле для согласования счета со сведениями о системе.* | *Тестирование клиента а* |
+| MPNID | Идентификатор MPN партнера CSP. См. статью [как детализировать по партнерам](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
+| ResellerMPNID | MPN Идентификатор торгового посредника записи для подписки. См. статью [как детализировать по партнерам](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
+| DomainName | Доменное имя клиента. Это поле может быть пустым до второго цикла выставления счетов. *Не используйте это поле в качестве уникального идентификатора для клиента. Клиент или партнер может обновить домен именного или default на портале Office 365.* | *example.onmicrosoft.com* |
+| SubscriptionName | Псевдоним подписки. Если псевдоним не указан, центр партнеров использует **указывает**. | *PROJECT ONLINE* |
+| SubscriptionDescription | Имя предложения службы, приобретенной клиентом, как указано в прейскуранте. (Это идентично поле для **указывает**.) | *PROJECT ONLINE PREMIUM БЕЗ КЛИЕНТА ПРОЕКТА* |

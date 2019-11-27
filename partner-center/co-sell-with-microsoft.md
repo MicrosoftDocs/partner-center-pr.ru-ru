@@ -7,7 +7,7 @@ ms.subservice: partnercenter-csp
 description: Как квалифицированный партнер Майкрософт, вы можете совместно продавать с корпорацией Майкрософт. Узнайте, как определять задействования, приглашать Майкрософт для совместной работы или просматривать отправленные задействования.
 author: JnHs
 ms.author: jenhayes
-keywords: рекомендация, радиочастота, поиск партнера
+keywords: автор, запрос информации, поиск партнера
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: ce7fe09c57729517c9ecae124cdcb68e2ea84628

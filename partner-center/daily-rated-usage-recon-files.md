@@ -1,8 +1,8 @@
 ---
-title: Daily-rated usage reconciliation files | Partner Center
+title: Файлы сверки с оценкой использования по дням | Центр партнеров
 ms.topic: article
 ms.date: 11/21/2019
-description: Understand daily-rated usage reconciliation files in Partner Center.
+description: Сведения о файлах сверки с ежедневной оценкой использования в центре партнеров.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
@@ -14,58 +14,58 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389702"
 ---
-# <a name="daily-rated-usage-reconciliation-files"></a>Daily-rated usage reconciliation files
+# <a name="daily-rated-usage-reconciliation-files"></a>Файлы сверки с оценкой использования по дням
 
-Область применения
+Относится к:
 
 - Центр партнеров
 - Центр партнеров для Microsoft Cloud for US Government
 
-This topic explains how to read daily-rated usage reconciliation files.
+В этом разделе объясняется, как считывать файлы сверки с ежедневной оценкой использования.
 
-## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>Fields in daily-rated usage reconciliation files
+## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>Поля в файлах сверки с ежедневной оценкой использования
 
 | Column | Описание |
 | ------ | ----------- |
-| PartnerId | Partner identifier in GUID format. |
-| PartnerName | Partner name. |
-| CustomerId | Unique Microsoft identifier for the customer in GUID format. |
-| CustomerCompanyName | Имя организации клиента, указанное в Центре партнеров. *This column is very important for reconciling the invoice with your system information.* |
-| CustomerDomainName | The customer's domain name. Not available for current activity. |
-| Customer country | Страна, в которой находится клиент. |
-| MPNID | MPN identifier of the CSP partner. |
-| Reseller MPNID | MPN identifier of the reseller of record for the subscription. Not available for current activity. |
-| InvoiceNumber | Номер счета-фактуры, содержащего указанную транзакцию. Not available for current activity. |
-| ProductID | The identifier for the product. |
-| SkuId | The identifier for a particular SKU. |
-| AvailabilityId | The identifier for a particular SKU's availability. This shows whether the SKU is available for purchase in the given country, currency, industry segment, etc. |
-| SKU Name | Название для определенного номера SKU. |
-| PublisherName | The name of the publisher. |
-| PublisherID | The identifier of the publisher in GUID format. Not available for current activity. |
-| Subscription Description | Имя предложения службы, приобретенной клиентом, как указано в прейскуранте. (This is an identical field to **OfferName**). |
-| Код подписки | Уникальный идентификатор подписки в платформе выставления счетов Майкрософт. Not used for reconciliation. *This identifier is not the same as the **Subscription ID** on the partner admin console.* |
-| ChargeStartDate | Start date of the billing cycle (except when presenting dates of previously uncharged latent usage data from the previous billing cycle). Временем всегда является начало дня, 0:00. |
-| ChargeEndDate | End date of billing cycle (except when presenting dates of previously uncharged latent usage data from the previous biling cycle). Временем всегда является конец дня, 23:59. |
-| Usage Date | Date of service usage. |
-| Meter Type | The type of meter. |
-| Meter Category | The top-level service for the usage. |
-| Meter Id | The identifier for the meter being used. |
-| Meter Sub-category | The type of Azure service, which can affect the rate. |
-| Meter Name | The unit of measure for the meter being consumed. |
-| Meter Region | Этот столбец определяет местоположение центра обработки данных региона для служб, где это применимо и заполняется. |
-| Unit | The unit of the resource **Name**. |
-| Consumed Quantity | The amount of service consumed (such as *hours* or *GB*) during the reporting period. Includes any unbilled usage from previous reporting periods. |
-| Resource Location | >The data center where the meter is running. |
-| Consumed Service | The Azure platform service that you used. |
-| Resource URI | The URI of the resource being used. |
-| Тип оплаты | Тип оплаты или корректировки. Not available for current activity. |
-| Цена за единицу | Price per license, as published in the price list at the time of purchase. Make sure this price matches the information stored in your billing system during reconciliation. |
-| Количество | Number of licenses. Make sure this price matches the information stored in your billing system during reconciliation. |
-| Unit type | The type of unit the meter is charged in. Not available for current activity. |
-| Billing pre tax | Total billing amount before taxes. |
-| Billing currency | The currency in the customer's geographic region. |
-| Pricing pretax total | The pricing before taxes are added. |
-| Pricing currency | The currency in the price list. |
-| Service Info 1 | The number of Service Bus connections that were provisioned and utilized on a given day. |
-| Service Info 2 | A legacy field that captures optional service-specific metadata. |
-| Additional Info | Any additional information not covered in other columns. |
+| PartnerId | Идентификатор партнера в формате GUID. |
+| PartnerName | Имя партнера. |
+| CustomerId | Уникальный идентификатор Майкрософт для клиента в формате GUID. |
+| кустомеркомпанинаме | Имя организации клиента, указанное в Центре партнеров. *Этот столбец очень важен для согласования счета со сведениями о системе.* |
+| CustomerDomainName | Доменное имя клиента. Недоступно для текущей активности. |
+| Страна или регион клиента | Страна или регион, где находится клиент. |
+| MPNID | Идентификатор MPN партнера CSP. |
+| MPNID торгового посредника | MPN Идентификатор торгового посредника записи для подписки. Недоступно для текущей активности. |
+| InvoiceNumber | Номер накладной, содержащей указанную транзакцию. Недоступно для текущей активности. |
+| ProductID | Идентификатор продукта. |
+| SkuId | Идентификатор для конкретного номера SKU. |
+| AvailabilityId | Идентификатор для доступности конкретного SKU. Показывает, доступен ли номер SKU для покупки в указанной стране, валюте, отрасли и т. д. |
+| Имя SKU | Название для определенного номера SKU. |
+| PublisherName | Имя издателя. |
+| PublisherID | Идентификатор издателя в формате GUID. Недоступно для текущей активности. |
+| Описание подписки | Имя предложения службы, приобретенной клиентом, как указано в прейскуранте. (Это идентично поле для **указывает**). |
+| Код подписки | Уникальный идентификатор подписки в платформе выставления счетов Майкрософт. Не используется для сверки. *Этот идентификатор не совпадает с **идентификатором подписки** в консоли администратора партнера.* |
+| ChargeStartDate | Дата начала цикла выставления счетов (за исключением даты представления ранее неоплаченных скрытых данных об использовании из предыдущего цикла выставления счетов). Временем всегда является начало дня, 0:00. |
+| ChargeEndDate | Дата окончания цикла выставления счетов (за исключением даты представления ранее неоплаченных скрытых данных об использовании из предыдущего цикла Билинг). Временем всегда является конец дня, 23:59. |
+| Дата использования | Дата использования службы. |
+| Тип счетчика | Тип счетчика. |
+| Категория счетчиков | Служба верхнего уровня для использования. |
+| Идентификатор счетчика | Идентификатор используемого счетчика. |
+| Подкатегория счетчика | Тип службы Azure, которая может повлиять на скорость. |
+| Имя счетчика | Единица измерения для потребляемого измерения. |
+| Регион счетчика | Этот столбец определяет местоположение центра обработки данных региона для служб, где это применимо и заполняется. |
+| Единица измерения | Единица **имени**ресурса. |
+| Потребленное количество | Объем потребляемой службы (например, *часы* или *ГБ*) за отчетный период. Включает любое неоплачиваемое использование из предыдущих отчетных периодов. |
+| Расположение ресурса | > центр обработки данных, где работает счетчик. |
+| Потребленная служба | Используемая служба платформы Azure. |
+| URI ресурса | URI используемого ресурса. |
+| Тип оплаты | Тип взноса или корректировка. Недоступно для текущей активности. |
+| Цена за единицу | Цена за лицензию, опубликованная в прейскуранте на момент приобретения. Убедитесь, что эта цена соответствует информации, хранящейся в системе выставления счетов во время сверки. |
+| Количество | Число лицензий. Убедитесь, что эта цена соответствует информации, хранящейся в системе выставления счетов во время сверки. |
+| Тип единицы | Тип единицы измерения, за которую наследуется данный счетчик. Недоступно для текущей активности. |
+| Выставление счетов за предварительный налог | Общая сумма выставления счетов перед налогами. |
+| Валюта выставления счетов | Валюта в географическом регионе клиента. |
+| Общие сведения о ценах цена | Цены перед добавлением налогов. |
+| Валюта цены | Валюта в прайс списке. |
+| Сведения о службе 1 | Количество подключений служебной шины, которые были подготовлены и использованы в определенный день. |
+| Сведения о службе 2 | Устаревшее поле, которое фиксирует необязательные метаданные, относящиеся к службе. |
+| Дополнительные сведения | Дополнительные сведения, не охваченные другими столбцами. |

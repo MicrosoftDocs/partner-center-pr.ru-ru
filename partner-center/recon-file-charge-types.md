@@ -1,8 +1,8 @@
 ---
-title: Reconciliation file charge types | Partner Center
+title: Типы оплаты файлов выверки | Центр партнеров
 ms.topic: article
 ms.date: 08/26/2019
-description: Types of charges (license-based, usage-based and one-time), credits and discounts on Partner Center reconciliation files.
+description: Типы расходов (на основе лицензий, на основе использования и одноразовое время), кредиты и скидки по файлам сверки центра партнеров.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
@@ -14,86 +14,86 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389812"
 ---
-# <a name="understand-charge-types"></a>Understand charge types
+# <a name="understand-charge-types"></a>Общие сведения о типах затрат
 
-Область применения
+Относится к:
 
 - Центр партнеров
 - Центр партнеров для Microsoft Cloud for US Government
 
-This topic describes the mappings between an invoice section and associated charge types that might be on your reconciliation file. Your invoice provides a summary of charges. Your reconciliation file provides a detailed breakdown of line-item transactions, including charge types. For more information on reconciliation files, see [how to use reconciliation files](use-the-reconciliation-files.md).
+В этом разделе описываются сопоставления между разделом счета и связанными типами затрат, которые могут находиться в файле сверки. В счете представлена сводка по расходам. Файл сверки содержит подробную разбивку транзакций по строкам, включая типы начислений. Дополнительные сведения о файлах сверки см. [в разделе Использование файлов сверки](use-the-reconciliation-files.md).
 
-Both [usage-based reconciliation files](usage-based-recon-files.md) and [license-based reconciliation files](license-based-recon-files.md) only show usage-related transactions and charges (units consumed and related charges).
+[Файлы согласованности на основе использования](usage-based-recon-files.md) и [файлы сверки на основе лицензий](license-based-recon-files.md) содержат только связанные с использованием транзакции и расходы (потребленные единицы и связанные с ней расходы).
 
 > [!NOTE]
-> One-off credits, discounts or refunds that appear on the invoice as **Adjustments** are not shown in the reconciliation file.
+> Одноразовые кредиты, скидки или возмещения, которые отображаются в счете в качестве **корректировок** , не отображаются в файле сверки.
 
-## <a name="map-charge-types-to-invoice-charges"></a>Map charge types to invoice charges
+## <a name="map-charge-types-to-invoice-charges"></a>Сопоставьте типы расходов с накладными расходами
 
-To cross-reference charge amounts between your invoice and reconciliation file, use the filter options in Microsoft Excel. Filter by charge types on your reconciliation file to map the invoice charges to a set of charge breakdowns on the reconciliation file.
+Для сбора сумм оплаты между счетом и файлом сверки используйте параметры фильтра в Microsoft Excel. Фильтрация по типам оплаты в файле сверки для сопоставления расходов по счету с набором разбивки на счет для файла сверки.
 
 ## <a name="license-based-charges"></a>Оплата на основе лицензии
 
-To map these license-based charges to your invoice, sum the **Amount** column from the license-based file.
+Чтобы связать эти расходы на основе лицензий с накладной, Вычислите сумму столбца **Amount** из файла, основанного на лицензии.
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| Описание платы (столбец Чаржетипе в файле сверки) | Объяснение затрат |
 | ------------------------------------------------------------- | ------------------ |
-| Сбор за активацию | The amount charged to the customer when they use the subscription after purchase. |
-| Сбор за отмену | Prorated charges refunded to the customer when associated seats are changed. |
-| Оплата цикла | Periodic charges for a subscription. |
-| Пропорциональное распределение экземпляра цикла | Prorated charges assessed from the customer when associated seats are changed. |
-| Пропорциональные сборы при отмене | Prorated refund for unused portion of service upon cancellation. |
-| Пропорциональные сборы при покупке | The charge type for a subscription when using annual billing. |
-| Сбор при покупке | The charge type for a subscription when using monthly billing. |
-| Пропорциональные сборы при обновлении | Prorated fees upon subscription renewal. |
+| Сбор за активацию | Сумма, выплаченная клиенту при использовании подписки после покупки. |
+| Сбор за отмену | Пропорционально распределяется на клиент при изменении связанных мест. |
+| Оплата цикла | Периодическая оплата за подписку. |
+| Пропорциональное распределение экземпляра цикла | При изменении связанных мест взимается плата за распределенные платежи от клиента. |
+| Пропорциональные сборы при отмене | Пропорциональное возмещение за неиспользуемую часть службы при отмене. |
+| Пропорциональные сборы при покупке | Тип оплаты для подписки при использовании годового счета. |
+| Сбор при покупке | Тип оплаты для подписки при ежемесячном выставлении счетов. |
+| Пропорциональные сборы при обновлении | Пропорциональное вознаграждение при обновлении подписки. |
 | Плата за обновление | Платеж за обновление подписки |
-| Пропорциональные сборы при активации | >Prorated fees from activation until end of billing period. |
+| Пропорциональные сборы при активации | > распределяется за период с момента активации до окончания расчетного периода. |
 
-## <a name="one-time-charges"></a>One-time charges
+## <a name="one-time-charges"></a>Оплата за один раз
 
-To map these one-time charges to your invoice, sum the **Amount** column from the license-based file.
+Чтобы связать эти одноразовые платежи с накладной, Вычислите сумму столбца **Amount** из файла, основанного на лицензии.
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| Описание платы (столбец Чаржетипе в файле сверки) | Объяснение затрат |
 | ------------------------------------------------------------- | ------------------ |
-| Новый | Used when a new purchase is created. |
-| addQuantity | Used in both the refund of the original purchase and the new quantity after an increase. |
-| removeQuantity | Used in both the refund of the original purchase and the new quantity after a decrease. |
-| "Отмена" | Used when a subscription is cancelled. |
-| Преобразование | Used when a license is upgraded but the number of seats remains unchanged. |
+| Оператор new | Используется при создании новой покупки. |
+| addQuantity | Используется как для возврата первоначальной покупки, так и для нового количества после увеличения. |
+| removeQuantity | Используется как для возврата первоначальной покупки, так и для нового количества после уменьшения. |
+| Отмена | Используется при отмене подписки. |
+| Преобразование | Используется при обновлении лицензии, но количество рабочих мест остается неизменным. |
 
 ## <a name="usage-charges"></a>Плата за использование
 
-To map these usage charges to your invoice, sum the **PretaxCharges** column from the usage-based file.
+Чтобы сопоставлять расходы на использование с накладной, вычислите столбец **PretaxCharges** из файла на основе использования.
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| Описание платы (столбец Чаржетипе в файле сверки) | Объяснение затрат |
 | ------------------------------------------------------------- | ------------------ |
-| Плата за использование Assess при отмене | Access usage fee upon cancellation for unpaid usage during the current billing period. |
-| Плата за использование Assess для текущего цикла | Access usage fee for the current billing period. |
+| Плата за использование Assess при отмене | Получите доступ к оплате за использование при отмене неоплачиваемого использования в течение текущего расчетного периода. |
+| Плата за использование Assess для текущего цикла | Плата за использование за текущий расчетный период. |
 
 ### <a name="credits"></a>Кредиты
 
-To map these credits to your invoice:
+Чтобы связать эти кредиты с накладной:
 
-- Sum the **TotalForCustomer** from the license-based file.
-- Sum the **PostTaxTotal** column from the usage-based file.
+- Вычислите сумму **тоталфоркустомер** из файла, основанного на лицензии.
+- Вычислите сумму столбца **PostTaxTotal** из файла на основе использования.
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| Описание платы (столбец Чаржетипе в файле сверки) | Объяснение затрат |
 | ------------------------------------------------------------- | ------------------ |
-| Смещение позиции строки | Partial or whole refund to a line item, including taxes. |
+| Смещение позиции строки | Частичный или полный возврат к элементу строки, включая налоги. |
 
 ### <a name="usage-based-discounts"></a>Скидки на основе использования
 
-To map these usage-based discounts to your invoice, sum the **PretaxCharges** column from the usage-based file.
+Чтобы связать скидки на основе использования с накладной, суммируйте столбец **PretaxCharges** из файла, основанного на использовании.
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| Описание платы (столбец Чаржетипе в файле сверки) | Объяснение затрат |
 | ------------------------------------------------------------- | ------------------ |
-| Скидка при активации | Discount applied when subscription activated. |
-| Скидка на цикл | Discount applied on periodic charges. |
-| Скидка при возобновлении | Discount applied when subscription renewed. |
-| Скидка при отмене | Charges applied when discounts cancelled. |
+| Скидка при активации | Скидка, применяемая при активации подписки. |
+| Скидка на цикл | Скидка, применяемая к периодической оплате. |
+| Скидка при возобновлении | Скидка, применяемая при продлении подписки. |
+| Скидка при отмене | Расходы, применяемые при отмене скидок. |
 
 ### <a name="license-based-discounts"></a>Скидки на основе лицензии
 
-To map license-based discounts to your invoice, sum the **TotalOtherDiscount** column from the license-based file.
+Чтобы сопоставлять скидки на основе лицензий с накладной, суммируйте столбец **тоталосердискаунт** из файла, основанного на лицензии.
 
-*License-based discounts may be applied to multiple charge types.*
+*Скидки на основе лицензий могут применяться к нескольким типам оплаты.*
