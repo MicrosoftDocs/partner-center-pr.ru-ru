@@ -103,6 +103,7 @@
 ## [Запрос на кредиты в рамках соглашения об уровне обслуживания от Майкрософт](request-credit.md)
 ## [Установка расходного бюджета Azure для клиентов](set-an-azure-spending-budget-for-your-customers.md)
 ## [Управление сценариями неплатежа, мошенничества или неправильного использования](non-payment--fraud--or-misuse.md)
+## [Управление нераспределенными платежами](unallocated-payment.md)
 
 # [Связь с клиентами](customer-accounts.md)
 ## [Добавление нового клиента](add-a-new-customer.md)
