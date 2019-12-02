@@ -1,21 +1,21 @@
 ---
 title: Выставление счетов для плана Azure | Центр партнеров
 ms.topic: article
-ms.date: 11/03/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Описание структуры файлов счета и выверки для плана Azure.
+description: Узнайте, как получить доступ к структуре файлов счетов и сверки, связанной с выставлением счетов для плана Azure, и понять ее содержимое.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: fcf5cc85f0e561f2c82e691da4e56667c5925b05
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: b52030f4956f8b3f86eec5aad72628dc64099729
+ms.sourcegitcommit: f5dbf96c1dece9c766e9b4c1527e599872e2ab14
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661167"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "74536451"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Новый интерфейс для коммерческих приложений в CSP. Выставление счетов в Azure 
 
@@ -42,7 +42,7 @@ ms.locfileid: "73661167"
 
 - **Поощрения для партнеров**. Оплачено 45 дней с конца месяца счета-фактуры.
 
-##  <a name="access-your-invoices-and-reconciliation-files"></a>Доступ к своим счетам и файлам выверки
+## <a name="access-your-invoices-and-reconciliation-files"></a>Доступ к своим счетам и файлам выверки
 
 Глобальный администратор или администратор выставления счетов для вашей компании получат электронное сообщение, когда счет-фактура будет готов к просмотру. 
 
@@ -141,7 +141,7 @@ ms.locfileid: "73661167"
 
 ## <a name="invoice-in-customer-currency"></a>Счет-фактура в валюте клиента 
 
-Плата за службы Azure в плане Azure будет взиматься в долларах США (USD) и оплачиваться в валюте назначенной страны клиента. Если счет выставляется не в долларах США (USD), то на последней странице счета будет указан используемый курс валют. Курс валют определяется за месяц и применяется к следующему счету. Полный список валют см. в [New commerce offers country availability and customer currency matrix](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Qn1V) (Таблица валют клиентов и доступности новых коммерческих предложений в разных странах). 
+Плата за службы Azure в плане Azure будет взиматься в долларах США (USD) и оплачиваться в валюте назначенной страны клиента. Если счет выставляется не в долларах США (USD), то на последней странице счета будет указан используемый курс валют. Курс валют определяется за месяц и применяется к следующему счету. См. полный список валют в [этом документе](https://go.microsoft.com/fwlink/?linkid=2112354). 
 
 Корпорация Майкрософт будет использовать данные [Thomson Reuters](https://developers.thomsonreuters.com/content/wm-company) при определении курса валют, используемого для определения и конвертации валюты выставления счетов. Курсы валют будут обновляться и доступны за день до первого дня месяца, для которого они применяются.
 

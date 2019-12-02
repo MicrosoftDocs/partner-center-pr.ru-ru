@@ -1,7 +1,7 @@
 ---
 title: Предложения для партнеров по программе поставщиков облачных решений | Центр партнеров
 ms.topic: article
-ms.date: 10/28/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о предложениях, доступных для партнеров, которые осуществляют продажи в рамках программы поставщиков облачных решений.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Поставщик облачных решений, программа поставщиков облачных решений, CSP, добавить продукт, продажа клиентам, предложения для партнеров, предложения CSP, облачные службы, Azure, Office 365, Dynamics, партнер CSP, продажи в рамках CSP, Azure RI, Azure Reserved Virtual Machine Instances, резервирования Azure, веб-службы, программное обеспечение по подписке, AHUB, SQL Server в Azure, Windows Server в Azure, подписки клиентов
 ms.localizationpriority: high
-ms.openlocfilehash: c0ddfac22b776d49b05f6f9d780ed092183d4796
-ms.sourcegitcommit: 9d68c3fe3194bc583c88b22d8a9f60e4b369b79d
+ms.openlocfilehash: 49010909cad50df40668606dff7bfd45260b580b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "73799206"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252911"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Предложения для партнеров по программе поставщиков облачных решений 
 
@@ -57,7 +57,7 @@ ms.locfileid: "73799206"
     
     Сведения об этих продуктах можно также найти на странице **Marketplace**. Обратите внимание на то, что на этой странице также приведены сведения о других типах продуктов, которые следует покупать на портале Azure, а не в Центре партнеров.<br>
 
-    Дополнительные сведения: [Продажа подписок на продукты Azure Marketplace](sell-marketplace-products.md).
+    См. сведения о [коммерческой платформе CSP](CSP-commercial-marketplace-overview.md).
 
 ## <a name="add-products-page-details"></a>Сведения о странице "Добавить продукты"
 
@@ -104,8 +104,8 @@ ms.locfileid: "73799206"
 
 Сведения о том, как осуществляется выставление счетов, см. в разделе [Основы выставления счетов](https://docs.microsoft.com/partner-center/billing-basics).
 
-Сведения о приобретении продуктов в плане Azure см. в разделе [Приобретение плана Azure](purchase-azure-plan).
+Сведения о приобретении продуктов в плане Azure см. в разделе [Приобретение плана Azure](purchase-azure-plan.md).
 
+## <a name="see-also"></a>См. также
 
-
-
+[Общие сведения о коммерческой платформе CSP](csp-commercial-marketplace-overview.md)

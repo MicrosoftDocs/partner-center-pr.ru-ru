@@ -1,21 +1,21 @@
 ---
 title: Создание учетных записей пользователей и определение разрешений | Центр партнеров
 ms.topic: article
-ms.date: 07/08/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Администратор создает учетную запись пользователя для каждого сотрудника партнера, которому необходим доступ к Центру партнеров.
+description: Узнайте, как создавать учетные записи пользователей и назначать роли в Центре партнеров для каждого сотрудника, которому требуется доступ. Это могут делать пользователи с определенными правами администратора.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: роли, разрешения, добавление пользователя, назначение роли, администратор, агент,
 ms.localizationpriority: high
-ms.openlocfilehash: 088c94c59dadc6deead6f13d7f80612489e6e040
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: d121d80e23f11c5885ababd3c7730939e894a235
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096484"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252092"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Создание учетных записей пользователей и назначение разрешений
 

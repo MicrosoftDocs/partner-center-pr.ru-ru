@@ -1,22 +1,22 @@
 ---
 title: Партнерство с косвенными поставщиками в CSP | Центр партнеров
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Будучи косвенным торговым посредником в CSP, вы работаете с косвенными поставщиками (также называются распространителями), которые находятся в непосредственных отношениях с корпорацией Майкрософт и могут предоставлять поддержку клиентов и выставлять счета.
+description: Узнайте, как в рамках программы CSP косвенные торговые посредники могут работать с непрямыми поставщиками (или распространителями) Майкрософт, отвечающими за клиентскую поддержку и выставление счетов.
 ms.prod: ''
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: косвенные торговые посредники, торговые посредники, косвенные поставщики, поставщики, партнерство, VAR, уровень2, уровень 2
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: d290893113b156ce8582e44463a32aaf0cfbe5fe
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: c259c28d5a5a16a2b12ebb299a574c0b624d87f9
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654337"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253654"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Партнерство с косвенными поставщиками в программе Поставщик облачных решений
 

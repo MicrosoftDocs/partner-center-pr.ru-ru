@@ -1,20 +1,20 @@
 ---
 title: 'Соглашение об использовании Microsoft Cloud: шаблоны для клиентов | Partner Center'
 ms.topic: article
-ms.date: 03/11/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Найдите и скачайте версию соглашения об использовании Microsoft Cloud для соответствующего региона и языка, чтобы ознакомить с ней клиентов.
+description: Узнайте о том, где найти и как скачать соглашение об использовании Microsoft Cloud для определенного региона на соответствующем языке, чтобы ознакомить с ним клиентов.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: соглашения об использовании Microsoft Cloud, шаблоны соглашения с клиентами, соглашения с клиентами CSP, соглашение об использовании Microsoft Cloud, соглашения MCA, CSP, где можно продавать по программе CSP?, страны и регионы CSP, соглашения CSP MCA на нескольких языках, CSP в Северной Америке, CSP в Центральной Америке, CSP в Южной Америке, CSP в Карибском бассейне, CSP для Microsoft Cloud for US Government, CSP для Microsoft Cloud Germany, CSP на Ближнем Востоке, CSP в Африке, CSP в Европе, CSP в Азии, CSP в Тихоокеанском регионе, соглашения MCA для CSP
 ms.localizationpriority: high
-ms.openlocfilehash: b1bbe5aef77319cb29faca46c9dbfd9840cf2761
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: 0fdeb1d117dd65c85d115054d547aebe065b17ec
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661146"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253169"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>Соглашения об использовании Microsoft Cloud по регионам и языкам
 

@@ -1,21 +1,21 @@
 ---
 title: Рабочие учетные записи и Центр партнеров | Центр партнеров
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Для создания учетной записи Центра партнеров у вашей компании должна быть рабочая учетная запись. Если у вас есть действующая подписка на Microsoft Azure или Office 365, это значит, что вы уже создали рабочую учетную запись.
+description: Узнайте о том, зачем для создания учетной записи Центра партнеров нужна рабочая учетная запись, а также о том, есть ли у вас такая учетная запись.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: рабочая учетная запись, электронная почта, клиент, клиент Azure, создание учетной записи, доменное имя
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 0bca97c9bbe153aa705c149ce8bd3ad5e38d72d9
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: c8b731eeed6590e040eda18cb0e7093b389447b4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096551"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253321"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Рабочая учетная запись компании и Центр партнеров  
 

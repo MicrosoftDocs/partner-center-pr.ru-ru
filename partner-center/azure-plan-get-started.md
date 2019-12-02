@@ -1,21 +1,21 @@
 ---
 title: Приступая к переходу на план Azure | Центр партнеров
 ms.topic: article
-ms.date: 11/07/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Приобретение подписок в соответствии с новой коммерческой моделью для Azure.
+description: Узнайте об использовании планов Azure для приобретения служб Azure с оплатой по мере использования для клиентов. Узнайте также о новых требованиях к безопасности.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, план Azure, приобретение подписок, подписки
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 0e74d12aeb2daab30530a35326bcdaba5c07214d
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: 7b59371ffe2208fcfd8d90f4697e88dfc9a1233b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661138"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253284"
 ---
 # <a name="move-to-azure-plan---get-started"></a>Приступая к переходу на план Azure
 
