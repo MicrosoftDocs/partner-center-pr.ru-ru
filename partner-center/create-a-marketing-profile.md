@@ -1,7 +1,7 @@
 ---
 title: Создание бизнес-профиля | Центр партнеров
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как получать сведения о продажах от корпорации Майкрософт. Одним из ключевых шагов является создание бизнес-профиля в Центре партнеров, который позволяет клиентам найти вас.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, авторы, потенциальные клиенты, C2PC, профиль компании, реклама компании, поиск партнера, поиск поставщика решений, бизнес-профиль, маркетинговый профиль
 ms.localizationpriority: high
-ms.openlocfilehash: e9ff4e1df06e0a25142d42e8ba380654c9daed0b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252659"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722533"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -30,9 +30,16 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 
 **Относится к**
 
--  Центр партнеров
--  Партнеры Microsoft Partner Network
--  Партнеры по программе поставщиков облачных решений
+- Центр партнеров
+- Партнеры Microsoft Partner Network
+- Партнеры по программе поставщиков облачных решений
+
+**Соответствующие роли**
+
+- Администратор учетных записей
+- Администратор бизнес-профиля
+- Глобальный администратор
+- Администратор авторов
 
 Являясь квалифицированным партнером корпорации Майкрософт, вы можете создать бизнес-профиль для демонстрации вашего бизнеса пользователям, которые ищут уникальные решения и навыки для удовлетворения своих бизнес-потребностей.
 

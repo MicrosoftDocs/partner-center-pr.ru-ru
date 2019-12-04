@@ -1,7 +1,7 @@
 ---
 title: Прейскурант планов Azure | Центр партнеров
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как в Центре партнеров просмотреть прейскурант для подписок в плане Azure.
@@ -10,14 +10,23 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: f06b4b625f84ab6115f0c16de6814a991513435c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a0111883374fd12c3d4a2930347c0840231d437c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252681"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722052"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Прейскурант для новой коммерческой модели в CSP для Azure 
+
+**Соответствующие роли**
+
+- Агент администрирования
+- Администратор выставления счетов
+- Глобальный администратор
+- Агент службы технической поддержки
+- Агент по продажам
+- Администратор управления пользователями
 
 Прейскурант для нового интерфейса Azure Commerce в CSP опубликован в Центре партнеров. Прейскурант динамически в режиме реального времени формируется в виде файла, цены в котором отображаются только в долларах США. Однако выставление счетов осуществляется в поддерживаемой валюте, действующей в расположении для валюты клиента. Дополнительные сведения о выставлении счетов в валюте клиента см. в статье [План Azure. Выставление счетов](azure-plan-billing.md).
 

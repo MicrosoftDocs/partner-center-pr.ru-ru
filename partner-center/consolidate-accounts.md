@@ -1,7 +1,7 @@
 ---
 title: Консолидация учетных записей компании | Центр партнеров
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как консолидировать учетные записи Partner Membership Center (PMC) в одну учетную запись в Центре партнеров. Это происходит при переходе с PMC на Центр партнеров.
@@ -10,14 +10,19 @@ author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 77d148ccd1f71d06844b2f3467dcfb0fab967dfa
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 61a2566dbab5709fcc16fa61d0239f97e46039de
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252072"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721382"
 ---
 # <a name="consolidate-your-company-accounts"></a>Консолидация учетных записей компании
+
+**Соответствующие роли**
+
+- Администратор партнера MPN
+- Администратор учетных записей
 
 Возможно в PMC ваша компания имеет много учетных записей и расположений. Каждому расположению присвоена собственная учетная запись. При переходе в Центр партнеров все учетные записи и расположения будут консолидированы в одну основную глобальную учетную запись с несколькими расположениями. Ваши идентификаторы MPN, преимущества, компетенции и покупки также будет перенесены — ничто не будет потеряно. 
 

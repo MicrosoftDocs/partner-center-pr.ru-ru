@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, преимущества членства, членство
 ms.localizationpriority: high
-ms.openlocfilehash: bc9ca4f3b186de36cc5b87be1bce70a7be89da62
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 7d43410e78ef3e7ac47c321171e6f6adabf2a66f
+ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096465"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "74681950"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Управление преимуществами членства в Microsoft Partner Network
 
@@ -101,8 +101,7 @@ ms.locfileid: "74096465"
     
     в.  После того как вы введете другой адрес электронной почты, выберите **Назначить пользователя**. 
 
-4. Вы можете использовать техническую поддержку по предпродажным вопросам или часы консультаций для запроса технической поддержки на этапах предпродажной подготовки, проектирования, развертывания и разработки приложений для ваших облачных и гибридных решений. Чтобы запросить помощь, заполните [форму запроса](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
-), а затем выберите **Отправить запрос**.
+4. Вы можете использовать техническую поддержку по предпродажным вопросам или часы консультаций для запроса технической поддержки на этапах предпродажной подготовки, проектирования, развертывания и разработки приложений для ваших облачных и гибридных решений. Чтобы запросить помощь, заполните [форму запроса](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest), а затем выберите **Отправить запрос**.
 
 #### <a name="manage-go-to-market-benefits"></a>Управление преимуществами выхода на рынок
 

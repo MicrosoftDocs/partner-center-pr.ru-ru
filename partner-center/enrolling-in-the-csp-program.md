@@ -1,25 +1,29 @@
 ---
 title: Регистрация в программе поставщиков облачных решений | Центр партнеров
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о разных моделях для продажи в программе поставщика облачных решений (CSP) и определите, какая из них лучше всего подходит для вашего бизнеса.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 00a46c91aedf9261722d29ed7ac5357fe1256ef7
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: ff2e0d02b63bd02e374e5726010f261fc2b3e8b9
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252155"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721707"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Регистрация в программе поставщиков облачных решений
 
 **Относится к**
 
 - Программа поставщиков облачных решений  
+
+**Соответствующие роли**
+
+- Глобальный администратор
 
 ## <a name="get-started"></a>Начало работы
 

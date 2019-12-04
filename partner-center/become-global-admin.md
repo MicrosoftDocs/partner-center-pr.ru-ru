@@ -1,7 +1,7 @@
 ---
 title: Получение роли глобального администратора компании | Центр партнеров
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Чтобы работать с Центром партнеров, необходимо сначала проверить принадлежность вашего домена. Узнайте, как это сделать и как стать глобальным администратором, который может добавлять пользователей.
@@ -9,18 +9,22 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 keywords: домен, проверка домена, глобальный администратор, роли пользователей, разрешения
-ms.openlocfilehash: 8cc6dc8839341c20fefa48a21e62bc1350102436
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: be0811745d2112374ea78964652545feeeb3fbc6
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253215"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722432"
 ---
 # <a name="verify-your-domain-ownership"></a>Проверка владения доменом
 
 **Относится к**
 
 - Центр партнеров
+
+**Соответствующие роли**
+
+- Глобальный администратор
 
 Когда компания впервые входит в Центр партнеров, скорее всего, сотрудникам не назначены роли, необходимые для начала работы в Центре партнеров. Для работы в Центре партнеров всем сотрудникам должна быть назначена роль, которая включает в себя разрешения.  
 

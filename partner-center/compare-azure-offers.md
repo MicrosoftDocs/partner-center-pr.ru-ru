@@ -1,7 +1,7 @@
 ---
 title: Сравнение предложений Azure | Центр партнеров
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Сравните предложения новой коммерческой платформы компании Майкрософт для партнеров в рамках программы поставщика облачных решений (CSP).
@@ -9,14 +9,22 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 0e624e28be8585b8a8040a9d65bce931cb7c70d8
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: ba5eeb6281b3c379f568a5373d0e0b7adf7ce378
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253438"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722495"
 ---
 # <a name="compare-azure-offers"></a>Сравнение предложений Azure
+
+**Соответствующие роли**
+
+- Агент администрирования
+- Администратор выставления счетов
+- Глобальный администратор
+- Агент службы технической поддержки
+- Агент по продажам
 
 В следующей таблице представлен обзор основных различий между предложениями, доступными через программу поставщиков облачных решений (CSP), которая является частью новой коммерческой модели корпорации Майкрософт.
 

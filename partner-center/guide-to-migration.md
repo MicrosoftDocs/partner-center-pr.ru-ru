@@ -1,7 +1,7 @@
 ---
 title: Инструкции по переходу с PMC на Центр партнеров | Центр партнеров
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как перенести свою компанию из Partner Membership Center (PMC) в Центр партнеров.
@@ -9,14 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, миграция, переход в Центр партнеров
 ms.localizationpriority: high
-ms.openlocfilehash: f9ce53adddd2faecf22ef795e8ffe97189c57353
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: c656981bfd5eb99e34a24f70960d4bc7da581896
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252213"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721875"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Руководство по переходу с PMC на Центр партнеров
+
+**Соответствующие роли**
+
+- Глобальный администратор
 
 Веб-сайт для партнеров Майкрософт partner.microsoft.com представляет собой унифицированный цифровой интерфейс для партнеров. На веб-сайте для партнеров вы сможете исследовать возможности и работать с интерактивным интерфейсом, что поможет вашей компании в разработке и продаже приложений и служб в сотрудничестве с корпорацией Майкрософт. Используя ссылку на панель мониторинга, доступную на веб-сайте для партнеров, участники Microsoft Partner Network могут войти в Центр партнеров, где вы управляете сотрудничеством с Майкрософт, регистрируетесь для участия в программах и предложениях. 
 

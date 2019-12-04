@@ -1,7 +1,7 @@
 ---
 title: Перевод клиентов на план Azure | Центр партнеров
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как перевести своих клиентов на план Azure.
@@ -10,14 +10,23 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: af3a57146bcf76d3d68f5bb22b21f6788e336ee8
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0420966e13f0ee7151dd9474d597b8253a1ecfff
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253264"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722291"
 ---
 # <a name="transition-your-customers-to-azure-plan"></a>Перевод клиентов на план Azure
+
+**Соответствующие роли**
+
+- Агент администрирования
+- Администратор выставления счетов
+- Глобальный администратор
+- Агент службы технической поддержки
+- Агент по продажам
+- Администратор управления пользователями
 
 Косвенные поставщики и партнеры с прямым выставлением счетов могут перейти на новую коммерческую модель, доступную в программе CSP для Azure. (Косвенные торговые посредники должны обращаться к своим косвенным поставщикам.) Клиентам будет проще покупать облачные службы у партнеров, торговых посредников Майкрософт или непосредственно в Интернете.
 

@@ -9,18 +9,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: соглашения об использовании Microsoft Cloud, шаблоны соглашения с клиентами, соглашения с клиентами CSP, соглашение об использовании Microsoft Cloud, соглашения MCA, CSP, где можно продавать по программе CSP?, страны и регионы CSP, соглашения CSP MCA на нескольких языках, CSP в Северной Америке, CSP в Центральной Америке, CSP в Южной Америке, CSP в Карибском бассейне, CSP для Microsoft Cloud for US Government, CSP для Microsoft Cloud Germany, CSP на Ближнем Востоке, CSP в Африке, CSP в Европе, CSP в Азии, CSP в Тихоокеанском регионе, соглашения MCA для CSP
 ms.localizationpriority: high
-ms.openlocfilehash: 0fdeb1d117dd65c85d115054d547aebe065b17ec
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a65e9dc0e94fa387631ea289c963d6e0f1bae7dd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253169"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722422"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>Соглашения об использовании Microsoft Cloud по регионам и языкам
 
 **Относится к**
 
-- Партнеры CSP
+- Партнеры по программе поставщиков облачных решений
+
+**Соответствующие роли**
+
+- Глобальный администратор
+- Администратор управления пользователями
+- Агент администрирования
+- Агент по продажам
+- Агент службы технической поддержки
 
 Прежде чем вы сможете разместить заказ от имени клиента, клиент должен принять и подписать соглашение об использовании Microsoft Cloud.
 
