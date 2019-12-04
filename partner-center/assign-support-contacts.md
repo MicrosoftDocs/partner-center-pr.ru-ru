@@ -1,7 +1,7 @@
 ---
 title: Назначить контакты службы поддержки | Центр партнеров
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как назначить торгового посредника в качестве контактного лица технической поддержки для клиентов с подписками на службы Майкрософт.
@@ -11,18 +11,26 @@ ms.author: labrenne
 keywords: агент поддержки, поддержка, назначение контактного лица по поддержке, назначенное контактное лицо из службы поддержки
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cf8e4bde1380123ff9c93c23f1fb9b7a0924cca5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0c27f0919d9ed14c91764677465db4945b680cc8
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253340"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722403"
 ---
-# <a name="assign-support-contacts"></a>Назначить контакты службы поддержки
+# <a name="assign-support-contacts"></a>Назначение контактов службы поддержки
 
 **Относится к**
 
--  Центр партнеров
+- Центр партнеров
+
+**Соответствующие роли**
+
+- Агент администрирования
+- Глобальный администратор
+- Агент службы технической поддержки
+- Агент по продажам
+- Администратор управления пользователями
 
 При настройке подписки на службы Майкрософт для клиентов, возможно, стоит назначить техническую поддержку для этих продуктов торговому посреднику продукта, а не предоставлять поддержку самостоятельно.
 
@@ -47,6 +55,6 @@ ms.locfileid: "74253340"
 
 4.  Убедитесь в правильности изменений и нажмите кнопку **Закрыть**.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Статьи по теме
 
 [Удаление связи с клиентом](remove-a-relationship.md)

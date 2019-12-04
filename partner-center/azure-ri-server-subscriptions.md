@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, подписки, виртуальная машина, резервирование, зарезервированный экземпляр
 ms.localizationpriority: medium
-ms.openlocfilehash: 3d7fb74ef26408ad012ac07c4e3bb40e6bda2199
-ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
-ms.translationtype: HT
+ms.openlocfilehash: 22ba6af523bf73d9d7778940ef7495e6581a0730
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "74681927"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722258"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -24,6 +24,14 @@ ms.locfileid: "74681927"
 
 - Центр партнеров
 
+**Соответствующие роли**
+
+- Агент администрирования
+- Глобальный администратор
+- Агент службы технической поддержки
+- Агент по продажам
+- Администратор управления пользователями
+ 
 ## <a name="what-are-azure-reservations"></a>Что такое резервирование Azure?
 
 Резервирование Azure помогает экономить деньги за счет предварительной оплаты за один или три года виртуальной машины, объема вычислений базы данных SQL, Azure Cosmos DB пропускной способности или других ресурсов Azure. Предварительная оплата позволяет получить скидку на используемые ресурсы. Резервирования помогают значительно снизить затраты на виртуальную машину, вычислительную мощность базы данных SQL, Azure Cosmos DB и другие ресурсы до 72% по сравнению с оплатой по мере использования. Резервирование обеспечивает скидку при выставлении счетов и не влияет на состояние среды выполнения ресурсов. Дополнительные сведения см. в статье [что такое резервирование Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)

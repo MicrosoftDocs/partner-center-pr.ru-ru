@@ -11,18 +11,26 @@ ms.topic: article
 keywords: бизнес-данные
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1cbd543d5d9385cbae73e66645b74292f4b12f7c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 494ef694410f193e3b76e476e5a6571b7ecf27e0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253368"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722364"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Анализ подписок и лицензий 
 
 **Относится к**
 
 - Центр партнеров
+- Партнеры по программе поставщиков облачных решений
+
+**Соответствующие роли**
+
+- Глобальный администратор
+- Администратор управления пользователями
+- Агент администрирования
+- Агент по продажам
 
 Данные помогают принимать правильные бизнес-решения. Используйте метрики на странице **Анализ подписок и лицензий** для определения того, каких целей добились вы и ваши клиенты, а также областей, нуждающихся в более пристальном внимании. Эти сведения можно использовать при планировании новых бизнес-целей.
 

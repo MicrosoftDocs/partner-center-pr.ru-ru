@@ -1,7 +1,7 @@
 ---
 title: Подтверждение принятия клиентом условий соглашения Microsoft Cloud | Центр партнеров
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Узнайте, как подтвердить принятие Клиентом соглашения Microsoft Cloud. Это может потребоваться для заказа продуктов и услуг Майкрософт для клиентов.
@@ -9,22 +9,27 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Клиент, клиенты, согласие, MCA, Microsoft Cloudное соглашение, шаблоны клиентских соглашений
 ms.localizationpriority: medium
-ms.openlocfilehash: d9b2df8f9cf8795eedb75bc23773942e365c83fe
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 8e6493fccee9b00c953e18446ec6f101bf267210
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252593"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722093"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Подтверждение принятия клиентом условий соглашения Microsoft Cloud
 
 **Относится к**
 -  Центр партнеров
 
+**Соответствующие роли**
+
+- Агент администрирования
+- Агент по продажам
+
 > [!NOTE]
 > В настоящее время ресурс соглашения поддерживается только центром партнеров в общедоступном облаке Майкрософт. Это неприменимо к:
 > * Центр партнеров, предоставляемый 21Vianet
-> * Центр партнеров Microsoft Cloud в Германии
+> * Центр партнеров Microsoft Cloud для Германии
 > * Центр партнеров для Microsoft Cloud for US Government
 
 >[!NOTE]
@@ -36,7 +41,7 @@ ms.locfileid: "74252593"
 
 -   Фамилия
 
--   Адрес электронной почты
+-   Email address
 
 -   Номер телефона (необязательно)
 
@@ -92,7 +97,7 @@ ms.locfileid: "74252593"
 2. Выберите **Сведения об учетной записи**.
 3. В разделе **Соглашение Microsoft Cloud** выберите **Обновить**.
 
-![Обновление](images/mca/mca4.png)
+![вкладку](images/mca/mca4.png)
 
 4. Введите **Имя**, **Фамилию**, **Адрес электронной почты** и **Номер телефона** (необязательно) пользователя, принявшего условия соглашения.
 5. В разделе **Дата принятия условий соглашения** введите соответствующую дату. Здесь нельзя указать дату, которая еще не наступила.

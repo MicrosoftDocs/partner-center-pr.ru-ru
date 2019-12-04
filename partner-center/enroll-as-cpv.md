@@ -1,7 +1,7 @@
 ---
 title: Регистрация в центре партнеров в качестве поставщика панели управления | Центр партнеров
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Узнайте, как зарегистрироваться как поставщик панели управления (КПВ) в центре партнеров.
@@ -9,18 +9,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Поставщик панели управления, регистрация приложений КПВ, Управление приложениями КПВ
 ms.localizationpriority: medium
-ms.openlocfilehash: 0edc8aed269f992738f39b6250e51ec5f694727c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: d8320c584a9beefb6163a1072f90d66bdbaa8454
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253583"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722554"
 ---
 # <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>Регистрация в центре партнеров в качестве поставщика панели управления
 
 **Относится к**
 
 - Центр партнеров
+
+**Соответствующие роли**
+
+- Глобальный администратор
 
 Поставщик панели управления (КПВ) — это независимый поставщик программного обеспечения, который разрабатывает приложения для партнеров поставщика облачных решений (CSP), позволяя им интегрировать свои системы с API-интерфейсами центра партнеров. Поставщик панели управления не является партнером CSP с прямым доступом к панели мониторинга центра партнеров или к API-интерфейсам центра партнеров.
 

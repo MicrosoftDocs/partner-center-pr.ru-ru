@@ -1,7 +1,7 @@
 ---
 title: Типы выставления счетов в центре партнеров | Центр партнеров
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Сведения о различных типах выставления счетов, расчетных периодах и датах выставления счетов, которые могут отображаться в центре партнеров.
@@ -10,19 +10,27 @@ ms.author: evansma
 keywords: выставление счетов, платежи, заказы, файлы сверки, файл сверки
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b9f5e48ca5cc127427eab7d46eb21071baa3403c
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 73378fda27cfb5cec8b9805ef90dbfa1c854bc44
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384855"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722252"
 ---
 # <a name="types-of-billing-in-partner-center"></a>Типы выставления счетов в центре партнеров
 
-Относится к:
+**Относится к**
 
 - Центр партнеров
 - Партнеры в программе CSP
+
+**Соответствующие роли**
+
+- Агент администрирования
+- Администратор выставления счетов
+- Глобальный администратор
+- Агент службы технической поддержки
+- Агент по продажам
 
 Вам будет выставлен счет за покупки в центре партнеров в зависимости от продуктов, решений и услуг, приобретенных от имени ваших клиентов. Ниже приведены типы выставления счетов.
 

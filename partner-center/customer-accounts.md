@@ -1,7 +1,7 @@
 ---
 title: Учетные записи клиентов | Центр партнеров
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Найдите ресурсы для партнеров по торговым посредникам в центре партнеров. Сюда входит необходимость создания учетных записей клиентов до продажи подписок, выставления счетов или поддержки предложений.
@@ -9,20 +9,26 @@ ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 40fb278c360b7cbedf779d3528e85a5a88a19544
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 4ecaa4f5de9d27bd829f5c3929f0c8e174a87247
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253568"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721384"
 ---
-# <a name="customer-accounts"></a>Учетные записи клиента
+# <a name="customer-accounts"></a>Учетные записи пользователей
 
 **Относится к**
 
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud for US Government
 
+**Соответствующие роли**
+
+- Глобальный администратор
+- Агент администрирования
+- Агент по продажам
+- Агент службы технической поддержки
 
 Партнеру торгового посредника необходимо создать учетную запись для каждого клиента в центре партнеров. Учетная запись клиента станет вашей отправной точкой для продажи подписок, выставления счетов и предоставления поддержки. Необходимо создать учетную запись центра партнеров для каждого клиента, включая клиентов, которые были до перехода в центр партнеров.
 

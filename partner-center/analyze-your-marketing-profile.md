@@ -1,19 +1,19 @@
 ---
 title: Анализ бизнес-профиля | Центр партнеров
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как с помощью страницы «бизнес-профиль» узнать, насколько хорошо вы захватываете внимание целевых клиентов и создаете ссылки.
 author: JnHs
 ms.author: jenhayes
 ms.localizationpriority: medium
-ms.openlocfilehash: 33763800e8da6d6c082aeccc67acddc01653313a
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 5f5be1a1d447adc344c7564bf1f13e015895de94
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253127"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722360"
 ---
 # <a name="analyze-your-business-profile"></a>Анализ бизнес-профиля
 <!-- 
@@ -23,6 +23,17 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **Относится к**
 
 - Центр партнеров
+- Партнеры Microsoft Partner Network
+- Партнеры по программе поставщиков облачных решений
+
+**Соответствующие роли**
+
+- Глобальный администратор
+- Администратор партнера MPN
+- администратор рекомендаций;
+- Администратор бизнес-профиля
+- Агент администрирования
+- Агент по продажам
 
 Страница « **Бизнес-профиль** » в центре партнеров позволяет увидеть, насколько хорошо вы захватываете внимание целевых клиентов и создаете ссылки.
 

@@ -1,7 +1,7 @@
 ---
 title: Настройка каталога | Центр партнеров
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как настроить каталог Майкрософт, чтобы упростить доступ к предложениям партнеров или продуктам, которые в большинстве случаев используются в вашей организации.
@@ -9,12 +9,12 @@ ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 65770b397e613c47cb01f86d97c47e6eb9bf9dac
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: af8c68aebf129a0d58726ec1fcdfa7a0ca914e75
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252117"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722439"
 ---
 # <a name="customize-the-catalog"></a>Настройка каталога
 
@@ -23,6 +23,11 @@ ms.locfileid: "74252117"
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud for US Government
 
+**Соответствующие роли**
+
+- Агент администрирования
+- Глобальный администратор
+- Агент по продажам
 
 В каталоге перечислены все продукты и надстройки Майкрософт, которые вы можете предлагать клиентам. Предлагаемые товары сгруппированы отдельно по сегментам заказчиков, таким как предприятия, малый бизнес и государственные учреждения. Чтобы упростить для пользователей процесс выбора товаров, наиболее часто используемых в организации, или продемонстрировать новые товары вашим агентам по продажам, вы можете закрепить до пяти предложений в начале списка.
 

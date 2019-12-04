@@ -1,7 +1,7 @@
 ---
 title: Продажа подписок на программное обеспечение через программу CSP | Центр партнеров
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как партнеры в программе CSP могут использовать центр партнеров для покупки, управления, продажи и отмены зарезервированных экземпляров Azure и серверных подписок для клиентов.
@@ -10,14 +10,19 @@ ms.author: evansma
 keywords: Поставщик облачных решений, CSP, облачные службы, Azure, Azure RI, Windows Server, SQL Server, подписки на программное обеспечение
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 32efdc721bd9a81ff04527ca82e5e71c1fe7cb58
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0e2b735c1b67b49c18f2b83c042ec5a2bb0eefbd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253552"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721340"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Продажа подписок на программное обеспечение через программу CSP
+
+**Соответствующие роли**
+
+- Агент администрирования
+- Глобальный администратор
 
 Благодаря резервированию Azure и серверным подпискам (Windows Server и SQL Server Subscriptions) партнеры в программе CSP могут более эффективно обращаться к быстро растущему запросу клиентов, чтобы обеспечить более экономичное и устойчивое решение для обеспечения высокой прогнозируемости. облачные рабочие нагрузки. 
 
@@ -37,7 +42,7 @@ ms.locfileid: "74253552"
 > * Мексика
 > * Россия
 > * Саудовская Аравия
-> * Южно-Африканская Республика
+> * Южно-Африканская республика
 > * Турция
 
 <!--March 20, 2019 - this list of countries was correct as of today. Maggie last updated the list according to FAREAST\v-pubobb in bug 20907186.

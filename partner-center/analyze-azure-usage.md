@@ -11,18 +11,26 @@ ms.topic: article
 keywords: бизнес-данные
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 89d76cf3945c5831f6ab2fd1fe77c8df1b9c233e
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 096996b4ebc6953125e41b80ecd0e991d0bdec86
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253391"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722391"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Получение данных об использовании клиентских подписок Azure
 
-Относится к:
+**Относится к**
 
 - Центр партнеров
+- Партнеры по программе поставщиков облачных решений
+
+**Соответствующие роли**
+
+- Глобальный администратор
+- Администратор управления пользователями
+- Агент администрирования
+- Агент по продажам
 
 Данные помогают принимать правильные бизнес-решения. Используйте метрики на странице **Использование Azure** для определения того, каких целей добились вы и ваши клиенты, а также областей, нуждающихся в более пристальном внимании. Эти сведения можно использовать при планировании новых бизнес-целей.
 

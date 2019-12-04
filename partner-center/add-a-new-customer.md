@@ -10,19 +10,28 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: клиент, добавление клиента, учетная запись клиента, учетная запись клиента в Центре партнеров, клиенты, добавление клиентов, создание учетной записи клиента
 ms.localizationpriority: medium
-ms.openlocfilehash: 5eab35aa23934b35320d9067bf305ce306e9c141
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: a3c1977cefebc6599012856d8e0523cfa74e6a64
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384617"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722298"
 ---
-# <a name="add-a-new-customer"></a>Добавление нового клиента
+# <a name="add-a-new-customer"></a>Добавление нового пользователя
 
 **Относится к**
 
--  Центр партнеров
--  Центр партнеров для Microsoft Cloud for US Government
+- Центр партнеров
+- Центр партнеров для Microsoft Cloud for US Government
+- Партнеры по программе поставщиков облачных решений
+
+**Соответствующие роли**
+
+- Глобальный администратор
+- Администратор управления пользователями
+- Агент администрирования
+- Агент по продажам
+
 
 Прежде чем продавать подписки, управлять выставлением счетов или предоставлять поддержку для клиента, необходимо добавить их в список клиентов в центре партнеров.
 

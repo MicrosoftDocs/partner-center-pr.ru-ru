@@ -1,7 +1,7 @@
 ---
 title: Программа поставщика управляемых служб с экспертом Azure | Центр партнеров
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как использовать программу поставщика управляемых служб Azure для опытных пользователей, службу MSP эксперта Azure.
@@ -10,15 +10,25 @@ ms.author: labrenne
 Keywords: Продажи Azure, экспертные программы, партнерские программы
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c53b864fd57d9fb5db33023e5d9c614b2b9c9ee
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 36ff03cd88ee2637daa8e836f797914a42e96878
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253031"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722325"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Программа поставщика управляемых служб с экспертом Azure
 
+**Относится к**
+
+- Партнеры MPN
+
+**Соответствующие роли**
+
+- Администратор учетных записей
+- Администратор бизнес-профиля
+- Глобальный администратор
+- Администратор партнера MPN
 
 Если ваша компания является суперзвезда при продаже и управлении службами Azure для клиентов, применяйте к программе поставщика управляемых служб Azure с экспертами. Специалисты по работе с экспертами по Azure MSP получают эксклюзивный эмблему, отличающую их от других партнеров Майкрософт и получают высший приоритет в подсистеме ссылок, их приоритеты для участия в совместных продажах, получение поддержки при разработке новых методик и возможность участия эксклюзивные события.
 

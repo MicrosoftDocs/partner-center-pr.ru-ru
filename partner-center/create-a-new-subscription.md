@@ -1,7 +1,7 @@
 ---
 title: Создание, приостановка и отмена подписок клиентов | Центр партнеров
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как продавать подписки клиентов на продукты в каталоге после создания записи клиента в центре партнеров.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: Подписка, создание новых, Добавление подписки, приостановка, Отмена, приостановка, приостановка, SaaS, лицензия, ISV, сторонние лица
 ms.localizationpriority: medium
-ms.openlocfilehash: d829ba7ee520cab42ec5985ac2156ddff60d8e99
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253461"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721720"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Создание, приостановка и отмена подписок клиентов
 
@@ -27,8 +27,11 @@ ms.locfileid: "74253461"
 
 **Соответствующие роли**
 
-- Глобальный администратор
 - Агент администрирования
+- Администратор выставления счетов
+- Глобальный администратор
+- Агент службы технической поддержки
+- Агент по продажам
 
 После регистрации клиентов в Центре партнеров можно продать им подписки на продукты в каталоге. Сюда входят продукты, опубликованные корпорацией Майкрософт, а также продукты SaaS (программное обеспечение как услуга), опубликованные сторонними поставщиками программного обеспечения (ISV) для [коммерческого рынка](https://azuremarketplace.microsoft.com/marketplace). 
 

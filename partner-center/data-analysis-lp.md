@@ -1,7 +1,7 @@
 ---
 title: Данные и анализ в Центре партнеров | Центр партнеров
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как использовать аналитику в центре партнеров для лучшего понимания бизнеса и того, как ваши клиенты используют приобретенные лицензии.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: данные, анализ, анализ данных, power bi
 ms.localizationpriority: medium
-ms.openlocfilehash: b584cf8d622bbe58ac8bf99be3292464cf64e07d
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: e8501776365e761c2c7ea9f5c33a2150c92cc79e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384847"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722571"
 ---
 # <a name="get-data-and-analyze-your-business"></a>Получение данных и анализ бизнеса
 
@@ -26,7 +26,7 @@ ms.locfileid: "74384847"
 
 **Соответствующая роль**
 
-- Администратор партнера MPN
+- администратор партнера MPN.
 
 Для планирования способов развития вашего бизнеса в рамках программы CSP необходимо понять, как клиенты используют продукты Microsoft. Существует несколько способов сбора данных в Центре партнеров: можно собирать данные и о вашем бизнесе, и о том, используют ли ваши клиенты приобретенные лицензии и как. Если вы работаете по прямой модели CSP, вы можете установить и использовать для сбора дополнительных данных приложение "Аналитика Центра партнеров для Power BI".
 

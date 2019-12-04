@@ -1,7 +1,7 @@
 ---
 title: Создание утверждения поощрения и управление им | Центр партнеров
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Узнайте, как инициировать заявки на совместную работу с стимулами от центра партнеров. Все действия, выполняемые в процессе создания вашей заявки, отображаются в разделе "Журнал".
@@ -10,17 +10,23 @@ ms.author: labrenne
 keywords: заявки на возмещение средств в рамках программы поощрения, совместные заявки, совместные фонды
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e315ba8963d62e47275344b973fb68a79fe72337
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1be444403d2b36bcee13648a767b0cfdf448c06b
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253471"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721687"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>Создание и администрирование заявки на возмещение средств за выполненную работу в рамках программы поощрения
 
 **Относится к**
 - Центр партнеров
+
+**Соответствующие роли**
+
+- Глобальный администратор
+- Администратор программы поощрения
+- Пользователь программы поощрения
 
 Вы можете инициировать заявку на поощрения в центре партнеров. 
 
