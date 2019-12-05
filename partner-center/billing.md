@@ -1,28 +1,35 @@
 ---
 title: Выставление счетов | Центр партнеров
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Узнайте о выставлении счетов в Центре партнеров, ресурсах для выставления счетов, счетах и выставлении счетов CSP.
+Description: Узнайте о выставлении счетов в Центре партнеров, включая информацию о ресурсах для выставления счетов, счетах и выставлении счетов в рамках CSP.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: выставление счетов, платежи, заказы, отмена, управление заказами, неоплата, мошенничество, ненадлежащее использование, налоги, освобождение от уплаты налогов, файлы выверки, файл выверки
 ms.localizationpriority: high
-ms.openlocfilehash: 8169c8303c78ceaeb1b47c124411f0324ae0349a
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: b3052f33b55ea7aa57d5ee9d29d2839791a92088
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384620"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722170"
 ---
 # <a name="billing"></a>Выставление счетов
 
-Относится к:
+**Относится к**
 
 - Центр партнеров
 - Центр партнеров для Microsoft Cloud for US Government
+
+**Соответствующие роли**
+
+- Агент администрирования
+- Администратор выставления счетов
+- Глобальный администратор
+- Агент по продажам
 
 | Раздел | Описание |
 | ----- | ----------- |
