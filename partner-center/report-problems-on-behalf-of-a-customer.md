@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 08/16/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Если у вашего клиента возникла проблема с обслуживанием, которую вы не можете устранить и которая отвечает критериям, описанным в разделе "Сообщение о проблемах в Майкрософт", подайте запрос в службу поддержки.
+Description: Если у клиента возникла проблема со службой, которую невозможно разрешить, и которая соответствует критериям, описанным в статье о том, как эскалировать проблемы в Майкрософт, отправьте запрос в службу поддержки.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: запрос на обслуживание, запрос в службу поддержки, поддержка, право на поддержку, AOBO, Azure AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: f0dc490ab72c87ccb1b6aa22aa84a66529820408
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 28f5be859d8c949eb0135f3096c320cc160b835a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654116"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943217"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Сообщение о проблемах от имени пользователя
 

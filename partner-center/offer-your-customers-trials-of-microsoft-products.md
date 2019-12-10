@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Ваши клиенты могут ознакомиться с продуктами Майкрософт, доступными по подписке, в течение 30 дней. Вы можете зарегистрировать эти пробные версии в каталоге так же, как и многие другие веб-службы.
+description: Ваши клиенты могут ознакомиться с продуктами Майкрософт, доступными по подписке, в течение 30 дней. Подпишитесь на эти пробные версии в каталоге так же, как и многие другие веб-службы.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ca774233fa6d5314e57f1ab2eb2a73b6037223e5
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 3e86c45b6ac721d4fd8edffa981940d212295611
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384829"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943297"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Предложение клиентам пробных версий продуктов Майкрософт
 
-Относится к:
+Область применения
 
 - Центр партнеров
 
@@ -83,7 +83,7 @@ ms.locfileid: "74384829"
 
 Вам может потребоваться изменить API-интерфейсы, чтобы обеспечить преобразование бесплатной пробной версии в платную подписку. Дополнительные сведения см. в следующей документации для разработчиков:
 
-- [Преобразование пробной подписки в платную](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
+- [Преобразование пробной версии подписки в платную](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
 - [Получение списка предложений для преобразования пробных версий](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
 ### <a name="expiring-offers"></a>Предложения с истекающим сроком действия

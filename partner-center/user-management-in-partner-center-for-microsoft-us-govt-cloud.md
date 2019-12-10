@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: В соответствии с национальными, региональными и отраслевыми требованиями к сбору и использованию персональных данных возможности управления пользователями недоступны в Центре партнеров Microsoft Cloud для правительства США. Вместо этого добавлять пользователей и управлять ими необходимо на портале Azure для Microsoft Cloud для правительства США.
+description: Узнайте, как и где можно управлять центром партнеров для Microsoft Cloud для партнеров США, клиентов и лицензий, а также для сброса паролей.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c9cf088adae26ac0dd34088273caeb0023091a6f
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 56121b91fd0e1eae02fc232d45d0c7b06c5dd8ea
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653969"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943607"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud для правительства США
 

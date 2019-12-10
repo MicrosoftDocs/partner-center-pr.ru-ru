@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 12/12/2018
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Подписки Dynamics 365 Business Edition больше не могут быть обновлены.
+description: Узнайте, как перенести предложения Dynamics 365 Business Edition в более новые версии до истечения срока их действия.
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
 Keywords: Версии Dynamics 365 предложения, продление предложений, новые номера SKU Dynamics 365
-ms.openlocfilehash: fc6964135058a805a32f81b09974b8e6d08e85d6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8a6ff7c10854d3b4d4a3a57482b45c741d8e0321
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653296"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943577"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Перенос предложений с выпуском Dynamics 365 Business в более новые версии 
 
@@ -32,8 +32,8 @@ ms.locfileid: "73653296"
 
 ## <a name="the-dynamics-365-business-editions-being-retired"></a>Прекращение использования выпусков Dynamics 365 Business
 
-- Dynamics 365 для финансовых и производственных операций, Business Edition
-- Dynamics 365 для членов группы, Business Edition
+- Dynamics 365 for Finance and Operations (выпуск для бизнеса)
+- Dynamics 365 for Team Members (выпуск для бизнеса).
 
 ## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business Central — новые предложения Dynamics 365 Business Edition
 

@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Клиент может изменить партнера в программе поставщиков облачных решений, использующего службы Microsoft Azure. Однако это ручной процесс, требующий участия как партнера, так и клиента.
+description: Узнайте, как работать с клиентом, чтобы изменить партнера в программе поставщика облачных решений, которую клиент будет использовать для служб Azure.
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: подписка azure, изменить партнера, сменить партнера, получить нового партнера, другой партнер
 ms.localizationpriority: medium
-ms.openlocfilehash: a0dd17c56e04368be430808ab5191a6c5adca8cf
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0d7c3e85b96e52aa2fa3e09261aee81f364996d3
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651536"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943397"
 ---
 # <a name="transfer-azure-subscriptions"></a>Перенос подписок Azure 
 

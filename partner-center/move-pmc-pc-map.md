@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте о различиях и сходстве между PMC и Центром партнеров.
+description: Узнайте о различиях и сходствах между PMC и центром партнеров в отношении продления, структуры учетной записи, входа, ролей пользователей, компетенций и многого другого.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, миграция, переход в Центр партнеров
 ms.localizationpriority: medium
-ms.openlocfilehash: 9a6beaa331d762f47530441a91dc203ed01c78e2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 77754e9fac432e7ec7e75fd0acbb4b6d8fbe1088
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653279"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943487"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Переход от PMC к Центру партнеров
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Сведения о просмотре, скачивании и печати счета за членство в MPN, а также о файле для налогового освобождения и отправке корпорации Майкрософт идентификатора НДС.
+description: Узнайте, как просмотреть или скачать счет на членство в MPN, а также файл для налогового освобождения и отправить корпорации Майкрософт ИДЕНТИФИКАЦИОНный номер НДС.
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, счет, карты, налоговый освобождения, НДС, идентификатор НДС
 ms.localizationpriority: medium
-ms.openlocfilehash: 76accd7cd2db254784b260d6fd75ce2e375d729e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: ec3813363b8ec69ee813fa7c65e6e39d00226016
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653034"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943547"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Счета и налоги в Microsoft Partner Network
 

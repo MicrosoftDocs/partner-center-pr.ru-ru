@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Вопросы, которые следует учесть перед переносом компании из PMC в центр партнеров
+description: Ознакомьтесь с полезными сведениями и часто задаваемыми вопросами, прежде чем переносить бизнес из PMC в центр партнеров.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ad7b761c69cfa1f320eb9427806f5b1803e84e6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 40ddbd49ad82e1aa5c314da7db366dff6d8a57b4
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652191"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943267"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Подготовьтесь к переходу от центра участия в партнерских организациях (PMC) в центр партнеров
 
@@ -23,7 +23,7 @@ ms.locfileid: "73652191"
 
 **Что такое Рабочая учетная запись Azure Active Directory (Azure AD)?**
 
-Рабочая учетная запись Azure — это специальное и изолированное виртуальное представление вашей компании в общедоступном облаке Azure, создаваемое для вас при оформлении вами подписки на облачную службу Майкрософт, например Azure, Microsoft Intune или Office 365.
+Рабочая учетная запись Azure — это специальное и изолированное виртуальное представление вашей компании в общедоступном облаке Azure, создаваемое для вас при оформлении вами подписки на облачную службу Майкрософт, например Azure, Microsoft Intune или Office 365.
 
 Ваша Рабочая учетная запись содержит пользователей Azure AD и сведения о них: их адрес электронной почты, пароли, данные профиля, разрешения и т. д. Рабочая учетная запись также содержит группы, приложения и другие сведения, относящиеся к компании и ее безопасности. Дополнительные сведения см. в разделе...
 

@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 11/03/2018
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте о странах и регионах, в которых можно продать предложения CSP, в зависимости от местонахождения вашей компании.
+description: Узнайте о странах, регионах и валютах, в которых можно продать предложения CSP, в зависимости от местонахождения вашей компании.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Рынки CSP, территории, где можно продать CSP, предложения CSP, регионы, продавать облачные решения, глобальный CSP
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0da3385adac588dbf4c1c7551454673086c85dba
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: da8eeaef62874fb1fc8d8df5eecd2bab20e5ece5
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652070"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943247"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Региональные рынки и валюты для программы поставщика облачных решений
 
@@ -107,7 +107,7 @@ ms.locfileid: "73652070"
 |  Гонконг         |   Доллар США (USD)    |
 |  Индонезия         |   Доллар США (USD)    |
 |  Лаосская Народно-Демократическая Республика              |          |
-|  Макао             |   Доллар США (USD)    |
+|  Макао (САР)             |   Доллар США (USD)    |
 |  Малайзия          |   Доллар США (USD)    |
 |  Мальдивы          |          |
 |  Письменность мьянма           |          |
@@ -219,7 +219,7 @@ ms.locfileid: "73652070"
 |  Шпицберген и Ян-Майен|Норвежская крона (NOK)|
 |  Швеция         |   Шведская крона (SEK)    |
 |  Швейцария    |   Швейцарский франк (CHF)    |
-|  Великобритании             |   Фунт стерлингов (GBP)    |
+|  Соединенное Королевство             |   Фунт стерлингов (GBP)    |
 |  Ватикан   |          |
 |
 
@@ -247,7 +247,7 @@ ms.locfileid: "73652070"
 
 |  Страна и регион    | Валюта |
 |  --------------    |:--------:|
-|  Корея, Республика|   Вона (KRW)    |
+|  Республика Корея|   Вона (KRW)    |
 |
 
 ## <a name="latin-america-and-the-caribbean-region-and-market"></a>Латинская Америка и Карибский регион и рыночный
@@ -347,7 +347,7 @@ ms.locfileid: "73652070"
 |  Мозамбик     |          |
 |  Оман           |   Доллар США (USD)    |
 |  Пакистан       |   Доллар США (USD)    |
-|  Многонациональная территория, занятая |        |
+|  Оккупированные палестинские территории |        |
 |  Катар          |   Доллар США (USD)    |
 |  Саудовская Аравия   |   Доллар США (USD)    |
 |  Сербия         |   Доллар США (USD)    |

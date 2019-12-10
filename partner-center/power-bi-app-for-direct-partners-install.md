@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Выполните следующие действия, чтобы ознакомиться с приложением "Аналитика Центра партнеров для Power BI" (для прямых партнеров в программе CSP).
+description: Выполните следующие действия, чтобы установить и предварительно просмотреть приложение аналитики центра партнеров для Power BI (для прямых партнеров в CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: b7635e8d6fd9910123ac4113d467ae506e507793
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d0dd520172ead463207c1f2ac511c85761f9c1ef
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654172"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943287"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Установить и ознакомиться с приложением "Аналитика Центра партнеров для Microsoft Power BI"
 

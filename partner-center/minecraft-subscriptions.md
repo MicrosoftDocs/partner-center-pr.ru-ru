@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 'Продажа подписок на Minecraft: Education Edition квалифицированным клиентам из образовательной сферы.'
+description: Продавайте подписки Minecraft образовательных выпусков на квалифицированных учебных учреждениях, которые затем смогут скачать их из магазина Microsoft для образовательных учреждений.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Полномочные партнеры по обучению, образование, продажи в образовательных учреждений, школы
 ms.localizationpriority: medium
-ms.openlocfilehash: ef1191b068f5e6afb22dc8e7734489f4dd7d3531
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 91dedab427478cd2e7608e35fb3cb1444fd0a7a0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653291"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943497"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Продажа подписок на Minecraft: Education Edition клиентам из образовательной сферы
 

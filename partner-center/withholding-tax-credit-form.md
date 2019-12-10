@@ -2,7 +2,7 @@
 title: Убедитесь, что вы кредитовать за удержание налога | Центр партнеров
 ms.topic: article
 ms.date: 11/07/2019
-description: Как убедиться, что учетная запись центра партнеров кредитуется для подоходного налога.
+description: Убедитесь, что учетная запись центра партнеров кредитуется для подоходного налога, и при необходимости откройте запрос на обслуживание.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
@@ -10,16 +10,16 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Кредит налога на подоход, налоговые кредиты, налоговый кредит, форма налога
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f25c570f8a71a261e815891545acf48e0a8fe08
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 98449ae99b0acc549ba10129c49102d4e498b96b
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384865"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943167"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Убедитесь, что вы кредитовать за удержание налога
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Убедитесь, что вы получили кредит на подоходный налог.
 
-Относится к:
+Область применения
 
 - Центр партнеров
 

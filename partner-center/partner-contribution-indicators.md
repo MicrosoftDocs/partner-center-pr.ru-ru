@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 11/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Данные, показывающие, насколько эффективно ваша компания использует возможности Dynamics 365 Customer Engagement или Dynamics 365 Finance and Operations.
+description: Узнайте, что именно вам удобно, и где можно улучшить работу с участием клиентов Dynamics 365 или Dynamics 365 Finance и Operations.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, эффективность, успех клиента, измерения, Dynamics 365
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7d478f8a90eee2bcfc15ef31407dee12de1eaa29
-ms.sourcegitcommit: 10d40d50a623ac6bce3496157695a7aca147d74a
+ms.openlocfilehash: 87ee210307f5e3f28ae5ac9c7a73b5319536043c
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74391699"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943127"
 ---
 # <a name="partner-contribution-indicators"></a>Индикаторы вклада партнеров
 
@@ -65,13 +65,13 @@ PCI обеспечивает комплексное, целостное пред
 
 ![Функциональный консультант](images/pci/functional_consultants.png)
 
-![квот](images/pci/functional_consultant_growth.png)
+![growth](images/pci/functional_consultant_growth.png)
 
 ![Разработчикам](images/pci/developers.png)
 
 ![Новые развертывания](images/pci/new_large_deployments.png)
 
-![Активные пользователи](images/pci/monthly_active_user_growth.png)
+![активные пользователи](images/pci/monthly_active_user_growth.png)
 
 
 ## <a name="customer-to-partner-association"></a>Связь между партнером и клиентами

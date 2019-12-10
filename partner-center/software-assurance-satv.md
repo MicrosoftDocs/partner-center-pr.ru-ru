@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/11/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Регистрация в программе обучения Software Assurance
+description: Сведения о регистрации в программе обучения Software Assurance, чтобы вы могли компенсировать доставку и планирование для корпоративных клиентов.
 author: LauraBrenner
 ms.author: labrenne
 keywords: купоны на обучение, Software Assurance, обучение, регистрация в SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d6339a63d4fbd7f1d742820ca90bb66d4d67c1a
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: dac3c2c82ad02be3f65358573808d9f2e5d1cf52
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384795"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943417"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Программа Software Assurance Training Voucher (SATV) в Центре партнеров
 
@@ -26,18 +26,18 @@ ms.locfileid: "74384795"
 
 Если вы не знакомы со службами обучения Software Assurance, выполните все приведенные ниже действия. Если вы уже активно находитесь в программе обучения, начните с четвертого шага (4) ниже. 
 
-1. Подтверждение права на участие в программе.
+1. Подтверждение права на участие в программе
 2. Регистрация в программе обучения.
 3. Подтверждение права на прохождение курса.
-4. Создание и назначение ваучера клиентом
+4. Создание и назначение ваучера клиентом.
 5. Проверка и резервирование ваучера клиента.
-6. Предоставление обучения и активация продукта
-7. Погашение ваучера
+6. Предоставление обучения и активация продукта.
+7. Погашение ваучера.
 8. Запрос оплаты.
 
 В этой статье объясняется, как выполнить каждый шаг.
 
-## <a name="confirm-program-eligibility"></a>Подтверждение права на участие в программе.
+## <a name="confirm-program-eligibility"></a>Подтверждение права на участие в программе
 
 Прежде чем вы сможете зарегистрироваться в программе SATV, необходимо сначала выполнить требования режима Microsoft Partner Network Learning, который заменяет компетенцию Microsoft Learning. Узнайте, как приступить к работе в [режиме обучения.](https://partner.microsoft.com/membership/learning-partners)
 
@@ -51,7 +51,7 @@ ms.locfileid: "74384795"
 ## <a name="confirm-course-eligibility"></a>Подтверждение права на прохождение курса.
 После регистрации в программе SATV партнеры могут предложить по курсам соответствующих SATV сеансы обучения, для которых клиенты могут использовать свои ваучеры на обучение. Подходящие курсы перечислены в [каталоге соответствия сатв Course](https://savl-catalog.microsoft.com/). Ознакомьтесь с [шагом 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса, чтобы узнать, какие типы курсов сатв.
 
-## <a name="have-customer-create-and-assign-voucher"></a>Создание и назначение ваучера клиентом
+## <a name="have-customer-create-and-assign-voucher"></a>Создание и назначение ваучера клиентом.
 
 Перед проведением обучения клиент должен сначала активировать преимущество SATV, а затем назначить его организации. Подробные инструкции по созданию снимков экрана, в которых показаны действия, которые должен предпринять клиент, для создания и назначения ваучера см. в [шаге 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса.
 
@@ -59,11 +59,11 @@ ms.locfileid: "74384795"
 
 Теперь вы можете зарезервировать и погасить ваучеры, а также начать обучение клиентов. Администратор MPN вашей компании имеет доступ к средству управления ваучерами в центре партнеров и может добавлять пользователей, которым необходимо работать в средстве. Инструкции по проверке и резервированию ваучеров см. в [шаге 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса.
 
-## <a name="deliver-training-and-activate-product"></a>Предоставление обучения и активация продукта
+## <a name="deliver-training-and-activate-product"></a>Предоставление обучения и активация продукта.
 
 После резервирования ваучера вы можете предоставить обучение клиенту. См. [Шаг 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса для обучения и инструкции по активации и приобретению официальных учебных курсов Майкрософт (MOC), экзаменов и сертификатов Microsoft Course (Лаас) для курсов mooc.
 
-## <a name="redeem-voucher"></a>Погашение ваучера
+## <a name="redeem-voucher"></a>Погашение ваучера.
 
 После завершения обучения необходимо погасить ваучер. Следуйте инструкциям на [шаге 7](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) рабочего процесса, чтобы убедиться, что выполнены все требования, чтобы можно было запросить оплату. 
 

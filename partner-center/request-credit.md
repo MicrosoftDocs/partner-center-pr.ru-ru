@@ -2,19 +2,19 @@
 title: Запросить кредит соглашения об уровне обслуживания у корпорации Майкрософт | Центр партнеров
 ms.topic: article
 ms.date: 11/21/2019
-description: Запросите соглашение об уровне обслуживания от корпорации Майкрософт в случае сбоя в работе службы.
+description: Узнайте о преимуществах, ограничениях и процедурах запроса соглашения об уровне обслуживания от корпорации Майкрософт, если ваши клиенты испытывают сбой в работе службы.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: a3eb79b78b3edb052d85cc7461d9fd50a115eb43
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: bcc094b877d0128c73041044ce6304123d895fdb
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384903"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943147"
 ---
 # <a name="request-an-sla-credit-from-microsoft"></a>Запросить кредит соглашения об уровне обслуживания у корпорации Майкрософт 
 
@@ -30,7 +30,7 @@ ms.locfileid: "74384903"
 
 *Партнер поставщика облачных решений (CSP) должен отправить заявку и всю необходимую информацию в конце календарного месяца, следующего за месяцем, в котором произошел инцидент.* Например, если инцидент выполнялся 15 февраля, корпорация Майкрософт должна получить заявку и всю необходимую информацию на 31 марта. Конечным клиентам и непрямым торговым посредникам не удается отправить кредитные заявки SLA. косвенный поставщик или партнер прямого счета должны отправлять заявки от своего имени.
 
-### <a name="required-information"></a>Требуемая информация
+### <a name="required-information"></a>Необходимая информация
 
 Перед [отправкой запроса соглашения об уровне обслуживания](#submit-sla-credit-request) в корпорацию Майкрософт необходимо собрать следующие сведения, чтобы включить их в запрос в службу поддержки:
 
@@ -44,14 +44,14 @@ ms.locfileid: "74384903"
 
 | Аббревиатура из двух букв | Служба Майкрософт |
 | ----------------------- | ----------------- |
-| СИМВОЛА | Exchange Online |
-| DirectX | Защита Exchange Online |
-| СРЕДСТВАМИ | Skype для бизнеса Online (ранее — Lync Online) |
-| OS | Подписка Office, |
-| МС | Power BI для Office 365 |
-| ПОРТОВ | SharePoint Online |
+| EX | Exchange Online |
+| FO | Защита Exchange Online |
+| SB | Skype для бизнеса Online (ранее — Lync Online) |
+| ОС | Подписка Office, |
+| ПБ | Power BI для Office 365 |
+| SP | SharePoint Online |
 | я | Yammer Enterprise |
-| & | Ошибка портала |
+| MO | Ошибка портала |
 
 ### <a name="submit-sla-credit-request"></a>Отправить кредитный запрос соглашения об уровне обслуживания
 

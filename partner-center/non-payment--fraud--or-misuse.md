@@ -4,23 +4,23 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Стратегии управления рисками, связанными с транзакциями в Интернете, включая неоплату клиентом товаров и услуг, мошеннические действия или злоупотребление.
+description: Важно узнать о различных типах рисков, связанных с интерактивными транзакциями, и рекомендациями по управлению и устранению этих рисков.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: мошенничество, злоупотребление, допустимое использование, политика допустимого использования, неоплата, клиент не платит по счетам, риски в Интернете, хищение услуги, злоупотребление услугой, приостановка подписки,
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 604c192259fd4194a3b43d57721caa7566704b58
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: d59ad89c69e21bc2d88fc1229f80cb4f5f660dbc
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384768"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943527"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Управление неоплатой, мошенничеством или неправильным использование в центре партнеров
 
-Относится к:
+Область применения
 
 - Центр партнеров
 - Центр партнеров для Microsoft Cloud for US Government

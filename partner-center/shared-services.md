@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Службы Azure Partner Shared Services — это новый тип предложения в рамках программы CSP, который позволяет партнерам приобретать подписки на Azure для собственного использования.
+description: Используйте общие службы партнеров Azure для приобретения подписок Azure для собственного использования и единообразного метода приобретения, отслеживания и управления Azure.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, общие службы, клиент
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 10d2effe05bb6472a7253d094b8e25c17b9c21eb
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2d6c51ceb9151298f21bb0ebfd696e57bd8d13fb
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651677"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943457"
 ---
 # <a name="add-azure-partner-shared-services"></a>Добавление служб Azure Partner Shared Services
 
@@ -71,7 +71,7 @@ ms.locfileid: "73651677"
 
 Партнеры, у которых есть BYOL или бесплатные службы, развернутые с помощью АПСС, не будут затронуты. но после 1 марта 2019 они не смогут приобрести новые BYOL или бесплатные службы. 
 
-Чтобы воспользоваться преимуществами полного каталога доступных предложений Marketplace (не просто BYOL и бесплатных служб), мы рекомендуем партнерам CSP развертывать общие службы с помощью веб-прямых подписок Azure.  Партнеры CSP, которые ранее развернули сторонние BYOL и бесплатные ресурсы службы из Marketplace, и хотели бы продолжить их использование и развернуть более сторонние предложения, рекомендуется перенести подписку АПСС в веб-прямую [миграцию существующих Azure. Подписки](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
+Чтобы воспользоваться преимуществами полного каталога доступных предложений Marketplace (не просто BYOL и бесплатных служб), мы рекомендуем партнерам CSP развертывать общие службы с помощью веб-прямых подписок Azure.  Партнеры CSP, которые ранее развернули сторонние BYOL и бесплатные ресурсы службы из Marketplace, и хотели бы продолжить их использование и развернуть более сторонние предложения, рекомендуется перенести подписку АПСС в веб-прямую [миграцию существующих подписок Azure](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
 
 Партнеры, планирующие продолжать использовать подписку АПСС после 1 марта 2019 и хотели бы развернуть новые сторонние [BYOL Services](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) или бесплатные службы, могут следовать инструкциям от независимых поставщиков программных продуктов, чтобы развернуть их в своих подписках апсс.
 

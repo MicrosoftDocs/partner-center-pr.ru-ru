@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Получите визуальное представление бизнес-данных с помощью приложения "Аналитика Центра партнеров для Power BI".
+description: Общий обзор и часто задаваемые вопросы о приложении аналитики центра партнеров для Power BI.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a0e5bc4ab47997123cace045bf577f2fa825174c
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 67df5278d9c9f9f757e904d55ae6a688bbb8c5bc
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654157"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943477"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Аналитика Центра партнеров для Power BI (для прямых партнеров в CSP)
 
@@ -44,7 +44,7 @@ ms.locfileid: "73654157"
 
 Рекомендуется изучить ответы на часто задаваемые вопросы, прежде чем установить приложение. 
 
-| **Вопрос** | **Клик** |
+| **Вопрос** | **Ответ** |
 | --- | ---------- |
 | Сколько стоит приложение? | Приложение предоставляется бесплатно. Чтобы ознакомиться с приложением, [зарегистрируйтесь в бесплатной службе Power BI](https://go.microsoft.com/fwlink/p/?linkid=845347) и используйте ее для настройки информационных панелей и отчетов. Чтобы разрешить другим пользователям в организации работать с приложением, вам потребуется активная подписка на Microsoft Power BI Professional или Microsoft Power BI Premium. |
 | Кто может подключиться к приложению "Аналитика Центра партнеров"? | Эта версия приложения предназначена для прямых партнеров (уровень 1) в программе поставщиков облачных решений. Вы являетесь прямым партнером, если вы взаимодействуете непосредственно с корпорацией Майкрософт и клиентами. Чтобы установить приложение, необходимо быть глобальным администратором, агентом администратора или администратором выставления счетов для учетной записи вашей компании. |

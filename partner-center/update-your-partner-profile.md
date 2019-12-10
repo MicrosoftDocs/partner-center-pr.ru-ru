@@ -2,17 +2,17 @@
 title: Проверка профиля партнера
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: При первом входе в качестве администратора убедитесь, что данные службы поддержки указаны правильно, внесите сведения об освобождении от уплаты налогов, если необходимо, и проверьте контактные данные в профилях.
+description: Узнайте, как проверить сведения о компании, такие как основной контакт, адрес и сведения о программе. Вы также можете обновить свои юридические и счета.
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: eef07d41028039be989b2c3169269b3290c72524
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 262c1f224a5056aaf985e2af4206e62fa809aa8a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384784"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943057"
 ---
 # <a name="verify-your-partner-profile"></a>Проверка профиля партнера
 

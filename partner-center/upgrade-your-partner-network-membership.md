@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: При обновлении членства Microsoft Partner Network вы имеете право на преимущества эксклюзивного членства. Узнайте, как найти и приобрести доступные предложения.
+description: Чтобы получить исключительные преимущества, обновите членство в MPN на Action Pack подписки Майкрософт или компетенции Майкрософт.
 author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f48dcd8b5ac4a83d6f9b99c71f0d243ad78ad274
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e608646d1c6f76b5081d38648a4afa95660e2bf0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651167"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943407"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Обновить членство Microsoft Partner Network
 
@@ -82,7 +82,7 @@ ms.locfileid: "73651167"
 3. Выберите **Turn off automatic renewal** (Отключить автоматическое продление), если вы не хотите, чтобы подписка на Action Pack автоматически продлевалась каждый год. 
 
 > [!NOTE]  
-> Если отключить автоматическое продление подписки, вы не сможете снова включить его, пока вы не обновите подписку снова. Мы будем напомнить об обновлении до истечения срока действия подписки.
+> Если отключить автоматическое продление подписки, вы не сможете снова включить эту функцию, пока заново не продлите подписку. Мы уведомим вас о необходимости продления до истечения срока действия подписки.
 
 
 ### <a name="renew-your-action-pack-subscription"></a>Продление подписки на Action Pack

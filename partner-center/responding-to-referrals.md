@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 07/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Являясь квалифицированным партнером Майкрософт, вы можете оценивать и обсуждать авторов в Центре партнеров, а также реагировать на них.
+description: Узнайте, как реагировать на ссылки, управлять новыми, существующими и архивными ссылками, а также получать дополнительные ссылки в будущем.
 author: JnHs
 ms.author: jenhayes
 keywords: автор, запрос информации, поиск партнера
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 49b5c7e0f718f23c25a9adcab1edfec47814d048
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0cd8ac3dba2570d2d4d2440d4b524bb76ced39a0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654083"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943447"
 ---
 # <a name="respond-to-referrals"></a>Реагирование на рекомендации
 

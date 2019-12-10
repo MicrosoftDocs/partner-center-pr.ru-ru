@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 12/12/2018
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dynamics 365 для плана участия в продажах и клиентов из базовых (квалифицированных предложений) больше не могут быть обновлены.
+description: Узнайте, как приобрести новую подписку до истечения срока действия существующих, переназначить пользовательские лицензии, а затем отмените старую подписку.
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
 Keywords: Версии Dynamics 365 предложения, продление предложений, новые номера SKU Dynamics 365
-ms.openlocfilehash: 354846973227fd292514454dd6f648934e5156ef
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: bbb7480264a2d3d5ae6ed1f50e0f32b5ebc1c16e
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653307"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943357"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Перенос Dynamics 365 и плана Customer Engagement с "Базового" уровня (соответствующие предложения) в более новые версии
 
@@ -70,7 +70,7 @@ ms.locfileid: "73653307"
 **Параметры замены**
 - Dynamics 365 для специалистов по продажам (впервые)
 - Dynamics 365 для специалистов по продажам (впервые)
-- Dynamics 365 для службы клиентов
+- Dynamics 365 for Customer Service
 - План участия клиента Dynamics 365 или
 - Члены команды Dynamics 365
 
