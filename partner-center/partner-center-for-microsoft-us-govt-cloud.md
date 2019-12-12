@@ -8,18 +8,25 @@ description: Центр партнеров для Microsoft Cloud для пра�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1309f14555ff30a91a42d26bc1781315a7bba536
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9e290242a0a97abdbdca1e222c12cd0072d05073
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652684"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004253"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Центр партнеров для Microsoft Cloud for US Government
 
 **Относится к**
 
 -  Центр партнеров для Microsoft Cloud for US Government
+
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
+-   Агент администрирования
+-   Агент по продажам
+-   Администратор выставления счетов
 
 ## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud для правительства США: соответствие требованиям к защите данных 
 

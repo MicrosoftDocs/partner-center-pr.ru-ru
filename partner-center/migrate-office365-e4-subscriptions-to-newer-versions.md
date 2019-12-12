@@ -8,18 +8,24 @@ description: Microsoft Office 365 корпоративный E4 перестал
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: dab5bd048fc04cbf6cc46507dc8f3ecc7bb6d6ce
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 314711a3f640ad6a228a437e35fe0d8a543e4da5
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654320"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004572"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Перенос подписок Office 365 E4 на новые версии Office 365
 
 **Относится к**
 
 -  Центр партнеров
+
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
+-   Агент администрирования
+-   Агент по продажам
 
 План Office 365 корпоративный E4 устарел 7 апреля 2017 г. После этого дня нельзя приобрести новые подписки Office 365 E4, а существующие подписки E4 не будут автоматически обновляться после истечения их срока действия.
 

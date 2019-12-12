@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/10/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Всем сотрудникам, кто будет работать в Центре партнеров, необходимо назначить роль.
+description: Узнайте, какие роли лучше подходят для пользователей, управляющих коммерческими транзакциями, рекомендациями, поощрениями и членством в MPN для вашей компании.
 author: LauraBrenner
 ms.author: labrenne
 keywords: роли, разрешения, администратор, агент
 ms.localizationpriority: high
-ms.openlocfilehash: aa2eb2561332f730abedd2416813189abe6dc02d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: f49417eea3a2d8b06713cd53355eef68c81d179e
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652424"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943137"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Назначение пользователям ролей и разрешений
 

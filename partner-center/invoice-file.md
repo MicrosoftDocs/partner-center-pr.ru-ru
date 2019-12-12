@@ -8,14 +8,20 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: выставление счетов, счет
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b3219b5752de59b9dde81343b8bd4e1128037bd
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 05a5f7df1b0abf34680fbc836a99738434758f92
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389842"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004573"
 ---
 # <a name="invoice-files"></a>Файлы накладных
+
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
+-   Администратор выставления счетов
+-   Агент службы технической поддержки
 
 Для понимания полей в файлах счетов центра партнеров можно использовать следующие таблицы.
 
@@ -52,7 +58,7 @@ ms.locfileid: "74389842"
 
 | Поле | Определение |
 | ----- | ---------- |
-| Date | Дата покупки. |
+| Дата | Дата покупки. |
 | Описание | Название продукта. |
 | Количество | Количество приобретенных продуктов (например, резервирования). |
 | Цена за единицу | Цена за продукт (например, резервирование). |

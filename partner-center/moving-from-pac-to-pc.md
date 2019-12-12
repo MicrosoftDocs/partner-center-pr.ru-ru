@@ -9,18 +9,21 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, администрирование Office 365, возможности PAC
 ms.localizationpriority: medium
-ms.openlocfilehash: c68d09a658bf4d9cf65f54494a3ef30376a9692f
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0dcf232e68b14a2dd4264b489c7325a9eccc190f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943567"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004233"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Переход от Центра администрирования партнеров (PAC) к Центру партнеров
 
-Область применения
+**Относится к**
 - Центр партнеров
 - Центр администрирования партнеров
+
+**Соответствующие роли**
+-   Глобальный администратор
 
 Центр партнеров превращается в единый ресурс, который позволяет управлять отношениями с корпорацией Майкрософт и клиентами. В Центре партнеров можно управлять членством, авторов клиентов, поощрениями и всеми другими аспектами программы поставщиков облачных решений (CSP). В Центре партеров можно делать большую часть операций, которые выполнялись в PAC, хотя некоторые функции или действия будут отличаться. 
 

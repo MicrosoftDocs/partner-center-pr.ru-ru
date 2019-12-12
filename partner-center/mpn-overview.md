@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Узнайте о преимуществах партнерских отношений с Майкрософт. Microsoft Partner Network предоставляет широкий спектр продуктов в отрасли, а также разнообразные программы для дифференциации бизнеса, выхода на рынок и продажи решений.
+description: Узнайте о преимуществах партнерских отношений с корпорацией Майкрософт, в том числе об Action Pack от Майкрософт, компетенциях и возможностях программы, которые помогут вам выделиться на фоне конкурентов, выйти на рынок со своими решениями и успешно их продавать.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: партнер, сотрудничество, MPN, Microsoft Partner Network, Action Pack, MAPS, подписка Action Pack, преимущества, преимущества MPN, членство, Silver, Gold, компетенции
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: ca47417870c2308758fe6e7db5ed9dfc5ae2a4fc
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 9559f4329846855948d67105e0033466756ac0de
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096528"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943317"
 ---
 # <a name="partner-with-microsoft"></a>Партнерство с Майкрософт
 

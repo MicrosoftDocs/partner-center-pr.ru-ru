@@ -7,18 +7,23 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: Office, O365, службы PSTN, налоги, требования, счет, выставление счетов
 ms.localizationpriority: medium
-ms.openlocfilehash: b6359a49503237e72c8cffdb5758bdd418910306
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 2edf62c8a2157bc2b75855833ddbc7a63e7c6bb0
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384815"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005063"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Партнерское рекомендательное по Office 365: Microsoft 365 Voice в CSP
 
 **Относится к**
 
 - Центр партнеров  
+
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
+-   Агент администрирования
 
 Общедоступные службы коммутируемых телефонных сетей (PSTN) в некоторых странах могут подвергаться специальным налогам и нормативным требованиям, которые могут повлиять на заказ партнеров и на выставление счетов.  В США, Пуэрто-Рико и Канаде, Skype для бизнеса PSTN и Microsoft 365 Voice Services действуют специальные налоговые и нормативные требования. В США и Пуэрто-Рико службы Microsoft ценах PSTN в качестве налогов включительно.  Уникальные налоги и нормы PSTN повлияют на партнеров Office 365, которые взаимодействуют Microsoft 365 голосовыми продуктами.  Если партнер повышает цену службы ТСОП Майкрософт, на них может лечь ответственность за расчет и уплату налогов и сборов ТСОП.
 

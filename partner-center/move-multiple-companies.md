@@ -9,14 +9,20 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, миграция, переход в Центр партнеров
 ms.localizationpriority: medium
-ms.openlocfilehash: 0049b2d553e04340ac934c071adc4442eb2f7ce0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 86648df24680fb0a5d9b7b494fdcf1110fec26c8
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943587"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004693"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>Перенос нескольких компаний в Центр партнеров
+
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
+-   Агент администрирования
+-   Агент по продажам
 
 При перемещении учетной записи компании из PMC в Центр партнеров вы можете переместить несколько учетных записей. В Центре партнеров эти учетные записи будут объединены в одну глобальную учетную запись (PGA). Первая учетная запись, которую вы перемещаете, будет считаться основной глобальной учетной записью, а все последующие будут консолидироваться в первую учетную запись как расположения. Начните перемещение с учетной записью PMC для центрального офиса организации. Дополнительные сведения см. в статье [Guide to migrating from PMC to Partner Center](guide-to-migration.md) (Руководство по переходу из PMC в Центр партнеров) или просмотрите это короткое видео [Multi-location accounts made easy](https://vimeo.com/290335248) (Упрощение учетных записей в разных расположениях).
 

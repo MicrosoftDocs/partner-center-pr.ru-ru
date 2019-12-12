@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/09/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Сведения о требованиях к безопасности для консультантов и партнеров, участвующих в программе для поставщиков облачных решений.
+description: Общие сведения о включении многофакторной проверки подлинности (MFA) и внедрении платформы "Модель безопасных приложений", которая теперь является обязательной для партнеров.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, поставщик облачных решений, программа поставщика облачных решений, CSP, поставщик панели управления, CPV, многофакторная проверка подлинности, MFA, модель безопасного приложения, безопасность
 ms.localizationpriority: high
-ms.openlocfilehash: b481bd3e8729c63425c45e1f9767722130dc0833
-ms.sourcegitcommit: bf10a7123490ab08c6c3a58cec7045c5d38d16cc
+ms.openlocfilehash: c117bd828f5f74a56490e52c1123ac3a973ccae6
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "73964215"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943307"
 ---
 # <a name="partner-security-requirements"></a>Требования к безопасности для партнеров
 

@@ -9,18 +9,25 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8aa501512a86f65c0a78c49f01c843286fcd120f
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 61ed931a33d0eec9cb2858a3cf653e69610c2b8f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384598"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005033"
 ---
 # <a name="company-tax-information"></a>Сведения о налогах компании
 
-Относится к:
+**Относится к**
 
 - Центр партнеров
+
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
+-   Администратор выставления счетов
+-   Агент администрирования
+-   Агент по продажам
 
 Налоги на покупки в Центре партнеров рассчитываются в соответствии с вашим рабочим адресом. Компании в некоторых странах могут [предоставить свой налоговый номер (VAT)](#submit-vat-id-number) или местный эквивалент.
 

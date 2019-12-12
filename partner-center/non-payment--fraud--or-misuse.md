@@ -11,12 +11,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: d59ad89c69e21bc2d88fc1229f80cb4f5f660dbc
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 105ae9e31400284148bd7639c6a4498d5b5f5f1c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943527"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005083"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Управление неоплатой, мошенничеством или неправильным использование в центре партнеров
 
@@ -24,6 +24,12 @@ ms.locfileid: "74943527"
 
 - Центр партнеров
 - Центр партнеров для Microsoft Cloud for US Government
+
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
+-   Агент администрирования
+-   Администратор выставления счетов
 
 Вы несете финансовую ответственность за мошеннические покупки ваших клиентов и (или) неоплату клиентами купленных служб. Поэтому *настоятельно рекомендуется полагаться на размещение средств предотвращения мошенничества и обнаружения рисков*.
 

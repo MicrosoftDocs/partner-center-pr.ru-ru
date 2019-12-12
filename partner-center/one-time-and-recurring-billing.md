@@ -7,17 +7,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: выставление счетов, однократная, повторяющаяся, покупка, оплата, независимый поставщик
 ms.localizationpriority: medium
-ms.openlocfilehash: f2ccd0d1240d39409db53d668bac32001c678b09
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 1bed32e8068f1f9276c385f790f31222ec6b269d
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389692"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005043"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>Выставление счетов для одноразовых платежей и выбор повторяющихся платежей
 
+**Относится к**
 - Центр партнеров
 - Партнеры в программе CSP
+
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
+-   Администратор выставления счетов
+-   Агент администрирования
+-   Агент по продажам
 
 В этом разделе описываются возможности выставления счетов за **одноразовый период и выбирается Регулярная оплата** продуктов Майкрософт и независимых поставщиков программного обеспечения (ISV). 
 

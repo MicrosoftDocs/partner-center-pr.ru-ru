@@ -3,17 +3,17 @@ title: Соответствие требованиям к безопасност
 ms.date: 10/11/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Будьте в курсе, соответствует ли ваша компания требованиям MFA.
+description: Узнайте о новых обязательных требованиях, повышающих уровень безопасности для консультантов, поставщиков панелей управления и партнеров в рамках программы "Поставщик облачных решений".
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, поставщик облачных решений, программа поставщика облачных решений, CSP, поставщик панели управления, CPV, многофакторная проверка подлинности, MFA, модель безопасного приложения, безопасность
 ms.localizationpriority: high
-ms.openlocfilehash: f3736f73f983fce74620df2f7a8ad1d6cce19984
-ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
+ms.openlocfilehash: 7e8226009e9f214e420475dbd350f2bcb3984414
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/21/2019
-ms.locfileid: "74295261"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943117"
 ---
 # <a name="partner-security-requirements-status"></a>Соответствие требованиям к безопасности для партнеров
 

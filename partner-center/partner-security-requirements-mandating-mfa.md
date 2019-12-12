@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, поставщик облачных решений, программа поставщика облачных решений, CSP, поставщик панели управления, CPV, многофакторная проверка подлинности, MFA, модель безопасного приложения, безопасность
 ms.localizationpriority: medium
-ms.openlocfilehash: f0beb695bee9a67f79373ea903158de3fbb66851
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: dd54d10bb75fe732cddc34c48058b3ba95eac9ae
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943107"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004993"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Предписывания многофакторной идентификации (MFA) для клиента-партнера
 
@@ -25,6 +25,13 @@ ms.locfileid: "74943107"
   - непрямой поставщик;
   - Косвенный торговый посредник
 - Всем консультантам.
+
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
+-   Агент администрирования
+-   Администратор выставления счетов
+-   Администратор партнера MPN
 
 Эти партнеры должны пройти проверку MFA для следующих областей:
 

@@ -10,19 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: выставление счетов за подписки, выставление счетов, выставления счетов в центре партнеров, просмотр счета, счет, счет центра партнеров, счет CSP, где мой счет?
 ms.localizationpriority: medium
-ms.openlocfilehash: 2f7fe5c2a3348e89cb69fc0d4e89b97f56fb2083
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: dc4c8ad1e0f12586ed1e75670806c463ca9cee54
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384826"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004833"
 ---
 # <a name="read-your-bill"></a>Просмотр счета
 
-Относится к:
+**Относится к**
 
 - Центр партнеров
 - Центр партнеров для Microsoft Cloud for US Government
+
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
+-   Администратор выставления счетов
+-   Агент администрирования
+-   Администратор партнера MPN
 
 Ваш **счет** представляет собой **сводку всех расходов центра партнеров** (в рамках всей программы, всех продуктов и всех клиентов) за **текущий расчетный период**.
 

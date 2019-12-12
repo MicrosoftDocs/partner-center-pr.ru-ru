@@ -11,14 +11,19 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 87ee210307f5e3f28ae5ac9c7a73b5319536043c
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 012e60996c6c34ffb0f71d48d0ba92141e393ae7
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943127"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004363"
 ---
 # <a name="partner-contribution-indicators"></a>Индикаторы вклада партнеров
+
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
+-   Агент администрирования
 
 Индикаторы участия партнера (PCI) предоставляют целостную меру влияния партнера на выполнение успешных результатов клиента для Dynamics 365. Партнеры получают более широкие отличия на рынке при достижении и обслуживании компетенции облачной Business Applications.  Партнеры получают баллы за ключевые показатели успеха клиента, такие как успешные развертывания и повышение уровня использования, а также возросли на то, чтобы продолжить вкладывать и масштабировать свои технические возможности. 
 

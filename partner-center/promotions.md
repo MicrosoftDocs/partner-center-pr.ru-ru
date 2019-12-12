@@ -8,16 +8,22 @@ description: В качестве партнера корпорации Майк�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c63283038a4bc8eb7738567f6316df37911d3361
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: dd69d76c2158b454190c5cfac568f7260472c9dc
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652145"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004843"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Использование рекламных акций для привлечения новых клиентов  
 
 **Область применения: центр партнеров**
+
+**Соответствующие роли**
+-   Агент администрирования
+-   Администратор партнера MPN
+-   Администратор выставления счетов
+-   Агент по продажам
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 

@@ -10,18 +10,24 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 67df5278d9c9f9f757e904d55ae6a688bbb8c5bc
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: eba413fd3955db8dedc5ffe57747739368adcaa6
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943477"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004963"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Аналитика Центра партнеров для Power BI (для прямых партнеров в CSP)
 
 **Относится к**
 
 - Центр партнеров
+
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
+-   Агент по продажам
+-   Агент администрирования
 
 Получите визуальное представление бизнес-данных с помощью приложения "Аналитика Центра партнеров для Power BI". Приложение, разработанное для прямых партнеров в программе поставщиков облачных решений (CSP), интегрируется со знакомой платформой Power BI. 
 

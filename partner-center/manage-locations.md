@@ -9,14 +9,21 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Учетная запись партнера, расположения
 ms.localizationpriority: medium
-ms.openlocfilehash: fe4e2cca922b479bfdec92feb5b21d8824546e23
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 28c5134251eef06194b8c5ee34fcf440c2224839
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943507"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004703"
 ---
 # <a name="manage-your-partner-account-locations"></a>Управление учетной записью партнера: расположения
+
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
+-   Администратор выставления счетов
+-   Агент администрирования
+-   Агент по продажам
 
 Расположение MPN ID определяет каждое конкретное расположение компании. Чтобы добавить новые подписки и другие бизнес-транзакции, используйте идентификатор MPN Location для регистрации в программе поощрений, а также для добавления новых подписок в бизнес-службу поставщика облачных решений (CSP). Идентификатор компании MPN используется для нетранзакционных действий, таких как запросы на поддержку.
 

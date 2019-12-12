@@ -9,12 +9,12 @@ ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b218d8d82506d50c21957f406eef6874eefbb7a
-ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
+ms.openlocfilehash: 5dfdd0a579f323e7d6cb0af0dffbdb7bac29cf38
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "74189072"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005093"
 ---
 # <a name="multi-channel-support"></a>Поддержка нескольких каналов
 
@@ -23,6 +23,10 @@ ms.locfileid: "74189072"
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud for US Government
 
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
+-   Агент по продажам
 
 Многоканальная функция центра партнеров поддерживает сценарии, когда клиент хочет нанять партнера для управления и поддержки подписки, приобретенной в других местах. Поддержка нескольких каналов применима, если клиент:
 
@@ -44,7 +48,7 @@ ms.locfileid: "74189072"
 <tr class="even">
 <td><p><strong>Службы на основе использования</strong></p></td>
 <td>
-<p>Для клиента, у которого уже есть подписка на Microsoft Azure из другого канала, например Advisor, Open или EA,&#39;необходимо создать новую подписку Azure в центре партнеров, вручную ввести сведения о подписке, а затем отменить индивидуальную службы или всю подписку. Azure CSP может сосуществовать с разными каналами.</p>
+<p>Для клиента, у которого уже есть подписка на Microsoft Azure из другого канала, например Advisor, Open или EA,&#39;необходимо создать новую подписку Azure в центре партнеров, вручную ввести сведения о подписке, а затем отменить отдельные службы или всю подписку. Azure CSP может сосуществовать с разными каналами.</p>
 <p>Для пользователя, у которого уже есть подписка на Microsoft Azure от другого партнера, например, можно переключить службы Azure на другого партнера.  Подробнее см. в разделе <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Переключение подписок Azure на другого партнера</a>.</p>
 </td>
 </tr>

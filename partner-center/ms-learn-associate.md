@@ -10,14 +10,18 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: роли, разрешения, Добавление пользователя, назначение роли, администратор, агент, идентификатор MCP, Microsoft Learn
 ms.localizationpriority: medium
-ms.openlocfilehash: ef53e08af725130b3c13384929afa0a549d0837c
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0457974ff283e8e21a717ca8a0beedf8ce16fa54
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943557"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004283"
 ---
 # <a name="associate-your-microsoft-learn-account-in-partner-center"></a>Связывание учетной записи Microsoft Learn в центре партнеров
+
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
 
 Чтобы ваша организация могла видеть пути обучения и обучения, которые вы предпоставили для компетенций, необходимо связать идентификатор MCP с учетной записью центра партнеров. Это можно сделать вручную после добавления в качестве пользователя центра партнеров.
 

@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Полномочные партнеры по обучению, образование, продажи в образовательных учреждений, школы
 ms.localizationpriority: medium
-ms.openlocfilehash: 91dedab427478cd2e7608e35fb3cb1444fd0a7a0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: ecce16a09dc4c5b415e0553b038b1810ab16197f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943497"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004553"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Продажа подписок на Minecraft: Education Edition клиентам из образовательной сферы
 
 **Относится к**
 
 -  Центр партнеров
+
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
+-   Агент по продажам
+-   Агент администрирования
 
 Партнеры, которые работают с образовательными учреждениями, могут предлагать им подписки на **Minecraft: Education Edition**. Вы приобретаете подписку от имени клиента в центре партнеров, а затем клиент загружает программное обеспечение из [Microsoft Store для образовательных учреждений](https://educationstore.microsoft.com). 
 

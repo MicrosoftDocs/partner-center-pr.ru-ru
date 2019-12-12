@@ -9,14 +9,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, миграция, переход в Центр партнеров
 ms.localizationpriority: medium
-ms.openlocfilehash: 77754e9fac432e7ec7e75fd0acbb4b6d8fbe1088
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: a05225d9f6a6de9f6bdf66912f8e35b47ccae78f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943487"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004293"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Переход от PMC к Центру партнеров
+
+**Соответствующие роли**
+-   Глобальный администратор
 
 Мы упростили ведение деловой деятельности с нами, представив единый веб-сайт (Центр партнеров), который выступает в качестве центральной точки взаимодействия. Все, что вы делали в Partner Membership Center (PMC), можно выполнить на Панели мониторинга Центра партнеров. 
 
