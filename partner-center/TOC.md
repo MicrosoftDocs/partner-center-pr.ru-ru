@@ -21,6 +21,7 @@
 ## Преимущества
 ### [Обзор преимуществ](manage-your-partner-network-benefits.md)
 ### [Преимущества для выхода на рынок](mpn-learn-about-go-to-market-benefits.md)
+## [Управление вознаграждениями Marketplace](marketplace-rewards.md)
 ## [Программы Software Assurance](software-assurance-lp.md)
 ### [Ваучерная программа обучения Software Assurance (SATV) в Центре партнеров](software-assurance-satv.md)
 ### [Использование инструмента проверки и погашения ваучеров в Центре партнеров для проверки, резервирования и погашения ваучеров](voucher-validation-tool.md)
@@ -61,6 +62,7 @@
 ## [Восстановление приостановленной учетной записи Центра партнеров](suspended-partner-center-account.md)
 ## [Создание учетных записей пользователей](create-user-accounts-and-set-permissions.md)
 ## [Назначение пользователям ролей и разрешений](permissions-overview.md)
+## [Добавление приложения Azure AD](service-principal.md)
 ## [Связывание учетной записи Microsoft Learn с Центром партнеров](ms-learn-associate.md)
 ## [Проверка вашего владения доменом](become-global-admin.md)
 ## [Сброс пароля пользователя](reset-a-user-password.md)
