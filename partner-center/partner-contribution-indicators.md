@@ -1,101 +1,91 @@
 ---
-title: Индикаторы вклада партнеров | Центр партнеров
+title: Ценная информация центра партнеров | Центр партнеров
 ms.topic: article
-ms.date: 11/14/2019
+ms.date: 12/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте, что именно вам удобно, и где можно улучшить работу с участием клиентов Dynamics 365 или Dynamics 365 Finance и Operations.
+description: Узнайте, что именно вам удобно, и где можно улучшить вопросы продаж и развертывания и разработки клиентов.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: PCI, эффективность, успех клиента, измерения, Dynamics 365
+keywords: PCI, производительность, успешный клиент, измерения,
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 012e60996c6c34ffb0f71d48d0ba92141e393ae7
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: cec1fd9121f82392b4bd2bbbbf5ffb946547f83d
+ms.sourcegitcommit: 5117782b6f9067894c1c319d022291c6c4219cac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004363"
+ms.lasthandoff: 12/16/2019
+ms.locfileid: "75033500"
 ---
-# <a name="partner-contribution-indicators"></a><span data-ttu-id="85204-104">Индикаторы вклада партнеров</span><span class="sxs-lookup"><span data-stu-id="85204-104">Partner contribution indicators</span></span>
+# <a name="partner-center-insights"></a><span data-ttu-id="dd281-104">Ценная информация центра партнеров</span><span class="sxs-lookup"><span data-stu-id="dd281-104">Partner Center Insights</span></span>
 
-<span data-ttu-id="85204-105">**Соответствующие роли**</span><span class="sxs-lookup"><span data-stu-id="85204-105">**Appropriate roles**</span></span>
--   <span data-ttu-id="85204-106">Глобальный администратор</span><span class="sxs-lookup"><span data-stu-id="85204-106">Global admin</span></span>
--   <span data-ttu-id="85204-107">администратор пользователей.</span><span class="sxs-lookup"><span data-stu-id="85204-107">User admin</span></span>
--   <span data-ttu-id="85204-108">Агент администрирования</span><span class="sxs-lookup"><span data-stu-id="85204-108">Admin agent</span></span>
+<span data-ttu-id="dd281-105">**Соответствующие роли**</span><span class="sxs-lookup"><span data-stu-id="dd281-105">**Appropriate roles**</span></span>
+- <span data-ttu-id="dd281-106">Глобальный администратор</span><span class="sxs-lookup"><span data-stu-id="dd281-106">Global admin</span></span>
+- <span data-ttu-id="dd281-107">Администратор учетных записей</span><span class="sxs-lookup"><span data-stu-id="dd281-107">Account admin</span></span>
+- <span data-ttu-id="dd281-108">Средство просмотра отчетов руководителя</span><span class="sxs-lookup"><span data-stu-id="dd281-108">Executive report viewer</span></span>
+- <span data-ttu-id="dd281-109">Средство просмотра отчетов</span><span class="sxs-lookup"><span data-stu-id="dd281-109">Report viewer</span></span>
 
-<span data-ttu-id="85204-109">Индикаторы участия партнера (PCI) предоставляют целостную меру влияния партнера на выполнение успешных результатов клиента для Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="85204-109">Partner Contribution Indicators (PCI) provides a holistic measure of a partner’s impact in driving successful customer outcomes for Dynamics 365.</span></span> <span data-ttu-id="85204-110">Партнеры получают более широкие отличия на рынке при достижении и обслуживании компетенции облачной Business Applications.</span><span class="sxs-lookup"><span data-stu-id="85204-110">Partners receive greater differentiation in the market when they attain and maintain the Cloud Business Applications competency.</span></span>  <span data-ttu-id="85204-111">Партнеры получают баллы за ключевые показатели успеха клиента, такие как успешные развертывания и повышение уровня использования, а также возросли на то, чтобы продолжить вкладывать и масштабировать свои технические возможности.</span><span class="sxs-lookup"><span data-stu-id="85204-111">Partners receive credit for key measures of customer success, such as successful deployments and increasing usage, and are rewarded for continuing to invest in and scale out their technical capabilities.</span></span> 
+<span data-ttu-id="dd281-110">Insights — это единая панель мониторинга отчетов в центре партнеров для коммерческих партнеров корпорации Майкрософт, зарегистрированных в программе Microsoft Partner Network (MPN).</span><span class="sxs-lookup"><span data-stu-id="dd281-110">Insights is a unified reporting dashboard in Partner center for Microsoft’s Commercial partners who are enrolled in the Microsoft Partner Network (MPN) program.</span></span> <span data-ttu-id="dd281-111">Панель мониторинга Insights предоставляет 360 градусов для просмотра ключевых показателей эффективности в облачных продуктах, таких как Office, Azure, Dynamics и модели лицензирования, такие как CSP и EA.</span><span class="sxs-lookup"><span data-stu-id="dd281-111">The Insights dashboard provides 360 degree view of your key performance indicators (kpi) across Cloud products such as Office, Azure, Dynamics, and licensing models such as CSP and EA.</span></span> <span data-ttu-id="dd281-112">Он предоставляет широкий набор отчетов о ключевых показателях эффективности, которые могут помочь в принятии решений, управляемых данными в Организации.</span><span class="sxs-lookup"><span data-stu-id="dd281-112">It exposes a rich set of KPI reports that can help you make data driven decisions for your organization.</span></span> 
 
-## <a name="scoring"></a><span data-ttu-id="85204-112">Оценка</span><span class="sxs-lookup"><span data-stu-id="85204-112">Scoring</span></span>
+## <a name="roles-based-access-control-to-the-insights-dashboard"></a><span data-ttu-id="dd281-113">Управление доступом на основе ролей к панели мониторинга Insights</span><span class="sxs-lookup"><span data-stu-id="dd281-113">Roles based access control to the Insights dashboard</span></span>
 
-<span data-ttu-id="85204-113">PCI обеспечивает комплексное, целостное представление технических возможностей вашей компании, возможность управлять успешным выполнением клиентов и продуктивностью продаж.</span><span class="sxs-lookup"><span data-stu-id="85204-113">PCI provides a sophisticated, holistic view of your company’s technical capabilities, ability to drive customer success, and sales performance.</span></span> <span data-ttu-id="85204-114">PCI измеряет производительность прошлого года компании в семи ключевых индикаторах:</span><span class="sxs-lookup"><span data-stu-id="85204-114">PCI measures your company’s prior-year performance across seven key indicators:</span></span>
+<span data-ttu-id="dd281-114">В центре партнеров есть две новые роли, специально предназначенные для доступа к аналитическим средствам просмотра отчетов и руководителю отчетов.</span><span class="sxs-lookup"><span data-stu-id="dd281-114">There are two new roles in Partner center designed specifically for access to Insights - Report Viewer and Executive Report Viewer.</span></span>  <span data-ttu-id="dd281-115">Пользователи в роли средства просмотра отчетов руководителя имеют доступ ко всем наборам данных отчетов, а пользователи в роли средства просмотра отчетов не будут иметь доступ к конфиденциальным наборам, таким как доход, а также персональные данные клиентов и сотрудников.</span><span class="sxs-lookup"><span data-stu-id="dd281-115">Users in the Executive Report Viewer role have access to all reporting datasets, while users in the Report Viewer role will not have access to sensitive data sets such as revenue and customer/employee personal data.</span></span> 
 
-1. <span data-ttu-id="85204-115">**Чистая новая прибыль** — чистая новая прибыль по всем каналам продаж для продуктов Microsoft Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="85204-115">**Net new revenue** — Net new revenue across all sales channels for Microsoft Dynamics 365 products.</span></span>
-2. <span data-ttu-id="85204-116">**Добавление клиентов NET** — клиенты, приобретенные для Dynamics 365 по всем каналам продаж.</span><span class="sxs-lookup"><span data-stu-id="85204-116">**Net customer adds** — Net customers acquired for Dynamics 365 across all sales channels.</span></span>
-3. <span data-ttu-id="85204-117">**Функциональные консультанты** — количество человек, занимающихся действующей в настоящее время функциональным консультантом связь с сертификатом для Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="85204-117">**Functional consultants** — Number of individuals holding a currently active Functional Consultant Associate certification for Dynamics 365.</span></span>
-4. <span data-ttu-id="85204-118">**Функциональный рост консультанта** — рост количества функциональных партнеров, начиная с 31 марта 2020.</span><span class="sxs-lookup"><span data-stu-id="85204-118">**Functional consultant growth** — Growth in the number of Functional Consultant Associates since March 31, 2020.</span></span>
-5. <span data-ttu-id="85204-119">**Разработчики** — количество человек, занимающихся назначением текущего активного в настоящее время сертификата для Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="85204-119">**Developers** — Number of individuals holding a currently active Developer Associate certification for Dynamics 365.</span></span>
-6. <span data-ttu-id="85204-120">**Новые крупные развертывания** — количество рабочих клиентов, которые пересекают пороговое значение высокой загрузки за последние 12 месяцев.</span><span class="sxs-lookup"><span data-stu-id="85204-120">**New large deployments** — Number of production tenants that cross the high-usage threshold over the past 12 months.</span></span>
-7. <span data-ttu-id="85204-121">**Ежемесячное увеличение числа активных** пользователей — рост числа ежемесячных активных клиентов за последние 12 месяцев.</span><span class="sxs-lookup"><span data-stu-id="85204-121">**Monthly active user growth** — Growth in monthly active users across all your customers over the past 12 months.</span></span>
+<span data-ttu-id="dd281-116">Глобальный администратор или администратор учетной записи может назначить пользователей эти роли и назначить их для всей компании или для определенного расположения MPN.</span><span class="sxs-lookup"><span data-stu-id="dd281-116">The Global admin or the Account admin can assign users these roles and are assigned either for the entire company or for a specific MPN location.</span></span>  
 
-<span data-ttu-id="85204-122">Точки предоставляются для каждого полученного индикатора, что приводит к получению однозначного рейтинга PCI.</span><span class="sxs-lookup"><span data-stu-id="85204-122">Points are granted for each achieved indicator, resulting in a single-number PCI score.</span></span> <span data-ttu-id="85204-123">100. Максимальное число точек.</span><span class="sxs-lookup"><span data-stu-id="85204-123">100 maximum points are possible.</span></span> <span data-ttu-id="85204-124">Оценка PCI определяет права на компетенцию:</span><span class="sxs-lookup"><span data-stu-id="85204-124">PCI score determines competency eligibility:</span></span>
+>[!Note] 
+><span data-ttu-id="dd281-117">Пользователи, которые были MPN администраторами по состоянию на Декабрь 2, 2019 были автоматически добавлены в роль средства просмотра отчетов всей компании.</span><span class="sxs-lookup"><span data-stu-id="dd281-117">Users who were MPN admins as of Dec 2, 2019 were automatically added to the company-wide report viewer role.</span></span> <span data-ttu-id="dd281-118">Они могут обращаться к отчетам в качестве средства просмотра отчетов без явного действия, необходимого глобальному администратору или администратору учетной записи. Глобальные администраторы или администратор учетных записей могут при необходимости переопределить эти назначения.</span><span class="sxs-lookup"><span data-stu-id="dd281-118">They are able to access the reports as a report viewer without any explicit action required by Global admin or Account admin. The Global admins or account admin can override these assignments if necessary.</span></span> 
 
-![Оценки PCI](images/pcinew1.png)
+## <a name="reports-available"></a><span data-ttu-id="dd281-119">Доступные отчеты</span><span class="sxs-lookup"><span data-stu-id="dd281-119">Reports available</span></span>
 
-<span data-ttu-id="85204-126">Каждый индикатор помещает оценку, которая добавляется к общему итогу.</span><span class="sxs-lookup"><span data-stu-id="85204-126">Each indicator brings a score that is added to the total.</span></span> <span data-ttu-id="85204-127">Ниже приведены максимальные показатели для каждого индикатора.</span><span class="sxs-lookup"><span data-stu-id="85204-127">Here are the maximum scores for each indicator:</span></span>
+<span data-ttu-id="dd281-120">Следующие отчеты доступны в составе панели мониторинга Insights.</span><span class="sxs-lookup"><span data-stu-id="dd281-120">The following reports are available as part of the Insights dashboard.</span></span>
 
+<span data-ttu-id="dd281-121">**Общие сведения**    В обзорном отчете представлено создание моментального снимка различных ключевых показателей эффективности, таких как число клиентов, число активных подписок, доход потребления Azure, активные лицензии и т. д.</span><span class="sxs-lookup"><span data-stu-id="dd281-121">**Overview**    Overview report presents a snapshot view of various KPIs of interest to you such as Customer count, Active Subscriptions count, Azure Consumption Revenue, Active licenses etc.</span></span>
 
-![производительность PCI 2](images/pci1.png)
+<span data-ttu-id="dd281-122">**Клиент** Отчет по клиентам предоставляет аналитические сведения о заказчиках, например данные о приобретении клиентов, активных клиентах и т. д.</span><span class="sxs-lookup"><span data-stu-id="dd281-122">**Customer** Customer report presents analytics around your customers such as Customer acquisition data, Active customers etc.</span></span> 
 
-### <a name="thresholds"></a><span data-ttu-id="85204-129">Пороговые значения</span><span class="sxs-lookup"><span data-stu-id="85204-129">Thresholds</span></span>
+<span data-ttu-id="dd281-123">**Продукт — подписки**     В отчете о подписках представлена аналитика приобретения и использования для облачных подписок (например, Office 365, Azure, Dynamics и т. д.).</span><span class="sxs-lookup"><span data-stu-id="dd281-123">**Product - Subscriptions**     Subscriptions report presents acquisition and usage analytics for your Cloud subscriptions (e.g. O365, Azure, Dynamics etc.)</span></span> 
 
-<span data-ttu-id="85204-130">Каждая метрика PCI имеет пороговые значения, заданные корпорацией Майкрософт, которые могут принести вашей компании максимальные баллы.</span><span class="sxs-lookup"><span data-stu-id="85204-130">Each PCI metric has Microsoft-set thresholds that can earn your company maximum points.</span></span> <span data-ttu-id="85204-131">Эти пороговые значения отличаются для планов Customer Engagement и Finance and Operations.</span><span class="sxs-lookup"><span data-stu-id="85204-131">These thresholds differ for Customer Engagement and Finance & Operations.</span></span> <span data-ttu-id="85204-132">Пороговые значения также отличаются для партнеров, работающих на развитых рынках, и для тех, кто работает исключительно на новых рынках.</span><span class="sxs-lookup"><span data-stu-id="85204-132">The thresholds also differ for partners operating in developed markets vs those that operate exclusively in emerging markets.</span></span> <span data-ttu-id="85204-133">Если у партнера есть один или несколько клиентов на развитом рынке, применяются пороговые значения для развитого рынка.</span><span class="sxs-lookup"><span data-stu-id="85204-133">If a partner has one or more customers in a developed market, the developed market thresholds apply.</span></span> <span data-ttu-id="85204-134">Разработанная или развивающаяся классификация рынка основана на [определениях Microsoft Partner Network](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).</span><span class="sxs-lookup"><span data-stu-id="85204-134">The developed or emerging market categorization of a country is based on the [Microsoft Partner Network definitions](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).</span></span>
+<span data-ttu-id="dd281-124">**Продукт — лицензии**   Панель мониторинга лицензий представляет аналитику лицензий для облачных продуктов на основе лицензий, таких как Office 365, Dynamics, Power BI и т. д.</span><span class="sxs-lookup"><span data-stu-id="dd281-124">**Product- Licenses**   Licenses dashboard presents license analytics for license-based Cloud products such as O365, Dynamics, Power BI etc.</span></span>
 
-<span data-ttu-id="85204-135">Баллы по каждой метрике подписываются для получения уникального рейтинга PCI для участия клиентов и финансовых & операций, которые будут обновляться ежемесячно.</span><span class="sxs-lookup"><span data-stu-id="85204-135">Points across each metric are tallied to yield a distinct PCI score for Customer Engagement and Finance & Operations which will be updated monthly.</span></span>
+<span data-ttu-id="dd281-125">**Продукт — использование Azure**   Отчет об использовании Azure представляет метрики, связанные с подписками Azure ваших клиентов, включая доход и использование Azure по категориям измерительных единиц.</span><span class="sxs-lookup"><span data-stu-id="dd281-125">**Product - Azure usage**   Azure Usage report presents metrics related to your customers’ Azure subscriptions including Azure consumption revenue and usage by meter categories.</span></span>
 
-<span data-ttu-id="85204-136">Партнеры могут получить максимальное количество баллов для заданной метрики, если они достигли или превысили пороговые значения, указанные ниже.</span><span class="sxs-lookup"><span data-stu-id="85204-136">Partners can earn the maximum points for a given metric if they meet or exceed the thresholds indicated below.</span></span> <span data-ttu-id="85204-137">Можно заработать часть баллов для всех метрик, за исключением метрики "Рост для консультантов по функциональным возможностям". Например, партнер на развитом рынке со 150 000 долл. США нового чистого дохода заработает половину (150 000 из 300 000) из максимальных 10 баллов.</span><span class="sxs-lookup"><span data-stu-id="85204-137">Partial points can be earned for all metrics except for Functional consultant growth, for example, a developed market partner with $150,000 in Net New Revenue will earn half ($150,000/$300,000) of the maximum 10 pts.</span></span>
+<span data-ttu-id="dd281-126">**Компетенции**    Отчет об компетенциях представляет метрики для активных, квалифицированных и рискованных компетенций.</span><span class="sxs-lookup"><span data-stu-id="dd281-126">**Competencies**    Competencies report presents metrics on your Active, Qualified and At-risk competencies.</span></span>
 
-![участие клиентов](images/pci/table_1.png)
+<span data-ttu-id="dd281-127">**Преимущества**    Отчеты о преимуществах представляют собой аналитические преимущества партнеров, которые вы получили и использовали.</span><span class="sxs-lookup"><span data-stu-id="dd281-127">**Benefits**    Benefits reports presents analytics on partner benefits you have earned vs consumed.</span></span>
 
-![Finance](images/pci/TABLE_2.png)
-
-![отделения](images/pci/table_3.png)
-
-## <a name="detailed-definitions-of-pci-metrics"></a><span data-ttu-id="85204-141">Подробные определения метрик PCI</span><span class="sxs-lookup"><span data-stu-id="85204-141">Detailed definitions of PCI metrics</span></span>
-
-![Чистая новая прибыль](images/net_new1.png)
-
-![Добавление клиентов в сеть](images/netcustomer.png)
-
-![Функциональный консультант](images/pci/functional_consultants.png)
-
-![growth](images/pci/functional_consultant_growth.png)
-
-![Разработчикам](images/pci/developers.png)
-
-![Новые развертывания](images/pci/new_large_deployments.png)
-
-![активные пользователи](images/pci/monthly_active_user_growth.png)
+## <a name="navigating-the-insights-reports"></a><span data-ttu-id="dd281-128">Навигация по отчетам Insights</span><span class="sxs-lookup"><span data-stu-id="dd281-128">Navigating the Insights reports</span></span> 
 
 
-## <a name="customer-to-partner-association"></a><span data-ttu-id="85204-149">Связь между партнером и клиентами</span><span class="sxs-lookup"><span data-stu-id="85204-149">Customer-to-partner association</span></span>
+<span data-ttu-id="dd281-129">**Фильтры диапазона дат**: выбор диапазона дат можно найти в правом верхнем углу каждой страницы.</span><span class="sxs-lookup"><span data-stu-id="dd281-129">**Date range filters**: You can find a date range selection at the top-right corner of each page.</span></span> <span data-ttu-id="dd281-130">Выходные данные графов страниц обзора можно настроить, выбрав диапазон дат на основе последних 3, 6 или 12 месяцев или выбрав Настраиваемый диапазон дат.</span><span class="sxs-lookup"><span data-stu-id="dd281-130">The output of the overview page graphs can be customized by selecting a date range based on the past 3, 6, or 12 months, or by selecting a custom date range.</span></span> <span data-ttu-id="dd281-131">По умолчанию выбран диапазон дат 12 месяцев.</span><span class="sxs-lookup"><span data-stu-id="dd281-131">The default date range selection is 12 months.</span></span> 
 
-<span data-ttu-id="85204-150">Вы получаете баллы за чистую новую прибыль, net-клиенты, новые крупные развертывания и ежемесячное увеличение активного пользователя для данного клиента в пределах определения метрики, только если вы являетесь поставщиком облачных решений (CSP), партнером по заявке на запись (КПОР). или цифровой партнер записи (DPOR) для платной подписки, принадлежащей клиенту клиента.</span><span class="sxs-lookup"><span data-stu-id="85204-150">You receive credit for Net new revenue, Net customer adds, New large deployments, and Monthly active user growth for a given customer, within the bounds of the metric definition, only if you are the Cloud Solution Provider (CSP), the Claiming Partner of Record (CPOR), or Digital Partner of Record (DPOR) for a paid subscription belonging to the customer's tenant.</span></span>
 
-<span data-ttu-id="85204-151">Партнер станет КПОР, если он установил связь с клиентом на уровне подписки с 365 помощью стимула [помощника по](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) установке и активации Dynamics 365 Online [Services](https://support.microsoft.com/en-us/help/3082044/become-eligible-for-the-online-services-usage-incentive-program) (осу).</span><span class="sxs-lookup"><span data-stu-id="85204-151">A partner becomes the CPOR if they have established association with a customer at the subscription level via the Dynamics 365 [Online Solution Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) incentive or Dynamics 365 [Online Services Usage](https://support.microsoft.com/en-us/help/3082044/become-eligible-for-the-online-services-usage-incentive-program) (OSU) incentive.</span></span>
+<span data-ttu-id="dd281-132">**Кнопка обратной связи**. Каждая диаграмма или элемент управления во всех отчетах Insights включается с кнопкой обратной связи, позволяющей предоставить отзыв о экземпляре для функции отчета.</span><span class="sxs-lookup"><span data-stu-id="dd281-132">**Feedback button**: Each chart/control in all the Insights reports is incorporated with a feedback button to let you provide instance feedback on a report feature.</span></span> 
 
-<span data-ttu-id="85204-152">Партнер получает статус DPOR, если он установил связь с клиентом на уровне подписки в рамках продукта.</span><span class="sxs-lookup"><span data-stu-id="85204-152">A partner becomes the DPOR if they have established association with a customer at the subscription level within the product.</span></span>
+ 
+<span data-ttu-id="dd281-133">**Фильтры уровня страницы**. Кроме отчетов "Обзор", "преимущества" и "компетенции", все отчеты Insights позволяют применять фильтры на уровне страниц.</span><span class="sxs-lookup"><span data-stu-id="dd281-133">**Page level filters**: Except for the Overview, Benefits, and Competencies reports, all Insights reports enable you to apply page level filters.</span></span> 
 
-<span data-ttu-id="85204-153">Если для заданной подписки получены статусы CPOR и DPOR, то партер со статусом CPOR получает все кредиты для метрик PCI, связанных с этой подпиской.</span><span class="sxs-lookup"><span data-stu-id="85204-153">When both CPOR and DPOR exist for a given subscription, the CPOR receives all credit for PCI metrics associated with the subscription.</span></span>
+- <span data-ttu-id="dd281-134">Выбранные фильтры будут применяться ко всем диаграммам и метрикам на странице, включая раздел сводки.</span><span class="sxs-lookup"><span data-stu-id="dd281-134">The filters selected will be applicable for all charts and metrics on a page, including the summary section.</span></span> <span data-ttu-id="dd281-135">Элемент фильтра будет доступен, если в критериях фильтра есть какие-либо данные.</span><span class="sxs-lookup"><span data-stu-id="dd281-135">A filter item will be available if you have any data within that filter criteria.</span></span> 
 
-## <a name="how-to-read-the-charts"></a><span data-ttu-id="85204-154">Чтение диаграмм</span><span class="sxs-lookup"><span data-stu-id="85204-154">How to read the charts</span></span>
+- <span data-ttu-id="dd281-136">По умолчанию для каждого списка фильтров выбрано значение **все**.</span><span class="sxs-lookup"><span data-stu-id="dd281-136">Default selection of each filter list is **all**.</span></span> <span data-ttu-id="dd281-137">Например, если в фильтре продуктов не выбран конкретный продукт, по умолчанию будут выбраны все продукты.</span><span class="sxs-lookup"><span data-stu-id="dd281-137">For example, if you have not selected a specific product in products filter, default selection will be all products.</span></span>
 
-![Чтение диаграмм](images/pci2.png)
+- <span data-ttu-id="dd281-138">Выбранные фильтры будут отображаться в верхней части страницы.</span><span class="sxs-lookup"><span data-stu-id="dd281-138">Filters selected will be displayed at the top of the page.</span></span> 
 
-## <a name="additional-resources"></a><span data-ttu-id="85204-156">Дополнительные ресурсы</span><span class="sxs-lookup"><span data-stu-id="85204-156">Additional resources</span></span>
+ ### <a name="filters-definition"></a><span data-ttu-id="dd281-139">Определение фильтров:</span><span class="sxs-lookup"><span data-stu-id="dd281-139">Filters definition:</span></span>
 
-<span data-ttu-id="85204-157">Дополнительные обучающие видеоматериалы, презентации, часто задаваемые вопросы и листы фактов см. в [коллекции ресурсов](https://partner.microsoft.com/asset/collection/pci-learn#/) .</span><span class="sxs-lookup"><span data-stu-id="85204-157">Please visit [Partner Contribution Indicators resource collection](https://partner.microsoft.com/asset/collection/pci-learn#/) where you can find detailed training videos, presentations, FAQs, and fact sheets.</span></span> 
+- <span data-ttu-id="dd281-140">Продукты: список всех Microsoft Cloud продуктов, проданных или управляемых вашей организацией, например O365, Azure, D365, EMS, PowerBI и т. д.</span><span class="sxs-lookup"><span data-stu-id="dd281-140">Products: List of all Microsoft Cloud products sold/managed by your organization, for example,  O365, Azure, D365, EMS, PowerBI etc.</span></span>
+- <span data-ttu-id="dd281-141">Рынки клиентов: список стран клиентов</span><span class="sxs-lookup"><span data-stu-id="dd281-141">Customer markets: List of customer countries</span></span>
+- <span data-ttu-id="dd281-142">Взаимосвязи с участниками: ваш тип сопоставления с подписками клиентов, например "цифровой партнер записи (DPOR)", "делегированные права администратора" (RAS), "Партнерский Администратор" (PAL) и т. д.</span><span class="sxs-lookup"><span data-stu-id="dd281-142">Partner attributions: Your association type with your customers subscriptions, for example,  Digital partner of record (DPOR), Delegated admin privilege (DAP), Partner Admin link (PAL) etc.</span></span> 
+- <span data-ttu-id="dd281-143">Расположения партнеров: список всех расположений MPN вашей организации.</span><span class="sxs-lookup"><span data-stu-id="dd281-143">Partner locations: List of all your organization’s MPN locations.</span></span> 
+- <span data-ttu-id="dd281-144">Каналы продаж: весь канал продаж, а также цены, с помощью которых вы покупаете и подготавливаете продукты и службы, а именно CSP, EA, CSP косвенно, прямой, помощник, Open, другие</span><span class="sxs-lookup"><span data-stu-id="dd281-144">Sales channels: All sales channel/pricing through which you are purchasing/provisioning products and services namely CSP, EA, CSP indirect, Direct, Advisor, Open, others</span></span>
+- <span data-ttu-id="dd281-145">Сегменты клиента: список сегментов клиентов в клиентской базе партнеров.</span><span class="sxs-lookup"><span data-stu-id="dd281-145">Customer segments: List of customer segments across the partners customer base.</span></span>
+
+
+
+## <a name="additional-resources"></a><span data-ttu-id="dd281-146">Дополнительные ресурсы</span><span class="sxs-lookup"><span data-stu-id="dd281-146">Additional resources</span></span>
+
+<span data-ttu-id="dd281-147">Дополнительные обучающие видеоматериалы, презентации, часто задаваемые вопросы и листы фактов см. в [коллекции ресурсов](https://partner.microsoft.com/asset/collection/pci-learn#/) .</span><span class="sxs-lookup"><span data-stu-id="dd281-147">Please visit [Partner Contribution Indicators resource collection](https://partner.microsoft.com/asset/collection/pci-learn#/) where you can find detailed training videos, presentations, FAQs, and fact sheets.</span></span> 
 
 
 
