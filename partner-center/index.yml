@@ -11,13 +11,13 @@ metadata:
   author: LauraBrenner
   ms.author: labrenne
   manager: evansma
-  ms.date: 11/20/2019
-  ms.openlocfilehash: 6b543cf8fcc25122b0c2ec48a3bd60202772f29a
-  ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+  ms.date: 12/09/2019
+  ms.openlocfilehash: fcd60389ddc743b63d49dba58d8d18a4842760f7
+  ms.sourcegitcommit: 5117782b6f9067894c1c319d022291c6c4219cac
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 11/20/2019
-  ms.locfileid: "74253688"
+  ms.lasthandoff: 12/16/2019
+  ms.locfileid: "75033520"
 highlightedContent:
   items:
   - title: Войдите, чтобы просмотреть последние объявления
@@ -127,8 +127,34 @@ conceptualContent:
       text: Дополнительные сведения
 additionalContent:
   sections:
+  - title: Работа на портале Azure
+    items:
+    - title: Управление выставлением счетов и затратами
+      links:
+      - text: Начало работы с учетной записью выставления счетов в рамках Соглашения с партнером Майкрософт
+        url: https://docs.microsoft.com/azure/billing/mpa-overview
+      - text: Начало работы с Управлением затратами Azure
+        url: https://docs.microsoft.com/azure/cost-management/get-started-partners
+      - text: Создание дополнительной подписки Azure
+        url: https://docs.microsoft.com/azure/billing/billing-create-subscription
+      - text: Создание подписок Azure программными средствами
+        url: https://docs.microsoft.com/azure/azure-resource-manager/programmatically-create-subscription?tabs=rest
+      - text: Подробнее >
+        url: https://docs.microsoft.com/azure/billing/
+    - title: Azure Lighthouse
+      links:
+      - text: Включение возможностей управления между клиентами
+        url: https://docs.microsoft.com/azure/lighthouse/concepts/cross-tenant-management-experience
+      - text: Рекомендации по работе с CSP
+        url: https://docs.microsoft.com/en-us/azure/lighthouse/concepts/cloud-solution-provider
+      - text: Подключение клиентов для управления делегированными ресурсами Azure
+        url: https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer
+      - text: Публикация предложений управляемых служб
+        url: https://docs.microsoft.com/azure/lighthouse/how-to/publish-managed-services-offers
+      - text: Подробнее >
+        url: https://docs.microsoft.com/azure/lighthouse/
   - title: Ключевые задачи и инструменты
-  - items:
+    items:
     - title: Получение Microsoft Action Pack (MAPS)
       summary: Купите или продлите предложения преимуществ, включая подписку Microsoft Action Pack.
       url: mpn-get-action-pack.md
