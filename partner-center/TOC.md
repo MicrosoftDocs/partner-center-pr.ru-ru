@@ -17,11 +17,12 @@
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Продление подписок на предложения](renew-mpn-offers.md)
 ## [Компетенции](learn-about-competencies.md)
+## [Дополнительные специализации](advanced-specializations.md)
 ## [Программа поставщиков управляемых служб Azure Expert](azure-expert-msp.md)
 ## Преимущества
 ### [Обзор преимуществ](manage-your-partner-network-benefits.md)
 ### [Преимущества для выхода на рынок](mpn-learn-about-go-to-market-benefits.md)
-## [Управление вознаграждениями Marketplace](marketplace-rewards.md)
+## [Rewards в Marketplace](marketplace-rewards.md)
 ## [Программы Software Assurance](software-assurance-lp.md)
 ### [Ваучерная программа обучения Software Assurance (SATV) в Центре партнеров](software-assurance-satv.md)
 ### [Использование инструмента проверки и погашения ваучеров в Центре партнеров для проверки, резервирования и погашения ваучеров](voucher-validation-tool.md)
