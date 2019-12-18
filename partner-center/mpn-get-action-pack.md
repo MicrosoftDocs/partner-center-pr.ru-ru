@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, продление MAPS, продление action pack, получение action pack
 ms.localizationpriority: high
-ms.openlocfilehash: fb5515ad0f27ba627d4a4a834be36b4d8f627e10
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 22aebf9d6c7098a36ac551763cd85f4de978a8ab
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943347"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005107"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Первое приобретение или продление подписки Microsoft Action Pack, а также компетенций уровня Silver или Gold.
 
@@ -22,6 +22,13 @@ ms.locfileid: "74943347"
 
 -  Центр партнеров
 -  Partner Membership Center
+
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
+-   Администратор партнера MPN
+-   Агент администрирования
+-   Агент по продажам
 
 Теперь на [Панели мониторинга](https://docs.microsoft.com/partner-center/) Центра партнеров вы можете приобрести или продлить предложения, включая подписку Microsoft Action Pack, а также компетенции уровня Silver и Gold. 
 

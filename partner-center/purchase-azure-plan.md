@@ -9,14 +9,19 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: b259f34266415885215097c54c043a6cb91249bd
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: be438f48bea120f7d55ab773bdf7cd6a96fc45ab
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943277"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004943"
 ---
 # <a name="purchase-the-azure-plan"></a>Приобретение плана Azure
+
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
+-   Агент по продажам
 
 При покупке плана Azure для клиентов в рамках клиентского договора с Майкрософт вы получите доступ к полному каталогу новейших служб Azure, для которых действуют тарифы оплаты по мере использования. У партнеров CSP теперь будет доступ к любой службе Azure, которая стала общедоступной. У партнера может быть несколько подписок Azure в одном плане Azure. 
 

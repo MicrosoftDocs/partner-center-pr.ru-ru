@@ -9,18 +9,24 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, преимущества членства, членство
 ms.localizationpriority: high
-ms.openlocfilehash: ba501542675c5686177a22b938a425ea24c5d56e
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0e1ad3c5ebc7406e815ba7e7d0c9fdc75d8bf5cf
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943597"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004533"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Управление преимуществами членства в Microsoft Partner Network
 
 **Относится к**
 
 -  Центр партнеров
+
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
+-   Агент администрирования
+-   Администратор партнера MPN
 
 >[!IMPORTANT]
 >В этой статье объясняется, как приступить к использованию преимуществ членства в Microsoft Partner Network (MPN) в Центре партнеров, то есть этот сайт. Если вы не получили приглашение на перемещение данных своей организации из Partner Membership Center (PMC) в Центр партнеров, вам следует продолжить осуществлять управление преимуществами членства MPN в PMC. [Войдите в](https://partner.microsoft.com/_login?authType=OpenIdConnect) PMC.

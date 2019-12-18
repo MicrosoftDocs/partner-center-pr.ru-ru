@@ -9,14 +9,21 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: caab446047745a63dc2116c25b24be2dcade3584
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e9456ae3a154c8040443fb38951b30efd9f39db8
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943067"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004243"
 ---
 # <a name="partner-earned-credit---overview"></a>Общие сведения о партнерских баллах
+
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
+-   Агент администрирования
+-   Администратор выставления счетов
+-   Агент по продажам
 
 Партнерский кредит в новой коммерческой модели в CSP — это бизнес-модель, которая позволяет упростить и унифицировать цены Azure для механизмов выхода на рынок корпорации Майкрософт, а также сформировать партнерскую экосистему, которая обеспечивает дополнительные управляемые службы. Партнерские баллы также помогают устранить конкуренцию по марже. 
 

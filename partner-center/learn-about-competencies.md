@@ -9,15 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: компетенции, членство уровня silver, членство уровня gold, mpn, MAPS, навыки, Microsoft Partner Network, членство в сети, дополнительные специализации
 ms.localizationpriority: high
-ms.openlocfilehash: 508480f2c9e1e67b939885bf31fafdd09e3aabc7
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1927ccdb7c24e018ff1f656f46ba1580529d127f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253672"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004813"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Сведения о компетенциях уровней Silver и Gold, а также дополнительных специализациях Майкрософт.
 
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
 
 Продемонстрируйте свой подтвержденный опыт в предоставлении качественных решений в одной или нескольких специализированных областях. Компетенции Майкрософт предназначены для подготовки организаций к удовлетворению потребностей клиентов и привлечения новых клиентов, которым нужны сертифицированные корпорацией Майкрософт поставщики решений. Присоединяйтесь к элитному уровню партнеров корпорации Майкрософт и выделитесь из подобных вам компаний.
 

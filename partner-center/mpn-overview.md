@@ -10,14 +10,20 @@ ms.author: evansma
 keywords: партнер, сотрудничество, MPN, Microsoft Partner Network, Action Pack, MAPS, подписка Action Pack, преимущества, преимущества MPN, членство, Silver, Gold, компетенции
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 9559f4329846855948d67105e0033466756ac0de
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e1d54af9ab156c94c1b9376e5e7de71a0e9d010a
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943317"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004203"
 ---
 # <a name="partner-with-microsoft"></a>Партнерство с Майкрософт
+
+**Соответствующие роли**
+-   Глобальный администратор
+-   Администратор партнера MPN
+-   администратор пользователей.
+-   Агент администрирования
 
 При присоединении к партнерской программе Майкрософт вы становитесь частью глобального сообщества, которое предоставляет вам доступ к полезным связям, аналитическим данным, средствам, ресурсам и программам, с помощью которых вы сможете удивлять своих клиентов и развивать свой бизнес.
 

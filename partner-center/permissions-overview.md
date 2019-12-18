@@ -9,15 +9,19 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: роли, разрешения, администратор, агент
 ms.localizationpriority: high
-ms.openlocfilehash: f49417eea3a2d8b06713cd53355eef68c81d179e
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e0f53e2f1aae51a1287a2e347fa9014b5d75ea03
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943137"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004133"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Назначение пользователям ролей и разрешений
 
+**Соответствующие роли**
+-   Глобальный администратор
+-   администратор пользователей.
+-   Администратор партнера MPN
 
 Вы настроили профиль партнера, включая юридическое имя и адрес, сведения о поддержке, сведения об освобождении от налогов, банковские данные и основное контактное лицо своей компании. Следующий шаг: настройте пароли и роли для пользователей, чтобы они могли начать работать с вами в Центре партнеров.
 
