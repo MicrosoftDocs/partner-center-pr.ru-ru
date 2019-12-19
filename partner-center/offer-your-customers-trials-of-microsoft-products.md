@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2c2476c87a319b386df6d5031c776efaecec3bda
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: a0f511ad2275866552e9646cf433351ae4fc3be3
+ms.sourcegitcommit: a80838c0e79f66c28b958165e910871dd37d39f0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005053"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "75185544"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Предложение клиентам пробных версий продуктов Майкрософт
 
@@ -45,7 +45,7 @@ ms.locfileid: "75005053"
 - Office 365, не PSTN
 - Enterprise Mobility & Security E5
 - План 1 Dynamics 365 Enterprise Customer Engagement
-- Dynamics 365 for Financials
+- Dynamics 365 Business Central
 - Microsoft 365 бизнес
 
 Мы предоставляем бесплатные пробные версии для этих продуктов, поскольку они являются наиболее полными и популярными бизнес-предложениями. В будущем мы можем добавить другие предложения для бесплатных пробных версий.
