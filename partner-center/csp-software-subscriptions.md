@@ -10,12 +10,12 @@ ms.author: evansma
 keywords: Поставщик облачных решений, CSP, облачные службы, Azure, Azure RI, Windows Server, SQL Server, подписки на программное обеспечение, отмена программного обеспечения
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 271eb450434047d1eee193df9f6ce02e7a2d7cf5
-ms.sourcegitcommit: fcaa85b3c080628d2c14b9133aa5780cdaf6f3be
+ms.openlocfilehash: 733c8ab6c2d15109011dfa240c2ce5954d748fea
+ms.sourcegitcommit: 855b2aed1c395b199d8aaba88ac08cc277f474ea
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "75185629"
+ms.lasthandoff: 12/19/2019
+ms.locfileid: "75190245"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Продажа подписок на программное обеспечение через программу CSP
 
@@ -52,7 +52,7 @@ ms.locfileid: "75185629"
 > | Бенин     | Гаити       | Сент-Винсент и Гренадины     |
 > | Бутан     | О-ва Херд и Макдональд       | Самоа     |
 > | Бонайре     | Остров Мэн     | Сан-Марино     |
-> | Остров Буве     | Ян-Майен     | Сан-Томе и Принсипи   |
+> | Остров Буве     | Ян — Майен     | Сан-Томе и Принсипи   |
 > | Британская территория в Индийском океане       | Джерси     | Сейшельские Острова   |
 > | Британские Виргинские острова     | Кирибати       | Сьерра-Леоне   |
 > | Буркина-Фасо     | Косово     | Синт – Эстатиус     |
@@ -140,7 +140,7 @@ ms.locfileid: "75185629"
 Выполните следующие действия, чтобы отменить покупку.
 
 >[!NOTE]
->Необходимо отменить покупку агента администратора. Ниже описана процедура отмены покупки на панели мониторинга центра партнеров. Это также можно сделать с помощью [API центра партнеров](https://docs.microsoft.com/partner-center/develop/cancel-an-order-from-the-integration-sandbox).
+>Необходимо отменить покупку агента администратора. Ниже описана процедура отмены покупки на панели мониторинга центра партнеров. Это также можно сделать с помощью [API центра партнеров](https://docs.microsoft.com/partner-center/develop/cancel-software-purchases).
 
 1. Прежде чем начать процесс отмены, убедитесь, что у вас есть следующее:
 
