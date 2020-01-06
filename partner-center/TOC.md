@@ -169,6 +169,7 @@
 ## [Получение и анализ бизнес-данных](data-analysis-lp.md)
 ## [Приложение "Аналитика Центра партнеров для Power BI"](power-bi-app-for-direct-partners.md)
 ## [Аналитика Центра партнеров](partner-contribution-indicators.md)
+## [Показатели вклада партнера](pci-updated.md)
 ## [Получение данных об использовании подписок Azure клиентов](analyze-azure-usage.md)
 ## [Анализ эффективности косвенных торговых посредников](analyze-indirect-resellers.md)
 ## [Анализ подписок и лицензий](analyze-subscriptions-licenses.md)
