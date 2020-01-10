@@ -1,7 +1,7 @@
 ---
 title: Подтверждение принятия клиентом условий клиентского соглашения Майкрософт | Центр партнеров
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 01/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Узнайте, как подтвердить принятие Клиентом соглашения о клиенте Майкрософт. Это может потребоваться для заказа продуктов и услуг Майкрософт для клиентов.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Клиент, клиенты, согласие, MCA, соглашение об использовании Microsoft Cloud, клиентское соглашение Майкрософт, шаблоны клиентских соглашений
 ms.localizationpriority: medium
-ms.openlocfilehash: 8beee9ed9035ff846c6e9d84fefd0c5c2ba255de
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 33eddc437360cb80071bf98187a7d4e23b820fb9
+ms.sourcegitcommit: 99a8b2daf52d455d33f15945d52efbcc8ff551c8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721368"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "75752572"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Подтверждение принятия клиентом соглашения Майкрософт для клиентов
 
@@ -45,9 +45,9 @@ ms.locfileid: "74721368"
 ## <a name="confirm-customer-acceptance-using-partner-center-apisdk"></a>Подтверждение принятия клиентов с помощью API или пакета SDK центра партнеров
 Партнеры могут использовать API или пакет SDK центра партнеров для подтверждения принятия клиентом клиентского соглашения Майкрософт. Дополнительные сведения об API и пакете SDK см. в следующих источниках:
 
-- [Получение метаданных клиентского соглашения Майкрософт](https://docs.microsoft.com/partner-center/develop/get-customer-agreement-metadata)
+- [Получение метаданных соглашения для Клиентского соглашения Майкрософт](https://docs.microsoft.com/partner-center/develop/get-customer-agreement-metadata)
 
-- [Подтверждение принятия клиентом условий клиентского соглашения Майкрософт](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent-customer-agreement)
+- [Подтверждение принятия клиентом условий Клиентского соглашения Майкрософт](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent-customer-agreement)
 
 - [Получение подтверждения принятия клиентом условий клиентского соглашения Майкрософт](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
 
@@ -55,7 +55,7 @@ ms.locfileid: "74721368"
 
 
 ## <a name="confirm-customer-acceptance-in-partner-center"></a>Подтверждение принятия клиентом условий соглашения в Центре партнеров
-Партнеры могут подтвердить принятие Клиентом соглашения Майкрософт в центре партнеров для новых клиентов и существующих клиентов.
+Партнеры могут подтвердить принятие Клиентом соглашения Майкрософт в центре партнеров для новых клиентов и существующих клиентов. Торговые посредники не могут аттестации от имени своих клиентов и должны работать с непрямым поставщиком, чтобы получить аттестацию.
 
 ### <a name="confirm-customer-acceptance-for-new-customers"></a>Подтверждение принятия условий соглашения новыми клиентами
 
