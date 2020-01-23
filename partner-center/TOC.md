@@ -121,7 +121,7 @@
 ## [Создание нескольких пользователей для клиента](adding-multiple-users-to-a-customer-account.md)
 ## [Назначение контактов службы поддержки](assign-support-contacts.md)
 
-# [Предложения CSP](csp-offers.md)
+# [Предложения CSP](csp-offers.md) 
 ## Коммерческая платформа
 ### [Обзор коммерческой платформы](csp-commercial-marketplace-overview.md)
 ### [Предложения коммерческой платформы](csp-commercial-marketplace-discover.md)
@@ -135,7 +135,8 @@
 ### [Приобретение резервирований Microsoft Azure от лица клиентов](azure-reservations-buying.md)
 ### [Управление резервированиями Microsoft Azure от лица клиентов](azure-reservations-manage.md)
 ### [Azure Reserved VM Instances (RI) + серверные подписки](azure-ri-server-subscriptions.md)
-## [Приступая к использованию плана Azure](azure-plan-get-started.md)
+## [План Azure](azure-plan-lp.md)
+### [Приступая к использованию плана Azure](azure-plan-get-started.md)
 ### [Приобретение плана Azure](purchase-azure-plan.md)
 ### [Сравнение предложений Azure](compare-azure-offers.md)
 ### [Перевод клиентов на план Azure](azure-plan-transition.md)
