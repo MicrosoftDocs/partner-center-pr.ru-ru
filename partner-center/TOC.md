@@ -37,6 +37,7 @@
 ## [Соглашение с партнером Майкрософт для поставщиков облачных решений](microsoft-partner-agreement.md)
 ## [Новые требования к прямым партнерам CSP](direct-partner-new-requirements.md)
 ## [Соглашения Microsoft Cloud по региону и языку](agreements.md)
+## [Ограниченные возможности прямых счетов](restricted-direct-bill-capabilities.md)
 ## [Переход со статуса партнера с прямым выставлением счетов в статус косвенного торгового посредника в рамках программы CSP](transition-direct-to-indirect.md)
 ## [Соглашения, прайс-листы и предложения CSP](csp-documents-and-learning-resources.md)
 ## [Региональные рынки и валюты CSP](regional-authorization-overview.md)
