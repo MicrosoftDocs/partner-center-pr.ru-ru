@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: CSP, прямой партнер, прямое выставление счета, требования
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 64015b298618ef7292433f0aedb5016ef83c1905
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0b8a34d4539180d99bcb76396dcf3dad6a0cf699
+ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253589"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76860466"
 ---
 # <a name="csp-direct-bill-partner-new-requirements"></a>Партнеры прямого счета поставщика служб шифрования новые требования
 
@@ -50,9 +50,11 @@ ms.locfileid: "74253589"
 
 ## <a name="transition-from-direct-to-indirect-reseller"></a>Переход от Direct к непрямому торговому посреднику
 
+Текущие прямые партнеры по выставлению счетов должны соответствовать новым требованиям, которые будут оставаться в партнерской программе по прямому счету поставщика служб шифрования. В противном случае [доступ к функциям прямого выставления счетов в конечном итоге будет ограничен](restricted-direct-bill-capabilities.md) и может больше выполнять определенные задачи, например делать новые покупки своим клиентам. 
+
 Если вы решили перейти с прямого счета на предприятия косвенного торгового посредника, необходимо выполнить несколько шагов. Дополнительные сведения о переходе см. в статье [Переход от прямого партнера поставщика облачных решений (CSP) к непрямому торговому посреднику CSP](transition-direct-to-indirect.md). 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также статью
 
 - [Дополнительные сведения о том, как стать непрямым торговым посредником](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [Прямой счет на часто задаваемые вопросы о непрямом торговом посреднике](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)
