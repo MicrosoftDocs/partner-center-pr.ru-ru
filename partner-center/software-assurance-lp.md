@@ -1,19 +1,19 @@
 ---
 title: Программы Software Assurance | Центр партнеров
 ms.topic: article
-ms.date: 01/14/2019
+ms.date: 01/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Зарегистрируйтесь в программе Software Assurance, чтобы создать бизнес и получить возможность компенсировать обучение и планирование для корпоративных клиентов.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ff23573f4cc85964a81e544ead8fa876495bbd10
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: a4827a8c1fbfb04bb7fccff4bd22e7311eb7e08d
+ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943087"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "76915735"
 ---
 # <a name="participate-in-software-assurance-programs"></a>Участие в программе Software Assurance
 
@@ -22,7 +22,4 @@ ms.locfileid: "74943087"
 |**Дополнительные сведения**   |**Прочитайте это**   |
 |--------------------------|:------------------|
 |Регистрация в программе "ваучеры обучения Software Assurance" (САТВ)|[Программа "ваучеры обучения Software Assurance" (САТВ) в центре партнеров](software-assurance-satv.md)|
-|Использование инструмента проверки и погашения ваучеров|[Использование инструмента проверки и погашения ваучеров в Центре партнеров для проверки, резервирования и погашения ваучеров](voucher-validation-tool.md)|
-|Регистрация в службах планирования Software Assurance|[Службы планирования Software Assurance в центре партнеров](software-assurance-dps.md) 
-
-
+|Регистрация в службах планирования Software Assurance|[Службы планирования Software Assurance в центре партнеров](software-assurance-dps.md) |
