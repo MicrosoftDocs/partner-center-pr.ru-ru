@@ -25,9 +25,8 @@
 ## [Rewards в Marketplace](marketplace-rewards.md)
 ## [Программы Software Assurance](software-assurance-lp.md)
 ### [Ваучерная программа обучения Software Assurance (SATV) в Центре партнеров](software-assurance-satv.md)
-### [Использование инструмента проверки и погашения ваучеров в Центре партнеров для проверки, резервирования и погашения ваучеров](voucher-validation-tool.md)
-### [Вопросы и ответы: использование инструмента проверки и погашения ваучеров](vvr-faq.md)
 ### [Службы планирования Software Assurance в Центре партнеров](software-assurance-dps.md)
+#### [Требования для оказания услуг планирования](software-assurance-dps-requirements.md)
 ## Счета и налоги
 ### [Счета и налоги в программе Microsoft Partner Network](mpn-view-print-maps-invoice.md)
 ## [Тестирование новых функций](test-drive-new-features.md)
