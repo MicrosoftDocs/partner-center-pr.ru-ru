@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: прямой счет, переход, непрямой Торговый посредник
-ms.openlocfilehash: 37085f151b2cff2a32026266423240417152b950
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
+ms.openlocfilehash: ff912c2b970aa4caac928a7d0975f4b1bab7f056
+ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860493"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "77044744"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Переход со статуса партнера с прямым выставлением счетов в статус косвенного торгового посредника в рамках программы CSP 
 
@@ -239,7 +239,7 @@ ms.locfileid: "76860493"
 
 7. В диалоговом окне Запрос передачи выберите одну или несколько подписок для передачи. 
 
-8. Нажмите кнопку **Create** (Создать). 
+8. Нажмите кнопку **Создать**. 
 
 9. В разделе " **Перемещение подписки**" появится запрос на перенос активных подписок. 
 
@@ -309,9 +309,9 @@ ms.locfileid: "76860493"
 
 Вы также можете зарегистрироваться для получения программ с прямым выставлением счетов с тем же клиентом-партнером. Необходимо управлять программами отдельно.
 
-## <a name="see-also"></a>См. также статью 
+## <a name="see-also"></a>См. также: 
 - [Дополнительные сведения о том, как стать непрямым торговым посредником](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
 - [Новые требования к прямым партнерам CSP](direct-partner-new-requirements.md)
-- [Ограниченные прямые счета](restricted-direct-bill-capabilities.md)
+- [Ограниченные возможности прямых счетов](restricted-direct-bill-capabilities.md)
 
 
