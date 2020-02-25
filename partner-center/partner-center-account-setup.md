@@ -51,7 +51,7 @@ ms.locfileid: "76812698"
 |Коммерческая платформа|Разработчик|
 |Windows и Xbox|Разработчик|
 |Магазин Office|Разработчик|
-|Расширения Edge|Разработчик|
+|Расширения Microsoft Edge|Разработчик|
 
 ## <a name="the-differences-in-partner-and-developer-settings-options"></a>Различия между параметрами партнеров и разработчиков
 
