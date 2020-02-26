@@ -1,7 +1,7 @@
 ---
 title: Выставление счетов для плана Azure | Центр партнеров
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 02/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как получить доступ к структуре файлов счетов и сверки, связанной с выставлением счетов для плана Azure, и понять ее содержимое.
@@ -10,22 +10,22 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 7aade0443c6418c9044a58d37b2351a89f86266d
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 3d21c796aebe41322d8f390ce54d13b1f80ec309
+ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722223"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "77521047"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Новый интерфейс для коммерческих приложений в CSP. Выставление счетов в Azure 
 
 **Соответствующие роли:**
 
-- Агент администрирования
+- Агент по администрированию
 - Администратор выставления счетов
 - Глобальный администратор
 
-Выставление счетов в рамках плана Azure — это простой инструмент выставления счетов за счет использования согласованной даты выставления счетов и расчетного периода на основе календарного месяца. Дополнительные сведения о платформе выставления счетов см. в статье [Общие сведения о выставлении счетов](billing-basics.md).
+Выставление счетов в рамках плана Azure — это простой инструмент выставления счетов за счет использования согласованной даты выставления счетов и расчетного периода на основе календарного месяца.
 
 ## <a name="summary-of-billing-essentials"></a>Основные сведения о выставлении счетов
 
