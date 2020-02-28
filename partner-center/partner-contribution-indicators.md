@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3e71d9c09e03c4464774fc80f0bd27af1dc82ea1
-ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
+ms.openlocfilehash: 830965f4d44cefea2a66adeac681f6350a562503
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "75716997"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672694"
 ---
 # <a name="partner-contribution-indicators"></a>Индикаторы вклада партнеров
 
@@ -44,7 +44,7 @@ PCI обеспечивает комплексное, целостное пред
 
 ### <a name="thresholds"></a>Пороговые значения
 
-Каждая метрика PCI имеет пороговые значения, заданные корпорацией Майкрософт, которые могут принести вашей компании максимальные баллы. Эти пороговые значения отличаются для путей взаимодействия клиентов и финансового & для достижения компетенции облачной Business Applications. Пороговые значения также отличаются для партнеров, работающих на развитых рынках, и для тех, кто работает исключительно на развивающихся рынках.  Разработанная или разрабатываемая классификация рынка основана на [определениях Microsoft Partner Network](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).
+Каждая метрика PCI имеет пороговые значения, заданные корпорацией Майкрософт, которые могут принести вашей компании максимальные баллы. Эти пороговые значения отличаются для путей взаимодействия клиентов и финансового & для достижения компетенции облачной Business Applications. Пороговые значения также отличаются для партнеров, работающих на развитых рынках, и для тех, кто работает исключительно на развивающихся рынках.  Разработанная или разрабатываемая классификация рынка основана на [определениях Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
 Баллы по каждой метрике подписываются для получения уникального рейтинга PCI для участия клиентов и финансовых & операций, которые будут обновляться ежемесячно.
 
@@ -52,7 +52,7 @@ PCI обеспечивает комплексное, целостное пред
 
 ![участие клиентов](images/pci/custengagethresh.png)
 
-![Finance](images/pci/table_2.png
+![Финансы](images/pci/table_2.png
 )
 
 ![отделения](images/pci/table_3.png)
@@ -67,7 +67,7 @@ PCI обеспечивает комплексное, целостное пред
 
 ![Рост для консультантов по функциональным возможностям](images/pci/funcgrowth2.png)
 
-![Разработчикам](images/pci/developers.png) 
+![Разработчики](images/pci/developers.png) 
 
 ![Новые крупные развертывания](images/pci/largedeploy.png) 
 
