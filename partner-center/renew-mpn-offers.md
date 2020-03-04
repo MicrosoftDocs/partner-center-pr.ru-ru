@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, Microsoft Action Pact, MAPS, продление компетенции, дата продления
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: a4043209b701d4cf5f4fd475321b592edd7410f3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0495b519aeefbe927c43b48105c6672894fb46a2
+ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651952"
+ms.lasthandoff: 02/28/2020
+ms.locfileid: "78161438"
 ---
 # <a name="renew-your-mpn-offers"></a>Продление подписки на предложения MPN
 
@@ -39,6 +39,3 @@ ms.locfileid: "73651952"
 
 При продлении в период продления новая дата годовщины наступает через 365 дней с текущего дня годовщины.
 
-## <a name="manage-auto-renewal"></a>Управление автоматическим продлением
-
-Если включено автоматическое продление, необходимая сумма будет списываться с вашей кредитной карты на следующий день после годовщины. Автоматическое продление можно отключить в любое время до дня годовщины.

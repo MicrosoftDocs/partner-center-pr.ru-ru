@@ -10,18 +10,18 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 3d21c796aebe41322d8f390ce54d13b1f80ec309
-ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+ms.openlocfilehash: 2184733bbbfb5fa3beede2cb45cb409109f11bad
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "77521047"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240249"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Новый интерфейс для коммерческих приложений в CSP. Выставление счетов в Azure 
 
 **Соответствующие роли:**
 
-- Агент по администрированию
+- Агент администрирования
 - Администратор выставления счетов
 - Глобальный администратор
 
@@ -53,7 +53,7 @@ ms.locfileid: "77521047"
 
 3. Выберите вкладки **Повторяемый** и **Единоразовый**, затем выберите интересующую вас валюту.
 
-![выставление счетов](images/azure/billing1.png)
+![выставление счетов](images/azure/billing3.png)
 
 4. Выберите **счет** или **файл выверки**.  
 
