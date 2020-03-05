@@ -1,22 +1,22 @@
 ---
-title: 'Соглашение об использовании Microsoft Cloud: шаблоны для клиентов | Partner Center'
+title: Шаблоны для клиентов. Клиентское соглашение Майкрософт | Partner Center
 ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте о том, где найти и как скачать соглашение об использовании Microsoft Cloud для определенного региона на соответствующем языке, чтобы ознакомить с ним клиентов.
+description: Узнайте, где найти и как скачать Клиентское соглашение Майкрософт для определенного региона на соответствующем языке, чтобы ознакомить с ним клиентов.
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: соглашения об использовании Microsoft Cloud, шаблоны соглашения с клиентами, соглашения с клиентами CSP, соглашение об использовании Microsoft Cloud, соглашения MCA, CSP, где можно продавать по программе CSP?, страны и регионы CSP, соглашения CSP MCA на нескольких языках, CSP в Северной Америке, CSP в Центральной Америке, CSP в Южной Америке, CSP в Карибском бассейне, CSP для Microsoft Cloud for US Government, CSP для Microsoft Cloud Germany, CSP на Ближнем Востоке, CSP в Африке, CSP в Европе, CSP в Азии, CSP в Тихоокеанском регионе, соглашения MCA для CSP
+keywords: Клиентские соглашения Майкрософт, шаблоны соглашения с клиентами, соглашения с клиентами CSP, Клиентское соглашение Майкрософт, соглашения MCA, CSP, где можно продавать по программе CSP?, страны и регионы CSP, соглашения CSP MCA на нескольких языках, CSP в Северной Америке, CSP в Центральной Америке, CSP в Южной Америке, CSP в Карибском бассейне, CSP для Microsoft Cloud for US Government, CSP для Microsoft Cloud для Германии, CSP на Ближнем Востоке, CSP в Африке, CSP в Европе, CSP в Азии, CSP в Тихоокеанском регионе, соглашения MCA для CSP
 ms.localizationpriority: high
-ms.openlocfilehash: a65e9dc0e94fa387631ea289c963d6e0f1bae7dd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 9acf143bdbeeea29c7fc7ec71ca459c57b20e8ca
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722422"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672794"
 ---
-# <a name="microsoft-cloud-agreements-by-region-and-language"></a>Соглашения об использовании Microsoft Cloud по регионам и языкам
+# <a name="microsoft-customer-agreements-by-region-and-language"></a>Клиентские соглашения Майкрософт для разных регионов и языков
 
 **Относится к**
 
@@ -30,19 +30,19 @@ ms.locfileid: "74722422"
 - Агент по продажам
 - Агент службы технической поддержки
 
-Прежде чем вы сможете разместить заказ от имени клиента, клиент должен принять и подписать соглашение об использовании Microsoft Cloud.
+Прежде чем вы сможете разместить заказ от имени клиента, клиенту следует принять и подписать Клиентское соглашение Майкрософт.
 
 >[!IMPORTANT]
-> С 7 ноября 2018 года необходимо подтверждать, что клиент принял соглашение об использовании Microsoft Cloud, предоставив сведения о лице, которое его подписало. Ознакомьтесь с разделом [Подтверждение принятия клиентом условий соглашения об использовании Microsoft Cloud](confirm-consent.md), чтобы узнать больше.
+> Необходимо подтвердить, что клиент принял Клиентское соглашение Майкрософт, предоставив сведения о лице, которое его подписало. Ознакомьтесь с разделом [Подтверждение принятия клиентом условий Клиентского соглашения Майкрософт](confirm-consent.md), чтобы узнать больше.
 
-Соглашения об использовании Microsoft Cloud зависят от региона и доступны на нескольких языках. Найдите расположение клиента и предпочтительный язык в одном из приведенных ниже списков, чтобы скачать соответствующее соглашение.
+Клиентские соглашения Майкрософт предоставляются для разных регионов и доступны на нескольких языках. Найдите расположение клиента и предпочтительный язык в одном из приведенных ниже списков, чтобы скачать соответствующее соглашение.
 
 Если вы не знаете, в каких регионах и на каких рынках вы можете продавать решения, найдите расположение своей компании в этом списке. [Региональные рынки и валюты для программы поставщиков облачных решений](regional-authorization-overview.md).
 
 <!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
 
 > [!NOTE]  
-> The Microsoft Cloud Agreement customer templates listed below are valid starting September 1, 2017 for all regions and all languages.
+> The Microsoft Customer Agreement customer templates listed below are valid starting September 1, 2017 for all regions and all languages.
 -->
 
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>Северная Америка, Центральная Америка, Латинская Америка и Карибский бассейн
@@ -101,13 +101,13 @@ ms.locfileid: "74722422"
 - Суринам: [Английский](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - Тринидад и Тобаго: [Английский](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf) 
 - Острова Теркс и Кайкос: [Английский](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
-- Соединенные Штаты Америки: [Английский](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_NA_ENG_Sep20172_CR.pdf)
+- США: [Английский](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_NA_ENG_Sep20172_CR.pdf)
 - Уругвай: [английский](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf), [испанский](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_SPA_Sep20172_CR.pdf)
 - Венесуэла: [английский](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf), [испанский](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_SPA_Sep20172_CR.pdf)
 - Виргинские острова, США: [Английский](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 
 ## <a name="microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government
- - Соединенные Штаты Америки: [Английский](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017_NAOC_USGCC_ENG_Feb2019_CR.pdf)
+ - США: [Английский](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017_NAOC_USGCC_ENG_Feb2019_CR.pdf)
 
 ## <a name="europe"></a>Европа
 - Аландские острова: [Английский](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
