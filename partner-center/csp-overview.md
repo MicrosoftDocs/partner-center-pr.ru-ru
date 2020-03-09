@@ -8,13 +8,13 @@ description: Узнайте больше о преимуществах и раз
 author: LauraBrenner
 ms.author: labrenne
 keywords: Поставщик облачных решений, CSP, облачные службы, Azure, Office 365, Dynamics, партнер CSP, продажа в CSP, прямой партнер, прямой партнер CSP, непрямой торговый посредник CSP, прямой CSP, непрямой CSP, прямая модель, непрямая модель, непрямой торговый посредник, непрямой поставщик, поставщик, дистрибьютор, программа cloud solution provider
-ms.localizationpriority: medium
-ms.openlocfilehash: 203168cd57724723261e661627343594a1e8be00
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.localizationpriority: high
+ms.openlocfilehash: 92e2bda54427cb0323df20b0dc1195791e1292ae
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672834"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340232"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Программа для поставщиков облачных решений — продажа облачных решений при появлении спроса 
 
@@ -78,6 +78,6 @@ ms.locfileid: "77672834"
 |:---------------------------|:--------------------|
 |Требования для каждой модели CSP   | [Программа поставщика облачных решений](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |Осуществление продаж в национальных облаках Microsoft   | [Применение к продажам в национальных облаках Майкрософт](csp-national-clouds-overview.md)|
-|Клиентское соглашение Майкрософт: шаблоны для клиентов   |[Соглашения клиентов Майкрософт по регионам и языкам](agreements.md)|
+|Клиентское соглашение Майкрософт: шаблоны для клиентов   |[Клиентские соглашения Майкрософт для разных регионов и языков](agreements.md)|
 |Задачи косвенного поставщика в центре партнеров  |[Партнер с непрямыми торговыми посредниками в программе поставщика облачных решений](indirect-provider-tasks-in-partner-center.md)|
 |Задачи непрямого торгового посредника в центре партнеров   |[Партнер с косвенными поставщиками в программе поставщика облачных решений](indirect-reseller-tasks-in-partner-center.md)|
