@@ -23,7 +23,7 @@ highlightedContent:
   - title: Войдите, чтобы просмотреть последние объявления
     itemType: whats-new
     url: https://partner.microsoft.com/pcv/announcements
-  - title: Еще не являетесь партнером? Присоединитесь к Microsoft Partner Network сегодня.
+  - title: Еще не являетесь партнером? Присоединитесь к Microsoft Partner Network (MPN) сегодня.
     itemType: get-started
     url: https://partner.microsoft.com/membership
   - title: Присоединитесь к программе ранних последователей API и SDK
@@ -79,14 +79,14 @@ conceptualContent:
       text: Авторы и бизнес-профили
     - url: promotions.md
       itemType: how-to-guide
-      text: Использование преимуществ акций
+      text: Использование преимуществ рекламных акций
     - url: get-special-pricing-for-offers.md
       itemType: how-to-guide
       text: Продажи представителям определенных отраслей
     footerLink:
       url: grow-your-business.md
       text: Дополнительные сведения
-  - title: Обще сведения о выставлении счетов и налогах
+  - title: Общие сведения о выставлении счетов и налогах
     links:
     - url: billing-basics.md
       itemType: how-to-guide
