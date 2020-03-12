@@ -6,35 +6,34 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: При возникновении проблемы в работе службы Майкрософт или с Центром партнеров вы можете сообщить о проблеме в Майкрософт для получения помощи и отслеживать этот вопрос до его решения.
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
-author: MaggiePucciEvans
-ms.author: evansma
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: acc7d380ce5323c9d85859a5aa766c3c166622dc
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0a8bd33806e8b741539060204cda17bf7ddfc975
+ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651565"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "79023468"
 ---
 # <a name="support-from-microsoft"></a>Поддержка от Майкрософт
 
 **Относится к**
 
--  Центр партнеров
+-  Партнерский центр
 -  Центр партнеров для Microsoft Cloud for US Government
 
 
 При возникновении проблемы в работе службы Майкрософт или с Центром партнеров вы можете сообщить о проблеме в Майкрософт для получения помощи и отслеживать этот вопрос до его решения.
 
-[Проверка работоспособности службы](check-service-health.md)
+[Поддержка центра партнеров](report-problems-with-partner-center.md) . Получите помощь и создайте билеты для всех программ центра партнеров.
 
-[Сообщение о проблемах с Центром партнеров](report-problems-with-partner-center.md)
+[Поддержка от имени клиентов](report-problems-on-behalf-of-a-customer.md) . Получите помощь и сообщите о проблемах с клиентом.
 
-[Сообщить о проблемах от имени клиента](report-problems-on-behalf-of-a-customer.md)
+[Проверьте работоспособность службы](check-service-health.md) . Проверьте, есть ли в центре партнеров текущие известные сбои служб.
 
-[Автоматизация уведомлений служб с помощью наших API](get-automated-service-notifications-with-our-apis.md)
+[Получайте автоматические уведомления службы с помощью наших API](get-automated-service-notifications-with-our-apis.md) — поставщики облачных решений могут получать автоматические уведомления о службах своих клиентов.
 
-[Поддержка преимуществ Майкрософт](https://partner.microsoft.com/support/contact-support)
 
  
 
