@@ -1,29 +1,29 @@
 ---
-title: Сопоставьте идентификатор Microsoft Learn MCP с учетной записью центра партнеров | Центр партнеров
+title: Связывание идентификатора MCP Microsoft Learn с учетной записью Центра партнеров | Центр партнеров
 ms.topic: article
 ms.date: 10/04/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Сведения о том, как связать идентификатор MCP с учетной записью центра партнеров, чтобы ваша компания могла просматривать пути обучения и обучения, которые вы предоставили для компетенций.
+description: Узнайте, как связать идентификатор MCP с учетной записью Центра партнеров, чтобы ваша компания могла просматривать учебные курсы и схемы обучения, которые вы изучили для получения компетенций.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: роли, разрешения, Добавление пользователя, назначение роли, администратор, агент, идентификатор MCP, Microsoft Learn
-ms.localizationpriority: medium
-ms.openlocfilehash: 0457974ff283e8e21a717ca8a0beedf8ce16fa54
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
-ms.translationtype: MT
+Keywords: роли, разрешения, добавление пользователя, назначение роли, администратор, агент, идентификатор MCP, Microsoft Learn
+ms.localizationpriority: high
+ms.openlocfilehash: b3f263aff2b2fcbc25ff7a348e137fc15c10157d
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004283"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340172"
 ---
-# <a name="associate-your-microsoft-learn-account-in-partner-center"></a>Связывание учетной записи Microsoft Learn в центре партнеров
+# <a name="associate-your-microsoft-learn-account-in-partner-center"></a>Связывание учетной записи Microsoft Learn с Центром партнеров
 
 **Соответствующие роли**
 -   Глобальный администратор
 -   администратор пользователей.
 
-Чтобы ваша организация могла видеть пути обучения и обучения, которые вы предпоставили для компетенций, необходимо связать идентификатор MCP с учетной записью центра партнеров. Это можно сделать вручную после добавления в качестве пользователя центра партнеров.
+Чтобы ваша компания могла просмотреть учебные курсы и схемы обучения, которые вы прошли для получения компетенций, вам необходимо связать свой идентификатор MCP с учетной записью Центра партнеров. Это можно сделать вручную после того, как вас добавят в качестве пользователя Центра партнеров.
 
 ### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>Связывание идентификатора MCP с учетной записью Центра партнеров
 
