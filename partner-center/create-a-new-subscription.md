@@ -11,17 +11,17 @@ ms.author: labrenne
 Keywords: Подписка, создание новых, Добавление подписки, приостановка, Отмена, приостановка, приостановка, SaaS, лицензия, ISV, сторонние лица
 ms.localizationpriority: medium
 ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721720"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114996"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Создание, приостановка и отмена подписок клиентов
 
 **Относится к**
 
--  Центр партнеров
+-  Партнерский центр
 -  Центр партнеров для Microsoft Cloud for US Government
 -  Партнеры CSP
 
@@ -150,9 +150,9 @@ ms.locfileid: "74721720"
 
 5. На странице сведения о подписке выберите раздел **состояние** и снимите флажок **Auto-продление** . 
 
-6. Выберите **Отправить**.
+6. Нажмите кнопку **Отправить**.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 - [Приобретите продукты для коммерческого рынка для своих клиентов](csp-commercial-marketplace-purchase.md)
 - [Управляйте продуктами коммерческих рынков для своих клиентов](csp-commercial-marketplace-manage.md)

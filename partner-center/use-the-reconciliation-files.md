@@ -10,17 +10,17 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 6bb65718159019c9ae47aa384524d9d52043d39b
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384802"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114966"
 ---
 # <a name="use-your-reconciliation-files"></a>Использование файлов сверки
 
-Относится к:
+Область применения:
 
-- Центр партнеров
+- Партнерский центр
 - Центр партнеров для Microsoft Cloud for US Government
 
 Вы можете скачать файлы сверки из центра партнеров, чтобы получить подробное представление каждого из элементов в цикле выставления счетов. Сведения об элементе строки включают в себя расходы на каждую из подписок клиента и подробные события (например, добавление мест в подписку).

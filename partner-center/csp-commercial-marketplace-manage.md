@@ -10,17 +10,17 @@ ms.author: v-mihope
 keywords: подписки, Marketplace, сторонние лица, независимые поставщики программного обеспечения, предложения SaaS, программа поставщика облачных решений, управление предложением, Управление подпиской, лицензии, отмена подписки, рабочие места, отключение автоматического продления, MPN идентификатор непрямого торгового посредника
 ms.localizationpriority: medium
 ms.openlocfilehash: 7dbcc978340240175d2c03a5ba1e9312b48d7bdc
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253812"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114956"
 ---
 # <a name="manage-commercial-marketplace-products-for-your-customers"></a>Управляйте продуктами коммерческих рынков для своих клиентов
 
 **Относится к**
 
-- Центр партнеров
+- Партнерский центр
 - Партнеры в программе CSP
 
 **Соответствующие роли**

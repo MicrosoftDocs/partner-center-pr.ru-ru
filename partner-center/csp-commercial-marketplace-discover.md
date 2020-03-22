@@ -10,17 +10,17 @@ ms.author: v-mihope
 keywords: подписки, Marketplace, коммерческий магазин, сторонние лица, независимые поставщики программного обеспечения, предложения SaaS, программа поставщика облачных решений, программа CSP, партнеры CSP
 ms.localizationpriority: medium
 ms.openlocfilehash: 23a31646165576842b625ec4f05a8da404fae01d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253722"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114946"
 ---
 # <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>Обнаружение предложений и цен в коммерческом магазине
 
 **Относится к**
 
-- Центр партнеров
+- Партнерский центр
 - Партнеры в программе CSP
 
 **Соответствующие роли**
