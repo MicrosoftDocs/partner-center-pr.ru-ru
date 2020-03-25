@@ -162,6 +162,7 @@
 ### [Перенос клиентов служб на основе лицензий в программу поставщиков облачных услуг](transition-seat-based-services.md)
 ### [Продажа подписок Minecraft: Education Edition](minecraft-subscriptions.md)
 ### [Продажи представителям определенных отраслей](Get-special-pricing-for-offers.md)
+### [Продажа клиентам из сферы образования](sell-to-education-customers.md)
 ### [Повышение популярности и удовлетворенности](increasing-adoption-and-satisfaction.md)
 ### [Простая настройка устройств с помощью Windows Autopilot](autopilot.md)
 ##  Обновление или перенос предложений в более поздние версии
