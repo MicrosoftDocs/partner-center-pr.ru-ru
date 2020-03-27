@@ -1,7 +1,7 @@
 ---
 title: Службы планирования Software Assurance в центре партнеров | Центр партнеров
 ms.topic: article
-ms.date: 01/31/2020
+ms.date: 03/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как регистрировать и уточнять службы Microsoft Planning Services, чтобы вы могли поставлять курсы и другие услуги клиентам с помощью программы Software Assurance.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: Предварительное развертывание, планирование, Software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: a8bce7d7e9d52071af3ffc8c483a4aa4c40cc54f
-ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
+ms.openlocfilehash: 864d7e8f6073af99b2d4227d28a94c1def373046
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "76915757"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296409"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Службы планирования Software Assurance в Центре партнеров
 
@@ -52,7 +52,7 @@ ms.locfileid: "76915757"
 
 Чтобы проверить возможность регистрации в определенном задействовании служб планирования, выполните следующие действия.
 
-1. Войдите на [панель мониторинга](https://partner.microsoft.com/dashboard/home)центра партнеров.
+1. Войдите на [панель мониторинга](https://partner.microsoft.com/dashboard/home) Центра партнеров.
 2. Выберите **MPN** в меню, а затем выберите **программы**.
 3. Выберите **Регистрация Software Assurance**.
 4. Выберите вкладку **Регистрация программы служб планирования** в верхней части страницы. Рядом с какими-либо требованиями или компетенциями, которые вы уже выполнили, появится зеленая галочка.
@@ -93,7 +93,7 @@ ms.locfileid: "76915757"
 
 Подробные инструкции см. в [шаге 6](https://go.microsoft.com/fwlink/?linkid=2115983) рабочего процесса.
 
-## <a name="redeem-voucher"></a>Погашение ваучера.
+## <a name="redeem-voucher"></a>Погашение ваучера
 
 Перед выставлением счетов корпорации Майкрософт за доставленное задействование необходимо сначала активировать ваш ваучер. Подробные инструкции см. в [шаге 7](https://go.microsoft.com/fwlink/?linkid=2115983) рабочего процесса.
 
@@ -103,8 +103,9 @@ ms.locfileid: "76915757"
 
 Чтобы отправить счет в корпорацию Майкрософт через САВБ, следуйте инструкциям на [шаге 8](https://go.microsoft.com/fwlink/?linkid=2115983) рабочего процесса.
 
-## <a name="see-also"></a>См. также статью
+## <a name="see-also"></a>См. также:
 
 - [Рабочий процесс служб планирования Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [Вопросы и ответы по службам планирования Software Assurance](https://go.microsoft.com/fwlink/?linkid=2116077)
 - [Политики службы планирования Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [Прекращенные обязательства служб планирования Software Assurance](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)
