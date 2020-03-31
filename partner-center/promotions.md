@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: В качестве партнера корпорации Майкрософт в рамках программы поставщиков облачных решений вы можете приобретать подписки по акциям и передавать клиентам скидки.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: dd69d76c2158b454190c5cfac568f7260472c9dc
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 11bf5ae35ce20cf7290e1fbbdc1aa21c368c9a1b
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004843"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390743"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Использование рекламных акций для привлечения новых клиентов  
 

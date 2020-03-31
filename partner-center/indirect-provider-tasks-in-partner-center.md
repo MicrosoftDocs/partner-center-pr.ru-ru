@@ -5,15 +5,15 @@ ms.date: 02/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Дополнительные сведения о том, как косвенный поставщик или распространитель, можно расширить, выполнив партнерские отношения с непрямыми торговыми посредниками. Сюда входят задачи, которые можно выполнять в центре партнеров.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 5e3f4455d4572926c680978b87858485c991681b
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: 969ac33c7e5d5fda0a97eb93a696eda32d2f100c
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80112483"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390933"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Партнерство с непрямыми торговыми посредниками в программе поставщиков облачных решений
 

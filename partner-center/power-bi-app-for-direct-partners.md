@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Общий обзор и часто задаваемые вопросы о приложении аналитики центра партнеров для Power BI.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: eba413fd3955db8dedc5ffe57747739368adcaa6
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: fca6cf8688506179fe3db9ab414a034c7741fbe0
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004963"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390753"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Аналитика Центра партнеров для Power BI (для прямых партнеров в CSP)
 
 **Относится к**
 
-- Центр партнеров
+- Партнерский центр
 
 **Соответствующие роли**
 -   Глобальный администратор
@@ -46,11 +46,11 @@ ms.locfileid: "75004963"
 
 -   экспорта наборов данных и создания настраиваемых отчетов, в том числе для отдельных клиентов.
 
-## <a name="frequently-asked-questions"></a>Вопросы и ответы
+## <a name="frequently-asked-questions"></a>Часто задаваемые вопросы
 
 Рекомендуется изучить ответы на часто задаваемые вопросы, прежде чем установить приложение. 
 
-| **Вопрос** | **Ответ** |
+| **Вопрос** | **Клик** |
 | --- | ---------- |
 | Сколько стоит приложение? | Приложение предоставляется бесплатно. Чтобы ознакомиться с приложением, [зарегистрируйтесь в бесплатной службе Power BI](https://go.microsoft.com/fwlink/p/?linkid=845347) и используйте ее для настройки информационных панелей и отчетов. Чтобы разрешить другим пользователям в организации работать с приложением, вам потребуется активная подписка на Microsoft Power BI Professional или Microsoft Power BI Premium. |
 | Кто может подключиться к приложению "Аналитика Центра партнеров"? | Эта версия приложения предназначена для прямых партнеров (уровень 1) в программе поставщиков облачных решений. Вы являетесь прямым партнером, если вы взаимодействуете непосредственно с корпорацией Майкрософт и клиентами. Чтобы установить приложение, необходимо быть глобальным администратором, агентом администратора или администратором выставления счетов для учетной записи вашей компании. |
@@ -63,7 +63,7 @@ ms.locfileid: "75004963"
 
 
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 [Установка приложения "Аналитика Центра партнеров для Microsoft Power BI" и ознакомление с ним](power-bi-app-for-direct-partners-install.md)
 
