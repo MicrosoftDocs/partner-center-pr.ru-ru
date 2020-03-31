@@ -5,16 +5,16 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Сведения о настройке и предварительной настройке нового интерфейса устройства с профилями для автопилота перед доставкой устройства клиенту.
-author: maggiepuccievans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Автопилот, Windows автопилот, Microsoft для автопилота, развертывание без вмешательства пользователя, OOBE, экраны входа, готовые
 ms.localizationpriority: medium
-ms.openlocfilehash: 16653865ff251bcf73dcd79c4948d3326bcc0fab
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: c69b61256e19fd3a8becbfd546fd5b9a0b54654f
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721428"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391003"
 ---
 # <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Настройка готового интерфейса для устройства с профилями Windows "Автопилот"
 

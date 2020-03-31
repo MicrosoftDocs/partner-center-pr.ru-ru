@@ -5,22 +5,22 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Ознакомьтесь с инструкциями и требованиями для продажи подписок на Office 365 правительства GCC для CSP в квалифицированных США клиентов или подрядчиков для государственных организаций.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0f940ebb873ae0e847804f21bfc23715dd32803a
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: fb6402512ea70f3d6a621b140459c0b217478fef
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721961"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389573"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Продажа Office 365 для государственных организаций в средах GCC для подписок CSP клиентам, отвечающим необходимым требованиям
 
 **Относится к**
 
--  Центр партнеров
+-  Партнерский центр
 -  Партнеры CSP
 
 **Соответствующие роли**

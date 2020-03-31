@@ -6,21 +6,21 @@ description: Узнайте, как устанавливать или удаля
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 81f2bfa0b8e9864e0fc1a90ff5a5a11111c2a433
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e536a43aec85336996d047ecd13a06ef144ce196
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943207"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390653"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Установка расходного бюджета Azure для клиентов
 
-Область применения
+Область применения:
 
-- Центр партнеров
+- Партнерский центр
 - Центр партнеров для Microsoft Cloud for US Government
 
 Вы можете [задать ежемесячный бюджет расходов на Azure для клиентов](#set-azure-spending-budget) в центре партнеров. Это помогает Вашим клиентам управлять расходами на Azure. Этот параметр позволяет сравнить расходы на Azure с бюджетом в течение месяца. Это также помогает Вашим заказчикам оценить затраты на Azure, чтобы их месячный счет не превышал ожидаемый объем.

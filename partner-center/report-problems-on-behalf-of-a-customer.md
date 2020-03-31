@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Если у клиента возникла проблема со службой, которую невозможно разрешить, и которая соответствует критериям, описанным в статье о том, как эскалировать проблемы в Майкрософт, отправьте запрос в службу поддержки.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: запрос на обслуживание, запрос в службу поддержки, поддержка, право на поддержку, AOBO, Azure AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 28f5be859d8c949eb0135f3096c320cc160b835a
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 6076f80821b476549cd264f9d569e9f46201c394
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943217"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390693"
 ---
-# <a name="report-problems-on-behalf-of-a-customer"></a>Сообщение о проблемах от имени пользователя
+# <a name="report-problems-on-behalf-of-a-customer"></a>Сообщение о проблемах от имени клиента
 
 **Относится к**
 
--  Центр партнеров
+-  Партнерский центр
 -  Центр партнеров для Microsoft Cloud for US Government
 
 
@@ -60,7 +60,7 @@ ms.locfileid: "74943217"
 
 1. Скопируйте доменное имя клиента со страницы учетной записи в центре партнеров.
 
-2. Перейдите на страницу https://portal.azure.com/ [customerdomainname]. 
+2. Перейдите на страницу https://portal.azure.com/[customerdomainname]. 
 
 3. Выберите подписку Azure, для которой требуется поддержка.
 
@@ -124,7 +124,7 @@ ms.locfileid: "74943217"
 
 **Что произойдет, если я войду в Центр администрирования Office 365 в обход Центра партнеров?**
 
-При входе напрямую в Центр администрирования Office 365 вы просматриваете его в собственном контексте, а не в контексте клиента. Поэтому необходимо выполнять вход непосредственно в Центр администрирования Office 365, только если вы создаете запрос на обслуживание, связанный с вашими собственными подписками.
+При входе напрямую в Центр администрирования Office 365 вы просматриваете его в собственном контексте, а не в контексте клиента. Поэтому необходимо выполнять вход непосредственно в Центр администрирования Office 365 только если вы создаете запрос на обслуживание, связанный с вашими собственными подписками.
 
 **Как получить дополнительную поддержку по Dynamics 365?**
 

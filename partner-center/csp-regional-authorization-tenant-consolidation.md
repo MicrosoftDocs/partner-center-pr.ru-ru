@@ -6,23 +6,23 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Соблюдайте эти инструкции, чтобы консолидировать клиентов для разных стран и регионов. Сюда входят действия по переносу учетных записей клиентов и клиентских подписок.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: перенос пользователей, подготовка, учетная запись клиента, консолидировать клиенты
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: d05f400084dc72ca380dd16c10e5b5909318f788
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 04c39d15b9e2c0223ef472bc14de82faae12a449
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722183"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390973"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Консолидация клиента региональной авторизации CSP
 
 **Относится к**
 
--  Центр партнеров
+-  Партнерский центр
 -  Центр партнеров для Microsoft Cloud for US Government
 
 **Соответствующие роли**
@@ -126,7 +126,7 @@ The Subscription shows **suspended** on the subscriptions list.
 
 6.  Повторите эти действия для всех подписок всех клиентов, чтобы остановить выставление счетов за **переносимые** учетные записи. Партнеры получат последний счет с кредитом за неиспользованные дни между датой отмены и последним днем периода выставления счетов. После этого периода счета больше не будут выставляться.
 
-### <a name="notes"></a>Заметки
+### <a name="notes"></a>Примечания
 
 -   Отключение подписки от **перехода от** учетной записи CSP не влияет на службу конечного клиента, если служба была подготовлена на основе **перехода на** учетную запись CSP до отключения.
 

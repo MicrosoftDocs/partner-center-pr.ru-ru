@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как просматривать и экспортировать журналы действий, чтобы получить представление о транзакциях учетной записи клиента и других действиях по управлению партнерами, связанных с клиентом.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: журналы действий, подписка, подписки, платежи, выставление счетов, транзакции
 ms.localizationpriority: medium
-ms.openlocfilehash: 48871571fb35a17ab824be805233ee11168765b9
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: ef848b729079e54df5e898ea67fafdb1d1e87d25
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721789"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390383"
 ---
 # <a name="view-customer-activity-logs"></a>Просмотр журналов действий клиента
 
 **Относится к**
 
-- Центр партнеров
+- Партнерский центр
 - Центр партнеров для Microsoft Cloud for US Government
 - Партнеры по программе поставщиков облачных решений
 
@@ -40,7 +40,7 @@ ms.locfileid: "74721789"
 
 **Просмотр и экспорт журналов действий**
 
-1. Войдите на [панель мониторинга](https://partner.microsoft.com/dashboard)центра партнеров.
+1. Войдите на [панель мониторинга](https://partner.microsoft.com/dashboard) Центра партнеров.
 
 2. В меню **Параметры учетной записи** выберите **Журнал действий**.
 2.  Выберите период журнала действий в полях **От** и **До**. По умолчанию для журнала действий экспортируются данные за последний месяц.

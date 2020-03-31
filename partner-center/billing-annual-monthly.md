@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 11/25/2019
 Description: Сведения о различиях между месячным и ежегодным циклом выставления счетов в центре партнеров.
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b5d9b8175f2d64998efaf2e64e3d1adbdbc2f75
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a05f64ac919cce0339f0033fa38a4b43e61d3c08
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722409"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390313"
 ---
 # <a name="monthly-and-annual-billing-differences"></a>Различия в месячном и ежегодном выставлении счетов
 
 **Относится к**
 
-- Центр партнеров
+- Партнерский центр
 - Центр партнеров для Microsoft Cloud for US Government
 
 **Соответствующие роли**
@@ -207,7 +207,7 @@ ms.locfileid: "74722409"
 
 ### <a name="incentives-calculation"></a>Расчет поощрения
 
-Поощрения рассчитываются на основе **выставляемого дохода**, а  ***не* скорректированного дохода**. Выплата поощрений будет осуществляться в соответствии с нашей политикой, описанной в руководствах по поощрениям CSP.
+Поощрения рассчитываются на основе **выставляемого дохода**, а  ***не* скорректированного дохода**. Оплата поощрений будет осуществляться в соответствии с нашей политикой, описанной в руководствах по поощрениям CSP.
 
 При продаже ежегодно выставленной подписки она распознается как расчет поощрения на основе выставляемого дохода.
 
@@ -223,7 +223,7 @@ ms.locfileid: "74722409"
 
 Для получения вопросов о поощрениях обратитесь в соответствующую региональную службу поддержки.
 
-| Region | Email address |
+| Region | Адрес электронной почты |
 | ------ | ------------- |
 | Северная Америка | <ocina@microsoft.com> |
 |Латинская Америка & Бразилии | <ocilatam@microsoft.com> |

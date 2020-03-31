@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: В Центре партнеров можно обновить данные клиента для выставления счетов и другие сведения о компании.
 ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: a9d8070bf732597ed1d24a930508db910a4dfc65
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 65f692bc06230272801a03a7ecd4611637fcad7b
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651184"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390543"
 ---
 # <a name="update-customer-account-info"></a>Обновление сведений учетной записи клиента
 
 **Относится к**
 
--  Центр партнеров
+-  Партнерский центр
 -  Центр партнеров для Microsoft Cloud for US Government
 
 

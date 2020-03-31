@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Узнайте о специальных и сокращенных ценах для определенных групп клиентов, включая учебных заказчиков, некоммерческих клиентов и пользователей государственных организаций.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 5479829dc73c8c45eb6db66b95f481bbddee2efa
-ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
+ms.openlocfilehash: 0d6f79e6bfe04d065318e4f927233877db0286f9
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75631815"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390983"
 ---
 # <a name="sell-to-specialized-industries"></a>Продажи представителям определенных отраслей
 
 **Относится к**
 
-- Центр партнеров
+- Партнерский центр
 
 **Соответствующие роли**
 
@@ -34,7 +34,7 @@ ms.locfileid: "75631815"
 
 |**Специальные цены**   |**Обязательные квалификации торгового посредника**   |**Квалификация, необходимая клиенту**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|для образовательных учреждений   |Нет   | Должен быть [квалифицированным пользователем для образовательных целей](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
+|Образование   |Нет   | Должен быть [квалифицированным пользователем для образовательных целей](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
 |Правительство   |Чтобы продать Azure, зарегистрируйтесь, используя [форму проверки облака Microsoft US для государственных организаций](https://azuregov.microsoft.com/csp). Чтобы продавать подписки на основе лицензии для государственных организаций, выполнение определенных требований не требуется.|   Нет|
 |Некоммерческий сектор  |Нет<br>Необходимо иметь некоммерческий клиент Azure Active Directory.<br>Дополнительные сведения о [некоммерческих специальных предложениях](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Зарегистрируйтесь через [программу Microsoft для некоммерческих организаций](https://nonprofit.microsoft.com/#/register), чтобы получить право.   |
 
@@ -57,7 +57,7 @@ ms.locfileid: "75631815"
 
 Если вы и ваш клиент отвечаете требованиям программы специальных предложений, выполните следующие действия, чтобы [добавить подписку](create-a-new-subscription.md). В разделе **Каталог** на странице **Новая подписка** выберите конкретную отрасль, чтобы просмотреть специальные предложения, которые вы можете продавать.
 
-## <a name="see-also"></a>См. также статью
+## <a name="see-also"></a>См. также:
 
 [Продавать Minecraft: подписки на образовательные издания для образовательных учреждений](minecraft-subscriptions.md)
 

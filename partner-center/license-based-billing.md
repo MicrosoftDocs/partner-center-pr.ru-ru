@@ -3,22 +3,22 @@ title: Выставление счетов на основе лицензий | 
 ms.topic: article
 ms.date: 11/21/2019
 Description: Сведения о выставлении счетов на основе лицензий в центре партнеров, где выставляются счета за лицензию (не по использованию лицензии).
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: выставление счетов, оплата, лицензия, лицензия
 ms.localizationpriority: medium
-ms.openlocfilehash: 4293b193a58030a17bc63ce4b36111a0285e236c
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 726f7d3664243405bdc4eaa67b32dbe5e21d5fb4
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004923"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390903"
 ---
 # <a name="license-based-billing"></a>Выставление счетов на основе лицензии
 
 **Относится к**
 
-- Центр партнеров
+- Партнерский центр
 - Партнеры в программе CSP
 
 **Соответствующие роли**
@@ -37,7 +37,7 @@ ms.locfileid: "75004923"
 
 Счета за подписки на основе лицензий выставляются заранее по **дате юбилея**подписки. Дата юбилея — это день месяца, в который вы приобрели подписку.
 
-Пример
+Например:
 
 - Если вы приобрели **месячную подписку** 15 января, Дата юбилея будет составлять 15 раз в месяц.
 - Если вы приобрели **годовую подписку** 15 января, Дата юбилея будет составлять 15 января каждого года.

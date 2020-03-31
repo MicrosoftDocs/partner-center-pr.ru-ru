@@ -5,16 +5,16 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Узнайте, как получить доступ к сведениям о выплатах. Это относится к выплатам приложений и игр Windows, а также MPN стимулам.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Поощрения, выплата
 ms.localizationpriority: medium
-ms.openlocfilehash: 08586ad004e351de2d7880bf83a73e12e5d24821
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: e83fa96a4175dbcf792b7653237457bfd94cd1c2
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004793"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390953"
 ---
 # <a name="access-your-incentives-payouts-page"></a>Доступ к странице "выплаты стимулов"
 

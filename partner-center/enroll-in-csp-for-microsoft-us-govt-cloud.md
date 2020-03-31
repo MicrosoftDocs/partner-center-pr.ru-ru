@@ -5,15 +5,15 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Прежде чем регистрироваться в программе поставщиков облачных решений Microsoft Cloud для правительства США, ознакомьтесь с требованиями программы CSP.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 13ec7eddd2fef9be9f120729b54e6f9e2cf58f9b
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 4d6215927f5c1c922f9c124d78a41694703cb0bf
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722577"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389803"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Регистрация в программе поставщиков облачных решений Microsoft Cloud для правительства США
 
@@ -79,13 +79,13 @@ Microsoft Cloud для правительства США предоставля�
 
 2.  Назначьте роль агента по администрированию соответствующим пользователям в вашей организации. Для этого вам необходимо добавить этих пользователей во встроенную группу **AdminAgent**. +Порядок выполнения этой операции приведен в разделе [Управление участниками группы в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal).
  
-## <a name="connect-with-us"></a>Контакты
+## <a name="connect-with-us"></a>Свяжитесь с нами
 
 - Есть вопросы? Отправьте нам сообщение электронной почты на адрес azgovcsp@microsoft.com
 
 - Присоединяйтесь к нам в [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all) 
 
-## <a name="related-topics"></a>Статьи по теме
+## <a name="related-topics"></a>Связанные разделы
 
 -  [Центр партнеров для Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
 

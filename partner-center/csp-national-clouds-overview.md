@@ -5,16 +5,16 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как партнеры корпорации Майкрософт в программе поставщика облачных решений могут продавать клиентам, зарегистрированным в поддерживаемых национальных облаках.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: национальные облака, Microsoft Cloud в Германии, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud в Китае
 ms.localizationpriority: medium
-ms.openlocfilehash: d8f23931f5f13252a8d72b36b4be52efd5f3cd88
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 03e9a08d7aa683098e4ff998afa981f7e915e2fc
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253519"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389613"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>Подача заявки на осуществление продаж в национальных облаках Microsoft
 

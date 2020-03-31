@@ -5,21 +5,21 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Ознакомьтесь с инструкциями для партнеров по прямым счетам (прямые торговые посредники, косвенные поставщики), чтобы проверить партнеров и клиентов для Office 365 правительства GCC для CSP.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 3819362421c19a9331760ff4c2068c1a781dd00c
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a0cbdcd0ac4bcf6eda9df43f4b3a92bfcb4ce91b
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721936"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389733"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Квалификационные критерии для партнеров и клиентов по Office 365 для государственных организаций в средах GCC для CSP
 
 **Относится к**
 
--  Центр партнеров
+-  Партнерский центр
 -  Партнеры CSP
 
 **Соответствующие роли**
@@ -48,7 +48,7 @@ ms.locfileid: "74721936"
 2.  Предоставляет услуги правительственным клиентам США через администрацию общего обслуживания или другие договорные механизмы.
 
 **Критерии клиента**
-1.  Является государственным учреждением США. Пример
+1.  Является государственным учреждением США. Например:
  
     -  Федеральное агентство (например, бюро, агентство, подразделение или другое юридическое лицо правительства США)
     -   Региональное/муниципальное юридическое лицо 

@@ -5,21 +5,21 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как и где можно управлять центром партнеров для партнеров Microsoft Cloud Германии, клиентов и лицензий, а также для сброса паролей.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 39d1d6ff405ca4b19fc59edddc1bd5e5dbb4fef2
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 6f6a5f1c4a64e6bb9f80204dbbf6100b8441bc37
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943377"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390493"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud в Германии
 
 **Относится к**
 
--  Центр партнеров Microsoft Cloud для Германии
+-  Центр партнеров Microsoft Cloud в Германии
 
 > [!IMPORTANT]
 > Учитывая развитие потребностей клиентов, Наша облачная стратегия для Германии посвящена доставке новых облачных регионов в Германии, которые соответствуют нашему глобальному облачному предложению. Таким образом мы больше не будем принимать новых клиентов или развертывать какие-либо новые службы в рамках Microsoft Cloud в Германии. Существующие клиенты могут продолжать использовать текущие облачные службы, доступные сегодня, которые мы будем поддерживать с помощью необходимых обновлений для системы безопасности.
@@ -52,7 +52,7 @@ ms.locfileid: "74943377"
 
 **Связанные разделы**
 
--  [Microsoft Azure для Германии](https://azure.microsoft.com/global-infrastructure/germany/)
+-  [Microsoft Azure — Германия](https://azure.microsoft.com/global-infrastructure/germany/)
 
 -  [Центр партнеров Microsoft Cloud для Германии](partner-center-for-microsoft-cloud-germany.md)
 

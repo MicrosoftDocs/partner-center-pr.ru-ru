@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, какие проблемы должны решать партнеры корпорации Майкрософт для своих клиентов и какие проблемы может потребоваться передать корпорации Майкрософт.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 38797b12a4f32d7feea01f4ca320eee3faf19799
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: f4b6e11e1bd4ad4acd014dbe9786cd9189bdbbc1
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722239"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389863"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Сообщение о проблемах в Майкрософт
 
 **Относится к**
 
-- Центр партнеров
+- Партнерский центр
 - Центр партнеров для Microsoft Cloud for US Government
 
 **Соответствующие роли**
@@ -33,7 +33,7 @@ ms.locfileid: "74722239"
 
 Предполагается, что вы будете решать проблемы от имени своих клиентов. Сначала необходимо [проверить работоспособность службы](check-service-health.md) для обнаружения существующих, документально оформленных проблем. Если проблему клиента решить не удалось, тогда вы можете воспользоваться правами администратора, чтобы устранить неполадки программного обеспечения, параметров и конфигурации.
 
-Однако существует несколько категорий проблем, решение которых необходимо поручить Майкрософт.
+Однако существует несколько категорий проблем, решение которых необходимо поручить Майкрософт:
 
 - Недокументированные проблемы со службами, которые не работают согласно описаниям.
 
@@ -47,7 +47,7 @@ ms.locfileid: "74722239"
 
 ## <a name="submit-a-support-request"></a>Отправка запроса в службу поддержки
 
-1. Войдите на [панель мониторинга](https://partner.microsoft.com/dashboard)центра партнеров.
+1. Войдите на [панель мониторинга](https://partner.microsoft.com/dashboard) Центра партнеров.
 
 2. В меню Центр партнеров выберите **Клиенты**, а затем выберите клиента, которому требуется поддержка.
 

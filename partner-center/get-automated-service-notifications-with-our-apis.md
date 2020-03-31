@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Партнеры могут использовать API для партнеров Office 365 и Microsoft Azure для обеспечения работоспособности службы в режиме реального времени, обмена сообщениями и плановых событий обслуживания.
 ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 632d6ee1806638040ee1e08e1eb715d517a0c3b2
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: e3424f1670a5b7533bcee1e7ca29197ad3ee58d8
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722211"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391033"
 ---
 # <a name="get-automated-service-notifications-with-our-apis"></a>Автоматизация уведомлений служб с помощью наших API
 
 **Относится к**
 
--  Центр партнеров
+-  Партнерский центр
 
 **Соответствующие роли**
 

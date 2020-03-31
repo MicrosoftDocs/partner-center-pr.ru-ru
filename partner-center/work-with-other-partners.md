@@ -5,21 +5,21 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как косвенные поставщики партнеров с непрямыми торговыми посредниками в программе поставщика облачных решений (CSP) и определяют, какая роль подходит вам.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 720d4890eb4d131484a26d489c202ca3f173a006
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: ffa27c8f0c099182dc24d44d0ccaef1a6231dead
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943157"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390453"
 ---
 # <a name="work-with-other-partners"></a>Работа с другими партнерами
 
 **Относится к**
 
--  Центр партнеров
+-  Партнерский центр
 
 Программа поставщика облачных решений Майкрософт (CSP) предоставляет партнерам возможность совместно работать с этими способами.
 
