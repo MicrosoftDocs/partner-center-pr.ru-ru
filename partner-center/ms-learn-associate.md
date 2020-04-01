@@ -6,27 +6,27 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как связать идентификатор MCP с учетной записью Центра партнеров, чтобы ваша компания могла просматривать учебные курсы и схемы обучения, которые вы изучили для получения компетенций.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: роли, разрешения, добавление пользователя, назначение роли, администратор, агент, идентификатор MCP, Microsoft Learn
 ms.localizationpriority: high
-ms.openlocfilehash: b3f263aff2b2fcbc25ff7a348e137fc15c10157d
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 3490b69fd2222d4aa6fee1387fa5cff2e88525e3
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340172"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390843"
 ---
-# <a name="associate-your-microsoft-learn-account-in-partner-center"></a><span data-ttu-id="6985b-104">Связывание учетной записи Microsoft Learn с Центром партнеров</span><span class="sxs-lookup"><span data-stu-id="6985b-104">Associate your Microsoft Learn account in Partner Center</span></span>
+# <a name="associate-your-microsoft-learn-account-in-partner-center"></a><span data-ttu-id="6b3f7-104">Связывание учетной записи Microsoft Learn с Центром партнеров</span><span class="sxs-lookup"><span data-stu-id="6b3f7-104">Associate your Microsoft Learn account in Partner Center</span></span>
 
-<span data-ttu-id="6985b-105">**Соответствующие роли**</span><span class="sxs-lookup"><span data-stu-id="6985b-105">**Appropriate roles**</span></span>
--   <span data-ttu-id="6985b-106">Глобальный администратор</span><span class="sxs-lookup"><span data-stu-id="6985b-106">Global admin</span></span>
--   <span data-ttu-id="6985b-107">администратор пользователей.</span><span class="sxs-lookup"><span data-stu-id="6985b-107">User admin</span></span>
+<span data-ttu-id="6b3f7-105">**Соответствующие роли**</span><span class="sxs-lookup"><span data-stu-id="6b3f7-105">**Appropriate roles**</span></span>
+-   <span data-ttu-id="6b3f7-106">Глобальный администратор</span><span class="sxs-lookup"><span data-stu-id="6b3f7-106">Global admin</span></span>
+-   <span data-ttu-id="6b3f7-107">администратор пользователей.</span><span class="sxs-lookup"><span data-stu-id="6b3f7-107">User admin</span></span>
 
-<span data-ttu-id="6985b-108">Чтобы ваша компания могла просмотреть учебные курсы и схемы обучения, которые вы прошли для получения компетенций, вам необходимо связать свой идентификатор MCP с учетной записью Центра партнеров.</span><span class="sxs-lookup"><span data-stu-id="6985b-108">In order for your company to be able to see the training and learning paths you have taken towards competencies, you need to associate your MCP ID to your Partner Center account.</span></span> <span data-ttu-id="6985b-109">Это можно сделать вручную после того, как вас добавят в качестве пользователя Центра партнеров.</span><span class="sxs-lookup"><span data-stu-id="6985b-109">You do this manually after you have been added as a Partner Center user.</span></span>
+<span data-ttu-id="6b3f7-108">Чтобы ваша компания могла просмотреть учебные курсы и схемы обучения, которые вы прошли для получения компетенций, вам необходимо связать свой идентификатор MCP с учетной записью Центра партнеров.</span><span class="sxs-lookup"><span data-stu-id="6b3f7-108">In order for your company to be able to see the training and learning paths you have taken towards competencies, you need to associate your MCP ID to your Partner Center account.</span></span> <span data-ttu-id="6b3f7-109">Это можно сделать вручную после того, как вас добавят в качестве пользователя Центра партнеров.</span><span class="sxs-lookup"><span data-stu-id="6b3f7-109">You do this manually after you have been added as a Partner Center user.</span></span>
 
-### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a><span data-ttu-id="6985b-110">Связывание идентификатора MCP с учетной записью Центра партнеров</span><span class="sxs-lookup"><span data-stu-id="6985b-110">How to associate your MCP ID to your Partner Center account</span></span>
+### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a><span data-ttu-id="6b3f7-110">Связывание идентификатора MCP с учетной записью Центра партнеров</span><span class="sxs-lookup"><span data-stu-id="6b3f7-110">How to associate your MCP ID to your Partner Center account</span></span>
 
-1. <span data-ttu-id="6985b-111">В правом углу Панели мониторинга Центра партнеров щелкните значок **Your account** (Ваша учетная запись), а затем выберите **My profile** (Мой профиль).</span><span class="sxs-lookup"><span data-stu-id="6985b-111">From the Partner Center dashboard, select the **Your account** icon in the right corner of the dashboard, and then select **My profile**.</span></span>
+1. <span data-ttu-id="6b3f7-111">В правом углу Панели мониторинга Центра партнеров щелкните значок **Your account** (Ваша учетная запись), а затем выберите **My profile** (Мой профиль).</span><span class="sxs-lookup"><span data-stu-id="6b3f7-111">From the Partner Center dashboard, select the **Your account** icon in the right corner of the dashboard, and then select **My profile**.</span></span>
 
-2. <span data-ttu-id="6985b-112">В разделе **Your learning** (Ваше обучение) вы сможете привязать свою учетную запись Microsoft Learning, а также подключить учетную запись Майкрософт к Partner University.</span><span class="sxs-lookup"><span data-stu-id="6985b-112">Under **Your learning** you will be able to associate your Microsoft Learning account and also connect your Microsoft account to Partner University.</span></span>
+2. <span data-ttu-id="6b3f7-112">В разделе **Your learning** (Ваше обучение) вы сможете привязать свою учетную запись Microsoft Learning, а также подключить учетную запись Майкрософт к Partner University.</span><span class="sxs-lookup"><span data-stu-id="6b3f7-112">Under **Your learning** you will be able to associate your Microsoft Learning account and also connect your Microsoft account to Partner University.</span></span>
