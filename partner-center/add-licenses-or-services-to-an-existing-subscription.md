@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как обновить или изменить подписку клиента, например добавить дополнительные лицензии или рабочие места либо перейти на другую версию с другими службами.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: добавление лицензий в существующую подписку, добавление рабочих мест для существующей подписки, изменение подписки, изменить подписку, приобретение дополнительных лицензий для клиента
 ms.localizationpriority: high
-ms.openlocfilehash: c1f2e523c325356959e9b89d2d7082ee9a6cb95c
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 9f6f9ca4c1c8ca6b530e1e42e925da27ca088a46
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340072"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391023"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Добавление лицензий или служб к существующей подписке
 

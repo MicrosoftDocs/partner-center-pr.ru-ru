@@ -5,16 +5,16 @@ ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, где найти и как скачать Клиентское соглашение Майкрософт для определенного региона на соответствующем языке, чтобы ознакомить с ним клиентов.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Клиентские соглашения Майкрософт, шаблоны соглашения с клиентами, соглашения с клиентами CSP, Клиентское соглашение Майкрософт, соглашения MCA, CSP, где можно продавать по программе CSP?, страны и регионы CSP, соглашения CSP MCA на нескольких языках, CSP в Северной Америке, CSP в Центральной Америке, CSP в Южной Америке, CSP в Карибском бассейне, CSP для Microsoft Cloud for US Government, CSP для Microsoft Cloud для Германии, CSP на Ближнем Востоке, CSP в Африке, CSP в Европе, CSP в Азии, CSP в Тихоокеанском регионе, соглашения MCA для CSP
 ms.localizationpriority: high
-ms.openlocfilehash: 9acf143bdbeeea29c7fc7ec71ca459c57b20e8ca
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 501d6d933ba253e42875056e0e245b0af65138b3
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672794"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389633"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>Клиентские соглашения Майкрософт для разных регионов и языков
 
@@ -26,7 +26,7 @@ ms.locfileid: "77672794"
 
 - Глобальный администратор
 - Администратор управления пользователями
-- Агент администрирования
+- Агент по администрированию
 - Агент по продажам
 - Агент службы технической поддержки
 

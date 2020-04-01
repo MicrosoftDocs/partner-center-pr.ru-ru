@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Узнайте о выставлении счетов в Центре партнеров, включая информацию о ресурсах для выставления счетов, счетах и выставлении счетов в рамках CSP.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: выставление счетов, платежи, заказы, отмена, управление заказами, неоплата, мошенничество, ненадлежащее использование, налоги, освобождение от уплаты налогов, файлы выверки, файл выверки
 ms.localizationpriority: high
-ms.openlocfilehash: b3052f33b55ea7aa57d5ee9d29d2839791a92088
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 1f782b3696f82bb16487fb4ecae68b806cabfcac
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722170"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390283"
 ---
 # <a name="billing"></a>Выставление счетов
 
@@ -26,7 +26,7 @@ ms.locfileid: "74722170"
 
 **Соответствующие роли**
 
-- Агент администрирования
+- Агент по администрированию
 - Администратор выставления счетов
 - Глобальный администратор
 - Агент по продажам

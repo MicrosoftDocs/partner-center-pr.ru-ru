@@ -5,17 +5,17 @@ ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Узнайте о преимуществах партнерских отношений с корпорацией Майкрософт, в том числе об Action Pack от Майкрософт, компетенциях и возможностях программы, которые помогут вам выделиться на фоне конкурентов, выйти на рынок со своими решениями и успешно их продавать.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: партнер, сотрудничество, MPN, Microsoft Partner Network, Action Pack, MAPS, подписка Action Pack, преимущества, преимущества MPN, членство, Silver, Gold, компетенции
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: e1d54af9ab156c94c1b9376e5e7de71a0e9d010a
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ef6ef1aacfc02205f0c2eab9d3a084b5d4d51b13
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004203"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390863"
 ---
 # <a name="partner-with-microsoft"></a>Партнерство с Майкрософт
 
@@ -23,7 +23,7 @@ ms.locfileid: "75004203"
 -   Глобальный администратор
 -   Администратор партнера MPN
 -   администратор пользователей.
--   Агент администрирования
+-   Агент по администрированию
 
 При присоединении к партнерской программе Майкрософт вы становитесь частью глобального сообщества, которое предоставляет вам доступ к полезным связям, аналитическим данным, средствам, ресурсам и программам, с помощью которых вы сможете удивлять своих клиентов и развивать свой бизнес.
 
@@ -82,5 +82,5 @@ Action Pack предлагает программное обеспечение, 
 - [Управление преимуществами членства в Microsoft Partner Network](manage-your-partner-network-benefits.md)
 - [Основные требования](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также статью
 - [Развивайте свой партнерский бизнес вместе с Майкрософт](grow-your-business.md)
