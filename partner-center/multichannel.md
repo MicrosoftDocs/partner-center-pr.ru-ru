@@ -6,33 +6,33 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: В некоторых случаях клиенты могут предложить вам заняться подготовкой к работе и поддержкой их подписки, которую они приобрели в другом месте.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 5dfdd0a579f323e7d6cb0af0dffbdb7bac29cf38
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: d7c56e934060a9bfba55a262e262e01eaac50691
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005093"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390833"
 ---
-# <a name="multi-channel-support"></a><span data-ttu-id="191ca-103">Поддержка нескольких каналов</span><span class="sxs-lookup"><span data-stu-id="191ca-103">Multi-channel support</span></span>
+# <a name="multi-channel-support"></a><span data-ttu-id="57d6f-103">Поддержка нескольких каналов</span><span class="sxs-lookup"><span data-stu-id="57d6f-103">Multi-channel support</span></span>
 
-<span data-ttu-id="191ca-104">**Относится к**</span><span class="sxs-lookup"><span data-stu-id="191ca-104">**Applies to**</span></span>
+<span data-ttu-id="57d6f-104">**Относится к**</span><span class="sxs-lookup"><span data-stu-id="57d6f-104">**Applies to**</span></span>
 
--  <span data-ttu-id="191ca-105">Центр партнеров</span><span class="sxs-lookup"><span data-stu-id="191ca-105">Partner Center</span></span>
--  <span data-ttu-id="191ca-106">Центр партнеров для Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="191ca-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="57d6f-105">Партнерский центр</span><span class="sxs-lookup"><span data-stu-id="57d6f-105">Partner Center</span></span>
+-  <span data-ttu-id="57d6f-106">Центр партнеров для Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="57d6f-106">Partner Center for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="191ca-107">**Соответствующие роли**</span><span class="sxs-lookup"><span data-stu-id="191ca-107">**Appropriate roles**</span></span>
--   <span data-ttu-id="191ca-108">Глобальный администратор</span><span class="sxs-lookup"><span data-stu-id="191ca-108">Global admin</span></span>
--   <span data-ttu-id="191ca-109">администратор пользователей.</span><span class="sxs-lookup"><span data-stu-id="191ca-109">User admin</span></span>
--   <span data-ttu-id="191ca-110">Агент по продажам</span><span class="sxs-lookup"><span data-stu-id="191ca-110">Sales agent</span></span>
+<span data-ttu-id="57d6f-107">**Соответствующие роли**</span><span class="sxs-lookup"><span data-stu-id="57d6f-107">**Appropriate roles**</span></span>
+-   <span data-ttu-id="57d6f-108">Глобальный администратор</span><span class="sxs-lookup"><span data-stu-id="57d6f-108">Global admin</span></span>
+-   <span data-ttu-id="57d6f-109">администратор пользователей.</span><span class="sxs-lookup"><span data-stu-id="57d6f-109">User admin</span></span>
+-   <span data-ttu-id="57d6f-110">Агент по продажам</span><span class="sxs-lookup"><span data-stu-id="57d6f-110">Sales agent</span></span>
 
-<span data-ttu-id="191ca-111">Многоканальная функция центра партнеров поддерживает сценарии, когда клиент хочет нанять партнера для управления и поддержки подписки, приобретенной в других местах.</span><span class="sxs-lookup"><span data-stu-id="191ca-111">The Partner Center's multi-channel feature supports scenarios when a customer wants to hire a partner to manage and support a subscription they purchased elsewhere.</span></span> <span data-ttu-id="191ca-112">Поддержка нескольких каналов применима, если клиент:</span><span class="sxs-lookup"><span data-stu-id="191ca-112">Multi-channel support applies when the customer:</span></span>
+<span data-ttu-id="57d6f-111">Многоканальная функция центра партнеров поддерживает сценарии, когда клиент хочет нанять партнера для управления и поддержки подписки, приобретенной в других местах.</span><span class="sxs-lookup"><span data-stu-id="57d6f-111">The Partner Center's multi-channel feature supports scenarios when a customer wants to hire a partner to manage and support a subscription they purchased elsewhere.</span></span> <span data-ttu-id="57d6f-112">Поддержка нескольких каналов применима, если клиент:</span><span class="sxs-lookup"><span data-stu-id="57d6f-112">Multi-channel support applies when the customer:</span></span>
 
--   <span data-ttu-id="191ca-113">уже приобретал подписки напрямую у Майкрософт либо через программы Advisor, Open или EA;</span><span class="sxs-lookup"><span data-stu-id="191ca-113">Already puchased subscriptions directly from Microsoft or through the Advisor, Open, or EA programs.</span></span>
+-   <span data-ttu-id="57d6f-113">уже приобретал подписки напрямую у Майкрософт либо через программы Advisor, Open или EA;</span><span class="sxs-lookup"><span data-stu-id="57d6f-113">Already puchased subscriptions directly from Microsoft or through the Advisor, Open, or EA programs.</span></span>
 
--   <span data-ttu-id="191ca-114">приобретал подписки у стороннего поставщика, который не является участником программы поставщиков облачных решений или партнером Microsoft Syndication Partner.</span><span class="sxs-lookup"><span data-stu-id="191ca-114">Purchased the subscriptions from a third party not in the Cloud Solution Provider program or not a Microsoft Syndication Partner.</span></span> <span data-ttu-id="191ca-115">Клиенты не могут переключать существующие подписки на основе лицензий на другого участника в программе поставщика облачных решений — они должны дожидаться окончания срока действия подписки или отмены перед перемещением.</span><span class="sxs-lookup"><span data-stu-id="191ca-115">Customers can't switch existing license-based subscriptions to a different partner in the Cloud Solution Provider program-they must wait until the end of their subscription period or cancel before moving.</span></span>
+-   <span data-ttu-id="57d6f-114">приобретал подписки у стороннего поставщика, который не является участником программы поставщиков облачных решений или партнером Microsoft Syndication Partner.</span><span class="sxs-lookup"><span data-stu-id="57d6f-114">Purchased the subscriptions from a third party not in the Cloud Solution Provider program or not a Microsoft Syndication Partner.</span></span> <span data-ttu-id="57d6f-115">Клиенты не могут переключать существующие подписки на основе лицензий на другого участника в программе поставщика облачных решений — они должны дожидаться окончания срока действия подписки или отмены перед перемещением.</span><span class="sxs-lookup"><span data-stu-id="57d6f-115">Customers can't switch existing license-based subscriptions to a different partner in the Cloud Solution Provider program-they must wait until the end of their subscription period or cancel before moving.</span></span>
 
 
 <table>
@@ -42,29 +42,29 @@ ms.locfileid: "75005093"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><span data-ttu-id="191ca-116"><strong>Службы на основе лицензий</strong></span><span class="sxs-lookup"><span data-stu-id="191ca-116"><strong>License-based services</strong></span></span></p></td>
-<td><p><span data-ttu-id="191ca-117">Чтобы предоставлять поддержку для учетных записей с несколькими каналами, вам необходимо запросить у клиента разрешения на управление его подписками.</span><span class="sxs-lookup"><span data-stu-id="191ca-117">To provide support for multi-channel accounts, you must request permissions from the customer to manage their subscriptions.</span></span> <span data-ttu-id="191ca-118">Сведения о том, как это сделать, см. в разделе <a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">Запрос связи с клиентом</a>.</span><span class="sxs-lookup"><span data-stu-id="191ca-118">See <a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">Request a reseller relationship with a customer</a> for information about how to do this.</span></span></p></td>
+<td><p><span data-ttu-id="57d6f-116"><strong>Службы на основе лицензий</strong></span><span class="sxs-lookup"><span data-stu-id="57d6f-116"><strong>License-based services</strong></span></span></p></td>
+<td><p><span data-ttu-id="57d6f-117">Чтобы предоставлять поддержку для учетных записей с несколькими каналами, вам необходимо запросить у клиента разрешения на управление его подписками.</span><span class="sxs-lookup"><span data-stu-id="57d6f-117">To provide support for multi-channel accounts, you must request permissions from the customer to manage their subscriptions.</span></span> <span data-ttu-id="57d6f-118">Сведения о том, как это сделать, см. в разделе <a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">Запрос связи с клиентом</a>.</span><span class="sxs-lookup"><span data-stu-id="57d6f-118">See <a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">Request a reseller relationship with a customer</a> for information about how to do this.</span></span></p></td>
 </tr>
 <tr class="even">
-<td><p><span data-ttu-id="191ca-119"><strong>Службы на основе использования</strong></span><span class="sxs-lookup"><span data-stu-id="191ca-119"><strong>Usage-based services</strong></span></span></p></td>
+<td><p><span data-ttu-id="57d6f-119"><strong>Службы на основе использования</strong></span><span class="sxs-lookup"><span data-stu-id="57d6f-119"><strong>Usage-based services</strong></span></span></p></td>
 <td>
-<p><span data-ttu-id="191ca-120">Для клиента, у которого уже есть подписка на Microsoft Azure из другого канала, например Advisor, Open или EA,&#39;необходимо создать новую подписку Azure в центре партнеров, вручную ввести сведения о подписке, а затем отменить отдельные службы или всю подписку.</span><span class="sxs-lookup"><span data-stu-id="191ca-120">For a customer who already has a subscription to Microsoft Azure from another channel, such as Advisor, Open, or EA, you&#39;ll need to create a new Azure subscription in Partner Center, manually enter the subscription details, and then cancel the individual services or the entire subscription.</span></span> <span data-ttu-id="191ca-121">Azure CSP может сосуществовать с разными каналами.</span><span class="sxs-lookup"><span data-stu-id="191ca-121">Azure CSP can coexist with different channels.</span></span></p>
-<p><span data-ttu-id="191ca-122">Для пользователя, у которого уже есть подписка на Microsoft Azure от другого партнера, например, можно переключить службы Azure на другого партнера.</span><span class="sxs-lookup"><span data-stu-id="191ca-122">For a customer who already has a subscription to Microsoft Azure from another partner, for example, you can switch Azure services to the other partner.</span></span>  <span data-ttu-id="191ca-123">Подробнее см. в разделе <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Переключение подписок Azure на другого партнера</a>.</span><span class="sxs-lookup"><span data-stu-id="191ca-123">For more information, see <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Switch Azure subscriptions to a different partner</a>.</span></span></p>
+<p><span data-ttu-id="57d6f-120">Для клиента, у которого уже есть подписка на Microsoft Azure из другого канала, например Advisor, Open или EA,&#39;необходимо создать новую подписку Azure в центре партнеров, вручную ввести сведения о подписке, а затем отменить отдельные службы или всю подписку.</span><span class="sxs-lookup"><span data-stu-id="57d6f-120">For a customer who already has a subscription to Microsoft Azure from another channel, such as Advisor, Open, or EA, you&#39;ll need to create a new Azure subscription in Partner Center, manually enter the subscription details, and then cancel the individual services or the entire subscription.</span></span> <span data-ttu-id="57d6f-121">Azure CSP может сосуществовать с разными каналами.</span><span class="sxs-lookup"><span data-stu-id="57d6f-121">Azure CSP can coexist with different channels.</span></span></p>
+<p><span data-ttu-id="57d6f-122">Для пользователя, у которого уже есть подписка на Microsoft Azure от другого партнера, например, можно переключить службы Azure на другого партнера.</span><span class="sxs-lookup"><span data-stu-id="57d6f-122">For a customer who already has a subscription to Microsoft Azure from another partner, for example, you can switch Azure services to the other partner.</span></span>  <span data-ttu-id="57d6f-123">Подробнее см. в разделе <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Переключение подписок Azure на другого партнера</a>.</span><span class="sxs-lookup"><span data-stu-id="57d6f-123">For more information, see <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Switch Azure subscriptions to a different partner</a>.</span></span></p>
 </td>
 </tr>
 </tbody>
 </table>
 
 > [!IMPORTANT]  
-> <span data-ttu-id="191ca-124">Партнер CSP в настоящий момент не может перепродавать веб-службы другому партнеру CSP.</span><span class="sxs-lookup"><span data-stu-id="191ca-124">A CSP partner cannot resell online services to another CSP partner currently.</span></span> <span data-ttu-id="191ca-125">Корпорация Майкрософт постоянно пересматривает политику и возможности всех программ.</span><span class="sxs-lookup"><span data-stu-id="191ca-125">Microsoft continuously reviews policies and capabilities of all programs.</span></span> <span data-ttu-id="191ca-126">Все объявления о выпусках функций будут объявлены через обычные каналы связи, включая центр партнеров.</span><span class="sxs-lookup"><span data-stu-id="191ca-126">Any announcements about feature releases will be announced through the usual communication channels, including the Partner Center.</span></span> 
+> <span data-ttu-id="57d6f-124">Партнер CSP в настоящий момент не может перепродавать веб-службы другому партнеру CSP.</span><span class="sxs-lookup"><span data-stu-id="57d6f-124">A CSP partner cannot resell online services to another CSP partner currently.</span></span> <span data-ttu-id="57d6f-125">Корпорация Майкрософт постоянно пересматривает политику и возможности всех программ.</span><span class="sxs-lookup"><span data-stu-id="57d6f-125">Microsoft continuously reviews policies and capabilities of all programs.</span></span> <span data-ttu-id="57d6f-126">Все объявления о выпусках функций будут объявлены через обычные каналы связи, включая центр партнеров.</span><span class="sxs-lookup"><span data-stu-id="57d6f-126">Any announcements about feature releases will be announced through the usual communication channels, including the Partner Center.</span></span> 
 
-## <a name="see-also"></a><span data-ttu-id="191ca-127">См. также</span><span class="sxs-lookup"><span data-stu-id="191ca-127">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="57d6f-127">См. также:</span><span class="sxs-lookup"><span data-stu-id="57d6f-127">See also</span></span>
 
-[<span data-ttu-id="191ca-128">Работа с другими партнерами</span><span class="sxs-lookup"><span data-stu-id="191ca-128">Work with other partners</span></span>](work-with-other-partners.md)
+[<span data-ttu-id="57d6f-128">Работа с другими партнерами</span><span class="sxs-lookup"><span data-stu-id="57d6f-128">Work with other partners</span></span>](work-with-other-partners.md)
 
-<span data-ttu-id="191ca-129">Если вы — косвенный посредник, см. раздел [Партнерство с косвенными поставщиками](indirect-reseller-tasks-in-partner-center.md)</span><span class="sxs-lookup"><span data-stu-id="191ca-129">If you're an indirect reseller, see [Partner with indirect providers](indirect-reseller-tasks-in-partner-center.md)</span></span>
+<span data-ttu-id="57d6f-129">Если вы — косвенный посредник, см. раздел [Партнерство с косвенными поставщиками](indirect-reseller-tasks-in-partner-center.md)</span><span class="sxs-lookup"><span data-stu-id="57d6f-129">If you're an indirect reseller, see [Partner with indirect providers](indirect-reseller-tasks-in-partner-center.md)</span></span>
 
-<span data-ttu-id="191ca-130">Если вы — косвенный поставщик, см. раздел [Партнерство с косвенными торговыми посредниками](indirect-provider-tasks-in-partner-center.md)</span><span class="sxs-lookup"><span data-stu-id="191ca-130">If you're an indirect provider, see [Partner with indirect resellers](indirect-provider-tasks-in-partner-center.md)</span></span> 
+<span data-ttu-id="57d6f-130">Если вы — косвенный поставщик, см. раздел [Партнерство с косвенными торговыми посредниками](indirect-provider-tasks-in-partner-center.md)</span><span class="sxs-lookup"><span data-stu-id="57d6f-130">If you're an indirect provider, see [Partner with indirect resellers](indirect-provider-tasks-in-partner-center.md)</span></span> 
 
  
 
