@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как использовать метрики в центре партнеров для того, чтобы узнать, растет ли ваш бизнес, как клиенты используют свои лицензии и как сосредоточиться на инвестиций.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 728ef5c3df62acc3037e0f8a6a3578682d507980
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 4dcf203748834be1dcadc6026d2bc6193e86c5a1
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004783"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390943"
 ---
-# <a name="increase-adoption-and-satisfaction"></a>Повышение популярности и уровня удовлетворенности
+# <a name="increase-adoption-and-satisfaction"></a>Повышение популярности и удовлетворенности
 
 **Относится к**
 
--  Центр партнеров
+-  Партнерский центр
 
 **Соответствующие роли**
 -   Глобальный администратор
@@ -67,7 +67,7 @@ ms.locfileid: "75004783"
 
     -   Если некоторые клиенты используют Yammer значительно больше, чем допускает их лицензия, данные могут быть сильно искажены.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 
 Если вы филдинге множество вопросов и инструкций, Номера внедрения в вашей учетной записи невелики или вы ищете возможности для продаж, вам может потребоваться рассмотреть учебные курсы. Изучите своим заказчикам, как лучше использовать приобретенное по облачным решениям программное обеспечение, что скорее всего повлияет на производительность и удовлетворенность, а также на снижение потребностей в поддержке.

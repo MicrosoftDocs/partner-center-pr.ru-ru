@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: В некоторых случаях клиенты могут предложить вам заняться подготовкой к работе и поддержкой их подписки, которую они приобрели в другом месте.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 5dfdd0a579f323e7d6cb0af0dffbdb7bac29cf38
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: d7c56e934060a9bfba55a262e262e01eaac50691
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005093"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390833"
 ---
 # <a name="multi-channel-support"></a>Поддержка нескольких каналов
 
 **Относится к**
 
--  Центр партнеров
+-  Партнерский центр
 -  Центр партнеров для Microsoft Cloud for US Government
 
 **Соответствующие роли**
@@ -58,7 +58,7 @@ ms.locfileid: "75005093"
 > [!IMPORTANT]  
 > Партнер CSP в настоящий момент не может перепродавать веб-службы другому партнеру CSP. Корпорация Майкрософт постоянно пересматривает политику и возможности всех программ. Все объявления о выпусках функций будут объявлены через обычные каналы связи, включая центр партнеров. 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 [Работа с другими партнерами](work-with-other-partners.md)
 
