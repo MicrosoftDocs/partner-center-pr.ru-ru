@@ -40,7 +40,6 @@
 ## [Переход со статуса партнера с прямым выставлением счетов в статус косвенного торгового посредника в рамках программы CSP](transition-direct-to-indirect.md)
 ## [Соглашения, прайс-листы и предложения CSP](csp-documents-and-learning-resources.md)
 ## [Региональные рынки и валюты CSP](regional-authorization-overview.md)
-## [Подтверждение принятия клиентом условий клиентского договора с Майкрософт](confirm-consent.md)
 ## [Подтверждение принятия клиентом условий клиентского договора с Майкрософт](confirm-customer-agreement.md)
 ### [Когда следует подтверждать принятие Клиентского соглашения от имени клиента](attest-acceptance-customer-agreement.md)
 
@@ -65,12 +64,15 @@
 ## [Восстановление приостановленной учетной записи Центра партнеров](suspended-partner-center-account.md)
 ## [Добавление приложения Azure AD](service-principal.md)
 ## [Связывание учетной записи Microsoft Learn с Центром партнеров](ms-learn-associate.md)
+
 # Управление учетной записью Центра партнеров — пользователи
 ## [Создание учетных записей пользователей](create-user-accounts-and-set-permissions.md)
 ## [Назначение пользователям ролей и разрешений](permissions-overview.md)
 ## [Регистрация в качестве поставщика панелей управления](enroll-as-cpv.md)
 ## [Сброс пароля пользователя](reset-a-user-password.md)
 ## [Сброс пароля](reset-my-pasword.md)
+## [Если не удается войти в Центр партнеров](unable-to-sign-in.md)
+
 # Управление учетной записью Центра партнеров — бизнес
 ## [Добавление служб Azure Partner Shared Services](shared-services.md)
 ## [Цены и предложения](pricing-and-offers.md)
