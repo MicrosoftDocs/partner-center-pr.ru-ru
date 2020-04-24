@@ -11,10 +11,10 @@ Keywords: рабочая учетная запись, электронная п�
 robots: ''
 ms.localizationpriority: high
 ms.openlocfilehash: c309cd4f79bcc92fa54c903b4517fd5a1b8399fd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74721350"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Рабочая учетная запись компании и Центр партнеров  

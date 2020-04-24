@@ -11,10 +11,10 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.openlocfilehash: 776fea7eea91e15f872021356562af05e89f1fcf
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "75005003"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Как вычисляются и выплачиваются партнерские баллы
@@ -22,7 +22,7 @@ ms.locfileid: "75005003"
 **Соответствующие роли**
 -   Глобальный администратор
 -   администратор пользователей.
--   Агент администрирования
+-   Агент по администрированию
 -   Администратор выставления счетов
 -   Агент по продажам
 

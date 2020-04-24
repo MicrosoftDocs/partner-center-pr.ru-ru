@@ -10,13 +10,13 @@ ms.author: labrenne
 keywords: учетная запись партнера, расположения
 ms.localizationpriority: high
 ms.openlocfilehash: e1f7c6732b2945d50b241764d1cf78ae6631152b
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "78340132"
 ---
-# <a name="manage-your-partner-account-locations"></a>Управление учетной записью партнера: расположения
+# <a name="manage-your-partner-account-locations"></a>Управление учетной записью партнера: Расположения
 
 **Соответствующие роли**
 -   Глобальный администратор

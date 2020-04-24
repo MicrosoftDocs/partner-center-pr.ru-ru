@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: Поставщик облачных решений, программа поставщиков облачных решений, CSP, добавить продукт, продажа клиентам, предложения для партнеров, предложения CSP, облачные службы, Azure, Office 365, Dynamics, партнер CSP, продажи в рамках CSP, Azure RI, Azure Reserved Virtual Machine Instances, резервирования Azure, веб-службы, программное обеспечение по подписке, AHUB, SQL Server в Azure, Windows Server в Azure, подписки клиентов
 ms.localizationpriority: high
 ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722540"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Предложения для партнеров по программе поставщиков облачных решений
@@ -24,7 +24,7 @@ ms.locfileid: "74722540"
 
 **Соответствующие роли**
 
-- Агент администрирования
+- Агент по администрированию
 - Глобальный администратор
 - Агент по продажам
 
@@ -112,6 +112,6 @@ ms.locfileid: "74722540"
 
 Сведения о приобретении продуктов в плане Azure см. в разделе [Приобретение плана Azure](purchase-azure-plan.md).
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также статью
 
 [Общие сведения о коммерческой платформе CSP](csp-commercial-marketplace-overview.md)

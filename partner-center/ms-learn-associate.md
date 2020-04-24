@@ -11,10 +11,10 @@ ms.author: jasonh
 Keywords: роли, разрешения, добавление пользователя, назначение роли, администратор, агент, идентификатор MCP, Microsoft Learn
 ms.localizationpriority: high
 ms.openlocfilehash: 3490b69fd2222d4aa6fee1387fa5cff2e88525e3
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80390843"
 ---
 # <a name="associate-your-microsoft-learn-account-in-partner-center"></a>Связывание учетной записи Microsoft Learn с Центром партнеров

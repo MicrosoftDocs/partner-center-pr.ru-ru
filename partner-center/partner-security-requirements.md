@@ -10,10 +10,10 @@ ms.author: iswillia
 keywords: Azure Active Directory, поставщик облачных решений, программа поставщика облачных решений, CSP, поставщик панели управления, CPV, многофакторная проверка подлинности, MFA, модель безопасного приложения, безопасность
 ms.localizationpriority: high
 ms.openlocfilehash: b0fe328008ae56272ddd8e22722071e5858881c8
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/27/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "77672804"
 ---
 # <a name="partner-security-requirements"></a>Требования к безопасности для партнеров
@@ -87,7 +87,7 @@ ms.locfileid: "77672804"
 
 Чтобы перейти с базовых политик на использованием параметров безопасности по умолчанию, прочитайте статью [Что такое параметры безопасности по умолчанию?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 
-### <a name="consideration"></a>Параметр
+### <a name="consideration"></a>Оценка
 
 Так как эти требования применяются ко всем учетным записям пользователей в арендаторе партнера, необходимо учесть несколько факторов, чтобы обеспечить успешное развертывание, в том числе идентифицировать учетные записи пользователей в Azure Active Directory, которые не могут выполнять многофакторную проверку подлинности, а также приложения и устройства в вашей организации, которые не поддерживают современную аутентификацию.
 
