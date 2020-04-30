@@ -119,6 +119,7 @@
 ## [Просмотр списка клиентов](see-your-customer-list.md)
 ## [Просмотр журналов действий клиента](activity-logs.md)
 ## [Обновление сведений учетной записи клиента](update-customer-account-info.md)
+## [Предоставление клиентам разрешения на приобретение собственных служб](give-customers-permission.md)
 ## [Создание нескольких пользователей для клиента](adding-multiple-users-to-a-customer-account.md)
 ## [Назначение контактов службы поддержки](assign-support-contacts.md)
 
