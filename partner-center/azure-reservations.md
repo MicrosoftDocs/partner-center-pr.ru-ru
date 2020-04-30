@@ -1,7 +1,7 @@
 ---
 title: Центр партнеров — обзор резервирования Microsoft Azure | Центр партнеров
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Узнайте, как поставщики облачных решений могут покупать, продавать или администрировать резервирования Azure для клиентов, использующих центр партнеров, портал Azure или API центра партнеров.
@@ -10,14 +10,14 @@ ms.author: labrenne
 keywords: azure, резервирования, управление, выставление счетов, приобретение, Azure RI, Azure Reserved Instances
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f6d6e073d33baafe8ca65c8b06b2e2097c350cbd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: eb103e3e3255dd899e72a6dc8496415c50438cbf
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722270"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205732"
 ---
-# <a name="partner-center---sell-microsoft-azure-reservations"></a>Центр партнеров — продажа Microsoft Azure резервированиях
+# <a name="partner-center---sell-microsoft-azure-reservations"></a>Partner Center - Sell Microsoft Azure reservations (Центр партнеров — продажа резервирования Microsoft Azure)
 
 <!--Maggie, 12/7/18 - Added "Partner Center" to metadata title and H1 title as per Catherine Watson in bug #19868631-->
 
@@ -29,7 +29,7 @@ ms.locfileid: "74722270"
 
 **Соответствующие роли**
 
-- Агент администрирования
+- Агент по администрированию
 - Глобальный администратор
 - Агент службы технической поддержки
 - Агент по продажам
@@ -50,14 +50,15 @@ ms.locfileid: "74722270"
 - Резервирование Azure предоставляет основу для комплексных решений инфраструктуры в сочетании с программным обеспечением, например Microsoft Windows Server и базой данных SQL Azure.
 
 >[!NOTE]
-> Вы можете покупать, продавать и управлять резервированием Azure в центре партнеров и портал Azure, а также с помощью API центра партнеров. Чтобы узнать, как это сделать, перейдите по ссылкам ниже.
+> Вы можете покупать, продавать и управлять резервированием Azure в центре партнеров и портал Azure, а также с помощью API центра партнеров. Вы также можете предоставить своим клиентам разрешение на приобретение собственных резервирований Azure из подписки Azure, которую вы приобрели для них. Чтобы узнать, как это сделать, перейдите по ссылкам ниже.
 
 ## <a name="azure-reservations-resources"></a>Ресурсы о резервированиях Azure
 
-|**Дополнительные сведения**   |**Прочитайте это**    |
+|**Сведения о**   |**Прочитайте это**    |
 |:-----------------------------|:-----------------|
-| Документация по резервированию Azure для ваших клиентов | [Что такое резервирование Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+| Документация по резервированию Azure для ваших клиентов | [Основные сведения о резервировании в Azure](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 |Приобретение резервирований Azure для клиентов в центре партнеров   |[Приобретение резервирований Azure](azure-reservations-buying.md)
 |Управление резервированиями Azure в центре партнеров | [Управление резервированиями Azure в центре партнеров](azure-reservations-manage.md)
-|Определение правильного размера виртуальной машины и проверка использования виртуальной машины клиента   |[Размер виртуальной машины для максимального использования резервирования Azure](azure-usage.md)   |
-|Приобретение резервирований Azure с помощью API Центра партнеров | [Приобретение услуги Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) в документации для разработчиков в Центре партнеров
+|Определение правильного размера виртуальной машины и проверка использования виртуальной машины клиента   |[Размеры виртуальных машин для максимального использования резервирования Azure](azure-usage.md)   |
+|Приобретение резервирований Azure с помощью API Центра партнеров | [Приобретение услуги Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) в документации для разработчиков в Центре партнеров   |
+|Предоставление клиентам разрешения на приобретение собственных резервирований Azure из подписки CSP. | [Предоставление клиентам разрешения на приобретение собственных резервирований Azure](give-customers-permission.md)   |
