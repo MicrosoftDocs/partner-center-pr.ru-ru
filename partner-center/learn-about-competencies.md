@@ -1,7 +1,7 @@
 ---
 title: Требования к компетенциям Майкрософт для получения членства уровня Gold и Silver | Центр партнеров
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 04/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о требованиях к компетенциям Майкрософт для получения членства уровней Gold и Silver.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: компетенции, членство уровня silver, членство уровня gold, mpn, MAPS, навыки, Microsoft Partner Network, членство в сети, дополнительные специализации
 ms.localizationpriority: high
-ms.openlocfilehash: 808cf6feabe1eb1c8ec803aaadb55ab5f3d46240
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: cfd4800265a5cde94ff69f66cf19547b0f13961c
+ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80226220"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "82120385"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Сведения о компетенциях уровней Silver и Gold, а также дополнительных специализациях Майкрософт.
 
@@ -31,6 +31,16 @@ ms.locfileid: "80226220"
 - Партнер уровня Gold может также добавить в свой портфель дополнительные специализации.
 
 Получение компетенций уровня **Silver** или **Gold** также позволяет получить выгодные предложения и программы для [выхода на рынок](mpn-learn-about-go-to-market-benefits.md), которые помогут вам расширять и развивать свою компанию.
+
+## <a name="check-your-status-as-you-earn-a-competency"></a>Проверка состояния по мере получения компетенции
+
+Вы можете просмотреть требования и компетенции, которые получила ваша компания, на панели мониторинга Центра партнеров.
+
+1. Выполните вход в [Панель мониторинга](https://partner.microsoft.com/dashboard/home) Центра партнеров.
+
+2. В разделе MPN в меню Центра партнеров выберите **Компетенции**. 
+
+3. Чтобы просмотреть сведения, выберите имя и конкретный параметр компетенции. Вы можете увидеть выполненные требования, а также весь список требований и ссылки на соответствующие экзамены и даты их проверки.
 
 ## <a name="competency-areas"></a>Области компетенции
 
