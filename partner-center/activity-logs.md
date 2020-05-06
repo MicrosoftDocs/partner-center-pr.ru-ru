@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как просматривать и экспортировать журналы действий, чтобы получить представление о транзакциях учетной записи клиента и других действиях по управлению партнерами, связанных с клиентом.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: журналы действий, подписка, подписки, платежи, выставление счетов, транзакции
 ms.localizationpriority: medium
-ms.openlocfilehash: ef848b729079e54df5e898ea67fafdb1d1e87d25
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: caa203cac0aba616129158d453518166c322aac4
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390383"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798662"
 ---
 # <a name="view-customer-activity-logs"></a>Просмотр журналов действий клиента
 
 **Относится к**
 
-- Партнерский центр
+- Центр партнеров
 - Центр партнеров для Microsoft Cloud for US Government
 - Партнеры по программе поставщиков облачных решений
 
@@ -30,7 +30,7 @@ ms.locfileid: "80390383"
 - Глобальный администратор
 - Администратор выставления счетов
 - Администратор управления пользователями
-- Агент администрирования
+- Агент по администрированию
 - Агент по продажам
 - Агент службы технической поддержки
 

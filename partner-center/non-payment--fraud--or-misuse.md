@@ -7,28 +7,28 @@ ms.subservice: partnercenter-csp
 description: Важно узнать о различных типах рисков, связанных с интерактивными транзакциями, и рекомендациями по управлению и устранению этих рисков.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: мошенничество, злоупотребление, допустимое использование, политика допустимого использования, неоплата, клиент не платит по счетам, риски в Интернете, хищение услуги, злоупотребление услугой, приостановка подписки,
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6f92976f6aabc0296abb52ef6ec6dc7bd8ee4599
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 90a7a10afd1c07616c5b96244f4b66c488ef1626
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390813"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798802"
 ---
-# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Управление неоплатой, мошенничеством или неправильным использование в центре партнеров
+# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Managing non-payment, fraud, or misuse in Partner Center (Управление подписками в случае неуплаты, мошенничества или неправильного использования в Центре партнеров)
 
 Область применения:
 
-- Партнерский центр
+- Центр партнеров
 - Центр партнеров для Microsoft Cloud for US Government
 
 **Соответствующие роли**
 -   Глобальный администратор
 -   администратор пользователей.
--   Агент администрирования
+-   Агент по администрированию
 -   Администратор выставления счетов
 
 Вы несете финансовую ответственность за мошеннические покупки ваших клиентов и (или) неоплату клиентами купленных служб. Поэтому *настоятельно рекомендуется полагаться на размещение средств предотвращения мошенничества и обнаружения рисков*.

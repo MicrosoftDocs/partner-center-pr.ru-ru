@@ -5,28 +5,28 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Ознакомьтесь с инструкциями и требованиями для продажи подписок на Office 365 правительства GCC для CSP в квалифицированных США клиентов или подрядчиков для государственных организаций.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: fb6402512ea70f3d6a621b140459c0b217478fef
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: c0bfbc6bba6e6e20bff06b794ad47c0bf225932a
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389573"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798502"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Продажа Office 365 для государственных организаций в средах GCC для подписок CSP клиентам, отвечающим необходимым требованиям
 
 **Относится к**
 
--  Партнерский центр
+-  Центр партнеров
 -  Партнеры CSP
 
 **Соответствующие роли**
 
 - Глобальный администратор
-- Агент администрирования
+- Агент по администрированию
 - Агент по продажам
 
 ## <a name="overview"></a>Обзор
@@ -53,5 +53,5 @@ ms.locfileid: "80389573"
 - [Описание службы Office 365 для государственных организаций](https://technet.microsoft.com/library/mt774581.aspx)
 - [Roadmap.Office.com](https://products.office.com/business/office-365-roadmap)
 - [Центр управления безопасностью Майкрософт](https://www.microsoft.com/TrustCenter/)
-- [Портал доверия служб Майкрософт](https://aka.ms/STP)
+- [Портал служб защиты данных (Майкрософт)](https://aka.ms/STP)
 

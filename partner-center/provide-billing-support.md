@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Вы владеете отношениями с клиентами, касающимися выставления счетов, и обеспечиваете клиентам полную поддержку по всем вопросам, связанным с выставлением счетов.
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 06005e8143f1af049af0f1f1c8a7e96e5fa9ae9f
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 8add485ad2c9bf8ef8d3c36f7420242b624afcdf
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390733"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798732"
 ---
 # <a name="provide-billing-support"></a>Предоставление поддержки выставления счетов
 
 **Относится к**
 
--  Партнерский центр
+-  Центр партнеров
 -  Центр партнеров для Microsoft Cloud for US Government
 
 **Соответствующие роли**
@@ -57,10 +57,10 @@ ms.locfileid: "80390733"
 
 Каждая веб-служба предъявляет определенные и подробные требования к оказанию поддержки по выставлению счетов, управлению подписками и технической поддержки для клиентов. Дополнительные сведения см. в следующей документации.
 
--   [Подписки Dynamics 365, продаваемые по CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+-   [Подписки на Dynamics 365, продаваемые через программу CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [Подписки Azure, продаваемые по CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+-   [Подписки на Azure, продаваемые через программу CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [Подписки Office 365, продаваемые по CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+-   [Подписки на Office 365, продаваемые через программу CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
 

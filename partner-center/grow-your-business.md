@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о ресурсах для роста бизнес-партнеров Майкрософт. Сюда входит как получить сведения о продажах (по ссылкам) от корпорации Майкрософт.
 keywords: рекомендации, реагирование на рекомендации, потенциальные клиенты, возможные клиенты, маркетинговый профиль, бизнес-профиль, развития вашего бизнеса, бизнес-возможности, компетенции, членство уровня silver, членство уровня gold, пробные версии, расширение рынка, национальное облако
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3d8a1b607066f37ed7fb8e37f719a1b1db6a7208
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: bd43f16a9362faeb105591e57be35f9cb0441479
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389603"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798042"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Развивайте свой партнерский бизнес вместе с Майкрософт 
 

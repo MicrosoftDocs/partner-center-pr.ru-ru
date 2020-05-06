@@ -5,21 +5,21 @@ ms.date: 08/22/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Опробуйте новые функции Центра партнеров до их выпуска и сообщите нам свое мнение. Помогите определить будущее Центра партнеров!
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 367fe22b984277b02e4161bf12cf2198ab663c5b
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 0f2761a743254a9c1dc8b40cc749e415587cae08
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390573"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797712"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Тестирование новых функций Центра партнеров
 
 **Относится к**
 
-- Партнерский центр
+- Центр партнеров
 
 ## <a name="help-shape-the-future-of-partner-center"></a>Помогите определить будущее Центра партнеров!
 
@@ -48,7 +48,7 @@ ms.locfileid: "80390573"
 
 
  
-## <a name="tell-us-what-you-think"></a>Сообщите нам свое мнение
+## <a name="tell-us-what-you-think"></a>Сообщение своего мнения
 
 Главная цель всех наших разработок для Центра партнеров состоит в том, чтобы помочь вам достичь большего в своей работе. Мы хотим сосредоточиться на наших усилиях по функциям и возможностям, которые помогут вам развивать ваш бизнес, поэтому мы приглашаем вас испытать новые возможности и поделиться своими отзывами о них, прежде чем они будут выпущены в сообщество центра партнеров. 
 

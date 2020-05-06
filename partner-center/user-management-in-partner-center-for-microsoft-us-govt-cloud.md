@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как и где можно управлять центром партнеров для Microsoft Cloud для партнеров США, клиентов и лицензий, а также для сброса паролей.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9940350c9b3b09f8a4fef32251394614a6f91d2f
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 93b8525861069607ca66770b371cd3f9a3e109e7
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390463"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797592"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud для правительства США
 
@@ -45,8 +45,8 @@ ms.locfileid: "80390463"
 
 -  [**Сброс пароля пользователя в Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**Связанные разделы**
+**См. также**
 
--  [**Центр партнеров по Microsoft Cloud для государственных организаций США**](partner-center-for-microsoft-us-govt-cloud.md)
+-  [**Центр партнеров для Microsoft Cloud for US Government**](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [**Зарегистрируйтесь в программе поставщика облачных решений для Microsoft Cloud для государственных организаций США**](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+-  [**Регистрация в программе поставщиков облачных решений Microsoft Cloud для правительства США**](enroll-in-csp-for-microsoft-us-govt-cloud.md)

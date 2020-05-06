@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Клиенту может потребоваться работать с несколькими партнерами в рамках программы поставщиков облачных решений, специализирующимися на разных услугах.
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c4de34137fec79d0656a6122ae04c0073a59125
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 2a059e9eebd117ef0684c8bc7aa2f8bbb68c25d6
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390823"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798812"
 ---
 # <a name="multi-partner-support"></a>Поддержка нескольких партнеров
 
 **Относится к**
 
--  Партнерский центр
+-  Центр партнеров
 -  Центр партнеров для Microsoft Cloud for US Government
 
 **Соответствующие роли**

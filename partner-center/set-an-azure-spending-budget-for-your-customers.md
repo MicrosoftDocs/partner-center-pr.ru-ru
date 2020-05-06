@@ -6,21 +6,21 @@ description: Узнайте, как устанавливать или удаля
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e536a43aec85336996d047ecd13a06ef144ce196
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e33a15110666bb3b4a3c76c198cde7a59d81411f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390653"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797892"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Установка расходного бюджета Azure для клиентов
 
 Область применения:
 
-- Партнерский центр
+- Центр партнеров
 - Центр партнеров для Microsoft Cloud for US Government
 
 Вы можете [задать ежемесячный бюджет расходов на Azure для клиентов](#set-azure-spending-budget) в центре партнеров. Это помогает Вашим клиентам управлять расходами на Azure. Этот параметр позволяет сравнить расходы на Azure с бюджетом в течение месяца. Это также помогает Вашим заказчикам оценить затраты на Azure, чтобы их месячный счет не превышал ожидаемый объем.
@@ -55,7 +55,7 @@ ms.locfileid: "80390653"
 
 Вы также можете *задать бюджет для отдельного клиента* в параметрах подписки:
 
-1. Войдите на панель мониторинга центра партнеров.
+1. Выполните вход в Панель мониторинга Центра партнеров.
 2. В меню слева в разделе **CSP**выберите **Customers (клиенты**).
 3. На странице **Клиенты** выберите **название компании**клиента.
 4. На странице **подписки** клиента в разделе **Подписка на основе использования**выберите **изменить бюджет**.

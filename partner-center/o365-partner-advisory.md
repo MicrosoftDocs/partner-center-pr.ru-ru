@@ -3,22 +3,22 @@ title: Партнерские советы по Office 365 — Microsoft 365 Voi
 description: Службы PSTN в некоторых странах могут подвергаться особым налоговым и нормативным требованиям, которые могут повлиять на заказ партнеров и на выставление счетов.
 ms.topic: article
 ms.date: 04/07/2020
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Office, O365, службы PSTN, налоги, требования, счет, выставление счетов
 ms.localizationpriority: medium
-ms.openlocfilehash: ee29158773041bbab16961f139e8b731a2b3ebbf
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.openlocfilehash: 9a53d1c931b1f39a4177eb11f6307b7f710da472
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123289"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798792"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Партнерское рекомендательное по Office 365: Microsoft 365 Voice в CSP
 
 **Относится к**
 
-- Партнерский центр  
+- Центр партнеров  
 
 **Соответствующие роли**
 -    Глобальный администратор
@@ -48,7 +48,7 @@ ms.locfileid: "81123289"
 |**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 корпоративный E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Оплата цикла   |28,4   |
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 корпоративный E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Оплата цикла   |2.00   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 корпоративный E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Оплата цикла   |2,00   |
 
 **Пример сверки с партнером #2**
 

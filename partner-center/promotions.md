@@ -5,22 +5,22 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: В качестве партнера корпорации Майкрософт в рамках программы поставщиков облачных решений вы можете приобретать подписки по акциям и передавать клиентам скидки.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 11bf5ae35ce20cf7290e1fbbdc1aa21c368c9a1b
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 3d43853c149f00ba284065a05ff5e6585beb4495
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390743"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798742"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Использование рекламных акций для привлечения новых клиентов  
 
-**Область применения: центр партнеров**
+**Область применения: Центр партнеров**
 
 **Соответствующие роли**
--   Агент администрирования
+-   Агент по администрированию
 -   Администратор партнера MPN
 -   Администратор выставления счетов
 -   Агент по продажам
@@ -52,7 +52,7 @@ ms.locfileid: "80390743"
 
 1. В меню **центра партнеров** выберите **Клиенты** , а затем выберите клиента, который приобретает подписку. 
 
-2. Нажмите кнопку **Добавить подписку**.
+2. Выберите **Добавить подписку**.
 
 3. На странице **Новая подписка** выберите подписку, к которая применяется рекламная акция.
 
