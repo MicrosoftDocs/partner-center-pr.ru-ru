@@ -6,28 +6,28 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Обзор различных методов и типов технической поддержки, которые можно предложить клиентам.
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 068d53a72608b29cc4dd7854caf20d32ffe77b06
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: de7207464b5960d04df50dce1b4e938bc2ad86e0
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390723"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798722"
 ---
 # <a name="provide-technical-support"></a>Предоставление технической поддержки
 
 **Относится к**
 
--  Партнерский центр
+-  Центр партнеров
 -  Центр партнеров для Microsoft Cloud for US Government
 
 **Соответствующие роли**
 -   Глобальный администратор
 -   администратор пользователей.
 -   Агент службы технической поддержки
--   Агент администрирования
+-   Агент по администрированию
 
 Как поставщик облачных решений вы получаете полномочия делегированного администратора, которые предоставляют вам доступ к средам пользователей. Эти привилегии дают возможность напрямую поддерживать, настраивать и администрировать подписки клиентов.
 
@@ -36,7 +36,7 @@ ms.locfileid: "80390723"
 -   просматривать состояние обслуживания клиента;
 -   просматривать инциденты обслуживания клиентов.
 
-**Выполнение задач администрирования для клиентов**
+**Выполнение задач администратора для своих клиентов**
 
 1.  В меню **Центр партнеров** выберите **Customers (клиенты**). Выберите клиента из списка.
 2.  В меню клиента выберите пункт **Управление службами**.
@@ -63,11 +63,11 @@ ms.locfileid: "80390723"
 
 Каждая веб-служба предъявляет определенные и подробные требования к оказанию поддержки по выставлению счетов, управлению подписками и технической поддержки для клиентов. Дополнительные сведения см. в следующей документации.
 
--   [Подписки Dynamics 365, продаваемые по CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+-   [Подписки на Dynamics 365, продаваемые через программу CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [Подписки Azure, продаваемые по CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+-   [Подписки на Azure, продаваемые через программу CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [Подписки Office 365, продаваемые по CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+-   [Подписки на Office 365, продаваемые через программу CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
 
 

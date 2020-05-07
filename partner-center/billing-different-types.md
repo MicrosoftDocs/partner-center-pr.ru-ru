@@ -5,28 +5,28 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Сведения о различных типах выставления счетов, расчетных периодах и датах выставления счетов, которые могут отображаться в центре партнеров.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: выставление счетов, платежи, заказы, файлы сверки, файл сверки
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a6d4db62b89ec33740cd5a70141cf5a64533dfc0
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: fcacb9b0832c561e79e2d3c6df4d56b4d2f75b62
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390293"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798592"
 ---
-# <a name="types-of-billing-in-partner-center"></a>Типы выставления счетов в центре партнеров
+# <a name="types-of-billing-in-partner-center"></a>Способы выставления счетов в Центре партнеров
 
 **Относится к**
 
-- Партнерский центр
+- Центр партнеров
 - Партнеры в программе CSP
 
 **Соответствующие роли**
 
-- Агент администрирования
+- Агент по администрированию
 - Администратор выставления счетов
 - Глобальный администратор
 - Агент службы технической поддержки
