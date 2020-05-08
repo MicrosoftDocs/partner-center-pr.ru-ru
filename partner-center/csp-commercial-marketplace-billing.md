@@ -1,26 +1,27 @@
 ---
-title: Выставление счетов за продукты для коммерческого рынка | Центр партнеров
+title: Выставление счетов за продукты для коммерческого рынка
 ms.topic: article
-ms.date: 02/28/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как выставление счетов действует для продуктов и подписок ISV, приобретенных для клиентов из коммерческого рынка в центре партнеров.
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: подписки, продукты, покупки, Marketplace, сторонние лица, независимые поставщики программного обеспечения, выставление счетов, счета, сверка, разведывательную файл
 ms.localizationpriority: medium
-ms.openlocfilehash: 35db6e9e1fbdfe5e455e5b4e73e39b76cad496aa
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4ee8b7850708d5e04f07ab41965b4c4659b377ba
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240201"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908126"
 ---
-# <a name="billing-for-commercial-marketplace-products"></a>Выставление счетов за продукты для коммерческого рынка
+# <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Выставление счетов за продукты и подписки коммерческих рынков в центре партнеров
 
 **Относится к**
 
-- Партнерский центр
+- Центр партнеров
 - Партнеры в программе CSP
 
 **Соответствующие роли**
@@ -107,7 +108,7 @@ ms.locfileid: "78240201"
 
 Дополнительные сведения о том, что представляет каждый столбец, см. [в разделе Использование файлов сверки](use-the-reconciliation-files.md). См. также [типы выставления счетов в центре партнеров](billing-different-types.md)
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Next Steps
 
 - [Управление продуктами коммерческого рынка для клиентов](csp-commercial-marketplace-manage.md)
 - [Дополнительные сведения о поддержке продуктов для коммерческого рынка](csp-commercial-marketplace-support.md)

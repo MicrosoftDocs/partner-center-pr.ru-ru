@@ -1,21 +1,22 @@
 ---
-title: Распространенные сценарии выставления счетов | Центр партнеров
+title: Ежегодная оплата — распространенные сценарии
 ms.topic: article
-ms.date: 11/25/2019
-description: См. статью ежегодное выставление счетов центра партнеров — при добавлении новых подписок, добавлении лицензий до даты выставления счетов, изменении количества лицензий, приостановке и повторной активации подписок.
+ms.date: 05/05/2020
+description: Ежегодный выставление счетов в центре партнеров. при добавлении новых подписок, добавлении лицензий до даты выставления счетов, изменении количества лицензий или приостановке или повторной активации подписок.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: выставление счетов, оплата, заказы, использование, выставление счетов на основе лицензий, Дата юбилея, термин, Отмена, продление цен, файл сверки, разведывательную-файл
 ms.localizationpriority: medium
-ms.openlocfilehash: cbe34dd96c1b119293b73f9324e50340aafb4032
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9a0fe9a8bfc381be00bba765c74874ea552d7482
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798552"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908207"
 ---
-# <a name="annual-billing-scenarios"></a>Сценарии ежегодного выставления счетов
+# <a name="common-annual-billing-scenarios-in-partner-center"></a>Распространенные ежегодные сценарии выставления счетов в центре партнеров
 
 **Соответствующие роли**
 

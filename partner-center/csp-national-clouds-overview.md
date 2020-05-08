@@ -1,7 +1,7 @@
 ---
-title: Подача заявки на осуществление продаж в национальных облаках Майкрософт | Центр партнеров
+title: Подача заявки на осуществление продаж в национальных облаках Microsoft
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как партнеры корпорации Майкрософт в программе поставщика облачных решений могут продавать клиентам, зарегистрированным в поддерживаемых национальных облаках.
@@ -9,14 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: национальные облака, Microsoft Cloud в Германии, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud в Китае
 ms.localizationpriority: medium
-ms.openlocfilehash: 37ff013b7c7e1bc000e3245df9c1480c6fea44af
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5977eb6ac583c9de79de3b1ba1fe7f0f98aa1e4d
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798462"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908064"
 ---
-# <a name="apply-to-sell-in-microsoft-national-clouds"></a>Подача заявки на осуществление продаж в национальных облаках Microsoft
+# <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Используйте для продажи национальных облаков Майкрософт в рамках программы CSP
 
 Помимо продаж клиентам в рамках глобальной программы поставщиков облачных решений уполномоченные партнеры корпорации Майкрософт также могут осуществлять продажи облачных решений пользователям в трех отдельных национальных облаках. Национальные облака являются физически и логически изолированными от сети экземплярами корпоративных облачных служб Microsoft, которые находятся на территории указанных стран и обслуживаются местным персоналом. 
 
@@ -36,7 +37,7 @@ ms.locfileid: "82798462"
 
     Сведения о регистрации для осуществления продаж клиентам в Microsoft Cloud for US Government см. в разделе [Центр партнеров для Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md).
 
--   [**Microsoft Cloud в Германии**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Cloud в Германии предоставляет Azure, Office 365 и Dynamics 365 в немецких центрах обработки данных по уникальной модели. В этой модели доступ к данным клиентов обеспечивается независимым немецким доверенным лицом по обработке данных, осуществляющим свою деятельность согласно законодательству Германии. T-Systems International GmbH, подразделение Deutsche Telecom, выступает в качестве независимого доверенного лица по обработке данных для Microsoft Cloud в Германии. 
+-   [**Microsoft Cloud в Германии**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Cloud в Германии предоставляет Azure, Office 365 и Dynamics 365 в немецких центрах обработки данных по уникальной модели. В этой модели доступ к данным клиентов обеспечивается независимым немецким доверенным лицом по обработке данных, осуществляющим свою деятельность согласно законодательству Германии. Международный GmbH по T-Systems — дочерний элемент подразделение Telekom, выступает в качестве доверенного лица для работы с данными Microsoft Cloud Германии.
 
     > [!IMPORTANT]  
     > Учитывая развитие потребностей клиентов, Наша облачная стратегия для Германии посвящена доставке новых облачных регионов в Германии, которые соответствуют нашему глобальному облачному предложению. С этим фокусом мы больше не будем принимать новых клиентов или развертывать новые службы из доступных в настоящее время Microsoft Cloud Германии. Существующие клиенты могут продолжать использовать текущие облачные службы, доступные сегодня, которые мы будем поддерживать с помощью необходимых обновлений для системы безопасности.

@@ -1,22 +1,23 @@
 ---
-title: Учетные записи клиентов | Центр партнеров
+title: Просмотр учетных записей клиентов и управление ими
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Найдите ресурсы для партнеров по торговым посредникам в центре партнеров. Сюда входит необходимость создания учетных записей клиентов до продажи подписок, выставления счетов или поддержки предложений.
+Description: Найдите ресурсы для партнеров по торговым посредникам в центре партнеров. Сюда входит создание учетных записей клиентов до продажи подписок, выставления счетов или поддержки предложений.
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d1090aab2c9678149dba8ab051e6e49f0f5c42a
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 217685e3bf3941825470abddce7f5f84634f7ade
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205772"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907945"
 ---
-# <a name="customer-accounts"></a>Учетные записи пользователей
+# <a name="customer-account-setup-and-management-for-reseller-partners-in-partner-center"></a>Настройка и управление учетными записями клиентов для партнеров через торгового посредника в центре партнеров
 
 **Относится к**
 

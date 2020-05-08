@@ -1,6 +1,6 @@
 ---
-title: Анализ использования Azure | Центр партнеров
-ms.date: 11/13/2019
+title: Анализ использования Azure для роста бизнеса
+ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Узнайте, как использовать центр партнеров для получения данных об использовании подписок Azure ваших клиентов.
@@ -10,15 +10,15 @@ ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
 keywords: бизнес-данные
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 096996b4ebc6953125e41b80ecd0e991d0bdec86
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1a73dd6aa47b60befa62f55f37910de4f20f78b8
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722391"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907435"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Получение данных об использовании клиентских подписок Azure
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Получение данных о том, насколько хорошо ваши клиенты и подписки Azure
 
 **Относится к**
 
@@ -29,7 +29,7 @@ ms.locfileid: "74722391"
 
 - Глобальный администратор
 - Администратор управления пользователями
-- Агент администрирования
+- Агент по администрированию
 - Агент по продажам
 
 Данные помогают принимать правильные бизнес-решения. Используйте метрики на странице **Использование Azure** для определения того, каких целей добились вы и ваши клиенты, а также областей, нуждающихся в более пристальном внимании. Эти сведения можно использовать при планировании новых бизнес-целей.

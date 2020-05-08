@@ -1,8 +1,8 @@
 ---
-title: Налоги и налоговые исключения | Центр партнеров
+title: Региональные налоги и налоговые исключения
 ms.topic: article
-ms.date: 11/21/2019
-description: Сведения о налоговых обязанностях для конкретного географического региона и о том, как отправлять налоговые исключения для ваших продаж CSP.
+ms.date: 04/28/2020
+description: Сведения о налоговых обязанностях для конкретного географического региона и о том, как отправлять налоговые исключения для ваших продаж CSP. Дополнительные сведения о получении поддержки по налоговым вопросам
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,14 +10,15 @@ author: LauraBrenner
 keywords: налог, налог на налоги, НДС, Торговый посредник, выставление счетов
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c4a8e318deaa2636ac7b118b3a446ea4b1cca09c
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: ff89cd6a117e1db4cd42e0af522b975a2e62cf26
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797702"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907797"
 ---
-# <a name="taxes-and-tax-exemptions"></a>Налоги и освобождение от уплаты налогов
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country"></a>Чтение сведений о налогах и сведениях об исключении налогов по регионам или странам
 
 Область применения:
 

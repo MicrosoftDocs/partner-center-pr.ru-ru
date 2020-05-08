@@ -1,20 +1,21 @@
 ---
-title: Партнерские советы по Office 365 — Microsoft 365 Voice в CSP | Центр партнеров
-description: Службы PSTN в некоторых странах могут подвергаться особым налоговым и нормативным требованиям, которые могут повлиять на заказ партнеров и на выставление счетов.
+title: Партнерская рекомендация для партнеров CSP — Microsoft 365 Voice
+description: Узнайте о службах PSTN в некоторых странах и специальных налоговых или нормативных требованиях, которые могут применяться и повлиять на заказ партнеров и на выставление счетов.
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/05/2020
 author: LauraBrenner
 ms.author: labrenne
 keywords: Office, O365, службы PSTN, налоги, требования, счет, выставление счетов
 ms.localizationpriority: medium
-ms.openlocfilehash: 9a53d1c931b1f39a4177eb11f6307b7f710da472
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 0ed43b8ca9a5596f6734ee5e2ecb6c041bbf72ea
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798792"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907363"
 ---
-# <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Партнерское рекомендательное по Office 365: Microsoft 365 Voice в CSP
+# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Партнерское рекомендательное по Office 365: Microsoft 365 бизнес Voice в программе CSP
 
 **Относится к**
 

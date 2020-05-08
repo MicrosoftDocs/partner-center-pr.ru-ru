@@ -1,7 +1,7 @@
 ---
-title: Настройка каталога | Центр партнеров
+title: Настройка каталога предложений и продуктов
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как настроить каталог Майкрософт, чтобы упростить доступ к предложениям партнеров или продуктам, которые в большинстве случаев используются в вашей организации.
@@ -9,14 +9,15 @@ ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: b3f22902b5329a1c60c9e890fedfbcbe61486c70
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: fa45de1d965f11beef993db3e1583c4cbc2ebae8
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798362"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907883"
 ---
-# <a name="customize-the-catalog"></a>Настройка каталога
+# <a name="customize-the-microsoft-catalog-with-offers-or-products-most-suited-to-your-organization"></a>Настройка каталога Майкрософт с предложениями или продуктами, наиболее подходящими для вашей организации
 
 **Относится к**
 
@@ -35,10 +36,3 @@ ms.locfileid: "82798362"
 
 1.  Перейдите в меню &gt; центр партнеров **Каталог** **продаж** &gt; .
 2.  Выберите не более пяти предложений для отображения вверху каталога.
-
- 
-
- 
-
-
-

@@ -1,7 +1,7 @@
 ---
-title: Продажа локального программного обеспечения через программу CSP | Центр партнеров
+title: Продажа локального программного обеспечения через программу CSP
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как партнеры в программе CSP могут покупать, управлять, продавать и отменять локальные подписки на программное обеспечение от имени клиентов в центре партнеров.
@@ -10,14 +10,15 @@ ms.author: labrenne
 keywords: Поставщик облачных решений, CSP, облачные службы, Azure, Office 365, Dynamics, партнер CSP, продажа в CSP, прямой партнер, прямой партнер CSP, непрямой торговый посредник CSP, прямой CSP, непрямой CSP, прямая модель, непрямая модель, непрямой торговый посредник, непрямой поставщик, поставщик, дистрибьютор, программа поставщиков облачных решений
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b8d064a3e2f2d8d0a24dcd6a47b75746acbe6656
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b808397f21aa912284be9ad8b4df1dc4f642fe55
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798442"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908030"
 ---
-# <a name="sell-on-premise-software-through-csp"></a>Продажа локального программного обеспечения через программу CSP
+# <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Продажа локального программного обеспечения с помощью программы поставщика облачных решений (CSP)
 
 **Соответствующие роли**
 

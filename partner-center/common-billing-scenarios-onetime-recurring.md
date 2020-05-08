@@ -1,21 +1,22 @@
 ---
-title: Распространенные сценарии выставления счетов за одноразовый период и выбор повторяющихся покупок | Центр партнеров
+title: Выставление счетов за одноразовые & повторяющихся покупок
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/05/2020
 description: Ознакомьтесь с примерами выставления счетов центра партнеров за разовые и выберите повторяющиеся покупки. при покупке подписки, добавлении дополнительных подписок, добавлении или удалении рабочих мест.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: выставление счетов, оплата, одноразовая покупка, повторная покупка, подписки, рабочие места
 ms.localizationpriority: medium
-ms.openlocfilehash: 7614721d4b10656681c177996f9b2cc3addd85f4
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2c3467fdbe8457a7068a49000bd635b7c464cf29
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798532"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908206"
 ---
-# <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>Однократный и выбор повторяющихся сценариев выставления счетов на покупку
+# <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Сценарии выставления счетов центра партнеров для одноразовых и выбора повторяющихся покупок
 
 **Соответствующие роли**
 

@@ -1,22 +1,23 @@
 ---
-title: Настройка встроенного интерфейса устройства с помощью профилей Windows "Автопилот" | Центр партнеров
+title: Настройка встроенного интерфейса устройства
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Сведения о настройке и предварительной настройке нового интерфейса устройства с профилями для автопилота перед доставкой устройства клиенту.
+description: Прежде чем приступать к новому устройству клиента, можно использовать профили Windows для автопилота, чтобы настроить или предварительно настроить внешний интерфейс устройства (OOBE).
 author: LauraBrenner
 ms.author: labrenne
 keywords: Автопилот, Windows автопилот, Microsoft для автопилота, развертывание без вмешательства пользователя, OOBE, экраны входа, готовые
 ms.localizationpriority: medium
-ms.openlocfilehash: 7fed49f9fd06be8765e3435862e3bee48b717ce7
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 1ce0852543c70555bdbbbffd8727876bda8aedef
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798612"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908386"
 ---
-# <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Настройка готового интерфейса для устройства с профилями Windows "Автопилот"
+# <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Использование профилей Windows "Автопилот" на новых устройствах для настройки готового интерфейса клиента
 
 **Относится к**
 
@@ -107,7 +108,7 @@ ms.locfileid: "82798612"
 
 4. Выполните следующие действия, чтобы убедиться, что профиль будет успешно применен к устройству.
 
-    a.  Подключите устройство к сети и включите его.
+    а.  Подключите устройство к сети и включите его.
 
     b.  Убедитесь, что отображаются соответствующие экраны OOBE (если они должны отображаться).
 

@@ -1,23 +1,23 @@
 ---
-title: Управление резервированиями Azure от лица клиентов | Центр партнеров
+title: Управление резервированиями Azure для клиентов
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Узнайте, как управлять резервированием Azure от имени клиента, включая отмену резервирования, Обмен резервированиями или запросить деньги.
+Description: Узнайте, как управлять резервированием Azure для клиента, включая отмену резервирования, Обмен резервированиями или запросить деньги.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, резервирование, управление, выставление счетов, покупка, Отмена, Exchange, оплата за ранним увольнением
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 652eb468662892b3f2a98b636c4f8760fa3f021f
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7470f20956a7309b4a7ec4dcbb9f18a41761596d
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205722"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908315"
 ---
-# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Управление резервированиями Microsoft Azure от лица клиентов
+# <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Управление, Отмена, Обмен или возмещение Microsoft Azure резервирования для клиентов
 
 **Относится к**
 

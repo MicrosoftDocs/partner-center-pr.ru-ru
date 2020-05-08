@@ -1,7 +1,7 @@
 ---
-title: Самообслуживание для клиентов | Центр партнеров
+title: Самообслуживание для пользователей
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, когда и где клиенты могут выполнять самостоятельную поддержку для управления собственными учетными записями, а также когда они должны обратиться к своему партнеру поставщика облачных решений.
@@ -10,23 +10,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: самообслуживание для клиентов, самообслуживание,
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0176c1dc714435b032b1c0e7a59df5306435e86b
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a1c15a75c638d557eace058d67723a86645c6e47
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798382"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907915"
 ---
-# <a name="customer-self-support"></a>Самообслуживание для пользователей
+# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Самостоятельная поддержка клиентов с помощью центра администрирования Microsoft Office 365 или с помощью портал Azure
 
 **Относится к**
 
 -  Центр партнеров
 -  Центр партнеров для Microsoft Cloud for US Government
 
-
-Клиенты могут входить в собственный центр администрирования Microsoft Office 365 и портал управления Azure и управлять своими учетными записями.
+Клиенты могут войти в собственный центр администрирования Microsoft Office 365 или в портал Azure для управления своими учетными записями:
 
 -   Просматривать внутренние сообщения и уведомления по продуктам, в частности, сведения о работоспособности службы, в Центре сообщений.
 

@@ -1,22 +1,23 @@
 ---
-title: Создание бизнес-приложений и администрирование подписки на Office 365 | Центр партнеров
+title: Добавление клиентов с пробными предложениями Office 365
 ms.topic: article
-ms.date: 03/03/2020
+ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
-description: Создание бизнес-приложений и администрирование подписки Office 365 Partner для Advisor
-author: XiaLi
-ms.author: v-xili35
+description: Узнайте, как разрешенные Microsoft Advisor могут развивать свои подписки Office 365. Создавайте и отправляйте приглашения пробной версии Office 365 и предложения по приобретению на клиентах.
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365
-ms.openlocfilehash: 58b774e989ae93653fa344e090457376cb3de81c
-ms.sourcegitcommit: 23a03f2db5fe8d4211be7e9371d25838a2d25ca2
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2a45e6fdbf64a888f2d8b6a934e14ad33f3647b6
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "79137259"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907465"
 ---
-# <a name="advisors-build-your-business"></a>Advisor: создание бизнеса
+# <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Advisor: создание базы клиента с помощью приглашений пробной версии Office 365 и предложений по приобретению
 
 Как полномочный помощник Майкрософт, **Центр партнеров** предлагает вам возможность расширить клиентскую базу и создать устойчивые связи с клиентами. С помощью центра партнеров вы можете отправить приглашения на пробную версию клиентов и предложения по приобретению, а также предоставить им делегированные службы администрирования в зависимости от служб, которые вы имеете право предоставлять.
 

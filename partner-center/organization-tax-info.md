@@ -1,22 +1,22 @@
 ---
-title: Налоговая информация организации | Центр партнеров
+title: Добавление или отправка идентификатора НДС для бизнес-налогов
 ms.topic: article
-ms.date: 11/07/2019
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 'Налоги на покупки в Центре партнеров рассчитываются в соответствии с вашим рабочим адресом. Компании в некоторых странах могут указывать свой номер плательщика НДС или местный эквивалент:'
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 61ed931a33d0eec9cb2858a3cf653e69610c2b8f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOAPR.20
+ms.openlocfilehash: e0c5e2dab3a4316a6ee888c73a64c7894bdf1baf
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005033"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907321"
 ---
-# <a name="company-tax-information"></a>Сведения о налогах компании
+# <a name="company-tax-information-and-how-to-add-or-submit-vat-ids-for-partner-center-purchases"></a>Сведения о налогах компании и о том, как добавить или отправить идентификаторы НДС для покупок в центре партнеров
 
 **Относится к**
 
@@ -26,7 +26,7 @@ ms.locfileid: "75005033"
 -   Глобальный администратор
 -   администратор пользователей.
 -   Администратор выставления счетов
--   Агент администрирования
+-   Агент по администрированию
 -   Агент по продажам
 
 Налоги на покупки в Центре партнеров рассчитываются в соответствии с вашим рабочим адресом. Компании в некоторых странах могут [предоставить свой налоговый номер (VAT)](#submit-vat-id-number) или местный эквивалент.

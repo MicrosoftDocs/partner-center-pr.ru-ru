@@ -1,22 +1,23 @@
 ---
-title: Контракты для поставщиков облачных решений с помощью коммерческого рынка | Центр партнеров
+title: Контракты CSP для коммерческого рынка
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о терминах, условиях и контрактах для подписок на сторонние продукты независимых поставщиков программного обеспечения, приобретенные партнерами CSP в коммерческом магазине.
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: подписки, Marketplace, сторонние программы, независимые поставщики программного обеспечения, Партнерская программа CSP, контракты, продажи, покупка,
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dd58869df2ced14fa3a05ea3bc7b0f6e96c54d5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6caf79b0f9dbe287ad59df73fb80749237546f9a
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253782"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908128"
 ---
-# <a name="contracts-associated-with-csp-partner-activities-in-the-commercial-marketplace"></a>Контракты, связанные с действиями партнеров CSP в коммерческом магазине
+# <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Контракты партнеров по CSP, делающих бизнес в коммерческом магазине
 
 **Относится к**
 
@@ -26,7 +27,7 @@ ms.locfileid: "74253782"
 **Соответствующие роли**
 
 - Глобальный администратор
-- Агент администрирования
+- Агент по администрированию
 
 В этом разделе приводятся сведения о контрактах для партнеров в программе CSP, которые выбирают приобретенные предложения или продукты для клиентов из центра партнеров в коммерческом магазине или портал Azure.
 
@@ -47,7 +48,7 @@ ms.locfileid: "74253782"
   
 Корпорация Майкрософт не принимает юридическую ответственность за доставку служб между взаимодействующими сторонами и не предоставляет механизм для предоставления партнерам прав на установку юридических положений через свою бизнес-платформу. Если действующим партнерам требуются дополнительные юридические условия, им нужно будет выполнить соглашение напрямую.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-- [Поддержка продуктов для коммерческого рынка](csp-commercial-marketplace-support.md)
+- [Поддержка продуктов коммерческого Marketplace](csp-commercial-marketplace-support.md)
 - [Обзор коммерческих действий CSP](csp-commercial-marketplace-overview.md)

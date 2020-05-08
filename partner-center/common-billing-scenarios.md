@@ -1,23 +1,24 @@
 ---
-title: Распространенные сценарии выставления счетов | Центр партнеров
+title: Распространенные сценарии выставления счетов
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Изучите выставление счетов после добавления новых подписок, изменения количества лицензий или отмены подписки. Узнайте, как отличаются подписки на использование и на основе лицензий.
+description: Изучите выставление счетов при добавлении новых подписок, изменении количества лицензий или отмене подписки. Узнайте, как отличаются подписки на использование и на основе лицензий.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: LauraBrenner
 ms.author: labrenne
 Keywords: выставление счетов, оплата, заказы, использование, выставление счетов на основе лицензий, Дата юбилея, термин, Отмена, продление цен, файл сверки, разведывательную-файл
 ms.localizationpriority: medium
-ms.openlocfilehash: 53844ffd1925f934b1931f80a256f7e7c40eb338
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: fbc7ed35edf629266eab4806053c7aa77b93a4ed
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798512"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908184"
 ---
-# <a name="common-billing-scenarios"></a>Распространенные сценарии выставления счетов
+# <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Распространенные сценарии выставления счетов для партнеров по программе CSP, работающих в центре партнеров
 
 Область применения:
 
