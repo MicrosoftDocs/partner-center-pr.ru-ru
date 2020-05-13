@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: подписка azure, изменить партнера, сменить партнера, получить нового партнера, другой партнер
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 5976cba3c0d1ef6984fc88497412577e83e999f7
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 01316ceebcd2f969c89b4160bf5d95dcc44b1366
+ms.sourcegitcommit: 46b86ac7467afa43bedb0943dc8dc45a69caf1dd
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205582"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "83194386"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Узнайте, как передавать подписки Azure клиента другому партнеру.
 
@@ -32,7 +32,7 @@ ms.locfileid: "82205582"
 
 >[!Note]  
 >Сейчас только прямые или косвенные поставщики могут передавать подписки.
->Вы не можете изменить партнеров для подписок поставщиков облачных решений, связанных с Office 365, Enterprise Mobility Suite или подписками Microsoft Dynamics CRM.
+>Вы не можете изменить партнеров для подписок поставщиков облачных решений, связанных с планами Azure, Office 365, Enterprise Mobility Suite или подписками Microsoft Dynamics CRM.
 
 **Переключение партнеров для подписок Azure**
 
