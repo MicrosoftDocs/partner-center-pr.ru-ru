@@ -1,5 +1,5 @@
 ---
-title: Дополнительные сведения о переходе на рынке с помощью предложений Майкрософт | Центр партнеров
+title: Дополнительные сведения о переходе на рынке с помощью предложений Майкрософт
 ms.topic: article
 ms.date: 03/16/2020
 ms.service: partner-dashboard
@@ -9,18 +9,18 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: MPN, преимущества участия, членство, предложения для перехода на рынок, переход на рынок с корпорацией Майкрософт, переход на рынок, Золотое членство, Серебряное членство
 ms.localizationpriority: medium
-ms.openlocfilehash: 593b21e8ac74440aca5599dcf3b49a0ed877a827
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.openlocfilehash: 19b00c2732faa18581214c6d32139c7f2e6ec15a
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226210"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362722"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Узнайте о возможностях перехода на рынке с помощью предложений Майкрософт
 
 **Относится к**
 
-- Партнерский центр
+- Центр партнеров
 - Члены Microsoft Partner Network
 
 **Соответствующие роли**
@@ -34,7 +34,6 @@ ms.locfileid: "80226210"
 
 >[!NOTE]
 >Если вы еще не являетесь членом Microsoft Partner Network, присоединитесь к [Microsoft Partner Network сайту](https://partner.microsoft.com/membership).
-
 
 ## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Ресурсы для перехода на рынке, предложения и программы, доступные по уровням членства
 
@@ -69,11 +68,11 @@ ms.locfileid: "80226210"
 
 2. В меню слева выберите **MPN**. Затем выполните одно из следующих действий.
 
-    - Выберите **Обзор**. Перейдите к разделу **быстрые ссылки** и выберите вкладку **Переход на рынке** .
+    - Щелкните **Обзор**. Перейдите к разделу **быстрые ссылки** и выберите вкладку **Переход на рынке** .
 
-      или
+      или диспетчер конфигурации служб
 
-    - Выберите **преимущества** , а затем — **"переход на рынок"** .
+    - Выберите **преимущества** , а затем — **"переход на рынок"**.
 
 Вы увидите список предложений перехода на рынке, которые уже активны или доступны для активации.
 
@@ -84,10 +83,10 @@ ms.locfileid: "80226210"
 >[!IMPORTANT]
 >Необходимо быть администратором глобального администратора или партнера MPN Partner, чтобы активировать конкретные предложения для перехода на рынке и назначить связанное маркетинговое Контактное лицо. При необходимости вы можете стать глобальным администратором, следуя инструкциям на своей странице [**Преимущества**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (необходимо выполнить вход). В вашей организации уже может быть глобальный администратор, поэтому не забудьте проверить это у своей рабочей группы.
 
-#### <a name="see-also"></a>См. также:
+## <a name="next-steps"></a>Дальнейшие действия
 
-[Управляйте преимуществами партнерских сетей](manage-your-partner-network-benefits.md)
+- [Управляйте преимуществами партнерских сетей](manage-your-partner-network-benefits.md)
 
-[Buy for the first time or renew a Microsoft Action Pack subscription or the silver or gold competencies](mpn-get-action-pack.md) (Приобретение впервые или продление подписки на Microsoft Action Pack или компетенции Silver или Gold)
+- [Buy for the first time or renew a Microsoft Action Pack subscription or the silver or gold competencies](mpn-get-action-pack.md) (Приобретение впервые или продление подписки на Microsoft Action Pack или компетенции Silver или Gold)
 
-[Сведения о компетенциях](learn-about-competencies.md)
+- [Сведения о компетенциях](learn-about-competencies.md)
