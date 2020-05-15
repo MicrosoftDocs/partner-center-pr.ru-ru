@@ -1,23 +1,24 @@
 ---
-title: Добавление лицензий или служб к существующей подписке | Центр партнеров
+title: Обновление подписки клиента
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте, как обновить или изменить подписку клиента, например добавить дополнительные лицензии или рабочие места либо перейти на другую версию с другими службами.
+description: Узнайте, как обновить или изменить подписку клиента. Добавьте лицензии и рабочие места или перейдите на другую версию с большим количеством служб.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: LauraBrenner
 ms.author: labrenne
 keywords: добавление лицензий в существующую подписку, добавление рабочих мест для существующей подписки, изменение подписки, изменить подписку, приобретение дополнительных лицензий для клиента
 ms.localizationpriority: high
-ms.openlocfilehash: 01f0fedfad207f83cc5370ac60f19753040c9045
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f41c34b044cca39c2939ede746e05b932e03a570
+ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798652"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "82975125"
 ---
-# <a name="add-licenses-or-services-to-an-existing-subscription"></a>Добавление лицензий или служб к существующей подписке
+# <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>Добавление лицензий, рабочих мест или дополнительных служб в подписку клиента
 
 **Относится к**
 
@@ -32,7 +33,7 @@ ms.locfileid: "82798652"
 - Агент по продажам
 - Агент службы технической поддержки
 
-Если клиенту требуются дополнительные места или другая версия с дополнительными службами, вы можете обновить подписку. Подробнее: [Переход на другой план Office 365 для бизнеса](https://go.microsoft.com/fwlink/p/?LinkId=723577).
+Если клиенту требуются дополнительные места или другая версия с дополнительными службами, вы можете обновить подписку. Дополнительные сведения см. в статье [Переход на другой план Приложений Microsoft 365 для бизнеса](https://go.microsoft.com/fwlink/p/?LinkId=723577).
 
 ## <a href="" id="upgradesubscription"></a>
 
@@ -52,25 +53,25 @@ ms.locfileid: "82798652"
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office 365 бизнес</td>
+<td>Приложения Microsoft 365 для бизнеса</td>
 <td><ul>
-<li>Office 365 бизнес премиум¹</li>
-<li>Office 365 профессиональный плюс</li>
+<li>Microsoft 365 бизнес премиум¹</li>
+<li>Приложения Microsoft 365 для предприятий</li>
 <li>Office 365 корпоративный E3</li>
 <li>Office 365 корпоративный E5</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office 365 бизнес премиум</td>
+<td>Microsoft 365 бизнес стандарт</td>
 <td><ul>
 <li>Office 365 корпоративный E3</li>
 <li>Office 365 корпоративный E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office 365 бизнес базовый</td>
+<td>Microsoft 365 бизнес базовый</td>
 <td><ul>
-<li>Office 365 бизнес премиум¹</li>
+<li>Microsoft 365 бизнес стандарт¹</li>
 <li>Office 365 корпоративный E1</li>
 <li>Office 365 корпоративный E3</li>
 <li>Office 365 корпоративный E5</li>
@@ -78,7 +79,7 @@ ms.locfileid: "82798652"
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office 365 бизнес Индия и Office 365 бизнес базовый Индия можно обновить до Office 365 бизнес премиум Индия, но не до Office 365 бизнес премиум.</p></td>
+<td><p>¹ Приложения Microsoft 365 для бизнеса для Индии и Microsoft 365 бизнес базовый для Индии можно обновить до Microsoft 365 бизнес стандарт для Индии. До Microsoft 365 бизнес стандарт решение обновить нельзя.</p></td>
 </tr>
 </tbody>
 </table>

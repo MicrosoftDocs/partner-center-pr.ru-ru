@@ -1,5 +1,5 @@
 ---
-title: Членство в Microsoft Partner Network | Центр партнеров
+title: Членство Microsoft Partner Network
 ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
@@ -10,24 +10,25 @@ ms.author: labrenne
 keywords: партнер, сотрудничество, MPN, Microsoft Partner Network, Action Pack, MAPS, подписка Action Pack, преимущества, преимущества MPN, членство, Silver, Gold, компетенции
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 617fa9afac5dcb43304aad63d2aa9b9d4928f293
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 4208d919d8cee8dc98fa60621a6e5768d828e799
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798842"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362742"
 ---
 # <a name="partner-with-microsoft"></a>Партнерство с Майкрософт
 
 **Соответствующие роли**
--   Глобальный администратор
--   Администратор партнера MPN
--   администратор пользователей.
--   Агент по администрированию
+
+- Глобальный администратор
+- Администратор партнера MPN
+- администратор пользователей.
+- Агент по администрированию
 
 При присоединении к партнерской программе Майкрософт вы становитесь частью глобального сообщества, которое предоставляет вам доступ к полезным связям, аналитическим данным, средствам, ресурсам и программам, с помощью которых вы сможете удивлять своих клиентов и развивать свой бизнес.
 
-Дополнительные сведения о преимуществах сотрудничества с корпорацией Майкрософт см. на странице [Преимущества партнерства](https://partner.microsoft.com/business-opportunities/why-microsoft). 
+Дополнительные сведения о преимуществах сотрудничества с корпорацией Майкрософт см. на странице [Преимущества партнерства](https://partner.microsoft.com/business-opportunities/why-microsoft).
 
 ## <a name="join-the-microsoft-partner-network"></a>Присоединитесь к Microsoft Partner Network
 
@@ -51,7 +52,7 @@ Action Pack или начальный набор предоставляют пр
 
 ### <a name="action-pack"></a>Action Pack
 
-Action Pack предлагает программное обеспечение, поддержку и преимущества для организаций, которые хотят расширить свои возможности работы с решениями Майкрософт в эпоху мобильных и облачных технологий. 
+Action Pack предлагает программное обеспечение, поддержку и преимущества для организаций, которые хотят расширить свои возможности работы с решениями Майкрософт в эпоху мобильных и облачных технологий.
 
 Ознакомьтесь с приведенными ниже ресурсами, чтобы узнать больше о Action Pack:
 
@@ -82,5 +83,6 @@ Action Pack предлагает программное обеспечение, 
 - [Управление преимуществами членства в Microsoft Partner Network](manage-your-partner-network-benefits.md)
 - [Основные требования](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
-## <a name="see-also"></a>См. также статью
-- [Развивайте свой партнерский бизнес вместе с Майкрософт](grow-your-business.md)
+## <a name="next-steps"></a>Дальнейшие действия
+
+[Развивайте свой партнерский бизнес вместе с Майкрософт](grow-your-business.md)

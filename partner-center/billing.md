@@ -1,23 +1,24 @@
 ---
-title: Выставление счетов | Центр партнеров
+title: Справочник по выставлению счетов в Центре партнеров
 ms.topic: article
-ms.date: 04/02/2020
+ms.date: 04/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Список разделов в Центре партнеров с информацией о ресурсах для выставления счетов, счетах, выставлении счетов в рамках CSP и налогах.
+Description: Узнайте о выставлении счетов и налогообложении в Центре партнеров. Сведения касаются выставления счетов, накладных, выставления счетов в рамках CSP и налогов.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: LauraBrenner
 ms.author: labrenne
 keywords: выставление счетов, платежи, заказы, отмена, управление заказами, неоплата, мошенничество, ненадлежащее использование, налоги, освобождение от уплаты налогов, файлы выверки, файл выверки
 ms.localizationpriority: high
-ms.openlocfilehash: 5b50a51d1d3d29f0631dc7b2147e11181e719c87
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ef1f162d181fd4fa3f7c806cabb781ff6010a6dc
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798582"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908232"
 ---
-# <a name="billing-and-taxes"></a>Выставление счетов и налоги
+# <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Обзор: основные статьи, касающиеся выставления счетов и налогообложения в Центре партнеров
 
 **Относится к**
 

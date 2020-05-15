@@ -1,23 +1,23 @@
 ---
-title: Консолидация учетных записей компании | Центр партнеров
+title: Консолидация учетных записей компании
 ms.topic: article
-ms.date: 03/23/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте, как консолидировать учетные записи Partner Membership Center (PMC) в одну учетную запись в Центре партнеров. Этот процесс применяется при переносе из PMC в Центр партнеров.
+description: Узнайте, как консолидировать учетные записи Partner Membership Center (PMC) в одну учетную запись в Центре партнеров. Относится к переходу с PMC на Центр партнеров.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: d6e867d9e78fb7b8d0612cde5f6a57537ad40e77
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 63bbbc57572135b5de3d61a6fab8ea60371e58ec
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80226140"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908140"
 ---
-# <a name="consolidate-your-company-accounts"></a>Консолидация учетных записей компании
+# <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Консолидация учетных записей компании при переходе с PMC на Центр партнеров
 
 **Соответствующие роли**
 

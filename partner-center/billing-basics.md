@@ -1,23 +1,23 @@
 ---
-title: Общие сведения о выставлении счетов | Центр партнеров
+title: Общие сведения о выставлении счетов в Центре партнеров
 ms.topic: article
-ms.date: 04/03/2020
-description: Изучите общие сведения о выставлении счетов и счетах для Центра партнеров.
+ms.date: 05/05/2020
+description: Изучите общие сведения о выставлении счетов и счетах для партнеров в рамках CSP в Центре партнеров. Содержит сведения о выставлении счетов клиентам и о том, как найти и интерпретировать счет.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 keywords: выставление счетов, платежи, заказы, отмена, управление заказами, неоплата, мошенничество, ненадлежащее использование, налоги, освобождение от уплаты налогов, файлы выверки, файл выверки
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 6e46915b720f811f465a270a91e7deee8a45786f
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c911626e03bf2a84ee4d4b701def7d12c25c15fc
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80676815"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908243"
 ---
-# <a name="billing-overview"></a>Общие сведения о выставлении счетов
+# <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Общие сведения о выставлении счетов для партнеров в рамках программы CSP, работающих в центре партнеров 
 
 **Относится к**
 
