@@ -119,7 +119,7 @@
 ## [Просмотр списка клиентов](see-your-customer-list.md)
 ## [Просмотр журналов действий клиента](activity-logs.md)
 ## [Обновление сведений учетной записи клиента](update-customer-account-info.md)
-## [Предоставление клиентам разрешения на приобретение собственных служб](give-customers-permission.md)
+## [Как разрешить клиентам покупать собственные службы](give-customers-permission.md)
 ## [Создание нескольких пользователей для клиента](adding-multiple-users-to-a-customer-account.md)
 ## [Назначение контактов службы поддержки](assign-support-contacts.md)
 
@@ -196,6 +196,7 @@
 # [Работа с другими партнерами](work-with-other-partners.md)
 ## [Задачи непрямого поставщика в Центре партнеров](indirect-provider-tasks-in-partner-center.md)
 ## [Задачи непрямого торгового посредника в Центре партнеров](indirect-reseller-tasks-in-partner-center.md)
+## [Поддерживаемые отношения партнеров CSP](csp-supported-partner-relationships.md)
 ## [Поддержка нескольких каналов](multichannel.md)
 ## [Поддержка нескольких партнеров](multipartner.md)
 

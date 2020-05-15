@@ -1,21 +1,19 @@
 ---
-title: Доступные службы Azure в Azure CSP | Центр партнеров
+title: Доступные службы Azure в Azure CSP
+description: В этом разделе описаны службы Azure, которые доступны и недоступны в программе поставщиков облачных решений Azure (CSP).
 ms.topic: article
-ms.date: 03/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: В этом разделе описаны службы Azure, которые доступны и недоступны в программе поставщиков облачных решений Azure (CSP).
 author: LauraBrenner
 ms.author: labrenne
-Keywords: ''
-robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: a86d66c3f7a799145d1f5a9bb3561a459e699f97
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.date: 03/05/2020
+ms.openlocfilehash: 29020fc4861bb11f15f7a892dda4d92f0c19fe07
+ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "79024098"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83369281"
 ---
 # <a name="available-azure-services-in-azure-csp"></a>Доступные службы Azure в Azure CSP
 
@@ -30,16 +28,16 @@ ms.locfileid: "79024098"
 
 ## <a name="available-azure-services-in-azure-csp"></a>Доступные службы Azure в Azure CSP
 
-В этом разделе описаны службы Azure, которые доступны и недоступны в программе поставщиков облачных решений Azure (CSP). Здесь также объясняются моменты, связанные с доступностью службы в таких национальных облаках, как [Microsoft Azure для Германии](https://azure.microsoft.com/overview/clouds/germany/) и [Microsoft Azure для государственных организаций](https://azure.microsoft.com/overview/clouds/government/).
+В этой статье указаны службы Azure, которые доступны и недоступны в программе Azure "Поставщик облачных решений" (CSP). Здесь также объясняются моменты, связанные с доступностью службы в таких национальных облаках, как [Microsoft Azure для Германии](https://azure.microsoft.com/overview/clouds/germany/) и [Microsoft Azure для государственных организаций](https://azure.microsoft.com/overview/clouds/government/).
 
 >[!Note]
 >[Azure для Китая]( https://www.azure.cn/) не поддерживается в программе Azure CSP.
 
-### <a name="global-cloud"></a>Глобальное облако 
+## <a name="global-cloud"></a>Глобальное облако
 
 Все службы на основе модели Azure Resource Manager доступны в программе CSP.  Службы не на основе модели Azure Resource Manager недоступны в программе CSP.  
 
-### <a name="csp-specific-service-configurations"></a>Конфигурации служб, зависящих от CSP
+## <a name="csp-specific-service-configurations"></a>Конфигурации служб, зависящих от CSP
 
 Специальные конфигурации в CSP требуются для следующих служб:
 
@@ -47,15 +45,15 @@ ms.locfileid: "79024098"
 
 - [Доменные службы Azure Active Directory](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-csp)
 
-- [Хранилище ключей](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx) 
+- [Хранилище ключей](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
-- [Аналитика временных рядов Azure](https://azure.microsoft.com/services/time-series-insights/) — только пользователи из арендатора клиента могут получать доступ к данным в среде Аналитики временных рядов. Партнеры могут управлять средой Аналитики временных рядов клиента по умолчанию, но если им требуется доступ к данным в ней, они должны быть добавлены в арендатор клиента. 
+- [Аналитика временных рядов Azure](https://azure.microsoft.com/services/time-series-insights/) — только пользователи из арендатора клиента могут получать доступ к данным в среде Аналитики временных рядов. Партнеры могут управлять средой Аналитики временных рядов клиента по умолчанию, но если им требуется доступ к данным в ней, они должны быть добавлены в арендатор клиента.
 
-### <a name="visual-studio-marketplace"></a>Visual Studio Marketplace
+## <a name="visual-studio-marketplace"></a>Visual Studio Marketplace
 
 Теперь вы можете приобретать перечисленные ниже элементы в Visual Studio Marketplace, за исключением сторонних расширений.
 
-- [Azure DevOps](https://www.visualstudio.com/team-services/) 
+- [Azure DevOps](https://www.visualstudio.com/team-services/)
 
 - [Подписки Visual Studio](https://www.visualstudio.com/subscriptions/)
 
@@ -63,7 +61,7 @@ ms.locfileid: "79024098"
 
 Чтобы вам было проще начать работу, мы предлагаем видео и документацию по [настройке, приобретению и администрированию Azure DevOps](https://docs.microsoft.com/vsts/billing/csp/set-up-csp-customer) в CSP.
 
-### <a name="azure-marketplace-items-in-azure-csp"></a>Элементы Azure Marketplace в Azure CSP
+## <a name="azure-marketplace-items-in-azure-csp"></a>Элементы Azure Marketplace в Azure CSP
 
 Не все элементы Azure Marketplace сейчас доступны в подписках Azure CSP.
 
@@ -71,12 +69,13 @@ ms.locfileid: "79024098"
 
 - Элементы с поддержкой BYOL: эти элементы доступны. Полный список элементов Azure Marketplace с поддержкой BYOL см. на [этой странице](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol).
 
-- Сторонние элементы Azure Marketplace с оплатой по мере использования: эти элементы доступны, если поставщик опубликован в канале CSP. См. сведения о [продаже подписок на продукты Azure Marketplace](https://aka.ms/marketplaceincsp).   
+- Сторонние элементы Azure Marketplace с оплатой по мере использования: эти элементы доступны, если поставщик опубликован в канале CSP. См. сведения о [продаже подписок на продукты Azure Marketplace](https://aka.ms/marketplaceincsp).
 
 - Citrix XenApp Essentials: партнеры могут приобрести XenApp Essentials для клиентов в CSP. Сведения о распространении XenApp Essentials через канал поставщика облачных решений (Майкрософт) см. в [блоге Citrix](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/).
 
-### <a name="national-clouds"></a>Национальные облака 
-В следующей таблице представлен регулярно обновляемый список доступных продуктов, служб и компонентов Azure для CSP в национальных облаках. 
+## <a name="national-clouds"></a>Национальные облака
+
+В следующей таблице представлен регулярно обновляемый список доступных продуктов, служб и компонентов Azure для CSP в национальных облаках.
 
 | Продукт, служба или компонент Azure | US Government | Германия |
 | ------ | :-----------: | :-----------: |
@@ -187,7 +186,7 @@ ms.locfileid: "79024098"
 |  Миграция Azure  |    |    |
 |  Группы управления  |    |  
 
-### <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Узнайте](https://docs.microsoft.com/azure/cloud-solution-provider/overview/partner-center-overview) о доступных возможностях Azure в Центре партнеров.
 
