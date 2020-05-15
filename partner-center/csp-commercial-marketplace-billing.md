@@ -1,7 +1,7 @@
 ---
 title: Выставление счетов за продукты для коммерческого рынка
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как выставление счетов действует для продуктов и подписок ISV, приобретенных для клиентов из коммерческого рынка в центре партнеров.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: подписки, продукты, покупки, Marketplace, сторонние лица, независимые поставщики программного обеспечения, выставление счетов, счета, сверка, разведывательную файл
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ee8b7850708d5e04f07ab41965b4c4659b377ba
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 9672850b699a2660f646ede5250e52298f5522cd
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908126"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394156"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Выставление счетов за продукты и подписки коммерческих рынков в центре партнеров
 
@@ -108,7 +108,7 @@ ms.locfileid: "82908126"
 
 Дополнительные сведения о том, что представляет каждый столбец, см. [в разделе Использование файлов сверки](use-the-reconciliation-files.md). См. также [типы выставления счетов в центре партнеров](billing-different-types.md)
 
-## <a name="next-steps"></a>Next Steps
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Управление продуктами коммерческого рынка для клиентов](csp-commercial-marketplace-manage.md)
 - [Дополнительные сведения о поддержке продуктов для коммерческого рынка](csp-commercial-marketplace-support.md)
