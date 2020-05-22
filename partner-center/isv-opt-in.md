@@ -1,46 +1,51 @@
 ---
-title: Предложение "эксклюзивные" предложения Marketplace | Центр партнеров
+title: Исключительные предложения Marketplace от независимых поставщиков программных продуктов
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: ISV может выбрать партнеров CSP для работы, сделав их эксклюзивными.
+description: Узнайте, как независимые поставщики программного обеспечения (ISV) делают определенные предложения эксклюзивными и доступны только определенным партнерам CSP.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: b3a3edb1a6c74ae0bddb8669ef6d81e0a24a34e4
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 46acf2a5d443075f840dbc24d26fc727d873f521
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123267"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794842"
 ---
-# <a name="marketplace-exclusive-offers"></a><span data-ttu-id="1b384-103">Исключительные предложения Marketplace</span><span class="sxs-lookup"><span data-stu-id="1b384-103">Marketplace exclusive offers</span></span>
+# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a><span data-ttu-id="6cd5c-103">Исключительные предложения Marketplace от независимых поставщиков программного обеспечения</span><span class="sxs-lookup"><span data-stu-id="6cd5c-103">Marketplace exclusive offers from Independent Software Vendors</span></span>
 
-<span data-ttu-id="1b384-104">**Соответствующие роли**</span><span class="sxs-lookup"><span data-stu-id="1b384-104">**Appropriate roles**</span></span>
--    <span data-ttu-id="1b384-105">Глобальный администратор</span><span class="sxs-lookup"><span data-stu-id="1b384-105">Global admin</span></span>
--    <span data-ttu-id="1b384-106">администратор пользователей.</span><span class="sxs-lookup"><span data-stu-id="1b384-106">User admin</span></span>
--    <span data-ttu-id="1b384-107">Агент по администрированию</span><span class="sxs-lookup"><span data-stu-id="1b384-107">Admin agent</span></span>
--    <span data-ttu-id="1b384-108">Агент по продажам</span><span class="sxs-lookup"><span data-stu-id="1b384-108">Sales agent</span></span>
+<span data-ttu-id="6cd5c-104">**Соответствующие роли**</span><span class="sxs-lookup"><span data-stu-id="6cd5c-104">**Appropriate roles**</span></span>
 
-<span data-ttu-id="1b384-109">Независимые поставщики программного обеспечения имеют возможность сделать свои предложения доступными для выбранного числа партнеров CSP.</span><span class="sxs-lookup"><span data-stu-id="1b384-109">ISVs have the option of making their offers available to a select number of CSP partners.</span></span> <span data-ttu-id="1b384-110">Все партнеры CSP по-прежнему смогут просматривать все предложения ISV в Marketplace, но предложения, помеченные как эксклюзивные, могут быть приобретены только партнерами, выбранными ISV.</span><span class="sxs-lookup"><span data-stu-id="1b384-110">All CSP partners will still be able to view all ISV offers in the Partner Center Marketplace but offers marked Exclusive will only be able to be purchased by the partners who the ISV has selected.</span></span> <span data-ttu-id="1b384-111">Если предложение не обозначено как "эксклюзивное", все партнеры могут приобрести его.</span><span class="sxs-lookup"><span data-stu-id="1b384-111">If an offer is not indicated as "Exclusive" all partners can purchase it.</span></span>
+- <span data-ttu-id="6cd5c-105">Глобальный администратор</span><span class="sxs-lookup"><span data-stu-id="6cd5c-105">Global admin</span></span>
+- <span data-ttu-id="6cd5c-106">администратор пользователей.</span><span class="sxs-lookup"><span data-stu-id="6cd5c-106">User admin</span></span>
+- <span data-ttu-id="6cd5c-107">Агент по администрированию</span><span class="sxs-lookup"><span data-stu-id="6cd5c-107">Admin agent</span></span>
+- <span data-ttu-id="6cd5c-108">Агент по продажам</span><span class="sxs-lookup"><span data-stu-id="6cd5c-108">Sales agent</span></span>
 
-<span data-ttu-id="1b384-112">Партнеры CSP, идентифицируемые независимыми поставщиками программного обеспечения, могут:</span><span class="sxs-lookup"><span data-stu-id="1b384-112">CSP partners who are identified by ISVs can:</span></span>
+<span data-ttu-id="6cd5c-109">Независимый поставщик программного обеспечения (ISV) имеет возможность делать исключительные предложения, доступные только определенным партнерам CSP.</span><span class="sxs-lookup"><span data-stu-id="6cd5c-109">An Independent Software Vendor (ISV) has the option to make exclusive offers that are only available to certain CSP partners.</span></span>
 
-- <span data-ttu-id="1b384-113">Приобретение эксклюзивных предложений через центр партнеров Marketplace</span><span class="sxs-lookup"><span data-stu-id="1b384-113">Purchase exclusive offers through Partner Center marketplace</span></span>
-- <span data-ttu-id="1b384-114">Экспорт прайс списка</span><span class="sxs-lookup"><span data-stu-id="1b384-114">Export price list</span></span>
+<span data-ttu-id="6cd5c-110">Партнеры CSP могут просматривать все предложения ISV в коммерческом Marketplace в центре партнеров.</span><span class="sxs-lookup"><span data-stu-id="6cd5c-110">CSP partners can view all ISV offers in the Partner Center commercial marketplace.</span></span> <span data-ttu-id="6cd5c-111">Однако предложения, помеченные **эксклюзивным**, могут быть приобретены только конкретными партнерами, выбранными независимым поставщиком программного обеспечения.</span><span class="sxs-lookup"><span data-stu-id="6cd5c-111">Offers marked **Exclusive**, however, can only be purchased by specific partners selected by the ISV.</span></span> <span data-ttu-id="6cd5c-112">Если предложение не помечено как **эксклюзивное**, все партнеры могут приобрести его.</span><span class="sxs-lookup"><span data-stu-id="6cd5c-112">If an offer is not marked **Exclusive**, all partners can purchase it.</span></span>
 
-## <a name="how-do-you-gain-access-to-exclusive-offers"></a><span data-ttu-id="1b384-115">Как получить доступ к эксклюзивным предложениям?</span><span class="sxs-lookup"><span data-stu-id="1b384-115">How do you gain access to exclusive offers?</span></span>
+<span data-ttu-id="6cd5c-113">Конкретные партнеры CSP, идентифицируемые независимым поставщиком программного обеспечения, могут:</span><span class="sxs-lookup"><span data-stu-id="6cd5c-113">Specific CSP partners identified by an ISV can:</span></span>
 
-<span data-ttu-id="1b384-116">Когда поставщик программного обеспечения публикует предложение в Marketplace, у него есть возможность указать, кто может приобрести его.</span><span class="sxs-lookup"><span data-stu-id="1b384-116">When an ISV publishes an offer on the Marketplace, they have the opportunity to indicate who can purchase it.</span></span> 
+- <span data-ttu-id="6cd5c-114">Приобретите эксклюзивные предложения от этого ISV в коммерческом магазине по партнерским центрам</span><span class="sxs-lookup"><span data-stu-id="6cd5c-114">Purchase exclusive offers from that ISV through the Partner Center commercial marketplace</span></span>
+- <span data-ttu-id="6cd5c-115">Экспорт прайс списка</span><span class="sxs-lookup"><span data-stu-id="6cd5c-115">Export price list</span></span>
 
-<span data-ttu-id="1b384-117">Возможные варианты:</span><span class="sxs-lookup"><span data-stu-id="1b384-117">Their options are:</span></span>
+## <a name="how-do-you-gain-access-to-exclusive-offers"></a><span data-ttu-id="6cd5c-116">Как получить доступ к эксклюзивным предложениям?</span><span class="sxs-lookup"><span data-stu-id="6cd5c-116">How do you gain access to exclusive offers?</span></span>
 
-- <span data-ttu-id="1b384-118">Все партнеры CSP могут приобрести</span><span class="sxs-lookup"><span data-stu-id="1b384-118">All CSP partners can purchase</span></span>
-- <span data-ttu-id="1b384-119">Определение партнеров, которые могут приобрести</span><span class="sxs-lookup"><span data-stu-id="1b384-119">Determine which partners can purchase</span></span>
-- <span data-ttu-id="1b384-120">Недоступно партнерам CSP</span><span class="sxs-lookup"><span data-stu-id="1b384-120">Not available to CSP partners</span></span>
+<span data-ttu-id="6cd5c-117">Когда поставщик программного обеспечения публикует предложение в Marketplace, у него есть возможность указать, кто может приобрести его.</span><span class="sxs-lookup"><span data-stu-id="6cd5c-117">When an ISV publishes an offer on the Marketplace, they have the opportunity to indicate who can purchase it.</span></span>
 
-<span data-ttu-id="1b384-121">Дополнительные сведения о работе ISV в Marketplace см. в статье [поставщики облачных решений](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).</span><span class="sxs-lookup"><span data-stu-id="1b384-121">To learn more about the ISV experience in Marketplace, read [Cloud Solution Providers](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).</span></span>
+<span data-ttu-id="6cd5c-118">Возможные варианты:</span><span class="sxs-lookup"><span data-stu-id="6cd5c-118">Their options are:</span></span>
 
-<span data-ttu-id="1b384-122">Дополнительные сведения о Marketplace см. в статье [Обзор коммерческого рынка для поставщиков облачных решений](csp-commercial-marketplace-overview.md).</span><span class="sxs-lookup"><span data-stu-id="1b384-122">For more information on the Marketplace, read [Commercial marketplace overview for Cloud Solution Providers](csp-commercial-marketplace-overview.md).</span></span>
+- <span data-ttu-id="6cd5c-119">Все партнеры CSP могут приобрести</span><span class="sxs-lookup"><span data-stu-id="6cd5c-119">All CSP partners can purchase</span></span>
+- <span data-ttu-id="6cd5c-120">Определение партнеров, которые могут приобрести</span><span class="sxs-lookup"><span data-stu-id="6cd5c-120">Determine which partners can purchase</span></span>
+- <span data-ttu-id="6cd5c-121">Недоступно партнерам CSP</span><span class="sxs-lookup"><span data-stu-id="6cd5c-121">Not available to CSP partners</span></span>
+
+## <a name="next-steps"></a><span data-ttu-id="6cd5c-122">Дальнейшие действия</span><span class="sxs-lookup"><span data-stu-id="6cd5c-122">Next steps</span></span>
+
+- <span data-ttu-id="6cd5c-123">Дополнительные сведения о работе ISV в коммерческом магазине см. в статье [поставщики облачных решений](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).</span><span class="sxs-lookup"><span data-stu-id="6cd5c-123">To learn more about the ISV experience in the commercial marketplace, read [Cloud Solution Providers](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).</span></span>
+
+- <span data-ttu-id="6cd5c-124">Дополнительные сведения о коммерческой Marketplace см. в статье [Обзор коммерческого рынка для поставщиков облачных решений](csp-commercial-marketplace-overview.md).</span><span class="sxs-lookup"><span data-stu-id="6cd5c-124">For more information on the commercial marketplace, read [Commercial marketplace overview for Cloud Solution Providers](csp-commercial-marketplace-overview.md).</span></span>
