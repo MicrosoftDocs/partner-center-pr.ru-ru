@@ -1,23 +1,23 @@
 ---
-title: Управление интересами | Центр партнеров
+title: Управление потенциальными клиентами
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте, как реагировать на ссылки, управлять новыми, существующими и архивными ссылками, а также получать дополнительные ссылки в будущем.
-author: vikramb
-ms.author: vikramb
+description: Используйте центр партнеров для реагирования на ссылки и управления новыми, существующими и архивированными интересами и ссылками. Узнайте, как получить дополнительные ссылки в будущем.
+author: LauraBrenner
+ms.author: labrenne
 keywords: ссылки, совместная продажа, сделка
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05c0fb22047664ef814d4fbc8eeb45e1ce1df51b
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d1a1e8e487cc56a17abe743a470c404c273e33bf
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81919851"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83796027"
 ---
-# <a name="manage-leads"></a>Управление интересами
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Управление разными интересами, такими как запросы клиентов, интересы, квалифицированные в маркетинговых предложениях, и интересы, квалифицированные в продажах
 
 **Относится к**
 

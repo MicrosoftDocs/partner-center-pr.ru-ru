@@ -1,7 +1,7 @@
 ---
-title: Задач управления пользователя для учетных записей клиентов | Центр партнеров
+title: Управление пользователями в клиентских учетных записях
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как создавать учетные записи пользователей для клиентов, добавлять или удалять пользовательские лицензии, сбрасывать пароли пользователей, удалять учетные записи пользователей и восстанавливать их.
@@ -10,14 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: Управление клиентами, учетная запись, создание учетной записи, лицензии, назначение лицензии, Управление пользователями, пароль, сброс пароля, смена пароля
 ms.localizationpriority: medium
-ms.openlocfilehash: 15647d55b1e7a43ca78b2285808f8602dba80f41
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9fa251bb6211786df0e6255d0d8ce7a2310a52ad
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798622"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795035"
 ---
-# <a name="user-management-tasks-for-customer-accounts"></a>Задачи управления пользователями для учетных записей клиентов
+# <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>Задачи управления пользователями для учетных записей клиентов в центре партнеров
 
 **Относится к**
 

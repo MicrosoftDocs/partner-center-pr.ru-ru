@@ -1,20 +1,21 @@
 ---
-title: Установить и ознакомиться с приложением "Аналитика Центра партнеров для Microsoft Power BI" | Центр партнеров
+title: Установка аналитики центра партнеров для Power BI
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Выполните следующие действия, чтобы установить и предварительно просмотреть приложение аналитики центра партнеров для Power BI (для прямых партнеров в CSP).
+description: Выполните действия, описанные в этой статье, чтобы установить и просмотреть приложение аналитики центра партнеров для Power BI (для прямых партнеров в CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: cd328ce8afed02af377a94b40fcf75125b008d1f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e8a8558bad11f641737507f4d76405e9825df516
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004973"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795875"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Установить и ознакомиться с приложением "Аналитика Центра партнеров для Microsoft Power BI"
 
@@ -26,9 +27,9 @@ ms.locfileid: "75004973"
 -   Глобальный администратор
 -   администратор пользователей.
 -   Агент по продажам
--   Агент администрирования
+-   Агент по администрированию
 
-## <a name="before-you-begin"></a>Перед началом работы
+## <a name="before-you-begin"></a>Подготовка к работе
 
 Выберите приложение, которое наиболее релевантно для вашего бизнеса, в следующем списке доступных Power BI приложений:
 - [Прямой партнер](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
@@ -70,4 +71,4 @@ ms.locfileid: "75004973"
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
-[Просмотр бизнес-данных с помощью приложения аналитики центра партнеров для Microsoft Power BI](power-bi-app-for-direct-partners-use.md)
+[Просматривайте бизнес-данные с помощью приложения "Аналитика Центра партнеров для Microsoft Power BI"](power-bi-app-for-direct-partners-use.md)

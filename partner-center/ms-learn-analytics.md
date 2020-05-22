@@ -1,21 +1,22 @@
 ---
-title: Аналитика Microsoft Learn | Центр партнеров
+title: Аналитика Microsoft Learn
 ms.topic: article
-ms.date: 07/05/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Следите за изучением в Организации, используя данные по отдельным обучающим курсам, готовым модулям, готовым путям обучения и т. д.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 43d5e0770861aa23d9fe993df012e7a183894528
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8e69b283edd0110ba2b6e13ea60621171b83e4b6
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005113"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795936"
 ---
-# <a name="microsoft-learn-analytics-report"></a>Отчет об аналитике Microsoft Learn
+# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>В отчете Microsoft Learn Analytics отображается состояние сведений об учениях в вашей компании
 
 **Соответствующие роли**
 -   Глобальный администратор

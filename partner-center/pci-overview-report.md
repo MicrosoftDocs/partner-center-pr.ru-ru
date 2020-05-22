@@ -1,24 +1,24 @@
 ---
-title: Обзорная панель мониторинга центра партнеров | Центр партнеров
+title: Панель мониторинга обзора центра партнеров Insights
 ms.topic: article
-ms.date: 12/27/2019
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте, что именно вам удобно, и где можно улучшить вопросы продаж и развертывания и разработки клиентов.
+description: Ознакомьтесь с моментальным снимком того, как вы делаете продажи и развертывание, рост клиентов и рост дохода с помощью лицензий, подписок и потребления Azure.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, производительность, успешный клиент, измерения,
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 420fb8e6bd7fefcd360dcd0b98bd4885f4d9da38
-ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43198aa65b127bb1e22146006f54d19588b58940
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75631875"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795703"
 ---
-# <a name="overview-dashboard-reports"></a>Обзор отчетов панели мониторинга 
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Обзор отчетов панели мониторинга, доступных в центре партнеров Insights
  
 Панель мониторинга обзор центра партнеров предоставляет представление моментального снимка ключевых показателей эффективности, таких как клиенты, подписки, доход потребления Azure, лицензии и т. д. В обзорном отчете можно визуализировать следующие диаграммы. 
 
@@ -83,6 +83,6 @@ ms.locfileid: "75631875"
 
 ![лицензии](images/pci/licensesgrowth.png)
 
-### <a name="learn-more"></a>Узнайте больше
+## <a name="next-steps"></a>Дальнейшие действия
 
-Дополнительные сведения о панели мониторинга и отчетах центра партнеров см. в статье о [центре партнеров](partner-center-insights.md) .
+- Дополнительные отчеты см. в статье [Partner Center Insights](partner-center-insights.md).

@@ -1,28 +1,28 @@
 ---
-title: Центр партнеров Insights — отчет об компетенциях | Центр партнеров
+title: Отчет об компетенциях центра партнеров Insights
 ms.topic: article
-ms.date: 03/19/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о том, что вы знаете, и в каких случаях вы можете улучшить работу с компетенциями Майкрософт, уровнями компетенции и предложениями, которые помогут вам доставлять решения Майкрософт.
 ms.assetid: ''
 keywords: PCI, производительность, измерения, успешные клиенты, компетенции, преимущества, аналитика, отчет
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 1a6e8dd723bafbe62ab6d7b7b99de6ffd6fb1481
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43163437aefdc8cee2e7505e8cc131eeaa3c142d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226190"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795650"
 ---
-# <a name="competencies-report"></a>Отчет об компетенциях
+# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Отчет об компетенциях доступен на панели мониторинга центра партнеров Insights.
 
 **Соответствующие роли**
 - Глобальный администратор
-- Агент администрирования
+- Агент по администрированию
 - Средство просмотра отчетов
 - Средство просмотра отчетов руководителя
 
@@ -86,3 +86,6 @@ ms.locfileid: "80226190"
 
 ![История компетенций](images/pci/pci_competencies_comp_history_3.png)
 
+## <a name="next-steps"></a>Дальнейшие действия
+
+- Дополнительные отчеты см. в статье [Partner Center Insights](partner-center-insights.md).

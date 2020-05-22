@@ -1,28 +1,28 @@
 ---
-title: Центр партнеров Insights — отчет о лицензиях на продукт | Центр партнеров
+title: Ценные сведения центра партнеров — лицензии на продукт
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте, что вы знаете, и можете ли вы улучшить работу с лицензированными (или на месте) облачными продуктами, которые вы продаете клиентам или управляете ими.
+description: Ознакомьтесь с отчетом по лицензиям продукта и Узнайте, как улучшить работу с лицензированными (или доменными) облачными продуктами, которые вы продаете или управляете клиентами.
 ms.assetid: ''
 keywords: PCI, производительность, измерения, успешный клиент, облачные подписки, аналитика, отчет
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0d2b5dcac2a51d78d814cc6c5099eaeafa0f769a
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3db52e7a55d915dafcd220f6dd6e5ced28a9819f
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648015"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795666"
 ---
-# <a name="product-licenses-report"></a>Отчет о лицензиях продукта
+# <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Отчет о лицензиях продуктов на панели мониторинга центра партнеров Insights
 
 **Соответствующие роли**
 - Глобальный администратор
-- Агент администрирования
+- Агент по администрированию
 - Средство просмотра отчетов
 - Средство просмотра отчетов руководителя
 
@@ -81,3 +81,7 @@ ms.locfileid: "75648015"
 В этом представлении отображается разбивка клиентских лицензий по продукту и стране/региону клиента. При выборе продукта в круговой диаграмме " **Лицензия по продукту** " на соседней диаграмме отображается разбивка лицензии по региону клиента.
 
 ![распространение лицензий](images/pci/pci_licenses_report_license_distrib_4.png)
+
+## <a name="next-steps"></a>Дальнейшие действия
+
+- Дополнительные отчеты см. в статье [Partner Center Insights](partner-center-insights.md).

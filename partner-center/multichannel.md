@@ -1,22 +1,23 @@
 ---
-title: Использование многоканальных параметров в центре партнеров
+title: Поддержка нескольких каналов для клиентов
 description: В некоторых случаях клиентам может потребоваться нанять вас за предоставление и поддержку подписки, приобретенной в других местах.
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e96b7cb91915c6ccbc6485fde87b1e061a73e2da
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 48eaf38150ff5be68d324b9456fb5a446b4127b2
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362702"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795896"
 ---
-# <a name="multi-channel-support"></a>Поддержка нескольких каналов
+# <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Поддержка нескольких каналов. Использование других партнеров для поддержки клиентских подписок, приобретенных в другом расположении
 
 **Относится к**
 

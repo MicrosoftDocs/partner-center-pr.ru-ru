@@ -1,22 +1,23 @@
 ---
-title: Перенос нескольких компаний в Центр партнеров
+title: Перенос компаний из PMC в центр партнеров
 ms.topic: article
-ms.date: 01/16/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Что необходимо узнать при переносе нескольких компаний из PMC в центр партнеров и консолидировать их в глобальную учетную запись партнера.
+description: Что необходимо узнать при переносе нескольких компаний из центра управления партнерами в центр партнеров и их консолидации в глобальную учетную запись партнера.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, миграция, переход в Центр партнеров
 ms.localizationpriority: medium
-ms.openlocfilehash: 16aa2de0eab173c31c0efd5f94b6bab41b2c70d2
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b7efe2dbc0a616a4ccd46894faae56a81514d996
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362752"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795786"
 ---
-# <a name="moving-your-multiple-companies-to-partner-center"></a>Перенос нескольких компаний в Центр партнеров
+# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Перемещение нескольких компаний в центр партнеров из центра участия в партнерских организациях (PMC)
 
 **Соответствующие роли**
 
@@ -51,7 +52,7 @@ ms.locfileid: "83362752"
 
 На этом экране отображаются сведения об имеющейся учетной записи (имени и адресе), уже созданной в Центре партнеров, а также сведения об основном контактном лице.
 
-Щелкните **Продолжить**.
+Выберите **Continue** (Продолжить).
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Что происходит при консолидации учетных записей
 

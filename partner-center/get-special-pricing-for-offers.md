@@ -1,7 +1,7 @@
 ---
 title: Продажи представителям определенных отраслей
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Узнайте о специальных и сокращенных ценах для определенных групп клиентов, включая учебных заказчиков, некоммерческих клиентов и пользователей государственных организаций.
@@ -9,14 +9,15 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e22a4e89de9ec67c6e42659275a038128d521e47
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 00b4dc172c4c39fe73f1118d2eb3a56555eaa464
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362602"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795095"
 ---
-# <a name="sell-to-specialized-industries"></a>Продажи представителям определенных отраслей
+# <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Продавайте свои специализированные отрасли, такие как образовательные, некоммерческие и государственные пользователи
 
 **Относится к**
 
@@ -34,9 +35,9 @@ ms.locfileid: "83362602"
 
 |**Специальные цены**   |**Требования к торговому посреднику**   |**Требования к клиенту**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Образование   |Отсутствуют   | Должен быть [квалифицированным пользователем для образовательных учреждений](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
-|Государственные организации   |Чтобы продать Azure, зарегистрируйтесь, используя [форму проверки облака Microsoft US для государственных организаций](https://azuregov.microsoft.com/csp). Чтобы продавать подписки на основе лицензии для государственных организаций, выполнение определенных требований не требуется.|   Отсутствуют|
-|Некоммерческое  |Отсутствуют<br/> Необходимо иметь некоммерческий клиент Azure Active Directory.<br/> Дополнительные сведения о [некоммерческих специальных предложениях](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Подпишитесь на [некоммерческие программы Майкрософт](https://nonprofit.microsoft.com/#/register) , чтобы получить право.   |
+|Образование   |None   | Должен быть [квалифицированным пользователем для образовательных учреждений](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
+|Государственный сектор   |Чтобы продать Azure, зарегистрируйтесь, используя [форму проверки облака Microsoft US для государственных организаций](https://azuregov.microsoft.com/csp). Чтобы продавать подписки на основе лицензии для государственных организаций, выполнение определенных требований не требуется.|   None|
+|Некоммерческое  |None<br/> Необходимо иметь некоммерческий клиент Azure Active Directory.<br/> Дополнительные сведения о [некоммерческих специальных предложениях](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Подпишитесь на [некоммерческие программы Майкрософт](https://nonprofit.microsoft.com/#/register) , чтобы получить право.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Просмотр требований к торговому посреднику
 

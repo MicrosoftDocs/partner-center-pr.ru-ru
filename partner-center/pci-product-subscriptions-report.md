@@ -1,28 +1,28 @@
 ---
-title: Центр партнеров Insights — отчет о подписках на продукты | Центр партнеров
+title: Отчет по подпискам центра партнеров Insights
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, что вы хорошо используете, и можете ли вы улучшить отношение к облачным подпискам, которые вы продаете или управляете клиентами.
 ms.assetid: ''
 keywords: PCI, производительность, измерения, успешный клиент, облачные подписки, аналитика, отчет
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 7c2621130c9eef99f09f062f9bf38c48c8dcb4b6
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e582507432f54148bc4c918bc554a3169fd716ca
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648055"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795914"
 ---
-# <a name="product-subscriptions-report"></a>Отчет о подписках на продукты
+# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Отчет о подписках на продукты, доступный на панели мониторинга центра партнеров Insights
 
 **Соответствующие роли**
 - Глобальный администратор
-- Агент администрирования
+- Агент по администрированию
 - Средство просмотра отчетов
 - Средство просмотра отчетов руководителя
 
@@ -108,3 +108,7 @@ ms.locfileid: "75648055"
 
 > [!NOTE]
  > Число подписок, разделенных номерами SKU, может не всегда соответствовать общему количеству подписок для этого продукта. Это может произойти, если клиент приобрел несколько номеров SKU в одной подписке продукта.
+
+## <a name="next-steps"></a>Дальнейшие действия
+
+- Дополнительные отчеты см. в статье [Partner Center Insights](partner-center-insights.md).

@@ -1,8 +1,8 @@
 ---
-title: Предоставление клиентам разрешения на приобретение собственных служб
-description: Узнайте, как партнеры по программе CSP могут позволить клиентам покупать собственные службы, такие как резервирование Azure, для подписки, приобретенной для них.
+title: Разрешить клиентам покупать собственные службы в CSP
+description: Узнайте, как партнеры по программе CSP могут позволить клиентам покупать собственные службы, такие как резервирование Azure, для подписки, приобретенной для них в центре партнеров.
 ms.topic: article
-ms.date: 05/13/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,14 +10,14 @@ ms.author: labrenne
 Keywords: Подписка, самостоятельная покупка, самостоятельная RI, включение RI, отключение RI, самостоятельная служба, покупка клиентов, разрешения клиентов, зарезервированный экземпляр клиента, покупка резервирования, клиент закупок Azure, включение самообслуживания, отключение самообслуживания
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07e362e80f6d57ca5d0d837160e5ddf04a5b1d65
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: d04f7aad779a6bf3be08b24f43da6abc4dfdac4d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394134"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795113"
 ---
-# <a name="how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>Предоставление клиентам разрешения на приобретение собственных продуктов или услуг
+# <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Предоставление клиентам доступа в центре партнеров для приобретения своих продуктов или услуг
 
 **Относится к**
 

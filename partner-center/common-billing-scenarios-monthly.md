@@ -1,21 +1,22 @@
 ---
-title: Распространенные ежемесячные сценарии выставления счетов | Центр партнеров
+title: Распространенные ежемесячные сценарии выставления счетов
 ms.topic: article
-ms.date: 11/25/2019
-description: Распространенные сценарии в центре партнеров при ежемесячном выставлении счетов (например, при добавлении новых подписок, изменении количества лицензий и приостановке подписок).
+ms.date: 05/13/2020
+description: Распространенные сценарии в центре партнеров при ежемесячном выставлении счетов — включает добавление новых подписок, изменение количества лицензий и приостановку подписок.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: выставление счетов, оплата, заказы, использование, ежемесячный счет, подписки, файл сверки
 ms.localizationpriority: medium
-ms.openlocfilehash: e67281a0bf7d5649a68a6a3f3c27c40e3666eb14
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c51e6dfa2471570f30b1b957317bff1e6081bb79
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798542"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795625"
 ---
-# <a name="monthly-billing-scenarios"></a>Сценарии ежемесячного выставления счетов
+# <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Пример ежемесячных сценариев выставления счетов для новых подписок, изменения сумм лицензий или приостановка
 
 **Соответствующие роли**
 

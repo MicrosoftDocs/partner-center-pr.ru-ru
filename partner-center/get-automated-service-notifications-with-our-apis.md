@@ -1,7 +1,7 @@
 ---
-title: Автоматизация уведомлений служб с помощью наших API | Центр партнеров
+title: Использование API для автоматического уведомления службы
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Партнеры могут использовать API для партнеров Office 365 и Microsoft Azure для обеспечения работоспособности службы в режиме реального времени, обмена сообщениями и плановых событий обслуживания.
@@ -9,14 +9,15 @@ ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: cdfb76e55851c5e79eca160945da566db867928a
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3e0ad8a15711ff49ce9f11fb16b583aa69ddae72
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798262"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795085"
 ---
-# <a name="get-automated-service-notifications-with-our-apis"></a>Автоматизация уведомлений служб с помощью наших API
+# <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a>Использование API для автоматического уведомления о службах Azure Insights & взаимодействие со службой Office 365
 
 **Относится к**
 

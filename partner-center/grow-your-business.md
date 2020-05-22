@@ -1,7 +1,7 @@
 ---
-title: Развивайте свой партнерский бизнес с Майкрософт | Центр партнеров
+title: Развивайте свой партнерский бизнес вместе с Майкрософт
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о ресурсах для роста бизнес-партнеров Майкрософт. Сюда входит как получить сведения о продажах (по ссылкам) от корпорации Майкрософт.
@@ -9,14 +9,15 @@ keywords: рекомендации, реагирование на рекомен
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bd43f16a9362faeb105591e57be35f9cb0441479
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f221c34ea22eb200bbcf90c5a82beeb51ec3eaae
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798042"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795813"
 ---
-# <a name="grow-your-microsoft-partner-business"></a>Развивайте свой партнерский бизнес вместе с Майкрософт 
+# <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>Развивайте свой бизнес-партнер корпорации Майкрософт. Узнайте, как получить интересы, & настроить свою компанию.
 
 Корпорация Майкрософт предлагает много ресурсов, которые помогут вам развивать свой партнерский бизнес. Узнайте, как возможности этого веб-сайта, Центра партнеров Майкрософт, помогут вам привлечь новых пользователей и увеличить прибыль.
 
@@ -42,5 +43,5 @@ ms.locfileid: "82798042"
 | Продажа продуктов на дополнительных рынках | Канал продаж поставщиков облачных решений доступен во многих странах и регионах. Весь список см. в разделе [Microsoft Cloud Agreements by region and language](agreements.md) (Соглашения Microsoft Cloud по региону и языку). Обзор канала поставщиков облачных решений см. в статье [Программа для поставщиков облачных решений — продажа облачных решений при появлении спроса](csp-overview.md).  | Партнеры CSP |
 Продажи представителям определенных отраслей, таким как некоммерческие и образовательные организации|[Продажи представителям определенных отраслей](get-special-pricing-for-offers.md)|Партнеры CSP|
 |Развитие бизнеса с помощью широкого спектра деятельности, доступной в рамках программы совместного поощрения. Отправление заявок на деятельность через панель мониторинга.| [Создание и администрирование заявок на компенсацию средств в рамках программы поощрения](create-incentives-claims.md)|Партнеры CSP|
-|Продажа подписок на коммерческие продукты Marketplace|[Действия коммерческого рынка ундертанд CSP](csp-commercial-marketplace-overview.md)|Партнеры CSP|
+|Продажа подписок на коммерческие продукты Marketplace|[Общие сведения о коммерческих действиях в магазине CSP](csp-commercial-marketplace-overview.md)|Партнеры CSP|
 |Ваша компания преуспевает в сфере продажи и поддержке Azure? Подайте заявку, чтобы зарегистрироваться в программе Azure Expert Microsoft Services Provider|[Программа Azure Expert Microsoft Services Provider](azure-expert-msp.md)|Партнеры CSP|
