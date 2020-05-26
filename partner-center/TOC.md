@@ -83,6 +83,9 @@
 ### [Управление бизнес-профилем](create-a-marketing-profile.md)
 ### [Управление потенциальными клиентами](manage-leads.md)
 ### [Управление возможностями совместной продажи](manage-co-sell-opportunities.md)
+### [Соединитель для совместных продаж для Dynamics 365 CRM](dynamics-connector.md)
+### [Соединитель для совместных продаж для Salesforce CRM](salesforce-connector.md)
+### [Использование API-интерфейсов веб-перехватчика с целью регистрации для получения событий изменения ресурсов в ссылках](referral-connector-webhooks.md)
 ### [Регистрация сделок](register-deals.md)
 ### [Получение сведений о рефералах](referral-insights.md)
 ### [Анализ бизнес-профиля](analyze-your-marketing-profile.md)
@@ -123,7 +126,7 @@
 ## [Создание нескольких пользователей для клиента](adding-multiple-users-to-a-customer-account.md)
 ## [Назначение контактов службы поддержки](assign-support-contacts.md)
 
-# [Предложения CSP](csp-offers.md) 
+# [Предложения CSP](csp-offers.md)
 ## Коммерческая платформа
 ### [Обзор коммерческой платформы](csp-commercial-marketplace-overview.md)
 ### [Предложения коммерческой платформы](csp-commercial-marketplace-discover.md)
