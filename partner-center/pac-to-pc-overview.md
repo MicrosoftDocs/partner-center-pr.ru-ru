@@ -1,7 +1,7 @@
 ---
-title: Подготовка к переходу с Центра администрирования партнеров к Центру партнеров | Центр партнеров
+title: Перейти из центра администрирования партнеров
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Возможности Центра администрирования партнеров Office 365 переносятся в Центр партнеров.
@@ -9,27 +9,28 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC, помощник по Office 365 Advisor, помощник, партнер синдикации, снятие с учета PAC, упразднение PAC
 ms.localizationpriority: medium
-ms.openlocfilehash: 214ae5d353449c82a7b1ba03a793d06359e28a0a
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8198cc954c3d129394af1154387b81e25e24e294
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123301"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998410"
 ---
-# <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Центр администрирования партнеров переходит в центр партнеров
+# <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Центр администрирования партнеров переносится в Центр партнеров
 
 **Относится к**
 
--  Партнерский центр
+- Центр партнеров
 
 **Соответствующие роли**
--    Глобальный администратор
--    администратор пользователей.
--    Агент по администрированию
--    Агент по продажам
+- Глобальный администратор
+- администратор пользователей.
+- Агент по администрированию
+- Агент по продажам
 
 > [!NOTE]  
->  Все даты были обновлены с момента первоначальной публикации этой статьи.
+> Все даты были обновлены с момента первоначальной публикации этой статьи.
 
 Центр администрирования партнеров Office 365 (PAC) переходит в центр партнеров Майкрософт.
 
