@@ -1,22 +1,23 @@
 ---
-title: Рабочие учетные записи и Центр партнеров
+title: Подключение рабочей учетной записи для доступа к Центру партнеров
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте, почему для создания учетной записи Центра партнеров нужна рабочая учетная запись. Проверьте, есть ли у вас рабочая учетная запись.
+description: Создайте рабочую учетную запись, которая свяжет вашу компанию с учетной записью Центра партнеров. Это позволит предоставить доступ к Центру партнеров сотрудникам вашей организации.
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: рабочая учетная запись, электронная почта, клиент, клиент Azure, создание учетной записи, доменное имя
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: e34eecb482df140a1a225d0d28460ef957701d59
-ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
+ms.openlocfilehash: e46be80cb39233e7632a97fd511232d5ff762499
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83369271"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394219"
 ---
-# <a name="your-company-work-account-and-partner-center"></a>Рабочая учетная запись компании и Центр партнеров  
+# <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Создайте рабочую учетную запись для связи вашей компании с учетной записью Центра партнеров
 
 **Относится к**
 

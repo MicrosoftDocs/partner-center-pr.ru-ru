@@ -1,23 +1,23 @@
 ---
-title: Членство Microsoft Partner Network
+title: Преимущества членства в Microsoft Partner Network
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Узнайте о преимуществах партнерских отношений с корпорацией Майкрософт, в том числе об Action Pack от Майкрософт, компетенциях и возможностях программы, которые помогут вам выделиться на фоне конкурентов, выйти на рынок со своими решениями и успешно их продавать.
+description: Узнайте о преимуществах партнерских отношений с корпорацией Майкрософт, в том числе о подписке Microsoft Action Pack, компетенциях и возможностях программы, которые помогут вам выйти на рынок со своими решениями и успешно их продавать.
 author: LauraBrenner
 ms.author: labrenne
 keywords: партнер, сотрудничество, MPN, Microsoft Partner Network, Action Pack, MAPS, подписка Action Pack, преимущества, преимущества MPN, членство, Silver, Gold, компетенции
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 4208d919d8cee8dc98fa60621a6e5768d828e799
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 50b8834704886a9c516550bbde778edf8e39c0a9
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362742"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795949"
 ---
-# <a name="partner-with-microsoft"></a>Партнерство с Майкрософт
+# <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>Станьте партнером Майкрософт: узнайте, какие это дает преимущества, как помочь своим клиентам и как стимулировать бизнес-рост
 
 **Соответствующие роли**
 

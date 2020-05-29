@@ -1,22 +1,23 @@
 ---
-title: Переход от PMC к Центру партнеров | Центр партнеров
+title: Переход от PMC к Центру партнеров
 ms.topic: article
-ms.date: 04/08/2020
+ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте о различиях и сходстве между PMC и Центра партнеров в отношении продления, структуры учетной записи, входа, ролей пользователей, компетенций и многого другого.
+description: Узнайте о различиях между PMC и Центром партнеров с точки зрения продления обслуживания, структуры учетной записи, входа в систему, ролей пользователя, компетенций и других аспектов.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, миграция, переход в Центр партнеров
 ms.localizationpriority: high
-ms.openlocfilehash: fba77a2a346972ea3d3dbc7e849a9e1c9a693ddb
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 929abefbdf30940c94176bf03857a3b3bf0ad719
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "81123307"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795757"
 ---
-# <a name="moving-from-pmc-to-partner-center"></a>Переход от PMC к Центру партнеров
+# <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>Переход из Partner Membership Center (PMC) в Центр партнеров
 
 **Соответствующие роли**
 -    Глобальный администратор

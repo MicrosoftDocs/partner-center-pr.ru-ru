@@ -1,28 +1,29 @@
 ---
-title: Соглашения CSP, прайс-листы и предложения | Центр партнеров
+title: Соглашения, прайс-листы и предложения CSP
 ms.topic: article
-ms.date: 02/03/2020
+ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: В этой статье приводятся ссылки на руководства по работе с программой поставщиков облачных решений, соглашения партнеров, клиентские договоры, прейскуранты и предложения.
+description: Здесь вы найдете ссылки на руководства по программе поставщиков облачных решений, соглашения с партнером и с клиентом, прейскуранты и предложения.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: LauraBrenner
 ms.author: labrenne
 keywords: руководства по программе csp, руководство по программе, партнерские соглашения, соглашение с клиентом, прейскуранты, предложения
 ms.localizationpriority: high
-ms.openlocfilehash: 8e3b5c7a8718de446c3d09daa735f425d627648c
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 25b703b5235410bce36d5a54b4b37ccf4621bb90
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798482"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795599"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Руководство по программе поставщиков облачных решений, соглашения, прейскуранты и предложения
 
 **Относится к**
 
--  Центр партнеров
--  Центр партнеров для Microsoft Cloud for US Government
+- Центр партнеров
+- Центр партнеров для Microsoft Cloud for US Government
 
 
 Просмотрите сведения в этой статье, чтобы понять требования для участия в программе поставщиков облачных решений (CSP) корпорации Майкрософт.

@@ -1,21 +1,22 @@
 ---
-title: Регистрация в программе поставщиков облачных решений | Центр партнеров
+title: Регистрация в программе поставщиков облачных решений
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте о разных моделях для продажи в программе поставщика облачных решений (CSP) и определите, какая из них лучше всего подходит для вашего бизнеса.
+description: Узнайте, как зарегистрироваться в программе поставщиков облачных решений (CSP) с моделью продаж, которая оптимально подходит для вашего бизнеса, например в качестве непрямого торгового посредника (Indirect Reseller) или партнера с правом прямого выставления счетов (Direct Bill Partner).
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: ff2e0d02b63bd02e374e5726010f261fc2b3e8b9
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5a993f07a066f979776dea281ebc3d459b569dd5
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74721707"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795165"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program"></a>Регистрация в программе поставщиков облачных решений
+# <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>Зарегистрируйтесь в программе поставщиков облачных решений и создайте прибыльный бизнес в этой сфере
 
 **Относится к**
 

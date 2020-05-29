@@ -1,23 +1,24 @@
 ---
-title: Создание учетных записей пользователей и определение разрешений | Центр партнеров
+title: Создание учетных записей пользователей и назначение ролей
+description: Каждому сотруднику необходимо назначить роль, прежде чем он сможет получить доступ к Центру партнеров. Узнайте, как создавать учетные записи пользователей, назначать роли и задавать разрешения.
 ms.topic: article
-ms.date: 02/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте, как создавать учетные записи пользователей и назначать роли в Центре партнеров для каждого сотрудника, которому требуется доступ. Это могут делать пользователи с определенными правами администратора.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: роли, разрешения, добавление пользователя, назначение роли, администратор, агент,
 ms.localizationpriority: high
-ms.openlocfilehash: f163e37f537f537b6eae086e355c87d892d1a745
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.date: 02/26/2020
+ms.openlocfilehash: 8d738e9231959e7d156a053fa1ac28ccfc219547
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798492"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394196"
 ---
-# <a name="create-user-accounts-and-assign-permissions"></a>Создание учетных записей пользователей и назначение разрешений
+# <a name="create-user-accounts-and-assign-roles-and-permissions"></a>Создание учетных записей пользователей и назначение ролей и разрешений
 
 **Соответствующие роли**
 
@@ -103,10 +104,3 @@ ms.locfileid: "82798492"
 1. В правом углу Панели мониторинга Центра партнеров щелкните значок **Your account** (Ваша учетная запись), а затем выберите **My profile** (Мой профиль).
 
 2. В разделе **Your learning** (Ваше обучение) вы сможете привязать свою учетную запись Microsoft Learning, а также подключить учетную запись Майкрософт к Partner University.
-
-
-
-
-
-
-

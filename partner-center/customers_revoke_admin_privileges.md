@@ -1,22 +1,23 @@
 ---
-title: Делегирование прав администрирования клиентами партнерам | Центр партнеров
+title: Получение прав администратора клиента
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте, как попросить клиентов делегировать права администратора торговому посреднику или удалить эти разрешения, а также как использовать разрешения.
+description: Получите разрешения, необходимые для управления службой или подпиской клиента от его имени. Сведения о предоставлении, отмене и изменении разрешений.
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 keywords: делегированные права администратора, администратор от имени, удаление привилегий, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: 9b82ed4828a112f28f3e2ef1da1a64745c9ffdc0
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: dc56aa2236251c98afa6ffc5b5cc2b3d3f10918b
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340062"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394180"
 ---
-# <a name="customers-delegate-administration-privileges-to-partners"></a>Делегирование прав администрирования клиентами партнерам
+# <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Получение разрешений для управления службой или подпиской клиента
 
 **Относится к**
 

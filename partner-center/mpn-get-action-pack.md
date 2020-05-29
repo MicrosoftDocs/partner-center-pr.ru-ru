@@ -1,7 +1,7 @@
 ---
-title: Приобретение или продление преимуществ | Центр партнеров
+title: Приобретение или продление предложений Microsoft Action Pack
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Узнайте, как приобрести подписку Microsoft Action Pack и начать использовать преимущества Action Pack. Также вы узнаете, как возобновить, отменить и просмотреть счет и выполнить многие другие действия.
@@ -9,28 +9,31 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: action pack, MAPS, продление MAPS, продление action pack, получение action pack
 ms.localizationpriority: high
-ms.openlocfilehash: 2d7bd216788c9d181862a7fa24f12df815b31de2
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: aac218976d071d4dc848944294e143bb1b85c6ac
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798852"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795963"
 ---
-# <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Первое приобретение или продление подписки Microsoft Action Pack, а также компетенций уровня Silver или Gold.
+# <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Приобретение или продление подписки Microsoft Action Pack и компетенций уровня Silver и Gold
 
 **Относится к**
 
--  Центр партнеров
--  Partner Membership Center
+- Центр партнеров
+- Partner Membership Center
+- Партнеры по программе MPN
 
 **Соответствующие роли**
--   Глобальный администратор
--   администратор пользователей.
--   Администратор партнера MPN
--   Агент по администрированию
--   Агент по продажам
 
-Теперь на [Панели мониторинга](https://docs.microsoft.com/partner-center/) Центра партнеров вы можете приобрести или продлить предложения, включая подписку Microsoft Action Pack, а также компетенции уровня Silver и Gold. 
+- Глобальный администратор
+- администратор пользователей.
+- Администратор партнера MPN
+- Агент по администрированию
+- Агент по продажам
+
+[Панель мониторинга](https://docs.microsoft.com/partner-center/) Центра партнеров теперь позволяет участникам Microsoft Partner Network (MPN) приобретать или продлевать предложения по предоставлению преимуществ. Эти предложения включают подписку Microsoft Action Pack и компетенции уровня Silver и Gold.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Приобретение Microsoft Action Pack в первый раз
 

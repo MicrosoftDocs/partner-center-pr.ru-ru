@@ -1,27 +1,27 @@
 ---
-title: Подготовка к переходу из Partner Membership Center в Центр партнеров | Центр партнеров
+title: Переход из Partner Membership Center
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Ознакомьтесь с полезными сведениями и часто задаваемыми вопросами, прежде чем переносить организацию из Partner Membership Center (PMC) в Центр партнеров.
+description: Ознакомьтесь с полезными сведениями и часто задаваемыми вопросами, прежде чем переводить свою организацию из Partner Membership Center в Центр партнеров.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 127919c92bf6fffca846dd92cde4c787bfd16641
-ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
+ms.openlocfilehash: 0c1fc9530a978e7202d7a0d58a574546b10c91e9
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "82859357"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795843"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Подготовка к переходу из Partner Membership Center (PMC) в Центр партнеров
 
 **Соответствующие роли**
--    Глобальный администратор
--    администратор пользователей.
--    Агент по продажам
--    Агент по администрированию
+- Глобальный администратор
+- администратор пользователей.
+- Агент по продажам
+- Агент по администрированию
 
 Мы переносим управление членством из Partner Membership Center (PMC) в Центр партнеров — единое место для управления деловыми отношениями с корпорацией Майкрософт. Мы хотим, чтобы ваш переход в Центр партнеров был как можно более эффективным и простым. Мы определили несколько областей, в которых Центр партнеров отличается от PMC, и мы думаем, что их необходимо из3учить и подготовить перед переходом.
 
