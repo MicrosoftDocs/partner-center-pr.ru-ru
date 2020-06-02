@@ -1,7 +1,7 @@
 ---
-title: Поддержка нескольких партнеров
+title: Поддержка нескольких партнеров | Центр партнеров
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 03/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Клиенту может потребоваться работать с несколькими партнерами в рамках программы поставщиков облачных решений, специализирующимися на разных услугах.
@@ -9,15 +9,14 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 05a431a43aac1624c529df8a92c5a773793bf5a8
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 8837799bb170f2148aac9a1849146615a4ffebd1
+ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795898"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84253961"
 ---
-# <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Поддержка нескольких партнеров для клиентов, которые хотят работать с несколькими партнерами
+# <a name="multi-partner-support"></a>Поддержка нескольких партнеров
 
 **Относится к**
 
@@ -46,7 +45,7 @@ ms.locfileid: "83795898"
 - не изменяет зарегистрированного партнера для подписки.
 
 > [!IMPORTANT]  
-> Партнер по программе CSP не может перепродавать веб-службы другому партнеру, участвующему в программе CSP. Корпорация Майкрософт постоянно пересматривает политики и возможности всех программ. Вы будете получать новости о выпуске новых функций и изменении политик посредством обычных каналов связи, в том числе с помощью [объявлений Центра партнеров](https://partner.microsoft.com/pcv/announcements).
+> Партнер по программе CSP не может перепродавать веб-службы другому партнеру, участвующему в программе CSP. Корпорация Майкрософт постоянно пересматривает политики и возможности всех программ. Вы будете получать новости о выпуске новых функций и изменении политик посредством обычных каналов связи, в том числе с помощью [объявлений Центра партнеров](announcements/index.md).
 
 
 
