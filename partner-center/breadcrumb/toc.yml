@@ -1,3 +1,7 @@
-- name: Docs
-  tocHref: /
-  topicHref: /
+- name: Документация по Центру партнеров
+  tocHref: /partner-center/
+  topicHref: /partner-center/index
+  items:
+    - name: Объявления
+      tocHref: /partner-center/announcements/
+      topicHref: /partner-center/announcements/

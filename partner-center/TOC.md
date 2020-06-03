@@ -1,5 +1,7 @@
 # [Сведения о Центре партнеров Майкрософт](index.yml)
 
+# [Объявления](announcements/TOC.md)
+
 # [Членство Partner Network](mpn-overview.md)
 ## [Создание учетной записи Центра партнеров](mpn-create-a-partner-center-account.md)
 ## [Как получить рабочий адрес электронной почты](buy-email-domain.md)
