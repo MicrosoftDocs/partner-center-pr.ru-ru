@@ -1,30 +1,30 @@
 ---
-title: Управление интересами | Центр партнеров
+title: Управление потенциальными клиентами
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте, как реагировать на ссылки, управлять новыми, существующими и архивными ссылками, а также получать дополнительные ссылки в будущем.
-author: vikramb
-ms.author: vikramb
+description: Используйте центр партнеров для реагирования на ссылки и управления новыми, существующими и архивированными интересами и ссылками. Узнайте, как получить дополнительные ссылки в будущем.
+author: LauraBrenner
+ms.author: labrenne
 keywords: ссылки, совместная продажа, сделка
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 04a2e640eee404f88b34bc2c44b1fcba475d9da0
-ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e91035d860c9d7e7e908e7645756ca64e64d4828
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "84145068"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328335"
 ---
-# <a name="manage-leads"></a>Управление интересами
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Управление разными интересами, такими как запросы клиентов, интересы, квалифицированные в маркетинговых предложениях, и интересы, квалифицированные в продажах
 
 **Относится к**
 
--  Центр партнеров
--  Рекомендации
--  Поставщик решений Майкрософт
--  Бизнес-профили
+- Центр партнеров
+- Рекомендации
+- Поставщик решений Майкрософт
+- Бизнес-профили
 
 **Соответствующие роли**
 
@@ -96,7 +96,7 @@ ms.locfileid: "84145068"
 
 - **Сообщайте о примерных размерах сделок, датах закрытия и конечном состоянии своих сделок** (реализованные или потерянные). Мы будем использовать эти сведения, чтобы продолжить предоставлять ссылки с качеством.
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Управление возможностями совместной продажи](manage-co-sell-opportunities.md)
 

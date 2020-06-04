@@ -1,7 +1,7 @@
 ---
 title: Дополнительные сведения о переходе на рынке с помощью предложений Майкрософт
 ms.topic: article
-ms.date: 05/20/2020
+ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Узнайте, как использование предложения "переход на рынке" с помощью предложений Майкрософт поможет ускорить работу на рынке, создать интересы и расширить свой бизнес.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, преимущества участия, членство, предложения для перехода на рынок, переход на рынок с корпорацией Майкрософт, переход на рынок, Золотое членство, Серебряное членство
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6e694a169a7e76568c0c7b4c1882a5dd6e70c3cc
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6f6edf7dbe2591317f0c67ad8e9489f2e4cc1e26
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795820"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328205"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Узнайте о возможностях перехода на рынке с помощью предложений Майкрософт
 
@@ -29,7 +29,7 @@ ms.locfileid: "83795820"
 - Глобальный администратор
 - Администратор партнера MPN
 
-Когда вы стали участником Microsoft Partner Network, вы получаете доступ к преимуществам членства, которые могут помочь в создании и развитии вашего бизнеса. Все [преимущества](https://partner.microsoft.com/manage-your-partner-network-benefits) , которые вы получаете в качестве члена Microsoft Partner Network, можно получить на рынок с ресурсами Майкрософт, предложениями и программами.
+Когда вы становится участником Microsoft Partner Network, вы получаете доступ к преимуществам членства, которые могут помочь в создании и развитии вашего бизнеса. Все [преимущества](https://partner.microsoft.com/manage-your-partner-network-benefits) , которые вы получаете в качестве члена Microsoft Partner Network, можно получить на рынок с ресурсами Майкрософт, предложениями и программами.
 
 Предложения "переход на рынке" предоставляют вам доступ к эксклюзивным продажам и маркетинговым материалам, которые помогут ускорить свое время на рынке, создать интересы и расширить свой бизнес.
 
