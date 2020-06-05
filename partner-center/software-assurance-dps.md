@@ -1,7 +1,7 @@
 ---
-title: Службы планирования Software Assurance в центре партнеров | Центр партнеров
+title: Службы планирования по программе Software Assurance
 ms.topic: article
-ms.date: 03/24/2020
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как регистрировать и уточнять службы Microsoft Planning Services, чтобы вы могли поставлять курсы и другие услуги клиентам с помощью программы Software Assurance.
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: Предварительное развертывание, планирование, Software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: eb153d96f6c0dda0e7ce0521863d74cdb42bcbc2
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 29ceef8ab082e2520ea050f759711fd4d15beec0
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362442"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84425933"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Службы планирования Software Assurance в Центре партнеров
 
