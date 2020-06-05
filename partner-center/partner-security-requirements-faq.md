@@ -1,20 +1,21 @@
 ---
-title: 'Требованиях к безопасности для партнеров: вопросы и ответы | Центр партнеров'
+title: Вопросы и ответы о требованиях к безопасности для партнеров
 ms.topic: article
-ms.date: 11/09/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Часто задаваемые вопросы о требованиях к безопасности для партнеров
-author: isaiahwilliams
-ms.author: iswillia
+description: Вопросы и ответы о требованиях к безопасности для партнеров — что это такое, как партнеры должны реализовать их и как узнать, реализованы ли они.
+author: LauraBrenner
+ms.author: labrenne
 keywords: Azure Active Directory, поставщик облачных решений, программа поставщика облачных решений, CSP, поставщик панели управления, CPV, многофакторная проверка подлинности, MFA, модель безопасного приложения, безопасность
 ms.localizationpriority: high
-ms.openlocfilehash: 72ad7bab25c295fa039e7b29f9d4369c0434814c
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 89c53daff52877c9d1facffe8c03e75a1f5b3dae
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80529776"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998370"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Часто задаваемые вопросы о требованиях к безопасности для партнеров
 
@@ -337,3 +338,4 @@ CPV нужно будет создать приложение Azure Active Direc
 ### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>Где можно найти дополнительные сведения о распространенных технических проблемах?
 
 Сведения о распространенных технических проблемах можно найти [здесь](https://docs.microsoft.com/partner-center/partner-security-requirements#common-issues).
+
