@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3db52e7a55d915dafcd220f6dd6e5ced28a9819f
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 206a7e9d756aa2d888813d83ef22fcd7a9ac109c
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795666"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452913"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Отчет о лицензиях продуктов на панели мониторинга центра партнеров Insights
 
@@ -54,7 +54,7 @@ ms.locfileid: "83795666"
 
 В микродиаграмме представлена тенденция за месяц по месяцам счетчика лицензий в течение выбранного диапазона дат.
 
-![Сводка отчета по лицензиям](images/pci/pci_licenses_report_summary_1.png)
+:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Сводка отчета по лицензиям":::
 
 **Географическое распределение лицензий**
 
@@ -64,7 +64,7 @@ ms.locfileid: "83795666"
 
 Вы можете выполнить поиск и выбрать страну в сетке, чтобы увеличить расположение на карте. Нажмите на карте кнопку **Home (Домашняя** ), чтобы вернуться к представлению по умолчанию. Наведите указатель мыши на карту, чтобы просмотреть текущие лицензии и активные лицензии по странам клиентов. Оба поля в сетке доступны для сортировки.
 
-![географическое распределение лицензий](images/pci/pci_licenses_report_geo_spread_2.png)
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="географическое распределение лицензий":::
 
 **Добавление лицензий**
 
@@ -74,14 +74,14 @@ ms.locfileid: "83795666"
 
 Ось X представляет месяцы выбранного диапазона дат. Ось Y представляет число добавленных лицензий. Чтобы увеличить определенный период, используйте ползунок в верхней части диаграммы.
 
-![Добавление лицензий](images/pci/pci_licenses_report_license_adds_3.png)
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Добавление лицензий":::
 
 **Распространение лицензий**
 
 В этом представлении отображается разбивка клиентских лицензий по продукту и стране/региону клиента. При выборе продукта в круговой диаграмме " **Лицензия по продукту** " на соседней диаграмме отображается разбивка лицензии по региону клиента.
 
-![распространение лицензий](images/pci/pci_licenses_report_license_distrib_4.png)
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="распространение лицензий":::
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
-- Дополнительные отчеты см. в статье [Partner Center Insights](partner-center-insights.md).
+Дополнительные отчеты см. в статье [Partner Center Insights](partner-center-insights.md).

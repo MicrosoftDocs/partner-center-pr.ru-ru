@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08d8efe436f0a7d61a6f0c75e8171eb02a08120c
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 34a9c3fb187cce5e062d7289a46db1771c1c4d79
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795676"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453145"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Отчет об использовании Azure, доступный на панели мониторинга центра партнеров Insights
 
@@ -55,7 +55,7 @@ ms.locfileid: "83795676"
 > [!NOTE]
  > Потребленная прибыль (запись контроля доступа) будет видна только пользователям, которым назначена роль средства просмотра отчетов руководителя.
 
-![Сводка по использованию Azure](images/pci/pci_azure_usage_summary_1.png)
+:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Сводка по использованию Azure":::
 
 **Использование Azure по geography**
 
@@ -65,7 +65,7 @@ ms.locfileid: "83795676"
 
 Вы можете выполнить поиск и выбрать страну в сетке, чтобы увеличить расположение на карте. Выберите параметр **домой** на карте, чтобы вернуться к исходному представлению.
 
-![Использование Azure по geography](images/pci/pci_azure_usage_by_geography_2.png)
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Использование Azure по geography":::
 
 **Использование Azure**
 
@@ -73,7 +73,7 @@ ms.locfileid: "83795676"
 
 Линейчатая диаграмма представляет собой ежемесячную тенденцию доходов/использования. График представляет тренд роста по сравнению с предыдущим месяцем для выбранных категорий уровня службы или категории счетчиков Azure.
 
-![Использование Azure](images/pci/pci_azure_usage_utilization_3.png)
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Использование Azure":::
 
 ## <a name="next-steps"></a>Дальнейшие действия
 

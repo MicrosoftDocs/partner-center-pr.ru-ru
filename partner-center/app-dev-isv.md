@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: компетенции, независимые поставщики программного обеспечения, разработка приложений
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf6d004e7247154b08e63bbd74bcbcf022e57337
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: e7f0024bbd52e6f6a449f9d8965f25499bb4a7a0
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907486"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452731"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Исключение одноразовых требований к экзаменам для компетенции при разработке приложений
 
@@ -45,7 +45,7 @@ ms.locfileid: "82907486"
 1. В меню Центра партнеров на своей панели мониторинга выберите **Компетенции**.
 2. В списке доступных компетенций, разработка приложений помечается как **завершенная**.
 
-![ISV — AppDev](images/appdev.png)
+:::image type="content" source="images/appdev.png" alt-text="ISV — AppDev":::
 
 3. Выберите **Разработка приложений**. Вы увидите уведомление о том, что вы получили переопределение, которое исключит вашу компанию из требований экзамена. 
 
@@ -55,7 +55,7 @@ ms.locfileid: "82907486"
 
 Если вам нужна помощь в получении предложения или у вас есть вопросы по поводу вашего права на это предложение, обратитесь в [службу поддержки партнеров](https://partner.microsoft.com/Support). 
 
-## <a name="frequently-asked-questions"></a>Вопросы и ответы
+## <a name="frequently-asked-questions"></a>Часто задаваемые вопросы
 
 **Разделы справки определить, подходит ли моя компания для этого предложения?**
 

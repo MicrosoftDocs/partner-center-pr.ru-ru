@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, преимущества участия, членство, предложения для перехода на рынок, переход на рынок с корпорацией Майкрософт, переход на рынок, Золотое членство, Серебряное членство
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6f6edf7dbe2591317f0c67ad8e9489f2e4cc1e26
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 5b8e7e6a23d2e2913c039e73d7b5679114399a4c
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328205"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458430"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Узнайте о возможностях перехода на рынке с помощью предложений Майкрософт
 
@@ -65,7 +65,7 @@ ms.locfileid: "84328205"
 
 Чтобы просмотреть предложения для перехода на рынке, сделайте следующее:
 
-1. Войдите на [панель мониторинга]( https://docs.microsoft.com/partner-center/) Центра партнеров.
+1. Войдите на [панель мониторинга](https://partner.microsoft.com/dashboard) Центра партнеров.
 
 2. В меню слева выберите **MPN**. Затем выполните одно из следующих действий.
 

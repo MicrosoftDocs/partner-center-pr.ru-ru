@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43163437aefdc8cee2e7505e8cc131eeaa3c142d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6853bb033f7188d7d9ddfa818252fd3b41422e05
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795650"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452985"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Отчет об компетенциях доступен на панели мониторинга центра партнеров Insights.
 
@@ -64,7 +64,7 @@ ms.locfileid: "83795650"
 - Под угрозой (следующий год): число компетенций, которые **активны** в настоящее время, **а также не** соответствуют требованиям к собранию в следующем году.
 Разбивка компетенций (по уровню компетенции, например серебряной или золотой, с именами компетенций), которые подвергаются риску не подвергнуться квалификации в следующем году.
 
-![Сводка компетенций](images/pci/pci_competencies_summary_1.png)
+:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="Сводка компетенций":::
 
 **Анализ метрик компетенции**
 
@@ -75,7 +75,7 @@ ms.locfileid: "83795650"
 1. Представление ТТМ. Перечисление производительности партнеров за последние двенадцать месяцев (ТТМ).
 2. Представление года годовщины. Перечисление производительности партнеров с предыдущей даты годовщины до следующей даты годовщины.
 
-![анализ метрик компетенции](images/pci/pci_competencies_comp_metrics_analysis_2.png)
+:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="анализ метрик компетенции":::
 
 > [!NOTE]
  > Не все метрики рассматриваются в анализе. В настоящее время в отчете об компетенциях не поддерживаются метрики, связанные с обучением и сертификацией. Компетенции облачной Business Applications (CBA) также не поддерживаются в анализе метрики для **активного** состояния компетенции.
@@ -84,7 +84,7 @@ ms.locfileid: "83795650"
 
 В этом представлении отображается подробная таблица всех уже достигнутых компетенций с уровнем компетенции и стадией компетенции.
 
-![История компетенций](images/pci/pci_competencies_comp_history_3.png)
+:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="История компетенций":::
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
