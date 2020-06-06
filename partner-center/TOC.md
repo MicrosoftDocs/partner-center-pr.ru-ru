@@ -119,7 +119,7 @@
 ## [Добавление нового клиента](add-a-new-customer.md)
 ## [Запрос связи торгового посредника с клиентом](request-a-relationship-with-a-customer.md)
 ## [Удаление связи торгового посредника с клиентом](remove-a-relationship.md)
-## [Делегирование прав администрирования клиентами партнерам или отзыв таких прав](customers_revoke_admin_privileges.md) 
+## [Делегирование прав администрирования клиентами партнерам или отзыв таких прав](customers-revoke-admin-privileges.md) 
 ## [Просмотр списка клиентов](see-your-customer-list.md)
 ## [Просмотр журналов действий клиента](activity-logs.md)
 ## [Обновление сведений учетной записи клиента](update-customer-account-info.md)
@@ -127,7 +127,7 @@
 ## [Создание нескольких пользователей для клиента](adding-multiple-users-to-a-customer-account.md)
 ## [Назначение контактов службы поддержки](assign-support-contacts.md)
 
-# [Предложения CSP](csp-offers.md) 
+# [Предложения CSP](csp-offers.md)
 ## Коммерческая платформа
 ### [Обзор коммерческой платформы](csp-commercial-marketplace-overview.md)
 ### [Предложения коммерческой платформы](csp-commercial-marketplace-discover.md)
