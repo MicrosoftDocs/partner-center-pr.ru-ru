@@ -1,7 +1,7 @@
 ---
-title: Развивайте свой бизнес с помощью рекомендаций от Майкрософт | Центр партнеров
+title: Развивайте свой бизнес с помощью ссылок Майкрософт
 ms.topic: article
-ms.date: 08/12/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как создать бизнес-профиль для создания интересов по продажам через функцию "ссылки центра партнеров", а затем ответить на эти ссылки.
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: рекомендации, бизнес-профиль, поиск партнера
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e4865bd3de1151033aef5b50409261823c289a0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53499b0a02733cb83ee68b93655e49034da75c33
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943257"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467444"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -22,7 +23,7 @@ ms.locfileid: "74943257"
 
 **Относится к**
 
--  Центр партнеров
+- Центр партнеров
 
 Многие клиенты ищут квалифицированных экспертов, которые могли бы помочь им внедрить технологии и бизнес-решения корпорации Майкрософт. В корпорации Майкрософт мы часто получаем прямые запросы от клиентов относительно помощи через нашу рекламу и от внутренних агентов по продажам корпорации Майкрософт. Клиенты также используют [инструмент **Поиск поставщика решений**](https://www.microsoft.com/solution-providers/search) для поиска компаний, которые могут помочь им удовлетворить потребности своего бизнеса. 
 

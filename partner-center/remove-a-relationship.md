@@ -1,22 +1,22 @@
 ---
 title: Удаление связи между торговыми посредниками с клиентом
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как Microsoft Direct Partner может удалять клиентов из списка, удалять делегированные права администратора и прекращать поддержку или покупку для клиента.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOAPR.20
-ms.openlocfilehash: d57321e272a251c91791f274373fb31953f94e04
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f8f26dee696580b9a171069bd2c4fcad9fcbef8d
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362732"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467424"
 ---
-# <a name="how-to-remove-a-reseller-relationship-with-a-customer"></a>Удаление связи между торговыми посредниками с клиентом
+# <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Как удалить связь торгового посредника с клиентом в центре партнеров
 
 **Относится к**
 

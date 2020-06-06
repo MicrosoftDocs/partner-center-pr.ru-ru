@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, миграция, переход в Центр партнеров
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7efe2dbc0a616a4ccd46894faae56a81514d996
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 8a4a664c957d7a6d6d1621b64ba18f3545ef72bb
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795786"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453191"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Перемещение нескольких компаний в центр партнеров из центра участия в партнерских организациях (PMC)
 
@@ -42,17 +42,17 @@ ms.locfileid: "83795786"
 
 4. Выберите бизнес и регион и сохраните его.
 
-![Существующая учетная запись](images/migration/accountwithus.png)
+:::image type="content" source="images/migration/accountwithus.png" alt-text="Существующая учетная запись":::
 
 ## <a name="your-company-has-an-account-in-partner-center"></a>У вашей компании есть учетная запись в Центре партнеров
 
 Вы увидите имеющуюся учетную запись и примечание, в котором указано, что сведения о компании (учетная запись, с помощью которой вы входите в систему) будут объединены в эту учетную запись.
 
-![Учетная запись в Центре партнеров](images/migration/existingaccount2.png)
+:::image type="content" source="images/migration/existingaccount2.png" alt-text="Учетная запись в Центре партнеров":::
 
 На этом экране отображаются сведения об имеющейся учетной записи (имени и адресе), уже созданной в Центре партнеров, а также сведения об основном контактном лице.
 
-Выберите **Continue** (Продолжить).
+Щелкните **Продолжить**.
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Что происходит при консолидации учетных записей
 
@@ -76,7 +76,7 @@ ms.locfileid: "83795786"
 
 Сведения основываются на информации в PMC и будут проверены, чтобы убедиться, что компания осуществляет деятельность по закону.
 
-![Просмотр сведений](images/migration/review.png)
+:::image type="content" source="images/migration/review.png" alt-text="Сведения о проверке":::
 
 Если перемещаемая учетная запись находится в той же стране или регионе, что и имеющаяся, можно решить, хотите ли вы использовать этот адрес или добавить другой. Если вы решили использовать другой адрес, этот адрес будет проверен. Если вы хотите использовать один и тот же адрес, будет использоваться имеющийся адрес и основной контакт.
 

@@ -1,23 +1,24 @@
 ---
 title: Использование веб-перехватчиков для получения событий изменения ресурсов
 ms.topic: article
-ms.date: 05/08/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Использование API-интерфейсов веб-перехватчика для выяснения того, когда происходят изменения ресурсов ссылок
+description: Используйте API-интерфейсы веб-перехватчика центра партнеров, чтобы узнать, когда происходят изменения ресурсов ссылок для Dynamics 365 CRM или Salesforce CRM.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: ссылки, API веб-перехватчика, события изменения ресурсов
 ms.localizationpriority: medium
-ms.openlocfilehash: 4eb8d03bb8230117457d2a0e27ef10382248008b
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43874556b5f3fd355f5c315bf06ca7daee0a699e
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452741"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467474"
 ---
-# <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Использование API веб-перехватчика для регистрации событий изменения ресурсов
+# <a name="use-webhook-apis-to-register-for-resource-change-events-for-dynamics-365-crm-and-salesforce-crm"></a>Использование API-интерфейсов веб-перехватчика для регистрации событий изменения ресурсов для Dynamics 365 CRM и Salesforce CRM
 
 ### <a name="appropriate-roles"></a>Соответствующие роли
 
