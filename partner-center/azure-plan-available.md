@@ -9,12 +9,12 @@ ms.author: labrenne
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9241d5083ae2ad35c97efe47dfe764d0b9d5a216
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: dad65d2237a4446bd6a555a600193e7885bc6f5e
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795025"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458340"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Доступные службы Azure в рамках программы поставщиков облачных решений (CSP) Azure
 
@@ -32,7 +32,7 @@ ms.locfileid: "83795025"
 В этой статье указаны службы Azure, которые доступны и недоступны в программе Azure "Поставщик облачных решений" (CSP). Здесь также объясняются моменты, связанные с доступностью службы в таких национальных облаках, как [Microsoft Azure для Германии](https://azure.microsoft.com/overview/clouds/germany/) и [Microsoft Azure для государственных организаций](https://azure.microsoft.com/overview/clouds/government/).
 
 >[!Note]
->[Azure для Китая]( https://www.azure.cn/) не поддерживается в программе Azure CSP.
+> [Azure для Китая](https://www.azure.cn/) не поддерживается в программе Azure CSP.
 
 ## <a name="global-cloud"></a>Глобальное облако
 
