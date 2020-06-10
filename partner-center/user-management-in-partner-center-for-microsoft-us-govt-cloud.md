@@ -1,25 +1,27 @@
 ---
-title: Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud для правительства США | Центр партнеров Microsoft Cloud для правительства США
+title: Управление пользователями и лицензиями
+titleSuffix: Microsoft Cloud for US Government - Partner Center
+description: Узнайте, как и где можно управлять центром партнеров для Microsoft Cloud для партнеров США, клиентов и лицензий, а также для сброса паролей.
 ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте, как и где можно управлять центром партнеров для Microsoft Cloud для партнеров США, клиентов и лицензий, а также для сброса паролей.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 93b8525861069607ca66770b371cd3f9a3e109e7
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: fa8340c2d8a110769b7918e4e3703d131fad8a60
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797592"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603584"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud для правительства США
 
 **Относится к**
 
--  Центр партнеров для Microsoft Cloud for US Government
+- Центр партнеров для Microsoft Cloud for US Government
 
 Управление следующими задачами осуществляется на портале администрирования Microsoft Azure для Microsoft Cloud для государственных организаций США:
 
@@ -45,7 +47,7 @@ ms.locfileid: "82797592"
 
 -  [**Сброс пароля пользователя в Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**См. также**
+**Связанные темы**
 
 -  [**Центр партнеров для Microsoft Cloud for US Government**](partner-center-for-microsoft-us-govt-cloud.md)
 

@@ -1,23 +1,24 @@
 ---
-title: Убедитесь, что вы кредитовать за удержание налога | Центр партнеров
+title: Получить кредит для подоходного налога
 ms.topic: article
-ms.date: 2/16/2020
+ms.date: 06/05/2020
 description: Убедитесь, что учетная запись центра партнеров кредитуется для подоходного налога, создав запрос на подоходный налог в центре партнеров.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 keywords: налог на Подоходное налогообложение, налоговые кредиты, налоговый кредит для Германии, налоговые сертификаты
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d9fbea52fa08117ec712284ecd6436f576a2a06
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e4cb4b1dde35caca153e37de5a07f947f6da158e
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453327"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603853"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Убедитесь, что вы получили кредит на подоходный налог.
+# <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Убедитесь, что вы кредитуетсяе на удержанный налог, если вы оплачиваете местный налоговый орган вместо корпорации Майкрософт.
 
 Область применения:
 

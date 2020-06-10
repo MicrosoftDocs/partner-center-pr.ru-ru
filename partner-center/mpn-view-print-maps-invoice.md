@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, счет, карты, налоговый освобождения, НДС, идентификатор НДС
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6be8b6d5d69ddaa6b5f3d14725691a67d168a80d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 2b022216a30d87205744c44ca340825396fa61bd
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795944"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633814"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Счета и налоги в программе Microsoft Partner Network
 
@@ -62,3 +62,8 @@ ms.locfileid: "83795944"
 
 3.  Введите идентификатор НДС для своей компании, нажмите кнопку **Добавить**, а затем нажмите кнопку **Далее**. 
 
+## <a name="next-steps"></a>Дальнейшие действия
+
+- [Общие сведения о выставлении счетов в Центре партнеров](billing-basics.md)
+
+- [Получить кредит для подоходного налога](withholding-tax-credit-form.md)

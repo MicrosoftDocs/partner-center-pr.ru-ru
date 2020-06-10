@@ -1,5 +1,5 @@
 ---
-title: Обновить членство Microsoft Partner Network
+title: Обновление Microsoft Partner Network членства
 description: Чтобы получить исключительные преимущества, обновите членство в MPN на Action Pack подписки Майкрософт или компетенции Майкрософт.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,14 +9,15 @@ ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
 ms.date: 03/19/2020
-ms.openlocfilehash: f39e92c64841bc541f6f72256aece4f0a1da3e1d
-ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a69a7486ea40f5a52dca8cf0de4109bee3bda5e2
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83369261"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603883"
 ---
-# <a name="upgrade-your-microsoft-partner-network-membership"></a>Обновить членство Microsoft Partner Network
+# <a name="upgrade-your-microsoft-partner-network-membership-and-explore-new-offers-programs-and-resources"></a>Обновление Microsoft Partner Network членства и изучение новых предложений, программ и ресурсов
 
 **Относится к**
 
@@ -69,7 +70,7 @@ ms.locfileid: "83369261"
 
 7. Ваш заказ будет подтвержден. Выберите **Закрыть**.
 
-Ваша подписка Action Pack будет продлеваться автоматически каждый год в этот день. Можно отключить автоматическое продление в любое время в списке приобретенных предложений. Однако вы не сможете включить автоматическое продление подписки, пока не продлите свою подписку еще раз.
+   Ваша подписка Action Pack будет продлеваться автоматически каждый год в этот день. Можно отключить автоматическое продление в любое время в списке приобретенных предложений. Однако вы не сможете включить автоматическое продление подписки, пока не продлите свою подписку еще раз.
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Отключение автоматического продления подписки Action Pack
 

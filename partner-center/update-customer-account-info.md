@@ -1,33 +1,35 @@
 ---
-title: Обновление сведений учетной записи клиента | Центр партнеров
+title: Обновление сведений учетной записи клиента
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: В Центре партнеров можно обновить данные клиента для выставления счетов и другие сведения о компании.
+description: В центре партнеров вы узнаете, как обновить сведения о выставлении счетов клиента или обновить сведения о компании.
 ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c5265fd7b6eb93e897929212b30bb045bae7e462
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f1ad9fbefd5c89568dad02d79dd27ccae2b63472
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797772"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603903"
 ---
-# <a name="update-customer-account-info"></a>Обновление сведений учетной записи клиента
+# <a name="update-customer-account-info-company-details-and-customer-billing-information-in-partner-center"></a>Обновление сведений об учетной записи клиента, сведений об организации и данных о выставлении счетов клиента в центре партнеров
 
 **Относится к**
 
--  Центр партнеров
--  Центр партнеров для Microsoft Cloud for US Government
+- Центр партнеров
+- Центр партнеров для Microsoft Cloud for US Government
 
+В Центре партнеров можно обновить данные клиента для выставления счетов и другие сведения о компании. Вы также можете [предоставить или удалить разрешение для клиента на покупку своих продуктов или услуг](give-customers-permission.md).
 
-В Центре партнеров можно обновить данные клиента для выставления счетов и другие сведения о компании. Вы также можете [предоставить или удалить разрешение для клиента на покупку своих продуктов или услуг] [дать-Customers-permission.md].
+## <a name="update-customer-details"></a>Обновление сведений о клиенте
 
-**Обновление сведений о клиенте**
+1. В меню **Центр партнеров** выберите **Customers (клиенты**). Затем выберите клиента из списка.
 
-1.  В меню **Центр партнеров** выберите **Customers (клиенты**). Затем выберите клиента в списке.
-2.  В меню клиента выберите **Учетная запись**, а затем **Обновить**.
-3.  После внесения изменений нажмите кнопку **Отправить**.
+2. В меню клиента выберите **Учетная запись**, а затем **Обновить**.
+
+3. После внесения изменений нажмите кнопку **Отправить**.

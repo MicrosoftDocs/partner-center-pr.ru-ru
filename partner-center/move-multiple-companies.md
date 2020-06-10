@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, миграция, переход в Центр партнеров
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a4a664c957d7a6d6d1621b64ba18f3545ef72bb
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: d021946fa09a046cdff10bcf1ca8dc25558063c8
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453191"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603783"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Перемещение нескольких компаний в центр партнеров из центра участия в партнерских организациях (PMC)
 
@@ -75,6 +75,7 @@ ms.locfileid: "84453191"
 Проверьте сведения о компании и при необходимости измените их.  Эти сведения будут использоваться для переноса вашей учетной записи в Центр партнеров, поэтому убедитесь, что сведения верны.
 
 Сведения основываются на информации в PMC и будут проверены, чтобы убедиться, что компания осуществляет деятельность по закону.
+
 
 :::image type="content" source="images/migration/review.png" alt-text="Сведения о проверке":::
 

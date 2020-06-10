@@ -1,7 +1,7 @@
 ---
 title: Приобретение Microsoft Azure резервирования для клиентов
 ms.topic: article
-ms.date: 05/06/2020
+ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Узнайте, как купить или приобрести резервирование Azure от имени клиентов в центре партнеров.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: azure, резервирования, управление, выставление счетов, приобретение
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 5664770e1e0f87f2a1a86fd1127bbb54a8a253fb
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 63fe8bc008b9c1515a3850e60c32ba2d3133ff5c
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908305"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603723"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Приобретение Microsoft Azure резервирований от имени клиентов в центре партнеров
 
@@ -33,9 +33,9 @@ ms.locfileid: "82908305"
 - Агент по продажам
 - Администратор управления пользователями
 
-## <a name="before-you-begin"></a>Перед началом
+## <a name="before-you-begin"></a>Подготовка к работе
 
-Прежде чем приобретать резервирование Azure от имени ваших клиентов, ознакомьтесь с важными сведениями ниже. (Вы хотите, чтобы клиенты могли покупать собственные резервирования Azure из предыдущей подписки Azure, которую вы приобрели для них? Ознакомьтесь с разрешениями [предоставьте клиентам разрешение на приобретение собственных резервирований Azure] [Дайте-клиентам разрешение. md # Дайте-клиентам — разрешение на покупку — свои собственные-Azure-резервирования].)
+Прежде чем приобретать резервирование Azure от имени ваших клиентов, ознакомьтесь с важными сведениями ниже. (Вы хотите, чтобы клиенты могли покупать собственные резервирования Azure из предыдущей подписки Azure, которую вы приобрели для них? См. раздел [предоставление клиентам разрешения на приобретение собственных резервирований Azure](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations).)
 
 - Если и когда клиент подписывает новое соглашение клиента Майкрософт (см. статью [подтверждение принятия клиентом соглашения Майкрософт](confirm-customer-agreement.md)), необходимо приобрести резервирование Azure в плане Azure. Дополнительные сведения см. в статье [Покупка плана Azure](purchase-azure-plan.md).
 
