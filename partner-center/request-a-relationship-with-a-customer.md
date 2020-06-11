@@ -9,12 +9,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fe0d4053fba0c9c9a6ef0b593cc5906b57f2359f
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 44f959f2bc0fff5c354dd7f6bf55e1afccf2398e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467374"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679411"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Как запросить связь через торгового посредника у клиента в центре партнеров
 
@@ -26,11 +26,12 @@ ms.locfileid: "84467374"
 
 Если вы хотите установить связь между торговыми посредниками с клиентом и управлять только подготовкой подписок Azure, нет необходимости получать разрешения администратора.
 
-Обратите внимание, что параметр не запрашивать разрешения недоступен для партнеров, работающих в Microsoft Cloud для государственных организаций США или Microsoft Cloud Германии. Дополнительные сведения см. в разделе [Клиенты делегируют привилегии администратора партнерам](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).
+>[!NOTE] 
+>Параметр "не запрашивать разрешения" недоступен для партнеров, работающих в Microsoft Cloud для государственных организаций США или Microsoft Cloud Германии. Дополнительные сведения см. в разделе [Клиенты делегируют привилегии администратора партнерам](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Приглашение клиента для установления отношений торгового посредника с вами
 
-Обратите внимание, что вы можете запросить связь через торгового посредника с клиентом в вашей стране или в том же регионе.
+Вы можете запросить связь через торгового посредника с клиентом в вашей стране или в том же регионе.
 
 1. Выберите **Клиенты** в меню **Центра партнеров**, а затем выберите **Запросить установление отношений, в которых вы выполняете роль торгового посредника**.
 

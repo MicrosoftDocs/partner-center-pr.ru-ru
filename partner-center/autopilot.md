@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Автопилот, Windows автопилот, Microsoft для автопилота, развертывание без вмешательства пользователя, OOBE, экраны входа, готовые
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 1ce0852543c70555bdbbbffd8727876bda8aedef
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: a3067b674b7784df34fba3de9cfaa5b44349b8c4
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908386"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679191"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Использование профилей Windows "Автопилот" на новых устройствах для настройки готового интерфейса клиента
 
@@ -175,7 +175,8 @@ CSV-файл должен выглядеть примерно так:
 
 > **{serialNumber},,, корпорация Майкрософт, портативный компьютер**
 
-Обратите внимание, что "имя производителя" и "модель устройства" учитывают регистр.
+>[!NOTE]
+> Для "имени производителя" и "модель устройства" учитывается регистр.
 
 Если вы не узнаете, какое значение следует указать для имени производителя и модели устройства, можно запустить его на устройстве, чтобы собрать правильные значения:
 

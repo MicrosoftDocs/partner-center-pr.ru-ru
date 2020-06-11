@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e8a8558bad11f641737507f4d76405e9825df516
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 7e2a1d17a7520cca1a6e1da540cc58d2d365d8cb
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795875"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679311"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Установить и ознакомиться с приложением "Аналитика Центра партнеров для Microsoft Power BI"
 
@@ -32,17 +32,19 @@ ms.locfileid: "83795875"
 ## <a name="before-you-begin"></a>Подготовка к работе
 
 Выберите приложение, которое наиболее релевантно для вашего бизнеса, в следующем списке доступных Power BI приложений:
-- [Прямой партнер](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
+- [Прямой поставщик](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
-- [Косвенный партнер](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
+- [Косвенный поставщик](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
 
-- [Непрямой Торговый посредник](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
+- [Непрямой Торговый посредник](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
 
 Перед установкой предварительной версии приложения "Аналитика Центра партнеров" убедитесь, что соблюдены следующие требования.
 
 - Выберите нужное приложение Power BI для вашего бизнеса.
 
-- У вас есть активная подписка на Microsoft Power BI Professional или Microsoft Power BI Premium.
+- У вас есть лицензия Power BI Pro.
+
+- У вас есть разрешения на установку шаблонов приложений в клиенте.
 
 - Вы можете войти в Power BI.
 
@@ -50,20 +52,34 @@ ms.locfileid: "83795875"
 
 ## <a name="to-install-the-app"></a>Установка приложения
 
-1. Начните [процесс установки](https://app.powerbi.com/getdata/services/partneranalytics?cpcode=PartnerCenterAnalytics&getDataForceConnect=true&alwaysPromptForContentProviderCreds=true).
+1. Щелкните исходную ссылку приложения (прямой поставщик, косвенный поставщик или непрямой торговый посредника) в приведенном выше разделе.
 
-2. В разделе **Уже есть учетная запись?** выберите **Вход**. 
+2. Щелкните **получить сейчас**. 
 
-3. На следующей странице введите имя пользователя и пароль Power BI, а затем выберите **Вход**. 
+3. Примите условия принятия условий, нажав кнопку **"продолжить"**.
 
-4. На всплывающем окне **Подключение к аналитике центра партнеров** убедитесь, что для **метода проверки подлинности** задано значение **oAuth2** , или выберите **oAuth2** из списка, если это не так. 
+4. В разделе Уже есть учетная запись? выберите **Вход**.
+
+5. На следующей странице введите имя пользователя и пароль Power BI, а затем выберите Вход.
+
+6. Установите рабочую область, предоставив workspacename.
+
+7. Вы можете найти приложения шаблонов, установленные в разделе "приложения".
+
+8. Щелкните приложения и выберите установленные приложения.
+
+9. Откроется экран Начало работы с новым приложением.
+
+10. Чтобы подключиться к данным, нажмите кнопку **подключить**.
+
+11. На всплывающем окне **Подключение к аналитике центра партнеров** убедитесь, что для **метода проверки подлинности** задано значение **oAuth2** , или выберите **oAuth2** из списка, если это не так. 
 
 > [!NOTE]  
 >  Для отображение окна может потребоваться несколько минут.
 
-5. На странице **соединителя аналитики центра партнеров** выполните вход с помощью глобального администратора, агента администратора или учетных данных администратора выставления счетов для клиента Azure AD Организации, а затем выберите **Вход**.
+12. На странице **соединителя аналитики центра партнеров** выполните вход с помощью глобального администратора, агента администратора или учетных данных администратора выставления счетов для клиента Azure AD Организации, а затем выберите **Вход**.
  
-6. Когда появится запрос доступа, нажмите кнопку **Принять**. 
+13. Когда появится запрос доступа, нажмите кнопку **Принять**. 
 
 После подключения служба аналитики Центра партнеров к Power BI начнется загрузка данных. Это может занять до 10 минут в зависимости от объема данных. 
 
