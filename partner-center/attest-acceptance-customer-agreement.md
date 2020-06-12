@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Клиент, клиенты, согласие, MCA, соглашение об использовании Microsoft Cloud, Клиентское соглашение Майкрософт, шаблоны клиентских соглашений, утверждение принятия
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb18d5f095e633fcbfeb3dc9f3d962664066765f
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 37e24d602bc61391642814d78a22c7d7cb4ba5b0
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908404"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452721"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Подтверждение принятия Клиентского соглашения Майкрософт от имени клиента
 
@@ -46,7 +46,7 @@ ms.locfileid: "82908404"
 
 **Как это исправить** Необходимо утвердить принятие условий от имени клиента.
 
-![клиент](images/mca/accept-scenario-1.png)
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Клиент":::
 
 **Сценарий 2** Существующий клиент приобрел что-либо из следующего: предложения, программное обеспечение и подписки на программное обеспечение, зарезервированные экземпляры, план Azure. Теперь клиент пытается осуществить новую покупку через нового партнера.
 
@@ -54,4 +54,4 @@ ms.locfileid: "82908404"
 
 **Как это исправить** Необходимо утвердить принятие условий от имени клиента.  
 
-![клиент](images/mca/accept-scenario-2.png)
+:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="Клиент":::

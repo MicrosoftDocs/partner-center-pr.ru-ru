@@ -1,7 +1,7 @@
 ---
 title: Предложения для партнеров в рамках программы CSP
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о постоянно расширяющемся каталоге облачных служб и предложений Майкрософт, которые партнеры могут продавать клиентам.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Поставщик облачных решений, программа поставщиков облачных решений, CSP, добавить продукт, продажа клиентам, предложения для партнеров, предложения CSP, облачные службы, Azure, Office 365, Dynamics, партнер CSP, продажи в рамках CSP, Azure RI, Azure Reserved Virtual Machine Instances, резервирования Azure, веб-службы, программное обеспечение по подписке, AHUB, SQL Server в Azure, Windows Server в Azure, подписки клиентов
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c9ec7908c66fd4c31f9606e639958fba37761d7
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 73313831bd1536e7f102520b1fd0df4606aa56dc
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362332"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467244"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Обзор предложений для партнеров в рамках программы "Поставщик облачных решений"
 
@@ -106,6 +106,10 @@ ms.locfileid: "83362332"
 7. На странице **Предварительный просмотр заказов** проверьте или измените продукты и их количество, а затем выберите **Купить**, чтобы оплатить заказ.
 
 8. На следующей странице отображаются сведения о заказе, в том числе номер заказа. Выберите **Готово**, чтобы перейти к странице **Журнал заказов**.
+
+## <a name="rules-for-special-segments"></a>Правила для специальных сегментов
+
+Некоторые предложения на основе лицензий можно приобрести только при определенных условиях. Предложения для специальных сегментов включают предложения для образовательных учреждений, некоммерческой деятельности и облака сообщества для государственных организаций (GCC). Сведения об этих условиях можно найти в разделе [Правила покупки для специальных сегментов](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
