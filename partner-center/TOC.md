@@ -60,6 +60,7 @@
 ## [Структура учетной записи в Центре партнеров](account-structure.md)
 ## [Проверка вашего владения доменом](become-global-admin.md)
 ## [Проверка данных учетной записи](verification-responses.md)
+## [Объединение учетной записи партнера с другой учетной записью партнера](merge-accounts.md)
 ## [Обновление профиля партнера](update-your-partner-profile.md)
 ## [Расположения](manage-locations.md)
 ## [Регистрация в качестве поставщика панелей управления](enroll-as-cpv.md)
@@ -81,7 +82,8 @@
 ## [Настройка каталога](customize-the-catalog.md)
 
 # [Развитие вашего бизнеса](grow-your-business.md)
-## [Рефералы](referrals.md)
+## [Обзор авторов](referrals.md)
+### [Реагирование на рекомендации](responding-to-referrals.md)
 ### [Управление бизнес-профилем](create-a-marketing-profile.md)
 ### [Управление потенциальными клиентами](manage-leads.md)
 ### [Управление возможностями совместной продажи](manage-co-sell-opportunities.md)
@@ -175,6 +177,7 @@
 ### [Перенос подписок Office 365 корпоративный E4 в новые версии Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [Перенос Плана 1 для Skype для бизнеса Online в новые версии Office 365](skype-retiring.md)
 ### [Перенос подписок Azure](switch-azure-subscriptions-to-a-different-partner.md)
+### [Перенос подписок Kaizala Pro в Microsoft 365](migrate-kaizala-pro-partner.md)
 
 # Данные и аналитика в Центре партнеров
 ## [Получение и анализ бизнес-данных](data-analysis-lp.md)
