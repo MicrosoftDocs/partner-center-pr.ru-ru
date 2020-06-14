@@ -11,12 +11,12 @@ Keywords: Шифрование, интеллектуальный анализ д
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f3c6400c8670117be37413239f2a85b943dd3ff1
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: bcaf6675fdf77dbe46e2a76e4abdd0e6c41a3da3
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452551"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749108"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Уведомление центра партнеров для действия интеллектуального анализа данных криптовалюты
 
@@ -75,4 +75,4 @@ ms.locfileid: "84452551"
 
 7. Введите ваши контактные данные.
 
-8. Нажмите кнопку **Отправить**.
+8. Нажмите кнопку **Submit** (Отправить).

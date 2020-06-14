@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: выставление счетов, однократная, повторяющаяся, покупка, оплата, независимый поставщик
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb7ac791eba22a42c2137c0759794f58f6a743f6
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: c2c833d132b56969f1c8b06bc01fd50d28110819
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328325"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749147"
 ---
 # <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>Выставление счетов за одноразовый период и выбор повторяющихся расходов в центре партнеров
 

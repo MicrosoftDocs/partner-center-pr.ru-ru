@@ -1,23 +1,23 @@
 ---
 title: Получите дополнительные специализации
 ms.topic: article
-ms.date: 05/22/2020
+ms.date: 06/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Дополнительные специализации поукрепите свой бизнес-профиль в каталоге партнеров. Узнайте, как получить дополнительные специализации на основе компетенций Gold.
+description: Укрепите свой бизнес-профиль в каталоге партнеров. Узнайте, как получить дополнительные специализации, а также компетенции Gold-серебро.
 author: LauraBrenner
 ms.author: labrenne
-keywords: компетенции, Gold Membership, MPN, карты, знание, Microsoft Partner Network, членство в сети, Дополнительные специализации
+keywords: компетенции, членство уровня silver, членство уровня gold, mpn, MAPS, навыки, Microsoft Partner Network, членство в сети, дополнительные специализации
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1dbff3f7f802a0f89f6cdfd78da2abf719523a9
-ms.sourcegitcommit: 97f1ff7386562cbb945bdfbcf15c85bc8303cac2
+ms.openlocfilehash: f62a1795a9ad3fd07de43bcf5cfa8703133e0fe9
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "83825630"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749161"
 ---
-# <a name="how-advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>Как сложные специализации помогают вашему бизнес-профилю выделять клиентов
+# <a name="advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>Дополнительные специализации помогают вашему бизнес-профилю выделять клиентов
 
 Выйдите за пределы компетенции Gold с расширенной специализацией. С помощью расширенных специализаций можно продемонстрировать проверенный и проверенный опыт в продукте, области решения или службе. Клиенты могут видеть компетенцию Gold и расширенную специализацию в вашем бизнес-профиле в каталоге партнера. Чтобы получить тег расширенной специализации, ваш бизнес должен соответствовать набору опубликованных критериев и проверяться корпорацией Майкрософт. [Подробнее.](https://partner.microsoft.com/membership/advanced-specialization)
 
@@ -41,3 +41,6 @@ ms.locfileid: "83825630"
 
 - **Модернизации веб-приложений в Microsoft Azure** Вы гарантируете успешное завершение работы клиентов при разработке приложений и знакомство с системами управления содержимым. Он обладает навыками миграции и развертывания рабочих нагрузок производственных веб-приложений, применения методик DevOps и управления службами приложений в Microsoft Azure.
 
+ ## <a name="next-steps"></a>Дальнейшие действия
+
+ Сведения о [требованиях к компетенции Майкрософт для Gold и серебристого членства](learn-about-competencies.md)

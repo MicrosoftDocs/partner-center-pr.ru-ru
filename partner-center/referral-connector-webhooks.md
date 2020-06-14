@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: ссылки, API веб-перехватчика, события изменения ресурсов
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43874556b5f3fd355f5c315bf06ca7daee0a699e
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 89628fd6ccab6a943d8bd816afa7b5d3b0f241f7
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467474"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749177"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events-for-dynamics-365-crm-and-salesforce-crm"></a>Использование API-интерфейсов веб-перехватчика для регистрации событий изменения ресурсов для Dynamics 365 CRM и Salesforce CRM
 
@@ -120,7 +120,7 @@ ms.locfileid: "84467474"
 
 После установки, настройки и настройки решения Power автоматизиру вы можете проверить синхронизацию ссылок совместной продажи между Dynamics 365 или Salesforce и центром партнеров.
 
-### <a name="pre-requisites"></a>Предварительные требования
+### <a name="pre-requisites"></a>Предварительные условия
 
 Чтобы синхронизировать ссылки в центре партнеров и Dynamics 365 CRM или в центре партнеров и Salesforce CRM, в решении Power автоматизируется четкое разграничения полей ссылок, относящихся к корпорации Майкрософт. Это дает группам продавцов возможность выбирать, какие ссылки должны предоставляться корпорации Майкрософт для совместной продажи.
 
