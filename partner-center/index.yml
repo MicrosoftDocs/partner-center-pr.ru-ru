@@ -12,39 +12,39 @@ metadata:
   ms.author: labrenne
   manager: evansma
   ms.date: 05/29/2020
-  ms.openlocfilehash: 5c9bf672eb5647542749c49e74cc39e2ab07c2b5
-  ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+  ms.openlocfilehash: 75176cda1bceb0d90253a97b621c9ff5c5b8cef0
+  ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 06/01/2020
-  ms.locfileid: "84253951"
+  ms.lasthandoff: 06/12/2020
+  ms.locfileid: "84749186"
 highlightedContent:
   items:
   - title: Сведения о важных обновлениях Центра партнеров
     itemType: whats-new
     url: announcements/index.md
-  - title: Еще не являетесь партнером? Присоединитесь к Microsoft Partner Network сегодня.
+  - title: Управление преимуществами и предложениями, связанными с членством в Microsoft Partner Network
     itemType: get-started
-    url: https://partner.microsoft.com/membership
+    url: manage-your-partner-network-benefits.md
   - title: Присоединитесь к программе ранних последователей API и SDK
     itemType: deploy
     url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
-  - title: Продажа предложений независимых поставщиков программного обеспечения
+  - title: Получение дополнительных специализаций
     itemType: whats-new
-    url: csp-commercial-marketplace-overview.md
+    url: advanced-specializations.md
   - title: Партнеры независимых поставщиков программного обеспечения. Создание и публикация предложений в Marketplace, AppSource и канале торгового посредника CSP
     itemType: whats-new
     url: https://docs.microsoft.com/azure/marketplace/
-  - title: Партнерство с Майкрософт
+  - title: Вопросы и ответы о требованиях к безопасности для партнеров
     itemType: overview
-    url: mpn-overview.md
+    url: partner-security-requirements-faq.md
   - title: 'Новая коммерческая модель в Центре партнеров: план Azure'
     itemType: whats-new
     url: azure-plan-lp.md
 conceptualContent:
   title: Работа в Центре партнеров
   items:
-  - title: Регистрация и управление учетной записью
+  - title: Вход в учетную запись и управление ею
     links:
     - url: mpn-create-a-partner-center-account.md
       itemType: how-to-guide
@@ -52,9 +52,9 @@ conceptualContent:
     - url: manage-locations.md
       itemType: how-to-guide
       text: Управление расположениями компании
-    - url: marketplace-rewards.md
+    - url: azure-plan-get-started.md
       itemType: how-to-guide
-      text: Управление вознаграждениями Marketplace
+      text: Начало перехода на тарифы с оплатой по мере использования для плана Azure
     footerLink:
       url: partner-center-account-setup.md
       text: Дополнительные сведения
@@ -77,12 +77,12 @@ conceptualContent:
     - url: referrals.md
       itemType: how-to-guide
       text: Авторы и бизнес-профили
-    - url: promotions.md
+    - url: manage-leads.md
       itemType: how-to-guide
-      text: Использование преимуществ рекламных акций
-    - url: get-special-pricing-for-offers.md
+      text: Управляйте перспективными клиентами, в том числе запросами клиентов, а также клиентами с потенциальной и подтвержденной потребностью в продукте или услуге компании.
+    - url: manage-co-sell-opportunities.md
       itemType: how-to-guide
-      text: Продажи представителям определенных отраслей
+      text: Управление возможностями совместной продажи
     footerLink:
       url: grow-your-business.md
       text: Дополнительные сведения
@@ -130,6 +130,17 @@ conceptualContent:
       text: Дополнительные сведения
 additionalContent:
   sections:
+  - title: Ключевые задачи и инструменты
+    items:
+    - title: Еще не являетесь партнером? Присоединитесь к Microsoft Partner Network сегодня.
+      summary: Подключитесь к экосистеме Майкрософт.
+      url: https://partner.microsoft.com/membership
+    - title: Справочные материалы по API и пакетам SDK Центра партнеров
+      summary: Используйте пакет SDK Центра партнеров, чтобы управлять данными клиентов, подписок и заказов.
+      url: https://docs.microsoft.com/partner-center/develop/
+    - title: Управление Marketplace Rewards
+      summary: В программе Marketplace Rewards предоставляется специализированная поддержка всех ваших предложений с предоставлением маркетинговых, коммерческих и технических преимуществ.
+      url: marketplace-rewards.md
   - title: Работа на портале Azure
     items:
     - title: Управление выставлением счетов и затратами
@@ -156,14 +167,3 @@ additionalContent:
         url: https://docs.microsoft.com/azure/lighthouse/how-to/publish-managed-services-offers
       - text: Подробнее >
         url: https://docs.microsoft.com/azure/lighthouse/
-  - title: Ключевые задачи и инструменты
-    items:
-    - title: Получение Microsoft Action Pack (MAPS)
-      summary: Купите или продлите предложения преимуществ, включая подписку Microsoft Action Pack.
-      url: mpn-get-action-pack.md
-    - title: Справочные материалы по API и пакетам SDK Центра партнеров
-      summary: Используйте пакет SDK Центра партнеров, чтобы управлять данными клиентов, подписок и заказов.
-      url: https://docs.microsoft.com/partner-center/develop/
-    - title: Будьте в курсе
-      summary: Присоединитесь к нашему сообществу CSP в Yammer.
-      url: https://go.microsoft.com/fwlink/p/?linkid=851605
