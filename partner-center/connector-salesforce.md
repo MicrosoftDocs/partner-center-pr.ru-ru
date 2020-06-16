@@ -9,12 +9,12 @@ ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e2cbe4b6f5418cea4d992b9e68daa7e0ed3ec09
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: ab70766e0bc20b170a1fb9c12a9bea0e6268b06d
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453261"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788778"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Соединитель для совместных продаж для Salesforce CRM — обзор
 
@@ -227,18 +227,18 @@ ms.locfileid: "84453261"
 
 3. Выбор **полей & связей** в левой области навигации
 
-   :::image type="content" source="images/salesforce/fields1.png" alt-text="Поля":::
+   :::image type="content" source="images/salesforce/fields1.png" alt-text="Fields":::
 
 4. Добавьте в **поля & таблицу связей** следующие поля:
 
    |**Метка поля**   |**Имя поля**|**Data type**|**Индексированного**|
    |---------------------|:-------------------|:--------------|:----------------|
-   |Аудит|  Audit__c|Длинная текстовая область (100000) (видимая строка 4)||
-   |Как можно получить справку Майкрософт?|H ow_can_Microsoft_help__c|Поля выбора|
-   |Продукты|Продукты-c|текст (255)||
-   |Referral |  Referral_Identi fier__c|Текст (100) (внешний идентификатор)|да|
-   |Ссылка на ссылку|   Referral_Link__c_|URL-АДРЕС (255)||
-   |Синхронизация с партнером Partner Gothic заве|Синхронизация с-Partner-Center-c|Флажок (значение по умолчанию снято)||
+   |Аудит| Audit__c|Длинная текстовая область (100000) (видимая строка 4)||
+   |Как можно получить справку Майкрософт?|How_can_Microsoft_help_c|Поля выбора|
+   |Продукты|Products_c|текст (255)||
+   |Referral | Referral_Identfier_c|Текст (100) (внешний идентификатор)|да|
+   |Ссылка на ссылку| Referral_Link_c_|URL-АДРЕС (255)||
+   |Синхронизация с центром партнеров|sync_with_partner_center_c|Флажок (значение по умолчанию снято)||
 
    * Значения поля выбора:
 
@@ -263,7 +263,7 @@ ms.locfileid: "84453261"
 
 После установки, настройки и настройки решения Power автоматизиру вы можете протестировать синхронизацию ссылок для совместной продажи между Salesforce CRM и центром партнеров.
 
-### <a name="pre-requisites"></a>Предварительные требования
+### <a name="pre-requisites"></a>Предварительные условия
 
 Чтобы синхронизировать ссылки в центре партнеров и Salesforce CRM, решение Power автоматизирует необходимость четко разграничения ссылочные поля Майкрософт. Эта идентификация предоставляет группам продавцов возможность решать, какие ссылки должны предоставляться корпорации Майкрософт для совместной продажи.
 

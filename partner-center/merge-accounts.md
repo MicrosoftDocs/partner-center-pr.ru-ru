@@ -1,21 +1,21 @@
 ---
-title: Объединение учетной записи партнера с другой учетной записью партнера | Центр партнеров
+title: Объединение учетной записи партнера с другой учетной записью партнера
 ms.topic: article
-ms.date: 06/09/2020
+ms.date: 06/12/2020
 description: Компании, которые являются активными партнерами Майкрософт в центре партнеров, могут объединять свои учетные записи.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 4703e4e570d4b22efe8059366abbb76ad486810d
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 03689f250f86a2abdedbcd062766020b15520108
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84611260"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788693"
 ---
-# <a name="merge-your-partner-account-with-another-partner-account"></a>Слияние учетной записи партнера с другой учетной записью партнера
+# <a name="merge-your-partner-account-with-another-partner-account"></a>Объединение учетной записи партнера с другой учетной записью партнера
 
 **Подходящие роли**
 

@@ -1,7 +1,7 @@
 ---
-title: Назначение и отзыв лицензий для нескольких пользователей | Центр партнеров
+title: Назначение и отзыв лицензий для нескольких пользователей
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как использовать учетную запись клиента для назначения или отзыва лицензий и служб одному пользователю или нескольким пользователям одновременно.
@@ -10,14 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: Назначение лицензии, отзыв лицензии, назначение нескольким пользователям,
 ms.localizationpriority: medium
-ms.openlocfilehash: 795c23deeaaa119c4a248a1ae1835ae4396eb62a
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 6d3baeed12d26f273848fb144651475d304f8d36
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679101"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788698"
 ---
-# <a name="assign-or-revoke-licenses-to-multiple-users"></a>Назначение и отзыв лицензий для нескольких пользователей
+# <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Назначение или Отмена лицензий одновременно нескольким пользователям в учетной записи клиента
 
 **Относится к**
 

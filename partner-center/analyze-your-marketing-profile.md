@@ -1,21 +1,22 @@
 ---
-title: Анализ бизнес-профиля | Центр партнеров
+title: Анализ бизнес-профиля
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как с помощью страницы «бизнес-профиль» узнать, насколько хорошо вы захватываете внимание целевых клиентов и создаете ссылки.
-author: JnHs
-ms.author: jenhayes
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 5f5be1a1d447adc344c7564bf1f13e015895de94
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 974258f5cfbb0a017d75c8f30a855cb4a23ce39a
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722360"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788757"
 ---
-# <a name="analyze-your-business-profile"></a>Анализ бизнес-профиля
+# <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Анализ бизнес-профиля — Узнайте, насколько хорошо вы Привлекайте целевые клиенты и потенциальные ссылки.
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -32,7 +33,7 @@ https://go.microsoft.com/fwlink/?linkid=849120
 - Администратор партнера MPN
 - администратор рекомендаций;
 - Администратор бизнес-профиля
-- Агент администрирования
+- Агент по администрированию
 - Агент по продажам
 
 Страница « **Бизнес-профиль** » в центре партнеров позволяет увидеть, насколько хорошо вы захватываете внимание целевых клиентов и создаете ссылки.
