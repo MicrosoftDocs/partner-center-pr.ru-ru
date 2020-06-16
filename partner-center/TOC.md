@@ -201,6 +201,7 @@
 ### [Аналитика — отчет о компетенциях](pci-competencies-report.md)
 ### [Аналитика — отчет о преимуществах](pci-benefits-report.md)
 ### [Аналитика — известные проблемы](pci-known-issues.md)
+### [Аналитика — скачивание отчетов](pci-download-reports.md)
 ## [Показатели вклада партнера](partner-contribution-indicators.md)
 ## [Получение данных об использовании подписок Azure клиентов](analyze-azure-usage.md)
 ## [Анализ эффективности косвенных торговых посредников](analyze-indirect-resellers.md)
