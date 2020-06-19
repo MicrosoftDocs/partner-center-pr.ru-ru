@@ -3,17 +3,16 @@ title: Типы оплаты за файл сверки
 ms.topic: article
 ms.date: 06/05/2020
 description: Узнайте о типах начислений (например, на основе лицензий, на основе использования и одноразовых), кредиты и скидках в файлах сверки центра партнеров.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a5c227748ba24001288ecbec0a5487d38033897
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 1ec4f4a483ecfd106f7ec41b85372e136524a046
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467514"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909112"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Изучите различные типы оплаты в файлах сверки центра партнеров
 
@@ -65,7 +64,7 @@ ms.locfileid: "84467514"
 
 | Описание платы (столбец Чаржетипе в файле сверки) | Объяснение затрат |
 | ------------------------------------------------------------- | ------------------ |
-| Создать | Используется при создании новой покупки. |
+| Оператор new | Используется при создании новой покупки. |
 | addQuantity | Используется как для возврата первоначальной покупки, так и для нового количества после увеличения. |
 | removeQuantity | Используется как для возврата первоначальной покупки, так и для нового количества после уменьшения. |
 | Отменить | Используется при отмене подписки. |

@@ -24,6 +24,7 @@
 ## Преимущества
 ### [Обзор преимуществ](manage-your-partner-network-benefits.md)
 ### [Преимущества для выхода на рынок](mpn-learn-about-go-to-market-benefits.md)
+### [Часто задаваемые вопросы о преимуществах](benefits-faq.md)
 ## [Rewards в Marketplace](marketplace-rewards.md)
 ## [Программы Software Assurance](software-assurance-lp.md)
 ### [Ваучерная программа обучения Software Assurance (SATV) в Центре партнеров](software-assurance-satv.md)
@@ -198,6 +199,7 @@
 ### [Аналитика — панель мониторинга для подписок на продукты](pci-product-subscriptions-report.md)
 ### [Аналитика — панель мониторинга для лицензий на продукты](pci-product-licenses-report.md)
 ### [Аналитика — панель мониторинга для данных об использовании Azure](pci-azure-usage-report.md)
+### [Аналитика — панель мониторинга для обучения](pci-training-dashboard.md)
 ### [Аналитика — отчет о компетенциях](pci-competencies-report.md)
 ### [Аналитика — отчет о преимуществах](pci-benefits-report.md)
 ### [Аналитика — известные проблемы](pci-known-issues.md)

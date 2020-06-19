@@ -3,17 +3,16 @@ title: Разница между выставлением счетов за ме
 ms.topic: article
 ms.date: 05/06/2020
 Description: Узнайте, как ежемесячные и ежегодные счета отличаются в центре партнеров. Также Узнайте, как переключаться между различными типами выставления счетов и последствиями переключения.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 841e7026651484b4b3c52ecc1e3c297af01f9f16
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96ff9feded392219ceddd3f800bd3d12e6440a60
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908247"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908972"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Сведения о разнице между ежемесячной и годовой оплатой в центре партнеров
 
@@ -159,7 +158,7 @@ ms.locfileid: "82908247"
 
 Кредит для отмененной лицензии или подписки рассчитывается следующим образом:
 
-**Отмена кредита** = ((* * месячная цена за месяц * * * 12) \* /365) **дней, оставшихся в течение 12-месячного критерия** \* количества лицензий, отмененных.
+**Отмена кредита** = ((* * месячная цена за месяц * * * 12)/365) \* **дней, оставшихся в течение 12-месячного критерия** \* количества лицензий, отмененных.
 
 ## <a name="reconciliation-file"></a>Файл сверки
 

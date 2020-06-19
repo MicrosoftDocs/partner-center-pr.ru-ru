@@ -5,17 +5,16 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о ролях и разрешениях для партнеров, которые смогут получить полученные кредиты (PEC). Они отличаются от ролей до работы в центре партнеров.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: af21fe17afdab07ef259634d9df18d65ae072d5d
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 9f84f1998258b0187537bac61edba9c6465aeb8e
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908267"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908982"
 ---
 # <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>Роли и разрешения, доступные для получения кредита на получение партнеров
 
@@ -24,12 +23,12 @@ ms.locfileid: "82908267"
 >[!Important]
 >Эти роли и разрешения не совпадают с ролями и разрешениями, которые пользователь должен работать в центре партнеров.
 
-|**Роль**   |**Описание**   |**Подходящие PEC**   |
+|**Role**   |**Описание**   |**Подходящие PEC**   |
 |-----------------|:------------------|:--------------|
 |Владелец  |Вы управляете всеми ресурсами, включая доступ к ресурсам.|Да|
 |Участник |Вы управляете всеми ресурсами, кроме предоставления доступа к ресурсам.|Да|
 |Читатель|Вы можете просматривать все, но не вносить изменения.|нет|
-|акрделете|Удаление записи контроля доступа|Да|
+|акрделете|Удаление ACR|Да|
 |акримажесигнер|Средство подписывания образов ACR.|Да|
 |акрпулл|Извлечение ACR.|Да|
 |AcrPush|Отправка ACR.|Да|

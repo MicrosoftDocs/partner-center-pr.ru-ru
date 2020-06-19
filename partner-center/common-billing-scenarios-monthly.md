@@ -3,18 +3,17 @@ title: Распространенные ежемесячные сценарии 
 ms.topic: article
 ms.date: 05/13/2020
 description: Распространенные сценарии в центре партнеров при ежемесячном выставлении счетов — включает добавление новых подписок, изменение количества лицензий и приостановку подписок.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: выставление счетов, оплата, заказы, использование, ежемесячный счет, подписки, файл сверки
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c51e6dfa2471570f30b1b957317bff1e6081bb79
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 9da060e1c8b0a9d2f0a5de0987ccb4ea1e167b7c
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795625"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908882"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Пример ежемесячных сценариев выставления счетов для новых подписок, изменения сумм лицензий или приостановка
 
