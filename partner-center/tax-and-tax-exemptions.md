@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 description: Для партнеров по программе CSP Узнайте о налоговых обязанностях на регион, о том, как отправлять налоговые исключения для продаж CSP и как получить поддержку по налоговым вопросам.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: LauraBrenner
 keywords: налог, налог на налоги, НДС, Торговый посредник, выставление счетов
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a25ddebe1417377005a97534ac2f1b6556e68cd6
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 1236facdfdb1f73f940c36c4a748cc9a1694e72c
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458300"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991788"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Узнайте о налогах и сведениях об исключении налогов по регионам или странам для партнеров в программе CSP.
 
@@ -37,7 +36,7 @@ ms.locfileid: "84458300"
 
 Для получения дополнительных вопросов [запросите поддержку в центре партнеров](#support).
 
-### <a name="canada"></a>Канада
+### <a name="canada"></a>Canada
 
 Большинство торговых посредников не освобождаются от налога GST/HST/QST. Обратитесь к налоговому консультанту, чтобы определить, является ли вы полным исключением, и какую документацию следует предоставить корпорации Майкрософт.
 
@@ -49,7 +48,7 @@ ms.locfileid: "84458300"
 
 Корпорация Майкрософт не поддерживает кредит и выставлять счета. Прежде чем продавать подписки, необходимо [зарегистрировать идентификационный номер плательщика](organization-tax-info.md) в центре партнеров.
 
-### <a name="south-africa"></a>Южно-Африканская Республика
+### <a name="south-africa"></a>ЮАР
 
 Теперь корпорация Майкрософт применяет Стандартный НДС к цифровому содержимому и услугам, приобретенным партнерами в Южной Африки. Чтобы исключить НДС из счетов и управлять им самостоятельно, необходимо обновить профиль выставления счетов партнера, [отправив корпорации Майкрософт свой идентификационный номер](organization-tax-info.md).
 

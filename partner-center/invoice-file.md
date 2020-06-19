@@ -3,18 +3,17 @@ title: Понимание полей в счетах на выставление
 ms.topic: article
 ms.date: 05/18/2020
 description: Изучите поля в файле счета для выставления счетов в центре партнеров.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 keywords: выставление счетов, счет
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f546174ee80c90695ec11f09e9cd1d5fdd4c4e46
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 609860227f11c9d4bc2806d87ac7e595e503bf07
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794862"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991975"
 ---
 # <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>Счета в центре партнеров. Узнайте, как считывать поля выставления счетов и одноразовые счета за использование.
 

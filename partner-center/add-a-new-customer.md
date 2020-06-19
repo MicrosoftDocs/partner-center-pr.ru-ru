@@ -5,18 +5,17 @@ ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как добавить новую запись о клиенте в центр партнеров. Затем можно продать клиентские подписки, управлять выставлением счетов или предоставлять поддержку клиентов.
-ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: LauraBrenner
 ms.author: labrenne
 keywords: клиент, добавление клиента, учетная запись клиента, учетная запись клиента в Центре партнеров, клиенты, добавление клиентов, создание учетной записи клиента
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 005e1d044f1d006b878eb85717a14f5e3ce3030b
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: fcfb35585dc145917614f4557465cb2661dd254a
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362692"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991112"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Как добавить новую запись о клиенте в центр партнеров
 

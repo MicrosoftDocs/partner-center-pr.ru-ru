@@ -5,17 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, какие проблемы должны решать партнеры корпорации Майкрософт для своих клиентов и какие проблемы может потребоваться передать корпорации Майкрософт.
-ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9d46c22852d8a4b994088919d98c92e328ef2cad
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: e6f42ae1d1fb6b496415b32fa4155aef829bdeb2
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795153"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991264"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Эскалация проблем в корпорацию Майкрософт и Узнайте, какие проблемы больше подходят для эскалации Майкрософт  
 

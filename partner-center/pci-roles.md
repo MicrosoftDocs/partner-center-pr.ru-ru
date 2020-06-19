@@ -5,18 +5,17 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Сведения о конкретных ролях, необходимых для просмотра отчетов центра партнеров. К ним относятся роли средства просмотра отчетов руководителя и средства просмотра отчетов.
-ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, производительность, успешный клиент, измерения, роли
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6e20cc9c37ef68fcd1ca0ab22b2012fdd0b35149
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: f17c775736767eb5df5c76e983071f248db8bf76
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452701"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992068"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Управление доступом на основе ролей на панели мониторинга центра партнеров
 

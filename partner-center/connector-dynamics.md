@@ -5,17 +5,16 @@ ms.date: 05/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Синхронизация ссылок в центре партнеров с Dynamics 365 CRM
-ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: fef5468e0dc51cd9830fda6fb2ae60df5d9f39b5
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 3b5170edaaadca3c4045e7ebed174b5d52b06bdd
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453251"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991649"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Соединитель совместных продаж для Dynamics 365 CRM — обзор
 
@@ -30,7 +29,7 @@ ms.locfileid: "84453251"
 
 ## <a name="before-you-install---pre-requisites"></a>Перед установкой предварительных требований
 
-|**Разделы**   |**Сведения**   |**Ссылки**   |
+|**Разделы**   |**Сведения**   |**Источники**   |
 |--------------|--------------------|------|
 |Идентификатор Microsoft Partner Network |Требуется допустимый идентификатор MPN|Присоединение к [MPN](https://partner.microsoft.com/)|
 |Готовность к совместной продаже|Ваше решение для работы с IP-адресами и службами должно быть готово к совместной продаже.|[Продажа с Майкрософт](https://partner.microsoft.com/membership/sell-with-microsoft)| 

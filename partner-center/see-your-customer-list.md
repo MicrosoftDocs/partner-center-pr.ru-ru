@@ -5,17 +5,16 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Записи клиентов являются самыми важными информационными ресурсами. Узнайте, как просматривать, искать, обновлять & экспортировать сведения в списке клиентов центра партнеров.
-ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2ba70cfccf3597868187c6b3c91c313732af1ab7
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: b248a5614bc071068ee2e7a70906795c12f24a14
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84426033"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992165"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Управление списком клиентов — Поиск, обновление или экспорт клиентов в центре партнеров
 

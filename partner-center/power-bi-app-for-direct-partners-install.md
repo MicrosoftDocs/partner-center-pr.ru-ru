@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e2a1d17a7520cca1a6e1da540cc58d2d365d8cb
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 36efc58198be67181ed448d90db505889c3070d4
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679311"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072420"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Установить и ознакомиться с приложением "Аналитика Центра партнеров для Microsoft Power BI"
 
@@ -29,7 +29,7 @@ ms.locfileid: "84679311"
 -   Агент по продажам
 -   Агент по администрированию
 
-## <a name="before-you-begin"></a>Подготовка к работе
+## <a name="before-you-begin"></a>Перед началом
 
 Выберите приложение, которое наиболее релевантно для вашего бизнеса, в следующем списке доступных Power BI приложений:
 - [Прямой поставщик](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
@@ -62,7 +62,7 @@ ms.locfileid: "84679311"
 
 5. На следующей странице введите имя пользователя и пароль Power BI, а затем выберите Вход.
 
-6. Установите рабочую область, предоставив workspacename.
+6. Установите рабочую область, указав имя рабочей области.
 
 7. Вы можете найти приложения шаблонов, установленные в разделе "приложения".
 

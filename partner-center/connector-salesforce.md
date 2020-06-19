@@ -5,16 +5,15 @@ ms.date: 05/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Синхронизация ссылок в центре партнеров с помощью Salesforce CRM
-ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ab70766e0bc20b170a1fb9c12a9bea0e6268b06d
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: e51ddc8ec3ea568a20404801802548f79cae43d0
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788778"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991623"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Соединитель для совместных продаж для Salesforce CRM — обзор
 
@@ -29,7 +28,7 @@ ms.locfileid: "84788778"
 
 ## <a name="before-you-install---pre-requisites"></a>Перед установкой предварительных требований
 
-|**Разделы**   |**Сведения**   |**Ссылки**   |
+|**Разделы**   |**Сведения**   |**Источники**   |
 |--------------|--------------------|------|
 |Идентификатор Microsoft Partner Network |Требуется допустимый идентификатор MPN|Присоединение к [MPN](https://partner.microsoft.com/)|
 |Готовность к совместной продаже|Ваше решение для работы с IP-адресами и службами должно быть готово к совместной продаже.|[Продажа с Майкрософт](https://partner.microsoft.com/membership/sell-with-microsoft)| 
@@ -263,7 +262,7 @@ ms.locfileid: "84788778"
 
 После установки, настройки и настройки решения Power автоматизиру вы можете протестировать синхронизацию ссылок для совместной продажи между Salesforce CRM и центром партнеров.
 
-### <a name="pre-requisites"></a>Предварительные условия
+### <a name="pre-requisites"></a>Предварительные требования
 
 Чтобы синхронизировать ссылки в центре партнеров и Salesforce CRM, решение Power автоматизирует необходимость четко разграничения ссылочные поля Майкрософт. Эта идентификация предоставляет группам продавцов возможность решать, какие ссылки должны предоставляться корпорации Майкрософт для совместной продажи.
 

@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о типах технической поддержки, предоставляемых партнерами по программе поставщика облачных решений для клиентов.
-ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a79de85bb7b564c58f08f1856eb46a2049bd170c
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 09f4b9e07957ccede25a493f5b05d9112d2955eb
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467484"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992054"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Предоставление технической поддержки для помощи клиентам в настройке, управлении и использовании подписок
 
@@ -63,7 +62,7 @@ ms.locfileid: "84467484"
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Предоставление поддержки по выставлению счетов, управлению подписками, а также техническая поддержка 
 
-Каждая веб-служба предъявляет определенные и подробные требования к оказанию поддержки по выставлению счетов, управлению подписками и технической поддержки для клиентов. Дополнительные сведения см. на странице
+Каждая веб-служба предъявляет определенные и подробные требования к оказанию поддержки по выставлению счетов, управлению подписками и технической поддержки для клиентов. Дополнительные сведения см. в разделе:
 
 - [Подписки на Dynamics 365, продаваемые через программу CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

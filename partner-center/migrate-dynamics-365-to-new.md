@@ -5,18 +5,17 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как перенести квалифицированный выпуск Dynamics 365 Business Edition в более новые версии до истечения срока их действия.
-ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 Keywords: Версии Dynamics 365 предложения, продление предложений, новые номера SKU Dynamics 365
-ms.openlocfilehash: d49966db4a2c9de50b0723abf9ccd0fe589a442a
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 9675f607d183c5d427371de4f09f088fd267c573
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795969"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992079"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Перенос предложений с выпуском Dynamics 365 Business в более новые версии
 
@@ -66,7 +65,7 @@ ms.locfileid: "83795969"
 2. Выберите **Пользователи и лицензии**.
 3. Чтобы переназначить лицензию пользователю, выберите пользователя и нажмите кнопку **Управление лицензиями**. 
 4. На странице **Управление лицензиями** снимите флажок Dynamics 365 для плана участия в продаже/клиенте в соответствии с базовым (квалифицированным предложением) лицензией и выберите новый план обслуживания для подписки, в которую будет перемещен клиент. 
-5. Нажмите кнопку **Отправить**. Это будет сделано для каждого пользователя, которому требуется новая лицензия. 
+5. Нажмите кнопку **Submit** (Отправить). Это будет сделано для каждого пользователя, которому требуется новая лицензия. 
 
 После переноса лицензий на новую подписку можно отменить старую подписку. 
 

@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 description: Сведения о счетах & файлов выверки. Счет показывает расходы центра партнеров по программе, продуктам и клиентам за этот ежемесячный период.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
 keywords: выставление счетов за подписки, выставление счетов, выставления счетов в центре партнеров, просмотр счета, счет, счет центра партнеров, счет CSP, где мой счет?
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ab5e9667b766566e3af4ddd524805ff31dfc2a59
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: df330ce2e66cf198ce97919c02a15eb7a50f6486
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467464"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991881"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Сведения о файле счета и выверке — Узнайте, как их найти в центре партнеров
 

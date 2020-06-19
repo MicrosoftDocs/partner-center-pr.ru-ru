@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Используйте API-интерфейсы веб-перехватчика центра партнеров, чтобы узнать, когда происходят изменения ресурсов ссылок для Dynamics 365 CRM или Salesforce CRM.
-ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: ссылки, API веб-перехватчика, события изменения ресурсов
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89628fd6ccab6a943d8bd816afa7b5d3b0f241f7
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 6d3cf5a4049f96f7eebce8d23c33ca79ad352ce5
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749177"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991888"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events-for-dynamics-365-crm-and-salesforce-crm"></a>Использование API-интерфейсов веб-перехватчика для регистрации событий изменения ресурсов для Dynamics 365 CRM и Salesforce CRM
 
@@ -120,7 +119,7 @@ ms.locfileid: "84749177"
 
 После установки, настройки и настройки решения Power автоматизиру вы можете проверить синхронизацию ссылок совместной продажи между Dynamics 365 или Salesforce и центром партнеров.
 
-### <a name="pre-requisites"></a>Предварительные условия
+### <a name="pre-requisites"></a>Предварительные требования
 
 Чтобы синхронизировать ссылки в центре партнеров и Dynamics 365 CRM или в центре партнеров и Salesforce CRM, в решении Power автоматизируется четкое разграничения полей ссылок, относящихся к корпорации Майкрософт. Это дает группам продавцов возможность выбирать, какие ссылки должны предоставляться корпорации Майкрософт для совместной продажи.
 

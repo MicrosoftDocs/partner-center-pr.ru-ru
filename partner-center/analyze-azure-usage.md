@@ -6,17 +6,16 @@ ms.subservice: partnercenter-csp
 Description: Узнайте, как использовать центр партнеров для получения данных об использовании подписок Azure ваших клиентов.
 author: LauraBrenner
 ms.author: labrenne
-ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
 keywords: бизнес-данные
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a73dd6aa47b60befa62f55f37910de4f20f78b8
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 9ecc41f08f6599aee53ca83b0904ceb91e471d8f
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907435"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991103"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Получение данных о том, насколько хорошо ваши клиенты и подписки Azure
 
