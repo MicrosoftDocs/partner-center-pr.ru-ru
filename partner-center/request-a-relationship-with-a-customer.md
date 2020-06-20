@@ -1,19 +1,19 @@
 ---
 title: Запрос связи с клиентом
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Запросите связь с клиентом для нескольких многоканальных сценариев, а также если необходимо восстановить права делегированного администратора для клиента.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 529881017969a4d7262086eb6b3f47e77de3f7e2
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 5aa7a2cbc5a169dc7e702a47752b8101c44b4b94
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992019"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104096"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Как запросить связь через торгового посредника у клиента в центре партнеров
 
@@ -56,7 +56,7 @@ ms.locfileid: "84992019"
 
 Клиентский интерфейс для принятия приглашения по взаимоотношениям с представителями от партнера поставщика облачных решений размещается на разных порталах. Расположение портала зависит от того, находится ли клиент в общедоступном облаке Майкрософт или в национальной облаке:
 
-|  | Где клиент принимает приглашение на связь с торговым посредником? |
+|Типы облачных клиентов  | Где клиент принимает приглашение на связь с торговым посредником? |
 |---------|---------
 | Клиенты в общедоступном облаке | Центр администрирования Microsoft 365 |
 | Клиенты в центре партнеров для Microsoft Cloud Германии | Портал администрирования Microsoft Office |

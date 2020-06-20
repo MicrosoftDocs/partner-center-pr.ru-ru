@@ -1,7 +1,7 @@
 ---
 title: Приобретение Microsoft Azure резервирования для клиентов
 ms.topic: article
-ms.date: 06/08/2020
+ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Узнайте, как купить или приобрести резервирование Azure от имени клиентов в центре партнеров.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: azure, резервирования, управление, выставление счетов, приобретение
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 63fe8bc008b9c1515a3850e60c32ba2d3133ff5c
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 25ff9ac88876b11d76a60db6cf4e471d230dd6f3
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603723"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104116"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Приобретение Microsoft Azure резервирований от имени клиентов в центре партнеров
 
@@ -33,7 +33,7 @@ ms.locfileid: "84603723"
 - Агент по продажам
 - Администратор управления пользователями
 
-## <a name="before-you-begin"></a>Подготовка к работе
+## <a name="before-you-begin"></a>Перед началом
 
 Прежде чем приобретать резервирование Azure от имени ваших клиентов, ознакомьтесь с важными сведениями ниже. (Вы хотите, чтобы клиенты могли покупать собственные резервирования Azure из предыдущей подписки Azure, которую вы приобрели для них? См. раздел [предоставление клиентам разрешения на приобретение собственных резервирований Azure](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations).)
 
@@ -55,10 +55,12 @@ ms.locfileid: "84603723"
 
 ## <a name="azure-reservations-unavailable-markets"></a>Рынки, на которых резервирования Azure недоступны
 
->[!IMPORTANT] 
->Резервирования Azure *недоступны* на следующих рынках:  
+> [!IMPORTANT]
+> Резервирования Azure **недоступны** на следующих рынках:  
 >  
-> | Рынки, где резервирования недоступны | &nbsp; | &nbsp; |
+> **Недоступные рынки (в алфавитном порядке)**
+>
+> |От A до/с   | GR к PAL  | От PAP до Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | Аландские острова     | Гренландия     | Папуа — Новая Гвинея     |
 > | Американское Самоа     | Гренада     | О-ва Питкэрн     |
