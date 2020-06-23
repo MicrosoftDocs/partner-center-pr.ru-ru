@@ -1,7 +1,7 @@
 ---
 title: Развивайте свой бизнес с помощью ссылок Майкрософт
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как создать бизнес-профиль для создания интересов по продажам через функцию "ссылки центра партнеров", а затем ответить на эти ссылки.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: рекомендации, бизнес-профиль, поиск партнера
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53499b0a02733cb83ee68b93655e49034da75c33
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 29da0311dac14a4060e2adf6feeb3ce1e721bd37
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467444"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198622"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -32,7 +32,3 @@ ms.locfileid: "84467444"
  После публикации бизнес-профиля вы начнете получать данные потенциальных клиентов с помощью функции "Рекомендации" в Центре партнеров. Важно реагировать на рекомендации в заданные сроки, чтобы и далее получать эти данные и, самое главное, чтобы заключать сделки. В статье [Respond to referrals](responding-to-referrals.md) (Реагирование на рекомендации) приводятся подробные сведения о том, как организовать работу с потенциальными клиентами в Центре партнеров.  
 
 Чтобы приступить к работе, просмотрите это короткое видео [Optimize your business profile](https://player.vimeo.com/video/252788046) (Оптимизация бизнес-профиля).  
-
-<!-- 
-*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you're getting in front of your target customers.
--->

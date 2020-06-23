@@ -190,8 +190,9 @@
 ### [Перенос подписок Kaizala Pro в Microsoft 365](migrate-kaizala-pro-partner.md)
 
 # Данные и аналитика в Центре партнеров
-## [Получение и анализ бизнес-данных](data-analysis-lp.md)
-## [Приложение "Аналитика Центра партнеров для Power BI"](power-bi-app-for-direct-partners.md)
+## [Получение доступа к результатам аналитики и данным пользователей](data-analysis-lp.md)
+## [Использование приложения "Аналитика Центра партнеров для Power BI"](power-bi-app-for-direct-partners.md)
+## [Работа с приложением "Аналитика Центра партнеров для Power BI"](power-bi-app-for-direct-partners.md)
 ## [Аналитика Центра партнеров](partner-center-insights.md)
 ### [Аналитика — обзорная панель мониторинга](pci-overview-report.md)
 ### [Аналитика — управление доступом на основе ролей к панели мониторинга аналитики](pci-roles.md)
@@ -236,7 +237,6 @@
 ## [Обзор](partner-security-requirements.md)
 ## [Требование MFA для арендатора партнера](partner-security-requirements-mandating-mfa.md) 
 ## [Соответствие требованиям](partner-security-compliance.md)
+## [Реализация требований к безопасности для партнеров](implement-security-requirements.md)
 ## [Вопросы и ответы](partner-security-requirements-faq.md)
 
-# Учебники
-## [Реализация требований к безопасности для партнеров](tutorials/partner-security-requirements.yml)
