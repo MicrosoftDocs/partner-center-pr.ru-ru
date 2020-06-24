@@ -11,12 +11,12 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: acf8a26960df0bebd97b8684c5a51173a86af416
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 7f21431dd215f89905c456a61f8ef2b181353111
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452611"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679121"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Прейскурант для новой коммерческой модели в CSP для Azure
 
@@ -37,13 +37,17 @@ ms.locfileid: "84452611"
 
 2. В разделе цен на планы Azure выберите страну, для которой требуется отобразить цены.
 
-3. Рядом с полем **Тип экспорта** выберите **Цены на потребление для плана Azure**, **Цены на резервирование для плана Azure** или **Валютные курсы**. Примечание. Значения в поле **Валютные курсы** не зависят от страны.
+3. Рядом с полем **Тип экспорта** выберите **Цены на потребление для плана Azure**, **Цены на резервирование для плана Azure** или **Валютные курсы**. 
+
+>[!NOTE] 
+>Значения в поле **Валютные курсы** не зависят от страны.
 
 4. Рядом с полем **Pricing for date** (Цены на дату) выберите нужную дату, например, **Current** (Текущая дата).
 
    :::image type="content" source="images/azure/pricingnew.png" alt-text="настройка для конкретной страны":::
 
-Примечание. Вы можете экспортировать два различных прейскуранта — цены на планы Azure и цены на сторонние продукты Marketplace.
+>[!NOTE] 
+>Вы можете экспортировать два различных прейскуранта — цены на планы Azure и цены на сторонние продукты Marketplace.
 
 ## <a name="azure-price-list-specifics"></a>Характеристики прейскурантов для Azure
 
