@@ -1,7 +1,7 @@
 ---
 title: Получение прав администратора клиента
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Получите разрешения, необходимые для управления службой или подпиской клиента от его имени. Сведения о предоставлении, отмене и изменении разрешений.
@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.custom: SEOAPR.20
 keywords: делегированные права администратора, администратор от имени, удаление привилегий, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: dc56aa2236251c98afa6ffc5b5cc2b3d3f10918b
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 7fdc39dd3d9da7532b52e9b77517da1c0b72fa58
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84466784"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198602"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Получение разрешений для управления службой или подпиской клиента
 
@@ -98,8 +98,6 @@ ms.locfileid: "84466784"
 - Когда пользователь удаляет делегированные права администратора партнера, используя портал Office 365, партнер по-прежнему может управлять подпиской Azure пользователя, так как партнеру будет все еще назначена одна или несколько ролей в рамках подписки. Чтобы запретить партнеру управление подпиской Azure, клиент должен отменить назначение ролей.
 
 ## <a name="windows-autopilot"></a>Windows Autopilot
-
-<!--Maggie, 12/5/18 - Removed table showing what different CSP partner types can and can't do because all partner types are now in parity. As per Bhavya Chopra in bug 19841770.-->
 
 В Центре партнеров партнеры CSP могут управлять профилями Autopilot для своих клиентов без делегированных прав администратора в следующих случаях. 
 
