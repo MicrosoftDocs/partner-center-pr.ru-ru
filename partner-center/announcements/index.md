@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 05/15/2020
-ms.openlocfilehash: 43d8ab5cc0dc04ae3edbef9856865f21836eb23b
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.date: 06/24/2020
+ms.openlocfilehash: c29a1e466d441a9e498c576fb8f20a64fed3a074
+ms.sourcegitcommit: 1fa9ac175cfed992c655c9784081cb636bffc8b8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788728"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "85346720"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,7 @@ ms.locfileid: "84788728"
 
 | **Категория** | **Объявления за июнь 2020 года** | **Объявлено** |
 |---------|:---------|:---------|
+| Характеристики | [Обновление компонента для удаления отношений в Центре партнеров](2020-june.md#5) | 29 июня |
 | Характеристики | [Периодичность выставления счетов по умолчанию изменяется с ежегодной на ежемесячную](2020-june.md#4) | 17 июня |
 | Предложения и рынки | [Изменения в Microsoft 365 F1](2020-june.md#3) | 15 июня |
 | Характеристики | [Обновление носителей подписок ПО Windows Server для CSP](2020-june.md#2) | 12 июня |
