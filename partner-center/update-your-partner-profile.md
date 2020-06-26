@@ -3,20 +3,20 @@ title: Проверка профиля партнера
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как проверить сведения о своей компании, такие как основной контакт, адрес и сведения о программе. Вы можете также обновить свой юридический адрес и адрес для выставления счетов.
-ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
 ms.topic: conceptual
 ms.localizationpriority: high
-ms.date: 03/23/2020
-ms.openlocfilehash: 5b0cc51ea3ab7e8984876f9d638c4af6e7213abe
-ms.sourcegitcommit: c1d93605a87ecdbeedc98c7fbb9c428752c5cbd7
+ms.date: 06/05/2020
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c2534a13d2b24acd689a12476590f8f607c678e2
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "82595390"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991978"
 ---
-# <a name="verify-your-partner-profile-information"></a>Проверка информации профиля партнера
+# <a name="verify-your-partner-profile-information-in-partner-center"></a>Проверка информации профиля партнера в Центре партнеров
 
 При первом входе в Центр партнеров в качестве глобального администратора следует убедиться, что все сведения о вашей организации верны. К ним относятся основной контакт, официальное название организации и ее юридический адрес, а также сведения о программе. Если в вашей компании есть несколько расположений, проверьте правильность данных о расположении. Как глобальный администратор, администратор выставления счетов или агент администратора, вы также сможете просматривать и обновлять сведения о выставлении счетов и налогах.
 

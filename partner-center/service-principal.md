@@ -11,16 +11,19 @@ Keywords: Azure, план Azure, субъект-служба, приложени
 robots: ''
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 76a65cd824c7c1af5242bea3af6069a466c9fa1c
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: d37fe2134d02063819abeb89e2f1b6a63e0ba505
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84426003"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679391"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Добавление приложения Azure AD (субъекта-службы) в Центре партнеров
 
-В рамках программы коммерческой платформы в Центре партнеров пользователи учетных записей Центра партнеров теперь могут добавлять приложения Azure AD (субъекты-службы). (Ранее это можно было сделать в учетной записи Портала Cloud Partner (CPP). Теперь, когда вы перешли в Центр партнеров, учетную запись CPP можно использовать только для чтения.) Обратите внимание, что субъект-служба — это синоним приложения Azure AD.
+В рамках программы коммерческой платформы в Центре партнеров пользователи учетных записей Центра партнеров теперь могут добавлять приложения Azure AD (субъекты-службы). (Ранее это можно было сделать в учетной записи Портала Cloud Partner (CPP). Теперь, когда вы перешли в Центр партнеров, учетную запись CPP можно использовать только для чтения.)
+ 
+>[!Note] 
+>Субъект-служба — это синоним приложения Azure AD.
 
 ## <a name="add-an-azure-ad-application-service-principal"></a>Добавление приложения Azure AD (субъекта-службы)
 

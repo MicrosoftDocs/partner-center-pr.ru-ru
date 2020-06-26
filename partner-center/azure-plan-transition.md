@@ -8,13 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 05/04/2020
-ms.openlocfilehash: 073ee1a3f0cd90d3b10493a989d00dc1594505d6
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.date: 06/16/2020
+ms.openlocfilehash: 0629ddcee62040ecc1e5fca40689ede71f2b73ca
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452591"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908962"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Перевод клиентов на план Azure с существующих предложений Azure CSP
 
@@ -41,11 +41,11 @@ ms.locfileid: "84452591"
 
 2. Щелкните **Перевод выставления счетов в план Azure**.
 
-   :::image type="content" source="images/azure/transition1.png" alt-text="Переход":::
+   :::image type="content" source="images/azure/transition1.png" alt-text="Снимок экрана с подписками, основанными на использовании, с выделенным выбираемым параметром Transition Azure subscription billing to Azure plan (Перевод выставления счетов за подписки в план Azure)":::
 
 3. Выберите **Продолжить**.
 
-   :::image type="content" source="images/azure/transition2.png" alt-text="Переход":::
+   :::image type="content" source="images/azure/transition2.png" alt-text="Диалоговое окно Transition to Azure plan (Переход на план Azure) с описанием перехода и двумя кнопками: "Продолжить" и "Отмена".":::
 
    Ваш клиент будет переведен на план Azure автоматически.
 
@@ -63,7 +63,7 @@ ms.locfileid: "84452591"
 
 4. Вернитесь на страницу **Подписки** клиента в Центре партнеров, чтобы обновить лимит бюджета в местной валюте.
 
-   :::image type="content" source="images/azure/transition3.png" alt-text="Переход":::
+   :::image type="content" source="images/azure/transition3.png" alt-text="Частичное представление подписок Центра партнеров с ограничениями бюджета, заданными в местной валюте, на период выставления счетов.":::
 
    >[!NOTE]
    >Бюджет, заданный в Центре партнеров, не переносится на портал Azure. Вы также должны настроить бюджет и оповещение на портале Azure.
@@ -77,7 +77,7 @@ ms.locfileid: "84452591"
 
 Процесс перехода можно наблюдать на портале Azure и в Центре партнеров.
 
-:::image type="content" source="images/azure/details1.png" alt-text="Отображение сведений":::
+:::image type="content" source="images/azure/details1.png" alt-text="Снимок экрана: таблица со списком сведений о переходе для каждой подписки (включает идентификатор подписки, дату и состояние перехода).":::
 
 ### <a name="billing-impact-to-partners"></a>Влияние на выставление счетов для партнеров
 
@@ -100,7 +100,7 @@ ms.locfileid: "84452591"
 
 По завершении перехода подписка Azure перемещается в новый план Azure, а действие коммерческой подписки приостанавливается, поэтому в дальнейшем данные о ее использовании не отображаются.  
 
->[!Note]
+>[!NOTE]
 >Если подписка Microsoft Azure (0145P) приобретена в рамках CSP, то коммерческая подписка и подписка Azure (права) имеют одинаковое значение. Значения могут отличаться только в случае изменения или перемещения владельца выставления счетов.
 
 ### <a name="transition-issues"></a>Проблемы перехода

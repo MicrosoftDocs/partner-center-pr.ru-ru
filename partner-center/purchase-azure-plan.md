@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как в рамках плана Azure приобрести одну или несколько подписок Azure и резервирования Azure, настроить ресурсы, а также как просматривать и добавлять подписки.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b40851ae718bc3efdc416c633ad4ed54c802f75
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 711a787fd6ebd3494eb2b975aee338494728aa89
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467524"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909132"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Приобретение плана Azure для клиентов и доступ к новейшим службам Azure с оплатой по мере использования
 
@@ -78,7 +77,8 @@ ms.locfileid: "84467524"
 >[!Important] 
 >Если у клиента еще нет активного плана Azure, выберите Azure, чтобы добавить его сейчас. Дополнительные инструкции см. в разделе [Приобретение резервирований Azure](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
 
-Обратите внимание на то, что в настоящее время в качестве области резервирования можно задать только **Общая**. 
+>[!Note] 
+>Сейчас в качестве области резервирования можно задать только **Общая**. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Параметры резервирования с общей областью":::
 

@@ -1,7 +1,7 @@
 ---
 title: Утверждение принятия клиентом условий Клиентского соглашения Майкрософт
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Узнайте, когда следует подтвердить принятие Клиентского соглашения Майкрософт от имени клиента.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Клиент, клиенты, согласие, MCA, соглашение об использовании Microsoft Cloud, Клиентское соглашение Майкрософт, шаблоны клиентских соглашений, утверждение принятия
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 37e24d602bc61391642814d78a22c7d7cb4ba5b0
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 9e5402d1c6075c86df8511a1621c9090cd2c9451
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452721"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909022"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Подтверждение принятия Клиентского соглашения Майкрософт от имени клиента
 
@@ -46,7 +46,7 @@ ms.locfileid: "84452721"
 
 **Как это исправить** Необходимо утвердить принятие условий от имени клиента.
 
-:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Клиент":::
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Снимок экрана со страницей Центра администрирования Microsoft 365 и предложением обратиться к партнеру, чтобы подтвердить принятие Клиентского соглашения Майкрософт.":::
 
 **Сценарий 2** Существующий клиент приобрел что-либо из следующего: предложения, программное обеспечение и подписки на программное обеспечение, зарезервированные экземпляры, план Azure. Теперь клиент пытается осуществить новую покупку через нового партнера.
 
@@ -54,4 +54,4 @@ ms.locfileid: "84452721"
 
 **Как это исправить** Необходимо утвердить принятие условий от имени клиента.  
 
-:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="Клиент":::
+:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="Снимок экрана: страница авторизации партнера с возможностью выбрать элемент "Авторизация", на которой отображаются сведения о конкретном партнере, отношениях с ним и его роли администратора.":::

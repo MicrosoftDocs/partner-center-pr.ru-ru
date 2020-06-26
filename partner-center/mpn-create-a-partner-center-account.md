@@ -1,22 +1,22 @@
 ---
 title: Создание учетной записи Центра партнеров
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Узнайте, как участники Microsoft Partner Network могут создать бизнес-профиль и учетные записи Центра партнеров для управления своими преимуществами и компетенциями в рамках партнерской сети.
+description: Узнайте, как участники Microsoft Partner Network могут создать учетную запись Центра партнеров для управления своими преимуществами и компетенциями в рамках партнерской сети.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dbfbe23c84542e9164ba3ddfda811add34962fdc
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: bb703eac9e609badbc71f53bb9561a363f3a76f8
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795735"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603823"
 ---
-# <a name="create-a-business-profile-and-partner-center-account-to-manage-network-benefits-and-competencies"></a>Создание бизнес-профиля и учетной записи Центра партнеров для управления преимуществами и компетенциями партнерской сети
+# <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Создание учетной записи Центра партнеров для управления преимуществами и компетенциями партнерской сети
 
 **Соответствующие роли**
 

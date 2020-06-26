@@ -1,7 +1,7 @@
 ---
 title: Управление расположениями в партнерской учетной записи
 ms.topic: article
-ms.date: 06/01/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как в Центре партнеров добавить новое расположение и каким образом идентификатор расположения MPN используется в программах поощрений, бизнес-операциях CSP, подписках и других транзакциях.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: учетная запись партнера, расположения
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 943299cc4c68a6252c69a96204ef6001b89eda09
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 6cce4b38cb27d8cef88f71ced6fe985631a24914
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453211"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909062"
 ---
 # <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>Управление расположениями учетной записи партнера в Центре партнеров и добавление нового расположения
 
@@ -54,12 +54,12 @@ ms.locfileid: "84453211"
 
 1. На странице **Расположения** проверьте список расположений, чтобы убедиться, что в нем указано расположение вашего юридического лица. Если это не так, добавьте его.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Изменение расположения организации":::
+   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Снимок экрана со списком всех текущих расположений на странице расположения учетных записей Центра партнеров.":::
 
 2. Выберите **Профиль партнера** и щелкните **Update legal business profile** (Обновить официальный бизнес-профиль).
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Изменение расположения организации":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Снимок экрана со сведениями профиля партнера в учетной записи Центра партнеров с возможностью выбрать элемент "Обновить".":::
 
 3. Выберите регион и юридическое лицо, а затем щелкните **Отправить**.
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Изменение расположения организации":::
+   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Снимок экрана: при обновлении официального бизнес-профиля партнера отображаются раскрывающиеся списки, дающие возможность обновить страну или регион и юридическое лицо.":::

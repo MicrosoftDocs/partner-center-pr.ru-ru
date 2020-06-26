@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Клиент, клиенты, согласие, MCA, соглашение об использовании Microsoft Cloud, клиентское соглашение Майкрософт, шаблоны клиентских соглашений
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6d67c7e970d042704e1cc1c731d6ae1e85d6687
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 0d89c625375c203fe77556c47b6061faa293e1b0
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453271"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679111"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Подтверждение принятия клиентом условий Клиентского соглашения Майкрософт в рамках партнерской программы CSP
 
@@ -128,7 +128,10 @@ ms.locfileid: "84453271"
 
 3. В разделе **Клиентское соглашение** выберите первый вариант, **Customer will be asked to accept the Microsoft Customer Agreement in Microsoft 365 Admin Center** (Клиенту будет предложено принять условия Клиентского соглашения Майкрософт в центре администрирования Microsoft 365). Заполните все остальные обязательные поля на странице.
 
-4. Выберите **Далее: отзыв** и выполните инструкции по созданию арендатора клиента. (Примечание. Новые клиенты не смогут осуществить новую покупку, пока не примут условия Клиентского соглашения Майкрософт.)  
+4. Выберите **Далее: отзыв** и выполните инструкции по созданию арендатора клиента. 
+
+>[!NOTE] 
+>Новые клиенты не смогут осуществить новую покупку, пока не примут условия Клиентского соглашения Майкрософт.  
 
    :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Создание клиента":::
 
