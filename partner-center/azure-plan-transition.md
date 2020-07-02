@@ -45,7 +45,7 @@ ms.locfileid: "84908962"
 
 3. <span data-ttu-id="b9a4d-121">Выберите **Продолжить**.</span><span class="sxs-lookup"><span data-stu-id="b9a4d-121">Select **Continue**</span></span>
 
-   :::image type="content" source="images/azure/transition2.png" alt-text="Диалоговое окно Transition to Azure plan (Переход на план Azure) с описанием перехода и двумя кнопками: "Продолжить" и "Отмена".":::
+   :::image type="content" source="images/azure/transition2.png" alt-text="Диалоговое окно Transition to Azure plan (Переход на план Azure) с описанием перехода и двумя кнопками: Продолжить и Отмена.":::
 
    <span data-ttu-id="b9a4d-123">Ваш клиент будет переведен на план Azure автоматически.</span><span class="sxs-lookup"><span data-stu-id="b9a4d-123">Your customer will be transitioned to the Azure plan.</span></span>
 
