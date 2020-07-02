@@ -58,7 +58,7 @@ ms.locfileid: "84909062"
 
 2. <span data-ttu-id="aa694-131">Выберите **Профиль партнера** и щелкните **Update legal business profile** (Обновить официальный бизнес-профиль).</span><span class="sxs-lookup"><span data-stu-id="aa694-131">Select **Partner profile** and then select **Update legal business profile**</span></span>
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Снимок экрана со сведениями профиля партнера в учетной записи Центра партнеров с возможностью выбрать элемент "Обновить".":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Снимок экрана со сведениями профиля партнера в учетной записи Центра партнеров с возможностью выбрать элемент Обновить.":::
 
 3. <span data-ttu-id="aa694-133">Выберите регион и юридическое лицо, а затем щелкните **Отправить**.</span><span class="sxs-lookup"><span data-stu-id="aa694-133">Select the region and legal entity and **Submit** it.</span></span>
 
