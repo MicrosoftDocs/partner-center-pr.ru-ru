@@ -44,8 +44,9 @@
 ## [Соглашения, прайс-листы и предложения CSP](csp-documents-and-learning-resources.md)
 ## [Региональные рынки и валюты CSP](regional-authorization-overview.md)
 ## [Инструкции по консолидации клиента региональной авторизации CSP](csp-regional-authorization-tenant-consolidation.md)
-## [Подтверждение принятия клиентом условий клиентского договора с Майкрософт](confirm-customer-agreement.md)
-### [Когда следует подтверждать принятие Клиентского соглашения от имени клиента](attest-acceptance-customer-agreement.md)
+## [Обзор: новый способ подтвердить принятие клиентом условий Клиентского соглашения Майкрософт](confirm-consent.md)
+## [Как подтвердить принятие клиентом условий Клиентского соглашения Майкрософт](confirm-customer-agreement.md)
+## [Когда следует подтверждать принятие Клиентского соглашения от имени клиента](attest-acceptance-customer-agreement.md)
 
 ## [Применение для продаж в национальных облаках](csp-national-clouds-overview.md)
 ### [Центр партнеров для Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
@@ -94,12 +95,25 @@
 ### [Регистрация сделок](register-deals.md)
 ### [Получение сведений о рефералах](referral-insights.md)
 ### [Анализ бизнес-профиля](analyze-your-marketing-profile.md)
-## [Заявки на компенсацию средств в рамках программы поощрения](claims-overview.md)
-### [Создание и администрирование заявок на компенсацию средств в рамках программы поощрения](create-incentives-claims.md)
-### [Основные требования, предъявляемые к заявкам на компенсацию средств в рамках программы поощрения](core-requirements.md)
-### [Доступ к странице выплат по программам поощрений](incentives-unified-user-guide.md)
-### [Просмотр сведений о программах вознаграждений и платежей по ним](understand-incentive-payouts.md)
-### [Создание связи с клиентом с помощью модели CPOR](submit-osa-claim.md)
+## [Программа поощрения](claims-overview.md)
+### Начало работы с поощрениями
+#### [Определение возможности участия в программе](incentives-determined-your-program-eligibility.md)
+#### [Создание профилей для выплат и налогов и управление ими в Центре партнеров](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+#### [Подтверждение соответствия вашей прибыли требованиям](incentives-confirm-your-earnings-eligibility.md)
+#### [Просмотр сведений о программах вознаграждений и платежей по ним](understand-incentive-payouts.md)
+#### [Доступ к странице выплат по программам поощрений](incentives-unified-user-guide.md)
+### Планы и подтверждения выполнения
+#### [Создание плана](incentives-create-your-plan.md)
+#### [Подготовка подтверждения выполнения](incentives-prepare-your-proof-of-execution.md)
+### Совместные заявки на возмещение средств в рамках программ поощрения
+#### [Создание и администрирование совместных заявок на возмещение средств в рамках программы поощрения](create-incentives-claims.md)
+#### [Основные требования к совместным заявкам на возмещение средств в рамках программы поощрения](core-requirements.md)
+#### [Сроки утверждения совместных заявок на возмещение средств и выплат по ним](incentives-managing-co-op-claims.md)
+### Поощрения: заявки на создание связи CPOR
+#### [Создание связи с клиентом с помощью модели CPOR](submit-osa-claim.md)
+#### [Управление связями с клиентами](incentives-manage-customer-associations.md)
+#### [Проблемы, касающиеся связей с клиентами](incentives-customer-association-issues.md)
+### [Устранение проблем с платежами и прибылью](incentives-payment-issues.md)
 
 # [Выставление счетов и налоги](billing.md)
 ## [Основы выставления счетов](billing-basics.md)

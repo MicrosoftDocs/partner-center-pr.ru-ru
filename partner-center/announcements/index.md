@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: c29a1e466d441a9e498c576fb8f20a64fed3a074
-ms.sourcegitcommit: 1fa9ac175cfed992c655c9784081cb636bffc8b8
+ms.openlocfilehash: 77b5d692a103303b9a0e70aa49321773569bf954
+ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "85346720"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "85678658"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,7 @@ ms.locfileid: "85346720"
 
 | **Категория** | **Объявления за июнь 2020 года** | **Объявлено** |
 |---------|:---------|:---------|
+| Предложения и рынки | [Теперь для партнеров CSP доступны дополнительные обновления для системы безопасности Windows 7 на второй год](2020-june.md#6) | 29 июня |
 | Характеристики | [Обновление компонента для удаления отношений в Центре партнеров](2020-june.md#5) | 29 июня |
 | Характеристики | [Периодичность выставления счетов по умолчанию изменяется с ежегодной на ежемесячную](2020-june.md#4) | 17 июня |
 | Предложения и рынки | [Изменения в Microsoft 365 F1](2020-june.md#3) | 15 июня |

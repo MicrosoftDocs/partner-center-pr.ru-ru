@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Клиент, клиенты, согласие, MCA, соглашение об использовании Microsoft Cloud, Клиентское соглашение Майкрософт, шаблоны клиентских соглашений, утверждение принятия
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9e5402d1c6075c86df8511a1621c9090cd2c9451
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: b74989324fb64cbc8875752bfc33a24285e96936
+ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909022"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "85678561"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Подтверждение принятия Клиентского соглашения Майкрософт от имени клиента
 
@@ -54,4 +54,7 @@ ms.locfileid: "84909022"
 
 **Как это исправить** Необходимо утвердить принятие условий от имени клиента.  
 
-:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="Снимок экрана: страница авторизации партнера с возможностью выбрать элемент "Авторизация", на которой отображаются сведения о конкретном партнере, отношениях с ним и его роли администратора.":::
+## <a name="next-steps"></a>Дальнейшие действия
+
+- [Как добавить новую запись о клиенте в Центре партнеров](add-a-new-customer.md)
+- [Введение. План Azure позволяет партнерам приобретать для клиентов службы Azure с оплатой по мере использования](azure-plan-lp.md)
