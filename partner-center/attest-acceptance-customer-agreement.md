@@ -54,4 +54,4 @@ ms.locfileid: "84909022"
 
 <span data-ttu-id="d59fb-125">**Как это исправить** Необходимо утвердить принятие условий от имени клиента.</span><span class="sxs-lookup"><span data-stu-id="d59fb-125">**To resolve**: You must attest on behalf of the customer.</span></span>  
 
-:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="Снимок экрана: страница авторизации партнера с возможностью выбрать элемент "Авторизация", на которой отображаются сведения о конкретном партнере, отношениях с ним и его роли администратора.":::
+:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="Снимок экрана: страница авторизации партнера с возможностью выбрать элемент Авторизация, на которой отображаются сведения о конкретном партнере, отношениях с ним и его роли администратора.":::
