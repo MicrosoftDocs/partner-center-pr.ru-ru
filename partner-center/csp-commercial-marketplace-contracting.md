@@ -1,7 +1,7 @@
 ---
 title: Контракты CSP для коммерческого рынка
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о терминах, условиях и контрактах для подписок на сторонние продукты независимых поставщиков программного обеспечения, приобретенные партнерами CSP в коммерческом магазине.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: подписки, Marketplace, сторонние программы, независимые поставщики программного обеспечения, Партнерская программа CSP, контракты, продажи, покупка,
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5bac92edfbe4d88d6c0fe1bf132f9cab75749093
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 1f373c29fb52252014af262e530e364fe9f08782
+ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362632"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85937620"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Контракты партнеров по CSP, делающих бизнес в коммерческом магазине
 
@@ -42,7 +42,7 @@ ms.locfileid: "83362632"
 
 Дополнительные сведения об условиях, регулирующих действия CSP в коммерческом магазине, см. в следующих статьях:
 
-- **Раздел 5,7 (предложения третьих лиц)** в разделе [программного средства CSP](https://go.microsoft.com/fwlink/p/?LinkId=617100). Это дает термины, регулирующие продажу решений независимых поставщиков программных продуктов в программе CSP.
+- В **разделе "предложения третьих лиц"** в [программном](https://go.microsoft.com/fwlink/p/?LinkId=617100)обеспечении CSP. Это дает термины, регулирующие продажу решений независимых поставщиков программных продуктов в программе CSP.
 
 - **Соглашение с партнерами Майкрософт (MPa)** будет управлять программой CSP, заменив существующие МКРА и мкда. Активация продуктов Майкрософт доступна в [центре партнеров](https://partner.microsoft.com/pcv/dashboard/overview) , чтобы партнеры, которые принимают участие в программе CSP, могли ее просматривать и принимать.
   
