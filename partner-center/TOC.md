@@ -95,7 +95,7 @@
 ### [Регистрация сделок](register-deals.md)
 ### [Получение сведений о рефералах](referral-insights.md)
 ### [Анализ бизнес-профиля](analyze-your-marketing-profile.md)
-## [Программа поощрения](claims-overview.md)
+## Программа поощрения
 ### Начало работы с поощрениями
 #### [Определение возможности участия в программе](incentives-determined-your-program-eligibility.md)
 #### [Создание профилей для выплат и налогов и управление ими в Центре партнеров](incentives-create-and-manage-your-payout-and-tax-profiles.md)
@@ -106,6 +106,7 @@
 #### [Создание плана](incentives-create-your-plan.md)
 #### [Подготовка подтверждения выполнения](incentives-prepare-your-proof-of-execution.md)
 ### Совместные заявки на возмещение средств в рамках программ поощрения
+#### [Программа поощрения](claims-overview.md)
 #### [Создание и администрирование совместных заявок на возмещение средств в рамках программы поощрения](create-incentives-claims.md)
 #### [Основные требования к совместным заявкам на возмещение средств в рамках программы поощрения](core-requirements.md)
 #### [Сроки утверждения совместных заявок на возмещение средств и выплат по ним](incentives-managing-co-op-claims.md)
