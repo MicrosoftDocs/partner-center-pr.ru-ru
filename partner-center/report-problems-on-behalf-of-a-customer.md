@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, когда имеет смысл сообщить о проблеме в службу поддержки клиентов корпорации Майкрософт и о том, как заправить в нее запрос на поддержку.
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 Keywords: запрос на обслуживание, запрос в службу поддержки, поддержка, право на поддержку, AOBO, Azure AOBO
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a2378c947f9b871ec9cba104136fcede72f0f72
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 512b8b51dd036bb6428a3f5f730c36168c5fa455
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992044"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949275"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Сообщить о проблеме со службой от имени клиента, включая время и способ их выполнения
 
@@ -94,7 +94,7 @@ ms.locfileid: "84992044"
     - электронная почта службы поддержки;
     - контактный номер телефона службы поддержки.
 
-## <a name="faq"></a>ВОПРОСЫ И ОТВЕТЫ
+## <a name="faq"></a>часто задаваемые вопросы
 
 **Что входит в объем обслуживания?**
 

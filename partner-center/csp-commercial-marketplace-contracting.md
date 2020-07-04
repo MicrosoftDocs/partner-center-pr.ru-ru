@@ -5,17 +5,17 @@ ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о терминах, условиях и контрактах для подписок на сторонние продукты независимых поставщиков программного обеспечения, приобретенные партнерами CSP в коммерческом магазине.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: подписки, Marketplace, сторонние программы, независимые поставщики программного обеспечения, Партнерская программа CSP, контракты, продажи, покупка,
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f373c29fb52252014af262e530e364fe9f08782
-ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
+ms.openlocfilehash: 73ce5d441c3ac3b2c7cf350ea8647c8e569c66c1
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/03/2020
-ms.locfileid: "85937620"
+ms.locfileid: "85947787"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Контракты партнеров по CSP, делающих бизнес в коммерческом магазине
 
@@ -48,7 +48,7 @@ ms.locfileid: "85937620"
   
 Корпорация Майкрософт не принимает юридическую ответственность за доставку служб между взаимодействующими сторонами и не предоставляет механизм для предоставления партнерам прав на установку юридических положений через свою бизнес-платформу. Если действующим партнерам требуются дополнительные юридические условия, им нужно будет выполнить соглашение напрямую.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Поддержка продуктов коммерческого Marketplace](csp-commercial-marketplace-support.md)
 

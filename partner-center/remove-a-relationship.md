@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как Microsoft Direct Partner может удалять клиентов из списка, удалять делегированные права администратора и прекращать поддержку или покупку для клиента.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8f26dee696580b9a171069bd2c4fcad9fcbef8d
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: f710b7327e9ff647f23c7baf994bc00082c437b5
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467424"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949287"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Как удалить связь торгового посредника с клиентом в центре партнеров
 
@@ -49,15 +49,15 @@ ms.locfileid: "84467424"
 
 2. **Удалите связь в центре партнеров:**
 
-   а. В центре партнеров перейдите к разделу **Клиенты** и выберите клиента.
+   1\. В центре партнеров перейдите к разделу **Клиенты** и выберите клиента.
 
-   b. Выберите **учетную запись**.
+   2\. Выберите **учетную запись**.
 
-   c. Выберите **Удалить связь с торговым посредником**.
+   В. Выберите **Удалить связь с торговым посредником**.
 
    > [!NOTE]
    > Если какие-либо подписки активны, ссылка **Удалить связь с торговыми посредниками** будет неактивна.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Запрос или повторное создание связи с клиентом](request-a-relationship-with-a-customer.md)

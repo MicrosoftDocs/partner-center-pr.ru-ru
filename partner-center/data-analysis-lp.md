@@ -5,17 +5,17 @@ ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как использовать аналитику в центре партнеров для лучшего понимания бизнеса и того, как ваши клиенты используют приобретенные вами лицензии.
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 keywords: данные, анализ, анализ данных, power bi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3232a8c5b2f3e0bb4458dffdc577cbd561064dae
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: f69fc08712ca13a9593383c0a629382b0eb3b023
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795203"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947594"
 ---
 # <a name="use-analytics-to-learn-more-about-customer-license-use-and-how-you-can-help-meet-their-needs"></a>Используйте аналитику для получения дополнительных сведений об использовании клиентских лицензий и о том, как можно удовлетворить их потребности.
 

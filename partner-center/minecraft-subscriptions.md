@@ -5,16 +5,16 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Продавайте подписки Minecraft образовательных выпусков на квалифицированных учебных учреждениях, которые затем смогут скачать их из магазина Microsoft для образовательных учреждений.
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 keywords: Полномочные партнеры по обучению, образование, продажи в образовательных учреждений, школы
 ms.localizationpriority: medium
-ms.openlocfilehash: ecce16a09dc4c5b415e0553b038b1810ab16197f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: f5525a65b059451aea9831a98d90b7a3ede98562
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004553"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949003"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Продажа подписок на Minecraft: Education Edition клиентам из образовательной сферы
 
@@ -26,7 +26,7 @@ ms.locfileid: "75004553"
 -   Глобальный администратор
 -   администратор пользователей.
 -   Агент по продажам
--   Агент администрирования
+-   Агент по администрированию
 
 Партнеры, которые работают с образовательными учреждениями, могут предлагать им подписки на **Minecraft: Education Edition**. Вы приобретаете подписку от имени клиента в центре партнеров, а затем клиент загружает программное обеспечение из [Microsoft Store для образовательных учреждений](https://educationstore.microsoft.com). 
 
@@ -45,7 +45,7 @@ ms.locfileid: "75004553"
   
   3.  Выберите периодичность выставления счетов, которая наилучшим образом соответствует вашим потребностям, а затем выберите **Образование** в разделе **Каталог**.
 
-  4.  Выберите подписку на Minecraft, которую вы хотите приобрести от имени клиента и введите число лицензий. Выберите **Далее: просмотр**.
+  4.  Выберите подписку на Minecraft, которую вы хотите приобрести от имени клиента и введите число лицензий. По завершении выберите **Next: Review** (Далее: проверка).
 
       >[!NOTE]
       >Вы сможете просматривать эти лицензии и управлять ими в центре партнеров. Ваш клиент будет видеть и сможет управлять этими лицензиями в списке продуктов на [странице сведений Minecraft: Education Edition](https://educationstore.microsoft.com/store/details/minecraft-education-edition/9nblggh4r2r6) (для ее просмотра необходимо войти в Microsoft Store для образования). 

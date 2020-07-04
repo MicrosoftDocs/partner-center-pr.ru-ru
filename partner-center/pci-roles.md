@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Сведения о конкретных ролях, необходимых для просмотра отчетов центра партнеров. К ним относятся роли средства просмотра отчетов руководителя и средства просмотра отчетов.
 keywords: PCI, производительность, успешный клиент, измерения, роли
-author: LauraBrenner
-ms.author: labrenne
+author: shganesh-dev
+ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f17c775736767eb5df5c76e983071f248db8bf76
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: aaa3552a7c0a3d15674ac0178fc98375b9cd1b0b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992068"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948727"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Управление доступом на основе ролей на панели мониторинга центра партнеров
 
@@ -28,6 +28,6 @@ ms.locfileid: "84992068"
 >[!Note]
 > Пользователи, MPN администраторов на 20 января, 2020 автоматически добавляются в роль **средства просмотра отчетов руководителя** Организации для всех расположений для этого клиента. Таким образом, эти пользователи могут получить доступ к отчетам в качестве средства просмотра отчетов руководителя без явного действия, необходимого глобальному администратору или администратору учетной записи. Глобальные администраторы и администраторы учетных записей могут переопределять автоматические назначенные роли этих пользователей для дальнейшего увеличения или ограничения их возможностей.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - Дополнительные сведения о [партнерских аналитиках](partner-center-insights.md) и различных отчетах.

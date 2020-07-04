@@ -1,19 +1,19 @@
 ---
-title: Создание и управление профилями выплата и налогового учета в центре партнеров
+title: Создание профилей для выплат и налогов и управление ими в Центре партнеров
 ms.topic: article
 ms.date: 06/29/2020
 description: Прежде чем вы сможете получить оплату за работу по поощрениям, необходимо создать профили выплат и налогов.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: b7f99ff64b6cdabe8b59607e5820daf0909050f1
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 02212a09ab18ff5b978107af00ac990aa0c702a3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719457"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949684"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>Выплата и налоговый профиль в центре партнеров
 
@@ -29,7 +29,7 @@ ms.locfileid: "85719457"
 - Администратор выставления счетов
 - Глобальный администратор
 
-## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Создание и управление профилями выплата и налогового учета в центре партнеров
+## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Создание профилей для выплат и налогов и управление ими в Центре партнеров
 
 В следующих разделах описывается процесс создания и управления платежами и налоговыми профилями в центре партнеров.
 
@@ -170,6 +170,6 @@ ms.locfileid: "85719457"
 
 Налоговые профили, созданные для расположения MPN, можно использовать многократно, и когда одно и то же расположение MPN участвует в другой программе поощрения, налоговый профиль заполняется автоматически. Но здесь тоже могут быть исключения. Например, согласно правилам выплат в новой программе поощрения может требоваться дополнительная информация для налогового профиля.  
 
-### <a name="i-am-only-able-to-log-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Я могу войти только с помощью моего @onmicrosoft.com домена. Что делать?
+### <a name="i-am-only-able-to-log-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Я могу войти только с помощью моего @onmicrosoft.com домена.   Что следует делать?
 
 Обратитесь к своему администратору учетной записи, чтобы он добавил дополнительные домены в учетную запись AAD.

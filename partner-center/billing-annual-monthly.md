@@ -3,16 +3,16 @@ title: Разница между выставлением счетов за ме
 ms.topic: article
 ms.date: 05/06/2020
 Description: Узнайте, как ежемесячные и ежегодные счета отличаются в центре партнеров. Также Узнайте, как переключаться между различными типами выставления счетов и последствиями переключения.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 96ff9feded392219ceddd3f800bd3d12e6440a60
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 3fed5a5a584775f73ed3ad83978a6d38cb50293b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908972"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948222"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Сведения о разнице между ежемесячной и годовой оплатой в центре партнеров
 
@@ -220,7 +220,7 @@ ms.locfileid: "84908972"
 
 Партнеры получают стимулы для всех соответствующих транзакций, независимо от того, как оплачивается подписка. Поощрительные доходы рассчитываются на основе глобальной ставки поощрения (которая применяется к выручке за период), локальному ускорителю (для всех географических регионов, в которых есть локальные ускорители) и любых глобальных кампаний (если применимо).
 
-### <a name="contacts"></a>"Контакты"
+### <a name="contacts"></a>Контакты
 
 Для получения вопросов о поощрениях обратитесь в соответствующую региональную службу поддержки.
 

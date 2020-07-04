@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, что вы хорошо используете, и можете ли вы улучшить отношение к облачным подпискам, которые вы продаете или управляете клиентами.
 keywords: PCI, производительность, измерения, успешный клиент, облачные подписки, аналитика, отчет
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dfb652551c2b94cfff226be6ffc331c2e8132042
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: bc9b306e635a27e1bf19f945341f9d8aab834782
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909092"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948809"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Отчет о подписках на продукты, доступный на панели мониторинга центра партнеров Insights
 
@@ -108,6 +108,6 @@ ms.locfileid: "84909092"
 > [!NOTE]
  > Число подписок, разделенных номерами SKU, может не всегда соответствовать общему количеству подписок для этого продукта. Это может произойти, если клиент приобрел несколько номеров SKU в одной подписке продукта.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - Дополнительные отчеты см. в статье [Partner Center Insights](partner-center-insights.md).

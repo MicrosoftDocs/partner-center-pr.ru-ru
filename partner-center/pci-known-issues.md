@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте об известных проблемах, связанных с отчетами центра партнеров (PCI).
 keywords: PCI, измерения, отчеты, проблемы, ограничения
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2a944e37760e6dc56dde7ea850f9b86d43215a8c
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 69e99b442c8a3e135aa9f687d11000908b6c218e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908602"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948750"
 ---
 # <a name="known-issues-with-partner-center-insights"></a>Известные проблемы с центром партнеров Insights
 
@@ -25,6 +25,6 @@ ms.locfileid: "84908602"
 - Отчеты имеют проблемы с отрисовкой в Internet Explorer. Они хорошо работают с Microsoft ребром и другими браузерами.
 - Данные производительности для компетенции облачного бизнес-приложения неполны из-за проблем с вышестоящими данными.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - Дополнительные сведения о [центре партнеров](partner-center-insights.md)см. здесь.

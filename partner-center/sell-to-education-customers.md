@@ -5,17 +5,17 @@ ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: alikhaki
+ms.author: alikhaki
 keywords: образование, Специальные сегменты
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b0b576348ed3c703fe517bbeef6271e3dcade08
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 873a36bb38e97ab1b4721a95748aa06af6be5048
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992173"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949237"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Как продавать предложения для образовательных клиентов & создание клиентов для образовательных учреждений в центре партнеров
 
@@ -67,7 +67,7 @@ ms.locfileid: "84992173"
 
    :::image type="content" source="images/edunottagged.png" alt-text="Образование не помечено тегом":::
 
-## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a>Исправление сведений об учетной записи клиента и повторная отправка для заглянув  
+## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a>Исправление сведений о клиенте и повторная их отправка на проверку  
 
 Если клиент не проходит первоначальный заглянув, вы можете исправить информацию и отправить ее повторно.
 
@@ -95,7 +95,7 @@ ms.locfileid: "84992173"
 
 2. Если обновленные сведения о клиенте подходят для учебных предложений, вы увидите **Специальные квалификацию** , обновленные для **образования**. Если вы по-прежнему **не видите клиента для образовательных учреждений**, обратитесь в службу поддержки для проверки вручную.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Продажи представителям определенных отраслей](get-special-pricing-for-offers.md)
 

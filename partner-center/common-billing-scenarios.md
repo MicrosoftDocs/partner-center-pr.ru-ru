@@ -5,17 +5,17 @@ ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Изучите выставление счетов при добавлении новых подписок, изменении количества лицензий или отмене подписки. Узнайте, как отличаются подписки на использование и на основе лицензий.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 Keywords: выставление счетов, оплата, заказы, использование, выставление счетов на основе лицензий, Дата юбилея, термин, Отмена, продление цен, файл сверки, разведывательную-файл
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5337244ebdcb57418dd023669749ed618394ffa2
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: d79361271424de92a85ac7819353c8d2e906cdb6
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991597"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947928"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Распространенные сценарии выставления счетов для партнеров по программе CSP, работающих в центре партнеров
 

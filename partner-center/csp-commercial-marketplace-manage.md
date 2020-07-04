@@ -5,17 +5,17 @@ ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: С помощью центра партнеров вы узнаете, как поставщики облачных решений могут управлять предложениями сторонних поставщиков программного обеспечения, приобретенными для клиентов из коммерческого рынка.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: подписки, Marketplace, сторонние лица, независимые поставщики программного обеспечения, предложения SaaS, программа поставщика облачных решений, управление предложением, Управление подпиской, лицензии, отмена подписки, рабочие места, отключение автоматического продления, MPN идентификатор непрямого торгового посредника
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 484d99bda87ddcfa960b66f5b27a07d943fe1ebe
-ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
+ms.openlocfilehash: a2d64a18410ac5a668d7ace8f236716df21eb2bc
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/03/2020
-ms.locfileid: "85937629"
+ms.locfileid: "85947760"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Управляйте продуктами и предложениями коммерческих рынков для ваших клиентов
 
@@ -115,7 +115,7 @@ ms.locfileid: "85937629"
 
 Вы также можете использовать API центра партнеров для управления жизненным циклом и управления счетами для ваших подписок. Дополнительные сведения см. [в статье Создание подписки для продуктов коммерческого рынка](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Приобретение предложений коммерческих рынков](csp-commercial-marketplace-purchase.md)
 - [Сведения о выставлении счетов в коммерческом магазине](csp-commercial-marketplace-billing.md)

@@ -5,17 +5,17 @@ ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Используйте центр партнеров для реагирования на ссылки и управления новыми, существующими и архивированными интересами и ссылками. Узнайте, как получить дополнительные ссылки в будущем.
-author: LauraBrenner
-ms.author: labrenne
+author: sroy
+ms.author: sroy
 keywords: ссылки, совместная продажа, сделка
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e91035d860c9d7e7e908e7645756ca64e64d4828
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 9e086ae93493c26880b912130752e69adcbef58a
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328335"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949432"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Управление разными интересами, такими как запросы клиентов, интересы, квалифицированные в маркетинговых предложениях, и интересы, квалифицированные в продажах
 
@@ -96,7 +96,7 @@ ms.locfileid: "84328335"
 
 - **Сообщайте о примерных размерах сделок, датах закрытия и конечном состоянии своих сделок** (реализованные или потерянные). Мы будем использовать эти сведения, чтобы продолжить предоставлять ссылки с качеством.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Управление возможностями совместной продажи](manage-co-sell-opportunities.md)
 

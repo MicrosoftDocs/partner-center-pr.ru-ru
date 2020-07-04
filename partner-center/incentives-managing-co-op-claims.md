@@ -3,17 +3,17 @@ title: Управление утверждениями в совместных �
 description: Сведения о процессе обработки заявок на совместное выполнение, включая крайние сроки, проблемы с валютой и спорные вопросы об отклоненных заявках на совместное выполнение.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: e567b6bd0eaabb1dc705925e140f9de07c6f8a98
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 3a611ca37f1ddad53d1fdbf049645c7976a67d3f
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719430"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949491"
 ---
 # <a name="manage-co-op-claims"></a>Управление утверждениями в совместных операциях
 
@@ -27,7 +27,7 @@ ms.locfileid: "85719430"
 
 - Администратор программы поощрения
 
-## <a name="co-op-claims-approval-and-payment-deadlines"></a>Утверждение утверждений и сроков оплаты в совместных операциях
+## <a name="co-op-claims-approval-and-payment-deadlines"></a>Сроки утверждения совместных заявок на возмещение средств и выплат по ним
 
 ### <a name="when-will-my-co-op-claim-be-approved"></a>Когда заявка на совместное утверждение будет утверждена?
 

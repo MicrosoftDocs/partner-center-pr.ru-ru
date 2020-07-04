@@ -5,17 +5,17 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Узнайте, как и когда следует переносить определенных клиентов с истекшим сроком подписки Skype для бизнеса Online (план 1) на новые версии Office 365.
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 keywords: Планы Skype для бизнеса, прекращение поддержки Skype, Office 365
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e3a16450d9ac15785315a1b4b077e1872e1303a
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: 4202e146a470e2231ac33df9878be91e19fcddf3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84425963"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949618"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Перенос подписок Плана 1 для Skype для бизнеса Online в новые версии Office 365
 

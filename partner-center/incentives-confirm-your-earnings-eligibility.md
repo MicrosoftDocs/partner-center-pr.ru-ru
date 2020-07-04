@@ -1,21 +1,21 @@
 ---
-title: Подтверждение допустимости доходов
+title: Подтверждение соответствия вашей прибыли требованиям
 ms.topic: article
 ms.date: 06/29/2020
 description: Убедитесь, что вы имеете право на создание доходов и оплачиваете в рамках программы поощрения.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: c030c3009361fa5c41cad13650ab553dd26e4896
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 052cd36c06c9d1856fa3ccf6d257f806891a3303
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719460"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949697"
 ---
-# <a name="confirm-your-earnings-eligibility"></a>Подтверждение допустимости доходов
+# <a name="confirm-your-earnings-eligibility"></a>Подтверждение соответствия вашей прибыли требованиям
 
 Область применения:
 
@@ -34,7 +34,7 @@ ms.locfileid: "85719460"
 2. Прокрутите вниз, чтобы получить доступ к документам интересующей программы, и щелкните ссылку на документ для соответствующей программы.
 3. В документе см. разделы **Право на участие в партнерской программе** и **Соответствующие правила получения доходов**.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Как обратиться в службу поддержки за помощью в поощрениях](https://support.microsoft.com/help/4014850)
 - [Разделы справки найти администратора глобального или учетной записи в центре партнеров?](https://support.microsoft.com/help/4534519)

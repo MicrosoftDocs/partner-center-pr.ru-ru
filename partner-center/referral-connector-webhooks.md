@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Используйте API-интерфейсы веб-перехватчика центра партнеров, чтобы узнать, когда происходят изменения ресурсов ссылок для Dynamics 365 CRM или Salesforce CRM.
-author: LauraBrenner
-ms.author: labrenne
+author: sroy
+ms.author: sroy
 keywords: ссылки, API веб-перехватчика, события изменения ресурсов
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6d3cf5a4049f96f7eebce8d23c33ca79ad352ce5
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ed7cad26af447302cb0ccd1d8d359ce6b7bbe87f
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991888"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949341"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events-for-dynamics-365-crm-and-salesforce-crm"></a>Использование API-интерфейсов веб-перехватчика для регистрации событий изменения ресурсов для Dynamics 365 CRM и Salesforce CRM
 
@@ -39,7 +39,7 @@ ms.locfileid: "84991888"
 
 3. После выполнения этих обновлений вы увидите
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Веб-перехватчики":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Объекты Webhook":::
 
 4. Сохраните изменения и выберите **включить**.
 
@@ -179,7 +179,7 @@ ms.locfileid: "84991888"
 
    6. При выборе синхронизированной ссылки сведения о представлении карточки заполняются.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Дополнительные сведения о платформе Microsoft Power автоматизиру](https://docs.microsoft.com/power-automate/)
 

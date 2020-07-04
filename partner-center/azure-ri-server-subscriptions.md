@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о возможностях поставщиков облачных решений по приобретению, подготовке и управлению резервированиями Azure и серверными подписками для клиентов.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: Azure, подписки, виртуальная машина, резервирование, зарезервированный экземпляр
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e5e5d88b1f629b07932d37dedb70d0309a26dce
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: dacab1c67a12be5143946c7ede33e647e1373cbb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198632"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948270"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Получение, инициализация, & управление зарезервированными экземплярами виртуальных машин Azure (RI) и серверными подписками для клиентов
 
@@ -131,7 +131,7 @@ ms.locfileid: "85198632"
 
 Другое полезное обучение включает в себя [модуль лицензирования Azure в университете Partner](https://aka.ms/azure_partner_licensing).
 
-### <a name="operations"></a>Operations
+### <a name="operations"></a>Операции
 
 - [Руководство по современным коммерческим операциям](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (Обновлено): исчерпывающее руководство по ключевым политикам и рабочим аспектам, таким как соглашения, упорядочение по центру партнеров, счета, сведения о прайс-листах, поощрения, файл СВЕРКИ, API/SDK, песочница и общие службы партнеров Azure.
 - [Последние сведения о доступности предложений в странах и матрица валют для клиентов](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)

@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как партнеры по программе CSP могут использовать магазин партнеров для покупки предложений SaaS от независимых поставщиков программного обеспечения (ISV).
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: подписки, Marketplace, коммерческий магазин, сторонние лица, независимые поставщики программного обеспечения, предложения SaaS, программа поставщика облачных решений, покупка предложения, приобретение подписки
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c740ae823670644cb1f81c0a667d1fb48fc873ae
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 0450acd0cfe6586e26baf55c128e64c88f680ba9
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908082"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947694"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Приобретите продукты для коммерческого рынка для своих клиентов в центре партнеров
 
@@ -64,6 +64,6 @@ ms.locfileid: "82908082"
 
 7. Выберите конкретное предложение, а затем щелкните **создать**.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Управление предложениями коммерческих рынков](csp-commercial-marketplace-purchase.md)

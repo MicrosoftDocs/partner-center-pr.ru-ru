@@ -3,17 +3,17 @@ title: Ежегодная оплата — распространенные сц
 ms.topic: article
 ms.date: 05/05/2020
 description: Ежегодный выставление счетов в центре партнеров. при добавлении новых подписок, добавлении лицензий до даты выставления счетов, изменении количества лицензий или приостановке или повторной активации подписок.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 Keywords: выставление счетов, оплата, заказы, использование, выставление счетов на основе лицензий, Дата юбилея, термин, Отмена, продление цен, файл сверки, разведывательную-файл
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 447b8331e1d6e6e274915558e28ca59f50e8de09
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: ab6eabf44e5d3811721993e20b78e3038c80e828
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908892"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948042"
 ---
 # <a name="common-annual-billing-scenarios-in-partner-center"></a>Распространенные ежегодные сценарии выставления счетов в центре партнеров
 

@@ -5,17 +5,17 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как помочь клиенту изменить партнера программы CSP, связанного с подписками Azure этого клиента.
-author: LauraBrenner
-ms.author: labrenne
+author: dhirajgandhi
+ms.author: dhgandhi
 keywords: подписка azure, изменить партнера, сменить партнера, получить нового партнера, другой партнер
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
-ms.openlocfilehash: ba07f99301ddcbcb6f274bb1c603f14928d05257
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 65278a9c597fb240f87c04f215a8195a0cff3e19
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992130"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949094"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Узнайте, как передавать подписки Azure клиента другому партнеру.
 

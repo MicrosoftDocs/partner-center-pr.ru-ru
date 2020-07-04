@@ -5,18 +5,18 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как найти доменное имя и идентификатор каталога клиента при отправке утверждения.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 keywords: заявки на поощрения, заявления о сопоставлении, фонды совместных операций, OSA, ISV, прибыль, имя домена, идентификатор каталога
 ms.localizationpriority: medium
-ms.openlocfilehash: 09754404ddc0c0d11ad690fd33eccbbf67f2e3a0
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 10d881e38eefa6400389b05fc9635a575e545846
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722224"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947588"
 ---
-# <a name="find-your-customers-domain-name-and-directory-id"></a>Поиск доменного имени и идентификатора каталога клиента
+# <a name="find-your-customers-domain-name-and-directory-id"></a>Поиск доменного имени и идентификатора в каталоге для клиента
 
 **Относится к**
 
@@ -24,7 +24,7 @@ ms.locfileid: "74722224"
 
 **Соответствующие роли**
 
-- Агент администрирования
+- Агент по администрированию
 - Администратор программы поощрения
 - Пользователь программы поощрения
 - Глобальный администратор

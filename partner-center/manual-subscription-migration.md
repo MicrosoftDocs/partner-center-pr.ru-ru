@@ -5,17 +5,17 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как перейти от квалифицированных подписок Dynamics 365 к новой подписке до истечения срока действия подписок.
-author: LauraBrenner
-ms.author: labrenne
+author: Brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 Keywords: Версии Dynamics 365 предложения, продление предложений, новые номера SKU Dynamics 365
-ms.openlocfilehash: 1fb7a58d3c777f39bdd3594d6d2bc0be04fbf573
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 5225ff60399cd491009ecb16e4c17b4fc05c0052
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992099"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949650"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Перенос Dynamics 365 и плана Customer Engagement с "Базового" уровня (соответствующие предложения) в более новые версии
 

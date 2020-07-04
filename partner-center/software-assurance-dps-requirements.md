@@ -5,17 +5,17 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о требованиях к допустимости для каждого участия в службах планирования Software Assurance, которые компания может предложить корпоративным клиентам.
-author: LauraBrenner
-ms.author: labrenne
+author: mowrim
+ms.author: mowrim
 Keywords: Предварительное развертывание, планирование, Software Assurance, обязательства, требования, права, предложение
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18896a98145a1f0980f1eaea43b4a0ef46bc7423
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: 86e75059ace279bf3b6a6f78b3e77262792f84dc
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84425913"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949610"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Просмотр требований к допустимости для служб планирования
 
@@ -42,7 +42,7 @@ ms.locfileid: "84425913"
 | Планирование развертывания Exchange<br/><br/> Планирование развертывания Skype для бизнеса  | [Skype для бизнеса и службы планирования развертывания Exchange (S-ЕДПС)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 | Модернизацииность данных  | [Службы планирования развертывания SQL Server (ССДПС)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Рабочий процесс служб планирования Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [Вопросы и ответы по службам планирования Software Assurance](https://go.microsoft.com/fwlink/?linkid=2116077)

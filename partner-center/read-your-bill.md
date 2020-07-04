@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 description: Сведения о счетах & файлов выверки. Счет показывает расходы центра партнеров по программе, продуктам и клиентам за этот ежемесячный период.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: выставление счетов за подписки, выставление счетов, выставления счетов в центре партнеров, просмотр счета, счет, счет центра партнеров, счет CSP, где мой счет?
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df330ce2e66cf198ce97919c02a15eb7a50f6486
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 40809fbca8ed81882e9b1d315fd5967143faff1e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991881"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949312"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Сведения о файле счета и выверке — Узнайте, как их найти в центре партнеров
 
@@ -37,7 +37,7 @@ ms.locfileid: "84991881"
 
 Корпорация Майкрософт выпустит один счет для всех платежей на основе лицензий (например, Office 365) и оплаты за использование (например, Azure), а также отдельный счет за одноразовую оплату (например, Azure RI, Marketplace или Azure Plan).
 
-Например,  
+Например, примененная к объекту директива  
 
 **Сценарий 1 [Единая валюта]**: у партнера есть покупки для предложения 145P и лицензий Office 365.  
 

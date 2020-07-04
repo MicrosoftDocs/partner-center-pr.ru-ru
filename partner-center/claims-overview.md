@@ -5,16 +5,16 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как отправлять заявки на использование стимулов без предварительного требования, чтобы проверить план действий.
-author: LauraBrenner
-ms.author: labrenne
+author: kaushikgMSFT
+ms.author: kaushikg
 keywords: заявки на возмещение средств в рамках программы поощрения, совместные заявки, совместные фонды
 ms.localizationpriority: medium
-ms.openlocfilehash: f966406c0cc5e2bb427cd07a14755f41f1b55b28
-ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
+ms.openlocfilehash: 4b789b3243231307e3aa969b52498117199f4612
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84776281"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948086"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Обзор совместных заявок на возмещение средств в рамках программ поощрения
 

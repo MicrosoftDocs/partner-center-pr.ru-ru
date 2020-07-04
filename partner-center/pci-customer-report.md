@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о способах улучшения бизнеса. Ознакомьтесь с конкретными тенденциями клиентов по географическому, по продуктам и другим атрибутам.
 keywords: PCI, производительность, успешный клиент, измерения,
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d9ccd23c0a028a8fb42d71cbf7db45f1a5497573
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 0680a1f88517e12fc1625593f9fb34cc7cc66b81
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991953"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949361"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Отчеты на панели мониторинга клиентов в центре партнеров Insights
 
@@ -94,6 +94,6 @@ ms.locfileid: "84991953"
 
 :::image type="content" source="images/pci/activecustomer.png" alt-text="Снимок экрана: активные клиенты, показывающие, что в отчете отображаются линейчатые диаграммы, за время активных клиентов.":::
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 Дополнительные отчеты см. в статье [Partner Center Insights](partner-center-insights.md).

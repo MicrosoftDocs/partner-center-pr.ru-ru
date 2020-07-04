@@ -5,17 +5,17 @@ ms.date: 06/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как зарегистрироваться в программе "ваучер обучения Software Assurance", чтобы вы могли компенсировать доставку и планирование для корпоративных клиентов.
-author: LauraBrenner
-ms.author: labrenne
+author: mowrim
+ms.author: mowrim
 keywords: купоны на обучение, Software Assurance, обучение, регистрация в SATV, SATV
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 0d14a588e24488b4d45b52540e8d749cbf8bdbad
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: e4910ed3301e6399f9ce6ab26bfc69c7257e2bff
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788798"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949559"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Программа Software Assurance Training Voucher (SATV) в Центре партнеров
 

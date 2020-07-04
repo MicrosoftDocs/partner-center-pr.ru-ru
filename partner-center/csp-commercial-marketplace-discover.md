@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как партнеры CSP могут использовать центр партнеров для просмотра и поиска предложений SaaS или получения цен от независимых поставщиков программного обеспечения (ISV).
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: подписки, Marketplace, коммерческий магазин, сторонние лица, независимые поставщики программного обеспечения, предложения SaaS, программа поставщика облачных решений, программа CSP, партнеры CSP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10653e41adee052b43ed092f4fd9bb48b79a1355
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 3a4576faeeeed6bddd86bb3ec8d340af91adf408
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908111"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947763"
 ---
 # <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>Ознакомьтесь с предложениями и ценами в коммерческом магазине по центру партнеров
 
@@ -106,6 +106,6 @@ ms.locfileid: "82908111"
 
 Дополнительные сведения о работе CSP в Marketplace см. в статье [Обзор коммерческого рынка](csp-commercial-marketplace-overview.md).
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Приобретение предложений коммерческих рынков](csp-commercial-marketplace-purchase.md)

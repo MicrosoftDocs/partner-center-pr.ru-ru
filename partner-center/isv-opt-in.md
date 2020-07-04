@@ -5,18 +5,18 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как независимые поставщики программного обеспечения (ISV) делают определенные предложения эксклюзивными и доступны только определенным партнерам CSP.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46acf2a5d443075f840dbc24d26fc727d873f521
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: bc997d302b2ccd4dffa7708a9ec1cad60b09f998
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794842"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949443"
 ---
-# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Исключительные предложения Marketplace от независимых поставщиков программного обеспечения
+# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Эксклюзивные предложения от независимых поставщиков программного обеспечения в Marketplace
 
 **Соответствующие роли**
 
@@ -44,7 +44,7 @@ ms.locfileid: "83794842"
 - Определение партнеров, которые могут приобрести
 - Недоступно партнерам CSP
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - Дополнительные сведения о работе ISV в коммерческом магазине см. в статье [поставщики облачных решений](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).
 

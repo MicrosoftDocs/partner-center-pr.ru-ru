@@ -5,17 +5,17 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 Keywords: Подписка, самостоятельная покупка, самостоятельная RI, включение RI, отключение RI, самостоятельная служба, покупка клиентов, разрешения клиентов, зарезервированный экземпляр клиента, покупка резервирования, клиент закупок Azure, включение самообслуживания, отключение самообслуживания
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d04f7aad779a6bf3be08b24f43da6abc4dfdac4d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 0c507aae75dad4a1dce5dc9746ebe9f7ed48f040
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795113"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947461"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Предоставление клиентам доступа в центре партнеров для приобретения своих продуктов или услуг
 
@@ -66,7 +66,7 @@ ms.locfileid: "83795113"
 
 ## <a name="give-customers-permission-to-buy-their-own-azure-reservations"></a>Предоставление клиентам разрешения на приобретение собственных резервирований Azure
 
-Резервирование Azure — это отличный способ приобрести службы Azure со скидкой. Дополнительные сведения о преимуществах резервирования Azure см. в статье [что такое резервирование Azure?](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations)
+Резервирования Azure — это отличный способ приобрести службы Azure со скидкой. Дополнительные сведения о преимуществах резервирования Azure см. в статье [что такое резервирование Azure?](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations)
 
 Теперь у вас есть возможность приобрести резервирование Azure от имени клиентов, как уже было сделано. Вы также можете предоставить клиентам разрешение на приобретение собственных резервирований Azure.
 
@@ -158,7 +158,7 @@ ms.locfileid: "83795113"
 
 **Что делать, если клиенты хотят выполнить обмен, отменять или продлить приобретенную покупку или изменить начальную область резервирования?** Клиенты должны попросить партнера помочь им изменить начальную область резервирования. Им также требуется помощь партнера по обмену, отмене или продлению резервирования. Они не могут выполнять эти задачи с помощью резервирования на основе подписок, приобретенных для них партнером CSP.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Приобретение резервирований Azure от имени ваших клиентов](azure-reservations-buying.md)
 
