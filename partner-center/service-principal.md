@@ -5,18 +5,18 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как добавить субъект-службу в клиент Azure AD. Подразумевается добавление приложения Azure AD (субъекта-службы) в Центре партнеров.
-author: LauraBrenner
-ms.author: labrenne
+author: dhirajgandhi
+ms.author: dhgandhi
 Keywords: Azure, план Azure, субъект-служба, приложение Azure AD
 robots: ''
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d37fe2134d02063819abeb89e2f1b6a63e0ba505
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: bd2880f57d1ccb3c3675fef4fae7499f7ac02f4b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679391"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949628"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Добавление приложения Azure AD (субъекта-службы) в Центре партнеров
 

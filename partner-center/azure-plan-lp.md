@@ -5,18 +5,18 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте об использовании планов Azure для приобретения служб Azure с оплатой по мере использования для клиентов. Узнайте также о новых требованиях к безопасности.
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 Keywords: Azure, план Azure, приобретение подписок, подписки
 robots: ''
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1e5aeb04c7f37dfc777ece6b7190b8ae7e04ebe2
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 77e99f8151227650639f9bd9b54a794985db4554
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908355"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948430"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Введение. План Azure позволяет партнерам приобретать для клиентов службы Azure с оплатой по мере использования
 
