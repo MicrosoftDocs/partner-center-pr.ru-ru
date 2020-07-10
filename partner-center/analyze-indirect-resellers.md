@@ -4,18 +4,18 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Используйте аналитику, чтобы узнать, как выполняются непрямые торговые посредники, как их успеха, так и области, которые могут потребовать больше внимания.
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: бизнес-данные
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3bdc3e149d445a1d43f24d54e16c04464bea807e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 33d435b6497f84d87ce866624deb47e2bd6ebc89
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947419"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175972"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Анализ производительности непрямых торговых посредников с помощью аналитики
 
@@ -35,6 +35,8 @@ ms.locfileid: "85947419"
 
 > [!NOTE]
 > Средства анализа косвенных торговых посредников доступны только партнерам, участвующим в программе поставщиков облачных решений.
+
+## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>Типы метрик аналитического посредника, которые вы можете просматривать
 
 Мы отслеживаем следующие метрики:
 
@@ -69,4 +71,6 @@ ms.locfileid: "85947419"
  - **Подписки**: количество проданных торговым посредником подписок  
  - **Лицензии**: общее количество лицензий, которые торговый посредник продал для всех подписок  
   
-  
+## <a name="next-steps"></a>Дальнейшие действия
+
+- [Анализ подписок и лицензий для принятия бизнес-решений](analyze-subscriptions-licenses.md)

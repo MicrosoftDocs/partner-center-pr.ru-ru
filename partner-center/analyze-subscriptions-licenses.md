@@ -1,23 +1,23 @@
 ---
-title: Анализ подписок и лицензий | Центр партнеров
-ms.date: 11/13/2019
+title: Анализ подписок и лицензий
+ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Узнайте, как использовать метрики на странице "Подписка и анализ лицензий" для выяснения успеха и областей, требующих дополнительных внимания.
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: бизнес-данные
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 6248b3fcf99bba9aaaa3984b40346c97ce5e37bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: bef5eb909b5ad739325c87b774fb738e89c26ac0
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948590"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175955"
 ---
-# <a name="analyze-subscriptions-and-licenses"></a>Анализ подписок и лицензий 
+# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Проанализируйте подписки и лицензии, чтобы помочь вам в принятии бизнес-решений и новых целей.
 
 **Относится к**
 
@@ -44,6 +44,8 @@ ms.locfileid: "85948590"
  - **Microsoft 365**: данные Microsoft 365  
  - **Office 365**: данные Office 365  
 
+
+## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>Типы подписок и лицензионных показателей, которые можно просматривать
 
 Мы отслеживаем следующие метрики:
 
@@ -77,4 +79,6 @@ ms.locfileid: "85948590"
 **Пробные подписки, срок действия которых истекает в течение 30 дней**  
  - Список действующих пробных версий, срок действия которых заканчивается в течение 30 дней и для которых дата начала платного использования не связана с подпиской  
 
-  
+## <a name="next-steps"></a>Дальнейшие действия
+
+- [Анализ производительности непрямых торговых посредников](analyze-indirect-resellers.md)

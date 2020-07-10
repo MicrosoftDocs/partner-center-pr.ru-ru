@@ -9,19 +9,19 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d2e6f6bba4b095895db5cc7edc1d58daa0f210b
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 4af506399707f5efafae2fdf919ba7aee643fc67
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947612"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175826"
 ---
 # <a name="customize-the-microsoft-catalog-with-offers-or-products-most-suited-to-your-organization"></a>Настройка каталога Майкрософт с предложениями или продуктами, наиболее подходящими для вашей организации
 
 **Относится к**
 
--  Центр партнеров
--  Центр партнеров для Microsoft Cloud for US Government
+- Центр партнеров
+- Центр партнеров для Microsoft Cloud for US Government
 
 **Соответствующие роли**
 
@@ -31,7 +31,7 @@ ms.locfileid: "85947612"
 
 В каталоге перечислены все продукты и надстройки Майкрософт, которые вы можете предлагать клиентам. Предлагаемые товары сгруппированы отдельно по сегментам заказчиков, таким как предприятия, малый бизнес и государственные учреждения. Чтобы упростить для пользователей процесс выбора товаров, наиболее часто используемых в организации, или продемонстрировать новые товары вашим агентам по продажам, вы можете закрепить до пяти предложений в начале списка.
 
-**Настройка каталога**
+## <a name="customize-the-catalog"></a>Настройка каталога
 
-1.  Перейдите в меню Центр партнеров &gt; **Sell** &gt; **Каталог**продаж.
-2.  Выберите не более пяти предложений для отображения вверху каталога.
+1. Перейдите в меню Центр партнеров &gt; **Sell** &gt; **Каталог**продаж.
+2. Выберите не более пяти предложений для отображения вверху каталога.
