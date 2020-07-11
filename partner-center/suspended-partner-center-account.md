@@ -5,18 +5,18 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как восстановить приостановленную учетную запись Центра партнеров, причины приостановки учетной записи партнера и как можно использовать учетную запись во время приостановки.
-author: LauraBrenner
-ms.author: labrenne
+author: kbangalore
+ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 514480372d1717159f9dff6cb3b3b2e575c069b8
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 07d9f4f484a7c7803d5b7a41d1d8fe0f698b58d3
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991799"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219652"
 ---
-# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Восстановление приостановленной учетной записи центра партнеров. Узнайте, почему она происходит и что делать с ней.
+# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Восстановление заблокированной учетной записи в Центре партнеров. Почему это происходит, и что делать в таких случаях
 
 В этой статье объясняется, что делать, если учетная запись Центра партнеров заблокирована.
 
@@ -27,7 +27,7 @@ ms.locfileid: "84991799"
 
 
 > [!IMPORTANT]  
-> Если ваша учетная запись Центра партнеров приостановлена, вы можете продолжать управлять существующими развертываниями, лицензиями и службами. Однако вы не сможете авторизовать или продавать новые лицензии или службы, пока ваша учетная запись не будет снова подключена.
+> Если ваша учетная запись в Центре партнеров заблокирована, вы можете управлять существующими развертываниями, лицензиями и службами. Но вы не сможете авторизовать или перепродать новые лицензии или службы, пока ваша учетная запись не будет восстановлена.
 
 ## <a name="why-partner-center-accounts-are-suspended"></a>Причины блокировки учетных записей Центра партнеров
 

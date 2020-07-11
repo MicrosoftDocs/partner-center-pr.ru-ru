@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как использовать центр партнеров для проверки работоспособности службы для клиента при возникновении проблем со службой.
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 Keywords: работоспособность, работоспособность службы, проблемы службы
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 345f85454b21eb339179f9f8bdf7bea376ce48ed
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 110e47e18620230c8f152864d8e61b5847bb8c51
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991638"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219542"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Проверка работоспособности службы для клиента, который сообщает о возможной проблеме или сбое службы
 

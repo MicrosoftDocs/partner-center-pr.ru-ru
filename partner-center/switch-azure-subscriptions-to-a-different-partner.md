@@ -1,21 +1,20 @@
 ---
 title: Перенос подписки Azure на другого партнера
 ms.topic: article
-ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте, как помочь клиенту изменить партнера программы CSP, связанного с подписками Azure этого клиента.
-author: dhirajgandhi
-ms.author: dhgandhi
-keywords: подписка azure, изменить партнера, сменить партнера, получить нового партнера, другой партнер
+description: Узнайте, как изменить партнера программы поставщика облачных решений, связанного с подписками Azure клиента.
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 65278a9c597fb240f87c04f215a8195a0cff3e19
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+author: dhirajgandhi
+ms.author: dhgandhi
+ms.date: 07/10/2020
+ms.openlocfilehash: 688208dc94b2be7c641065bbc262241a488d9152
+ms.sourcegitcommit: 51b8acee427a8130d20b4a82d1ac107f962a51db
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949094"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86237974"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Узнайте, как передавать подписки Azure клиента другому партнеру.
 
@@ -52,9 +51,9 @@ ms.locfileid: "85949094"
 
      На шаге 2 выберите **C — минимальные последствия** и в качестве типа проблемы выберите **другие общие вопросы** .
 
-     Скачайте [форму передачи подписки CSP](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip).
+     Скачайте [форму передачи подписки CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
 
-3. Партнер для подписки: заполните [форму передачи подписки CSP](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip), подпишите ее и отправьте клиенту. Чтобы заполнить форму, вам потребуются следующее сведения:
+3. Партнер для подписки: заполните [форму передачи подписки CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA), подпишите ее и отправьте клиенту. Чтобы заполнить форму, вам потребуются следующее сведения:
 
    - Контактные данные и идентификатор Майкрософт текущего партнера. В меню Центра партнеров выберите **Параметры учетной записи** &gt; **Профиль организации** и используйте **идентификатор Майкрософт**, **название организации** и **адрес**, указанные здесь.
 
