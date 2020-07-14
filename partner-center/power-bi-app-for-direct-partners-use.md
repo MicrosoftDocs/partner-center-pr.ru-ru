@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как просматривать бизнес-данные с помощью приложения аналитики центра партнеров для Power BI (для прямых партнеров в CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
-author: LauraBrenner
-ms.author: labrenne
+author: v-sumukh
+ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 684ddb00a0497e01fc0fff318000c4b17dd0ea53
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 248527fdbc536c552f7b2d00f208838b4ef19085
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795863"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302290"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Просматривайте бизнес-данные с помощью приложения "Аналитика Центра партнеров для Microsoft Power BI"
 
@@ -164,7 +164,7 @@ ms.locfileid: "83795863"
 
 - **Оценочная стоимость использования ресурсов Azure за выбранный период**: Оценочная стоимость на основе последней тарифной карты для каждого отслеживаемого ресурса в каждой подписке на основе использования в течение последних 60 дней. 
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Обзор приложения "Аналитика Центра партнеров для Power BI"](power-bi-app-for-direct-partners.md)
 

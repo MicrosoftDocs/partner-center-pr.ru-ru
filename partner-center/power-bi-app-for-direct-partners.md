@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Изучите этот обзор и часто задаваемые вопросы о приложении аналитики центра партнеров для Power BI.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
-author: LauraBrenner
-ms.author: labrenne
+author: v-sumukh
+ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eacf0408e8ee87b6eeb15a2c61e24e6056cd593c
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 54301590ce6be6d9076d1fb337979148455f25f6
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795857"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302311"
 ---
 # <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Обзор и часто задаваемые вопросы по приложению аналитики центра партнеров для Power BI (прямые партнеры в CSP)
 
@@ -64,7 +64,7 @@ ms.locfileid: "83795857"
 
 
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 [Установка приложения "Аналитика Центра партнеров для Microsoft Power BI" и ознакомление с ним](power-bi-app-for-direct-partners-install.md)
 

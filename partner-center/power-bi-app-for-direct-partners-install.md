@@ -1,21 +1,21 @@
 ---
 title: Установка аналитики центра партнеров для Power BI
 ms.topic: article
-ms.date: 05/19/2020
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Выполните действия, описанные в этой статье, чтобы установить и просмотреть приложение аналитики центра партнеров для Power BI (для прямых партнеров в CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
-author: LauraBrenner
-ms.author: labrenne
+author: v-sumukh
+ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 36efc58198be67181ed448d90db505889c3070d4
-ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
+ms.openlocfilehash: 64467ec608c2ca87dbc2b7d5dfb02adb08f13c18
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "85072420"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302331"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Установить и ознакомиться с приложением "Аналитика Центра партнеров для Microsoft Power BI"
 
@@ -32,11 +32,11 @@ ms.locfileid: "85072420"
 ## <a name="before-you-begin"></a>Перед началом
 
 Выберите приложение, которое наиболее релевантно для вашего бизнеса, в следующем списке доступных Power BI приложений:
-- [Прямой поставщик](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
+- [Прямой поставщик](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
-- [Косвенный поставщик](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
+- [Косвенный поставщик](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
 
-- [Непрямой Торговый посредник](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
+- [Непрямой Торговый посредник](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
 
 Перед установкой предварительной версии приложения "Аналитика Центра партнеров" убедитесь, что соблюдены следующие требования.
 
@@ -85,6 +85,6 @@ ms.locfileid: "85072420"
 
 После завершения загрузки данных вы можете приступить к использованию информационной панели и отчетов приложения "Аналитика Центра партнеров" в Power BI.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 [Просматривайте бизнес-данные с помощью приложения "Аналитика Центра партнеров для Microsoft Power BI"](power-bi-app-for-direct-partners-use.md)

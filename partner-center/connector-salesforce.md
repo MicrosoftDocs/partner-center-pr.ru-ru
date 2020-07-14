@@ -5,15 +5,15 @@ ms.date: 05/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Синхронизация ссылок в центре партнеров с помощью Salesforce CRM
-author: LauraBrenner
-ms.author: labrenne
+author: sroy
+ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: e51ddc8ec3ea568a20404801802548f79cae43d0
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 0a22587f5b555281cae6f557acfc2695ba92727e
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991623"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302381"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Соединитель для совместных продаж для Salesforce CRM — обзор
 
@@ -28,7 +28,7 @@ ms.locfileid: "84991623"
 
 ## <a name="before-you-install---pre-requisites"></a>Перед установкой предварительных требований
 
-|**Разделы**   |**Сведения**   |**Источники**   |
+|**Разделы**   |**Сведения**   |**Ссылки**   |
 |--------------|--------------------|------|
 |Идентификатор Microsoft Partner Network |Требуется допустимый идентификатор MPN|Присоединение к [MPN](https://partner.microsoft.com/)|
 |Готовность к совместной продаже|Ваше решение для работы с IP-адресами и службами должно быть готово к совместной продаже.|[Продажа с Майкрософт](https://partner.microsoft.com/membership/sell-with-microsoft)| 
@@ -121,7 +121,7 @@ ms.locfileid: "84991623"
 
 3. При выполнении этих обновлений вы увидите
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Веб-перехватчики":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Объекты Webhook":::
 
 4. Сохраните изменения и выберите **включить**.
 
@@ -226,7 +226,7 @@ ms.locfileid: "84991623"
 
 3. Выбор **полей & связей** в левой области навигации
 
-   :::image type="content" source="images/salesforce/fields1.png" alt-text="Fields":::
+   :::image type="content" source="images/salesforce/fields1.png" alt-text="Поля":::
 
 4. Добавьте в **поля & таблицу связей** следующие поля:
 
@@ -320,7 +320,7 @@ ms.locfileid: "84991623"
 
     6. При выборе синхронизированной ссылки сведения о представлении карточки заполняются.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Дополнительные сведения о платформе Microsoft Power автоматизиру](https://docs.microsoft.com/-automate/)
 

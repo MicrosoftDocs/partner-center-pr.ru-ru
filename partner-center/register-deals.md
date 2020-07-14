@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: При регистрации сделки, которую вы выиграли в центре партнеров, она помогает корпорации Майкрософт предоставить вам больше возможностей в будущем.
-author: LauraBrenner
-ms.author: labrenne
+author: rajap-ms
+ms.author: rajap
 keywords: Регистрация сделки
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bb638d82315be392181ebad17040723d164119b
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 782eee28a7bd26131d15d449d451a4c29050fd4a
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467414"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302261"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Зарегистрируйте сделки, которые вы выиграли в центре партнеров, чтобы вы могли получить дополнительные возможности позже.
 
