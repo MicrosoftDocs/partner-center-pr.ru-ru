@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Чтобы работать с Центром партнеров, необходимо сначала проверить принадлежность вашего домена. Узнайте, как это сделать и как стать глобальным администратором, который может добавлять пользователей.
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 keywords: домен, проверка домена, глобальный администратор, роли пользователей, разрешения
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2aed5fa0c8e80f056d643dbfd7c55b3a156331e7
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: b9081796263e109e65a633b0a492d4bd58c7fa0a
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908260"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948239"
 ---
 # <a name="verify-your-domain-ownership"></a>Проверка владения доменом
 
@@ -36,7 +36,7 @@ ms.locfileid: "82908260"
 
 ## <a name="verify-your-domain-ownership-and-become-a-global-admin-in-partner-center"></a>Проверка прав владения доменом и получение роли глобального администратора в Центре партнеров
 
-1. В Центре партнеров на странице **Предложение членства** выберите **Стать глобальным администратором**. 
+1. В панели мониторинга Центра партнеров на странице **Предложение членства** выберите **Стать глобальным администратором**. 
 
 2. На странице **Проверка владения доменом** скопируйте значения TXT из таблицы. Обратите внимание, что ваш домен уже выбран.
 
