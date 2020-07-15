@@ -1,22 +1,23 @@
 ---
-title: Основные требования к совместным заявкам на возмещение средств в рамках программ поощрения | Центр партнеров
+title: Основные требования к заявкам на возмещение средств в рамках программ поощрений
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Узнайте о требованиях для отправки заявки на возмещение средств в Центре партнеров по конкретному типу действий в рамках программы совместных поощрений.
+description: Узнайте, как создать спрос, понять тенденции развития рынка и максимально повысить готовность партнеров к работе в рамках программы поощрения.
 author: kim-davis
 ms.author: kimnich
 keywords: заявки на возмещение средств в рамках программы поощрения, совместные заявки, совместные фонды, основные требования
 ms.localizationpriority: high
-ms.openlocfilehash: ec231bf62c302f48cbdb66994433277c96e3f862
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: 9ba2ea7a19309443f847322e847666e78ecf058b
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947868"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377618"
 ---
-# <a name="core-requirements-for-incentives-co-op-claims"></a>Основные требования к заявкам на возмещение средств в рамках программ поощрений
+# <a name="incentives-co-op-claims-core-requirements"></a>Основные требования к совместным заявкам на возмещение средств в рамках программы поощрения
 
 **Относится к**
 

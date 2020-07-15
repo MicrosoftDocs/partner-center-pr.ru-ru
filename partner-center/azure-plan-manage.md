@@ -5,16 +5,16 @@ ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о том, как партнеры могут использовать разные параметры управления доступом на основе ролей (RBAC), чтобы обеспечить операционный контроль над ресурсами Azure клиента.
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d06ada3cc16949da9a457b4515978444887ed56
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1d89c74ac9adb689e1b349a38de7ac49eb6c8076
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948437"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175950"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Управление подписками и ресурсами в плане Azure
 
@@ -29,9 +29,9 @@ ms.locfileid: "85948437"
 
 - **Azure Lighthouse**. AOBO не позволяет создавать отдельные группы для разных клиентов либо включать разные роли для различных групп или пользователей. С помощью Azure Lighthouse можно назначить разные группы для различных клиентов или ролей. Так как у пользователей будет соответствующий уровень доступа благодаря делегированному управлению ресурсами Azure, можно будет сократить число пользователей с ролью агента-администратора (т. е. имеющих полный доступ AOBO). Это поможет повысить безопасность, предоставляя только необходимый уровень доступа к ресурсам клиента. Кроме того, это повышает гибкость управления несколькими клиентами в соответствующем масштабе. Дополнительные сведения см. в статье [Azure Lighthouse и программа поставщиков облачных решений](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider).
 
--  **Каталог, гостевые пользователи или [субъекты-службы](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** . Вы можете делегировать детализированный доступ к подпискам CSP, добавив пользователей в каталог клиента или добавив гостевых пользователей и назначив им определенные роли RBAC. 
+-  **Каталог, гостевые пользователи или [субъекты-службы](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** . Вы можете делегировать детализированный доступ к подпискам CSP, добавив пользователей в каталог клиента или добавив гостевых пользователей и назначив им определенные роли RBAC.
 
-Из соображений безопасности корпорация Майкрософт рекомендует предоставлять пользователям минимальные разрешения, необходимые для работы. Ознакомьтесь с разделом [Что такое Azure AD Privileged Identity Management?](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure) 
+Из соображений безопасности корпорация Майкрософт рекомендует предоставлять пользователям минимальные разрешения, необходимые для работы. Ознакомьтесь с разделом [Что такое Azure AD Privileged Identity Management?](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)
 
 ## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>Привязка идентификатора партнера (ИД MPN) к учетным данным для управления ресурсами Azure клиента
 
@@ -56,28 +56,27 @@ ms.locfileid: "85948437"
 
 1. Создайте оповещение.
 
-:::image type="content" source="images/azure/azurealert1.png" alt-text="Оповещение Azure":::
+   :::image type="content" source="images/azure/azurealert1.png" alt-text="Оповещение Azure":::
 
 2. Выберите тип действия для оповещения. Например, если вы укажете, что хотите получать электронное сообщение, то вы будете получать сообщения, уведомляющие об удалении любого назначения роли.
 
-:::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Настройка оповещения":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Настройка оповещения":::
 
 ### <a name="aobo-removal"></a>Удаление AOBO
 
 Клиенты могут управлять доступом к своим подпискам, перейдя в раздел **Контроль доступа** на портале Azure. На вкладке **Назначения ролей** они могут выбрать **Удалить доступ**. В этом случае можно сделать следующее.
 
 - Обратитесь к клиенту, чтобы узнать, можно ли восстановить административный доступ.
+
 - Используйте возможности [управления доступом на основе ролей (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview).
+
 - Используйте доступ посредством [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/).
 
 Доступ на основе ролей отличается от административного доступа. Роли позволяют точно указать, что доступно, а что запрещено. Административный доступ является более обширным.
 
 Чтобы узнать, какие роли подходят для получения партнерских баллов, изучите таблицу [ролей и разрешений для начисления партнерских баллов](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2).
 
-
-
-
-**Дополнительные сведения**
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Отзыв и возобновление использования привилегий администратора для подписок Azure в CSP](revoke-reinstate-csp.md)
 

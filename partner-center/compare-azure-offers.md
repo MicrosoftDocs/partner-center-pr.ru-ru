@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Сравните предложения новой коммерческой платформы компании Майкрософт для партнеров в рамках программы поставщика облачных решений (CSP).
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a68009f213ac31210b5c1c142116e8057231c3ed
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 5160c494dbd6b64fd6f1c29ce7d3ffcf0d83730b
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908742"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377628"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Сравнительная характеристика предложений Azure в программе CSP
 
@@ -26,8 +26,11 @@ ms.locfileid: "84908742"
 - Агент службы технической поддержки
 - Агент по продажам
 
-В следующей таблице представлен обзор основных различий между предложениями, доступными через программу поставщиков облачных решений (CSP), которая является частью новой коммерческой модели корпорации Майкрософт.
+В этой статье описываются основные различия между предложениями Azure в рамках программы "Поставщик облачных решений" (CSP).
 
+## <a name="overview-of-key-differences-between-azure-offers"></a>Обзор ключевых различий между предложениями Azure
+
+В следующей таблице представлены основные различия между предложениями в рамках программы CSP, которые включены в новую коммерческую модель Майкрософт.
 
 |**Предложение**| **План Azure**|**Сторонние предложения в marketplace**|**Резервирования Azure**|**Серверные подписки, продаваемые через программу CSP**|**Предложения на основе рабочих мест**|
 |-------------------|:------|:-----|:---------|:--------------|:---------|
@@ -44,11 +47,10 @@ ms.locfileid: "84908742"
 
 * Корпорация Майкрософт предоставит интерфейсы API прейскурантов в 4-м квартале, чтобы обеспечить программный доступ к ценам на Azure в реальном времени.
 
-**Дополнительные сведения**
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Приступая к переходу на план Azure](azure-plan-get-started.md)
 
 - [Приобретение плана Azure](purchase-azure-plan.md)
 
 - [Управление подписками и ресурсами в плане Azure](azure-plan-manage.md)
-
