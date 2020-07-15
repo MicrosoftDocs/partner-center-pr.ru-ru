@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Как квалифицированный партнер Майкрософт, вы можете совместно продавать с корпорацией Майкрософт. Узнайте, как определять задействования, приглашать Майкрософт для совместной работы или просматривать отправленные задействования.
 author: sroy
-ms.author: jenhayes
+ms.author: sroy
 keywords: автор, запрос информации, поиск партнера
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 63b046422d76864b0836cd85483a0a3aebfe8b25
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 6297fc3f43fbb19d4d1501e812d8b8350031ddef
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948054"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390561"
 ---
 # <a name="co-sell-with-microsoft"></a>Совместные продажи с Майкрософт
 
@@ -31,7 +31,7 @@ ms.locfileid: "85948054"
 Как квалифицированный партнер Майкрософт, у вас есть возможность совместно продаваться с корпорацией Майкрософт. Эта совместная работа помогает вам принимать решения на рынке, выручку за совместную работу и обеспечить успешное выполнение клиентов.
 
 > [!IMPORTANT]
-> Для совместной продажи с корпорацией Майкрософт партнерам требуется коммерческое решение, группа по продажам и строгая стратегия перехода на рынке. Они также должны соответствовать определенным дополнительным критериям. Дополнительные сведения см. в разделе [готовность к совместной продаже](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
+> Для совместной продажи с корпорацией Майкрософт партнерам требуется коммерческое решение, активная группа по продажам и сильная стратегия выхода на рынок. Они также должны удовлетворять дополнительным критериям. Дополнительные сведения см. в разделе [готовность к совместной продаже](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
 
 ## <a name="invite-microsoft-to-collaborate-on-an-engagement"></a>Пригласите Майкрософт для совместной работы над участием
 

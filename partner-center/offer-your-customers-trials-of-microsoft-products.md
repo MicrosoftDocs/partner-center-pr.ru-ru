@@ -5,16 +5,16 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Позвольте клиентам опробовать продукты подписки Майкрософт в течение 30 дней. Подпишитесь на эти бесплатные пробные версии в каталоге так же, как и многие другие веб-службы.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3cb1b2104119a28b376301637e559df76392d65c
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 3a940370e50579e09cd24467145decbc6ec4f98a
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175990"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377778"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Предоставьте клиентам 30-дневные бесплатные пробные версии продуктов Майкрософт
 

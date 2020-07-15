@@ -1,22 +1,23 @@
 ---
-title: Доступ к странице "выплаты поощрения" | Центр партнеров
+title: Доступ к странице "выплата"
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Узнайте, как получить доступ к сведениям о выплатах. Это относится к выплатам приложений и игр Windows, а также MPN стимулам.
+description: Узнайте, как получить доступ к сведениям о выплатах для приложений и игр Windows, MPN поощрения и коммерческих компаний для независимых поставщиков программного обеспечения.
 author: kim-davis
 ms.author: kimnich
 keywords: Поощрения, выплата
 ms.localizationpriority: medium
-ms.openlocfilehash: 4da575605baab09c3b1f349b52760e89ae20d746
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: b2ccca4afc16716d24074a30859cf7ab910e6391
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949464"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377728"
 ---
-# <a name="access-your-incentives-payouts-page"></a>Доступ к странице выплат по программам поощрений
+# <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>Получение доступа к страницам выплат для приложений и игр Windows, MPN поощрения и коммерческих магазинов
 
 **Соответствующие роли**
 -   Глобальный администратор

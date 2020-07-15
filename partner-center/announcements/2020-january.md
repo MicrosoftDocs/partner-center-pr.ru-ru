@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/01/2020
-ms.openlocfilehash: 93e29f5ed6409e244768136b1f7609a8e8e3391e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.date: 07/10/2020
+ms.openlocfilehash: 1de1cebbf42eb03e375af2210bbae2d2ed55e5d8
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84678941"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286612"
 ---
 # <a name="january-2020-announcements"></a>Объявления за январь 2020 года
 
@@ -52,7 +52,7 @@ _________________
 
 ### <a name="additional-resources"></a>Дополнительные ресурсы
 
-- Ресурсы, касающиеся программы CSP, на странице коллекции для партнеров: [Партнерам CSP в России доступны подписки на Windows Server и SQL Server.](https://partner.microsoft.com/en-us/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
+- Ресурсы, касающиеся программы CSP, на странице коллекции для партнеров: [Партнерам CSP в России доступны подписки на Windows Server и SQL Server.](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
 - [Подробнее о Центре партнеров...](https://docs.microsoft.com/partner-center/azure-plan-get-started)
 
 ### <a name="next-steps"></a>Дальнейшие действия
@@ -61,7 +61,7 @@ _________________
 
 ### <a name="questions"></a>Есть вопросы?
 
-- Обратитесь в [службу поддержки](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?category=csp), если хотите задать вопрос, отправить запрос или получить дополнительные сведения.
+- Обратитесь в [службу поддержки](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp), если хотите задать вопрос, отправить запрос или получить дополнительные сведения.
 
 _________________
 
@@ -331,7 +331,7 @@ _________________
 
 - Dynamics 365 Virtual Agent for Customer Service
 
-Подробные сведения о номерах SKU изложены в файле с описанием предложений Dynamics в рамках программы CSP по состоянию на 01.01.2020. Файл можно найти [здесь](https://partner.microsoft.com/en-US/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).
+Подробные сведения о номерах SKU изложены в файле с описанием предложений Dynamics в рамках программы CSP по состоянию на 01.01.2020. Файл можно найти [здесь](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).
 
 Biz Apps и Power Platform
 
@@ -339,7 +339,7 @@ Biz Apps и Power Platform
 
 - Предложения для учащихся по существующим планам Power Apps для каждого предложения
 
-Подробные сведения о номерах SKU изложены в файле с описанием предложений Dynamics в рамках программы CSP по состоянию на 01.01.2020. Файл можно найти [здесь](https://partner.microsoft.com/en-US/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).
+Подробные сведения о номерах SKU изложены в файле с описанием предложений Dynamics в рамках программы CSP по состоянию на 01.01.2020. Файл можно найти [здесь](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).
 
 1 февраля 2020 г. будут выпущены следующие новые и обновленные предложения для Biz Apps и Power Platform:
 
@@ -373,7 +373,7 @@ Biz Apps и Power Platform
 
 1 февраля 2020 г. корпорация Майкрософт изменит названия некоторых семейств продуктов и предложений, чтобы привести существующие предложения Dynamics 365 и Power Platform в соответствие с используемыми в других каналах и регионах.
 
-Подробные сведения представлены в файле с описанием изменений в названиях предложений Dynamics в рамках CSP за февраль 2020 г. Файл можно найти [здесь](https://partner.microsoft.com/en-US/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).
+Подробные сведения представлены в файле с описанием изменений в названиях предложений Dynamics в рамках CSP за февраль 2020 г. Файл можно найти [здесь](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).
 
 ### <a name="additional-resources"></a>Дополнительные ресурсы
 
@@ -391,7 +391,7 @@ Biz Apps и Power Platform
 
 ### <a name="questions"></a>Есть вопросы?
 
-- По вопросам, связанным непосредственно с вашей работой с корпорацией Майкрософт, [обращайтесь в нашу службу поддержки](https://partner.microsoft.com/en-us/pcv/servicerequests/create).
+- По вопросам, связанным непосредственно с вашей работой с корпорацией Майкрософт, [обращайтесь в нашу службу поддержки](https://partner.microsoft.com/pcv/servicerequests/create).
 
 ### <a name="change-log"></a>Журнал изменений
 

@@ -4,18 +4,18 @@ description: Все, что нужно знать вам и вашим клие�
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.custom: SEOAPR.20
 Keywords: Azure, план Azure, приобретение подписок, подписки
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: 828c33f1d7182c9eff81930126efa7c795fa3b49
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 08d5048fdfb2a6032ee2e5ec8f0417a106fbf5c7
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948418"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390411"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Начало перехода на тарифы с оплатой по мере использования для плана Azure
 

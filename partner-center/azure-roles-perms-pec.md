@@ -5,16 +5,16 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о ролях и разрешениях для партнеров, которые смогут получить полученные кредиты (PEC). Они отличаются от ролей до работы в центре партнеров.
-author: dineshvu
-ms.author: dineshvu
+author: adamyeh
+ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c0f4e99dab2c898564941e926fc6d754547d66c1
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: fa6241755e228e36abdd15022c127d2b243b488f
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948252"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390591"
 ---
 # <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>Роли и разрешения, доступные для получения кредита на получение партнеров
 

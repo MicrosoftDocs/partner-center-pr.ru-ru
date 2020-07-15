@@ -3,17 +3,17 @@ title: Выставление счетов за разовые & выберит�
 ms.topic: article
 ms.date: 05/26/2020
 Description: Ознакомьтесь с дополнительными сведениями о выставлении счетов в центре партнеров по одноразовому выставлению счетов, чтобы заранее заданные условия и выставление счетов за выбор, повторяющиеся расходы.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: выставление счетов, однократная, повторяющаяся, покупка, оплата, независимый поставщик
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2c833d132b56969f1c8b06bc01fd50d28110819
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 9720d06d42025ee69c52afb893e4a6b6fee4a28f
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749147"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390251"
 ---
 # <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>Выставление счетов за одноразовый период и выбор повторяющихся расходов в центре партнеров
 

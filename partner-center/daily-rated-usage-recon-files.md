@@ -3,16 +3,16 @@ title: Файлы сверки с оценкой использования по
 ms.topic: article
 ms.date: 06/12/2020
 description: Узнайте, как читать файлы сверки с ежедневной оценкой использования в центре партнеров.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 37f337734d4f3f9ea67ec434e1bd478a355214bb
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: bdb8e392761d02909ebca21c38d2f04a9dfeb60d
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908682"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377418"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Узнайте, как считать файлы сверки с оценкой использования в центре партнеров
 
@@ -64,7 +64,7 @@ ms.locfileid: "84908682"
 | MeterSubCategory | Тип службы Azure, которая может повлиять на скорость. |
 | MeterName | Единица измерения для потребляемого измерения. |
 | MeterRegion | Этот столбец определяет местоположение центра обработки данных региона для служб, где это применимо и заполняется. |
-| Единицы | Единица **имени**ресурса. |
+| Единица измерения | Единица **имени**ресурса. |
 | ResourceLocation | Центр обработки данных, в котором работает счетчик. |
 | ConsumedService | Используемая служба платформы Azure. |
 | ResourceGroup | Представляет контейнер, содержащий связанные ресурсы для решения Azure. |

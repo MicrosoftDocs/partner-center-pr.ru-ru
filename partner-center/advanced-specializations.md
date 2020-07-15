@@ -5,17 +5,17 @@ ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Укрепите свой бизнес-профиль в каталоге партнеров. Узнайте, как получить дополнительные специализации, а также компетенции Gold-серебро.
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 keywords: компетенции, членство уровня silver, членство уровня gold, mpn, MAPS, навыки, Microsoft Partner Network, членство в сети, дополнительные специализации
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7393fdfbc1aa94961680d869cf00cd5855efa0a6
-ms.sourcegitcommit: d5fc07cf20a9de970f9bb65019732792dd81b4a0
+ms.openlocfilehash: 8e4d4c8d6a89674153987308f11bd45ee1a5b7ec
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85911272"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390201"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Получите расширенную специализацию, чтобы продемонстрировать свои знания и выделять клиентов 
 
@@ -29,7 +29,7 @@ ms.locfileid: "85911272"
 
 Если вы заинтересованы в расширенной специализации, именуемой **модернизации веб-приложений, чтобы Microsoft Azure**, выберите ее в меню центра партнеров. Вы перейдете на страницу необходимых компонентов.
 
-:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Предварительные условия":::
+:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Предварительные требования":::
 
 
 Пока не будут выполнены все необходимые условия, состояние не будет **запущено.** Если предварительные условия выполнены, кнопка **Расписание аудита** становится доступной. Вы должны пройти аудит с аудитором стороннего разработчика для следующих дополнительных специализаций Azure:
@@ -47,7 +47,7 @@ ms.locfileid: "85911272"
 
 Примером расширенной специализации, требующей ссылок на клиентов, являются **собрания и комнаты совещаний для Microsoft Teams**. Помимо компетенции Gold, сертификации и требований к производительности необходимо предоставить три клиентских ссылки, которые демонстрируют возможность развертывания и управления.
 
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Предварительные условия":::
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Предварительные требования":::
 
 Пока не будут выполнены все необходимые условия, состояние не будет **запущено.** Когда все требования будут выполнены, состояние будет **активно**. Активное состояние автоматически включает тег в **бизнес-профиле** , который отображается для всех клиентов, выполняющих поиск [поставщика решений](https://www.microsoft.com/solution-providers/home).
 

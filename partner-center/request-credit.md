@@ -5,16 +5,16 @@ ms.date: 04/28/2020
 description: Узнайте о преимуществах, ограничениях и процедурах, позволяющих запросить кредит соглашения об уровне обслуживания от корпорации Майкрософт, если ваши клиенты испытывают сбой в работе службы.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 27a444bc5f923b1d2ad18bfe47cf70b365751e42
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: cb8f6b2280318427b2015403b528fc288ef64d97
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992007"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377758"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Как и когда следует запрашивать соглашение об уровне обслуживания (SLA) от корпорации Майкрософт
 
@@ -47,7 +47,7 @@ ms.locfileid: "84992007"
 | EX | Exchange Online |
 | FO | Защита Exchange Online |
 | SB | Skype для бизнеса Online (ранее — Lync Online) |
-| OS | Подписка Office, |
+| ОС | Подписка Office, |
 | ПБ | Power BI для Office 365 |
 | SP | SharePoint Online |
 | я | Yammer Enterprise |

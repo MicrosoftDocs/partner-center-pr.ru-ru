@@ -4,18 +4,18 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о новых обязательных требованиях, повышающих уровень безопасности для консультантов, поставщиков панелей управления и партнеров в рамках программы "Поставщик облачных решений".
-author: LauraBrenner
-ms.author: labrenne
+author: isaiahwilliams
+ms.author: iswillia
 keywords: Azure Active Directory, поставщик облачных решений, программа поставщика облачных решений, CSP, поставщик панели управления, CPV, многофакторная проверка подлинности, MFA, модель безопасного приложения, безопасность
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b842566245eaf7a874535fd081da51424316d417
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: bfafbf24910a6d194846af5a15f14050af33be7f
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328185"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265168"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>Состояние требований к безопасности для партнеров — получение ответов и проверка отчетов о текущем состоянии
 

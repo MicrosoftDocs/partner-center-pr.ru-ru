@@ -5,17 +5,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как назначать подписки Azure клиентам в центре партнеров и как разрешить клиентам управлять собственными подписками.
-author: dineshvu
-ms.author: dineshvu
+author: rbars
+ms.author: rbars
 keywords: Azure, подписка Azure, подписка, подписки, назначение подписки, управление подпиской Azure
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ae6b1dd2d5b24dd44431f27473f783b90a74fd18
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: f9b9b2f1f62d06e8f6802535738c7ba08666ac56
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175919"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390491"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Назначение подписок Azure клиентам в Центре партнеров
 

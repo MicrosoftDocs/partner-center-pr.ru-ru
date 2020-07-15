@@ -5,17 +5,17 @@ ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Как поставщик облачных решений вы можете покупать и продавать резервирования Azure для клиентов, а также управлять ими. Используйте центр партнеров, портал Azure или API центра партнеров.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: azure, резервирования, управление, выставление счетов, приобретение, Azure RI, Azure Reserved Instances
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5393e757b209de5a7df22b35a0cee0703419bef4
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: 93c6353922197270245b4b21f3bc210f26c7ec8f
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198642"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377648"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Продавайте Microsoft Azure резервирования клиентам с помощью центра партнеров, портал Azure или интерфейсов API.
 
@@ -54,7 +54,7 @@ ms.locfileid: "85198642"
 
 |**Сведения о**   |**Прочитайте это**    |
 |:-----------------------------|:-----------------|
-| Документация по резервированию Azure для ваших клиентов | [Что такое резервирование Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+| Документация по резервированию Azure для ваших клиентов | [Что такое резервирования Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 |Приобретение резервирований Azure для клиентов в центре партнеров   |[Приобретение резервирований Azure](azure-reservations-buying.md)
 |Управление резервированиями Azure в центре партнеров | [Управление резервированиями Azure в центре партнеров](azure-reservations-manage.md)
 |Определение правильного размера виртуальной машины и проверка использования виртуальной машины клиента   |[Размеры виртуальных машин для максимального использования резервирования Azure](azure-usage.md)   |

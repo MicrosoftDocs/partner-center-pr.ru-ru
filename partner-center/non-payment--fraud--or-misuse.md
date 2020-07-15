@@ -6,20 +6,20 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Важно изучить различные риски, связанные с интерактивными транзакциями, и рекомендации по управлению и снижению этих рисков.
 keywords: мошенничество, злоупотребление, допустимое использование, политика допустимого использования, неоплата, клиент не платит по счетам, риски в Интернете, хищение услуги, злоупотребление услугой, приостановка подписки,
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8ca1461ed8b71ea2e6c82603672f4029599b4cc
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 0b08fc6a94f91be978802a6bf850b46189ea740f
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991897"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377808"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Managing non-payment, fraud, or misuse in Partner Center (Управление подписками в случае неуплаты, мошенничества или неправильного использования в Центре партнеров)
 
-Область применения:
+Применяется к:
 
 - Центр партнеров
 - Центр партнеров для Microsoft Cloud for US Government

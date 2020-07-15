@@ -4,17 +4,17 @@ ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как партнеры в рамках CSP могут с помощью Центра партнеров переводить клиентов с существующих предложений Azure CSP на службы Azure в рамках плана Azure.
-author: LauraBrenner
-ms.author: labrenne
+author: mowree
+ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 0629ddcee62040ecc1e5fca40689ede71f2b73ca
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: a2a378107f5a376c78779066c62e8098ae1cdef8
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908962"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390351"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Перевод клиентов на план Azure с существующих предложений Azure CSP
 

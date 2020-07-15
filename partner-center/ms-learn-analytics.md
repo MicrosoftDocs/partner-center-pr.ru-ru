@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Следите за изучением в Организации, используя данные по отдельным обучающим курсам, готовым модулям, готовым путям обучения и т. д.
-author: LauraBrenner
-ms.author: labrenne
+author: shganesh-dev
+ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e69b283edd0110ba2b6e13ea60621171b83e4b6
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: d294250e1a8fe58d190c76aee7b3b885d1bf2435
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795936"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390661"
 ---
 # <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>В отчете Microsoft Learn Analytics отображается состояние сведений об учениях в вашей компании
 
@@ -111,7 +111,7 @@ Microsoft Learn определяет сведения об ИДЕНТИФИКА�
 
 2. Скопируйте идентификатор объекта пользователя в область, [выделенную](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) в обозревателе Graph. 
 
-## <a name="faq"></a>Вопросы и ответы
+## <a name="faq"></a>ВОПРОСЫ И ОТВЕТЫ
 
 1. Я не вижу сведений об учебных курсах моей компании.
 

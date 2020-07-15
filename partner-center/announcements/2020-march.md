@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/01/2020
-ms.openlocfilehash: 8f4a7d6cb423eac8360eee85fbfdb310bd54eeda
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.date: 07/10/2020
+ms.openlocfilehash: cf651921412afac599fc186bf54e87be5783b0bb
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84678931"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286622"
 ---
 # <a name="march-2020-announcements"></a>Объявления за март 2020 года
 
@@ -118,7 +118,7 @@ _________________
 
 **Есть вопросы?**
 
-Обратитесь в [службу поддержки](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?category=csp), если хотите задать вопрос, отправить запрос или получить дополнительные сведения.
+Обратитесь в [службу поддержки](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp), если хотите задать вопрос, отправить запрос или получить дополнительные сведения.
 
 _________________
 
@@ -148,7 +148,7 @@ _________________
 
 **Новый номер SKU начального уровня.** Новый SKU начального уровня будет называться Microsoft 365 F1. Он предложит возможности, адаптированные для работников первой линии, а также расширенную безопасность и возможности идентификации для всех работников. Это предложение включает Teams, SharePoint Online, Yammer Enterprise, Stream, EMS E3, а также возможности доступа к мобильным и веб-приложениям Office в режиме чтения.
 
-Эти изменения обеспечат дополнительные преимущества для работников первой линии и позволят партнерам существенно увеличить количество пользователей. **Дополнительные сведения о предлагаемых преимуществах и ваших дальнейших действиях см. [здесь](http:/resources/collection/Microsoft-365-firstline-offer-updates#/)** .
+Эти изменения обеспечат дополнительные преимущества для работников первой линии и позволят партнерам существенно увеличить количество пользователей. **Дополнительные сведения о предлагаемых преимуществах и ваших дальнейших действиях см. [здесь](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates)** .
 
 |**График реализации**|**Изменение**|
 |-------------------|:------|
@@ -311,7 +311,7 @@ _________________
 - Собственные предложения по роботизированной автоматизации процессов (RPA)
 - Новый чат-бок для RPA-решений
 
-Подробные сведения об изменениях см. в файле [Изменения в предложениях Dynamics в рамках программы CSP, март 2020 года](https://partner.microsoft.com/en-us/pcv/.).
+Подробные сведения об изменениях см. в файле [Изменения в предложениях Dynamics в рамках программы CSP, март 2020 года](https://partner.microsoft.com/pcv/.).
 
 ### <a name="additional-resources"></a>Дополнительные ресурсы:
 
@@ -367,7 +367,7 @@ _________________
 
 **Есть вопросы?**
 
-По любым вопросам о вашем взаимодействии с корпорацией Майкрософт обращайтесь в службу поддержки через Панель мониторинга Центра партнеров: https://partner.microsoft.com/en-us/pcv/servicerequests/create
+По любым вопросам о вашем взаимодействии с корпорацией Майкрософт обращайтесь в службу поддержки через Панель мониторинга Центра партнеров: https://partner.microsoft.com/pcv/servicerequests/create
 
 ### <a name="change-log"></a>Журнал изменений
 

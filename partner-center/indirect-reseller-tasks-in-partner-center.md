@@ -6,17 +6,17 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как косвенные торговые посредники могут работать с непрямыми поставщиками (или распространителями) Майкрософт, чтобы получить клиентскую поддержку и поддержку выставления счетов.
 ms.prod: ''
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: косвенные торговые посредники, торговые посредники, косвенные поставщики, поставщики, партнерство, VAR, уровень2, уровень 2
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 9450d4e32a086add3c86e398dacd1a590e7e6d4c
-ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
+ms.openlocfilehash: 79eda54e958acd2c83074c6b84bba85c87096a33
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85879354"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377718"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Узнайте о сотрудничестве с непрямыми поставщиками в программе поставщиков облачных решений
 
