@@ -7,19 +7,19 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
-keywords: налог на Подоходное налогообложение, налоговые кредиты, налоговый кредит для Германии, налоговые сертификаты
+keywords: налог на Подоходное налогообложение, налоговые кредиты, налоговый кредит для Германии, налоговые сертификаты, кредиты
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b232526a213a06e2c11001131241dd5be554770
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3992254595024635ab4200456537366d5c5cc52d
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949572"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405525"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Убедитесь, что вы кредитуетсяе на удержанный налог, если вы оплачиваете местный налоговый орган вместо корпорации Майкрософт.
 
-Область применения:
+Применяется к:
 
 - Центр партнеров
 
@@ -40,7 +40,7 @@ ms.locfileid: "85949572"
 
 2. В меню слева выберите **выставление счетов** и перейдите к **журналу выставления счетов**.
 
-3. Нажмите кнопку **отправить новый** , чтобы перейти на страницу **новый запрос на подоходный налог** .
+3. Щелкните **Отправить новое** , чтобы перейти на страницу **новый запрос на подоходный налог** .
 
    :::image type="content" source="images/wht1.png" alt-text="Отправка нового подоходного налога для счета":::
 
