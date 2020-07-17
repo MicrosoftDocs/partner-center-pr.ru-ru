@@ -9,11 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 2dd815862d84509a58726bea804be4fa14f3b729
-ms.sourcegitcommit: 622dab23ac25ebdcc9fcd736c23ce9cc177fe6da
+ms.openlocfilehash: 6163da45280bf0e94fa041470d5ca131341a0516
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/07/2020
-ms.locfileid: "86032488"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405555"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -21,6 +22,7 @@ ms.locfileid: "86032488"
 
 | **Категория** | **Объявления за июль 2020 года** | **Объявлено** |
 |---------|:---------|:---------|
+|Предложения и рынки|[Бессрочное лицензирование ПО в рамках программы "Поставщик облачных решений" (CSP) ](2020-july.md#5)|15 июля|
 | Предложения и рынки | [Новые номера SKU Голосовой связи Microsoft 365 корпоративный для Teams](2020-july.md#4) | 3 июля |
 | Предложения и рынки | [Новые предложения и продукты Microsoft Dynamics 365 и Power Platform, а также предложения и продукты, жизненный цикл которых скоро завершится](2020-july.md#3) | 1 июля |
 | Предложения и рынки | [Корпорация Майкрософт прекратила продажи отдельного SKU Microsoft Kaizala Pro](2020-july.md#2) | 1 июля |
