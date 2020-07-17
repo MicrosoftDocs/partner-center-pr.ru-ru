@@ -7,15 +7,14 @@ ms.subservice: partnercenter-mpn
 description: Узнайте, как просматривать или скачивать накладные за членство в MPN, как выключать налоговые исключения, а также как отправить корпорации Майкрософт свой ИДЕНТИФИКАЦИОНный номер.
 author: LauraBrenner
 ms.author: labrenne
-keywords: MPN, счет, карты, налоговый освобождения, НДС, идентификатор НДС
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b022216a30d87205744c44ca340825396fa61bd
-ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
+ms.openlocfilehash: d4e0665a86a47790fea7c829505475e54e4b3d38
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84633814"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436763"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Счета и налоги в программе Microsoft Partner Network
 
@@ -62,7 +61,7 @@ ms.locfileid: "84633814"
 
 3.  Введите идентификатор НДС для своей компании, нажмите кнопку **Добавить**, а затем нажмите кнопку **Далее**. 
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - [Общие сведения о выставлении счетов в Центре партнеров](billing-basics.md)
 
