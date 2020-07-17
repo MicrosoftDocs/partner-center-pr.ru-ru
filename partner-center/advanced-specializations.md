@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Укрепите свой бизнес-профиль в каталоге партнеров. Узнайте, как получить дополнительные специализации, а также компетенции Gold-серебро.
 author: ArpithaKanuganti
 ms.author: v-arkanu
-keywords: компетенции, членство уровня silver, членство уровня gold, mpn, MAPS, навыки, Microsoft Partner Network, членство в сети, дополнительные специализации
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e4d4c8d6a89674153987308f11bd45ee1a5b7ec
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: f4dbfee981023fe567ef345db8b9363cce886adc
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390201"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436353"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Получите расширенную специализацию, чтобы продемонстрировать свои знания и выделять клиентов 
 
@@ -51,7 +50,7 @@ ms.locfileid: "86390201"
 
 Пока не будут выполнены все необходимые условия, состояние не будет **запущено.** Когда все требования будут выполнены, состояние будет **активно**. Активное состояние автоматически включает тег в **бизнес-профиле** , который отображается для всех клиентов, выполняющих поиск [поставщика решений](https://www.microsoft.com/solution-providers/home).
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - Узнайте о требованиях к компетенции Майкрософт [требования к компетенции Майкрософт для Gold и Серебряного членства](learn-about-competencies.md)
 

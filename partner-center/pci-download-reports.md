@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Обзор единой панели мониторинга отчетов центра партнеров.
 author: shthota77
 ms.author: shthota
-Keywords: Центр партнеров Insights, отчеты, Скачать отчеты
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42be29d69d5d4937d984047f4c75e357aa4d436d
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 311cff645487d613ed23d2109ed195822f8e021a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948866"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436683"
 ---
 # <a name="download-reports"></a>Скачать отчеты
 
@@ -29,11 +28,11 @@ ms.locfileid: "85948866"
 
 После создания отчет будет доступен в разделе **созданные отчеты** для загрузки и анализа с помощью таких средств, как Microsoft Excel.
 
-**Создание отчета**
+**Создать новый отчет**
 
 Чтобы создать отчет, сначала выберите его в раскрывающемся списке **выберите отчет** . Затем выберите диапазон дат в раскрывающемся списке **выберите диапазон дат** . Выберите **Создать**. Отчет будет создан в формате с разделителями-символами табуляции (TSV) и будет доступен для скачивания в разделе **созданные отчеты** в течение нескольких минут. Отчеты, созданные за предыдущие 14 дней, будут доступны для загрузки.
 
-:::image type="content" source="images/pci/create-new-report.png" alt-text="Создание отчета":::
+:::image type="content" source="images/pci/create-new-report.png" alt-text="Создать новый отчет":::
 
 :::image type="content" source="images/pci/generated-reports.png" alt-text="Созданные отчеты":::
 

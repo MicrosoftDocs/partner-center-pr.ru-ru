@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Узнайте, как купить или приобрести резервирование Azure от имени клиентов в центре партнеров.
 author: rbars
 ms.author: rbars
-keywords: azure, резервирования, управление, выставление счетов, приобретение
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: da12aecaf78266c5a13da2948c0606121a0ea6ae
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: a8f9193d7bb383b602acc8092b159401ab0785d5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948328"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435773"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Приобретение Microsoft Azure резервирований от имени клиентов в центре партнеров
 
@@ -110,11 +109,11 @@ ms.locfileid: "85948328"
 
 3. Выберите **Добавить продукты**, а затем выберите **Azure**. 
 
-    1\. Выберите сегмент рынка клиента из списка **Сегмент**.
+    a. Выберите сегмент рынка клиента из списка **Сегмент**.
 
-    2\. Выберите пункт **резервирования** в списке **тип** продукта.
+    b. Выберите пункт **резервирования** в списке **тип** продукта.
 
-    В. Выберите тип резервирования, который требуется клиенту, из списка **Reservations type** (Тип резервирования).
+    c. Выберите тип резервирования, который требуется клиенту, из списка **Reservations type** (Тип резервирования).
 
 4. Резервирования Azure должны быть связаны с активной подпиской Azure. Выберите подписку клиента, к которой необходимо добавить резервирования Azure, из списка **Подписка клиента** . 
 

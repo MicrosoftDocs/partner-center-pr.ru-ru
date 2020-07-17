@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Узнайте о различных отношениях партнеров и поддерживаемых сценариях транзакций для партнеров в программе CSP.
 author: dineshvu
 ms.author: dineshvu
-keywords: косвенный Торговый посредник, косвенный поставщик, прямой счет, партнер по прямой оплате, программа поставщика облачных решений, программа CSP, партнеры CSP, транзакции CSP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5728765cb22c77e6052bf2b772d65e777355def6
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: cbba669cbccf96fe9addc6d4b7c7ac4b86c15ddf
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947639"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434903"
 ---
 # <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>Узнайте, как партнеры могут работать с другими партнерами в программе CSP.
 
@@ -118,7 +117,7 @@ ms.locfileid: "85947639"
 
 Партнер может установить связь только с партнером из того же региона.
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - [Партнер с непрямыми торговыми посредниками в программе CSP](indirect-provider-tasks-in-partner-center.md)
 - [Задачи непрямого торгового посредника в Центре партнеров](indirect-reseller-tasks-in-partner-center.md)

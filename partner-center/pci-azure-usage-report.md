@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, что вы хорошо делаете, и можете ли вы повысить эффективность использования подписок Azure, которые вы продаете или управляете клиентами.
-keywords: PCI, производительность, измерения, успешная загрузка клиентов, использование Azure, подписки, аналитика, отчет
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8938b490741c28f16a9bdc94cf25ddf60ff90edc
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 9be334b02576927231b9cdde1114ce013ed1018b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949375"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436723"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Отчет об использовании Azure, доступный на панели мониторинга центра партнеров Insights
 
@@ -75,6 +74,6 @@ ms.locfileid: "85949375"
 
 :::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Использование Azure":::
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - Дополнительные отчеты см. в статье [Partner Center Insights](partner-center-insights.md).

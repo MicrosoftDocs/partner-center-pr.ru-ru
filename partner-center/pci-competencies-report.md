@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о том, что вы знаете, и в каких случаях вы можете улучшить работу с компетенциями Майкрософт, уровнями компетенции и предложениями, которые помогут вам доставлять решения Майкрософт.
-keywords: PCI, производительность, измерения, успешные клиенты, компетенции, преимущества, аналитика, отчет
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d95c45793cfbbc46b68794937e4c3771e9b9b01a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3c2194391214bde36f50c4792a0fd53c654197ca
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949360"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436693"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Отчет об компетенциях доступен на панели мониторинга центра партнеров Insights.
 
@@ -85,6 +84,6 @@ ms.locfileid: "85949360"
 
 :::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="История компетенций":::
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - Дополнительные отчеты см. в статье [Partner Center Insights](partner-center-insights.md).

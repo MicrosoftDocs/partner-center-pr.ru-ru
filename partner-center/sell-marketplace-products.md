@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: В центре партнеров вы узнаете, как продавать подписки клиентов на продукты SaaS, опубликованные на коммерческом рынке независимыми поставщиками программного обеспечения (ISV).
 author: BillLinzbach
 ms.author: BillLi
-keywords: подписки, Marketplace, сторонний производитель, независимый поставщик программного обеспечения
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8c862cbe8048881fd8fe223d9afae85c66e7104e
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: a05e2cc968e96e429390ea63ecb6fe213ab2ca2c
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390601"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436573"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Использование Центра партнеров для продажи клиентам подписок на коммерческие продукты в Marketplace
 

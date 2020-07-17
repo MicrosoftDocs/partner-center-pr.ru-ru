@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Используйте API-интерфейсы веб-перехватчика центра партнеров, чтобы узнать, когда происходят изменения ресурсов ссылок для Dynamics 365 CRM или Salesforce CRM.
 author: sroy
 ms.author: sroy
-keywords: ссылки, API веб-перехватчика, события изменения ресурсов
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ed7cad26af447302cb0ccd1d8d359ce6b7bbe87f
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2335c06d9c410d44ed5f444574d9bc8fb3e48fc0
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949341"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434023"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events-for-dynamics-365-crm-and-salesforce-crm"></a>Использование API-интерфейсов веб-перехватчика для регистрации событий изменения ресурсов для Dynamics 365 CRM и Salesforce CRM
 
@@ -147,7 +146,7 @@ ms.locfileid: "85949341"
 
    2. При создании "новой возможности" в среде Dynamics 365 убедитесь, что указан следующий раздел:
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Opportunity;":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Возможности":::
 
    3. Чтобы синхронизировать эту возможность с центром партнеров Майкрософт, убедитесь, что в представлении карточка установлены следующие поля:
 
@@ -179,7 +178,7 @@ ms.locfileid: "85949341"
 
    6. При выборе синхронизированной ссылки сведения о представлении карточки заполняются.
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - [Дополнительные сведения о платформе Microsoft Power автоматизиру](https://docs.microsoft.com/power-automate/)
 

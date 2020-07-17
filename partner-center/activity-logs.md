@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Узнайте, как просматривать и экспортировать журналы действий, чтобы получить представление о транзакциях учетной записи клиента и других действиях по управлению партнерами, связанных с клиентом.
 author: dineshvu
 ms.author: dineshvu
-Keywords: журналы действий, подписка, подписки, платежи, выставление счетов, транзакции
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eda13a4a08c30cea5a6e9f20881bcf4a68f0b7b6
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 06cc76ee5689bbce5e8017f6bc5a664ff130c1ec
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86176004"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436403"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Просмотр или Экспорт журналов действий клиентов для получения подробных сведений о транзакциях клиента
 
@@ -58,6 +57,6 @@ ms.locfileid: "86176004"
 
 5. Выберите **Экспортировать журнал**, чтобы копировать данные подписок клиента в CSV-файл и отправить его в папку скачивания по умолчанию на компьютере.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - [Анализ подписок и лицензий для принятия бизнес-решений](analyze-subscriptions-licenses.md)

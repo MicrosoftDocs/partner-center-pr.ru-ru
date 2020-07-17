@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Узнайте, как найти доменное имя и идентификатор каталога клиента при отправке утверждения.
 author: dineshvu
 ms.author: dineshvu
-keywords: заявки на поощрения, заявления о сопоставлении, фонды совместных операций, OSA, ISV, прибыль, имя домена, идентификатор каталога
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 47f0e62c50197af9acda76c800b1304321b5e577
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: e777578763cdd76f8bd011542412b6840cbe9c7e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377408"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434721"
 ---
 # <a name="find-your-customers-domain-name-and-directory-id-when-submitting-an-incentives-claim"></a>Поиск доменного имени и идентификатора каталога клиента при отправке заявки на поощрения
 
@@ -31,7 +30,7 @@ ms.locfileid: "86377408"
 - Глобальный администратор
 - Агент по продажам
 
-1. Попросите клиента открыть [портал Microsoft Azure](https://portal.azure.com/#home) и выберите **Azure Active Directory**.
+1. Попросите клиента войти в [портал Microsoft Azure](https://portal.azure.com/#home) и выбрать **Azure Active Directory**.
 
 2. В разделе " **Обзор** " вашего клиента имя домена отображается непосредственно над названием компании.  
 

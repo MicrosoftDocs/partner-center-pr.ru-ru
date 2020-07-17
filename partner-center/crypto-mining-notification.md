@@ -7,16 +7,15 @@ ms.subservice: partnercenter-csp
 description: Узнайте, что это означает при появлении уведомления о потенциальном криптовалюты интеллектуального анализа данных (или шифровании с помощью шифрования) в одной или нескольких подписках Azure.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
-Keywords: Шифрование, интеллектуальный анализ данных, криптовалюты, безопасность
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5154267299b3ac15c58cb531ef1bd43f54cad187
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: d691ef30bf01fcb25d686649291e92cfec47f100
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947857"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435203"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Уведомление центра партнеров для действия интеллектуального анализа данных криптовалюты
 
@@ -73,6 +72,6 @@ ms.locfileid: "85947857"
 
 6. В поле **Описание** введите название затронутой подписки, а также другие вопросы или замечания.
 
-7. Введите ваши контактные данные.
+7. Введите свои контактные данные.
 
 8. Нажмите кнопку **Submit** (Отправить).

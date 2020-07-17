@@ -7,15 +7,14 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
 ms.author: amrava
-Keywords: Подписка, самостоятельная покупка, самостоятельная RI, включение RI, отключение RI, самостоятельная служба, покупка клиентов, разрешения клиентов, зарезервированный экземпляр клиента, покупка резервирования, клиент закупок Azure, включение самообслуживания, отключение самообслуживания
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 62447e284ce35b414594031c590110cedc5a59ab
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 86a3be3b80ff274bb609490f86706178fe3d19d7
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377458"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434603"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Предоставление клиентам доступа в центре партнеров для приобретения своих продуктов или услуг
 
@@ -158,7 +157,7 @@ ms.locfileid: "86377458"
 
 **Что делать, если клиенты хотят выполнить обмен, отменять или продлить приобретенную покупку или изменить начальную область резервирования?** Клиенты должны попросить партнера помочь им изменить начальную область резервирования. Им также требуется помощь партнера по обмену, отмене или продлению резервирования. Они не могут выполнять эти задачи с помощью резервирования на основе подписок, приобретенных для них партнером CSP.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - [Приобретение резервирований Azure от имени ваших клиентов](azure-reservations-buying.md)
 

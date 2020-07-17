@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Что необходимо узнать при переносе нескольких компаний из центра управления партнерами в центр партнеров и их консолидации в глобальную учетную запись партнера.
 author: LauraBrenner
 ms.author: labrenne
-keywords: PMC, миграция, переход в Центр партнеров
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d021946fa09a046cdff10bcf1ca8dc25558063c8
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: b0bab2b69564915fb617754d55e7c113eaf0ddeb
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603783"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434413"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Перемещение нескольких компаний в центр партнеров из центра участия в партнерских организациях (PMC)
 
@@ -52,7 +51,7 @@ ms.locfileid: "84603783"
 
 На этом экране отображаются сведения об имеющейся учетной записи (имени и адресе), уже созданной в Центре партнеров, а также сведения об основном контактном лице.
 
-Щелкните **Продолжить**.
+Выберите **Continue** (Продолжить).
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Что происходит при консолидации учетных записей
 
@@ -87,7 +86,7 @@ ms.locfileid: "84603783"
 
 При просмотре профиля вы увидите сведения о своем юридическом подразделении (в PMC это главный офис) и сведения обо всех дополнительных расположениях.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - [Переход от PMC к Центру партнеров](move-pmc-pc-map.md)
 - [Создание учетных записей пользователей](create-user-accounts-and-set-permissions.md)

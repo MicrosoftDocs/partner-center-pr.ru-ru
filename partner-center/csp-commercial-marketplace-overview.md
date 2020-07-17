@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Узнайте, как продавать подписки клиентов на программное обеспечение как услугу (SaaS) от независимых поставщиков программного обеспечения (ISV) в Marketplace.
 author: rbars
 ms.author: rbars
-keywords: подписки, Marketplace, сторонние лица, независимые поставщики программного обеспечения, SaaS, лицензия
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96e8001294112bdc5af59512fe04c282a09430bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: fa66390ef899d3c6a3fd4c25b040c858a1ecb2be
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947724"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435073"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Обзор коммерческого рынка в центре партнеров
 
@@ -56,7 +55,7 @@ ms.locfileid: "85947724"
 
 - [Портал управления Microsoft Azure](https://portal.azure.com/)
 
-    Или
+    либо
 
 - Система или веб-сайт стороннего издателя ISV
 
@@ -85,7 +84,7 @@ ms.locfileid: "85947724"
 |Отмена и продление подписки на предложение или добавление или удаление рабочих мест | Портал Azure  |
 |Создание пользователей или Управление разрешениями  | Портал Azure  |
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - [Обнаружение или просмотр предложений коммерческих рынков](csp-commercial-marketplace-discover.md)
 - [Приобретение предложений коммерческих рынков](csp-commercial-marketplace-purchase.md)

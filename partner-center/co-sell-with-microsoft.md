@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Как квалифицированный партнер Майкрософт, вы можете совместно продавать с корпорацией Майкрософт. Узнайте, как определять задействования, приглашать Майкрософт для совместной работы или просматривать отправленные задействования.
 author: sroy
 ms.author: sroy
-keywords: автор, запрос информации, поиск партнера
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6297fc3f43fbb19d4d1501e812d8b8350031ddef
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 7e996b260b9cb23f36eeb1a344c66545b17c57a3
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390561"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435473"
 ---
 # <a name="co-sell-with-microsoft"></a>Совместные продажи с Майкрософт
 

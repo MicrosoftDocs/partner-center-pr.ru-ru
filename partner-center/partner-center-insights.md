@@ -4,18 +4,17 @@ description: Изучите панель мониторинга единой с�
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-keywords: PCI, производительность, успешный клиент, измерения, данные отчетов
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 9e56ae1922abee38537d65564781fea3cb0251e7
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: bd73a9b8f5dfd1956b2b5dc598194778208aaa7e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949414"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436773"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Центр партнеров Insights — панель мониторинга, на которой показано, как работает коммерческий партнер Майкрософт
 

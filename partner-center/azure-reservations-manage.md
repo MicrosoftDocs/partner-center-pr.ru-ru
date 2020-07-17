@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Узнайте, как управлять резервированием Azure для клиента, включая отмену резервирования, Обмен резервированиями или запросить деньги.
 author: amitravat
 ms.author: amrava
-keywords: Azure, резервирование, управление, выставление счетов, покупка, Отмена, Exchange, оплата за ранним увольнением
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ed925dc5a3b59db936f1e65290f58bc7912736c
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 3197f2281ef4a41a200e08290712218c634d1f52
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175897"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435763"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Управление, Отмена, Обмен или возмещение Microsoft Azure резервирования для клиентов
 

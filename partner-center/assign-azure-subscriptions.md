@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Узнайте, как назначать подписки Azure клиентам в центре партнеров и как разрешить клиентам управлять собственными подписками.
 author: rbars
 ms.author: rbars
-keywords: Azure, подписка Azure, подписка, подписки, назначение подписки, управление подпиской Azure
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9b9b2f1f62d06e8f6802535738c7ba08666ac56
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: cf69d3cc9b7f9034e357d0b85e7910c3fe9d98a6
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390491"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436013"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Назначение подписок Azure клиентам в Центре партнеров
 
@@ -50,7 +49,7 @@ ms.locfileid: "86390491"
 
 3. Назначьте роль любому пользователю клиента, чтобы он мог создавать ресурсы и управлять ими в своей подписке.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - [Как партнеры CSP могут продавать подписки клиентам](customer-subscriptions.md)
 

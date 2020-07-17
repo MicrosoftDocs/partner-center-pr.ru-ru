@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Узнайте, как регистрировать и уточнять службы Microsoft Planning Services, чтобы вы могли поставлять курсы и другие услуги клиентам с помощью программы Software Assurance.
 author: mowree
 ms.author: mowrim
-Keywords: Предварительное развертывание, планирование, Software Assurance
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 976c7c7648c13ca1a190b3a1bc901efb53998bac
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: a6a0aefa9a6342a6588888c592f0026382e3eb0e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390331"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436543"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Службы планирования Software Assurance в Центре партнеров
 
@@ -104,7 +103,7 @@ ms.locfileid: "86390331"
 
 Чтобы отправить счет в корпорацию Майкрософт через САВБ, следуйте инструкциям на [шаге 8](https://go.microsoft.com/fwlink/?linkid=2115983) рабочего процесса.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - [Рабочий процесс служб планирования Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [Вопросы и ответы по службам планирования Software Assurance](https://go.microsoft.com/fwlink/?linkid=2116077)

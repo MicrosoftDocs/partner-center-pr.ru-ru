@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Ознакомьтесь с моментальным снимком того, как вы делаете продажи и развертывание, рост клиентов и рост дохода с помощью лицензий, подписок и потребления Azure.
-keywords: PCI, производительность, успешный клиент, измерения,
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72bc94f35cc189e032304c78781adbb10f71327c
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 54315583dcecc745eb5525dc84504ce603b9eb7d
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948828"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436703"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Обзор отчетов панели мониторинга, доступных в центре партнеров Insights
  
@@ -85,6 +84,6 @@ ms.locfileid: "85948828"
 
 :::image type="content" source="images/pci/licensesgrowth.png" alt-text="лицензии":::
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - Дополнительные отчеты см. в статье [Partner Center Insights](partner-center-insights.md).

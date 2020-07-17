@@ -5,15 +5,14 @@ ms.topic: article
 ms.date: 05/05/2020
 author: BillLinzbach
 ms.author: BillLi
-keywords: Office, O365, службы PSTN, налоги, требования, счет, выставление счетов
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96271a574ad84d28651e263c34a8238093e0d026
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 38df635156901d81d73ff688b2db8e5d65e096b0
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377798"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434063"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Консультация для партнеров по Office 365: "Голосовая связь Microsoft 365 бизнес" в программе CSP
 

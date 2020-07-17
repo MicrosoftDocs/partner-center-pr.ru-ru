@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Ознакомьтесь с странами, регионами и валютами, в которых можно продать предложения CSP на основе расположения вашей компании.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Рынки CSP, территории, где можно продать CSP, предложения CSP, регионы, продавать облачные решения, глобальный CSP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a4d70252d1baebd1bade6182218d4b3198825f3
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ced2ff2890f9e017de5f4bcc1dfefaedf33cda64
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991823"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434173"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Региональные рынки и валюты поставщика облачных решений, где можно продать предложения CSP
 
@@ -165,7 +164,7 @@ ms.locfileid: "84991823"
 
 |  Страна или регион | Валюта |
 |  -------------- |:--------:|
-|  Canada         |   CAD    |
+|  Канада         |   CAD    |
 |  Сен-Пьер и Микелон|  CAD   |
 |
 
@@ -350,7 +349,7 @@ ms.locfileid: "84991823"
 |  Катар          |   USD    |
 |  Саудовская Аравия   |   USD    |
 |  Сербия         |   USD    |
-|  ЮАР   |   USD    |
+|  Южно-Африканская Республика   |   USD    |
 |  Свазиленд      |   USD    |
 |  Таджикистан     |          |
 |  Тунис        |   USD    |

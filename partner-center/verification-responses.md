@@ -1,5 +1,5 @@
 ---
-title: Проверка сведений об учетной записи
+title: Проверка данных учетной записи
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: При попытке регистрации в новой программе центра партнеров следует проверить состояние проверки учетной записи. Сведения о предоставлении дополнительных сведений при необходимости.
 author: parthpandyaMSFT
 ms.author: parthp
-Keywords: Проверка, проверка, отклонение, обновление профиля партнера
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a4f5f44788c618386835d69fa435596b95cdcd62
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 0b3a82e53c4947cdfd761fd2a9e0d998ca0d5c3a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265025"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436443"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Проверка данных учетной записи при регистрации в новой программе центра партнеров
 

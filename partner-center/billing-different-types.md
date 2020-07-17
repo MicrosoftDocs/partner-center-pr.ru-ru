@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Сведения о различных типах выставления счетов, расчетных периодах и датах выставления счетов, которые могут отображаться в центре партнеров.
 author: sodeb
 ms.author: sodeb
-keywords: выставление счетов, платежи, заказы, файлы сверки, файл сверки
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e26e783cb552106e9fb7a85d1d549fc80cce4de4
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: b83116bf4b32754c1a8f270136f44e9120f034b5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948174"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435593"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>Типы выставления счетов в центре партнеров. включает в себя лицензии, основанные на использовании и одноразовую оплату.
 

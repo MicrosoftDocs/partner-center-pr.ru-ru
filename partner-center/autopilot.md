@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Прежде чем приступать к новому устройству клиента, можно использовать профили Windows для автопилота, чтобы настроить или предварительно настроить внешний интерфейс устройства (OOBE).
 author: BillLinzbach
 ms.author: BillLi
-keywords: Автопилот, Windows автопилот, Microsoft для автопилота, развертывание без вмешательства пользователя, OOBE, экраны входа, готовые
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 85750e58efb7f79612a666f556cddff27db28d76
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: dc063dad26a78833084487d80db9c86c3145953e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377668"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435933"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Использование профилей Windows "Автопилот" на новых устройствах для настройки готового интерфейса клиента
 
@@ -108,7 +107,7 @@ ms.locfileid: "86377668"
 
 4. Выполните следующие действия, чтобы убедиться, что профиль будет успешно применен к устройству.
 
-    а.  Подключите устройство к сети и включите его.
+    a.  Подключите устройство к сети и включите его.
 
     b.  Убедитесь, что отображаются соответствующие экраны OOBE (если они должны отображаться).
 

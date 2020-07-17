@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Узнайте о возможностях поставщиков облачных решений по приобретению, подготовке и управлению резервированиями Azure и серверными подписками для клиентов.
 author: rbars
 ms.author: rbars
-keywords: Azure, подписки, виртуальная машина, резервирование, зарезервированный экземпляр
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dacab1c67a12be5143946c7ede33e647e1373cbb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1b804c76428b0d1f699874b48f7a884161aebcdd
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948270"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435713"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Получение, инициализация, & управление зарезервированными экземплярами виртуальных машин Azure (RI) и серверными подписками для клиентов
 
@@ -112,7 +111,7 @@ ms.locfileid: "85948270"
 - [SUSE и Red Hat Enterprise Linux (портал Azure)](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
 - [Red Hat Linux в Azure](https://azure.com/redhat)
 - [SUSE Linux в Azure](https://azure.microsoft.com/overview/linux-on-azure/suse/)
-- [Linux в Azure;](https://azure.microsoft.com/overview/linux-on-azure/)
+- [Linux в Azure](https://azure.microsoft.com/overview/linux-on-azure/)
 - [Общие сведения о ценах на Azure](https://azure.microsoft.com/pricing/)
 - [Калькулятор цен Azure](https://azure.microsoft.com/pricing/calculator)
 - [Azure Databricks резервирования единиц измерения](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)

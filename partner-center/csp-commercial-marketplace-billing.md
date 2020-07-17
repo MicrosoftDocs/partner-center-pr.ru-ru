@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Узнайте, как выставление счетов действует для продуктов и подписок ISV, приобретенных для клиентов из коммерческого рынка в центре партнеров.
 author: rbars
 ms.author: rbars
-keywords: подписки, продукты, покупки, Marketplace, сторонние лица, независимые поставщики программного обеспечения, выставление счетов, счета, сверка, разведывательную файл
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: af02c5e0d9f824bfe2e5d5e67e5582a3c92c74ed
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 7625488266aab3eb8d1797a99847eaec56ced36f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947812"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435143"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Выставление счетов за продукты и подписки коммерческих рынков в центре партнеров
 
@@ -108,7 +107,7 @@ ms.locfileid: "85947812"
 
 Дополнительные сведения о том, что представляет каждый столбец, см. [в разделе Использование файлов сверки](use-the-reconciliation-files.md). См. также [типы выставления счетов в центре партнеров](billing-different-types.md)
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - [Управление продуктами коммерческого рынка для клиентов](csp-commercial-marketplace-manage.md)
 - [Дополнительные сведения о поддержке продуктов для коммерческого рынка](csp-commercial-marketplace-support.md)

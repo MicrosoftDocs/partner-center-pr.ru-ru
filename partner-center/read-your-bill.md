@@ -7,15 +7,14 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
-keywords: выставление счетов за подписки, выставление счетов, выставления счетов в центре партнеров, просмотр счета, счет, счет центра партнеров, счет CSP, где мой счет?
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 40809fbca8ed81882e9b1d315fd5967143faff1e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 4b91b2f9580d9c369e7a267c2b413db8a4a6300d
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949312"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436633"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Сведения о файле счета и выверке — Узнайте, как их найти в центре партнеров
 
@@ -37,7 +36,7 @@ ms.locfileid: "85949312"
 
 Корпорация Майкрософт выпустит один счет для всех платежей на основе лицензий (например, Office 365) и оплаты за использование (например, Azure), а также отдельный счет за одноразовую оплату (например, Azure RI, Marketplace или Azure Plan).
 
-Например, примененная к объекту директива  
+например следующие.  
 
 **Сценарий 1 [Единая валюта]**: у партнера есть покупки для предложения 145P и лицензий Office 365.  
 

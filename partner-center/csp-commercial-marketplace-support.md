@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Узнайте о поддержке сторонних продуктов независимых поставщиков программного обеспечения или подписок в коммерческом рынке программы CSP.
 author: rbars
 ms.author: rbars
-keywords: подписки, продукты, Marketplace, сторонние лица, независимые поставщики программного обеспечения, издатель, поддержка, CSP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c6fccc14cd01d8131933e3e957a7a3f64801866
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 86ae657725717fea06a6fdb18cadc069e9140ffa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947677"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435043"
 ---
 # <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a>Поддержка продуктов для коммерческого рынка в программе CSP
 
@@ -53,6 +52,6 @@ ms.locfileid: "85947677"
 
 Сведения о доступе к странице **сведений о предложении** см. [в статье Обнаружение предложений в коммерческом магазине](csp-commercial-marketplace-discover.md#view-marketplace-offers-in-partner-center).
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - [Сведения о контрактах, связанных с продуктами для коммерческого рынка](csp-commercial-marketplace-contracting.md)

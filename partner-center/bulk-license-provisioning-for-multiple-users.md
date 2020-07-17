@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Узнайте, как использовать учетную запись клиента для назначения или отзыва лицензий и служб одному пользователю или нескольким пользователям одновременно.
 author: amitravat
 ms.author: amrava
-Keywords: Назначение лицензии, отзыв лицензии, назначение нескольким пользователям,
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 8da5ffd66e717cf26aadc519fe0e5431067b25dd
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 20ef77322ced5a7198dbd0ecaf519f614bc17a32
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390581"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435573"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Назначение или Отмена лицензий одновременно нескольким пользователям в учетной записи клиента
 
