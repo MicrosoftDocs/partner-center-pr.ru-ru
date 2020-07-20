@@ -40,7 +40,7 @@ ms.locfileid: "86434463"
 - <span data-ttu-id="3fe05-119">Отклонить% клиентов за выбранный диапазон дат</span><span class="sxs-lookup"><span data-stu-id="3fe05-119">Decline % of customers during the selected date range</span></span> 
 - <span data-ttu-id="3fe05-120">В микродиаграмме число клиентов в месяц за месяц превышает выбранный диапазон дат</span><span class="sxs-lookup"><span data-stu-id="3fe05-120">Micro chart presents month over month trend of customers count over the selected date range</span></span>
 
-  :::image type="content" source="images/pci/customerproduct.png" alt-text="Снимок экрана панели мониторинга "Сводка клиентов" показывает линейчатые диаграммы и количество активных клиентов, недавно добавленных, потерянных, обработанных или конкретных продуктов.":::
+  :::image type="content" source="images/pci/customerproduct.png" alt-text="Снимок экрана панели мониторинга Сводка клиентов показывает линейчатые диаграммы и количество активных клиентов, недавно добавленных, потерянных, обработанных или конкретных продуктов.":::
 
 <span data-ttu-id="3fe05-122">**Активные клиенты**:</span><span class="sxs-lookup"><span data-stu-id="3fe05-122">**Active Customers**:</span></span>
 
@@ -79,7 +79,7 @@ ms.locfileid: "86434463"
 
 <span data-ttu-id="3fe05-157">Разбивка текущих клиентов на продукты и номера SKU/планы.</span><span class="sxs-lookup"><span data-stu-id="3fe05-157">Breakdown of your current customers count by products and SKUs/plans.</span></span> <span data-ttu-id="3fe05-158">Выберите продукт на круговой диаграмме Product разбиение, чтобы просмотреть разбиение по номерам SKU/планы на диаграмме рядом с ней.</span><span class="sxs-lookup"><span data-stu-id="3fe05-158">Select a product in the product breakup pie chart to view the breakup by SKUs/plans in the chart next to it.</span></span>
 
-:::image type="content" source="images/pci/customerbyprod.png" alt-text="Снимок экрана отчета "клиенты по продуктам" содержит две радиальные диаграммы — один с разбивкой клиентов по продуктам, а другой — с разбивкой по SKU клиента.":::
+:::image type="content" source="images/pci/customerbyprod.png" alt-text="Снимок экрана отчета клиенты по продуктам содержит две радиальные диаграммы — один с разбивкой клиентов по продуктам, а другой — с разбивкой по SKU клиента.":::
 
 <span data-ttu-id="3fe05-160">**Тренд распределения клиентов**</span><span class="sxs-lookup"><span data-stu-id="3fe05-160">**Customer distribution trend**</span></span> 
 
