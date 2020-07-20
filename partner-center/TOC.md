@@ -42,6 +42,7 @@
 ## [Ограниченные возможности прямых счетов](restricted-direct-bill-capabilities.md)
 ## [Переход со статуса партнера с прямым выставлением счетов в статус косвенного торгового посредника в рамках программы CSP](transition-direct-to-indirect.md)
 ## [Соглашения, прайс-листы и предложения CSP](csp-documents-and-learning-resources.md)
+## [Приложение для управления затратами Azure от Cloudyn для участников программы CSP](azure-cost-management-app-for-csp-partners.md)
 ## [Региональные рынки и валюты CSP](regional-authorization-overview.md)
 ## [Инструкции по консолидации клиента региональной авторизации CSP](csp-regional-authorization-tenant-consolidation.md)
 ## [Обзор: новый способ подтвердить принятие клиентом условий Клиентского соглашения Майкрософт](confirm-consent.md)
@@ -121,6 +122,7 @@
 ## [Способы выставления счетов в Центре партнеров](billing-different-types.md)
 ## [Расшифровка счета](read-your-bill.md)
 ## [Использование файлов выверки](use-the-reconciliation-files.md)
+## [Типы расходов в файле выверки](recon-file-charge-types.md)
 ## [Чтение файлов выверки с ежедневной оценкой использования в Центре партнеров](daily-rated-usage-recon-files.md)
 ## [Файлы выверки на основе лицензии](license-based-recon-files.md)
 ## [Распространенные сценарии выставления счетов](common-billing-scenarios.md)
@@ -203,7 +205,10 @@
 ### [Перенос Плана 1 для Skype для бизнеса Online в новые версии Office 365](skype-retiring.md)
 ### [Перенос подписок Azure](switch-azure-subscriptions-to-a-different-partner.md)
 ### [Перенос подписок Kaizala Pro в Microsoft 365](migrate-kaizala-pro-partner.md)
-
+## Консультанты по продажам Office 365
+### [Создание приглашения для ознакомления с пробной версией Office 365](advisors-create-a-trial-invitation.md)
+### [Добавление клиентов с использованием предложений на пробную версию Office 365](advisors-build-your-business.md)
+### [Создание предложения на покупку Office 365](advisor-create-a-purchase-offer.md)
 # Данные и аналитика в Центре партнеров
 ## [Получение доступа к результатам аналитики и данным пользователей](data-analysis-lp.md)
 ## [Использование приложения "Аналитика Центра партнеров для Power BI"](power-bi-app-for-direct-partners.md)
