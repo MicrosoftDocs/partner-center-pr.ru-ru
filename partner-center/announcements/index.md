@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 6163da45280bf0e94fa041470d5ca131341a0516
-ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
+ms.openlocfilehash: 1bf50d056d9f1b688e9593aea9b0edfc955876d7
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86405555"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436073"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,7 @@ ms.locfileid: "86405555"
 
 | **Категория** | **Объявления за июль 2020 года** | **Объявлено** |
 |---------|:---------|:---------|
+|Характеристики|[Новые возможности, добавленные в аналитические отчеты в Центре партнеров](2020-july.md#6)|16 июля|
 |Предложения и рынки|[Бессрочное лицензирование ПО в рамках программы "Поставщик облачных решений" (CSP) ](2020-july.md#5)|15 июля|
 | Предложения и рынки | [Новые номера SKU Голосовой связи Microsoft 365 корпоративный для Teams](2020-july.md#4) | 3 июля |
 | Предложения и рынки | [Новые предложения и продукты Microsoft Dynamics 365 и Power Platform, а также предложения и продукты, жизненный цикл которых скоро завершится](2020-july.md#3) | 1 июля |
