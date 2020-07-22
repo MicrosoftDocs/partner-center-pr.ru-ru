@@ -5,17 +5,16 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как в Центре партнеров добавить новое расположение и каким образом идентификатор расположения MPN используется в программах поощрений, бизнес-операциях CSP, подписках и других транзакциях.
-author: LauraBrenner
-ms.author: labrenne
-keywords: учетная запись партнера, расположения
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6cce4b38cb27d8cef88f71ced6fe985631a24914
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: f13676c8a4343feb5a099053b32b7444bbdfba45
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909062"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436873"
 ---
 # <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>Управление расположениями учетной записи партнера в Центре партнеров и добавление нового расположения
 

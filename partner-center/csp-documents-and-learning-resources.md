@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Здесь вы найдете ссылки на руководства по программе поставщиков облачных решений, соглашения с партнером и с клиентом, прейскуранты и предложения.
 author: LauraBrenner
 ms.author: labrenne
-keywords: руководства по программе csp, руководство по программе, партнерские соглашения, соглашение с клиентом, прейскуранты, предложения
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1db194fb2566c5a474c6743e37deea6ee63ad247
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: d3bdc0e2eb26f9841c4a40a9f3afb7a8c89e5795
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991415"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434963"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Руководство по программе поставщиков облачных решений, соглашения, прейскуранты и предложения
 

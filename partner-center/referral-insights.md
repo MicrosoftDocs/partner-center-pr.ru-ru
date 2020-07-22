@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Регулярно просматривайте полезные сведения об авторах в Центре партнеров, чтобы быть в курсе тенденций и адаптироваться к ним или определить области, требующие улучшения, чтобы эффективнее достигать бизнес-целей.
 author: rajap-ms
 ms.author: rajap
-keywords: автор, анализ, аналитика, метрика, конверсия
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34794d3ef29167b9e6012bfdbedcbfa835028a83
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 24bbca2c973f985e441bd1aebc44d63fdb3e78af
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302341"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436623"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>В Центре партнеров вы можете получить полезные сведения об авторах и их деятельности
 

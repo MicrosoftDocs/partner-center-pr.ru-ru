@@ -7,16 +7,14 @@ ms.subservice: partnercenter-csp
 description: Узнайте, как вычисляются и оплачиваются партнерские баллы (PEC) за управляемые службы для партнеров Майкрософт и как узнать, соответствуете ли вы требованиям для их получения.
 author: adamyeh
 ms.author: adamyeh
-Keywords: ''
-robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d240b3d8e411ce55b086a63d1c14903d6f666d7
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 8c42916c253d1ff2497f47c11c640f2805fc0a86
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390621"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436743"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Как вычисляются и выплачиваются партнерские баллы
 

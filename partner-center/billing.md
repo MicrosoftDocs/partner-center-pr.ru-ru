@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Узнайте о выставлении счетов и налогообложении в Центре партнеров. Сведения касаются выставления счетов, накладных, выставления счетов в рамках CSP и налогов.
 author: sodeb
 ms.author: sodeb
-keywords: выставление счетов, платежи, заказы, отмена, управление заказами, неоплата, мошенничество, ненадлежащее использование, налоги, освобождение от уплаты налогов, файлы выверки, файл выверки
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30415c0580a6a3a5a656f5fd66a5b53aa5c5b7b3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: df4e6932ba1b551403143f154ea1202109369ddb
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948156"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435583"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Обзор: основные статьи, касающиеся выставления счетов и налогообложения в Центре партнеров
 
