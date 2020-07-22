@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Узнайте, как перенести свою компанию из Partner Membership Center (PMC) в Центр партнеров.
 author: LauraBrenner
 ms.author: labrenne
-keywords: PMC, миграция, переход в Центр партнеров
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 773466a1c7bfb8a091be11f8e825dae6cc90b765
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 38985138984335f72e822cf6c77411cf2432dde9
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679091"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434663"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Руководство по переходу с PMC на Центр партнеров
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Узнайте больше о программе для поставщиков облачных решений, а именно преимуществах и различных моделях, которые помогут в развитии вашего бизнеса за счет получения новых знаний и клиентов.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Поставщик облачных решений, CSP, облачные службы, Azure, Office 365, Dynamics, партнер CSP, продажа в CSP, прямой партнер, прямой партнер CSP, непрямой торговый посредник CSP, прямой CSP, непрямой CSP, прямая модель, непрямая модель, непрямой торговый посредник, непрямой поставщик, поставщик, дистрибьютор, программа поставщиков облачных решений
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 90c03aeea719e58dcdb30cb8404066fa13e16a7e
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 152283c6996021ab3944cecd89d808ee70b2d250
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362342"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434913"
 ---
 # <a name="cloud-solution-provider-program-benefits-and-different-models"></a>Преимущества и различные модели программы "Поставщик облачных решений"
 

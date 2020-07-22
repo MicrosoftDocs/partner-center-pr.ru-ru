@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Узнайте, как партнеры в программе CSP могут использовать Центр партнеров для покупки, администрирования, продажи и отмены зарезервированных экземпляров Azure и серверных подписок для клиентов.
 author: BillLinzbach
 ms.author: BillLi
-keywords: Поставщик облачных решений, CSP, облачные службы, Azure, Azure RI, Windows Server, SQL Server, подписки на программное обеспечение, отмена программного обеспечения
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96e4e0fb973350e8d3718b6545eb80ae21d0b49c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 8dd06d44bb9d80e159c18aff312a5e60e96b0539
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377588"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434893"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Продажа подписок на программное обеспечение в рамках программы "Поставщик облачных решений" (CSP)
 

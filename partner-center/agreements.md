@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Узнайте, где найти и как скачать Клиентское соглашение Майкрософт для определенного региона на соответствующем языке, чтобы ознакомить с ним клиентов.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Клиентские соглашения Майкрософт, шаблоны соглашения с клиентами, соглашения с клиентами CSP, Клиентское соглашение Майкрософт, соглашения MCA, CSP, где можно продавать по программе CSP?, страны и регионы CSP, соглашения CSP MCA на нескольких языках, CSP в Северной Америке, CSP в Центральной Америке, CSP в Южной Америке, CSP в Карибском бассейне, CSP для Microsoft Cloud for US Government, CSP для Microsoft Cloud для Германии, CSP на Ближнем Востоке, CSP в Африке, CSP в Европе, CSP в Азии, CSP в Тихоокеанском регионе, соглашения MCA для CSP
 ms.localizationpriority: high
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 9bd4bc77c6afcd1efcb112fc45328150c54d7413
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: 6e60fca0fd8e190a54dbb4b768604c144dfa889f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198592"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436203"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>Клиентские соглашения Майкрософт для разных регионов и языков
 
