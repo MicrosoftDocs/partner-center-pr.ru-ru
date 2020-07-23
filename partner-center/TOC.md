@@ -177,6 +177,7 @@
 ### [Перевод клиентов на план Azure](azure-plan-transition.md)
 ### [Общие сведения о партнерских баллах](partner-earned-credit.md)
 ### [Как вычисляются и выплачиваются партнерские баллы](partner-earned-credit-explanation.md)
+### [Роли и разрешения, доступные за партнерские баллы](azure-roles-perms-pec.md)
 ### [Новый интерфейс для коммерческих приложений в CSP. Выставление счетов в Azure](azure-plan-billing.md) 
 ### [Прейскурант для новой коммерческой модели в CSP для Azure](azure-plan-price-list.md)
 ### [Управление подписками и ресурсами в плане Azure](azure-plan-manage.md)

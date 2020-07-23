@@ -1,21 +1,20 @@
 ---
 title: Основные требования к заявкам на возмещение средств в рамках программ поощрений
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 07/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Узнайте, как создать спрос, понять тенденции развития рынка и максимально повысить готовность партнеров к работе в рамках программы поощрения.
 author: kim-davis
 ms.author: kimnich
-keywords: заявки на возмещение средств в рамках программы поощрения, совместные заявки, совместные фонды, основные требования
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 9ba2ea7a19309443f847322e847666e78ecf058b
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 3c17813ef9fec4ebdf9dee00a644d708c66dcfe5
+ms.sourcegitcommit: 3c28f795e0a2bd7e14e72bc5c0466b46f5e31527
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377618"
+ms.lasthandoff: 07/20/2020
+ms.locfileid: "86475549"
 ---
 # <a name="incentives-co-op-claims-core-requirements"></a>Основные требования к совместным заявкам на возмещение средств в рамках программы поощрения
 
@@ -77,4 +76,7 @@ ms.locfileid: "86377618"
 
 
 
- Дополнительные сведения см. в [руководстве по программе поощрения для партнеров](https://assets.microsoft.com/coop-guidebook.pdf) (требуется выполнить вход).
+ Дополнительные сведения см. в [руководстве по программе поощрения для партнеров](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (требуется выполнить вход).
+
+
+

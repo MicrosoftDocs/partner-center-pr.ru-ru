@@ -8,12 +8,12 @@ description: Запросите связь с клиентом для неско
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: cbf6f1751fb58208b0394b6c6a3a6652cb60fe6e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: b928b5fabb0a3f24a3b60e1712c2e2f77659ad5e
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949244"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943721"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Как запросить у клиента создание связи торгового посредника в Центре партнеров
 
@@ -26,7 +26,7 @@ ms.locfileid: "85949244"
 Если вы хотите установить связь между торговыми посредниками с клиентом и управлять только подготовкой подписок Azure, нет необходимости получать разрешения администратора.
 
 >[!NOTE] 
->Параметр "не запрашивать разрешения" недоступен для партнеров, работающих в Microsoft Cloud для государственных организаций США или Microsoft Cloud Германии. Дополнительные сведения см. в разделе [Клиенты делегируют привилегии администратора партнерам](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).
+>Параметр "не запрашивать разрешения" недоступен для партнеров, работающих в Microsoft Cloud для государственных организаций США или Microsoft Cloud Германии. Дополнительные сведения см. в разделе [Клиенты делегируют привилегии администратора партнерам](customers-revoke-admin-privileges.md).
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Приглашение клиента для установления отношений торгового посредника с вами
 
@@ -67,4 +67,4 @@ ms.locfileid: "85949244"
 
 - [Назначение контактов службы поддержки](assign-support-contacts.md)
 
-- [Удаление связи с клиентом](remove-a-relationship.md)
+- [Удаление взаимоотношений с клиентом](remove-a-relationship.md)

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8b701f372292497d227f607fbd56f06f6da90e4
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: d54522500c52b6237377889a6766dd935bc40804
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377788"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875260"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Приобретение плана Azure для клиентов и доступ к новейшим службам Azure с оплатой по мере использования
 
@@ -78,7 +78,7 @@ ms.locfileid: "86377788"
 >Если у клиента еще нет активного плана Azure, выберите Azure, чтобы добавить его сейчас. Дополнительные инструкции см. в разделе [Приобретение резервирований Azure](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
 
 >[!Note] 
->Сейчас в качестве области резервирования можно задать только **Общая**. 
+>Сейчас в качестве области резервирования в Центре партнеров можно задать только **Общая**. Чтобы выбрать область одной подписки или перейти от общей области к области одной подписки, перейдите на **портал управления Microsoft Azure**, выполнив инструкции ниже. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Параметры резервирования с общей областью":::
 

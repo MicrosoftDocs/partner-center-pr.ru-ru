@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5d4b25798b4ac3c4b2c2edb0d861fd7eb5097b4
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: baa61b2f22f7b585f9764ea33d968c35d7360b53
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436523"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943681"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Создание связи с клиентом с помощью модели КПОР — используется для клиентов Microsoft 365 и Dynamics 365
 
@@ -30,9 +30,9 @@ ms.locfileid: "86436523"
 
 - **Идентификатор MPN** сущности, которая делает утверждение
 
-- [Поиск](https://docs.microsoft.com/partner-center/find-customer-domain-name) в **доменном имени** клиента
+- [Поиск](find-customer-domain-name.md) в **доменном имени** клиента
 
-- **Идентификатор каталога** клиента или **идентификатор клиента** [найти](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+- **Идентификатор каталога** клиента или **идентификатор клиента** [найти](find-customer-domain-name.md)
 
 - **Область решения**, например Business Applications или Microsoft 365
 
@@ -66,9 +66,9 @@ ms.locfileid: "86436523"
 
 2. В верхней части страницы ассоциации клиентов выберите **+ Сопоставление клиентов**.
 
-3. Выберите **идентификатор MPN** для партнера, который должен быть связан с клиентом, а затем добавьте доменное имя и идентификатор каталога клиента. [Где это?](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+3. Выберите **идентификатор MPN** для партнера, который должен быть связан с клиентом, а затем добавьте доменное имя и идентификатор каталога клиента. [Где это?](find-customer-domain-name.md)
 
-4. Выберите **Continue** (Продолжить).
+4. Выберите пункт **Продолжить**.
 
 5. Выберите **область решения** и **действие**. 
 

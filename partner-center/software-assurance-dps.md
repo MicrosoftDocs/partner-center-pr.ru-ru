@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6a0aefa9a6342a6588888c592f0026382e3eb0e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4078bbbc264ec48343deb69d93bedbf75de6d364
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436543"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943691"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Службы планирования Software Assurance в Центре партнеров
 
@@ -68,7 +68,7 @@ ms.locfileid: "86436543"
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Создание или обновление бизнес-профиля компании (новые партнеры)
 
-Максимально эффективное предоставление потенциальных клиентов. Следуйте [инструкциям и рекомендациям](https://docs.microsoft.com/partner-center/create-a-marketing-profile) по созданию или обновлению бизнес-профиля компании в центре партнеров.
+Максимально эффективное предоставление потенциальных клиентов. Следуйте [инструкциям и рекомендациям](create-a-marketing-profile.md) по созданию или обновлению бизнес-профиля компании в центре партнеров.
 
 ## <a name="customer-creates-and-assigns-voucher-existing-partners"></a>Клиент создает и назначает документ (существующие партнеры).
 
@@ -103,7 +103,7 @@ ms.locfileid: "86436543"
 
 Чтобы отправить счет в корпорацию Майкрософт через САВБ, следуйте инструкциям на [шаге 8](https://go.microsoft.com/fwlink/?linkid=2115983) рабочего процесса.
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## <a name="next-steps"></a>Следующие шаги
 
 - [Рабочий процесс служб планирования Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [Вопросы и ответы по службам планирования Software Assurance](https://go.microsoft.com/fwlink/?linkid=2116077)

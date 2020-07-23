@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7625488266aab3eb8d1797a99847eaec56ced36f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f5c506e1f3dd5e1ffcac1d7017687b1b36718745
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435143"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943478"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Выставление счетов за продукты и подписки коммерческих рынков в центре партнеров
 
@@ -47,7 +47,7 @@ ms.locfileid: "86435143"
 
     В верхней части страницы выставления счетов отображаются две вкладки: **повторяющиеся** и **повторяющиеся и одноразовые покупки**. На каждой вкладке можно получить доступ к файлам счетов и сверки (разведывательную) для различных продуктов Marketplace:
 
-    - **Повторяющаяся** вкладка: показывает файлы счетов и выверки для подписок, связанных с Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, PowerBI Pro и Microsoft Azure.
+    - **Повторяющаяся** вкладка: отображает файлы накладных и выверки для подписок, связанных с Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro и Microsoft Azure.
 
     - Вкладка " **повторяющиеся" и "разовые покупки** ": показывает файлы счетов и выверки для плана Azure, резервирования Azure, программного обеспечения и коммерческих продуктов.
   
@@ -107,7 +107,7 @@ ms.locfileid: "86435143"
 
 Дополнительные сведения о том, что представляет каждый столбец, см. [в разделе Использование файлов сверки](use-the-reconciliation-files.md). См. также [типы выставления счетов в центре партнеров](billing-different-types.md)
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## <a name="next-steps"></a>Следующие шаги
 
 - [Управление продуктами коммерческого рынка для клиентов](csp-commercial-marketplace-manage.md)
 - [Дополнительные сведения о поддержке продуктов для коммерческого рынка](csp-commercial-marketplace-support.md)

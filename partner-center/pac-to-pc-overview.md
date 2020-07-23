@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a96375c26468c130ec14e41f83eb8a1d35daa58
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c53aac7566bfa561521d5cb9304b90dd172784d5
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434163"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943751"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Центр администрирования партнеров переносится в Центр партнеров
 
@@ -43,7 +43,6 @@ ms.locfileid: "86434163"
 
 **Партнеры-консультанты.** (если вы работаете через CSP и используете PAC для предоставления ознакомительных версий/ценовых предложений клиентам) Как только мы примем решение о сроке вашего автоматического перенаправления в Центр партнеров, мы объявим об этом здесь. 
 
-
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Начните использовать Центр партнеров Майкрософт уже сейчас!
 
 Начните использовать [Центр партнеров Майкрософт](https://partnercenter.microsoft.com/) сейчас, чтобы подготовиться к переходу с ключа PAC.  Вы будете использовать те же учетные данные для центра партнеров, который используется для PAC.
@@ -51,4 +50,4 @@ ms.locfileid: "86434163"
 > [!IMPORTANT]  
 > Некоторые функции и функции, которые были доступны в PAC, не будут доступны в центре партнеров.
 
- См. [сравнение функций](moving-from-pac-to-pc.md), чтобы ознакомиться с этими изменениями.  Дополнительные сведения об управлении учетными записями и клиентами, о лицензиях и подписках, ценах и предложениях и пр. см. в [справке Центра партнеров Майкрософт](https://docs.microsoft.com/partner-center/).
+ См. [сравнение функций](moving-from-pac-to-pc.md), чтобы ознакомиться с этими изменениями. 
