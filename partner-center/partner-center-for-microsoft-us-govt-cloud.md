@@ -5,16 +5,16 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Этот сайт центра партнеров предназначен для партнеров Майкрософт, которые предлагают облачные решения Майкрософт клиентам, работающим с правительственными учреждениями, в США.
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 99f99b0b10630de60f3b6784d291b4e03cf8438a
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 2013f5e38041004ddee5720fa07a02d8c68db3d1
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328195"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114885"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>Центр партнеров по Microsoft Cloud для государственных организаций США поддерживает предложения партнеров в правительственных учреждениях
 

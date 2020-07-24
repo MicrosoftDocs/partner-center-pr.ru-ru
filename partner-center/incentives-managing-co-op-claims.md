@@ -3,21 +3,21 @@ title: Управление утверждениями в совместных �
 description: Сведения о процессе обработки заявок на совместное выполнение, включая крайние сроки, проблемы с валютой и спорные вопросы об отклоненных заявках на совместное выполнение.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 3a611ca37f1ddad53d1fdbf049645c7976a67d3f
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: b200c946825fa84d4cd9ca87c05c345a0476e344
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949491"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114763"
 ---
 # <a name="manage-co-op-claims"></a>Управление утверждениями в совместных операциях
 
-Область применения:
+Применяется к:
 
 - Центр партнеров
 

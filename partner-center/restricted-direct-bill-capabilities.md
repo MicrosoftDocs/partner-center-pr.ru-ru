@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о требованиях партнеров CSP Direct и о том, что делать, чтобы избежать ограничения возможностей. Узнайте, не были ли ваши возможности ограничены.
-author: LauraBrenner
-ms.author: labrenne
+author: billLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 710c012af7ded851693eacef0e150bef897ef786
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: eb6f89bca86feb1f2c3d2b7d536a810bdb5173e3
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436593"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87113974"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Ограниченные возможности прямого счета и требования, необходимые для партнеров по прямым счетам CSP  
 
