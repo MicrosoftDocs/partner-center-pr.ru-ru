@@ -5,19 +5,19 @@ ms.date: 06/29/2020
 description: Убедитесь, что вы имеете право на создание доходов и оплачиваете в рамках программы поощрения.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 052cd36c06c9d1856fa3ccf6d257f806891a3303
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: f67874d5fe44f52e8080abea3dd9403a5f3645e6
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949697"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114561"
 ---
 # <a name="confirm-your-earnings-eligibility"></a>Подтверждение соответствия вашей прибыли требованиям
 
-Область применения:
+Применяется к:
 
 - Центр партнеров
 
@@ -34,7 +34,7 @@ ms.locfileid: "85949697"
 2. Прокрутите вниз, чтобы получить доступ к документам интересующей программы, и щелкните ссылку на документ для соответствующей программы.
 3. В документе см. разделы **Право на участие в партнерской программе** и **Соответствующие правила получения доходов**.
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Как обратиться в службу поддержки за помощью в поощрениях](https://support.microsoft.com/help/4014850)
 - [Разделы справки найти администратора глобального или учетной записи в центре партнеров?](https://support.microsoft.com/help/4534519)

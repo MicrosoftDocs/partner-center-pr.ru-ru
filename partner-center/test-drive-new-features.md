@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Опробуйте новые функции Центра партнеров до их выпуска и сообщите нам свое мнение. Помогите определить будущее Центра партнеров!
-author: LauraBrenner
-ms.author: labrenne
+author: adamyeh
+ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d34094b9112cb69087006f2537c43ca1bd4fc8e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 422f2d662d8fa8d992532bf5945acdd5bf6683ca
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679401"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114845"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>Тестовый выпуск новых функций центра партнеров и помощь в формировании будущего центра партнеров
 
@@ -24,7 +24,7 @@ ms.locfileid: "84679401"
 
 ## <a name="help-shape-the-future-of-partner-center"></a>Помогите определить будущее Центра партнеров!
 
-Мы постоянно выпускаем новые функции и возможности в центре партнеров и хотели бы ваши отзывы! 
+Мы постоянно выпускаем новые функции и возможности в центре партнеров и хотели бы ваши отзывы!
 
 Приглашаем вас опробовать наши новые функции до того, как они будут представлены пользователям мирового сообщества Центра партнеров, и просим сообщить свое мнение об этих функциях. На [странице объявлений Центра партнеров](announcements/index.md) вы сможете ознакомиться с описанием будущих функций, чтобы уже сейчас начать планировать, как выгоднее всего использовать их в своей работе. Для тестирования диска в определенное время может быть доступно несколько функций.
 

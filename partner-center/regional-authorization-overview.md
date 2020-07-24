@@ -5,20 +5,20 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Ознакомьтесь с странами, регионами и валютами, в которых можно продать предложения CSP на основе расположения вашей компании.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ced2ff2890f9e017de5f4bcc1dfefaedf33cda64
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a4472702104d3d4596d57633e80b8e652c624297
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434173"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114095"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Региональные рынки и валюты поставщика облачных решений, где можно продать предложения CSP
 
-Ваш рынок определяется местоположением компании. На рынке представлены регионы и (или) страны, в которых можно продать предложения программы поставщика облачных решений (CSP).
+Расположение вашей компании определяет ваш рынок. На рынке представлены регионы и (или) страны, в которых можно продать предложения программы поставщика облачных решений (CSP).
 
 Например, если ваша компания находится в США, вы можете продавать предложения CSP клиентам в США и в общедоступных островах США. Если ваша компания находится в Бразилии, вы можете продавать предложения CSP клиентам только в Бразилии. Если ваша компания находится в регионе Африки, вы можете продавать предложения CSP клиентам во всех 18 странах в регионе Африки.
 

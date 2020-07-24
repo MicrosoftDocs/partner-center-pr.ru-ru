@@ -1,20 +1,20 @@
 ---
 title: Сообщение о проблемах в корпорацию Майкрософт
+description: Узнайте, какие проблемы должны решать партнеры корпорации Майкрософт для своих клиентов и какие проблемы может потребоваться передать корпорации Майкрософт.
 ms.topic: article
-ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте, какие проблемы должны решать партнеры корпорации Майкрософт для своих клиентов и какие проблемы может потребоваться передать корпорации Майкрософт.
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c08f98477e1c7761a66c2d7cfccabd27d8e81a77
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.date: 05/18/2020
+ms.openlocfilehash: 92ce4eea3fba444967f83aab5ff4e3d8ed9aa560
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219602"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114154"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Эскалация проблем в корпорацию Майкрософт и Узнайте, какие проблемы больше подходят для эскалации Майкрософт  
 
@@ -56,19 +56,12 @@ ms.locfileid: "86219602"
 
 5. Вы перейдете на портал Office 365, где необходимо войти, используя учетные данные центра партнеров.
 
-6. Выберите **Поддержка**, а затем — **Новый запрос на обслуживание** в меню слева.
+6. Выберите **Поддержка**, **новый запрос на обслуживание** в левой части меню.
 
 7. Выберите тему поддержки.
 
 >[!NOTE]
 >Важно начать с панели мониторинга центра партнеров, чтобы обеспечить взаимодействие между партнером и клиентом. 
 
-
 Инструкции по уведомлению о проблемах от имени клиента см. в разделе [Сообщение о проблемах от имени клиента](report-problems-on-behalf-of-a-customer.md).
-
- 
-
- 
-
-
 

@@ -5,17 +5,17 @@ ms.date: 07/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Соблюдайте эти инструкции, чтобы консолидировать клиентов для разных стран и регионов. Сюда входят действия по переносу учетных записей клиентов и клиентских подписок.
-author: LauraBrenner
-ms.author: labrenne
+author: billLinzbach
+ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46ba699bee0a7e4554042522528fdc6d2a18596a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 956ed0dec2588e1cc2f697e61671308c2d86f8d0
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434923"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114406"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Инструкции по консолидации клиента региональной авторизации CSP
 
@@ -146,6 +146,6 @@ ms.locfileid: "86434923"
 
 Дополнительные сведения о регистрации API см. [в статье Настройка доступа через API в центре партнеров](https://go.microsoft.com/fwlink/?linkid=847990).
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Настройка и управление учетными записями клиентов для партнеров через торгового посредника в центре партнеров](customer-accounts.md)

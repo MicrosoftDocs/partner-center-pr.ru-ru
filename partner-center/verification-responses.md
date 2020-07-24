@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b3a82e53c4947cdfd761fd2a9e0d998ca0d5c3a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 38c36ab0cf33cd8217f0a745e7a9e47376990105
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436443"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943821"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Проверка данных учетной записи при регистрации в новой программе центра партнеров
 
@@ -39,7 +39,7 @@ ms.locfileid: "86436443"
 |бизнеса   |Бизнес-Проверка подтверждает, что компания регистрации является законной бизнес-сущностью и адресом, используемым для регистрации.|Если проверка бизнес-данных завершается неудачно, основной контакт (обычно администратор глобального или административной учетной записи) будет запрашивать официальную документацию, например, сертификат регистрации или налоговую регистрацию или чек, из домашней страны компании или органа государственной власти, подтверждающий, что компания имеет право выполнять бизнес с этим именем и находится по адресу регистрации. [Создание запроса в службу поддержки](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
 
 >[!NOTE]
->Узнайте, как обновить ваш [юридический бизнес-профиль (адрес)](https://docs.microsoft.com/partner-center/update-your-partner-profile).
+>Узнайте, как обновить ваш [юридический бизнес-профиль (адрес)](update-your-partner-profile.md).
 
 ## <a name="when-verification-concludes"></a>Когда завершается проверка
 

@@ -4,18 +4,18 @@ description: Чтобы получить исключительные преим
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 robots: noindex,nofollow
 ms.localizationpriority: medium
 ms.date: 03/19/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dac4c066df7022489cc43694450f5ae4aa7027a4
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 53b25e454c3ba5c59b9fa460bbd38d81391f7093
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436483"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114454"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership-and-explore-new-offers-programs-and-resources"></a>Обновление Microsoft Partner Network членства и изучение новых предложений, программ и ресурсов
 
@@ -109,7 +109,7 @@ ms.locfileid: "86436483"
 
 Чтобы отменить подписку на Microsoft Action Pack, вы должны обратиться в службу поддержки Центра партнеров.
 
-1. Перейдите по адресу [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support).
+1. Перейдите на страницу [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support).
 
 2. Выберите **Report problems with Partner Center** (Сообщить о проблемах с Центром партнеров), а затем на следующей странице выберите **Новый запрос**.
 
@@ -119,7 +119,7 @@ ms.locfileid: "86436483"
 
    Чтобы проверить состояние своего запроса на обслуживание, выберите **Запросы на обслуживание > Запросы Центра партнеров** и нажмите кнопку **Открыть**. Выберите из списка соответствующий запрос на обслуживание.  
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Активация подписки на Action Pack](manage-your-partner-network-benefits.md)
 

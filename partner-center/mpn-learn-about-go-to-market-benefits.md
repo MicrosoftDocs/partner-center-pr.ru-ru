@@ -5,16 +5,16 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Узнайте, как использование предложения "переход на рынке" с помощью предложений Майкрософт поможет ускорить работу на рынке, создать интересы и расширить свой бизнес.
-author: LauraBrenner
-ms.author: labrenne
+author: arpithakanuganti
+ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80d4a8c15a5812186d8a9604b7cd8089804be7fb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: d09dce7f4a80ed3014ecc8345d6f2bdf93da214d
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436793"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114646"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Узнайте о возможностях перехода на рынке с помощью предложений Майкрософт
 
@@ -70,7 +70,7 @@ ms.locfileid: "86436793"
 
    - Щелкните **Обзор**. Перейдите к разделу **быстрые ссылки** и выберите вкладку **Переход на рынке** .
 
-     или
+     or
 
    - Выберите **преимущества** , а затем — **"переход на рынок"**.
 
@@ -83,7 +83,7 @@ ms.locfileid: "86436793"
 >[!IMPORTANT]
 >Необходимо быть администратором глобального администратора или партнера MPN Partner, чтобы активировать конкретные предложения для перехода на рынке и назначить связанное маркетинговое Контактное лицо. При необходимости вы можете стать глобальным администратором, следуя инструкциям на своей странице [**Преимущества**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (необходимо выполнить вход). В вашей организации уже может быть глобальный администратор, поэтому не забудьте проверить это у своей рабочей группы.
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Управляйте преимуществами партнерских сетей](manage-your-partner-network-benefits.md)
 
