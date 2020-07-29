@@ -9,12 +9,12 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: a1937a750100450aa8c3fe0e0846ea688d284bf5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cf2d1085b529e1fbd0fad74c4e56d16f789a48e9
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435823"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943961"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Начало перехода на тарифы с оплатой по мере использования для плана Azure
 
@@ -48,7 +48,7 @@ ms.locfileid: "86435823"
 - Можно реализовать [параметры безопасности Azure AD по умолчанию](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 - Реализация стороннего решения и обеспечение применения MFA для каждого пользователя.
 
-Начиная с 1 августа 2019 года все партнеры обязаны применять в своем арендаторе многофакторную проверку подлинности для всех пользователей, включая учетные записи служб. Подробные сведения об этих требованиях к безопасности можно найти в разделе [Требования к безопасности для партнеров](https://docs.microsoft.com/partner-center/partner-security-requirements).
+Начиная с 1 августа 2019 года все партнеры обязаны применять в своем арендаторе многофакторную проверку подлинности для всех пользователей, включая учетные записи служб. Подробные сведения об этих требованиях к безопасности можно найти в разделе [Требования к безопасности для партнеров](partner-security-requirements.md).
 
 Корпорация Майкрософт рекомендует партнерам осмотрительно использовать RBAC, следуя рекомендациям раздела [Что такое Azure AD Privileged Identity Management?](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)
 

@@ -5,16 +5,16 @@ ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Ознакомьтесь с полезными сведениями и часто задаваемыми вопросами, прежде чем переводить свою организацию из Partner Membership Center в Центр партнеров.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyamsft
+ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9085a4faaea4ac028633eb669212af5afbcb3d4
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 31da796b50e9deeb2d6256e7818e587e9bedb881
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749170"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114566"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Подготовка к переходу из Partner Membership Center (PMC) в Центр партнеров
 
@@ -55,7 +55,7 @@ ms.locfileid: "84749170"
 
 **Что происходит с ролями моих пользователей при переходе из PMC в Центр партнеров?**
 
-За исключением глобального администратора MPN или основного контакта программы, выполняющего переход, все пользователи в PMC потеряют свои роли администратора. Пользователю, выполняющему перенос, потребуется назначить роли в Центре партнеров. Роли в Центре партнеров отличаются от ролей в PMC. Дополнительные сведения о ролях пользователей в Центре партнеров см. в разделах [Назначение ролей и разрешений пользователей](permissions-overview.md) и [Переход от PMC к Центру партнеров](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles).
+За исключением глобального администратора MPN или основного контакта программы, выполняющего переход, все пользователи в PMC потеряют свои роли администратора. Пользователю, выполняющему перенос, потребуется назначить роли в Центре партнеров. Роли в Центре партнеров отличаются от ролей в PMC. Дополнительные сведения о ролях пользователей в Центре партнеров см. в разделах [Назначение ролей и разрешений пользователей](permissions-overview.md) и [Переход от PMC к Центру партнеров](move-pmc-pc-map.md#user-roles).
 
 
 **В чем разница между профилем моей компании и моим бизнес-профилем?**

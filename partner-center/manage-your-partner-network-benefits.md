@@ -5,16 +5,16 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Станьте членом программы Microsoft Partner Network (MPN) и используйте преимущества и предложения для участников в Центре партнеров, чтобы помочь своему бизнесу.
-author: LauraBrenner
-ms.author: labrenne
+author: arpithakanuganti
+ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4f13dcd911da248b1674f2ded9c596f85857541a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cb44a8c32476995275535e1252e2bc9ae2c618d1
+ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434353"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87120002"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Управление преимуществами и предложениями для участников Microsoft Partner Network в Центре партнеров
 
@@ -43,7 +43,7 @@ ms.locfileid: "86434353"
 
 Пакеты преимуществ включают в себя выделение лицензированного программного обеспечения, облачные службы, подписки Visual Studio и поддержку. Пакеты преимуществ могут также включать в себя некоторые ресурсы, предложения и программы для выхода на рынок. Вы можете получить сведения о подписке Action Pack на сайте [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
-Для просмотра всех преимуществ членства и управления ими перейдите на страницу [**Преимущества**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (необходимо выполнить вход). Кроме того, вы можете войти через [панель мониторинга](https://docs.microsoft.com/partner-center/) Центра партнеров, выбрать [**пункт "Преимущества"** ] в меню слева, а затем выбрать все возможные преимущества.  
+Для просмотра всех преимуществ членства и управления ими перейдите на страницу [**Преимущества**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (необходимо выполнить вход). Кроме того, вы можете войти через [панель мониторинга](https://partner.microsoft.com/dashboard) Центра партнеров, выбрать [**пункт "Преимущества"** ] в меню слева, а затем выбрать все возможные преимущества.  
 
 ## <a name="manage-software-benefits"></a>Управление преимуществами программного обеспечения
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d54522500c52b6237377889a6766dd935bc40804
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 9dae2a9b716ee87891aafbe41ad87200f99ecb1b
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875260"
+ms.locfileid: "86943531"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Приобретение плана Azure для клиентов и доступ к новейшим службам Azure с оплатой по мере использования
 
@@ -37,7 +37,7 @@ ms.locfileid: "86875260"
 
 :::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Приобретение":::
 
-Партнер должен убедиться, что клиент изучил и принял условия клиентского договора с Майкрософт. Дополнительные сведения о том, как партнер может это сделать, см. в разделе [Подтверждение принятия клиентом соглашения Майкрософт для клиентов](https://docs.microsoft.com/partner-center/confirm-customer-agreement). Дополнительные материалы доступны в [коллекции ресурсов](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
+Партнер должен убедиться, что клиент изучил и принял условия клиентского договора с Майкрософт. Дополнительные сведения о том, как партнер может это сделать, см. в разделе [Подтверждение принятия клиентом соглашения Майкрософт для клиентов](confirm-customer-agreement.md). Дополнительные материалы доступны в [коллекции ресурсов](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
 **Способы подтверждения**: 
 
@@ -75,9 +75,9 @@ ms.locfileid: "86875260"
 Резервирования Azure должны быть связаны с активным планом Azure. Из списка подписок клиента выберите план Azure, для которого требуется добавить резервирования Azure. 
 
 >[!Important] 
->Если у клиента еще нет активного плана Azure, выберите Azure, чтобы добавить его сейчас. Дополнительные инструкции см. в разделе [Приобретение резервирований Azure](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
+>Если у клиента еще нет активного плана Azure, выберите Azure, чтобы добавить его сейчас. Дополнительные инструкции см. в разделе [Приобретение резервирований Azure](azure-reservations-buying.md#purchase-azure-reservations).
 
->[!Note] 
+>[!Note]
 >Сейчас в качестве области резервирования в Центре партнеров можно задать только **Общая**. Чтобы выбрать область одной подписки или перейти от общей области к области одной подписки, перейдите на **портал управления Microsoft Azure**, выполнив инструкции ниже. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Параметры резервирования с общей областью":::

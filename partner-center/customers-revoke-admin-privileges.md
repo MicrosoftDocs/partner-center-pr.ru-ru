@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 22cdcb48df263323ac2862ced3a0f06eff2b0570
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 88b3a71bb63ac7ac3287712944a2a4663928a165
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434753"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943511"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Получение разрешений для управления службой или подпиской клиента
 
@@ -106,7 +106,7 @@ ms.locfileid: "86434753"
 
 - Вы не можете управлять устройствами, добавленными клиентом с помощью Microsoft Store для бизнеса, Microsoft Store для образования или портала Microsoft Intune.
 
-Дополнительные сведения о службе Autopilot см. в разделе [Упрощение настройки устройства с Windows Autopilot](https://docs.microsoft.com/partner-center/autopilot).
+Дополнительные сведения о службе Autopilot см. в разделе [Упрощение настройки устройства с Windows Autopilot](autopilot.md).
 
 >[!IMPORTANT]  
 >Текущие возможности управления Autopilot в Центре партнеров могут меняться. На момент публикации этой статьи рассматривались следующие изменения.
