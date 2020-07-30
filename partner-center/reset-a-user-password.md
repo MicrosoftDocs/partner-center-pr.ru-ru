@@ -9,18 +9,22 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9174b8caaed8f49d40b3f599fc3264ebd36bd937
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: bf6c77652b517b6ce6a6a7eba2a6c5675e7080c1
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265228"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365770"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>Сброс пароля пользователя в центре партнеров
 
 **Относится к**
 
 - Центр партнеров
+ 
+**Соответствующие роли**
+
+- Глобальный администратор
 
 > [!NOTE]  
 > Если вы зарегистрировались в программе поставщика облачных решений (CSP) в Microsoft Cloud Германии, см. раздел [Управление пользователями в центре партнеров для Microsoft Cloud Германии](user-management-in-partner-center-for-microsoft-cloud-germany.md) для получения сведений о сбросе пароля пользователя.
@@ -37,3 +41,6 @@ ms.locfileid: "86265228"
 
 4. Вы увидите экран подтверждения с временным паролем для нового входа. Его необходимо скопировать и отправить новому пользователю. после выхода из экрана он становится недоступным. При первом входе в систему ему будет предложено обновить свой пароль.
 
+## <a name="next-steps"></a>Дальнейшие действия
+
+- [Добавление пользователей](create-user-accounts-and-set-permissions.md)
