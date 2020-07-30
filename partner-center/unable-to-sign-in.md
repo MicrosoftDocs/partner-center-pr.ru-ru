@@ -9,14 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 76c16d7f40bac4a01f90df3dfe289cf92f588462
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: af06cd5da4ea5a38ea272a2210bca9917bbecdd9
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436513"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365750"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Если вы не можете войти в центр партнеров и вам нужно сбросить пароль
+
+**Соответствующие роли**
+
+- Пользователи центра партнеров
 
 Если вы забыли пароль и не можете войти в Центр партнеров, необходимо обратиться в службу поддержки. Найдите соответствующий номер телефона в статье о [службе поддержки продуктов для бизнеса](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone#ID0EAADAAA=Phone_support_). 
 
@@ -24,7 +28,7 @@ ms.locfileid: "86436513"
 
 После сброса пароля рабочей учетной записи вы сможете получить доступ к центру партнеров. 
 
-## <a name="see-more"></a>Подробнее
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Проверка данных учетной записи](verification-responses.md)
 - [Сброс пароля](reset-my-pasword.md)
