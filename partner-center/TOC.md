@@ -15,6 +15,7 @@
 ### [Руководство по переходу нескольких компаний в Центр партнеров](move-multiple-companies.md)
 ### [Консолидация учетных записей компаний](consolidate-accounts.md)
 
+
 ## Предложения в рамках членства
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Продление подписок на предложения](renew-mpn-offers.md)
@@ -65,6 +66,7 @@
 ## [Проверка вашего владения доменом](become-global-admin.md)
 ## [Проверка данных учетной записи](verification-responses.md)
 ## [Объединение учетной записи партнера с другой учетной записью партнера](merge-accounts.md)
+## [Сопоставление дополнительных клиентов Azure AD с учетной записью Центра партнеров](multi-tenant-account.md)
 ## [Обновление профиля партнера](update-your-partner-profile.md)
 ## [Расположения](manage-locations.md)
 ## [Регистрация в качестве поставщика панелей управления](enroll-as-cpv.md)
@@ -100,6 +102,7 @@
 ### Начало работы с поощрениями
 #### [Определение возможности участия в программе](incentives-determined-your-program-eligibility.md)
 #### [Создание профилей для выплат и налогов и управление ими в Центре партнеров](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+#### [Часто задаваемые вопросы о профилях для выплат и налогов в рамках программы поощрения](incentives-payout-tax-profile-faqs.md)
 #### [Подтверждение соответствия вашей прибыли требованиям](incentives-confirm-your-earnings-eligibility.md)
 #### [Просмотр сведений о программах вознаграждений и платежей по ним](understand-incentive-payouts.md)
 #### [Доступ к странице выплат по программам поощрений](incentives-unified-user-guide.md)
@@ -132,6 +135,9 @@
 ### [Накладные — чтение данных в полях выставления счетов и одноразовых платежей](invoice-file.md)
 ### [Выставление счетов на основе лицензии](license-based-billing.md)
 ### [Сценарии использования подписок SaaS на основе лицензий](common-billing-scenarios-saas.md)
+
+## [Просмотр данных о цифровых подписях — Центр партнеров (Индия)](digital-signature.md)
+
 ## [Налоги и освобождение от уплаты налогов](tax-and-tax-exemptions.md)
 ### [Сведения об НДС компании](organization-tax-info.md)
 ### [Проверка начисления подоходного налога](withholding-tax-credit-form.md)
