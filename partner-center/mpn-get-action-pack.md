@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Узнайте, как приобрести подписку Microsoft Action Pack и начать использовать преимущества Action Pack. Также вы узнаете, как возобновить, отменить и просмотреть счет и выполнить многие другие действия.
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45abf47801dce26e14880afe91b3f104ee9822ec
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 6408aca4275b331b46de45b62d66e637dd422033
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436803"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114689"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Приобретение или продление подписки Microsoft Action Pack и компетенций уровня Silver и Gold
 
@@ -32,7 +32,7 @@ ms.locfileid: "86436803"
 - Агент по администрированию
 - Агент по продажам
 
-[Панель мониторинга](https://docs.microsoft.com/partner-center/) Центра партнеров теперь позволяет участникам Microsoft Partner Network (MPN) приобретать или продлевать предложения по предоставлению преимуществ. Эти предложения включают подписку Microsoft Action Pack и компетенции уровня Silver и Gold.
+[Панель мониторинга]() Центра партнеров теперь позволяет участникам Microsoft Partner Network (MPN.md) приобретать или продлевать предложения по предоставлению преимуществ. Эти предложения включают подписку Microsoft Action Pack и компетенции уровня Silver и Gold.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Приобретение Microsoft Action Pack в первый раз
 

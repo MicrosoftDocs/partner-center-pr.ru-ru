@@ -9,18 +9,23 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 0fcdd4129eb61ee955ec5804ae16e346a222c45b
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: b8f06013651f6b41ea9e31d1a444465c052dcb06
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265236"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365780"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Управляйте учетной записью Центра партнеров: профилем, банковскими данными, ролями, разрешениями и другими данными своей компании.
 
 **Относится к**
 
 - Центр партнеров
+ 
+**Соответствующие роли**
+
+- Глобальный администратор
+- Администратор учетных записей MPN
 
 Чтобы создать учетную запись в Центре партнеров при регистрации, необходимо указать рабочий адрес электронной почты и определенную бизнес-информацию. После создания учетной записи в Центре партнеров вам нужно будет завершить создание полного профиля вашей компании, включая сведения о поддержке, отправить основание для освобождения от уплаты налогов (если это применимо) и предоставить основную контактную информацию. В учетную запись компании также входят учетные записи пользователей для всех, кто будет использовать Центр партнеров для добавления клиентов или управления ими, продажи подписок, работы с выставлением счетов и счетов-фактур, создания бизнес-профилей, управления рекомендациями, работы с программами поощрения, а также предоставления поддержки.
 
@@ -94,7 +99,7 @@ ms.locfileid: "86265236"
 
 - [Коммерческая платформа](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
 - [MPN](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
-- [CSP](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [CSP](enrolling-in-the-csp-program.md)
 - [Магазин Office](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 См. сведения о регистрации в программах Центра партнеров в описании [ресурсов Partner Network](https://partner.microsoft.com/).
