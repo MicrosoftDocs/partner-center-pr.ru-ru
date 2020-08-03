@@ -149,7 +149,6 @@
 
 # [Связь с клиентами](customer-accounts.md)
 ## [Добавление нового клиента](add-a-new-customer.md)
-## [Поиск доменного имени и идентификатора в каталоге для клиента](find-customer-domain-name.md)
 ## [Запрос связи торгового посредника с клиентом](request-a-relationship-with-a-customer.md)
 ## [Удаление связи торгового посредника с клиентом](remove-a-relationship.md)
 ## [Делегирование прав администрирования клиентами партнерам или отзыв таких прав](customers-revoke-admin-privileges.md) 
@@ -217,9 +216,12 @@
 ### [Добавление клиентов с использованием предложений на пробную версию Office 365](advisors-build-your-business.md)
 ### [Создание предложения на покупку Office 365](advisor-create-a-purchase-offer.md)
 # Данные и аналитика в Центре партнеров
+
 ## [Получение доступа к результатам аналитики и данным пользователей](data-analysis-lp.md)
-## [Использование приложения "Аналитика Центра партнеров для Power BI"](power-bi-app-for-direct-partners.md)
-## [Работа с приложением "Аналитика Центра партнеров для Power BI"](power-bi-app-for-direct-partners.md)
+## Аналитика Центра партнеров для Power BI
+### [Вводные сведения об Аналитике Центра партнеров для Power BI](power-bi-app-for-direct-partners.md)
+### [Установка Аналитики Центра партнеров для Power BI](power-bi-app-for-direct-partners-install.md)
+### [Использование Аналитики Центра партнеров для Power BI](power-bi-app-for-direct-partners-use.md)
 ## [Аналитика Центра партнеров](partner-center-insights.md)
 ### [Аналитика — обзорная панель мониторинга](pci-overview-report.md)
 ### [Аналитика — управление доступом на основе ролей к панели мониторинга аналитики](pci-roles.md)
@@ -237,8 +239,6 @@
 ## [Анализ эффективности косвенных торговых посредников](analyze-indirect-resellers.md)
 ## [Анализ подписок и лицензий](analyze-subscriptions-licenses.md)
 ## [Аналитика Microsoft Learn](ms-learn-analytics.md)
-## [Аналитика Центра партнеров для Power BI](power-bi-app-for-direct-partners-use.md)
-## [Установка приложения "Аналитика Центра партнеров для Microsoft Power BI" и ознакомление с ним](power-bi-app-for-direct-partners-install.md)
 
 # [Работа с другими партнерами](work-with-other-partners.md)
 ## [Задачи непрямого поставщика в Центре партнеров](indirect-provider-tasks-in-partner-center.md)

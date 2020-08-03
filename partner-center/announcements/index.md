@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 7a15cd7fbf51a54e6190f29c41fd21ef5ed419fd
-ms.sourcegitcommit: 93b7230d5807adc470775ee38d4e139d84980ebb
+ms.openlocfilehash: ff92983f936add17d746c08815149ffb2731cbab
+ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "87330121"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87479087"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,7 @@ ms.locfileid: "87330121"
 
 | **Категория** | **Объявления за июль 2020 года** | **Объявлено** |
 |---------|:---------|:---------|
+|Характеристики|[Изменения в выпуске расширенных возможностей вызова для Корпоративной голосовой связи и Аудиоконференций](2020-july.md#10)|31 июля|
 |Характеристики|[Предстоящие изменения, связанные с интерфейсами API Центра партнеров](2020-july.md#9)|28 июля|
 |Характеристики|[Выпуск пакета SDK для .NET Standard предварительной версии 1.16.1](2020-july.md#8)|21 июля|
 |Характеристики|[Срок действия программы поощрения "Поставщик облачных решений" (CSP) для соответствующих предложений коммерческой платформы Майкрософт продлен до 2021 финансового года](2020-july.md#7)|22 июля|
