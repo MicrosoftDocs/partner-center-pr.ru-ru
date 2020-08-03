@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8be96bffd34cef4beb4f53f23266a389a9c9d0f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 575c68a15838e67cc7123e756dc15206eb2e4d7d
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436713"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444892"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Отчет о преимуществах, доступный на панели мониторинга центра партнеров Insights
 
@@ -66,7 +66,7 @@ ms.locfileid: "86436713"
 
 Эта диаграмма представляет собой ежемесячную тенденцию подписок Visual Studio, активированных по подпискам, которые были выделены в течение выбранного диапазона дат.
 
-Выберите вкладку в верхней части диаграммы, чтобы просмотреть тренд определенной подписки Visual Studio, которую вы предоставляете в качестве преимущества. Столбцы на диаграмме представляют рабочие места, используемые для подписки. Линейный график представляет общие рабочие места, назначенные для подписки.
+Выберите вкладку в верхней части диаграммы, чтобы просмотреть тренд определенной подписки Visual Studio, которую вы предоставляете в качестве преимущества. Столбцы на диаграмме представляют лицензии, используемые для подписки. Линейный график представляет общие лицензии, назначенные для подписки.
 
 :::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Подписки Visual Studio":::
 
@@ -86,6 +86,6 @@ ms.locfileid: "86436713"
 
 :::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Предложения для перехода на рынке":::
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - Дополнительные отчеты см. в статье [Partner Center Insights](partner-center-insights.md).

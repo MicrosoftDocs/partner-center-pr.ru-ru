@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cdb72310368dd76c43d01129a19328d776c00469
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 05939dc5edaddeb2f74b3b75017e2062dff25e31
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949563"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468335"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Узнайте, как читать элементы строк в файлах сверки центра партнеров
 
@@ -23,7 +23,7 @@ ms.locfileid: "85949563"
 - Центр партнеров
 - Центр партнеров для Microsoft Cloud for US Government
 
-Вы можете скачать файлы сверки из центра партнеров, чтобы получить подробное представление каждого из элементов в цикле выставления счетов. Сведения об элементе строки включают в себя расходы на каждую из подписок клиента и подробные события (например, добавление мест в подписку).
+Вы можете скачать файлы сверки из центра партнеров, чтобы получить подробное представление каждого из элементов в цикле выставления счетов. Сведения об элементе строки включают оплату за каждую из подписок клиента и подробные события (например, Добавление лицензий в подписку).
 
 Соответствующие роли:
 
@@ -36,7 +36,6 @@ ms.locfileid: "85949563"
 
 - [Поля файла сверки на основе лицензий](license-based-recon-files.md)
 - [Поля файла сверки с учетом использования](usage-based-recon-files.md)
-- [Поля файла одноразовой и повторяющейся сверки](one-time-recurring-recon-files.md)
 - [Поля файла сверки с оценкой использования по дням](daily-rated-usage-recon-files.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Понимание типов оплаты в файлах выверки
