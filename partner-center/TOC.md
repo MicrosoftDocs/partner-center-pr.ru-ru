@@ -156,7 +156,8 @@
 ## [Просмотр журналов действий клиента](activity-logs.md)
 ## [Обновление сведений учетной записи клиента](update-customer-account-info.md)
 ## [Как разрешить клиентам покупать собственные службы](give-customers-permission.md)
-## [Создание нескольких пользователей для клиента](adding-multiple-users-to-a-customer-account.md)
+## [Как добавить нескольких пользователей для клиента](adding-multiple-users-to-a-customer-account.md)
+## [Обязательные поля файла для импорта нескольких пользователей для учетной записи клиента](file-customer-users.md)
 ## [Назначение контактов службы поддержки](assign-support-contacts.md)
 
 # [Предложения CSP](csp-offers.md)
