@@ -1,6 +1,6 @@
 ---
 title: Управление пользователями в клиентских учетных записях
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18b1fd689db84d20b62389841c5e5474d97ff1cb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a3febadda51094d443d83d17b640b1744a130335
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435963"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527680"
 ---
 # <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>Задачи управления пользователями для учетных записей клиентов в центре партнеров
 
@@ -113,7 +113,7 @@ ms.locfileid: "86435963"
 
     Все выбранные учетные записи пользователей появятся на странице **Пользователи и лицензии**.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 
 [Назначение и отзыв лицензий для нескольких пользователей](bulk-license-provisioning-for-multiple-users.md)

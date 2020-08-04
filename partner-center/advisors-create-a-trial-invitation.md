@@ -3,19 +3,28 @@ title: Создание приглашения для ознакомления �
 ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Узнайте, как партнеры могут создавать и отсылать пробные приглашения для своих клиентов, чтобы опробовать Office 365. Партнеры в целом являются полномочными консультантами по подпискам.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 5d76de11eb69692f8829697a664a55b01ee87c12
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: db32f3d48089457cb9c49196bcb190ccd4308582
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120038"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527000"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Advisor: создание и отправка приглашения на пробную версию клиентов для использования Office 365
+
+**Относится к**
+
+- Центр партнеров
+ 
+**Соответствующие роли**
+
+- Консультанты
 
 > [!NOTE]
 > Эта функция доступна только партнерам Майкрософт, которые являются полномочными консультантами по подпискам.

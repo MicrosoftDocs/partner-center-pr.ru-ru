@@ -1,21 +1,31 @@
 ---
-title: Добавление клиентов с пробными предложениями Office 365
+title: Добавление клиентов с использованием предложений на пробную версию Office 365
 ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Узнайте, как разрешенные Microsoft Advisor могут развивать свои подписки Office 365. Создавайте и отправляйте приглашения пробной версии Office 365 и предложения по приобретению на клиентах.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c1dc96c2947da8ab37787e406d40400071a3b31
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c5631e141f3b232ddfb0afd7dab6acc6a08f59df
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436263"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527010"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Advisor: создание базы клиента с помощью приглашений пробной версии Office 365 и предложений по приобретению
+
+**Относится к**
+
+- Центр партнеров
+ 
+**Соответствующие роли**
+
+- Консультанты
+
 
 Как полномочный помощник Майкрософт, **Центр партнеров** предлагает вам возможность расширить клиентскую базу и создать устойчивые связи с клиентами. С помощью центра партнеров вы можете отправить приглашения на пробную версию клиентов и предложения по приобретению, а также предоставить им делегированные службы администрирования в зависимости от служб, которые вы имеете право предоставлять.
 

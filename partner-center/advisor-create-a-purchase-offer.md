@@ -1,21 +1,31 @@
 ---
-title: Создание предложения о покупке
+title: Advisor — создание предложения о приобретении
 ms.topic: article
-ms.date: 05/07/2020
+ms.date: 05/17/2020
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Узнайте, как помощник по подписке может использовать центр партнеров для создания предложения о приобретении и настраиваемого URL-адреса для включения в пробные приглашения по Office 365.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80a2f719df77227d19db39dc87e8eb559eeeb827
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a36f67609f0e51b0d65d0032610157fc4d81f97e
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436273"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87526990"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Advisor: создание предложения о покупке
+
+**Относится к**
+
+- Центр партнеров
+ 
+**Соответствующие роли**
+
+- Консультанты
+
 
 > [!NOTE]
 > Эта функция доступна только для партнеров Майкрософт, которые являются полномочными консультантами по подпискам.

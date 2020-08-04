@@ -1,6 +1,6 @@
 ---
 title: Назначение и отзыв лицензий для нескольких пользователей
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 20ef77322ced5a7198dbd0ecaf519f614bc17a32
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: de7b9775be925911dab6a7fd72b8f81a5b701bec
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435573"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527400"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Назначение или Отмена лицензий одновременно нескольким пользователям в учетной записи клиента
 
@@ -34,11 +34,6 @@ ms.locfileid: "86435573"
 
 Центр партнеров отслеживает и отображает все права, принадлежащие клиентам.
 
-В следующих разделах описано, как:
-- [Назначение лицензий нескольким пользователям](#assign-licenses-to-groups)
-- [Отозвать назначения лицензий пользователей](#revoking-licenses)
-
-<a href="" id="assign-licenses-to-groups"></a>
 ## <a name="assign-licenses-to-multiple-users"></a>Назначение лицензий нескольким пользователям
 
 1. В меню **Центр партнеров** выберите **Клиенты**, а затем выберите клиента из списка.
@@ -81,7 +76,6 @@ ms.locfileid: "86435573"
 >[!NOTE]
 >Некоторые продукты Майкрософт могут быть недоступны в определенных местах. Ряд продуктов зависит от других решений и служб или не могут быть одновременно назначены одному пользователю. После сохранения на странице подтверждения будут перечислены результаты всех успешных назначений лицензий и все ошибки.
 
-<a href="" id="revoking-licenses"></a>
 ## <a name="revoke-users-license-assignments"></a>Отозвать назначения лицензий пользователей
 
 1. В меню **Центр партнеров** выберите **Клиенты**, а затем выберите клиента из списка.

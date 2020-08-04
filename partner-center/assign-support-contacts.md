@@ -1,6 +1,6 @@
 ---
 title: Назначение контактов службы поддержки для клиентов
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8186a58523502fddb0ecb2e8ef7bb91bd318680f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 2963ac7fbcba36d61782e49a4696f95a86bf95b8
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435953"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527670"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Назначение торгового посредника в качестве контактного лица технической поддержки для клиентов
 
@@ -36,7 +36,7 @@ ms.locfileid: "86435953"
 
 Это можно использовать для [поддержки нескольких партнеров](multipartner.md) и [многоканальных](multichannel.md) сценариев. 
 
-<a href="" id="assigncontacts"></a>
+
 ## <a name="assign-contacts"></a>Назначить контакты
 
 1.  Начните с [запроса связи](request-a-relationship-with-a-customer.md) с торговым посредником продукта. Согласуйте соглашение с ними для поддержки технической поддержки.
@@ -51,6 +51,6 @@ ms.locfileid: "86435953"
 
 4.  Убедитесь в правильности изменений и нажмите кнопку **Закрыть**.
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 [Удаление взаимоотношений с клиентом](remove-a-relationship.md)

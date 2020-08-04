@@ -9,12 +9,12 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22581771f05c88ec2ad097890959dab6d6e27962
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 160191b4c881ab4b143c6a5bc3241e3fe26c701f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436183"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87526950"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Получение данных о том, насколько хорошо ваши клиенты и подписки Azure
 
@@ -31,6 +31,8 @@ ms.locfileid: "86436183"
 - Агент по продажам
 
 Данные помогают принимать правильные бизнес-решения. Используйте метрики на странице **Использование Azure** для определения того, каких целей добились вы и ваши клиенты, а также областей, нуждающихся в более пристальном внимании. Эти сведения можно использовать при планировании новых бизнес-целей.
+
+Чтобы получить сведения **об использовании Azure**, войдите в [панель мониторинга](https:/partner.microsoft.com/dashboard)центра партнеров. Выберите **аналитика** в меню Центр партнеров, а затем выберите **Использование Azure**.
 
 > [!NOTE]
 > Аналитика использования Azure доступна только для партнеров в программе поставщика облачных решений.
@@ -67,3 +69,7 @@ ms.locfileid: "86436183"
 ## <a name="azure-subscription-retention"></a>Удержание подписок Azure
 
 - Число подписок, которые были обновлены.
+
+ ## <a name="next-steps"></a>Дальнейшие действия
+
+- [Приобретите план Azure для клиентов & получить доступ к новейшим службам Azure по тарифам с оплатой по мере использования](purchase-azure-plan.md)

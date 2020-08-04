@@ -3,18 +3,18 @@ title: Два уровня учетных записей партнеров MPN
 ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Партнеры MPN могут узнать о двух уровнях учетных записей в центре партнеров, о глобальной учетной записи партнера (PGA) и учетной записи расположения партнеров (PLA).
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 326f46af86c890c6f34460669ec167399515014d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4fabdc52056b4b4bd9fe612dfa2d299a357be213
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436413"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527440"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Центр партнеров имеет два уровня учетных записей для партнеров MPN
 
@@ -50,6 +50,6 @@ ms.locfileid: "86436413"
 
 :::image type="content" source="images/accountstructure.png" alt-text="Структура бизнес-партнера" border="false":::
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - Дополнительные сведения об управлении расположениями см. в статье [Управление учетной записью партнера: расположения](manage-locations.md).
