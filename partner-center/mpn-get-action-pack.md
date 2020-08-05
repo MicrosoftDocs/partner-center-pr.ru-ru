@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6408aca4275b331b46de45b62d66e637dd422033
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 41797ec9a176e9bec05746cc860d65faba684029
+ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114689"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87389133"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Приобретение или продление подписки Microsoft Action Pack и компетенций уровня Silver и Gold
 
@@ -32,7 +32,7 @@ ms.locfileid: "87114689"
 - Агент по администрированию
 - Агент по продажам
 
-[Панель мониторинга]() Центра партнеров теперь позволяет участникам Microsoft Partner Network (MPN.md) приобретать или продлевать предложения по предоставлению преимуществ. Эти предложения включают подписку Microsoft Action Pack и компетенции уровня Silver и Gold.
+[Панель мониторинга](https://partner.microsoft.com/dashboard) Центра партнеров теперь позволяет участникам Microsoft Partner Network (MPN.md) приобретать или продлевать предложения по предоставлению преимуществ. Эти предложения включают подписку Microsoft Action Pack и компетенции уровня Silver и Gold.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Приобретение Microsoft Action Pack в первый раз
 

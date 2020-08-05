@@ -3,18 +3,18 @@ title: Справочник по выставлению счетов в Цент
 ms.topic: article
 ms.date: 04/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 Description: Узнайте о выставлении счетов и налогообложении в Центре партнеров. Сведения касаются выставления счетов, накладных, выставления счетов в рамках CSP и налогов.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df4e6932ba1b551403143f154ea1202109369ddb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c78e90ab5d412f58384c039bcd4965170662ec0a
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435583"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527410"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Обзор: основные статьи, касающиеся выставления счетов и налогообложения в Центре партнеров
 
@@ -34,7 +34,6 @@ ms.locfileid: "86435583"
 | ----- | ----------- |
 | [Основы выставления счетов](billing-basics.md) | Узнайте о выставлении счетов в Центре партнеров, платежах, счетах и файлах сверки. |
 | [Схемы выставления счетов](billing-different-types.md) | Узнайте о разных принципах выставления счетов в Центре партнеров. |
-| [Разница между выставлением счетов за месяц и год](billing-annual-monthly.md) | Узнайте о разнице между выставлением счетов за месяц и год. |
 | [Расшифровка счета](read-your-bill.md) | Узнайте о сведениях, содержащихся в счете в Центре партнеров. |
 | [Бесплатные пробные версии](offer-your-customers-trials-of-microsoft-products.md) | Узнайте о том, как предоставлять клиентам бесплатные пробные версии и как выставляются счета за эти пробные версии. |
 | [Файл сверки](use-the-reconciliation-files.md) | Узнайте о том, как изучать и использовать файл сверки для позиций. |

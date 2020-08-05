@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f89240966de1976bd08ae8a91272bf6b10dddfcc
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 055f7f43e9b5d866c18680de000d6cee01e2e165
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943562"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444899"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Часто задаваемые вопросы о требованиях к безопасности для партнеров
 
@@ -55,7 +55,7 @@ ms.locfileid: "86943562"
 - Вам нужно выполнить все требования, описанные в статье [Требования к безопасности для партнеров](partner-security-requirements.md).
 - Необходимо обеспечить принудительную многофакторную проверку подлинности всех учетных записей пользователей в арендаторе партнера.
 
-Чтобы вам было проще определить ключевые области для действий, мы предоставляем отчет о [соответствии требованиям к безопасности](https://partner.microsoft.com/pcv/security/compliance), доступный в Центре партнеров.
+Чтобы вам было проще определить ключевые области для действий, мы предоставляем отчет о [соответствии требованиям к безопасности](https://partner.microsoft.com/commerce/security/compliance), доступный в Центре партнеров.
 
 Дополнительные сведения об этом отчете приведены в разделе [Соответствие требованиям к безопасности для партнеров](partner-security-compliance.md).
 
