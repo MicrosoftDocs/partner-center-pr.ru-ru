@@ -1,7 +1,7 @@
 ---
 title: Партнер с непрямыми торговыми посредниками в CSP
 description: Дополнительные сведения о том, как косвенный поставщик или распространитель, можно расширить, выполнив партнерские отношения с непрямыми торговыми посредниками. Сюда входят задачи, которые можно выполнять в центре партнеров.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BillLinzbach
@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: cb7a9bca65bb4fbb8ef9f3fb88a968155bf17ced
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 92c82bbc785a6b8ef01fc39abe5bb4235fbc5622
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377218"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545985"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Партнерство с непрямыми торговыми посредниками в программе поставщиков облачных решений
 
@@ -47,9 +47,9 @@ ms.locfileid: "86377218"
 
 Выполните следующие действия для установки и управления партнерством с косвенными торговыми посредниками и клиентами. Ниже подробно описаны шаги 2 и 3.
 
-1. Изучите профиль вашей компании в [списке официальных косвенных поставщиков Майкрософт](https://partnercenter.microsoft.com/partner/find-a-provider).
+1. Проверьте профиль своей компании в [официальном списке непрямых поставщиков корпорации Майкрософт](https://partnercenter.microsoft.com/partner/find-a-provider).
 
-   - Чтобы внести изменения в профиль непрямого поставщика компании, обратитесь к своему специалисту Майкрософт.
+   - Чтобы внести изменения в профиль непрямого поставщика компании, обратитесь к своему представителю Майкрософт.
 
 2. Обмен информацией с непрямыми торговыми посредниками
 

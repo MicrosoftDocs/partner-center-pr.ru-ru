@@ -2,22 +2,22 @@
 title: Подготовка подтверждения выполнения
 description: Узнайте о важности подтверждения выполнения (ПОЕ), временных шкал, состояния просмотра и руководствах по отправке.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: c036d11840cbec6d4fd390ac48e2ef4824eb2608
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: ce7f135dfc4a2a1e6af5396a6fe01c9d7377f493
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114747"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545945"
 ---
 # <a name="prepare-your-proof-of-execution"></a>Подготовка подтверждения выполнения
 
-Применяется к:
+Область применения:
 
 - Центр партнеров
 
@@ -45,7 +45,7 @@ ms.locfileid: "87114747"
    - **Дата**  Дата выполнения. Эта дата должна находиться между датой начала кампании и датой окончания кампании.
    - **Сумма**  Объем заявки на соop.
 
-7. Щелкните **Сохранить**.
+7. Нажмите **Сохранить**.
 
 8. На странице **новое подтверждение утверждения о выполнении** введите необходимые поля.
 

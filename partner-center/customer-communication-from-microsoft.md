@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: f4c98445345e5e668de2172ab5e922cfb81aa7a8
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 7b4e244a090b401afe2b0c86a532f5ecc6b5a154
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114357"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545835"
 ---
 # <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Рекомендации по успешной связи с клиентами с корпорацией Майкрософт
 
@@ -28,3 +28,7 @@ ms.locfileid: "87114357"
 Майкрософт может напрямую связываться с клиентами по поводу инцидентов службы или другой рабочей информации.
 
 С клиентами, у которых уже имеются коммерческие отношения с Майкрософт, Майкрософт будет и дальше связываться напрямую по поводу продуктов и служб, отличных от CSP.
+
+## <a name="next-steps"></a>Дальнейшие действия
+
+- [Самостоятельная поддержка клиентов с помощью центра администрирования Microsoft Office 365 или с помощью портал Azure](customer-self-support.md)

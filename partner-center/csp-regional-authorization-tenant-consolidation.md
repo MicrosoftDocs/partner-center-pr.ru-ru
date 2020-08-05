@@ -1,6 +1,6 @@
 ---
 title: Консолидация клиента региональной авторизации CSP
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4389ed675bfc7186aa19e595b14ac9200334c61c
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 4e6d98069822df9a6310335ffd8b1ab08dc61ccb
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444933"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545655"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Инструкции по консолидации клиента региональной авторизации CSP
 
@@ -29,7 +29,7 @@ ms.locfileid: "87444933"
 - Глобальный администратор
 - Агент по администрированию
 
-\[Некоторые сведения относятся к предварительно выпущенному продукту, который может быть значительно изменен перед коммерческой выпуском. Корпорация Майкрософт не предоставляет никаких гарантий, явных или подразумеваемых, относительно предоставленной здесь информации.\]
+\[Некоторые сведения относятся к предварительно выпущенному продукту, который может быть значительно изменен перед коммерческой выпуском. Майкрософт не предоставляет никаких гарантий, явных или подразумеваемых, относительно приведенных здесь сведений.\]
 
 Вы можете консолидировать клиенты для вашего бизнеса. Соблюдайте эти инструкции, чтобы консолидировать клиентов для разных стран и регионов.
 

@@ -1,23 +1,23 @@
 ---
 title: Создание профилей для выплат и налогов и управление ими в Центре партнеров
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/29/2020
 description: Прежде чем вы сможете получить оплату за работу по поощрениям, необходимо создать профили выплат и налогов.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: ed8820065c8c009e64419e58fa11758a27f95d7e
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 3e7424ff1329d9c2bf13e9a6c4181c312396e073
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114090"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546045"
 ---
-# <a name="payout-and-tax-profiles-in-partner-center"></a>Выплата и налоговый профиль в центре партнеров
+# <a name="payout-and-tax-profiles-in-partner-center"></a>Профили для выплат и налогов в Центре партнеров
 
-Применяется к:
+Область применения:
 
 - Центр партнеров
 
