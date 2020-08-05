@@ -1,6 +1,6 @@
 ---
 title: Получение роли глобального администратора компании
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c448ea1786311c265ffc6defe0ec445fd41bc9a2
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: fd2f47675cc60442390eb3394d7257d971c0e234
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435643"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527390"
 ---
 # <a name="verify-your-domain-ownership"></a>Проверка владения доменом
 
@@ -56,4 +56,6 @@ ms.locfileid: "86435643"
 - Просмотр, создание пользователей партнера и управление ними
 - Приобретение облачных служб и управление ими.
 
-Дополнительные сведения о ролях и разрешениях см. в разделе [Создание учетных записей пользователей и назначение разрешений](create-user-accounts-and-set-permissions.md). 
+## <a name="next-steps"></a>Дальнейшие действия
+
+- Дополнительные сведения о ролях и разрешениях см. в разделе [Создание учетных записей пользователей и назначение разрешений](create-user-accounts-and-set-permissions.md). 
