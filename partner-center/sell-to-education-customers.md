@@ -1,7 +1,7 @@
 ---
 title: Как продавать предложения для обучения клиентам
 description: Узнайте, как создавать клиентов для образовательных учреждений и продавать предложения в центре партнеров.
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 25710920130fc78e220d000e552914c093f92706
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e6d7ad9ed7acecf8d542577c87d4387240ded7b7
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436583"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811274"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Как продавать предложения для образовательных клиентов & создание клиентов для образовательных учреждений в центре партнеров
 
@@ -78,7 +78,7 @@ ms.locfileid: "86436583"
 
 2. Обновите браузер, чтобы сбросить страницу. Появится кнопка **Обновить** , а для параметра **состояние специального квалификации** — значение **нет**.
 
-3. Нажмите кнопку **Обновить**. На странице **Управление службами** выберите **Office 365**.
+3. Выберите **Обновить**. На странице **Управление службами** выберите **Office 365**.
 
 4. Вы будете перенаправлены в центр администрирования Office 365 на новой вкладке браузера. Возможно, вы запросили вход с помощью своих учетных данных.
 

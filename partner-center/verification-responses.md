@@ -3,25 +3,25 @@ title: Проверка данных учетной записи
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: При попытке регистрации в новой программе центра партнеров следует проверить состояние проверки учетной записи. Сведения о предоставлении дополнительных сведений при необходимости.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73ace89b24dba143f410e879e9012a0f0f60e3c6
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 40b3a8118ace01bd7b1c72d4cd008a6a6e612bd1
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365730"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811144"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Проверка данных учетной записи при регистрации в новой программе центра партнеров
 
 **Соответствующие роли**
 
 - Глобальный администратор
-- Администратор учетной записи MPN
+- Администратор учетных записей MPN
 
 При регистрации в новой программе в центре партнеров Майкрософт проверяет предоставленные сведения о регистрации учетной записи, например название вашей компании, адрес компании и основные контактные данные. В ходе этого процесса корпорация Майкрософт может отправить электронное письмо основному контактному лицу, чтобы уведомить его о состоянии регистрации и запросить дополнительную документацию для проверки.
 

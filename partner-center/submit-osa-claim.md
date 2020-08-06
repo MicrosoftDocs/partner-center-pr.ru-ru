@@ -3,18 +3,18 @@ title: Создание связи с клиентом с помощью мод�
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 description: Создание ассоциаций клиентов с помощью модели КПОР (заявка на утверждение партнера по записи). Помогает управлять продажами, использованием, & поощрениями для клиентов Microsoft 365 и Dynamics 365.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 47f4912e33eb1a2bb3e7c5a1c734d7cc5d3e5f33
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 7f36480f62e82c10fe90cb0b95dbd7c7db9a5080
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468354"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811184"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Создание связи с клиентом с помощью модели КПОР — используется для клиентов Microsoft 365 и Dynamics 365
 

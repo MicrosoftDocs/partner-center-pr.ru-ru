@@ -1,6 +1,6 @@
 ---
 title: Удаление связи между торговыми посредниками с клиентом
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f710b7327e9ff647f23c7baf994bc00082c437b5
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ecc7d73734ab0d5312293f7ab8335bda76eea6e6
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949287"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811344"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Как удалить связь торгового посредника с клиентом в центре партнеров
 
@@ -49,15 +49,15 @@ ms.locfileid: "85949287"
 
 2. **Удалите связь в центре партнеров:**
 
-   1\. В центре партнеров перейдите к разделу **Клиенты** и выберите клиента.
+   а. В центре партнеров перейдите к разделу **Клиенты** и выберите клиента.
 
-   2\. Выберите **учетную запись**.
+   b. Выберите **Учетная запись**.
 
-   В. Выберите **Удалить связь с торговым посредником**.
+   c. Выберите **Удалить связь с торговым посредником**.
 
    > [!NOTE]
    > Если какие-либо подписки активны, ссылка **Удалить связь с торговыми посредниками** будет неактивна.
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Запрос или повторное создание связи с клиентом](request-a-relationship-with-a-customer.md)

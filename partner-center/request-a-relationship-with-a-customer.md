@@ -1,6 +1,6 @@
 ---
 title: Запрос связи с клиентом
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,12 +8,12 @@ description: Запросите связь с клиентом для неско
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: b928b5fabb0a3f24a3b60e1712c2e2f77659ad5e
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 53cb70e4d21824dc030f469b43e4465e9c5ce871
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943721"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811304"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Как запросить у клиента создание связи торгового посредника в Центре партнеров
 
@@ -63,7 +63,7 @@ ms.locfileid: "86943721"
 | Клиенты в центре партнеров для Microsoft Cloud для государственных организаций США | Портал администрирования Microsoft Office |
 |
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Назначение контактов службы поддержки](assign-support-contacts.md)
 
