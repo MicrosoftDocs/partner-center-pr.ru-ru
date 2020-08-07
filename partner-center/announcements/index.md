@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 4ed7167faf3b090025d040d692b9cb2eac35a6d4
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: c8c6798c216ce4b0228feabdf59838f23526c362
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545545"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811164"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,8 @@ ms.locfileid: "87545545"
 
 | **Категория** | **Объявления за август 2020 года** | **Объявлено** |
 |---------|:---------|:---------|
+|Предложения и рынки|[Доступны новые номера SKU для Microsoft Teams Advanced Communications](2020-august.md#4)|4 августа|
+|Предложения и рынки|[В сентябре станет доступна Расширенная защита от угроз в Microsoft Defender (ATP) для серверов для образовательных учреждений](2020-august.md#3)|4 августа|
 |Предложения и рынки|[Новое пакетное предложение Dynamics 365 Sales Premium](2020-august.md#2)|3 августа|
 |Предложения и рынки|[Объявление о доступности предложений пробных версий Visio Plan 1 и Plan 2](2020-august.md#1)|3 августа|
 | **Категория** | **Объявления за июль 2020 года** | **Дата** |
