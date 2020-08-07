@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте, как обновить или изменить подписку клиента. Добавьте лицензии и рабочие места или перейдите на другую версию с большим количеством служб.
+description: Узнайте, как обновить или изменить подписку клиента. Добавьте лицензии или перейдите на другую версию с большим количеством служб.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 251423b40508e25dc9ea5c89fffb34c4f0c10499
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 89b4a1d552067f7bda553bc96e19a89bdc9f23cd
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436363"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468783"
 ---
-# <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>Добавление лицензий, рабочих мест или дополнительных служб в подписку клиента
+# <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Добавление лицензий или дополнительных служб в подписку клиента
 
 **Относится к**
 
@@ -31,55 +31,22 @@ ms.locfileid: "86436363"
 - Агент по продажам
 - Агент службы технической поддержки
 
-Если клиенту требуются дополнительные места или другая версия с дополнительными службами, вы можете обновить подписку. Дополнительные сведения см. в статье [Переход на другой план Приложений Microsoft 365 для бизнеса](https://go.microsoft.com/fwlink/p/?LinkId=723577).
+Если клиенту требуются дополнительные лицензии или другая версия с дополнительными службами, вы можете обновить подписку. Дополнительную информацию см. в статье [Переход на другой план Приложений Microsoft 365 для бизнеса](https://go.microsoft.com/fwlink/p/?LinkId=723577).
 
-## <a name="upgrades-supported-in-the-csp-program"></a>Обновления, поддерживаемые программой CSP <a href="" id="upgradesubscription"></a>
+## <a name="upgrades-supported-in-the-csp-program"></a>Обновления, поддерживаемые программой CSP <a id="upgradesubscription"></a>
 
 Поставщик облачных решений поддерживает следующие обновления:
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Предложение</th>
-<th>Возможные обновления</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Приложения Microsoft 365 для бизнеса</td>
-<td><ul>
-<li>Microsoft 365 бизнес премиум¹</li>
-<li>Приложения Microsoft 365 для предприятий</li>
-<li>Office 365 корпоративный E3</li>
-<li>Office 365 корпоративный E5</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>Microsoft 365 бизнес стандарт</td>
-<td><ul>
-<li>Office 365 корпоративный E3</li>
-<li>Office 365 корпоративный E5</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Microsoft 365 бизнес базовый</td>
-<td><ul>
-<li>Microsoft 365 бизнес стандарт¹</li>
-<li>Office 365 корпоративный E1</li>
-<li>Office 365 корпоративный E3</li>
-<li>Office 365 корпоративный E5</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>¹ Приложения Microsoft 365 для бизнеса для Индии и Microsoft 365 бизнес базовый для Индии можно обновить до Microsoft 365 бизнес стандарт для Индии. До Microsoft 365 бизнес стандарт решение обновить нельзя.</p></td>
-</tr>
-</tbody>
-</table>
+| Предложение | Возможные обновления|
+|---:|:---|
+| Приложения Microsoft 365 для бизнеса   | - Microsoft 365 бизнес премиум¹ <br/>  - Приложения Microsoft 365 для предприятий <br/> - Office 365 корпоративный E3 <br/> - Office 365 корпоративный E5 <br/> |
+| Microsoft 365 бизнес стандартный;    | - Office 365 корпоративный E3 <br/> - Office 365 корпоративный E5 <br/> |
+| Microsoft 365 бизнес базовый; | - Microsoft 365 бизнес стандарт¹ <br/> - Office 365 корпоративный E1 <br/> - Office 365 корпоративный E3<br/> - Office 365 корпоративный E5 <br/> |
+
+¹ Приложения Microsoft 365 для бизнеса для Индии и Microsoft 365 бизнес базовый для Индии можно обновить до Microsoft 365 бизнес стандарт для Индии. До Microsoft 365 бизнес стандарт решение обновить нельзя.
+
+
+## <a name="conditions"></a>Условия
 
 Подписки можно обновлять при таких условиях:
 
@@ -93,7 +60,7 @@ ms.locfileid: "86436363"
 
 В последних двух случаях клиент мог приобрести эти подписки или службы у другого партнера либо из иного канала, при этом клиент не сможет купить их у вас, пока существующие подписки или службы не будут отменены. Дополнительные сведения: [Поддержка нескольких каналов](multichannel.md).
 
-Дополнительные сведения о влиянии этого процесса на выставление счетов см. в описании отмены подписки и добавлении новой подписки в [общих сценариях выставления счетов](common-billing-scenarios.md).
+Дополнительные сведения о влиянии на выставление счетов см. в инструкциях по отмене подписки и добавлению новой подписки, приведенных в статье об [общих сценариях выставления счетов](common-billing-scenarios.md).
 
 ## <a name="upgrade-a-subscription"></a>Обновление подписки
 

@@ -1,7 +1,7 @@
 ---
 title: Возобновление использования привилегий администратора для Azure CSP
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 07/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как помочь клиентам возобновить использования привилегий администратора партнера, чтобы партнер мог помочь в управлении клиентскими подписками Azure CSP.
@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 362ae4a472b78417a4921b734a77f6259aaaa1f3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2c98ddf67567935a17e33546ce41de723b3be134
+ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949255"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87412430"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Возобновление использования привилегий администратора для клиентских подписок Azure CSP  
 
@@ -49,7 +49,7 @@ ms.locfileid: "85949255"
 
 Клиенту потребуется добавить группу агентов по администрированию в качестве владельца подписки Azure в CSP.
 
-1. Используйте консоль PowerShell или интегрированную среду сценариев PowerShell (ISE). Убедитесь, что в ней установлены модули AzureRM и AzureAD.
+1. Используйте консоль PowerShell или интегрированную среду сценариев PowerShell (ISE). Убедитесь, что установлены модули AzureAD.
 
 2. Подключитесь к арендатору Azure AD.
 
@@ -62,24 +62,19 @@ ms.locfileid: "85949255"
    ```powershell
    Get-AzureADGroup
    ```
-
-   :::image type="content" source="images/azure/revoke5.png" alt-text="Группа агентов по администрированию":::
-
    Следующие шаги выполняются пользователем в компании клиента, у которого есть доступ владельца к подписке Azure в CSP.
 
-4. Пользователь с правами владельца подписки Azure в CSP должен войти в Azure Resource Manager с использованием своих учетных данных.
+4. Пользователю с правами владельца подписки Azure в CSP следует войти в Azure с использованием своих учетных данных.
 
    ```powershell
-   Login-AzureRMAccount
+   Connect-AzAccount
    ```
 
 5. Затем этот пользователь может добавить группу агентов по администрированию в качестве владельца подписки Azure в CSP.
 
     ```powershell
-    New-AzureRMRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+    New-AzureRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
     ```
-
-   :::image type="content" source="images/azure/revoke6.png" alt-text="Агенты по администрированию с правами владельца":::
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
