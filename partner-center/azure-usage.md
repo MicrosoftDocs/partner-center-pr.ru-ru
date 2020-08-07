@@ -1,7 +1,7 @@
 ---
 title: Размеры виртуальных машин Azure для максимального использования резервирования
 ms.topic: how-to
-ms.date: 07/08/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Узнайте, как масштабировать виртуальную машину с учетом потребностей клиентов при покупке Microsoft Azure резервирования для них.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 48f7fb317d35c87eaf3d8fddc7a5da907178ef36
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: bc9fc14598e7c96f9cc1b55eba7c59af68ad84a9
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527450"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900116"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Размеры виртуальных машин Microsoft Azure для максимального использования резервирования
 
@@ -22,7 +22,10 @@ ms.locfileid: "87527450"
 
 - Центр партнеров
 - Портал Azure
-- Партнеры по программе CSP
+- Партнеры в программе CSP
+ 
+> [!NOTE]
+> Эта статья относится только к партнерам в программе поставщика облачных решений (CSP). Вместо этого клиенты, использующие другие типы подписок (например, оплата по мере использования, индивидуальные соглашения с клиентами Майкрософт или подписки Соглашение Enterprise), должны читать [эту документацию по резервированию Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations).
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Определение размера виртуальной машины для резервирования Azure клиента
 
@@ -101,7 +104,7 @@ ms.locfileid: "87527450"
     >[!NOTE]
     >Данные об использовании могут отображаться с задержкой до 8 часов.
 
-    a. Если использование резервирования составляет 100%, клиент получает все возможные сокращения, которые может предоставить Покупка резервирования.
+    а. Если использование резервирования составляет 100%, клиент получает все возможные сокращения, которые может предоставить Покупка резервирования.
     b. Если использование резервирования составляет 0%, скидка не применяется ни к одной виртуальной машине.
     c. Если использование резервирования составляет от 1% до 99%, то используются неиспользуемые преимущества.
 

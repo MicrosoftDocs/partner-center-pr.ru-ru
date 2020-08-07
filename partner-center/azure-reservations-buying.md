@@ -1,7 +1,7 @@
 ---
 title: Приобретение Microsoft Azure резервирования для клиентов
 ms.topic: article
-ms.date: 06/18/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Узнайте, как купить или приобрести резервирование Azure от имени клиентов в центре партнеров.
@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a8f9193d7bb383b602acc8092b159401ab0785d5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a9da6208ec72c1d6e93fadec3d205a809dbfabe5
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435773"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900107"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Приобретение Microsoft Azure резервирований от имени клиентов в центре партнеров
 
@@ -31,6 +31,9 @@ ms.locfileid: "86435773"
 - Агент службы технической поддержки
 - Агент по продажам
 - Администратор управления пользователями
+ 
+> [!NOTE]
+> Эта статья относится только к партнерам в программе поставщика облачных решений (CSP). Вместо этого клиенты, использующие другие типы подписок (например, оплата по мере использования, индивидуальные соглашения с клиентами Майкрософт или подписки Соглашение Enterprise), должны читать [эту документацию по резервированию Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations).
 
 ## <a name="before-you-begin"></a>Подготовка к работе
 
@@ -109,7 +112,7 @@ ms.locfileid: "86435773"
 
 3. Выберите **Добавить продукты**, а затем выберите **Azure**. 
 
-    a. Выберите сегмент рынка клиента из списка **Сегмент**.
+    а. Выберите сегмент рынка клиента из списка **Сегмент**.
 
     b. Выберите пункт **резервирования** в списке **тип** продукта.
 
