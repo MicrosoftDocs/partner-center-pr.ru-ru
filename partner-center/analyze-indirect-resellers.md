@@ -4,17 +4,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Используйте аналитику, чтобы узнать, как выполняются непрямые торговые посредники, как их успеха, так и области, которые могут потребовать больше внимания.
-author: amitravat
-ms.author: amrava
+author: shganesh
+ms.author: shganesh
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07c245cf811768a53da522545bf776caf0b85f75
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cc14a98d6460fc330564317c1bf089e53438a1d0
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436133"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998365"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Анализ производительности непрямых торговых посредников с помощью аналитики
 
@@ -70,6 +70,6 @@ ms.locfileid: "86436133"
  - **Подписки**: количество проданных торговым посредником подписок  
  - **Лицензии**: общее количество лицензий, которые торговый посредник продал для всех подписок  
   
-## <a name="next-steps"></a>Дальнейшие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Анализ подписок и лицензий для принятия бизнес-решений](analyze-subscriptions-licenses.md)
