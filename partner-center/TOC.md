@@ -102,6 +102,7 @@
 ### [Анализ бизнес-профиля](analyze-your-marketing-profile.md)
 ## Программа поощрения
 ### Начало работы с поощрениями
+#### [Начало работы](incentives-get-started-intro.md)
 #### [Определение возможности участия в программе](incentives-determined-your-program-eligibility.md)
 #### [Создание профилей для выплат и налогов и управление ими в Центре партнеров](incentives-create-and-manage-your-payout-and-tax-profiles.md)
 #### [Часто задаваемые вопросы о профилях для выплат и налогов в рамках программы поощрения](incentives-payout-tax-profile-faqs.md)
@@ -109,14 +110,16 @@
 #### [Просмотр сведений о программах вознаграждений и платежей по ним](understand-incentive-payouts.md)
 #### [Доступ к странице выплат по программам поощрений](incentives-unified-user-guide.md)
 ### Планы и подтверждения выполнения
+#### [Сведения о планах и подтверждениях выполнения](incentives-plans-proofs-intro.md)
 #### [Создание плана](incentives-create-your-plan.md)
 #### [Подготовка подтверждения выполнения](incentives-prepare-your-proof-of-execution.md)
 ### Совместные заявки на возмещение средств в рамках программ поощрения
-#### [Программа поощрения](claims-overview.md)
+#### [Сведения о совместных заявках](claims-overview.md)
 #### [Создание и администрирование совместных заявок на возмещение средств в рамках программы поощрения](create-incentives-claims.md)
 #### [Основные требования к совместным заявкам на возмещение средств в рамках программы поощрения](core-requirements.md)
 #### [Сроки утверждения совместных заявок на возмещение средств и выплат по ним](incentives-managing-co-op-claims.md)
 ### Поощрения: заявки на создание связи CPOR
+#### [Сведения о связях в рамках CPOR](incentives-customer-associations-intro.md)
 #### [Создание связи с клиентом с помощью модели CPOR](submit-osa-claim.md)
 #### [Управление связями с клиентами](incentives-manage-customer-associations.md)
 #### [Проблемы, касающиеся связей с клиентами](incentives-customer-association-issues.md)
