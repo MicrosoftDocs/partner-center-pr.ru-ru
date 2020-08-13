@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41797ec9a176e9bec05746cc860d65faba684029
-ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
+ms.openlocfilehash: 73827cdbf49535d9594fa4951d2abd56bf00a96a
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87389133"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998371"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Приобретение или продление подписки Microsoft Action Pack и компетенций уровня Silver и Gold
 
@@ -72,6 +72,13 @@ ms.locfileid: "87389133"
 
 Ваша подписка Action Pack будет продлеваться автоматически каждый год в этот день. Можно отключить автоматическое продление в любое время в списке **приобретенных** предложений. Однако вы не сможете включить автоматическое продление подписки, пока не продлите свою подписку еще раз. 
 
+### <a name="update-your-bill-to-address"></a>Обновление адреса для выставления счетов
+
+При продлении или приобретении Action Pack вы можете проверить адрес выставления счета.
+
+ 1. Выбрав элемент **Отправить**, можно ознакомиться с подробными сведениями о приобретении. Выберите команду **Обновить**, если ваш адрес необходимо обновить.
+  
+ 1. Обновите свой адрес на странице **Профиль партнера**.
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Отключение автоматического продления подписки Action Pack
 
