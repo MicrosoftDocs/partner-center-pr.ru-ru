@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f26e80d3850ca3fb227605d5c7582e729a95e00b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 9c0dba9e85fc19a97e7f34e8e7ac1c40d31c1d43
+ms.sourcegitcommit: b69627905d051073ed51656ed94197a2482b4b12
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436603"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "88203292"
 ---
 # <a name="respond-to-referrals-and-get-potential-business-leads"></a>Реагирование на ссылки и получение потенциальных бизнес-интересов
 
@@ -81,6 +81,6 @@ ms.locfileid: "86436603"
 
 - **Сообщайте о примерных размерах сделок, датах закрытия и конечном состоянии своих сделок** (реализованные или потерянные). Мы будем использовать эти сведения, чтобы продолжить предоставлять ссылки с качеством.
 
-## <a name="next-steps"></a>Next Steps
+## <a name="next-steps"></a>Дальнейшие действия
 
 -[Управление интересами](manage-leads.md)
