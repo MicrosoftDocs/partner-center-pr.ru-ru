@@ -98,7 +98,7 @@ ms.locfileid: "87998402"
 5. В области **Сведения о программе** найдите поле **MPN program status** (Состояние в рамках программы MPN). Откроется ссылка на соглашение о программе Microsoft Partner Network. Кроме того, здесь описано ваше текущее состояние в рамках программы.
 
 
-   :::image type="content" source="images/accountsettings/mpn-program-info-download-mpn-agreement.png" alt-text="Изображение с областью "Сведения о программе" на странице "Профиль партнера". Красной рамкой выделено поле состояния в рамках программы MPN, а также связанная с ним ссылка на соглашение о программе Microsoft Partner Network.":::
+   :::image type="content" source="images/accountsettings/mpn-program-info-download-mpn-agreement.png" alt-text="Изображение с областью Сведения о программе на странице Профиль партнера. Красной рамкой выделено поле состояния в рамках программы MPN, а также связанная с ним ссылка на соглашение о программе Microsoft Partner Network.":::
 
 6. Чтобы просмотреть или скачать это соглашение, выберите элемент **Соглашение о программе Microsoft Partner Network**.  
 

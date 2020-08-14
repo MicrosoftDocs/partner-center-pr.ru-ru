@@ -1,0 +1,523 @@
+- name: Сведения о Центре партнеров Майкрософт
+  href: index.yml
+- name: Объявления
+  href: announcements/TOC.md
+- name: Участие в Partner Network
+  href: mpn-overview.md
+  items:
+    - name: Создание учетной записи Центра партнеров
+      href: mpn-create-a-partner-center-account.md
+    - name: Получение рабочего адреса электронной почты
+      href: buy-email-domain.md
+    - name: Переход на Центр партнеров
+      items:
+        - name: 'Переход с PAC: общие сведения'
+          href: pac-to-pc-overview.md
+        - name: Сравнение задач в PAC и PC
+          href: moving-from-pac-to-pc.md
+        - name: Выполнение задач PAC в PC
+          href: o365-partner-admin-center-to-partner-center.md
+    - name: Переход с PMC
+      items:
+        - name: Подготовка к миграции из PMC
+          href: prepare-pmc-pc-migration.md
+        - name: Руководство по переходу с PMC
+          href: guide-to-migration.md
+        - name: Сравнение PMC и PC
+          href: move-pmc-pc-map.md
+        - name: Перемещение большого количества компаний
+          href: move-multiple-companies.md
+        - name: Консолидация компаний
+          href: consolidate-accounts.md
+    - name: Предложения в рамках членства
+      items:
+        - name: Action Pack
+          href: mpn-get-action-pack.md
+        - name: Продление подписок на предложения
+          href: renew-mpn-offers.md
+    - name: Компетенции
+      href: learn-about-competencies.md
+    - name: Дополнительные специализации
+      href: advanced-specializations.md
+    - name: Как стать участником программы Azure Expert MSP
+      href: azure-expert-msp.md
+    - name: Преимущества
+      items:
+        - name: Обзор преимуществ
+          href: manage-your-partner-network-benefits.md
+        - name: Преимущества для выхода на рынок
+          href: mpn-learn-about-go-to-market-benefits.md
+        - name: Часто задаваемые вопросы о преимуществах
+          href: benefits-faq.md
+    - name: Marketplace Rewards
+      href: marketplace-rewards.md
+    - name: Software Assurance
+      items:
+        - name: Обзор программ
+          href: software-assurance-lp.md
+        - name: Купоны на обучение (SATV)
+          href: software-assurance-satv.md
+        - name: Услуги по планированию (PS)
+          href: software-assurance-dps.md
+          items:
+            - name: Требования для использования специального предложения
+              href: software-assurance-dps-requirements.md
+    - name: Счета и налоги
+      items:
+        - name: Счета и налоги в MPN
+          href: mpn-view-print-maps-invoice.md
+    - name: Тестирование новых функций
+      href: test-drive-new-features.md
+- name: Поставщик облачных решений (CSP)
+  href: csp-overview.md
+  items:
+    - name: Регистрация в программе CSP
+      href: enrolling-in-the-csp-program.md
+    - name: 'Соглашение с партнером Майкрософт: участники программы CSP'
+      href: microsoft-partner-agreement.md
+    - name: Требования к прямым партнерам в рамках CSP
+      href: direct-partner-new-requirements.md
+    - name: Клиентские соглашения Майкрософт (по региону и языку)
+      href: agreements.md
+    - name: Ограниченный доступ к прямому выставлению счетов
+      href: restricted-direct-bill-capabilities.md
+    - name: Переход со статуса партнера с прямым выставлением счетов на статус непрямого торгового посредника
+      href: transition-direct-to-indirect.md
+    - name: 'Соглашения, прайс-листы и предложения в рамках CSP'
+      href: csp-documents-and-learning-resources.md
+    - name: Приложение для управления затратами Azure от Cloudyn для участников программы CSP
+      href: azure-cost-management-app-for-csp-partners.md
+    - name: Региональные рынки и валюты в рамках CSP
+      href: regional-authorization-overview.md
+    - name: Инструкции по консолидации клиента региональной авторизации CSP
+      href: csp-regional-authorization-tenant-consolidation.md
+    - name: 'Обзор: новый способ подтвердить принятие клиентом условий Клиентского соглашения Майкрософт'
+      href: confirm-consent.md
+    - name: Как подтвердить принятие клиентом условий Клиентского соглашения Майкрософт
+      href: confirm-customer-agreement.md
+    - name: Когда следует подтверждать принятие Клиентского соглашения от имени клиента
+      href: attest-acceptance-customer-agreement.md
+    - name: Применение для продаж в национальных облаках
+      href: csp-national-clouds-overview.md
+      items:
+        - name: Центр партнеров для Microsoft Cloud for US Government
+          href: partner-center-for-microsoft-us-govt-cloud.md
+        - name: 'Вопросы и ответы: Microsoft Cloud for US Government'
+          href: faq-for-us-govt-cloud.md
+        - name: Центр партнеров Microsoft Cloud в Германии
+          href: partner-center-for-microsoft-cloud-germany.md
+        - name: Регистрация в программе CSP для Microsoft Cloud for US Government
+          href: enroll-in-csp-for-microsoft-us-govt-cloud.md
+        - name: "Продажа Office\_365 для государственных организаций в средах GCC в рамках CSP"
+          href: csp-gcc-overview.md
+        - name: "Квалификационные критерии для партнеров и клиентов по Office\_365 для государственных организаций в средах GCC"
+          href: csp-gcc-validate.md
+        - name: Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud в Германии
+          href: user-management-in-partner-center-for-microsoft-cloud-germany.md
+        - name: Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud для правительства США
+          href: user-management-in-partner-center-for-microsoft-us-govt-cloud.md
+- name: Управление учетной записью Центра партнеров
+  href: partner-center-account-setup.md
+  items:
+    - name: Рабочие учетные записи и Центр партнеров
+      href: azure-active-directory-tenants-and-partner-center.md
+    - name: Структура учетной записи в Центре партнеров
+      href: account-structure.md
+    - name: Проверка владения доменом
+      href: become-global-admin.md
+    - name: Проверка данных учетной записи
+      href: verification-responses.md
+    - name: Объединение учетной записи партнера с другой учетной записью партнера
+      href: merge-accounts.md
+    - name: "Сопоставление дополнительных клиентов Azure\_AD с учетной записью Центра партнеров"
+      href: multi-tenant-account.md
+    - name: Обновление профиля партнера
+      href: update-your-partner-profile.md
+    - name: Расположения
+      href: manage-locations.md
+    - name: Регистрация в качестве поставщика панелей управления
+      href: enroll-as-cpv.md
+    - name: Восстановление приостановленной учетной записи Центра партнеров
+      href: suspended-partner-center-account.md
+    - name: Добавление приложения Azure AD
+      href: service-principal.md
+    - name: Связывание учетной записи Microsoft Learn с Центром партнеров
+      href: ms-learn-associate.md
+- name: "Управление учетной записью Центра партнеров\_— пользователи"
+  items:
+    - name: Создание учетных записей пользователей
+      href: create-user-accounts-and-set-permissions.md
+    - name: Назначение пользователям ролей и разрешений
+      href: permissions-overview.md
+    - name: Регистрация в качестве поставщика панелей управления
+      href: enroll-as-cpv.md
+    - name: Сброс пароля пользователя
+      href: reset-a-user-password.md
+    - name: Сброс пароля
+      href: reset-my-pasword.md
+    - name: Не удается войти в Центр партнеров
+      href: unable-to-sign-in.md
+- name: "Управление учетной записью Центра партнеров\_— бизнес"
+  items:
+    - name: Добавление служб Azure Partner Shared Services
+      href: shared-services.md
+    - name: Цены и предложения
+      href: pricing-and-offers.md
+    - name: Настройка каталога
+      href: customize-the-catalog.md
+- name: Рост вашего бизнеса
+  href: grow-your-business.md
+  items:
+    - name: Обзор авторов
+      href: referrals.md
+      items:
+        - name: Реагирование на рекомендации
+          href: responding-to-referrals.md
+        - name: Управление бизнес-профилем
+          href: create-a-marketing-profile.md
+        - name: Управление потенциальными клиентами
+          href: manage-leads.md
+        - name: Управление возможностями совместной продажи
+          href: manage-co-sell-opportunities.md
+        - name: "Соединитель для совместных продаж для Dynamics 365 CRM\_— обзор"
+          href: connector-dynamics.md
+        - name: "Соединитель для совместных продаж для Salesforce CRM\_— обзор"
+          href: connector-salesforce.md
+        - name: Регистрация сделок
+          href: register-deals.md
+        - name: Получение полезных сведений об авторах
+          href: referral-insights.md
+        - name: Анализ бизнес-профиля
+          href: analyze-your-marketing-profile.md
+    - name: Программа поощрения
+      items:
+        - name: Начало работы с поощрениями
+          items:
+            - name: Начало работы
+              href: incentives-get-started-intro.md
+            - name: Определение возможности участия в программе
+              href: incentives-determined-your-program-eligibility.md
+            - name: Создание профилей для выплат и налогов и управление ими в Центре партнеров
+              href: incentives-create-and-manage-your-payout-and-tax-profiles.md
+            - name: Часто задаваемые вопросы о профилях для выплат и налогов в рамках программы поощрения
+              href: incentives-payout-tax-profile-faqs.md
+            - name: Подтверждение соответствия вашей прибыли требованиям
+              href: incentives-confirm-your-earnings-eligibility.md
+            - name: Просмотр сведений о программах вознаграждений и платежей по ним
+              href: understand-incentive-payouts.md
+            - name: Доступ к странице выплат по программам поощрений
+              href: incentives-unified-user-guide.md
+        - name: Планы и подтверждения выполнения
+          items:
+            - name: Сведения о планах и подтверждениях выполнения
+              href: incentives-plans-proofs-intro.md
+            - name: Создание плана
+              href: incentives-create-your-plan.md
+            - name: Подготовка подтверждения выполнения
+              href: incentives-prepare-your-proof-of-execution.md
+        - name: Совместные заявки на возмещение средств в рамках программ поощрения
+          items:
+            - name: Сведения о совместных заявках
+              href: claims-overview.md
+            - name: Создание и администрирование совместных заявок на возмещение средств в рамках программы поощрения
+              href: create-incentives-claims.md
+            - name: Основные требования к заявкам на возмещение средств в рамках программ поощрений
+              href: core-requirements.md
+            - name: Сроки утверждения совместных заявок на возмещение средств и выплат по ним
+              href: incentives-managing-co-op-claims.md
+        - name: 'Поощрения: заявки на создание связи CPOR'
+          items:
+            - name: Сведения о связях в рамках CPOR
+              href: incentives-customer-associations-intro.md
+            - name: Создание связи с клиентом с помощью модели CPOR
+              href: submit-osa-claim.md
+            - name: Управление связями с клиентами
+              href: incentives-manage-customer-associations.md
+            - name: Проблемы со связью клиентов
+              href: incentives-customer-association-issues.md
+        - name: Устранение проблем с платежами и прибылью
+          href: incentives-payment-issues.md
+- name: Выставление счетов и налоги
+  href: billing.md
+  items:
+    - name: Основы выставления счетов
+      href: billing-basics.md
+    - name: Способы выставления счетов в Центре партнеров
+      href: billing-different-types.md
+    - name: Интерпретация счета
+      href: read-your-bill.md
+    - name: Использование файлов выверки
+      href: use-the-reconciliation-files.md
+    - name: Типы расходов в файле выверки
+      href: recon-file-charge-types.md
+    - name: Чтение файлов выверки с ежедневной оценкой использования в Центре партнеров
+      href: daily-rated-usage-recon-files.md
+    - name: Файлы выверки на основе лицензии
+      href: license-based-recon-files.md
+    - name: Распространенные сценарии выставления счетов
+      href: common-billing-scenarios.md
+      items:
+        - name: Сценарии ежемесячного выставления счетов
+          href: common-billing-scenarios-monthly.md
+        - name: Сценарии ежегодного выставления счетов
+          href: common-billing-scenarios-annual.md
+        - name: Сценарии выставления счетов для одноразовых платежей и выбор повторяющихся платежей
+          href: common-billing-scenarios-onetime-recurring.md
+        - name: "Накладные\_— чтение данных в полях выставления счетов и одноразовых платежей"
+          href: invoice-file.md
+        - name: Выставление счетов на основе лицензии
+          href: license-based-billing.md
+        - name: Сценарии использования подписок SaaS на основе лицензий
+          href: common-billing-scenarios-saas.md
+    - name: "Просмотр данных о цифровых подписях\_— Центр партнеров (Индия)"
+      href: digital-signature.md
+    - name: Налоги и освобождение от уплаты налогов
+      href: tax-and-tax-exemptions.md
+      items:
+        - name: Сведения об НДС компании
+          href: organization-tax-info.md
+        - name: 'Убедитесь, что вы получили кредит на подоходный налог.'
+          href: withholding-tax-credit-form.md
+        - name: "Консультация для партнеров по Office 365: \"Голосовая связь Microsoft\_365 бизнес\" в программе CSP"
+          href: o365-partner-advisory.md
+    - name: Запрос на кредиты в рамках соглашения об уровне обслуживания от Майкрософт
+      href: request-credit.md
+    - name: Установка расходного бюджета Azure для клиентов
+      href: set-an-azure-spending-budget-for-your-customers.md
+    - name: 'Управление сценариями неплатежа, мошенничества или неправильного использования'
+      href: non-payment--fraud--or-misuse.md
+    - name: Управление нераспределенными платежами
+      href: unallocated-payment.md
+- name: Связь с клиентами
+  href: customer-accounts.md
+  items:
+    - name: Добавление нового пользователя
+      href: add-a-new-customer.md
+    - name: Запрос связи торгового посредника с клиентом
+      href: request-a-relationship-with-a-customer.md
+    - name: Удаление связи торгового посредника с клиентом
+      href: remove-a-relationship.md
+    - name: Делегирование прав администрирования клиентами партнерам или отзыв таких прав
+      href: customers-revoke-admin-privileges.md
+    - name: Просмотр списка клиентов
+      href: see-your-customer-list.md
+    - name: Просмотр журналов действий клиента
+      href: activity-logs.md
+    - name: Обновление сведений учетной записи клиента
+      href: update-customer-account-info.md
+    - name: Как разрешить клиентам покупать собственные службы
+      href: give-customers-permission.md
+    - name: Как добавить нескольких пользователей для клиента
+      href: adding-multiple-users-to-a-customer-account.md
+    - name: Обязательные поля файла для импорта нескольких пользователей для учетной записи клиента
+      href: file-customer-users.md
+    - name: Назначение контактов службы поддержки
+      href: assign-support-contacts.md
+- name: Предложения CSP
+  href: csp-offers.md
+  items:
+    - name: Коммерческая платформа
+      items:
+        - name: Обзор коммерческой платформы
+          href: csp-commercial-marketplace-overview.md
+        - name: Предложения коммерческой платформы
+          href: csp-commercial-marketplace-discover.md
+        - name: Приобретение предложений коммерческой платформы
+          href: csp-commercial-marketplace-purchase.md
+        - name: Эксклюзивные предложения от независимых поставщиков программного обеспечения в Marketplace
+          href: isv-opt-in.md
+        - name: Управление предложениями коммерческой платформы
+          href: csp-commercial-marketplace-manage.md
+        - name: Выставление счетов за предложения коммерческой платформы
+          href: csp-commercial-marketplace-billing.md
+        - name: Поддержка предложений коммерческой платформы
+          href: csp-commercial-marketplace-support.md
+        - name: Контракты для покупок на коммерческой платформе
+          href: csp-commercial-marketplace-contracting.md
+    - name: Резервирования Azure
+      href: azure-reservations.md
+      items:
+        - name: Размеры виртуальных машин для максимального использования резервирования
+          href: azure-usage.md
+        - name: Приобретение резервирований Microsoft Azure от лица клиентов
+          href: azure-reservations-buying.md
+        - name: Управление резервированиями Microsoft Azure от лица клиентов
+          href: azure-reservations-manage.md
+        - name: Azure Reserved VM Instances (RI) + серверные подписки
+          href: azure-ri-server-subscriptions.md
+    - name: Доступные службы Azure в Azure CSP
+      href: azure-plan-available.md
+    - name: План Azure
+      href: azure-plan-lp.md
+      items:
+        - name: Приступая к использованию плана Azure
+          href: azure-plan-get-started.md
+        - name: Приобретение плана Azure
+          href: purchase-azure-plan.md
+        - name: Сравнение предложений Azure
+          href: compare-azure-offers.md
+        - name: Перевод клиентов на план Azure
+          href: azure-plan-transition.md
+        - name: Общие сведения о партнерских баллах
+          href: partner-earned-credit.md
+        - name: Как вычисляются и выплачиваются партнерские баллы
+          href: partner-earned-credit-explanation.md
+        - name: 'Роли и разрешения, доступные за партнерские баллы'
+          href: azure-roles-perms-pec.md
+        - name: Новый интерфейс для коммерческих приложений в CSP. Выставление счетов в Azure
+          href: azure-plan-billing.md
+        - name: Прейскурант для новой коммерческой модели в CSP для Azure
+          href: azure-plan-price-list.md
+        - name: Управление подписками и ресурсами в плане Azure
+          href: azure-plan-manage.md
+        - name: Возобновление использования привилегий администратора для подписок Azure в CSP
+          href: revoke-reinstate-csp.md
+    - name: Подписки на программное обеспечение
+      href: csp-software-subscriptions.md
+    - name: Продажа локального программного обеспечения через программу CSP
+      href: csp-on-premise-software.md
+    - name: Веб-службы (подписки)
+      href: customer-subscriptions.md
+      items:
+        - name: 'Создание, приостановка и отмена подписок клиентов'
+          href: create-a-new-subscription.md
+        - name: Использование рекламных акций для привлечения новых клиентов
+          href: promotions.md
+        - name: Предложение клиентам пробных версий продуктов Майкрософт
+          href: offer-your-customers-trials-of-microsoft-products.md
+        - name: Продажа подписок на коммерческие продукты Marketplace
+          href: sell-marketplace-products.md
+        - name: Назначение подписок Azure в Центре партнеров
+          href: assign-azure-subscriptions.md
+        - name: Назначение лицензий пользователям
+          href: assign-licenses-to-users.md
+        - name: Добавление лицензий или служб к существующей подписке
+          href: add-licenses-or-services-to-an-existing-subscription.md
+        - name: Назначение и отзыв лицензий для нескольких пользователей
+          href: bulk-license-provisioning-for-multiple-users.md
+        - name: Перенос клиентов служб на основе лицензий в программу поставщиков облачных услуг
+          href: transition-seat-based-services.md
+        - name: 'Продажа подписок Minecraft: Education Edition'
+          href: minecraft-subscriptions.md
+        - name: Продажи представителям определенных отраслей
+          href: Get-special-pricing-for-offers.md
+        - name: Продажа клиентам из сферы образования
+          href: sell-to-education-customers.md
+        - name: Повышение популярности и уровня удовлетворенности
+          href: increasing-adoption-and-satisfaction.md
+        - name: Простая настройка устройств с помощью Windows Autopilot
+          href: autopilot.md
+    - name: Обновление или перенос предложений в более поздние версии
+      items:
+        - name: "Переход подписок Dynamics AX до версии Dynamics\_365"
+          href: manual-subscription-migration.md
+        - name: Перенос предложений с выпуском Dynamics 365 Business в более новые версии
+          href: migrate-dynamics-365-to-new.md
+        - name: "Перенос подписок Office\_365 корпоративный E4 в новые версии Office\_365"
+          href: migrate-office365-e4-subscriptions-to-newer-versions.md
+        - name: "Перенос Skype для бизнеса Online План\_1 в новые версии Office\_365"
+          href: skype-retiring.md
+        - name: Перенос подписок Azure
+          href: switch-azure-subscriptions-to-a-different-partner.md
+        - name: "Перенос подписок Kaizala Pro в Microsoft\_365"
+          href: migrate-kaizala-pro-partner.md
+    - name: "Консультанты по продажам Office\_365"
+      items:
+        - name: "Создание приглашения для ознакомления с пробной версией Office\_365"
+          href: advisors-create-a-trial-invitation.md
+        - name: "Добавление клиентов с использованием предложений на пробную версию Office\_365"
+          href: advisors-build-your-business.md
+        - name: "Создание предложения на покупку Office\_365"
+          href: advisor-create-a-purchase-offer.md
+- name: Данные и аналитика в Центре партнеров
+  items:
+    - name: Получение доступа к результатам аналитики и данным пользователей
+      href: data-analysis-lp.md
+    - name: "Аналитика Центра партнеров для Power\_BI"
+      items:
+        - name: "Вводные сведения об Аналитике Центра партнеров для Power\_BI"
+          href: power-bi-app-for-direct-partners.md
+        - name: "Установка Аналитики Центра партнеров для Power\_BI"
+          href: power-bi-app-for-direct-partners-install.md
+        - name: "Использование Аналитики Центра партнеров для Power\_BI"
+          href: power-bi-app-for-direct-partners-use.md
+    - name: Аналитика Центра партнеров
+      href: partner-center-insights.md
+      items:
+        - name: "Аналитика\_— обзорная панель мониторинга"
+          href: pci-overview-report.md
+        - name: "Аналитика\_— управление доступом на основе ролей к панели мониторинга аналитики"
+          href: pci-roles.md
+        - name: "Аналитика\_— панель мониторинга для клиентов"
+          href: pci-customer-report.md
+        - name: "Аналитика\_— панель мониторинга для подписок на продукты"
+          href: pci-product-subscriptions-report.md
+        - name: "Аналитика\_— панель мониторинга для лицензий на продукты"
+          href: pci-product-licenses-report.md
+        - name: "Аналитика\_— панель мониторинга для данных об использовании Azure"
+          href: pci-azure-usage-report.md
+        - name: "Аналитика\_— панель мониторинга для обучения"
+          href: pci-training-dashboard.md
+        - name: "Аналитика\_— отчет о компетенциях"
+          href: pci-competencies-report.md
+        - name: "Аналитика\_— отчет о преимуществах"
+          href: pci-benefits-report.md
+        - name: "Аналитика\_— известные проблемы"
+          href: pci-known-issues.md
+        - name: "Аналитика\_— скачивание отчетов"
+          href: pci-download-reports.md
+    - name: Показатели вклада партнера
+      href: partner-contribution-indicators.md
+    - name: Получение данных об использовании клиентских подписок Azure
+      href: analyze-azure-usage.md
+    - name: Анализ эффективности косвенных торговых посредников
+      href: analyze-indirect-resellers.md
+    - name: Анализ подписок и лицензий
+      href: analyze-subscriptions-licenses.md
+- name: Работа с другими партнерами
+  href: work-with-other-partners.md
+  items:
+    - name: Задачи непрямого поставщика в Центре партнеров
+      href: indirect-provider-tasks-in-partner-center.md
+    - name: Задачи непрямого торгового посредника в Центре партнеров
+      href: indirect-reseller-tasks-in-partner-center.md
+    - name: Поддерживаемые отношения партнеров CSP
+      href: csp-supported-partner-relationships.md
+    - name: Поддержка нескольких каналов
+      href: multichannel.md
+    - name: Поддержка нескольких партнеров
+      href: multipartner.md
+- name: Получите поддержку от Майкрософт
+  href: support-from-microsoft.md
+  items:
+    - name: Сообщение о проблемах с Центром партнеров
+      href: report-problems-with-partner-center.md
+    - name: Сообщение о проблемах от имени пользователя
+      href: report-problems-on-behalf-of-a-customer.md
+    - name: Автоматизация уведомлений служб с помощью наших API
+      href: get-automated-service-notifications-with-our-apis.md
+- name: Предоставление поддержки клиентам
+  href: customer-support.md
+  items:
+    - name: Проверка работоспособности службы
+      href: check-service-health.md
+    - name: Предоставление поддержки выставления счетов
+      href: provide-billing-support.md
+    - name: Предоставление технической поддержки
+      href: provide-technical-support.md
+    - name: Взаимодействие Microsoft с клиентами
+      href: customer-communication-from-microsoft.md
+    - name: Самообслуживание для пользователей
+      href: customer-self-support.md
+    - name: Сообщение о проблемах в корпорацию Майкрософт
+      href: escalate-problems-to-microsoft.md
+- name: Требования к безопасности
+  items:
+    - name: Общие сведения
+      href: partner-security-requirements.md
+    - name: Требование MFA для арендатора партнера
+      href: partner-security-requirements-mandating-mfa.md
+    - name: Соответствие требованиям
+      href: partner-security-compliance.md
+    - name: Часто задаваемые вопросы
+      href: partner-security-requirements-faq.md
