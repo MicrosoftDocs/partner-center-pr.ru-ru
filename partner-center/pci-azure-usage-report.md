@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9be334b02576927231b9cdde1114ce013ed1018b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 72676a714cf944bc9210de8e8f6edfa0d3037da9
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436723"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239072"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Отчет об использовании Azure, доступный на панели мониторинга центра партнеров Insights
 
@@ -77,3 +77,6 @@ ms.locfileid: "86436723"
 ## <a name="next-steps"></a>Дальнейшие шаги
 
 - Дополнительные отчеты см. в статье [Partner Center Insights](partner-center-insights.md).
+
+>[!NOTE] 
+> Вы можете скачать необработанные данные, чтобы включить этот отчет из раздела "отчеты о загрузке" на панели мониторинга Insights. [Подробнее](pci-download-reports.md) 

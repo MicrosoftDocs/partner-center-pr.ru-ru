@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dd4dc27c17c40b76020f6233257637a387c5f81
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 66b913688b279654c79b0860fbd0f92a921d87dd
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444843"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239052"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Отчет о лицензиях продуктов на панели мониторинга центра партнеров Insights
 
@@ -80,6 +80,9 @@ ms.locfileid: "87444843"
 
 :::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="распространение лицензий":::
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Дальнейшие шаги
 
 Дополнительные отчеты см. в статье [Partner Center Insights](partner-center-insights.md).
+
+>[!NOTE] 
+> Вы можете скачать необработанные данные, чтобы включить этот отчет из раздела "отчеты о загрузке" на панели мониторинга Insights. [Подробнее](pci-download-reports.md)

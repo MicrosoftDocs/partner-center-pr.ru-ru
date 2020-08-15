@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0f1f2498f9c91f467b4b2b1980a14995782a5137
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f26384f408f7644d577940e22ea43a197c41164f
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436673"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239062"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Отчет о подписках на продукты, доступный на панели мониторинга центра партнеров Insights
 
@@ -110,3 +110,6 @@ ms.locfileid: "86436673"
 ## <a name="next-steps"></a>Дальнейшие шаги
 
 - Дополнительные отчеты см. в статье [Partner Center Insights](partner-center-insights.md).
+
+>[!NOTE] 
+> Вы можете скачать необработанные данные, чтобы включить этот отчет из раздела "отчеты о загрузке" на панели мониторинга Insights. [Подробнее](pci-download-reports.md) 
