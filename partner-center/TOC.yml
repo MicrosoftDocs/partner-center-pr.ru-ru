@@ -276,7 +276,7 @@
       items:
         - name: Сведения об НДС компании
           href: organization-tax-info.md
-        - name: 'Убедитесь, что вы получили кредит на подоходный налог.'
+        - name: Получение кредита для удержания налогов
           href: withholding-tax-credit-form.md
         - name: "Консультация для партнеров по Office 365: \"Голосовая связь Microsoft\_365 бизнес\" в программе CSP"
           href: o365-partner-advisory.md
@@ -458,6 +458,8 @@
           href: pci-azure-usage-report.md
         - name: "Аналитика\_— панель мониторинга для обучения"
           href: pci-training-dashboard.md
+        - name: Аналитика Microsoft Learn
+          href: ms-learn-analytics.md
         - name: "Аналитика\_— отчет о компетенциях"
           href: pci-competencies-report.md
         - name: "Аналитика\_— отчет о преимуществах"
@@ -513,7 +515,7 @@
       href: escalate-problems-to-microsoft.md
 - name: Требования к безопасности
   items:
-    - name: Общие сведения
+    - name: Overview
       href: partner-security-requirements.md
     - name: Требование MFA для арендатора партнера
       href: partner-security-requirements-mandating-mfa.md
