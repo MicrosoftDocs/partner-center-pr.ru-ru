@@ -1,21 +1,21 @@
 ---
-title: Управление утверждениями в совместных операциях
+title: Управление заявками на возмещение совместных средств
 description: Сведения о процессе обработки заявок на совместное выполнение, включая крайние сроки, проблемы с валютой и спорные вопросы об отклоненных заявках на совместное выполнение.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 4d164eed72906b8fd04700865c7320c7fc23f11f
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: c3bb6bc8c1d59caae278863974524a5946fecf6c
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545975"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303200"
 ---
-# <a name="manage-co-op-claims"></a>Управление утверждениями в совместных операциях
+# <a name="manage-co-op-claims"></a>Управление заявками на возмещение совместных средств
 
 Область применения:
 
