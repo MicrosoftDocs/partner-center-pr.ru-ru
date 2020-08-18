@@ -171,8 +171,6 @@
     - name: Обзор авторов
       href: referrals.md
       items:
-        - name: Реагирование на рекомендации
-          href: responding-to-referrals.md
         - name: Управление бизнес-профилем
           href: create-a-marketing-profile.md
         - name: Управление потенциальными клиентами
@@ -193,8 +191,12 @@
       items:
         - name: Начало работы с поощрениями
           items:
+            - name: Часто задаваемые вопросы
+              href: incentives-faq.md
             - name: Начало работы
               href: incentives-get-started-intro.md
+            - name: Регистрация в программе поощрений
+              href: incentives-enroll.md
             - name: Определение возможности участия в программе
               href: incentives-determined-your-program-eligibility.md
             - name: Создание профилей для выплат и налогов и управление ими в Центре партнеров

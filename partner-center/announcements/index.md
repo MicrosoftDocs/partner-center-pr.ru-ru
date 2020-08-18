@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 07ebb79d38a0340129fdc590bc873c9fd7ed05c9
-ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
+ms.openlocfilehash: b34cfc1448ba97d663b8dc89f424905775f9766c
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88220209"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303290"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,7 @@ ms.locfileid: "88220209"
 
 | **Категория** | **Объявления за август 2020 года** | **Объявлено** |
 |---------|:---------|:---------|
+|Предложения и рынки|[Обновления в акционном предложении "Голосовая связь Microsoft 365"](2020-august.md#7)|14 августа|
 |Характеристики|[Выпуск пакета SDK для .NET Standard версии 1.16.1](2020-august.md#6)|12 августа|
 |Возможности|[В ближайшее время появится возможность самостоятельного приобретения Microsoft Project и Microsoft Visio](2020-august.md#5)|12 августа|
 |Предложения и рынки|[Доступны новые номера SKU для Microsoft Teams Advanced Communications](2020-august.md#4)|4 августа|
