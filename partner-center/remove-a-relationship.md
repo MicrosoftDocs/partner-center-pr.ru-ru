@@ -9,14 +9,14 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecc7d73734ab0d5312293f7ab8335bda76eea6e6
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: fb6af7896f659630bb6810868dc017e1968e4d19
+ms.sourcegitcommit: b74701f3806af2c5da04b21f6c1d1371b56509cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811344"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "88584683"
 ---
-# <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Как удалить связь торгового посредника с клиентом в центре партнеров
+# <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Как удалить связь торгового посредника с клиентом в Центре партнеров
 
 **Относится к**
 
@@ -24,14 +24,14 @@ ms.locfileid: "87811344"
 
 В этой статье описывается, как удалить связь через торгового посредника с клиентом в центре партнеров.
 
-Прямые партнеры: если вы больше не взаимодействуете клиентом, вы можете удалить связь с ним в Центре партнеров.
+Прямые партнеры или косвенные поставщики. Если вы больше не собираетесь работать с клиентом, вы можете удалить эту связь в центре партнеров.
 
 Удаление связи имеет следующие последствия.
 
 - удаляет клиента из списка клиентов в Центре партнеров;
-- удаляет вас из [списка контактов поддержки](assign-support-contacts.md) вашего клиента;
+- Удаляет вас из [списка доступных контактов поддержки](assign-support-contacts.md) для вашего клиента
 - удаляет ваши права делегированного администратора для клиента;
-- Не позволяет делать будущие покупки для клиента
+- Не позволяет клиенту делать покупки в дальнейшем
 
 ## <a name="how-to-remove-a-relationship"></a>Удаление связи
 
