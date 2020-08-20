@@ -8,19 +8,101 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 08/03/2020
-ms.openlocfilehash: 10416b9054cc01669fd8a9cc0606f8ecdb565fd9
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.date: 08/14/2020
+ms.openlocfilehash: 6382e5e594dbe68c63cbbad1313948fedcf0fd89
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811104"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303060"
 ---
 # <a name="august-2020-announcements"></a>Объявления за август 2020 года
 
 Эта страница содержит подробные сведения об объявлениях для Центра партнеров Майкрософт за август 2020 г.
 
 Объявления за 2020 год: [Январь](2020-january.md) | [Февраль](2020-february.md) | [Март](2020-march.md) | [Апрель](2020-april.md) | [Май](2020-may.md) | [Июнь](2020-june.md) | [Июль](2020-july.md) | Август
+
+________________
+
+## <a name="updates-to-the-microsoft-365-voice-promotion"></a><a name="7"></a>Обновления в акционном предложении "Голосовая связь Microsoft 365" 
+
+### <a name="categories"></a>Категории
+
+- Дата: 14.08.2020
+- Предложения и рынки
+
+### <a name="details"></a>Сведения
+
+Мы внесли некоторые изменения в ранее объявленное акционное предложение "Голосовая связь Microsoft 365 бизнес". Подробные сведения можно получить, перейдя в [коллекцию ресурсов Центра партнеров](https://partner.microsoft.com/resources/detail/announcement-microsoft-365-business-voice-promotion-deactivation-pdf). 
+
+________________
+
+## <a name="sdk-release-on-net-standard-v1161"></a><a name="6"></a>Выпуск пакета SDK для .NET Standard версии 1.16.1
+
+### <a name="categories"></a>Категории
+
+- Дата: 12.08.2020
+- Характеристики
+
+### <a name="impacted-audience"></a>Затронутая аудитория
+
+Партнеры с прямым выставлением счетов и непрямые поставщики, которые участвуют в программе CSP и используют пакет SDK Центра партнеров для .NET. 
+
+### <a name="summary"></a>Сводка
+
+21 июля 2020 г. партнеры получили возможность скачивать **пакет SDK для .NET Standard Центра партнеров Майкрософт** (версия 1.16.1 для .NET), а также обновленные общедоступные **примеры для пакетов SDK Центра партнеров на GitHub**.
+
+### <a name="details"></a>Сведения
+
+Скачать последнюю версию пакета SDK для .NET Standard могут партнеры с прямым выставлением счетов и непрямые поставщики, которые участвуют в программе CSP. Эти изменения обеспечат совместимость пакета SDK с существующими приложениями, в которых используется .NET Framework 4.6.1 и более поздних версий. .NET Standard будет поддерживать .NET Core 2.0 и более поздних версий.
+
+Очень многие партнеры просили предоставить пакет SDK для платформы .NET Standard. Работая с текущей версией пакета SDK, партнеры вынуждены использовать приложения, написанные на платформе ASP.NET Framework, которые работают медленнее и обходятся дороже, чем аналоги на платформе .NET Core. Таким образом, миграция на .NET Standard поможет решить проблемы с производительностью или совместимостью с .NET Core.
+ 
+**Ключевые моменты**
+- Больше не будет новых выпусков от корпорации Майкрософт для платформы .NET Framework 4.8. Текущая версия останется последней.
+- В будущем она станет помехой в разработке, так как большинство библиотек будут выпускаться для .NET Core или .NET Standard и могут не поддерживать текущую версию платформы.
+- .NET Core лучше всего работает с контейнерами благодаря небольшому размеру.
+- Благодаря высокопроизводительной среде выполнения для серверов под управлением Windows Server и Linux платформа .NET Core может считаться наиболее производительной веб-платформой.
+
+### <a name="next-steps"></a>Дальнейшие действия
+
+- Скачайте последнюю версию [пакета SDK для .NET (1.16.1)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.1)
+- Версия: пакет SDK .NET 1.16.1
+- Пример кода: [Пример кода](https://github.com/microsoft/Partner-Center-DotNet-Samples)
+- Общедоступная версия: 12.08.2020
+- Новые изменения в API для текущего выпуска не вносились
+
+________________
+
+## <a name="self-service-purchasing-for-microsoft-project-and-microsoft-visio-coming-soon"></a><a name="5"></a>В ближайшее время появится возможность самостоятельного приобретения Microsoft Project и Microsoft Visio
+### <a name="categories"></a>Категории
+
+- Дата: 12.08.2020
+- Характеристики
+
+### <a name="impacted-audience"></a>Затронутая аудитория
+
+Партнеры, продающие веб-службы коммерческим клиентам.
+
+### <a name="details"></a>Сведения
+
+В [прошлом году](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) мы объявили о том, что корпорация Майкрософт предоставляет сотрудникам и командам возможность непосредственно покупать выбранные службы. Сегодня мы сообщаем о том, что возможность самостоятельного приобретения скоро появится для продуктов Microsoft Project и Microsoft Visio. С 15 сентября 2020 г. пользователи по всему миру смогут самостоятельно приобрести подписки на следующие продукты:
+
+- Visio — [план 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) и [план 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab);
+- Project — [план 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) и [план 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab).
+
+**Примечание**. Возможности самостоятельной покупки недоступны в Индии, а также для клиентов, для которых доступны предложения для государственных и образовательных учреждений.
+
+#### <a name="partner-benefits"></a>Преимущества для партнеров
+
+Вы сможете предоставлять свои услуги отдельным пользователям и командам без централизованного приобретения ИТ-отделом необходимых лицензий. Службы могут охватывать предложения Project и Visio на основе сценариев интеграции с Microsoft 365 и Power Platform. 
+
+Узнайте больше о возможностях партнеров, предоставляемых решениями Visio и Power Platform, из доклада на конференции Microsoft Inspire, посвященном [способам преобразования бизнеса с помощью Microsoft Visio и Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform). Дополнительные сведения см. в [руководстве по самообслуживанию](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide).
+
+#### <a name="additional-resources"></a>Дополнительные ресурсы
+
+- Ознакомьтесь с коллекцией ресурсов, посвященных подготовке к работе: [Возможность самостоятельного приобретения для клиентов](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/).
+- Перед приобретением клиенты могут поработать с пробной версией Visio ([план 1 и план 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/)) и Project ([план 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software)).
 
 ________________
 

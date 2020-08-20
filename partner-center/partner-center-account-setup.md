@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: b8f06013651f6b41ea9e31d1a444465c052dcb06
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 88af3967c8ab1d3eaccb4ea48551725c4f8b65e9
+ms.sourcegitcommit: e9790112451244bc8ee8026efc793b5d87439277
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365780"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88215574"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Управляйте учетной записью Центра партнеров: профилем, банковскими данными, ролями, разрешениями и другими данными своей компании.
 
@@ -118,6 +118,7 @@ ms.locfileid: "87365780"
 |-----------------------|:-----------------------|
 |Проверка актуальности профиля компании   |[Обновление профиля партнера](update-your-partner-profile.md)|
 |Добавлять новых пользователей|[Создание учетных записей пользователей и назначение разрешений](create-user-accounts-and-set-permissions.md)|
+|Поиск состояния проверки|[Проверка данных учетной записи](verification-responses.md)|
 |Всем в компании, кто будет работать в Центре партнеров, необходимо назначить роли. У каждой роли свои разрешения и задачи.|[Создание учетных записей пользователей и определение разрешений](create-user-accounts-and-set-permissions.md)|
 |Проверка разрешений для каждой роли|[Назначение пользователям ролей и разрешений](permissions-overview.md)
 |Управление расположениями компании|[Управление учетной записью партнера: расположения](manage-locations.md)
@@ -127,3 +128,4 @@ ms.locfileid: "87365780"
 |Продвижение своей компании, чтобы клиенты могли найти вас   |[Создание бизнес-профиля](create-a-marketing-profile.md)|
 |Организация каталога так, чтобы самые важные продукты отображались вверху списка   |[Настройка каталога](customize-the-catalog.md)|
 |Получение актуальных цен и предложений   |[Цены и предложения](pricing-and-offers.md)|
+|API. Проверка идентификатора MPN партнера|[https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md]
