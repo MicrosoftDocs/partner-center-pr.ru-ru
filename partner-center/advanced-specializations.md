@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80a44e50134f9bee335627f66cc27beee8a93926
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 0aa6efabbff39d63847451c667d48f723ad33b24
+ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527020"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88942566"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Получите расширенную специализацию, чтобы продемонстрировать свои знания и выделять клиентов 
 
@@ -38,6 +38,7 @@ ms.locfileid: "87527020"
 - Миграция хранилища данных в Microsoft Azure
 - Kubernetes на Microsoft Azure
 - Модернизации веб-приложений для Microsoft Azure
+- Виртуальный рабочий стол Windows
 
 
 Когда все требования будут выполнены, состояние будет **активно**. Активное состояние автоматически включает тег в **бизнес-профиле** , который отображается для всех клиентов, выполняющих поиск [поставщика решений](https://www.microsoft.com/solution-providers/home).
