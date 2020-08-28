@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7630894df25f5b9919f30c60b0223da9f121788d
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: b22ac3137be610d3f8e6bce9569b1f4cd7ef191b
+ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811314"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "89040760"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Как сообщить о проблемах в центре партнеров и отправить сведения о журнале или диагностике
 
@@ -24,6 +24,10 @@ ms.locfileid: "87811314"
 - Центр партнеров для Microsoft Cloud for US Government
 
 Обратитесь в службу поддержки центра партнеров, если вы нашли проблемы или хотите помочь в работе с центром партнеров.
+
+**Роли пользователя**
+
+Все пользователи, зарегистрированные в центре партнеров, могут создавать запросы на поддержку партнеров. Пользователи могут просматривать только те запросы на поддержку, которые были отправлены после входа в центр партнеров.
 
 **Сообщить о проблеме в центре партнеров**
 
