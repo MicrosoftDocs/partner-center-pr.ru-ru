@@ -483,8 +483,11 @@
     - name: Анализ подписок и лицензий
       href: analyze-subscriptions-licenses.md
 - name: Работа с другими партнерами
-  href: work-with-other-partners.md
   items:
+    - name: Найти партнера
+      href: find-a-partner.md
+    - name: Работа с другими партнерами
+      href: work-with-other-partners.md
     - name: Задачи непрямого поставщика в Центре партнеров
       href: indirect-provider-tasks-in-partner-center.md
     - name: Задачи непрямого торгового посредника в Центре партнеров
@@ -519,6 +522,10 @@
       href: customer-self-support.md
     - name: Сообщение о проблемах в корпорацию Майкрософт
       href: escalate-problems-to-microsoft.md
+- name: Другие ресурсы поддержки
+  items:
+    - name: Ресурсы по лицензированию
+      href: support-resources-licensing.md
 - name: Требования к безопасности
   items:
     - name: Overview
