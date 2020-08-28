@@ -117,7 +117,7 @@ ms.locfileid: "89041055"
 - <span data-ttu-id="8349b-218">Роль сделки не является обязательным полем на ПК.</span><span class="sxs-lookup"><span data-stu-id="8349b-218">Deal role is not a required field in PC.</span></span> <span data-ttu-id="8349b-219">Они не отображаются и не фиксируются ни в одном из рабочих процессов.</span><span class="sxs-lookup"><span data-stu-id="8349b-219">It is neither display nor captured in any of the workflows.</span></span> <span data-ttu-id="8349b-220">Он наследуется автоматически на стороне продавца корпорации Майкрософт на основе решений, добавленных в эту сделку.</span><span class="sxs-lookup"><span data-stu-id="8349b-220">It is derived automatically at the Microsoft seller side based on the solutions added to the deal.</span></span>
 - <span data-ttu-id="8349b-221">Дата последнего изменения не отображается на странице сведений о ссылках на компьютере.</span><span class="sxs-lookup"><span data-stu-id="8349b-221">The last modified date is not displayed on the referral details page in PC.</span></span> <span data-ttu-id="8349b-222">Партнеры могут использовать функции сортировки для сортировки сделок на основе даты последнего обновления.</span><span class="sxs-lookup"><span data-stu-id="8349b-222">Partners can use the sort functionality to sort the deals based on the last updated date.</span></span>
 
- :::image type="content" source="images/pscmigration/gridview.png" alt-text="Изображение, показывающее сопоставления полей между представлением сетки "партнер Sales Connect" (PSC) и "Центр партнеров".":::
+ :::image type="content" source="images/pscmigration/gridview.png" alt-text="Изображение, показывающее сопоставления полей между представлением сетки партнер Sales Connect (PSC) и Центр партнеров.":::
 
 ### <a name="deal-details-view-in-psc-and-partner-center"></a><span data-ttu-id="8349b-224">Просмотр сведений о сделках в PSC и центре партнеров</span><span class="sxs-lookup"><span data-stu-id="8349b-224">Deal details view in PSC and Partner Center</span></span>
 
@@ -134,7 +134,7 @@ ms.locfileid: "89041055"
 
 ### <a name="psc-add-products-view-and-the-partner-center-add-solutions-view"></a><span data-ttu-id="8349b-237">PSC добавления продуктов и представление "Добавление решений" в центре партнеров</span><span class="sxs-lookup"><span data-stu-id="8349b-237">PSC add products view and the Partner Center add solutions view</span></span>
 
- :::image type="content" source="images/pscmigration/products.png" alt-text="Изображение, показывающее сопоставления полей между представлением "Добавление продуктов (PSC)" и "Центр партнеров" в представлении "Добавление решений".":::
+ :::image type="content" source="images/pscmigration/products.png" alt-text="Изображение, показывающее сопоставления полей между представлением Добавление продуктов (PSC) и Центр партнеров в представлении Добавление решений.":::
 
 ### <a name="user-management-in-psc-and-partner-center"></a><span data-ttu-id="8349b-239">Управление пользователями в PSC и центре партнеров</span><span class="sxs-lookup"><span data-stu-id="8349b-239">User management in PSC and Partner Center</span></span>
 
@@ -146,7 +146,7 @@ ms.locfileid: "89041055"
 - <span data-ttu-id="8349b-243">В центре партнеров есть только одна роль для управления сделками совместной продажи, которая является ролью администратора ссылок.</span><span class="sxs-lookup"><span data-stu-id="8349b-243">There is only one role in Partner Center for co-sell deal management which is the referral admin role.</span></span>
 - <span data-ttu-id="8349b-244">Всем руководителям и продавцов в PSC должна быть назначена роль администратора ссылок.</span><span class="sxs-lookup"><span data-stu-id="8349b-244">All the deal managers and the sellers in PSC should be assigned referral admin role.</span></span>
 
- :::image type="content" source="images/pscmigration/roles.png" alt-text="Изображение, показывающее сопоставления полей между представлением назначения ролей "партнер Sales Connect" (PSC) и представлением назначения ролей центра партнеров.":::
+ :::image type="content" source="images/pscmigration/roles.png" alt-text="Изображение, показывающее сопоставления полей между представлением назначения ролей партнер Sales Connect (PSC) и представлением назначения ролей центра партнеров.":::
 
 ### <a name="notifications-in-psc-and-partner-center"></a><span data-ttu-id="8349b-246">Уведомления в PSC и центре партнеров</span><span class="sxs-lookup"><span data-stu-id="8349b-246">Notifications in PSC and Partner Center</span></span>
 
