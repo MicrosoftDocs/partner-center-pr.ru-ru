@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fd58f9e84ce8e1e3dd8d1da39f24614db1da99b5
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 4bf873bbd5e12372d73d2ed1b4c3307c71fda359
+ms.sourcegitcommit: a2bfdc2ca5fe11afa5e2fb71e1b0fd61180f2d70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89041055"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "89056191"
 ---
 # <a name="referrals-guide-for-managing-your-deals-in-partner-center-instead-of-partner-sales-connect-psc"></a>Справочные сведения по управлению вашими сделками в центре партнеров вместо партнеров по партнерским подключениям (PSC)
 
@@ -42,7 +42,7 @@ ms.locfileid: "89041055"
 - Для входа в [Центр партнеров](https://partner.microsoft.com/)требуется рабочий адрес электронной почты.
 - Настройте учетную запись с помощью [администратора учетной записи](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant)центра партнеров.
 - Узнайте, как совместно продавать в центре партнеров, прочитав этот документ.
-- Настройте учетные записи контроллера PSC и продавцов в центре партнеров и назначьте им роль [администратора ссылок](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) .
+- Настройте контроллеры PSC и учетные записи продавцов в центре партнеров и назначьте им роль [администратора ссылок](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) .
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>Если вы являетесь менеджером по работе с PSC или продавцом
 
@@ -114,10 +114,10 @@ ms.locfileid: "89041055"
 ### <a name="psc-grid-view-and-the-partner-center-deal-view"></a>Представление сетки PSC и представление "сделка центра партнеров"
 
 - В центре партнеров нет представления списка, подобного контроллеру PSC.  Все сделки перечислены на основе последней полученной или созданной даты с информацией о клиенте и типом сделки. Первая проблема в представлении выбирается по умолчанию. Большая часть значений, отображаемых в формате таблицы PSC, доступна в подробном представлении на ПК.
-- Роль сделки не является обязательным полем на ПК. Они не отображаются и не фиксируются ни в одном из рабочих процессов. Он наследуется автоматически на стороне продавца корпорации Майкрософт на основе решений, добавленных в эту сделку.
+- Роль сделки не является обязательным полем на ПК. Он не отображается и не сохраняется ни в одном из рабочих процессов. Он наследуется автоматически на стороне продавца корпорации Майкрософт на основе решений, добавленных в эту сделку.
 - Дата последнего изменения не отображается на странице сведений о ссылках на компьютере. Партнеры могут использовать функции сортировки для сортировки сделок на основе даты последнего обновления.
 
- :::image type="content" source="images/pscmigration/gridview.png" alt-text="Изображение, показывающее сопоставления полей между представлением сетки партнер Sales Connect (PSC) и Центр партнеров.":::
+ :::image type="content" source="images/pscmigration/gridview.png" alt-text="Изображение, показывающее сопоставления полей между представлением сетки "партнер Sales Connect" (PSC) и "Центр партнеров".":::
 
 ### <a name="deal-details-view-in-psc-and-partner-center"></a>Просмотр сведений о сделках в PSC и центре партнеров
 
@@ -134,7 +134,7 @@ ms.locfileid: "89041055"
 
 ### <a name="psc-add-products-view-and-the-partner-center-add-solutions-view"></a>PSC добавления продуктов и представление "Добавление решений" в центре партнеров
 
- :::image type="content" source="images/pscmigration/products.png" alt-text="Изображение, показывающее сопоставления полей между представлением Добавление продуктов (PSC) и Центр партнеров в представлении Добавление решений.":::
+ :::image type="content" source="images/pscmigration/products.png" alt-text="Изображение, показывающее сопоставления полей между представлением "Добавление продуктов (PSC)" и "Центр партнеров" в представлении "Добавление решений".":::
 
 ### <a name="user-management-in-psc-and-partner-center"></a>Управление пользователями в PSC и центре партнеров
 
@@ -146,7 +146,7 @@ ms.locfileid: "89041055"
 - В центре партнеров есть только одна роль для управления сделками совместной продажи, которая является ролью администратора ссылок.
 - Всем руководителям и продавцов в PSC должна быть назначена роль администратора ссылок.
 
- :::image type="content" source="images/pscmigration/roles.png" alt-text="Изображение, показывающее сопоставления полей между представлением назначения ролей партнер Sales Connect (PSC) и представлением назначения ролей центра партнеров.":::
+ :::image type="content" source="images/pscmigration/roles.png" alt-text="Изображение, показывающее сопоставления полей между представлением назначения ролей "партнер Sales Connect" (PSC) и представлением назначения ролей центра партнеров.":::
 
 ### <a name="notifications-in-psc-and-partner-center"></a>Уведомления в PSC и центре партнеров
 
@@ -156,7 +156,7 @@ ms.locfileid: "89041055"
 
 ### <a name="q-what-should-i-do-if-i-dont-have-access-to-partner-center"></a>У. Что делать, если у меня нет доступа к центру партнеров?
 
-Чтобы получить назначенные роли, можно обратиться к администратору, указанному на странице "нет доступа". В разделе "ссылки" вам потребуется "[Администратор ссылок]" (( https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) "роль для разрешения на чтение и запись". Если вы управляете только бизнес-профилями, вам потребуется роль "Администратор бизнес-профиля" в центре партнеров.
+Чтобы получить назначенные роли, можно обратиться к администратору, указанному на странице "нет доступа". В разделе "ссылки" вам потребуется роль "[Администратор ссылок](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)" для разрешения на чтение и запись. Если вы управляете только бизнес-профилями, вам потребуется роль "Администратор бизнес-профиля" в центре партнеров.
 
 ### <a name="q-who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>У. Кто может предоставить мне доступ к разделу "ссылки" в центре партнеров?
 
