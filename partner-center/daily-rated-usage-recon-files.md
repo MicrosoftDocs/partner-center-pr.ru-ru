@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ec1b58206b4947ceadd98942e8c8b982749b8645
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 7377af06898afe72df7730f2a809ca85a0e9bdc9
+ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943461"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89274983"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Узнайте, как считать файлы сверки с оценкой использования в центре партнеров
 
@@ -60,11 +60,11 @@ ms.locfileid: "86943461"
 | UsageDate | Дата использования службы. |
 | MeterType | Тип счетчика. |
 | MeterCategory | Служба верхнего уровня, которая использовалась. |
-| MeterId | Идентификатор используемого счетчика. |
+| Значение MeterId | Идентификатор используемого счетчика. |
 | MeterSubCategory | Тип службы Azure, которая может повлиять на скорость. |
 | MeterName | Единица измерения для потребляемого измерения. |
 | MeterRegion | В этом столбце указывается расположение центра обработки данных в регионе для служб, где Метеррегион применимо и заполняется. |
-| Единица измерения | Единица **имени**ресурса. |
+| Единицы | Единица **имени**ресурса. |
 | ResourceLocation | Центр обработки данных, в котором работает счетчик. |
 | ConsumedService | Используемая служба платформы Azure. |
 | ResourceGroup | Представляет контейнер, содержащий связанные ресурсы для решения Azure. |
@@ -75,7 +75,7 @@ ms.locfileid: "86943461"
 | Единицах UnitType | Тип единицы измерения, за которую наследуется данный счетчик.  |
 | биллингпретакстотал | Общая сумма выставления счетов перед налогами. |
 | BillingCurrency | Валюта в географическом регионе клиента. |
-| приЦингпретакстотал | Цены перед добавлением налогов. |
+| приЦингпретакстотал | Цены перед добавлением налогов. <br/> _**ПриЦингпретакстотал** = floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
 | PricingCurrency | Валюта в прайс-листе. |
 | ServiceInfo1 | Количество подключений служебной шины, которые были подготовлены и использованы в определенный день. |
 | ServiceInfo2 | Устаревшее поле, которое фиксирует необязательные метаданные, относящиеся к службе. |
