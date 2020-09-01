@@ -9,28 +9,27 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a516d569791356c4ba967b8835268562d1597a16
-ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
+ms.openlocfilehash: c1d850663224469f24d5d4442e33cc17c1bb6704
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88848951"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220242"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Устранение проблем с настройкой учетной записи или обновлением MPN
 
-### <a name="applies-to"></a>Применяется к
+**Относится к**
 
 - Центр партнеров
  
-### <a name="appropriate-roles"></a>Соответствующие роли
+**Соответствующие роли**
 
 - Глобальный администратор
 - Администратор партнера MPN 
  
-
 Ниже приведены некоторые рекомендации по устранению распространенных проблем, возникающих при настройке учетной записи центра партнеров.
 
-### <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Что произойдет, если вы выполняете миграцию из центра членства в партнерах и не можете изменять поля сведений о компании
+## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Что произойдет, если вы выполняете миграцию из центра членства в партнерах и не можете изменять поля сведений о компании
 
 Это происходит в тех случаях, когда у компании уже есть присутствие в центре партнеров (например, учетная запись CSP). Вы увидите экран, предназначенный только для чтения, в котором отображаются все сведения о компании в том виде, в котором она существует в центре партнеров.
 
@@ -38,7 +37,7 @@ ms.locfileid: "88848951"
 
 Выберите **принять** и **продолжить** , чтобы продолжить.
 
-### <a name="you-are-trying-to-enroll-or-to-migrate-from-partner-membership-center-and-you-receive-an-error-message-saying-that-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Вы пытаетесь зарегистрироваться или выполнить миграцию из центра членства в партнере, и вы получаете сообщение об ошибке, сообщающее, что ИТ-отдел отключил **регистрацию в центре партнеров**. 
+## <a name="you-are-trying-to-enroll-or-to-migrate-from-partner-membership-center-and-you-receive-an-error-message-saying-that-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Вы пытаетесь зарегистрироваться или выполнить миграцию из центра членства в партнере, и вы получаете сообщение об ошибке, сообщающее, что ИТ-отдел отключил **регистрацию в центре партнеров**.
 
 Это сообщение появляется, потому что вирусные пользователи отключены или вирусная регистрация отключена в клиенте Azure AD. Глобальный администратор учетной записи Azure AD может включить необходимые компоненты, выполнив следующую команду PowerShell:
 
@@ -46,19 +45,19 @@ ms.locfileid: "88848951"
 
 Дополнительные сведения см. в статье [самостоятельная регистрация](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-self-service-signup) .
 
-### <a name="you-forgot-your-password"></a>Вы забыли пароль
+## <a name="you-forgot-your-password"></a>Вы забыли пароль
 
 Если вы забыли пароль, выберите ссылку **не удается получить доступ к своей учетной записи?** на странице входа, чтобы сбросить пароль, или попросите глобального администратора назначить вам новые учетные данные.
 
-### <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>На экране "Расскажите нам о своей компании" появляется ошибка "что пошло не так"
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>На экране "Расскажите нам о своей компании" появляется ошибка "что пошло не так"
 
 Обычно это происходит при случайном использовании специальных символов, пробелов или кода страны в номере телефона вашей компании. Значение, указанное в поле номер телефона, может содержать не более 10 символов.
 
-### <a name="you-are-trying-to-complete-the-purchase-via-credit-card-but-you-are-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Вы пытаетесь выполнить покупку с помощью кредитной карты, но вы получаете сообщение об ошибке "ваш заказ отклонен. Проверьте данные ".
+## <a name="you-are-trying-to-complete-the-purchase-via-credit-card-but-you-are-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Вы пытаетесь выполнить покупку с помощью кредитной карты, но вы получаете сообщение об ошибке "ваш заказ отклонен. Проверьте данные ".
 
 Всегда следует вставлять адрес, соответствующий вашей кредитной карте, а не соответствующим юридическим субъектам. Кроме того, убедитесь, что почтовый индекс указан правильно и соответствует адресу, который вы используете.
 
-### <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>Вы хотите переключиться с автономного платежа на интерактивный метод оплаты 
+## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>Вы хотите переключиться с автономного платежа на интерактивный метод оплаты 
 
 Вам потребуется отменить исходный заказ и выполнить повторное приобретение с использованием предпочтительного метода оплаты.
 

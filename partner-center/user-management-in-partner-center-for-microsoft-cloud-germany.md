@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9118745b19d48d572378df0b32035c9de4d62c99
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 044aae1dd1482f41799acd06c791447a773b4226
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949534"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220093"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud в Германии
 
@@ -44,7 +44,7 @@ ms.locfileid: "85949534"
 После успешного входа на портал Azure для Microsoft Cloud в Германии откройте страницу обзора Azure Active Directory (Azure AD), а затем следуйте инструкциям, представленным в следующих разделах:
 
 > [!NOTE]  
-> Перейдя по приведенным ниже ссылкам, вы перейдете на другой веб-сайт. 
+> Перейдя по приведенным ниже ссылкам, вы перейдете на другой веб-сайт.
 
 -  [Добавление новых пользователей в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
@@ -52,10 +52,7 @@ ms.locfileid: "85949534"
 
 -  [Сброс пароля пользователя в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**См. также**
+## <a name="next-steps"></a>Дальнейшие действия
 
 -  [Microsoft Azure для Германии](https://azure.microsoft.com/global-infrastructure/germany/)
-
 -  [Центр партнеров Microsoft Cloud для Германии](partner-center-for-microsoft-cloud-germany.md)
-
-

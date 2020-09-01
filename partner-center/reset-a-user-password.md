@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c05e8e4e7fe7e8a7677669e0dcbb7ee3cab08be9
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 7be44a0f67258989e4a55d6d34a93019712b341b
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811294"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220232"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>Сброс пароля пользователя в центре партнеров
 
@@ -31,7 +31,7 @@ ms.locfileid: "87811294"
 
 Если пользователь забыл свой пароль, вы можете назначить ему временный пароль. Он сможет использовать его при следующем входе в Центр партнеров.
 
-**Сброс пароля пользователя в качестве администратора**
+## <a name="reset-a-user-password-as-an-admin"></a>Сброс пароля пользователя в качестве администратора
 
 1. Перейдите в раздел **Параметры** &gt; **Управление пользователями**.
 

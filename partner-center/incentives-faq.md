@@ -1,25 +1,31 @@
 ---
 title: Вопросы и ответы по поощрениям
 ms.topic: how-to
-ms.date: 08/14/2020
+ms.date: 08/31/2020
 description: Часто задаваемые вопросы о поощрениях Майкрософт
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: d5807dabe5ad41f976bbe099aaaa8d459b77f154
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 2fb8ec1bd957f185853db3f220ac1eb17a697927
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88427018"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220592"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Часто задаваемые вопросы о поощрениях
 
-Область применения:
+**Относится к**
 
 - Центр партнеров
+
+**Соответствующие роли:**
+
+- Администратор программы поощрения
+
+- Пользователь программы поощрения
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Нужно ли быть глобальным администратором для регистрации в поощрениях?
 
@@ -42,3 +48,7 @@ ms.locfileid: "88427018"
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Кому следует связаться, если в процессе регистрации появляется сообщение об ошибке или требуется помощь?
 
 Существует интерактивная служба поддержки, если вы столкнулись с любой проблемой в разделе "поощрения" панели мониторинга — см. вариант поддержки (? (Значок) в правом верхнем углу.
+
+## <a name="next-steps"></a>Дальнейшие действия
+
+- [Начало работы с поощрениями](incentives-get-started-intro.md)

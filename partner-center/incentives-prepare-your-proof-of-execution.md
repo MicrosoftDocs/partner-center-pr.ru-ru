@@ -7,25 +7,25 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: b84d66c9eb623d043e1110cbd9223d6745f571b3
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 76bf9cf147c27a562962dcff3baa0ff34cf959b2
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303300"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220782"
 ---
 # <a name="prepare-your-proof-of-execution"></a>Подготовка подтверждения выполнения
 
-Область применения:
+**Относится к**
 
 - Центр партнеров
 
-Прежде чем приступить к оплате за работу с поощрениями, необходимо отправить подробное подтверждение выполнения (ПОЕ). В этой статье описывается процесс создания эффективного подтверждения выполнения.
-
-Соответствующие роли:
+**Соответствующие роли:**
 
 - Администратор программы поощрения
+
+Прежде чем приступить к оплате за работу с поощрениями, необходимо отправить подробное подтверждение выполнения (ПОЕ). В этой статье описывается процесс создания эффективного подтверждения выполнения.
 
 ## <a name="how-to-submit-a-poe"></a>Как отправить ПОЕ
 
@@ -80,3 +80,7 @@ ms.locfileid: "88303300"
    - Редактирование
    - Approved
    - Отклонено
+
+## <a name="next-steps"></a>Дальнейшие действия
+
+- [Начало работы с поощрениями](incentives-get-started-intro.md)
