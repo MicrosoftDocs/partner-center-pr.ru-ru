@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7377af06898afe72df7730f2a809ca85a0e9bdc9
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: bff2c66e7efd05631de7d7643a780cbe5f726103
+ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 09/01/2020
-ms.locfileid: "89274983"
+ms.locfileid: "89281316"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Узнайте, как считать файлы сверки с оценкой использования в центре партнеров
 
@@ -73,9 +73,9 @@ ms.locfileid: "89274983"
 | UnitPrice | Цена за лицензию, опубликованная в прейскуранте на момент приобретения. Убедитесь, что эта цена соответствует информации, хранящейся в системе выставления счетов во время сверки. |
 | Количество | Число лицензий. Убедитесь, что эта цена соответствует информации, хранящейся в системе выставления счетов во время сверки. |
 | Единицах UnitType | Тип единицы измерения, за которую наследуется данный счетчик.  |
-| биллингпретакстотал | Общая сумма выставления счетов перед налогами. |
+| биллингпретакстотал | Общая сумма выставления счетов перед налогами.<br/> _**Биллингпретакстотал** = floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
 | BillingCurrency | Валюта в географическом регионе клиента. |
-| приЦингпретакстотал | Цены перед добавлением налогов. <br/> _**ПриЦингпретакстотал** = floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
+| приЦингпретакстотал | Цены перед добавлением налогов. |
 | PricingCurrency | Валюта в прайс-листе. |
 | ServiceInfo1 | Количество подключений служебной шины, которые были подготовлены и использованы в определенный день. |
 | ServiceInfo2 | Устаревшее поле, которое фиксирует необязательные метаданные, относящиеся к службе. |
