@@ -34,7 +34,7 @@ ms.locfileid: "89220502"
 
 <span data-ttu-id="2fed5-115">В разделе "Сводка" представлено представление моментального снимка различных ключевых показателей эффективности, связанных с клиентами, например клиентами, активными клиентами, подписками, добавленными клиентами, клиентами и клиентами по каждому продукту.</span><span class="sxs-lookup"><span data-stu-id="2fed5-115">The summary section presents a snapshot view of various KPIs related to your customers such as customers, active customers, subscriptions, customers added, customers churned, and customers by each product.</span></span> <span data-ttu-id="2fed5-116">Фильтры уровня страницы применимы к каждому разделу.</span><span class="sxs-lookup"><span data-stu-id="2fed5-116">Page level filters are applicable for each section.</span></span>
 
-:::image type="content" source="images/pci/customerproduct.png" alt-text="Снимок экрана панели мониторинга "Сводка клиентов" показывает линейчатые диаграммы и количество активных клиентов, недавно добавленных, потерянных, обработанных или конкретных продуктов.":::
+:::image type="content" source="images/pci/customerproduct.png" alt-text="Снимок экрана панели мониторинга Сводка клиентов показывает линейчатые диаграммы и количество активных клиентов, недавно добавленных, потерянных, обработанных или конкретных продуктов.":::
 
 ### <a name="customers"></a><span data-ttu-id="2fed5-118">Клиенты</span><span class="sxs-lookup"><span data-stu-id="2fed5-118">Customers</span></span>
 
@@ -83,7 +83,7 @@ ms.locfileid: "89220502"
 
 <span data-ttu-id="2fed5-158">Разбивка текущих клиентов на продукты и номера SKU/планы.</span><span class="sxs-lookup"><span data-stu-id="2fed5-158">Breakdown of your current customers count by products and SKUs/plans.</span></span> <span data-ttu-id="2fed5-159">Выберите продукт на круговой диаграмме Product разбиение, чтобы просмотреть разбиение по номерам SKU/планы на диаграмме рядом с ней.</span><span class="sxs-lookup"><span data-stu-id="2fed5-159">Select a product in the product breakup pie chart to view the breakup by SKUs/plans in the chart next to it.</span></span>
 
-:::image type="content" source="images/pci/customerbyprod.png" alt-text="Снимок экрана отчета "клиенты по продуктам" содержит две радиальные диаграммы — один с разбивкой клиентов по продуктам, а другой — с разбивкой по SKU клиента.":::
+:::image type="content" source="images/pci/customerbyprod.png" alt-text="Снимок экрана отчета клиенты по продуктам содержит две радиальные диаграммы — один с разбивкой клиентов по продуктам, а другой — с разбивкой по SKU клиента.":::
 
 ## <a name="customer-distribution-trend"></a><span data-ttu-id="2fed5-161">Тренд распределения клиентов</span><span class="sxs-lookup"><span data-stu-id="2fed5-161">Customer distribution trend</span></span> 
 
