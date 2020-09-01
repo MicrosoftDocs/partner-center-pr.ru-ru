@@ -1,64 +1,94 @@
 ---
 title: Узнайте о своих преимуществах
 ms.topic: how-to
-ms.date: 08/18/2020
+ms.date: 08/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Узнайте, как узнать о своих преимуществах на панели мониторинга центра партнеров.
+description: Узнайте, как найти преимущества MPN на панели мониторинга центра партнеров.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bcb48e8e2b587c0cc40f5d059b95a56568d56a3f
-ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
+ms.openlocfilehash: a953eb47623bce8c0133266e26715f54557444fc
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88848954"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220770"
 ---
-# <a name="locate-your-microsoft-partner-network-benefits"></a><span data-ttu-id="6a825-103">Определение преимуществ Microsoft Partner Network</span><span class="sxs-lookup"><span data-stu-id="6a825-103">Locate your Microsoft Partner Network benefits</span></span> 
+# <a name="locate-your-microsoft-partner-network-benefits"></a><span data-ttu-id="3de96-103">Определение преимуществ Microsoft Partner Network</span><span class="sxs-lookup"><span data-stu-id="3de96-103">Locate your Microsoft Partner Network benefits</span></span> 
 
-### <a name="applies-to"></a><span data-ttu-id="6a825-104">Применяется к</span><span class="sxs-lookup"><span data-stu-id="6a825-104">Applies to</span></span>
+<span data-ttu-id="3de96-104">Эта статья посвящена участникам Microsoft Partner Network (MPN) о том, как найти их преимущества MPN на панели мониторинга центра партнеров.</span><span class="sxs-lookup"><span data-stu-id="3de96-104">This article tells members of the Microsoft Partner Network (MPN) how to find their MPN benefits in the Partner Center dashboard.</span></span> <span data-ttu-id="3de96-105">Эта информация содержит сведения о том, как найти идентификаторы поддержки продуктов, такие как идентификатор контракта и идентификатор доступа, связанные с техническими преимуществами.</span><span class="sxs-lookup"><span data-stu-id="3de96-105">This information includes how to find your company's specific product support IDs, such as Contract ID and Access ID, associated with technical benefits.</span></span>
 
-- <span data-ttu-id="6a825-105">Центр партнеров</span><span class="sxs-lookup"><span data-stu-id="6a825-105">Partner Center</span></span>
+>[!NOTE]
+> <span data-ttu-id="3de96-106">Если членство в Microsoft Partner Network по-прежнему находится в центре участия в партнерских организациях (PMC), может потребоваться обратиться к другому ресурсу, например к партнерской оказался, чтобы помочь вам просмотреть или активировать определенные преимущества.</span><span class="sxs-lookup"><span data-stu-id="3de96-106">If your Microsoft Partner Network membership is still in Partner Membership Center (PMC), you may need to contact another resource like Partner Frontline to help you view or activate certain benefits.</span></span> <span data-ttu-id="3de96-107">Дополнительные сведения см. в статье [Активация технических преимуществ за пределами центра партнеров](partner-membership-center-tech-benefits-activate.md).</span><span class="sxs-lookup"><span data-stu-id="3de96-107">For details, see [Activate technical benefits outside of Partner Center](partner-membership-center-tech-benefits-activate.md).</span></span>
 
-### <a name="appropriate-roles"></a><span data-ttu-id="6a825-106">Соответствующие роли</span><span class="sxs-lookup"><span data-stu-id="6a825-106">Appropriate roles</span></span>
+### <a name="applies-to"></a><span data-ttu-id="3de96-108">Применяется к</span><span class="sxs-lookup"><span data-stu-id="3de96-108">Applies to</span></span>
 
-- <span data-ttu-id="6a825-107">Администратор партнера MPN</span><span class="sxs-lookup"><span data-stu-id="6a825-107">MPN partner admin</span></span>
-- <span data-ttu-id="6a825-108">Глобальный администратор</span><span class="sxs-lookup"><span data-stu-id="6a825-108">Global admin</span></span>
+- <span data-ttu-id="3de96-109">Центр партнеров</span><span class="sxs-lookup"><span data-stu-id="3de96-109">Partner Center</span></span>
 
-<span data-ttu-id="6a825-109">В качестве члена Microsoft Partner Network (MPN) ваша компания имеет доступ ко многим преимуществам, которые могут способствовать росту вашего бизнеса.</span><span class="sxs-lookup"><span data-stu-id="6a825-109">As a Microsoft Partner Network (MPN) member, your company has access to many benefits that may assist in growing your business.</span></span> <span data-ttu-id="6a825-110">Чтобы найти следующие преимущества:</span><span class="sxs-lookup"><span data-stu-id="6a825-110">To find ot what those benefits are:</span></span>
+### <a name="appropriate-roles"></a><span data-ttu-id="3de96-110">Соответствующие роли</span><span class="sxs-lookup"><span data-stu-id="3de96-110">Appropriate roles</span></span>
 
-1. <span data-ttu-id="6a825-111">Войдите в центр партнеров [панель мониторинга] (( https://partner.microsoft.com/dashboard/home) , выберите **MPN**, а затем щелкните " **преимущества**".</span><span class="sxs-lookup"><span data-stu-id="6a825-111">Sign into the Partner Center [dashboard]((https://partner.microsoft.com/dashboard/home), select **MPN**, and then select **Benefits**.</span></span>
+- <span data-ttu-id="3de96-111">Администратор партнера MPN</span><span class="sxs-lookup"><span data-stu-id="3de96-111">MPN partner admin</span></span>
+- <span data-ttu-id="3de96-112">Глобальный администратор</span><span class="sxs-lookup"><span data-stu-id="3de96-112">Global admin</span></span>
 
-2. <span data-ttu-id="6a825-112">С помощью преимуществ можно просмотреть, активировать сортировку или скачать преимущества, которые относятся к одной из доступных категорий, выбрав интересующие вас категории.</span><span class="sxs-lookup"><span data-stu-id="6a825-112">From Benefits, you can review, activate sort, or download the benefits of interest belonging to one of the categories available to you, by selecting what you're interested in:</span></span>
+<span data-ttu-id="3de96-113">В качестве члена Microsoft Partner Network (MPN) ваша компания имеет доступ ко многим преимуществам, которые могут способствовать росту вашего бизнеса.</span><span class="sxs-lookup"><span data-stu-id="3de96-113">As a Microsoft Partner Network (MPN) member, your company has access to many benefits that may assist in growing your business.</span></span> <span data-ttu-id="3de96-114">Чтобы узнать, что такое преимущества:</span><span class="sxs-lookup"><span data-stu-id="3de96-114">To find out what those benefits are:</span></span>
 
-- <span data-ttu-id="6a825-113">Azure & облачные продукты</span><span class="sxs-lookup"><span data-stu-id="6a825-113">Azure & Cloud products</span></span>
-- <span data-ttu-id="6a825-114">Программные продукты</span><span class="sxs-lookup"><span data-stu-id="6a825-114">Software products</span></span>
-- <span data-ttu-id="6a825-115">Подписки на Visual Studio</span><span class="sxs-lookup"><span data-stu-id="6a825-115">Visual Studio subscriptions</span></span>
-- <span data-ttu-id="6a825-116">Технические преимущества</span><span class="sxs-lookup"><span data-stu-id="6a825-116">Technical benefits</span></span>
-- <span data-ttu-id="6a825-117">Переход на рынке</span><span class="sxs-lookup"><span data-stu-id="6a825-117">Go-to-market</span></span> 
+1. <span data-ttu-id="3de96-115">Войдите на [панель мониторинга](https://partner.microsoft.com/dashboard/home)центра партнеров, выберите **MPN**, а затем выберите **преимущества**.</span><span class="sxs-lookup"><span data-stu-id="3de96-115">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard/home), select **MPN**, and then select **Benefits**.</span></span>
 
-3. <span data-ttu-id="6a825-118">Развернув (+) преимущество, вы получите дополнительные сведения об активации преимущества.</span><span class="sxs-lookup"><span data-stu-id="6a825-118">By expanding ( + ) a benefit, you will find additional info for the activation of the benefit of choice.</span></span>
+2. <span data-ttu-id="3de96-116">С помощью преимуществ можно просматривать, активировать, сортировать или скачивать преимущества, относящиеся к одной из доступных категорий.</span><span class="sxs-lookup"><span data-stu-id="3de96-116">From Benefits, you can review, activate, sort, or download the benefits of interest belonging to one of the categories available to you.</span></span> <span data-ttu-id="3de96-117">Для этого выберите область преимуществ, для которой необходимо получить дополнительные сведения:</span><span class="sxs-lookup"><span data-stu-id="3de96-117">To do so, select the benefit area you want to learn more about:</span></span>
 
-:::image type="content" source="images/benefits/expandbenefits.png" alt-text="Расширенные преимущества":::
+   - <span data-ttu-id="3de96-118">Azure & облачные продукты</span><span class="sxs-lookup"><span data-stu-id="3de96-118">Azure & Cloud products</span></span>
+   - <span data-ttu-id="3de96-119">Программные продукты</span><span class="sxs-lookup"><span data-stu-id="3de96-119">Software products</span></span>
+   - <span data-ttu-id="3de96-120">Подписки на Visual Studio</span><span class="sxs-lookup"><span data-stu-id="3de96-120">Visual Studio subscriptions</span></span>
+   - <span data-ttu-id="3de96-121">Технические преимущества</span><span class="sxs-lookup"><span data-stu-id="3de96-121">Technical benefits</span></span>
+   - <span data-ttu-id="3de96-122">Переход на рынке</span><span class="sxs-lookup"><span data-stu-id="3de96-122">Go-to-market</span></span>
+   - <span data-ttu-id="3de96-123">Вознаграждения Marketplace</span><span class="sxs-lookup"><span data-stu-id="3de96-123">Marketplace rewards</span></span>
+   - <span data-ttu-id="3de96-124">Построитель эмблем</span><span class="sxs-lookup"><span data-stu-id="3de96-124">Logo builder</span></span>
 
-## <a name="specific-benefit-offers"></a><span data-ttu-id="6a825-120">Предложения по конкретным преимуществам</span><span class="sxs-lookup"><span data-stu-id="6a825-120">Specific benefit offers</span></span>
+3. <span data-ttu-id="3de96-125">Развернув (+) преимущество, вы получите дополнительные сведения, которые помогут вам активировать конкретное преимущество.</span><span class="sxs-lookup"><span data-stu-id="3de96-125">By expanding ( + ) a benefit, you will find additional information to help you activate the specific benefit.</span></span>
 
-<span data-ttu-id="6a825-121">Чтобы узнать, какие конкретные преимущества предлагаются в различных предложениях членства, см. следующие документы:</span><span class="sxs-lookup"><span data-stu-id="6a825-121">To find out what specific benefits are offered with different membership offers, refer to following documents:</span></span>
+   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Расширенные преимущества":::
 
-[<span data-ttu-id="6a825-122">Таблица лицензий с преимуществами карт</span><span class="sxs-lookup"><span data-stu-id="6a825-122">License table for MAPS benefits</span></span>](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
+   > [!NOTE]
+   > <span data-ttu-id="3de96-127">Чтобы активировать преимущества, необходимо назначить роль глобального администратора или администратора партнера MPN в центре партнеров.</span><span class="sxs-lookup"><span data-stu-id="3de96-127">To activate benefits, you must be assigned the role of Global admin or MPN partner admin in Partner Center.</span></span> <span data-ttu-id="3de96-128">Однако все остальные пользователи в компании должны иметь возможность просматривать сведения о преимуществах в центре партнеров, например коды поддержки продуктов.</span><span class="sxs-lookup"><span data-stu-id="3de96-128">All other users at a company, however, should be able to view benefits details in Partner Center, such as product support IDs.</span></span> <span data-ttu-id="3de96-129">Дополнительные сведения о ролях центра партнеров см. [в статье назначение ролей и разрешений пользователей в центре партнеров](permissions-overview.md).</span><span class="sxs-lookup"><span data-stu-id="3de96-129">For more information on Partner Center roles, see [Assign user roles and permissions in Partner Center](permissions-overview.md).</span></span>
 
-[<span data-ttu-id="6a825-123">Таблица лицензий с преимуществами компетенций</span><span class="sxs-lookup"><span data-stu-id="6a825-123">License table for Competencies benefits</span></span>](https://assetsprod.microsoft.com/mpn/mpn-maps-software-iur-competency-license-table.docx)
+## <a name="find-access-id-and-contract-id-for-technical-benefits"></a><span data-ttu-id="3de96-130">Найдите идентификатор доступа и идентификатор контракта для технических преимуществ</span><span class="sxs-lookup"><span data-stu-id="3de96-130">Find Access ID and Contract ID for technical benefits</span></span>
 
-<span data-ttu-id="6a825-124">Чтобы узнать, как можно использовать эти преимущества, ознакомьтесь с руководством по [использованию продукта](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf).</span><span class="sxs-lookup"><span data-stu-id="6a825-124">To find out how you can use these benefits,  refer to the [Product Usage Guide](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf).</span></span>
+<span data-ttu-id="3de96-131">После выполнения описанных выше действий и активации определенных преимуществ (например, технических преимуществ) другие важные сведения могут появиться на странице технические преимущества.</span><span class="sxs-lookup"><span data-stu-id="3de96-131">After you follow the above steps and activate certain benefits (like technical benefits), other important details may appear on the Technical benefits page.</span></span>
 
-<span data-ttu-id="6a825-125">Чтобы узнать, какие преимущества предлагаются с помощью карт, серебряных и/или Gold-компетенций, их можно найти здесь:</span><span class="sxs-lookup"><span data-stu-id="6a825-125">To find out what benefits are offered to you through MAPS, Silver and/ or Gold Competencies, you can find them here:</span></span>
+<span data-ttu-id="3de96-132">Для получения технических преимуществ вы увидите идентификаторы поддержки продуктов Майкрософт, такие как **идентификатор доступа** и **идентификатор контракта** в центре партнеров.</span><span class="sxs-lookup"><span data-stu-id="3de96-132">For technical benefits, you will see Microsoft product support IDs, such as **Access ID** and **Contract ID** in Partner Center.</span></span>
 
-[<span data-ttu-id="6a825-126">Таблица лицензий для партнеров Microsoft Action Pack</span><span class="sxs-lookup"><span data-stu-id="6a825-126">License table for Microsoft Action Pack partners</span></span>](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
+>[!NOTE]
+> <span data-ttu-id="3de96-133">Если членство в Microsoft Partner Network по-прежнему находится в центре управления партнерами (PMC) и еще не перенесено в центр партнеров, необходимо обратиться к партнерской оказался для активации технических преимуществ или получения идентификатора доступа к службе поддержки и идентификатора контракта.</span><span class="sxs-lookup"><span data-stu-id="3de96-133">If your Microsoft Partner Network membership is still in Partner Membership Center (PMC) and has not yet been migrated to Partner Center, you will need to contact Partner Frontline to activate technical benefits or receive your support Access ID and Contract ID.</span></span>
 
-[<span data-ttu-id="6a825-127">Таблица лицензий для партнеров по компетенции</span><span class="sxs-lookup"><span data-stu-id="6a825-127">License table for Competency Partners</span></span>](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
+ <span data-ttu-id="3de96-134">Чтобы просмотреть эти сведения в центре партнеров, выполните следующие действия.</span><span class="sxs-lookup"><span data-stu-id="3de96-134">Follow these steps to view this information in Partner Center:</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="6a825-128">Дальнейшие действия</span><span class="sxs-lookup"><span data-stu-id="6a825-128">Next steps</span></span>
+1. <span data-ttu-id="3de96-135">Войдите на [панель мониторинга](https://partner.microsoft.com/dashboard/home) Центра партнеров.</span><span class="sxs-lookup"><span data-stu-id="3de96-135">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard/home)</span></span>
 
-- [<span data-ttu-id="6a825-129">Связывание учетных записей Microsoft Learn сотрудников</span><span class="sxs-lookup"><span data-stu-id="6a825-129">Associate employee Microsoft Learn accounts</span></span>](ms-learn-associate.md)
+2. <span data-ttu-id="3de96-136">Выберите **MPN**, а затем — **преимущества**, а затем — **технические преимущества**.</span><span class="sxs-lookup"><span data-stu-id="3de96-136">Select **MPN**, then **Benefits**, followed by **Technical benefits**.</span></span>
+
+3. <span data-ttu-id="3de96-137">Выберите преимущество из списка.</span><span class="sxs-lookup"><span data-stu-id="3de96-137">Select a benefit from the list.</span></span> <span data-ttu-id="3de96-138">Разверните преимущество, чтобы просмотреть дополнительные сведения.</span><span class="sxs-lookup"><span data-stu-id="3de96-138">Expand the benefit to view more details.</span></span> 
+
+   <span data-ttu-id="3de96-139">Вы должны увидеть конкретный **идентификатор контракта** на поддержку продукта и **идентификатор доступа** , назначенный этому преимуществам.</span><span class="sxs-lookup"><span data-stu-id="3de96-139">You should see the specific product support **Contract ID** and **Access ID** assigned to this benefit.</span></span>  
+
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Пример технического преимущества поддержки компетенции Gold Core с поддержкой продуктов Майкрософт, таких как идентификатор контракта и идентификатор доступа":::
+
+   > [!NOTE]
+   > <span data-ttu-id="3de96-141">Следите за этими идентификаторами поддержки.</span><span class="sxs-lookup"><span data-stu-id="3de96-141">Keep track of these support IDs.</span></span> <span data-ttu-id="3de96-142">Некоторые системы могут запросить их при первом входе (или одного из пользователей вашей компании) в журнал запроса на поддержку, связанного с определенным техническим преимуществом.</span><span class="sxs-lookup"><span data-stu-id="3de96-142">Certain systems may ask for them the first time you (or one of your company's users) logs a support request associated with a specific technical benefit.</span></span> <span data-ttu-id="3de96-143">Все пользователи вашей компании могут использовать один и тот же идентификатор доступа и идентификатор контракта.</span><span class="sxs-lookup"><span data-stu-id="3de96-143">All of your company's users are likely to use the same Access ID and Contract ID.</span></span>
+
+## <a name="specific-benefit-offers"></a><span data-ttu-id="3de96-144">Предложения по конкретным преимуществам</span><span class="sxs-lookup"><span data-stu-id="3de96-144">Specific benefit offers</span></span>
+
+<span data-ttu-id="3de96-145">Чтобы узнать, какие преимущества доступны для компетенций Microsoft Action Pack, серебряных и/или Gold, см. следующие ресурсы:</span><span class="sxs-lookup"><span data-stu-id="3de96-145">To find out which benefits are available with Microsoft Action Pack, Silver and/or Gold competencies, see the following resources:</span></span>
+
+- [<span data-ttu-id="3de96-146">Таблица лицензий для партнеров Microsoft Action Pack</span><span class="sxs-lookup"><span data-stu-id="3de96-146">License table for Microsoft Action Pack partners</span></span>](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
+
+- [<span data-ttu-id="3de96-147">Таблица лицензий для партнеров по компетенции</span><span class="sxs-lookup"><span data-stu-id="3de96-147">License table for Competency Partners</span></span>](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
+
+<span data-ttu-id="3de96-148">Чтобы узнать, как можно использовать эти преимущества, ознакомьтесь с [руководством по использованию продукта](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf).</span><span class="sxs-lookup"><span data-stu-id="3de96-148">To learn how you can use these benefits,  refer to the [Product Usage Guide](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf).</span></span>
+
+## <a name="next-steps"></a><span data-ttu-id="3de96-149">Дальнейшие действия</span><span class="sxs-lookup"><span data-stu-id="3de96-149">Next steps</span></span>
+
+- [<span data-ttu-id="3de96-150">Связывание учетных записей Microsoft Learn сотрудников</span><span class="sxs-lookup"><span data-stu-id="3de96-150">Associate employee Microsoft Learn accounts</span></span>](ms-learn-associate.md)
+- [<span data-ttu-id="3de96-151">Управление преимуществами и предложениями Microsoft Partner Network</span><span class="sxs-lookup"><span data-stu-id="3de96-151">Manage your Microsoft Partner Network benefits and offers</span></span>](manage-your-partner-network-benefits.md)
+- [<span data-ttu-id="3de96-152">Активация технических преимуществ для участников центра управления участниками партнеров (PMC)</span><span class="sxs-lookup"><span data-stu-id="3de96-152">Activate technical benefits for members of Partner Membership Center (PMC)</span></span>](partner-membership-center-tech-benefits-activate.md)
