@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a958450349056dc24e7e46b2ecbb84c857938a0
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 45a9e4eb4a2e2ddb3419a2c8b1342725964ec39a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390611"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220512"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Партнерские баллы — общие сведения о коммерческом использовании в рамках CSP
 
@@ -73,11 +73,8 @@ ms.locfileid: "86390611"
 >[!Note]
 >У клиентов есть возможность отменить доступ, предоставленный партнерам. Партнеры не должны вынуждать клиентов предоставлять им соответствующий доступ исключительно для получения партнерских баллов от корпорации Майкрософт. Несоблюдение этого требования может лишить партнера возможности получать эти баллы.
 
-**Дополнительные сведения**
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Как вычисляется и выплачивается партнерский кредит](partner-earned-credit-explanation.md)
-
 - [Управление подписками и ресурсами в плане Azure](azure-plan-manage.md)
-
 - [Прейскурант для новой коммерческой модели Azure в CSP](azure-plan-price-list.md)
-

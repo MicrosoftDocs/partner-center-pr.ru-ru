@@ -9,12 +9,12 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14f5a8e4f3ed25162ffc3c9f3dfa7ef0171f690b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 79fd61827f64a060da2b1ecd8f7eeceedb2fcdc5
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436733"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220202"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>Состояние требований к безопасности для партнеров — получение ответов и проверка отчетов о текущем состоянии
 
@@ -129,7 +129,7 @@ ms.locfileid: "86436733"
 
 Может быть полезно определить, какие пользователи входят в Центр партнеров без проверки MFA, и проверить их в соответствии с текущей реализацией MFA. Вы можете использовать [отчет о входе в Azure AD](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins), чтобы узнать, проходил ли пользователь проверку MFA. Отчет о входе в Azure AD сейчас доступен только партнерам, подписавшимся на Azure AD Premium или любой номер SKU Office 365, который включает в себя Azure AD Premium (например, EMS).
 
-**Дополнительные сведения**
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Сообщество группы рекомендаций по безопасности для Центра партнеров](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)
 - [Требования к безопасности для партнеров](partner-security-requirements.md)
