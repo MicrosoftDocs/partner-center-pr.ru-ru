@@ -1,7 +1,7 @@
 ---
 title: Права на участие в службах планирования
 ms.topic: article
-ms.date: 08/20/2020
+ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Узнайте о требованиях к допустимости для каждого участия в службах планирования Software Assurance, которые компания может предложить корпоративным клиентам.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dc1209794a4b12173ff25191a6f37bd0892ed54
-ms.sourcegitcommit: 9292a85c4c142109e46462ee4088bd95efb62456
+ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
+ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "88711826"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89286500"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Просмотр требований к допустимости для служб планирования
 
@@ -31,9 +31,6 @@ ms.locfileid: "88711826"
 ## <a name="learn-more-about-each-engagement"></a>Дополнительные сведения о каждом задействовании
 
 Каждое взаимодействие служб планирования имеет собственные, конкретные требования к допустимости и допустимую максимальную продолжительность.
-
-> [!NOTE]
-> Прежде чем вы сможете предоставить конкретную службу планирования, вы должны соответствовать различным типам требований к компетенции. Сначала необходимо выполнить минимальные требования к компетенции для регистрации в предложениях служб планирования. Затем ваша организация должна также соответствовать требованиям к компетенции, связанным с предоставлением определенного типа задействований.
 
 Дополнительные сведения о требованиях к компетенции для конкретного взаимодействия см. в следующей таблице.
 
