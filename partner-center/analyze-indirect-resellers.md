@@ -1,20 +1,20 @@
 ---
 title: Анализ эффективности косвенных торговых посредников
-ms.date: 05/13/2020
+description: Используйте аналитику, чтобы узнать, как выполняются непрямые торговые посредники, как их успеха, так и области, которые могут потребовать больше внимания.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Используйте аналитику, чтобы узнать, как выполняются непрямые торговые посредники, как их успеха, так и области, которые могут потребовать больше внимания.
 author: shganesh
 ms.author: shganesh
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b43b09f8717169c40f6d0a96db5371c2eeebd11
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 05/13/2020
+ms.openlocfilehash: 24316148fd237aa1fb466083c742ef4ddec36e22
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220702"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367358"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Анализ производительности непрямых торговых посредников с помощью аналитики
 
@@ -82,6 +82,6 @@ ms.locfileid: "89220702"
 
 Щелкните значок скачивания на диаграмме, чтобы скачать данные о состоянии, подписанном Майкрософт, с дополнительными измерениями.
   
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Анализ подписок и лицензий для принятия бизнес-решений](analyze-subscriptions-licenses.md)

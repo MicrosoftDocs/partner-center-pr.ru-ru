@@ -1,20 +1,20 @@
 ---
 title: Продажи представителям определенных отраслей
+description: Узнайте о специальных и сокращенных ценах для определенных групп клиентов, включая учебных заказчиков, некоммерческих клиентов и пользователей государственных организаций.
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Узнайте о специальных и сокращенных ценах для определенных групп клиентов, включая учебных заказчиков, некоммерческих клиентов и пользователей государственных организаций.
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 863084a34a35c887b18a58231ac86b45e3acd03f
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: c25bafc4b152ce0ca205860b3692293aaadf3636
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545535"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367178"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Продажи представителям определенных отраслей, например образовательным, некоммерческим и государственным организациям
 
@@ -77,7 +77,7 @@ ms.locfileid: "87545535"
 | Образование |Коммерческая, образовательная | Некоммерческие и правительственные облака сообщества |
 | Облако сообщества для государственных организаций |Облако сообщества для государственных организаций | Некоммерческая, образовательная или коммерческая |
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Продавать Minecraft: подписки на образовательные издания для образовательных учреждений](minecraft-subscriptions.md)
 

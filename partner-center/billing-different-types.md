@@ -1,20 +1,20 @@
 ---
 title: Способы выставления счетов в Центре партнеров
+description: Сведения о различных типах выставления счетов, расчетных периодах и датах выставления счетов, которые могут отображаться в центре партнеров.
 ms.topic: article
-ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Сведения о различных типах выставления счетов, расчетных периодах и датах выставления счетов, которые могут отображаться в центре партнеров.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87df060346e380a17030e6d1dc83ff5746f55eb0
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.date: 05/13/2020
+ms.openlocfilehash: 40d83a70aa5eb5781b924bbafb8b619efacc5681
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527610"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367048"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>Типы выставления счетов в центре партнеров. включает в себя лицензии, основанные на использовании и одноразовую оплату.
 
@@ -40,6 +40,6 @@ ms.locfileid: "87527610"
 
 Если вы выбрали ежемесячный счет или если вы приобрели продукты на основе использования, которые выставляются ежемесячно, ежемесячная Дата выставления счета — это день месяца, который вы выбрали при создании учетной записи CSP в центре партнеров. После успешного создания учетной записи CSP Корпорация Майкрософт отправит сообщение электронной почты с подтверждением, которое будет включать дату выставления счетов. После создания эта дата не может быть изменена.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Сведения о файле счета и выверке — Узнайте, как их найти в центре партнеров](read-your-bill.md)

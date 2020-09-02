@@ -1,20 +1,20 @@
 ---
 title: Приобретение Microsoft Azure резервирования для клиентов
+description: Узнайте, как купить или приобрести резервирование Azure от имени клиентов в центре партнеров.
 ms.topic: article
-ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Узнайте, как купить или приобрести резервирование Azure от имени клиентов в центре партнеров.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a9da6208ec72c1d6e93fadec3d205a809dbfabe5
-ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
+ms.date: 08/06/2020
+ms.openlocfilehash: 19a358fe023a8c8fd9d30ecb9dd1c37114dca84a
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87900107"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367018"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Приобретение Microsoft Azure резервирований от имени клиентов в центре партнеров
 
@@ -35,7 +35,7 @@ ms.locfileid: "87900107"
 > [!NOTE]
 > Эта статья относится только к партнерам в программе поставщика облачных решений (CSP). Вместо этого клиенты, использующие другие типы подписок (например, оплата по мере использования, индивидуальные соглашения с клиентами Майкрософт или подписки Соглашение Enterprise), должны читать [эту документацию по резервированию Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations).
 
-## <a name="before-you-begin"></a>Подготовка к работе
+## <a name="before-you-begin"></a>Перед началом
 
 Прежде чем приобретать резервирование Azure от имени ваших клиентов, ознакомьтесь с важными сведениями ниже. (Вы хотите, чтобы клиенты могли покупать собственные резервирования Azure из предыдущей подписки Azure, которую вы приобрели для них? См. раздел [предоставление клиентам разрешения на приобретение собственных резервирований Azure](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations).)
 
@@ -139,7 +139,7 @@ ms.locfileid: "87900107"
       >Если вы хотите ограничить область резервирования одной подпиской Azure, может потребоваться увеличить квоту виртуальных ЦП подписки. Чтобы увеличить квоту виртуальных ЦП подписки, необходимо создать запрос на поддержку в портал Azure. Следуйте инструкциям [в этом разделе](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) , чтобы создать запрос. 
 
       >[!NOTE]   
-      >Если клиент находится в плане Azure, для **области** будет задано значение **Общий**. 
+      >Если клиент находится в плане Azure, для **области**  будет задано значение **Общий**. 
 
     - Если вы являетесь партнером-поставщиком, выберите торгового посредника, которого требуется связать с продуктом.
     

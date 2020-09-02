@@ -1,20 +1,20 @@
 ---
 title: Перенос некоторых подписок Skype для бизнеса
+description: Узнайте, как и когда следует переносить определенных клиентов с истекшим сроком подписки Skype для бизнеса Online (план 1) на новые версии Office 365.
 ms.topic: article
-ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Узнайте, как и когда следует переносить определенных клиентов с истекшим сроком подписки Skype для бизнеса Online (план 1) на новые версии Office 365.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f65977c5ff8f512c0b95a165cc667bc6bff05c7
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.date: 06/03/2020
+ms.openlocfilehash: c9ad5b1c0671ff1d27d25c6f92499b72d77e6c22
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436563"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367628"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Перенос подписок Плана 1 для Skype для бизнеса Online в новые версии Office 365
 
@@ -41,10 +41,10 @@ ms.locfileid: "86436563"
 
 |**Компонент**    |**Вариант 1**   |**Вариант 2**   |**Вариант 3**   |
 |:-----------------|:-----------------|:-------------|:------------|
-|Получите все функции, входящие в состав Skype для бизнеса Online (План 1)|Да   |Да   |Да   |
-|Обмен мгновенными сообщениями и присутствие в сети |Да   |Да   |Да   |
-|Аудио и видеосвязь в одноранговой сети по протоколу IP|Да   |Да   |Да   
-|Присоединение к собраниям в качестве пользователя, прошедшего проверку подлинности| Да   |Да   |Да   |
+|Получите все функции, входящие в состав Skype для бизнеса Online (План 1)|да   |да   |да   |
+|Обмен мгновенными сообщениями и присутствие в сети |да   |да   |да   |
+|Аудио и видеосвязь в одноранговой сети по протоколу IP|да   |да   |да   
+|Присоединение к собраниям в качестве пользователя, прошедшего проверку подлинности| да   |да   |да   |
 
 ## <a name="transition-customers-to-new-product-plans"></a>Перевод клиентов на новые планы продуктов
 

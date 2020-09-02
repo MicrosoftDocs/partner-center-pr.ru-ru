@@ -1,20 +1,20 @@
 ---
 title: Анализ подписок и лицензий
-ms.date: 07/08/2020
+description: Узнайте, как использовать метрики на странице "Подписка и анализ лицензий" для выяснения успеха и областей, требующих дополнительных внимания.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Узнайте, как использовать метрики на странице "Подписка и анализ лицензий" для выяснения успеха и областей, требующих дополнительных внимания.
 author: amitravat
 ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 001d047e37bde14ac99de680ef4f59e136282120
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 07/08/2020
+ms.openlocfilehash: 8d16ef9150e83fbdd3c189aaa878ad466f3fe1f4
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220692"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367308"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Проанализируйте подписки и лицензии, чтобы помочь вам в принятии бизнес-решений и новых целей.
 
@@ -76,6 +76,6 @@ ms.locfileid: "89220692"
 **Пробные подписки, срок действия которых истекает в течение 30 дней**  
  - Список действующих пробных версий, срок действия которых заканчивается в течение 30 дней и для которых дата начала платного использования не связана с подпиской  
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Анализ производительности непрямых торговых посредников](analyze-indirect-resellers.md)
