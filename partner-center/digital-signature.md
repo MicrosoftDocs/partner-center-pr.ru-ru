@@ -9,12 +9,12 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2509068cc035dda1dc8494a7989bd375a45c6f26
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 8679146bc628514fb6b4885ee18651c2676fb18b
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545665"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490652"
 ---
 # <a name="view-digitally-signed-invoices"></a>Просмотр счетов с цифровой подписью
 
@@ -34,19 +34,19 @@ ms.locfileid: "87545665"
 
 2. В верхней части счета должна отобразиться **подпись, а все подписи действительны**.
  
- :::image type="content" source="images/digitalsig/digital1.png" alt-text="Допустимая сигнатура":::
+ :::image type="content" source="images/digitalsig/digital1.png" alt-text="Образец счета с действительным заголовком уведомления о подписи, в котором показана Зеленая подпись и фраза со знаком, и все сигнатуры действительны.":::
 
-3. Щелкните подпись. Будет всплывающее сообщение о допустимости сертификата.
+3. Щелкните подпись. Появится сообщение о допустимости сертификата.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="Certificate"::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Подписанный счет с полномочным диалоговым окном состояние проверки подписи и полем сведения, свойства подписи, параметр отмены."::: 
 
 4. Выберите **Свойства подписи** , чтобы просмотреть дополнительные сведения о сроке действия подписи.
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="Свойства сигнатуры"::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="Подробное представление свойств сигнатуры отображает сведения о том, кто, когда документ был подписан, его процесс проверки и сертификат подписавшего."::: 
 
 4. Можно также убедиться в правильности путей сертификации и о том, что сертификат является доверенным.
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="Certificate":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="Диалоговое окно средство просмотра сертификатов содержит несколько вкладок с дополнительными сведениями о сертификате и всей цепочке выдачи.":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Дополнительные сведения о счетах и цифровых подписях
 

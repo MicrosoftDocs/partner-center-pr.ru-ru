@@ -1,22 +1,22 @@
 ---
-title: Ссылки 101 для партнеров, которые переходят от партнеров Sales Connect (PSC) в центр партнеров (ПК)
+title: Миграция из партнерского отдела продаж Connect (PSC)
 ms.topic: article
 ms.date: 08/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Как квалифицированный партнер Майкрософт, вы можете совместно продавать с корпорацией Майкрософт. Узнайте, как определять сделки, приглашать Майкрософт для совместной работы или просматривать отправленные сделки.
+description: Узнайте, как партнеры корпорации Майкрософт могут переходить от партнеров Sales Connect (PSC) к центру партнеров, а также создавать и администрировать сделки, отправляемые Microsoft продавцов.
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f0b577049eb86eece7d9a461cf831e25c22bf2ee
-ms.sourcegitcommit: 77f9b20b5e74e87999ae3d6d7651c93ca5b08128
+ms.openlocfilehash: 936a1ec026ce502037d419874a169d3afdca5472
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 09/04/2020
-ms.locfileid: "89471471"
+ms.locfileid: "89490662"
 ---
-# <a name="guide-to-co-selling-in-partner-centerpc-for-partners-migrating-from-partner-sales-connect-psc"></a>Пошаговое руководством по совместному продажам в центре партнеров (ПК) для партнеров, выполняющих переход от партнеров Sales Connect (PSC)
+# <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Пошаговое руководством по совместному продажам в центре партнеров (ПК) для партнеров, выполняющих переход от партнеров Sales Connect (PSC)
 
 **Относится к**
 

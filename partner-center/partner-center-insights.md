@@ -9,12 +9,12 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 2fc6c66de21a32c2b4cfd47ecd0fe97764109b18
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 2b1a09253b7a9e9c8863f07b729ad116689a4642
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943701"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490632"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Центр партнеров Insights — панель мониторинга, на которой показано, как работает коммерческий партнер Майкрософт
 
@@ -72,7 +72,7 @@ Insights — это единая панель мониторинга отчет�
 
 - Выбранные фильтры будут отображаться в верхней части страницы. 
 
-:::image type="content" source="images/pci/filters.png" alt-text="фильтрующ":::
+:::image type="content" source="images/pci/filters.png" alt-text="Частичный снимок экрана с примененной панелью фильтров с выбранными фильтрами для продуктов, рынков клиентов, принадлежности партнеров и каналов продаж.":::
 
 ### <a name="filters-definitions"></a>Определения фильтров:
 

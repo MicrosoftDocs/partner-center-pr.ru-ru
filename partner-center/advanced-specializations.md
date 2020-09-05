@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0aa6efabbff39d63847451c667d48f723ad33b24
-ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
+ms.openlocfilehash: 4daaaa9cdaa0392b90a67d7fc0a8957d3393d6e3
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88942566"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490622"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Получите расширенную специализацию, чтобы продемонстрировать свои знания и выделять клиентов 
 
@@ -28,7 +28,7 @@ ms.locfileid: "88942566"
 
 Если вы заинтересованы в расширенной специализации, именуемой **модернизации веб-приложений, чтобы Microsoft Azure**, выберите ее в меню центра партнеров. Вы перейдете на страницу необходимых компонентов.
 
-:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Предварительные требования":::
+:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Страница примеров предварительных требований, в которой приведены требования для получения компетенции активной облачной платформы Gold.":::
 
 
 Пока не будут выполнены все необходимые условия, состояние не будет **запущено.** Если предварительные условия выполнены, кнопка **Расписание аудита** становится доступной. Вы должны пройти аудит с аудитором стороннего разработчика для следующих дополнительных специализаций Azure:
@@ -47,7 +47,7 @@ ms.locfileid: "88942566"
 
 Примером расширенной специализации, требующей ссылок на клиентов, являются **собрания и комнаты совещаний для Microsoft Teams**. Помимо компетенции Gold, сертификации и требований к производительности необходимо предоставить три клиентских ссылки, которые демонстрируют возможность развертывания и управления.
 
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Предварительные требования":::
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Пример страницы предварительных требований для расширенных специализаций, требующей ссылок клиентов.":::
 
 Пока не будут выполнены все необходимые условия, состояние не будет **запущено.** Когда все требования будут выполнены, состояние будет **активно**. Активное состояние автоматически включает тег в **бизнес-профиле** , который отображается для всех клиентов, выполняющих поиск [поставщика решений](https://www.microsoft.com/solution-providers/home).
 
