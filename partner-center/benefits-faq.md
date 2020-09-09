@@ -1,7 +1,7 @@
 ---
 title: Часто задаваемые вопросы о преимуществах
 ms.topic: article
-ms.date: 06/17/2020
+ms.date: 09/08/2020
 description: Ответы на вопросы о сроках действия льготы, продлении и активации лицензий для Azure, облака, Visual Studio и технических и вспомогательных преимуществ
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: ea89b3dae9d57957431e6e23c5fd102de3898d8f
-ms.sourcegitcommit: b5dd3427cec176a55f00394f4f33b2b570d4abd5
+ms.openlocfilehash: 4af9e87ce02364f32f1aa41deb66d8935f657f40
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/08/2020
-ms.locfileid: "89551645"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564734"
 ---
 # <a name="benefits-faq"></a>Часто задаваемые вопросы о преимуществах
 
@@ -95,7 +95,8 @@ ms.locfileid: "89551645"
 
 После назначения подписки пользователю необходимо войти в Visual Studio для управления ею.
 
-Примечание. пользователь, назначенный для подписки Visual Studio в центре партнеров, не может быть удален до 90 дней исходного назначения
+>[!Note]
+> Пользователь, назначенный для подписки Visual Studio в центре партнеров, не может быть удален до 90 дней после первоначального назначения.
 
 ## <a name="technical-benefits-and-support"></a>Технические преимущества и поддержка
 
