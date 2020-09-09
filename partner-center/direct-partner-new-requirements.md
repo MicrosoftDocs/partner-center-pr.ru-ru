@@ -1,20 +1,20 @@
 ---
 title: Требования к партнерам CSP с правом на прямое выставление счетов
+description: Узнайте, как соответствовать последним требованиям к поддержке и службам, чтобы стать партнером с правом на прямое выставление счетов в программе поставщика облачных решений (Майкрософт).
 ms.topic: article
-ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Узнайте, как соответствовать последним требованиям к поддержке и службам, чтобы стать партнером с правом на прямое выставление счетов в программе поставщика облачных решений (Майкрософт).
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: aa5ac9b7e8951d27f5e55f303a3506f78179600f
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.date: 04/27/2020
+ms.openlocfilehash: c5b07e353ebbeeb53de3d90abf229a8ce79ade8f
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120012"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89366858"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Требования к регистрации партнеров CSP с правом на прямое выставление счетов
 
