@@ -163,6 +163,8 @@
       href: reset-my-pasword.md
     - name: Не удается войти в Центр партнеров
       href: unable-to-sign-in.md
+    - name: 'Что делать, если администратор вашей программы MPN покинул компанию?'
+      href: no-mpn-admin.md
 - name: "Управление учетной записью Центра партнеров\_— бизнес"
   items:
     - name: Добавление служб Azure Partner Shared Services

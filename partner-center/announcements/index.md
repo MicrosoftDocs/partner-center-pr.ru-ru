@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 5309b7cca20aff3fb37c0dd7607ba7439f2851c4
-ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
+ms.openlocfilehash: c2894e3ef7c80cbff2952f22aaf32ba4227b874e
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89427101"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564764"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,7 +22,8 @@ ms.locfileid: "89427101"
 
 | **Категория** | **Объявления за сентябрь 2020 г.** | **Объявлено** |
 |---------|:---------|:---------|
-|Предложения и рынки|[Расширенная поддержка программы поощрения и процесс создания билетов](2020-september.md#4)|2 сентября|
+|Предложения и рынки|[Новые номера SKU предоставляют преимущества Project Cortex и многие другие возможности для клиентов](2020-september.md#5)|8 сентября|
+|Возможности|[Расширенная поддержка программы поощрения и процесс создания билетов](2020-september.md#4)|2 сентября|
 |Предложения и рынки|[Предстоящие новые предложения Microsoft Dynamics 365](2020-september.md#3)|1 сентября|
 |Предложения и рынки|[План звонков Office 365 станет доступным на новых рынках 1 октября 2020 г.](2020-september.md#2)|1 сентября|
 |Предложения и рынки|[Стала доступной платформа Advanced Threat Protection в Microsoft Defender (ATP) для серверов для образовательных учреждений](2020-september.md#1)|1 сентября|
