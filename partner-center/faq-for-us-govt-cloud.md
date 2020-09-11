@@ -1,25 +1,25 @@
 ---
-title: Часто задаваемые вопросы о Центре партнеров для Microsoft Cloud для правительства США | Часто задаваемые вопросы о Центре партнеров для Microsoft Cloud для правительства США
+title: 'Часто задаваемые вопросы: центр партнеров — Microsoft Cloud для государственных организаций США'
+description: См. Ответы на часто задаваемые вопросы о программе поставщика облачных решений (CSP) для Microsoft Cloud для государственных организаций США.
 ms.topic: article
-ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: См. Ответы на часто задаваемые вопросы о программе поставщика облачных решений (CSP) для Microsoft Cloud для государственных организаций США.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.openlocfilehash: fbb9e7888456b1b7f9ce600fda6c7d6aad28edc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 11/20/2019
+ms.openlocfilehash: 05260ce988c5a3168a8b0dbd587d453f295c9396
+ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220652"
+ms.lasthandoff: 09/11/2020
+ms.locfileid: "90026272"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Ответы на вопросы о Центре партнеров для Microsoft Cloud for US Government
 
 **Относится к**
 
--  Центр партнеров для Microsoft Cloud for US Government
+- Центр партнеров для Microsoft Cloud for US Government
 
 ## <a name="general-questions"></a>Общие вопросы
 
@@ -49,7 +49,7 @@ ms.locfileid: "89220652"
 
 - Регистрация. Регистрация партнеров в программе CSP для Microsoft Cloud for US Government должна осуществляться отдельно от регистрации в коммерческой программе CSP Commercial.
 
-- Доступность продукта. в программе CSP для облака Microsoft для государственных организаций доступны Azure для государственных организаций и службы на основе лицензий, такие как Office 365, Enterprise Mobility + Security и Dynamics 365. 
+- Доступность продукта. в программе CSP для облака Microsoft для государственных организаций доступны Azure для государственных организаций и службы на основе лицензий, такие как Office 365, Enterprise Mobility + Security и Dynamics 365.
 
 - Контракты. В соглашение реселлера облачных решений Майкрософт (MCRA) были добавлены уникальные положения для государственных учреждений.
 
@@ -166,7 +166,7 @@ API-интерфейсы и требования к их интеграции в
 
 ### <a name="where-should-i-go-if-i-still-have-questions"></a>К кому можно обратиться, чтобы получить ответы на дополнительные вопросы?
 
-Для получения дополнительных сведений обратитесь к своему менеджеру по работе с клиентами. Кроме того, присоединитесь к нашей к группе в Yammer, посвященной [CSP для Azure для государственных организаций](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all).
+Для получения дополнительных сведений обратитесь к своему менеджеру по работе с клиентами. Кроме того, присоединитесь к нашей к группе в Yammer, посвященной [CSP для Azure для государственных организаций](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777).
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
