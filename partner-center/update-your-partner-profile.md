@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ba59ee7b502d06aa5f95ca45fa86aa10fcab059
-ms.sourcegitcommit: b702276b961943688b710664313818d8e10e33ad
+ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89304981"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490642"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Проверка информации профиля партнера в Центре партнеров
 
@@ -55,6 +55,17 @@ ms.locfileid: "89304981"
 2. Далее перейдите в раздел **Профиль партнера** и выберите **Update legal business profile** (Обновить официальный бизнес-профиль).
 
 3. Выберите расположение и предприятие, которое необходимо использовать в качестве юридического, а затем нажмите кнопку **Сохранить**.
+
+## <a name="update-your-mpn-id-associated-with-your-csp-account"></a>Обновление идентификатора MPN, связанного с вашей учетной записью CSP
+
+Чтобы обновить идентификатор MPN, связанный с вашей учетной записью CSP:
+
+1. Войдите на панель мониторинга в Центре партнеров.
+1. Выберите элемент **Профиль партнера** в разделе **Параметры учетной записи**.
+1. Рядом с параметром **связанного MPNID** выберите элемент **Обновление**.
+1. Выберите **Continue** (Продолжить).
+1. Добавьте свой идентификатор MPN.
+
 
 ## <a name="update-your-billing-address"></a>Обновление адреса для выставления счетов
 
