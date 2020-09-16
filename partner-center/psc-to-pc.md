@@ -126,7 +126,7 @@ ms.locfileid: "90082522"
 - <span data-ttu-id="08cc5-222">Роль сделки не является обязательным полем на ПК.</span><span class="sxs-lookup"><span data-stu-id="08cc5-222">Deal role is not a required field in PC.</span></span> <span data-ttu-id="08cc5-223">Он не отображается и не сохраняется ни в одном из рабочих процессов.</span><span class="sxs-lookup"><span data-stu-id="08cc5-223">It is neither displayed nor captured in any of the workflows.</span></span> <span data-ttu-id="08cc5-224">Он наследуется автоматически на стороне продавца корпорации Майкрософт на основе решений, добавленных в эту сделку.</span><span class="sxs-lookup"><span data-stu-id="08cc5-224">It is derived automatically at the Microsoft seller side based on the solutions added to the deal.</span></span>
 - <span data-ttu-id="08cc5-225">Дата последнего изменения не отображается на странице сведений о ссылках на компьютере.</span><span class="sxs-lookup"><span data-stu-id="08cc5-225">The last modified date is not displayed on the referral details page in PC.</span></span> <span data-ttu-id="08cc5-226">Партнеры могут использовать функции сортировки для сортировки сделок на основе даты последнего обновления.</span><span class="sxs-lookup"><span data-stu-id="08cc5-226">Partners can use the sort functionality to sort the deals based on the last updated date.</span></span>
 
- :::image type="content" source="images/pscmigration/gridview.png" alt-text="Изображение, показывающее сопоставления полей между представлением сетки "партнер Sales Connect" (PSC) и "Центр партнеров".":::
+ :::image type="content" source="images/pscmigration/gridview.png" alt-text="Изображение, показывающее сопоставления полей между представлением сетки партнер Sales Connect (PSC) и Центр партнеров.":::
 
 <span data-ttu-id="08cc5-228">**Просмотр сведений о сделках в PSC и центре партнеров**</span><span class="sxs-lookup"><span data-stu-id="08cc5-228">**Deal details view in PSC and Partner Center**</span></span>
 
@@ -143,7 +143,7 @@ ms.locfileid: "90082522"
 
 <span data-ttu-id="08cc5-241">**Представление "Добавление продуктов" (PSC) и представление "Добавление решений" центра партнеров**</span><span class="sxs-lookup"><span data-stu-id="08cc5-241">**PSC 'Add Products' view and the Partner Center 'Add solutions' view**</span></span>
 
- :::image type="content" source="images/pscmigration/products.png" alt-text="Изображение, показывающее сопоставления полей между представлением "Добавление продуктов (PSC)" и "Центр партнеров" в представлении "Добавление решений".":::
+ :::image type="content" source="images/pscmigration/products.png" alt-text="Изображение, показывающее сопоставления полей между представлением Добавление продуктов (PSC) и Центр партнеров в представлении Добавление решений.":::
 
 <span data-ttu-id="08cc5-243">**Управление пользователями в PSC и центре партнеров**</span><span class="sxs-lookup"><span data-stu-id="08cc5-243">**User management in PSC and Partner Center**</span></span>
 
@@ -154,7 +154,7 @@ ms.locfileid: "90082522"
 - <span data-ttu-id="08cc5-246">Аналогичная роль для администратора PSC — роль администратора учетной записи в центре партнеров.</span><span class="sxs-lookup"><span data-stu-id="08cc5-246">The equivalent role for PSC admin is the account admin role in Partner Center.</span></span>
 - <span data-ttu-id="08cc5-247">В центре партнеров есть только одна роль для управления сделками совместной продажи, которая является ролью администратора ссылок.</span><span class="sxs-lookup"><span data-stu-id="08cc5-247">There is only one role in Partner Center for co-sell deal management which is the referral admin role.</span></span>
 
- :::image type="content" source="images/pscmigration/roles.png" alt-text="Изображение, показывающее сопоставления полей между представлением назначения ролей "партнер Sales Connect" (PSC) и представлением назначения ролей центра партнеров.":::
+ :::image type="content" source="images/pscmigration/roles.png" alt-text="Изображение, показывающее сопоставления полей между представлением назначения ролей партнер Sales Connect (PSC) и представлением назначения ролей центра партнеров.":::
 
 <span data-ttu-id="08cc5-249">**Уведомления в PSC и центре партнеров**</span><span class="sxs-lookup"><span data-stu-id="08cc5-249">**Notifications in PSC and Partner Center**</span></span>
 
