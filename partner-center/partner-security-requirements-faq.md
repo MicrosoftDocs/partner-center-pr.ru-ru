@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 055f7f43e9b5d866c18680de000d6cee01e2e165
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: e11896b734eaa715eb061d5fff04af436f6d0448
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444899"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614161"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Часто задаваемые вопросы о требованиях к безопасности для партнеров
 
@@ -214,7 +214,7 @@ MFA — это механизм безопасности, при котором 
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>Я использую инструменты автоматизации, такие как PowerShell. Как можно внедрить Модель безопасных приложений?
 
-Если ваши инструменты автоматизации предназначены для работы в неинтерактивном режиме и используют учетные данные пользователей для аутентификации, вам нужно реализовать Модель безопасных приложений. Ознакомьтесь с разделом [Secure Application Model](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5) (Модель безопасных приложений), чтобы получить инструкции по внедрению этой платформы.  
+Если ваши инструменты автоматизации предназначены для работы в неинтерактивном режиме и используют учетные данные пользователей для аутентификации, вам нужно реализовать Модель безопасных приложений. Ознакомьтесь с разделом [Secure Application Model](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth) (Модель безопасных приложений), чтобы получить инструкции по внедрению этой платформы.  
 
 >[!Note] 
 >Не все инструменты автоматизации предоставляют возможность аутентификации с помощью маркеров доступа. Если вам требуется помощь, чтобы понять, какие изменения необходимо внести, опубликуйте свой вопрос в сообществе [Консультативная группа по обеспечению безопасности в Центре партнеров](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance). 
@@ -292,7 +292,7 @@ CPV нужно будет создать приложение Azure Active Direc
 
 Для проверки учетной записи, которая обращается к ресурсам и проходит многофакторную проверку подлинности, мы будем проверять [утверждение со ссылкой на метод проверки подлинности](https://tools.ietf.org/html/rfc8176), чтобы узнать, указана ли в нем MFA. Некоторые сторонние решения не выдают это утверждение или не добавляют в него значение MFA. Если утверждение отсутствует или в нем нет значения MFA, то невозможно определить, проходила ли аутентифицированная учетная запись многофакторную проверку подлинности. Вам потребуется обратиться к поставщику стороннего решения, чтобы узнать, какие действия необходимо предпринять, чтобы решение выдавало утверждение со ссылкой на метод проверки подлинности.
 
-Если вы не уверены, что ваше стороннее решение выдает ожидаемое утверждение, см. руководство по [проверке соответствия требованиям к безопасности для партнеров](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements?view=partnercenterps-2.0).
+Если вы не уверены, что ваше стороннее решение выдает ожидаемое утверждение, см. руководство по [проверке соответствия требованиям к безопасности для партнеров](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements).
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA не позволяет мне предоставлять поддержку моему клиенту с помощью AOBO. Что мне делать?
 
