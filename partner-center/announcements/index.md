@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: c2894e3ef7c80cbff2952f22aaf32ba4227b874e
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 67d12c69c4cd1e42eb5c9300026c61837cafbf86
+ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564764"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "90574390"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,7 @@ ms.locfileid: "89564764"
 
 | **Категория** | **Объявления за сентябрь 2020 г.** | **Объявлено** |
 |---------|:---------|:---------|
+|Предложения и рынки|[Возможность самостоятельного приобретения для Microsoft Project и Microsoft Visio стала доступной](2020-september.md#6)|15 сентября|
 |Предложения и рынки|[Новые номера SKU предоставляют преимущества Project Cortex и многие другие возможности для клиентов](2020-september.md#5)|8 сентября|
 |Возможности|[Расширенная поддержка программы поощрения и процесс создания билетов](2020-september.md#4)|2 сентября|
 |Предложения и рынки|[Предстоящие новые предложения Microsoft Dynamics 365](2020-september.md#3)|1 сентября|
