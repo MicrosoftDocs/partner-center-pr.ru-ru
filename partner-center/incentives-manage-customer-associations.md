@@ -1,5 +1,5 @@
 ---
-title: Управление ассоциациями клиентов поощрения
+title: Связи клиентов поощрения
 description: Узнайте о важных процессах и временных шкалах для управления заявленными ассоциациями клиентов записи (КПОР).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -7,13 +7,13 @@ ms.topic: how-to
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 08/31/2020
-ms.openlocfilehash: 6fe9ce95a1e4bfc017888dcdeb95e02deb3f64fe
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 09/11/2020
+ms.openlocfilehash: 37b64d686549562a26aa818a576bad6c85f86670
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220582"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714438"
 ---
 # <a name="manage-incentives-customer-associations"></a>Управление ассоциациями клиентов поощрения
 

@@ -1,22 +1,22 @@
 ---
-title: Создание связи с клиентом с помощью модели КПОР
+title: Создание связи с клиентом
 ms.topic: article
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Создание ассоциаций клиентов с помощью модели КПОР (заявка на утверждение партнера по записи). Помогает управлять продажами, использованием, & поощрениями для клиентов Microsoft 365 и Dynamics 365.
+description: Создайте ассоциации клиентов с помощью модели заявок на утверждение партнеров (КПОР). Помогает управлять продажами, использованием, & поощрениями для клиентов Microsoft 365 и Dynamics 365.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5b14759803beb73cc970bf5fb96747048b8bdc1
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 1fc528b0a00fab42d7ddfcf8dae79d1eae1e2967
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220372"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714358"
 ---
-# <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Создание связи с клиентом с помощью модели КПОР — используется для клиентов Microsoft 365 и Dynamics 365
+# <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Сопоставления клиентов с помощью утвержденной модели партнеров (КПОР) для Microsoft 365 и Dynamics 365
 
 **Относится к**
 
