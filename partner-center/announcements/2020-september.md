@@ -9,18 +9,50 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/01/2020
-ms.openlocfilehash: a036cb1cd0b987e12cfe16aca2c7cf98a80cee55
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 0bf31dd474087ae7f4b3c6c8924309d177de922b
+ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564744"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "90574400"
 ---
 # <a name="september-2020-announcements"></a>Объявления за сентябрь 2020 г.
 
 Эта страница содержит подробные сведения об объявлениях для Центра партнеров Майкрософт за сентябрь 2020 г.
 
 Объявления за 2020 год: [Февраль](2020-february.md) | [Март](2020-march.md) | [апреля](2020-april.md) | [Май](2020-may.md) | [Июнь](2020-june.md) | [Июль](2020-july.md) | [Август](2020-august.md) | Сентябрь
+
+________________
+
+## <a name="self-service-purchasing-for-microsoft-project-and-microsoft-visio-now-available"></a><a name="6"></a>Возможность самостоятельного приобретения для Microsoft Project и Microsoft Visio уже доступна
+
+### <a name="categories"></a>Категории
+
+- Дата: 15.09.2020
+- Предложения и рынки
+
+### <a name="impacted-audience"></a>Затронутая аудитория
+
+Партнеры, продающие веб-службы коммерческим клиентам.
+
+### <a name="details"></a>Сведения
+
+В прошлом году [мы объявили](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) о том, что корпорация Майкрософт предоставляет сотрудникам и командам возможность непосредственно покупать выбранные службы. Теперь пользователи по всему миру могут самостоятельно приобрести подписки для следующих продуктов Microsoft Project и Microsoft Visio: 
+
+- Visio — [план 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) и [план 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab);
+- Project — [план 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) и [план 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab).
+
+Примечание.  Возможности самостоятельной покупки в настоящее время недоступны в Индии, Бразилии, Демократической Республике Конго а также для клиентов, для которых доступны предложения для государственных и образовательных учреждений.  Подробные сведения о доступности и новости см. в [часто задаваемых вопросах о самостоятельном приобретении](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/self-service-purchase-faq?view=o365-worldwide&preserve-view=true).
+
+#### <a name="partner-benefits"></a>Преимущества для партнеров
+
+Вы сможете предоставлять свои услуги отдельным пользователям и командам без централизованного приобретения ИТ-отделом необходимых лицензий. Службы могут охватывать предложения Project и Visio на основе сценариев интеграции с Microsoft 365 и Power Platform. Перед приобретением клиенты также могут поработать с пробной версией Visio ([план 1 и план 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/)) и Project ([план 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software)).
+
+
+### <a name="next-steps"></a>Дальнейшие действия
+
+- Ознакомьтесь с коллекцией ресурсов, посвященных подготовке к работе: [Возможность самостоятельного приобретения для клиентов](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/). Узнайте больше о возможностях партнеров, предоставляемых решениями Visio и Power Platform, из доклада на конференции Microsoft Inspire, посвященного [способам преобразования бизнеса с помощью Microsoft Visio и Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform).
+- Дополнительные сведения см. в [руководстве по самообслуживанию для администраторов](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide&preserve-view=true).
 
 ________________
 
@@ -85,7 +117,7 @@ ________________
 
 Все партнеры.
 
-### <a name="summary"></a>Итоги
+### <a name="summary"></a>Сводка
 
 В интерфейсе поддержки программы поощрения для партнеров расширены возможности обнаружения материалов для самостоятельного решения вопросов и упрощена отправка интерактивных запросов.
 

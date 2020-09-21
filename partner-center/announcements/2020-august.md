@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: acbe2e22f1295a881ef064e0e6ff018c9b98eb95
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: c40af7e33e190b86e29b3a392dcc7df805d729b3
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89274993"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614127"
 ---
 # <a name="august-2020-announcements"></a>Объявления за август 2020 года
 
@@ -130,13 +130,13 @@ ________________
 - Visio — [план 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) и [план 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab);
 - Project — [план 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) и [план 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab).
 
-**Примечание**. Возможности самостоятельной покупки недоступны в Индии, а также для клиентов, для которых доступны предложения для государственных и образовательных учреждений.
+**Примечание.** Возможности самостоятельной покупки недоступны в Индии, а также для клиентов, для которых доступны предложения для государственных и образовательных учреждений.
 
 #### <a name="partner-benefits"></a>Преимущества для партнеров
 
 Вы сможете предоставлять свои услуги отдельным пользователям и командам без централизованного приобретения ИТ-отделом необходимых лицензий. Службы могут охватывать предложения Project и Visio на основе сценариев интеграции с Microsoft 365 и Power Platform. 
 
-Узнайте больше о возможностях партнеров, предоставляемых решениями Visio и Power Platform, из доклада на конференции Microsoft Inspire, посвященном [способам преобразования бизнеса с помощью Microsoft Visio и Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform). Дополнительные сведения см. в [руководстве по самообслуживанию](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide).
+Узнайте больше о возможностях партнеров, предоставляемых решениями Visio и Power Platform, из доклада на конференции Microsoft Inspire, посвященном [способам преобразования бизнеса с помощью Microsoft Visio и Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform). Дополнительные сведения см. в [руководстве по самообслуживанию](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins).
 
 #### <a name="additional-resources"></a>Дополнительные ресурсы
 

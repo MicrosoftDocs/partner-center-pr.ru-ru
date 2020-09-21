@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb70aabc59e069209673b1b0f2e0be57c973a70e
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 467f46b2e6dfc41730970abe9005e1f2d28409f3
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545845"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614147"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Продажа подписок на программное обеспечение в рамках программы "Поставщик облачных решений" (CSP)
 
@@ -116,7 +116,7 @@ ms.locfileid: "87545845"
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Скачиваемый файл серверной подписки и лицензионные ключи доступны в Центре администрирования Microsoft 365 для клиентов 
 
-Ваши клиенты смогут получать лицензионные ключи для серверной подписки CSP и скачиваемые файлы из Центра администрирования Microsoft 365. Чтобы просмотреть лицензионные ключи и файлы для серверной подписки CSP, клиент должен перейти в Центр администрирования Microsoft 365 и выбрать **Выставление счетов > Ваши продукты**, а затем щелкнуть вкладку "Программное обеспечение". См. дополнительные сведения о [вкладке "Программное обеспечение" в разделе выставления счетов](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview?view=o365-worldwide#billing--subscriptions).  
+Ваши клиенты смогут получать лицензионные ключи для серверной подписки CSP и скачиваемые файлы из Центра администрирования Microsoft 365. Чтобы просмотреть лицензионные ключи и файлы для серверной подписки CSP, клиент должен перейти в Центр администрирования Microsoft 365 и выбрать **Выставление счетов > Ваши продукты**, а затем щелкнуть вкладку "Программное обеспечение". См. дополнительные сведения о [вкладке "Программное обеспечение" в разделе выставления счетов](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Просмотр операций использования программных ключей и скачивания ПО
 
