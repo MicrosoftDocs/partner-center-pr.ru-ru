@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 55bafb22a652c9e01fc9cbd1f5303b35cf127d9a
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 157769fd08a99e63d2a2aac06e704a72add20a60
+ms.sourcegitcommit: b60577f772e240fd2c38c13987d2b39c4722fbad
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714239"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "90773838"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,7 @@ ms.locfileid: "90714239"
 
 | **Категория** | **Объявления за сентябрь 2020 г.** | **Объявлено** |
 |---------|:---------|:---------|
+|Характеристики|[Предстоящие изменения в API использования Office 365 для CSP и отчетах об использовании лицензий CSP за 30 сентября 2020 г.](2020-september.md#8)|17 сентября|
 |Характеристики|[Обновление MPA для непрямых торговых посредников Действие, требуемое для пользователей API MPA и новых отчетов об MPA](2020-september.md#7)|16 сентября|
 |Предложения и рынки|[Возможность самостоятельного приобретения для Microsoft Project и Microsoft Visio стала доступной](2020-september.md#6)|15 сентября|
 |Предложения и рынки|[Новые номера SKU предоставляют преимущества Project Cortex и многие другие возможности для клиентов](2020-september.md#5)|8 сентября|
