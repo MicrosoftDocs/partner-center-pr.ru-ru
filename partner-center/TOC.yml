@@ -203,54 +203,72 @@
       items:
         - name: Начало работы с поощрениями
           items:
-            - name: Часто задаваемые вопросы
+            - name: Вопросы и ответы о программе поощрения
               href: incentives-faq.md
-            - name: Начало работы
+            - name: Начало работы с программой поощрения
               href: incentives-get-started-intro.md
-            - name: Регистрация в программе поощрений
+            - name: "10\_важных шагов, выполняемых перед началом работы с программой поощрения"
+              href: incentives-ten-essentials.md
+            - name: Регистрация в программе поощрения
               href: incentives-enroll.md
-            - name: Определение возможности участия в программе
+            - name: Проверка права на участие в программе
               href: incentives-determined-your-program-eligibility.md
-            - name: Создание профилей для выплат и налогов и управление ими в Центре партнеров
+              displayName: incentives
+            - name: Анализ профилей для выплат и налогов
               href: incentives-create-and-manage-your-payout-and-tax-profiles.md
-            - name: Часто задаваемые вопросы о профилях для выплат и налогов в рамках программы поощрения
+              displayName: incentives
+            - name: Вопросы и ответы о профилях для выплат и налогов
               href: incentives-payout-tax-profile-faqs.md
-            - name: Подтверждение соответствия вашей прибыли требованиям
+              displayName: incentives
+            - name: Проверка соответствия прибыли требованиям
               href: incentives-confirm-your-earnings-eligibility.md
-            - name: Просмотр сведений о программах вознаграждений и платежей по ним
+              displayName: incentives
+            - name: Просмотр сведений о программах и платежах
               href: understand-incentive-payouts.md
-            - name: Доступ к странице выплат по программам поощрений
+              displayName: incentives
+            - name: Доступ к странице выплат
               href: incentives-unified-user-guide.md
+              displayName: incentives
         - name: Планы и подтверждения выполнения
           items:
-            - name: Сведения о планах и подтверждениях выполнения
+            - name: Анализ планов и подтверждения выполнения
               href: incentives-plans-proofs-intro.md
+              displayName: 'incentives, proof of execution, proofs of execution'
             - name: Создание плана
               href: incentives-create-your-plan.md
-            - name: Подготовка подтверждения выполнения
+              displayName: incentives
+            - name: Создание подтверждения выполнения
               href: incentives-prepare-your-proof-of-execution.md
+              displayName: incentives
         - name: Совместные заявки на возмещение средств в рамках программ поощрения
           items:
-            - name: Сведения о совместных заявках
+            - name: Совместные заявки на возмещение средств в рамках программы поощрения
               href: claims-overview.md
-            - name: Создание и администрирование совместных заявок на возмещение средств в рамках программы поощрения
+              displayName: incentives
+            - name: Управление заявками на возмещение совместных средств
               href: create-incentives-claims.md
-            - name: Основные требования к заявкам на возмещение средств в рамках программ поощрений
+              displayName: incentives
+            - name: Просмотр основных требований
               href: core-requirements.md
-            - name: Сроки утверждения совместных заявок на возмещение средств и выплат по ним
+              displayName: incentives
+            - name: Сроки утверждения совместных заявок на возмещение средств
               href: incentives-managing-co-op-claims.md
+              displayName: incentives
         - name: 'Поощрения: заявки на создание связи CPOR'
           items:
-            - name: Сведения о связях в рамках CPOR
+            - name: Анализ связей в рамках CPOR
               href: incentives-customer-associations-intro.md
-            - name: Создание связи с клиентом с помощью модели CPOR
+            - name: Создание связи с клиентом
               href: submit-osa-claim.md
             - name: Управление связями с клиентами
               href: incentives-manage-customer-associations.md
+              displayName: incentives
             - name: Проблемы со связью клиентов
               href: incentives-customer-association-issues.md
+              displayName: incentives
         - name: Устранение проблем с платежами и прибылью
           href: incentives-payment-issues.md
+          displayName: incentives
 - name: Выставление счетов и налоги
   href: billing.md
   items:
@@ -536,6 +554,8 @@
   items:
     - name: Ресурсы по лицензированию
       href: support-resources-licensing.md
+    - name: Поиск идентификаторов и доменных имен
+      href: find-ids-and-domain-names.md
 - name: Требования к безопасности
   items:
     - name: Overview
