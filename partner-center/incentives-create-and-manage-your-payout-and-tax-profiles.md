@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 688e3bf3d181ae235d245f1330bbc160c9841ef6
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: de143ecfae1b803e0743a28db5cda5ae9a3d5f2d
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714498"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999318"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Создание и управление выплатами и налоговыми профилями поощрения в центре партнеров
 
@@ -58,7 +58,7 @@ ms.locfileid: "90714498"
 В следующих разделах описывается процесс создания и управления платежами и налоговыми профилями в центре партнеров.
 
 >[!IMPORTANT]
->Для создания профилей платежей и управления ими в центре партнеров необходимо быть администратором-стимулом. Роли стимула должны быть назначены каждому MPN расположению в рамках каждой программы поощрения. Дополнительные сведения о добавлении поощрительных администраторов в центре партнеров см. в разделе [Создание учетных записей пользователей](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions).
+>Для создания профилей платежей и управления ими в центре партнеров необходимо быть администратором-стимулом. Роли стимула должны быть назначены каждому MPN расположению в рамках каждой программы поощрения. Дополнительные сведения о добавлении поощрительных администраторов в центре партнеров см. в разделе [Создание учетных записей пользователей](create-user-accounts-and-set-permissions.md).
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Доступ к разделу выплата и налог в центре партнеров
 

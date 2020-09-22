@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05939dc5edaddeb2f74b3b75017e2062dff25e31
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 98bfd9a9ce6f03ad62a830f05ba82f9b90268326
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468335"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999708"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Узнайте, как читать элементы строк в файлах сверки центра партнеров
 
@@ -58,7 +58,7 @@ ms.locfileid: "87468335"
 
 ## <a name="download-reconciliation-files-programmatically"></a>Программное скачивание файлов выверки
 
-Файлы сверки могут быть очень большими и иногда трудно скачивать. Сведения об программной загрузке файлов выверки см. в разделе [Получение элементов строки счета](https://docs.microsoft.com/partner-center/develop/get-invoiceline-items).
+Файлы сверки могут быть очень большими и иногда трудно скачивать. Сведения об программной загрузке файлов выверки см. в разделе [Получение элементов строки счета](/partner-center/develop/get-invoiceline-items).
 
 ## <a name="map-taxes-or-vat"></a>Сопоставьте налоги или НДС
 

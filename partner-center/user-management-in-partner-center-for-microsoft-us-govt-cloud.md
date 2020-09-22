@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a0ede199da0c18c8c73b01cbdc4a8447f842747a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 5f81022c3ea32eefc0e1f85bea1b1830603620e7
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949526"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000318"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud для правительства США
 
@@ -41,13 +41,13 @@ ms.locfileid: "85949526"
 > [!NOTE]  
 > Перейдя по приведенным ниже ссылкам, вы перейдете на другой веб-сайт. 
 
--  [**Добавление новых пользователей в Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [**Добавление новых пользователей в Azure Active Directory**](/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [**Назначение пользователю ролей администратора в Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [**Назначение пользователю ролей администратора в Azure Active Directory**](/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [**Сброс пароля пользователя в Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [**Сброс пароля пользователя в Azure Active Directory**](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**См. также**
+**Связанные темы**
 
 -  [**Центр партнеров для Microsoft Cloud for US Government**](partner-center-for-microsoft-us-govt-cloud.md)
 

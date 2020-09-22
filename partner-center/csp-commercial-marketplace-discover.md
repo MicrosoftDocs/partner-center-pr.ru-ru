@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 492c0358d75488a199c24b7f47931305b46a73a0
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: cb7b4ffdb4edf75e3e121e4ddea6b9de191ddbbf
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527730"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000418"
 ---
 # <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>Ознакомьтесь с предложениями и ценами в коммерческом магазине по центру партнеров
 
@@ -70,7 +70,7 @@ ms.locfileid: "87527730"
 
 ## <a name="view-marketplace-offers-via-partner-center-apis"></a>Просмотр предложений Marketplace с помощью API центра партнеров
 
-Партнеры программы CSP также могут использовать API для получения списка соответствующих предложений. Подходящие предложения будут представлять собой только те предложения SaaS ISV, которые доступны партнеру для продажи через Marketplace Center. Для партнеров, использующих интерфейсы API для определения предложений в каталоге, ознакомьтесь с руководством по [получению списка предложений для рынка](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
+Партнеры программы CSP также могут использовать API для получения списка соответствующих предложений. Подходящие предложения будут представлять собой только те предложения SaaS ISV, которые доступны партнеру для продажи через Marketplace Center. Для партнеров, использующих интерфейсы API для определения предложений в каталоге, ознакомьтесь с руководством по [получению списка предложений для рынка](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
 
 ## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>Ознакомьтесь с последними ценами на предложения Marketplace в центре партнеров
 
@@ -101,7 +101,7 @@ ms.locfileid: "87527730"
 > [!NOTE]
 > Если вы видите предложение, помеченное как эксклюзивное, которое вы хотите продать клиентам, обращайтесь непосредственно к независимому поставщику программного обеспечения и запросите разрешение на продажу исключительного предложения. При просмотре сведений о эксклюзивном предложении может отображаться ссылка на **независимый поставщик программного обеспечения** , которую можно выбрать.
 
-Дополнительные сведения о работе ISV в коммерческом магазине см. в статье [поставщики облачных решений](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).
+Дополнительные сведения о работе ISV в коммерческом магазине см. в статье [поставщики облачных решений](/azure/marketplace/cloud-solution-providers).
 
 Дополнительные сведения о работе CSP в Marketplace см. в статье [Обзор коммерческого рынка](csp-commercial-marketplace-overview.md).
 

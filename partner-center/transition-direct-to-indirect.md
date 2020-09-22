@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 16f3c4a2e61bbc207bb99d6c9aeb1636260a55ee
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: e9ffa6ef8145099a90fde16e4ce8d6a3453973e0
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811194"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000648"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Переход со статуса партнера с прямым выставлением счетов в статус косвенного торгового посредника в рамках программы CSP
 
@@ -76,7 +76,7 @@ ms.locfileid: "87811194"
 
 Поиск в списке официальных [непрямых поставщиков Майкрософт](https://partnercenter.microsoft.com/partner/find-a-provider).
 
-Дополнительные сведения, чтение [партнера с непрямыми поставщиками](indirect-reseller-tasks-in-partner-center.md)
+Дополнительные сведения, чтение  [партнера с непрямыми поставщиками](indirect-reseller-tasks-in-partner-center.md)
 
 ## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a>Принятие приглашения на партнерство от непрямого поставщика
 
@@ -161,7 +161,7 @@ ms.locfileid: "87811194"
 
 - Непрямой поставщик не будет предоставляться с [делегированными привилегиями на администрирование](customers-revoke-admin-privileges.md) клиенту клиента. Если непрямому поставщику требуются права делегированного администрирования, необходимо отправить клиенту приглашение непрямого торгового посредника.
 
-- После того как связь с торговыми посредниками установлена, косвенный поставщик будет отображаться в качестве партнера CSP для клиента на странице связи партнеров в [центре администрирования M365](https://admin.microsoft.com/AdminPortal/Home#/partners) и [Microsoft Store для бизнеса](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business).
+- После того как связь с торговыми посредниками установлена, косвенный поставщик будет отображаться в качестве партнера CSP для клиента на странице связи партнеров в [центре администрирования M365](https://admin.microsoft.com/AdminPortal/Home#/partners) и [Microsoft Store для бизнеса](/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
     > Чтобы избежать путаницы и неправильного понимания, вы по договору обязани от соглашения партнера, чтобы уведомить и получить согласие от клиента прямого счета, прежде чем использовать функцию расширения связи для установления связи между существующим прямым клиентом счета и косвенным поставщиком.
@@ -245,15 +245,15 @@ ms.locfileid: "87811194"
 ### <a name="transitioning-partner"></a>Партнер по переходу
 
 > [!NOTE]
-> Вы также можете использовать [API или пакет SDK центра партнеров](https://docs.microsoft.com/partner-center/develop/manage-customers) для перемещения существующих подписок на непрямой поставщик.
+> Вы также можете использовать [API или пакет SDK центра партнеров](/partner-center/develop/manage-customers) для перемещения существующих подписок на непрямой поставщик.
 >
-> - [Получение права на перемещение подписок клиента](https://docs.microsoft.com/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
-> - [Создание операции перемещения для клиента](https://docs.microsoft.com/partner-center/develop/create-a-transfer)
-> - [Вывод сведений о перемещении для клиента](https://docs.microsoft.com/partner-center/develop/withdraw-a-transfer)
-> - [Принятие операции перемещения для клиента](https://docs.microsoft.com/partner-center/develop/accept-a-transfer)
-> - [Отклонение перемещения клиента](https://docs.microsoft.com/partner-center/develop/reject-a-transfer)
-> - [Получение сведений об операциях перемещения для клиента](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)
-> - [Получение сведений о переносе по идентификатору](https://docs.microsoft.com/partner-center/develop/get-transfer-by-id)
+> - [Получение права на перемещение подписок клиента](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
+> - [Создание операции перемещения для клиента](/partner-center/develop/create-a-transfer)
+> - [Вывод сведений о перемещении для клиента](/partner-center/develop/withdraw-a-transfer)
+> - [Принятие операции перемещения для клиента](/partner-center/develop/accept-a-transfer)
+> - [Отклонение перемещения клиента](/partner-center/develop/reject-a-transfer)
+> - [Получение сведений об операциях перемещения для клиента](/partner-center/develop/get-all-of-a-customer-s-transfers)
+> - [Получение сведений о переносе по идентификатору](/partner-center/develop/get-transfer-by-id)
 
 ### <a name="transitioning-partner---create-transfer-request"></a>Перемещение партнера — создание запроса на передачу
 
@@ -277,7 +277,7 @@ ms.locfileid: "87811194"
 
     :::image type="content" source="images/direct/direct9.png" alt-text="Создать запрос на перемещение":::
 
-8. Нажмите кнопку **Создать**.
+8. Щелкните **Создать**.
 
 9. В разделе " **Перемещение подписки**" появится запрос на перенос активных подписок.
 

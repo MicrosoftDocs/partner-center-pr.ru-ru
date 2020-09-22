@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59c40ebfe65d83abfb33f8994f1c0a0ffa7149a7
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114152"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000078"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Перемещение нескольких компаний в центр партнеров из центра участия в партнерских организациях (PMC)
 
@@ -51,7 +51,7 @@ ms.locfileid: "87114152"
 
 На этом экране отображаются сведения об имеющейся учетной записи (имени и адресе), уже созданной в Центре партнеров, а также сведения об основном контактном лице.
 
-Выберите пункт **Продолжить**.
+Выберите **Continue** (Продолжить).
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Что происходит при консолидации учетных записей
 
@@ -93,4 +93,4 @@ ms.locfileid: "87114152"
 - [Assign users roles and permissions](permissions-overview.md) (Назначение пользователям ролей и разрешений)
 - [Продление подписки на предложения MPN](renew-mpn-offers.md)
 - [Создание бизнес-профиля для получения потенциальных клиентов от Майкрософт](create-a-marketing-profile.md)
-- [Respond to referrals](responding-to-referrals.md) (Ответ на ссылки)
+- [Respond to referrals](manage-leads.md) (Ответ на ссылки)

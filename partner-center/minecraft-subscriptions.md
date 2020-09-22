@@ -8,12 +8,12 @@ description: Продавайте подписки Minecraft образоват�
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: 98094096de41f20df6f381687984ea3ee1a7c334
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: dc4fa7c3828bc6c6bc3fb711184a876c0b92b925
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436823"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000068"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Продажа подписок на Minecraft: Education Edition клиентам из образовательной сферы
 
@@ -53,9 +53,7 @@ ms.locfileid: "86436823"
 
   6.  После приобретения подписки сообщите своему клиенту из образовательной сферы, чтобы он перешел в свой список продуктов в [Microsoft Store для образования](https://educationstore.microsoft.com) и скачал программное обеспечение, а затем распространил лицензии.
 
-      Дополнительные сведения о распространении лицензий на программное обеспечение для своих пользователей клиент может найти [здесь](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft).  
+      Дополнительные сведения о распространении лицензий на программное обеспечение для своих пользователей клиент может найти [здесь](/education/windows/school-get-minecraft#distribute-minecraft).  
   
-      Если клиент не знаком с Microsoft Store для образования, он может получить дополнительные сведения о нем на [этой странице](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview).  
-
-      
+      Если клиент не знаком с Microsoft Store для образования, он может получить дополнительные сведения о нем на [этой странице](/microsoft-store/windows-store-for-business-overview).  
 

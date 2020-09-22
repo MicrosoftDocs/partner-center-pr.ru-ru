@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a05e2cc968e96e429390ea63ecb6fe213ab2ca2c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: b37e1ffef291defec0cba03aa9306f7bc82f5cd9
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436573"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999968"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Использование Центра партнеров для продажи клиентам подписок на коммерческие продукты в Marketplace
 
@@ -29,4 +29,4 @@ ms.locfileid: "86436573"
 
 Сведения о том, как партнеры в программе CSP могут использовать коммерческий магазин, см. в статье [Обзор коммерческого рынка для поставщиков облачных решений](csp-commercial-marketplace-overview.md).
 
-Или, чтобы узнать о различных ролях независимых поставщиков программного обеспечения в коммерческом магазине, см. [вопросы и ответы по Marketplace](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide).
+Или, чтобы узнать о различных ролях независимых поставщиков программного обеспечения в коммерческом магазине, см. [вопросы и ответы по Marketplace](/azure/marketplace/marketplace-faq-publisher-guide).

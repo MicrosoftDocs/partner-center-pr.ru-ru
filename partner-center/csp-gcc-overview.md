@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b363f68fadf29024def3488dbe1ccbb334ea1907
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3086ada5238fac6ec993bffa8c852517281c98a3
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947654"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000398"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Продажа Office 365 для государственных организаций в средах GCC для подписок CSP клиентам, отвечающим необходимым требованиям
 
@@ -50,8 +50,7 @@ ms.locfileid: "85947654"
 
 Ресурсы по продуктам.
 
-- [Описание службы Office 365 для государственных организаций](https://technet.microsoft.com/library/mt774581.aspx)
+- [Описание службы Office 365 для государственных организаций](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)
 - [Roadmap.Office.com](https://products.office.com/business/office-365-roadmap)
 - [Центр управления безопасностью Майкрософт](https://www.microsoft.com/TrustCenter/)
 - [Портал служб защиты данных (Майкрософт)](https://aka.ms/STP)
-

@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1ff6252ce36e68f2f17115460a97fa4928daf029
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 03cd603cf65b1e999cf95fd10d76e6ccc6c403e8
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89570633"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999338"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Что делать, если только администратор программы MPN оставил эту компанию?
 
@@ -48,7 +48,7 @@ ms.locfileid: "89570633"
 
 ## <a name="scenario-3-mpn-partner-adminaccount-adminglobal-admin-has-left-the-company-and-there-are-no-other-users-who-can-access-the-companys-azure-ad-this-is-a-complete-loss-of-access"></a>Сценарий 3. администратор партнера MPN, администратор учетной записи или глобальный администратор оставили компанию и не имеют других пользователей, которые могут получить доступ к Azure AD компании. Это полная утрата доступа.
 
-Следуйте инструкциям [администратора перенаправление](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) , чтобы получить неуправляемый каталог от имени администратора Azure Active Directory.
+Следуйте инструкциям [администратора перенаправление](/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) , чтобы получить неуправляемый каталог от имени администратора Azure Active Directory.
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Не уверены, есть ли уже в вашей компании рабочая учетная запись?
 

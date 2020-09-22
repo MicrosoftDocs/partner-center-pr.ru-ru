@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 7f6ca7aa7dddbd9e32690928ee8d48afa5071b14
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 317d1f0295b79b79bf06f1091ae365bc7012b749
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367038"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000238"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Продавайте Microsoft Azure резервирования клиентам с помощью центра партнеров, портал Azure или интерфейсов API.
 
@@ -33,7 +33,7 @@ ms.locfileid: "89367038"
 - Администратор управления пользователями
 
 > [!NOTE]
-> Эта статья относится только к партнерам в программе поставщика облачных решений (CSP). Вместо этого клиенты, использующие другие типы подписок (например, оплата по мере использования, индивидуальные соглашения с клиентами Майкрософт или подписки Соглашение Enterprise), должны читать [эту документацию по резервированию Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations).
+> Эта статья относится только к партнерам в программе поставщика облачных решений (CSP). Вместо этого клиенты, использующие другие типы подписок (например, оплата по мере использования, индивидуальные соглашения с клиентами Майкрософт или подписки Соглашение Enterprise), должны читать [эту документацию по резервированию Azure](/azure/cost-management-billing/reservations).
 
 Партнеры в программе CSP могут предложить своим клиентам Microsoft Azure резервирования. Клиенты могут получить значительную экономию при предварительном резервировании. Резервирование Azure предоставляет клиентам простоту и гибкость следующим образом:
 
@@ -56,9 +56,9 @@ ms.locfileid: "89367038"
 
 |**Сведения о**   |**Прочитайте это**    |
 |:-----------------------------|:-----------------|
-| Документация по резервированию Azure для ваших клиентов | [Что такое резервирования Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+| Документация по резервированию Azure для ваших клиентов | [Что такое резервирования Azure?](/azure/billing/billing-save-compute-costs-reservations)
 |Приобретение резервирований Azure для клиентов в центре партнеров   |[Приобретение резервирований Azure](azure-reservations-buying.md)
 |Управление резервированиями Azure в центре партнеров | [Управление резервированиями Azure в центре партнеров](azure-reservations-manage.md)
 |Определение правильного размера виртуальной машины и проверка использования виртуальной машины клиента   |[Размеры виртуальных машин для максимального использования резервирования Azure](azure-usage.md)   |
-|Приобретение резервирований Azure с помощью API Центра партнеров | [Приобретение услуги Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) в документации для разработчиков в Центре партнеров   |
+|Приобретение резервирований Azure с помощью API Центра партнеров | [Приобретение услуги Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) в документации для разработчиков в Центре партнеров   |
 |Предоставление клиентам разрешения на приобретение собственных резервирований Azure из подписки CSP. | [Предоставление клиентам разрешения на приобретение собственных резервирований Azure](give-customers-permission.md)   |

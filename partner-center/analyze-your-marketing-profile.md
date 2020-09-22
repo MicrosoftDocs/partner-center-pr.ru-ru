@@ -9,12 +9,12 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: a683d7a375ebb3bbb3ef481c3dbfb27cd86bcb86
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 45d40afc64c5c64801841d3cb758b49c8e107de7
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302231"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999648"
 ---
 # <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Анализ бизнес-профиля — Узнайте, насколько хорошо вы Привлекайте целевые клиенты и потенциальные ссылки.
 <!-- 
@@ -52,4 +52,4 @@ https://go.microsoft.com/fwlink/?linkid=849120
 - **Созданные ссылки**: общее число отправленных вами ссылок после того, как клиент выбрал ваш бизнес-профиль.
 
 > [!TIP]
-> По мере того как вы начинаете [отвечать на эти ссылки](responding-to-referrals.md), обязательно просмотрите страницу " [Справочные](referral-insights.md) сведения", чтобы узнать больше о том, как выполняются ваши ссылки.
+> По мере того как вы начинаете [отвечать на эти ссылки](manage-leads.md), обязательно просмотрите страницу " [Справочные](referral-insights.md) сведения", чтобы узнать больше о том, как выполняются ваши ссылки.

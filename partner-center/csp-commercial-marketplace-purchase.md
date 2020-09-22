@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c711a937925cea8b1595fce1811142e4076b4d57
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7533b0791ec8760c6223d6af59c2b7995b34a7bc
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435063"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000508"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Приобретите продукты для коммерческого рынка для своих клиентов в центре партнеров
 
@@ -40,7 +40,7 @@ ms.locfileid: "86435063"
 
 Чтобы приобрести подписку SaaS на основе лицензий в центре партнеров, см. статью [Создание, приостановка или Отмена подписки клиента](create-a-new-subscription.md#create-a-new-subscription).
 
-Вы также можете использовать [API Центра партнеров](https://docs.microsoft.com/partner-center/develop/), чтобы создавать подписки на коммерческий Marketplace для своих клиентов. (Дополнительные сведения об использовании API-интерфейсов центра партнеров см. в статье [Создание подписки для продуктов коммерческого рынка](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).)
+Вы также можете использовать [API Центра партнеров](/partner-center/develop/), чтобы создавать подписки на коммерческий Marketplace для своих клиентов. (Дополнительные сведения об использовании API-интерфейсов центра партнеров см. в статье [Создание подписки для продуктов коммерческого рынка](/partner-center/develop/create-subscription-azure-marketplace-products).)
 
 >[!IMPORTANT]
 > Как партнер в программе CSP, вы можете приобрести подписки SaaS **на основе лицензий** только от издателей ISV в центре партнеров. Это означает, что вы можете приобрести любое предложение SaaS **на основе лицензий** . издатель ISV стал доступным вам, включая [исключительные предложения](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) , к которым у вас есть доступ. Чтобы приобрести или управлять другими, коммерческими предложениями из независимых поставщиков программных продуктов (например, **на основе использования**, лимитных или на основе потребления, включающих приложения Azure, контейнеры или виртуальные машины), необходимо зайти на [портал Azure](https://portal.azure.com/). Дополнительные сведения см. в следующем разделе.
@@ -63,6 +63,6 @@ ms.locfileid: "86435063"
 
 7. Выберите конкретное предложение, а затем щелкните **создать**.
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Управление предложениями коммерческих рынков](csp-commercial-marketplace-purchase.md)

@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc997d302b2ccd4dffa7708a9ec1cad60b09f998
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 87863efd5c4d15c560a488f3cf6ec817c5e34ddc
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949443"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000118"
 ---
 # <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Эксклюзивные предложения от независимых поставщиков программного обеспечения в Marketplace
 
@@ -44,8 +44,8 @@ ms.locfileid: "85949443"
 - Определение партнеров, которые могут приобрести
 - Недоступно партнерам CSP
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
-- Дополнительные сведения о работе ISV в коммерческом магазине см. в статье [поставщики облачных решений](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).
+- Дополнительные сведения о работе ISV в коммерческом магазине см. в статье [поставщики облачных решений](/azure/marketplace/cloud-solution-providers).
 
 - Дополнительные сведения о коммерческой Marketplace см. в статье [Обзор коммерческого рынка для поставщиков облачных решений](csp-commercial-marketplace-overview.md).

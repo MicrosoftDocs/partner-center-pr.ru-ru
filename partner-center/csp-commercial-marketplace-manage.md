@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96c07ee9d03b433992632337d13c561d6334a896
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 1d32f42b2c4bd8e4ec6c659326d1a21385c0642f
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527720"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000518"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Управляйте продуктами и предложениями коммерческих рынков для ваших клиентов
 
@@ -67,7 +67,7 @@ ms.locfileid: "87527720"
 
    - Ссылку можно просмотреть на странице подписок конкретного клиента. Ссылка на этот издатель отображается в строке, связанной с предложением ISV или подпиской, приобретенной для клиента.
 
-   - Ссылку можно [получить с помощью API-интерфейсов центра партнеров](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
+   - Ссылку можно [получить с помощью API-интерфейсов центра партнеров](/partner-center/develop/get-activation-link-by-order-line-item).
 
    > [!NOTE]
    > Чтобы сделать это от имени клиента, может потребоваться скопировать персонализированную ссылку, вставить ее в частный браузер и ввести учетные данные клиента.
@@ -112,7 +112,7 @@ ms.locfileid: "87527720"
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>Управление подписками с помощью API Центра партнеров
 
-Вы также можете использовать API центра партнеров для управления жизненным циклом и управления счетами для ваших подписок. Дополнительные сведения см. [в статье Создание подписки для продуктов коммерческого рынка](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).
+Вы также можете использовать API центра партнеров для управления жизненным циклом и управления счетами для ваших подписок. Дополнительные сведения см. [в статье Создание подписки для продуктов коммерческого рынка](/partner-center/develop/create-subscription-azure-marketplace-products).
 
 ## <a name="next-steps"></a>Дальнейшие действия
 

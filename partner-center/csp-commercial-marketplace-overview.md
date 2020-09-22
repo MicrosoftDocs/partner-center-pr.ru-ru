@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 044f541e519a0f2789f340e9fc7b9fb558e6bb38
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 66fc51901e6c6e72698eaf4a669627b228ee63ba
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444936"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000408"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Общие сведения о коммерческой платформе в Центре партнеров
 
@@ -47,11 +47,11 @@ ms.locfileid: "87444936"
 |Сведения о контрактах и обязанностях партнеров CSP и независимых поставщиков программного обеспечения в коммерческом магазине | [Общие сведения о контракте](csp-commercial-marketplace-contracting.md) |
 
 > [!NOTE]
-> В этом обзоре описывается, как партнеры в программе CSP могут использовать определенные функции коммерческого рынка в центре партнеров. В отличие от партнеров в программе CSP, издатели ISV имеют отдельную роль Marketplace. У них также есть различные функции коммерческого рынка, доступные в центре партнеров. Дополнительные сведения о роли издателей ISV см. в статье [Обзор коммерческого рынка Azure](https://docs.microsoft.com/azure/marketplace/partner-center-portal/commercial-marketplace-overview).
+> В этом обзоре описывается, как партнеры в программе CSP могут использовать определенные функции коммерческого рынка в центре партнеров. В отличие от партнеров в программе CSP, издатели ISV имеют отдельную роль Marketplace. У них также есть различные функции коммерческого рынка, доступные в центре партнеров. Дополнительные сведения о роли издателей ISV см. в статье [Обзор коммерческого рынка Azure](/azure/marketplace/partner-center-portal/commercial-marketplace-overview).
 
 ## <a name="where-to-complete-commercial-marketplace-activities"></a>Где можно выполнять коммерческие действия Marketplace
 
-Как партнер в программе CSP, вы можете выполнить множество коммерческих действий для решений SaaS ISV непосредственно на [панели мониторинга](https://partner.microsoft.com/dashboard) центра партнеров или с помощью [API-интерфейсов центра партнеров](https://docs.microsoft.com/partner-center/develop/). Тем не менее, для выполнения других действий Marketplace может потребоваться обратиться к следующим разделам:
+Как партнер в программе CSP, вы можете выполнить множество коммерческих действий для решений SaaS ISV непосредственно на [панели мониторинга](https://partner.microsoft.com/dashboard) центра партнеров или с помощью [API-интерфейсов центра партнеров](/partner-center/develop/). Тем не менее, для выполнения других действий Marketplace может потребоваться обратиться к следующим разделам:
 
 - [Портал управления Microsoft Azure](https://portal.azure.com/)
 

@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: ba5fe60234c002ad2696de348a1b3b9b1284c149
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: 43a35f91be9ce656157065a3d19b3643ddeff68a
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89280594"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999298"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Managing non-payment, fraud, or misuse in Partner Center (Управление подписками в случае неуплаты, мошенничества или неправильного использования в Центре партнеров)
 
@@ -79,7 +79,7 @@ ms.locfileid: "89280594"
 - Используйте многофакторную проверку подлинности (например, проверку SMS) во время регистрации, чтобы максимально снизить вероятность создания и приобретения учетной записи.
 - Управление удостоверениями и их регистрация с помощью служб (например, службы цифровых удостоверений).
 - Оцените финансовую надежность клиента благодаря строгим системам обнаружения мошенничества с использованием кредитных карт.
-- Установите политику очистки коллекций. Сведения о процессе сбора данных и доступе к подпискам будут затронуты неоплатой. (Вы можете отключить доступ или [приостановить подписки клиента](suspend-a-subscription.md) для неоплаты.)
+- Установите политику очистки коллекций. Сведения о процессе сбора данных и доступе к подпискам будут затронуты неоплатой. (Вы можете отключить доступ или [приостановить подписки клиента](create-a-new-subscription.md#suspend-a-subscription) для неоплаты.)
 
 ### <a name="managing-customer-accounts"></a>Управление учетными записями клиента
 

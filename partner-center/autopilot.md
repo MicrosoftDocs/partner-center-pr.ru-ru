@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a59b0c25b8f5203942e73b549d5ffb9d65d90c36
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 0ae61db0ca040afe67faa3a0883ea033b8f67562
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527660"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999438"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Использование профилей Windows "Автопилот" на новых устройствах для настройки готового интерфейса клиента
 
@@ -37,7 +37,7 @@ ms.locfileid: "87527660"
 
 Если вы еще не знакомы с автопилотом, ознакомьтесь со сведениями в следующих статьях:
 
-- [Общие сведения об автопилоте Windows](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
+- [Общие сведения об автопилоте Windows](/windows/deployment/windows-10-auto-pilot)
 - [Справочное руководство по развертыванию по для автопилота](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>Обзор
@@ -162,7 +162,7 @@ ms.locfileid: "87527660"
 4. Введите имя для списка устройств и нажмите кнопку **Обзор** , чтобы отправить список клиента (в формате CSV-файла) в центр партнеров.
 
     >[!NOTE]
-    >Вы должны получить этот CSV-файл с покупкой устройства. Если вы не получили CSV-файл, вы можете создать его самостоятельно, выполнив действия, описанные в разделе [Добавление устройств в Windows автопилот](https://docs.microsoft.com/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).  
+    >Вы должны получить этот CSV-файл с покупкой устройства. Если вы не получили CSV-файл, вы можете создать его самостоятельно, выполнив действия, описанные в разделе [Добавление устройств в Windows автопилот](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).  
 
 5. Отправьте CSV-файл и нажмите кнопку **сохранить**.
 

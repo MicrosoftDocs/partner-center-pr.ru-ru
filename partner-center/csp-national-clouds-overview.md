@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8f7b29b39cbc4a991accd6821a6b6cd037ccfc54
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: f9d5d0841914f0a8a5dc155307b177606a4a6de6
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114334"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000388"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Используйте для продажи национальных облаков Майкрософт в рамках программы CSP
 
@@ -48,4 +48,4 @@ ms.locfileid: "87114334"
 
     Корпорация Майкрософт является поставщиком технологии, но не предоставляет услуги; 21Vianet независимо обеспечивает работу, предлагает облачные службы Майкрософт и управляет их работой. Путем лицензирования технологий Майкрософт 21Vianet может предлагать службы Azure и Office 365 и управлять центрами обработки данных Azure и Office 365, которые хранят данные на территории материкового Китая. Помимо этого 21Vianet предоставляет услуги по подписке и выставлению счетов, а также поддержку.
 
-    Сведения о регистрации и осуществлении продаж клиентам в Azure и Office 365 под управлением 21Vianet в Китае см. в разделе [Центр партнеров под управлением 21Vianet](https://msdn.microsoft.com/partner-china/index). 
+    Сведения о регистрации и осуществлении продаж клиентам в Azure и Office 365 под управлением 21Vianet в Китае см. в разделе [Центр партнеров под управлением 21Vianet](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).

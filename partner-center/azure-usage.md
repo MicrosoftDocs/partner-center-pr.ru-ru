@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: ba24376bad1d04fcbc9f02d442f0cba7e6354bd3
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: e6c4e3e7a68de720f586754703308a447d7d30c1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367098"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000190"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Размеры виртуальных машин Microsoft Azure для максимального использования резервирования
 
@@ -25,7 +25,7 @@ ms.locfileid: "89367098"
 - Партнеры в программе CSP
  
 > [!NOTE]
-> Эта статья относится только к партнерам в программе поставщика облачных решений (CSP). Вместо этого клиенты, использующие другие типы подписок (например, оплата по мере использования, индивидуальные соглашения с клиентами Майкрософт или подписки Соглашение Enterprise), должны читать [эту документацию по резервированию Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations).
+> Эта статья относится только к партнерам в программе поставщика облачных решений (CSP). Вместо этого клиенты, использующие другие типы подписок (например, оплата по мере использования, индивидуальные соглашения с клиентами Майкрософт или подписки Соглашение Enterprise), должны читать [эту документацию по резервированию Azure](/azure/cost-management-billing/reservations).
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Определение размера виртуальной машины для резервирования Azure клиента
 
@@ -48,7 +48,7 @@ ms.locfileid: "89367098"
 
 1. Используйте значение атрибута ServiceType из additionalInfo в ответе API, чтобы определить нужный размер виртуальной машины.
 
-2. Дополнительные сведения см. в статье [получение записей об использовании клиента для Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) в [API центра партнеров](https://docs.microsoft.com/partner-center/develop/).
+2. Дополнительные сведения см. в статье [получение записей об использовании клиента для Azure](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) в [API центра партнеров](/partner-center/develop/).
 
 ### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Получение сведений о размере виртуальной машины на портале Microsoft Azure
 
@@ -104,7 +104,7 @@ ms.locfileid: "89367098"
     >[!NOTE]
     >Данные об использовании могут отображаться с задержкой до 8 часов.
 
-    а. Если использование резервирования составляет 100%, клиент получает все возможные сокращения, которые может предоставить Покупка резервирования.
+    a. Если использование резервирования составляет 100%, клиент получает все возможные сокращения, которые может предоставить Покупка резервирования.
     b. Если использование резервирования составляет 0%, скидка не применяется ни к одной виртуальной машине.
     c. Если использование резервирования составляет от 1% до 99%, то используются неиспользуемые преимущества.
 
@@ -123,10 +123,10 @@ ms.locfileid: "89367098"
 - consumptionMeter — это MeterId для виртуальной машины, к которой применена скидка за резервирование.
 - ReservationMeter отображает стоимость $0, так как применена скидка за резервирование.
 
-Дополнительные сведения см. в статье [получение записей об использовании клиента для Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) в [API центра партнеров](https://docs.microsoft.com/partner-center/develop/).
+Дополнительные сведения см. в статье [получение записей об использовании клиента для Azure](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) в [API центра партнеров](/partner-center/develop/).
 
 >[!IMPORTANT]
->Стоимость программного обеспечения, например Microsoft Windows Server, в настоящее время не входит в цену резервирования виртуальных машин и отображается в отдельных строках заказа и счета. Тем не менее, если у клиента есть преимущества гибридного использования Azure, стоимость программного обеспечения не учитывается. Дополнительные сведения см. в разделе [Затраты на программное обеспечение Windows, не включенные в зарезервированные экземпляры](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs).  
+>Стоимость программного обеспечения, например Microsoft Windows Server, в настоящее время не входит в цену резервирования виртуальных машин и отображается в отдельных строках заказа и счета. Тем не менее, если у клиента есть преимущества гибридного использования Azure, стоимость программного обеспечения не учитывается. Дополнительные сведения см. в разделе [Затраты на программное обеспечение Windows, не включенные в зарезервированные экземпляры](/azure/billing/billing-reserved-instance-windows-software-costs).  
 
 ## <a name="azure-reservations-resources"></a>Ресурсы о резервированиях Azure
 
@@ -135,7 +135,7 @@ ms.locfileid: "89367098"
 |Обзор резервирований Azure в программе CSP  | [Продажа Microsoft Azure Reserved VM Instances](azure-reservations.md)
 |Приобретение резервирований Azure для клиентов в центре партнеров   | [Приобретение резервирований Azure](azure-reservations-buying.md)
 |Управление резервированиями Azure в центре партнеров | [Управление резервированиями Azure в центре партнеров](azure-reservations-manage.md)
-|Приобретение резервирований Azure на портале Azure | [Предоплата за виртуальные машины с Azure Reserved VM Instances](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) в справке Azure |
-|Управление резервированиями Azure на портале Azure   | [Управление зарезервированными экземплярами виртуальных машин](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) в справке Azure  |
-|Приобретение резервирований Azure с помощью API Центра партнеров | [Приобретение услуги Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) в документации для разработчиков в Центре партнеров   |
+|Приобретение резервирований Azure на портале Azure | [Предоплата за виртуальные машины с Azure Reserved VM Instances](/azure/virtual-machines/windows/prepay-reserved-vm-instances) в справке Azure |
+|Управление резервированиями Azure на портале Azure   | [Управление зарезервированными экземплярами виртуальных машин](/azure/billing/billing-manage-reserved-vm-instance) в справке Azure  |
+|Приобретение резервирований Azure с помощью API Центра партнеров | [Приобретение услуги Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) в документации для разработчиков в Центре партнеров   |
 |Предоставление клиентам разрешения на приобретение собственных резервирований Azure из подписки, приобретенной для них. | [Предоставление клиентам разрешения на приобретение собственных резервирований Azure](give-customers-permission.md)   |

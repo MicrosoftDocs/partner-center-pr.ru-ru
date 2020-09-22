@@ -8,12 +8,12 @@ description: Как партнер Майкрософт, у вас могут в
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b557e3cc5bc7dbb7964809ee5032c2ad2b5c8a9
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 70b9381cf67a54f2e8c7e1c7764610c91fca1b1b
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89041047"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999758"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Материалы по лицензированию для партнеров Майкрософт 
 
@@ -48,7 +48,7 @@ ms.locfileid: "89041047"
 |Ознакомьтесь с дополнительными сведениями о корпоративном лицензировании и лицензировании для конкретных решений  | [Лицензирование Майкрософт — продукты и решения](https://www.microsoft.com/licensing/default) |
 |Сведения о корпоративном лицензировании и ресурсах, которые могут помочь в ценах, предложениях, соглашениях, активации продукта и других средствах корпоративного лицензирования.  | [Обучение Microsoft Partner Network и ресурсы](https://partner.microsoft.com/licensing/training-and-resources) |
 |Ознакомьтесь с учебными материалами по лицензированию **готовности лицензирования**  | [Подготовить лицензирование](https://www.getlicensingready.com/)  |
-|Ознакомьтесь с экзаменом на лицензирование, помогающим в проектировании и предоставлении решений по лицензированию Майкрософт для крупных организаций *(экзамен будет прекращен до 31 января 2021 11:59 PM центрального времени)* .  | [Экзамен 70-705](https://docs.microsoft.com/learn/certifications/exams/70-705) |
+|Ознакомьтесь с экзаменом на лицензирование, помогающим в проектировании и предоставлении решений по лицензированию Майкрософт для крупных организаций *(экзамен будет прекращен до 31 января 2021 11:59 PM центрального времени)* .  | [Экзамен 70-705](/learn/certifications/exams/70-705) |
 
 ## <a name="program-specific-and-product-specific-licensing-terms-and-agreements"></a>Условия лицензирования и соглашения для конкретных программ и продуктов
 
@@ -84,7 +84,7 @@ ms.locfileid: "89041047"
 |Просмотрите цены программы CSP и предложения на панели мониторинга центра партнеров *(для просмотра этой панели мониторинга необходимо зарегистрировать в программе CSP)* .  |[Сведения о ценах и предложениях CSP](pricing-and-offers.md) , а также о [документах и ресурсах CSP](csp-documents-and-learning-resources.md) |
 |Изучите маркетинговые материалы, которые помогут справиться с заказчиком  | [Материалы о готовности партнеров MPN](https://partner.microsoft.com/asset#/?type=marketing-campaigns&area=mrkt)  |
 |Получите помощь от технических предпродажных услуг и служб развертывания Майкрософт в отношении клиентов или онлайн-вариантов  | [Технические сведения о службах, обеспечивающих техническую продажу и развертывание](https://partner.microsoft.com/training/technical-presales-deployment-services) . [Support overview](https://support.microsoft.com/help/3121537/using-technical-presales-and-deployment-services)  |
-|Сведения о том, как активировать Microsoft Azure в открытом лицензировании   | [Вопросы и ответы по активации интерактивной службы для открытых программ](https://docs.microsoft.com/licensing/online-service-activation-faq)  |
+|Сведения о том, как активировать Microsoft Azure в открытом лицензировании   | [Вопросы и ответы по активации интерактивной службы для открытых программ](/licensing/online-service-activation-faq)  |
 |Как и когда следует вычислить и запросить кредит соглашения об уровне обслуживания от корпорации Майкрософт для клиентов, оказывающих сбой  | [Запрос соглашения об уровне обслуживания для сбоя](request-credit.md)   |
 |Получить помощь от сообщества партнеров Майкрософт  | [Форум сообщества партнеров Майкрософт](https://www.microsoftpartnercommunity.com)  |
 

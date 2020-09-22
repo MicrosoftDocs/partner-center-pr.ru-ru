@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b8a9cf07f8dace47346c68ade3707d6b12a1532
-ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
+ms.openlocfilehash: 3c08e897a8f5d7c11b36627b0c24ad2da3f92329
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87900094"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000208"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Получение, инициализация, & управление зарезервированными экземплярами виртуальных машин Azure (RI) и серверными подписками для клиентов
 
@@ -31,12 +31,12 @@ ms.locfileid: "87900094"
 - Администратор управления пользователями
 
 > [!NOTE]
-> Эта статья относится только к партнерам в программе поставщика облачных решений (CSP). Вместо этого клиенты, использующие другие типы подписок (например, оплата по мере использования, индивидуальные соглашения с клиентами Майкрософт или подписки Соглашение Enterprise), должны читать [эту документацию по резервированию Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations).
+> Эта статья относится только к партнерам в программе поставщика облачных решений (CSP). Вместо этого клиенты, использующие другие типы подписок (например, оплата по мере использования, индивидуальные соглашения с клиентами Майкрософт или подписки Соглашение Enterprise), должны читать [эту документацию по резервированию Azure](/azure/cost-management-billing/reservations).
 
 
 ## <a name="what-are-azure-reservations"></a>Общие сведения о резервированиях в Azure
 
-Резервирование Azure помогает экономить деньги за счет предварительной оплаты за один или три года виртуальной машины, объема вычислений базы данных SQL, Azure Cosmos DB пропускной способности или других ресурсов Azure. Предоплата позволяет получить скидку на использование ресурсов. Резервирования могут значительно снизить объем виртуальной машины, вычисление базы данных SQL, Azure Cosmos DB и другие затраты на ресурсы до 72% по сравнению с ценами оплаты по мере использования. Резервирования предоставляют скидку при выставлении счетов и не влияют на состояние выполнения ваших ресурсов. Дополнительные сведения см. в статье [что такое резервирование Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+Резервирование Azure помогает экономить деньги за счет предварительной оплаты за один или три года виртуальной машины, объема вычислений базы данных SQL, Azure Cosmos DB пропускной способности или других ресурсов Azure. Предоплата позволяет получить скидку на использование ресурсов. Резервирования могут значительно снизить объем виртуальной машины, вычисление базы данных SQL, Azure Cosmos DB и другие затраты на ресурсы до 72% по сравнению с ценами оплаты по мере использования. Резервирования предоставляют скидку при выставлении счетов и не влияют на состояние выполнения ваших ресурсов. Дополнительные сведения см. в статье [что такое резервирование Azure?](/azure/billing/billing-save-compute-costs-reservations)
 
 ## <a name="why-should-customers-buy-a-reservation"></a>Почему клиенты должны приобрести резервирование?
 
@@ -60,7 +60,7 @@ ms.locfileid: "87900094"
 - Резервирования базы данных SQL
 - Управляемый экземпляр SQL
 - Azure Cosmos DB
-- Хранилище данных SQL Azure
+- Хранилище данных SQL Azure
 - Службы приложений
 - Azure Databricks резервирования единиц измерения
 - Управляемые диски
@@ -93,7 +93,7 @@ ms.locfileid: "87900094"
 1. Просмотрите обзорную презентацию и сопутствующий вебинар о позиционировании и формировании предложений для клиентов
 2. Изучите руководство по современной коммерции
 3. Изучите раздел "Подписки на Azure RI и серверные подписки: вопросы и ответы"
-4. Ознакомьтесь с информацией об обновлении резервирований Azure и серверных подписок в документе [API Центра партнеров (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)
+4. Ознакомьтесь с информацией об обновлении резервирований Azure и серверных подписок в документе [API Центра партнеров (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances)
 
 ## <a name="resources"></a>Ресурсы
 
@@ -106,19 +106,19 @@ ms.locfileid: "87900094"
 - [Часто задаваемые вопросы о резервировании Azure для партнеров](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
 - [Часто задаваемые вопросы о резервировании Azure и базе данных SQL](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [Клиентская лицензия службы удаленных рабочих столов (RDS) (объявление)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
-- [Azure Reserved VM Instances (портал Azure)](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [Azure Reserved VM Instances (портал Azure)](/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 - [Серверные подписки](csp-software-subscriptions.md)
 - [Общие сведения о базе данных SQL в Azure](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
-- [Резервирования базы данных SQL (портал Azure)](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
-- [Azure Cosmos DB (портал Azure)](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
-- [Управляемый экземпляр SQL (портал Azure)](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
-- [SUSE и Red Hat Enterprise Linux (портал Azure)](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [Резервирования базы данных SQL (портал Azure)](/azure/sql-database/sql-database-reserved-capacity)
+- [Azure Cosmos DB (портал Azure)](/azure/cosmos-db/cosmos-db-reserved-capacity)
+- [Управляемый экземпляр SQL (портал Azure)](/azure/sql-database/sql-database-managed-instance)
+- [SUSE и Red Hat Enterprise Linux (портал Azure)](/azure/virtual-machines/linux/prepay-suse-software-charges)
 - [Red Hat Linux в Azure](https://azure.com/redhat)
 - [SUSE Linux в Azure](https://azure.microsoft.com/overview/linux-on-azure/suse/)
 - [Linux в Azure](https://azure.microsoft.com/overview/linux-on-azure/)
 - [Общие сведения о ценах на Azure](https://azure.microsoft.com/pricing/)
 - [Калькулятор цен Azure](https://azure.microsoft.com/pricing/calculator)
-- [Azure Databricks резервирования единиц измерения](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
+- [Azure Databricks резервирования единиц измерения](/azure/billing/billing-prepay-databricks-reserved-capacity)
 - Прайс-страницы CSP. списки **Microsoft Azure зарезервированные экземпляры** и цены на **программное обеспечение** находятся на странице цен на центр партнеров [& предложения](https://partner.microsoft.com/pcv/sales) .
 
 ### <a name="training"></a>Обучение
@@ -134,17 +134,17 @@ ms.locfileid: "87900094"
 
 Другое полезное обучение включает в себя [модуль лицензирования Azure в университете Partner](https://aka.ms/azure_partner_licensing).
 
-### <a name="operations"></a>Operations
+### <a name="operations"></a>Операции
 
 - [Руководство по современным коммерческим операциям](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (Обновлено): исчерпывающее руководство по ключевым политикам и рабочим аспектам, таким как соглашения, упорядочение по центру партнеров, счета, сведения о прайс-листах, поощрения, файл СВЕРКИ, API/SDK, песочница и общие службы партнеров Azure.
 - [Последние сведения о доступности предложений в странах и матрица валют для клиентов](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
-- [Продажа Microsoft Azure Reserved Instances](https://go.microsoft.com/fwlink/?linkid=872806)
-- [Приобретение резервирований Microsoft Azure от лица клиентов](https://go.microsoft.com/fwlink/?linkid=872807)
-- [Управление резервированиями Azure от лица клиентов](https://go.microsoft.com/fwlink/?linkid=872808)
+- [Продажа Microsoft Azure Reserved Instances](azure-reservations.md)
+- [Приобретение резервирований Microsoft Azure от лица клиентов](azure-reservations-buying.md)
+- [Управление резервированиями Azure от лица клиентов](azure-reservations-manage.md)
 - [Выставление счетов за резервирования Azure](azure-plan-billing.md)
-- [Размеры виртуальных машин для максимального использования резервирования](https://go.microsoft.com/fwlink/?linkid=872810)
-- [API центра партнеров (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)
-- [Службы удаленных рабочих столов](https://docs.microsoft.com/windows-server/remote/remote-desktop-services/welcome-to-rds)
+- [Размеры виртуальных машин для максимального использования резервирования](azure-usage.md)
+- [API центра партнеров (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances)
+- [Службы удаленных рабочих столов](/windows-server/remote/remote-desktop-services/welcome-to-rds)
 
 ## <a name="azure-hybrid-benefit"></a>Преимущество гибридного использования Azure
 

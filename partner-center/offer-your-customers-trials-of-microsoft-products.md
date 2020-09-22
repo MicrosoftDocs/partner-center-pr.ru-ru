@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecf19a5f519333e40d7f5ae8e982ac8d816e8604
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: a51504a5e560f8a8041c448c3e5d9e7f0cfdae07
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444910"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999218"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Предоставьте клиентам 30-дневные бесплатные пробные версии продуктов Майкрософт
 
@@ -79,8 +79,8 @@ ms.locfileid: "87444910"
 
 Вам может потребоваться изменить API-интерфейсы, чтобы обеспечить преобразование бесплатной пробной версии в платную подписку. Дополнительные сведения см. в следующей документации для разработчиков:
 
-- [Преобразование пробной версии подписки в платную](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
-- [Получение списка предложений для преобразования пробных версий](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
+- [Преобразование пробной версии подписки в платную](/partner-center/develop/convert-a-trial-subscription-to-paid)
+- [Получение списка предложений для преобразования пробных версий](/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
 ### <a name="trials-without-conversions"></a>Пробные версии без преобразований
 
