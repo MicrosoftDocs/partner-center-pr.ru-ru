@@ -47,7 +47,7 @@ ms.locfileid: "90740436"
 
    <span data-ttu-id="f9637-123">На странице свойств также отображается связанный с пользователем идентификатор клиента.</span><span class="sxs-lookup"><span data-stu-id="f9637-123">The Properties page also displays the user's associated Tenant ID.</span></span>
 
-   :::image type="content" source="images/id/3-find-id-azure-portal-aad-properties-tenant-id-partial.png" alt-text="Отображает страницу свойств с выделенным полем "идентификатор клиента".":::
+   :::image type="content" source="images/id/3-find-id-azure-portal-aad-properties-tenant-id-partial.png" alt-text="Отображает страницу свойств с выделенным полем идентификатор клиента.":::
 
 ## <a name="find-the-user-object-id"></a><span data-ttu-id="f9637-125">Поиск идентификатора объекта пользователя</span><span class="sxs-lookup"><span data-stu-id="f9637-125">Find the user object ID</span></span>
 
