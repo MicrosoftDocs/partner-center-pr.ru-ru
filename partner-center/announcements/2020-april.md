@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 6ccdba6004e1449b0cf83e65c71714f33e9dadfb
-ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
+ms.openlocfilehash: 886c655b26bf4be65b2c9ad42e3ee2ac78f0d067
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87433903"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999638"
 ---
 # <a name="april-2020-announcements"></a>Объявления за апрель 2020 года
 
@@ -283,7 +283,7 @@ MDATP для серверов 350158a2-f253-4ea3-988e-eef9d1b828cf.
 ### <a name="additional-resources"></a>Дополнительные ресурсы
 
 - Дополнительные сведения см. на странице [Расширенная защита от угроз в Microsoft Defender](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp).
-- Дополнительные сведения о Центре безопасности Azure см. в [документации](https://docs.microsoft.com/azure/security-center/).
+- Дополнительные сведения о Центре безопасности Azure см. в [документации](/azure/security-center/).
 
 ### <a name="questions"></a>Есть вопросы?
 
@@ -761,7 +761,7 @@ _________________
 ### <a name="actions-for-indirect-providers"></a>Действия для непрямых поставщиков
 1. Сообщите основным заинтересованным лицам в своей организации о необходимости прочитать Соглашение с партнером Майкрософт.
 2. Примите условия Соглашения с партнером Майкрософт на [странице с общими сведениями о CSP в Центре партнеров](https://partner.microsoft.com/pcv/dashboard/overview) с помощью учетных данных глобального администратора.
-3. [Проверьте состояние подписания соглашения своими непрямыми торговыми посредниками с помощью API.](https://docs.microsoft.com/partner-center/develop/verify-indirect-reseller-mpa-status)
+3. [Проверьте состояние подписания соглашения своими непрямыми торговыми посредниками с помощью API.](/partner-center/develop/verify-indirect-reseller-mpa-status)
 4. Помогите непрямым торговым посредникам выполнить действия, указанные для них ниже.
 
 Дополнительные сведения и ресурсы доступны на [этой странице коллекции CSP](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/).

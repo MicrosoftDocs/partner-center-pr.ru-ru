@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d07a7d04ca92bb7c40559b127707b09e82f2e4ff
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 8425461747c2cf4978d13ee3c2961ac426231bd5
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435273"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000448"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -142,11 +142,12 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 
 ## <a name="improve-the-visibility-of-your-profile"></a>Улучшение видимости вашего профиля 
 
-- **[Быстро реагируйте на запросы](responding-to-referrals.md)** . После получения автора от клиента быстрый ответ может привести к более точным результатам на страницах поиска для будущих клиентов.
+- **[Быстро реагируйте на запросы](manage-leads.md)** . После получения автора от клиента быстрый ответ может привести к более точным результатам на страницах поиска для будущих клиентов.
+
 - **Будьте аккуратны с тегами**.  Лучше указать меньше тегов, которые лучше всего представляют предложения, решения, предложение стоимости и уникальное положение, и постоянно демонстрируют успех вашей компании.  Это принесет дивиденды в результатах поиска в будущем.
 - **Получайте теги компетенций** от корпорации Майкрософт, чтобы демонстрировать знание наших продуктов.
 - **Получайте теги подтверждения качества** от пользователей, которые ценят результаты вашей работы.
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
-[Реагирование на авторов](responding-to-referrals.md)
+[Реагирование на авторов](manage-leads.md)

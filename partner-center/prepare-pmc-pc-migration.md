@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12b5b94194c6ca65b31af08dbf0dafef5c6ef21c
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220392"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999988"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Подготовка к переходу из Partner Membership Center (PMC) в Центр партнеров
 
@@ -36,7 +36,7 @@ ms.locfileid: "89220392"
 
 В вашей рабочей учетной записи размещаются ваши пользователи Azure AD и сведения о них: пароли, данные профиля, разрешения и т. д. Рабочая учетная запись также содержит группы, приложения и другие сведения, относящиеся к компании и ее безопасности. 
 
-Рабочий адрес электронной почты является частью вашего арендатора Azure Active Directory. Чтобы иметь учетную запись в Центре партнеров, необходим арендатор AAD. Дополнительные сведения об Azure Active Directory см. в статье [Создание каталога в Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+Рабочий адрес электронной почты является частью вашего арендатора Azure Active Directory. Чтобы иметь учетную запись в Центре партнеров, необходим арендатор AAD. Дополнительные сведения об Azure Active Directory см. в статье [Создание каталога в Azure AD](/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
 
 В Центре партнеров вы будете использовать рабочий, а не личный адрес электронной почты для входа в учетную запись.
 
@@ -49,7 +49,7 @@ ms.locfileid: "89220392"
 
 ### <a name="if-you-dont-want-to-use-your-existing-office-365-azure-ad-tenant-for-partner-center-you-can-create-a-new-tenant-prior-to-migrating-from-pmc"></a>Если вы не хотите использовать существующий арендатор Azure AD для Office 365 в Центре партнеров, то можете создать новый арендатор перед миграцией из PMC.
 
-Может быть несколько причин, по которым вы не захотите использовать существующий арендатор Azure AD для настройки учетной записи Центра партнеров. Прежде чем приступить к миграции в Центр партнеров, перейдите на [портал Azure](https://ms.portal.azure.com/#home), чтобы создать арендатор Azure AD. Следуйте указаниям в разделе [Краткое руководство. Создание нового клиента в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant). Настройте учетную запись Центра партнеров с помощью нового арендатора AAD. Для создания арендатора необходимо быть глобальным администратором. 
+Может быть несколько причин, по которым вы не захотите использовать существующий арендатор Azure AD для настройки учетной записи Центра партнеров. Прежде чем приступить к миграции в Центр партнеров, перейдите на [портал Azure](https://ms.portal.azure.com/#home), чтобы создать арендатор Azure AD. Следуйте указаниям в разделе [Краткое руководство. Создание нового клиента в Azure Active Directory](/azure/active-directory/develop/quickstart-create-new-tenant). Настройте учетную запись Центра партнеров с помощью нового арендатора AAD. Для создания арендатора необходимо быть глобальным администратором. 
 
 ### <a name="user-roles-including-guest-user-roles-in-partner-center"></a>Роли пользователей, включая роли гостевых пользователей, в Центре партнеров
 
@@ -132,7 +132,7 @@ ms.locfileid: "89220392"
 
 ### <a name="will-partner-of-record-associations-move-to-partner-center"></a>Будут ли перенесены в Центр партнеров взаимосвязи зарегистрированных партнеров?
 
-Да, никаких изменений для зарегистрированных партнеров не будет. Узнайте больше о [связывании идентификатора партнера с клиентами](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).
+Да, никаких изменений для зарегистрированных партнеров не будет. Узнайте больше о [связывании идентификатора партнера с клиентами](/azure/billing/billing-partner-admin-link-started).
 
 ### <a name="is-there-an-impact-to-incentives-because-of-the-move-to-partner-center"></a>Повлияет ли переход в Центр партнеров на поощрения?
 
@@ -164,6 +164,6 @@ ms.locfileid: "89220392"
 
 Если вы получаете сообщение об ошибке, касающееся вашего участия в программе Web Direct, сделайте следующее:
 
-1. Войдите на сайт portal.Azure.com и создайте новый клиент Azure AD. Дополнительные сведения см. в статье о [создании нового клиента Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-access-create-new-tenant).
+1. Войдите на сайт portal.Azure.com и создайте новый клиент Azure AD. Дополнительные сведения см. в статье о [создании нового клиента Azure AD](/azure/active-directory/fundamentals/active-directory-access-create-new-tenant).
 
 2. После создания нового клиента Azure AD используйте его для перехода из Partner Membership Center в Центр партнеров или для новой регистрации в Центре партнеров.

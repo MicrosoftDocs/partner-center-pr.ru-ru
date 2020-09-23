@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: bcc6534995a7550f0f09d1da2d52cbf676b66c40
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 5390e950689e930b246aaaddcb1a9ef1b1ab6d46
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527510"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000338"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Перевод клиентов на план Azure с существующих предложений Azure CSP
 
@@ -87,7 +87,7 @@ ms.locfileid: "87527510"
 
 - Если у вас есть права доступа администратора к существующей подписке CSP, то после переноса этой подписки ваш доступ сохранится.
 
-Чтобы перевести прямые Соглашения Enterprise для CSP и серверные и облачные регистрации на службы Azure, ознакомьтесь с [управлением выставлением счетов по подпискам Azure для соглашения с партнером Майкрософт](https://docs.microsoft.com/azure/billing/mpa-request-ownership).
+Чтобы перевести прямые Соглашения Enterprise для CSP и серверные и облачные регистрации на службы Azure, ознакомьтесь с [управлением выставлением счетов по подпискам Azure для соглашения с партнером Майкрософт](/azure/billing/mpa-request-ownership).
 
 ### <a name="audit-log"></a>Журнал аудита
 

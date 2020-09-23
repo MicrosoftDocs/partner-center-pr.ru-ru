@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 26de95f4cafb75535280cab56ac1e21071ffef5a
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0ab9adf5fc79ab8125c9caebd7d01ace1719a722
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114902"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000568"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Руководство по переходу с PMC на Центр партнеров
 
@@ -108,6 +108,6 @@ Partner Membership Center (PMC) списывается. Ваша компани�
 
 - [Создание бизнес-профиля для получения потенциальных клиентов от Майкрософт](create-a-marketing-profile.md)
 
-- [Respond to referrals](responding-to-referrals.md) (Ответ на ссылки)
+- [Respond to referrals](manage-leads.md) (Ответ на ссылки)
 
 - [Перенос нескольких компаний в Центр партнеров](move-multiple-companies.md)

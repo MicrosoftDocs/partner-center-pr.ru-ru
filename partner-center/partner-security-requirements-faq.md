@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e11896b734eaa715eb061d5fff04af436f6d0448
-ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
+ms.openlocfilehash: 5695a5478f1fdb9d16c395bb3ea87240fc2cf6f3
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89614161"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999808"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Часто задаваемые вопросы о требованиях к безопасности для партнеров
 
@@ -73,19 +73,19 @@ ms.locfileid: "89614161"
 
     - Косвенные поставщики должны помочь непрямым торговым посредникам перейти в Центр партнеров, если они еще не сделали этого, и стимулировать своих торговых посредников выполнять эти требования.
     - Многофакторная проверка подлинности Azure предоставляется бесплатно всем пользователям в арендаторе клиента с помощью средств безопасности Azure AD по умолчанию. При этом применяется только один метод проверки приложения Authenticator, который предполагает использование одноразовых паролей с ограниченным сроком действия (TOTP).
-    - Дополнительные методы проверки можно применить с помощью номеров SKU [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium), если требуются другие методы (например, с использованием телефонных звонков или текстовых сообщений).
+    - Дополнительные методы проверки можно применить с помощью номеров SKU [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium), если требуются другие методы (например, с использованием телефонных звонков или текстовых сообщений).
     - Партнеры могут также использовать стороннее решение MFA для каждой учетной записи при доступе к коммерческим облачным службам (Майкрософт).
 
 2. **Внедрение платформы "Модель безопасных приложений"**
 
-    Все партнеры, которые разработали пользовательскую интеграцию с помощью каких-либо интерфейсов API (например, Azure Resource Manager, Microsoft Graph, API Центра партнеров и т. д.) или реализовали пользовательскую автоматизацию с помощью таких инструментов, как PowerShell, должны внедрить [платформу "Модель безопасных приложений"](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) для интеграции с облачными службами (Майкрософт). Если этого не сделать, это может привести к нарушению работы из-за развертывания MFA. Приведенные ниже материалы содержат общие сведения и рекомендации по внедрению модели.
+    Все партнеры, которые разработали пользовательскую интеграцию с помощью каких-либо интерфейсов API (например, Azure Resource Manager, Microsoft Graph, API Центра партнеров и т. д.) или реализовали пользовательскую автоматизацию с помощью таких инструментов, как PowerShell, должны внедрить [платформу "Модель безопасных приложений"](/partner-center/develop/enable-secure-app-model) для интеграции с облачными службами (Майкрософт). Если этого не сделать, это может привести к нарушению работы из-за развертывания MFA. Приведенные ниже материалы содержат общие сведения и рекомендации по внедрению модели.
 
-    - [Общие сведения о Модели безопасных приложений](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
+    - [Общие сведения о Модели безопасных приложений](/partner-center/develop/enable-secure-app-model)
     - [Центр партнеров: руководство по Модели безопасных приложений](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-    - [Партнеры по программе CSP: пример кода .NET для реализации Модели безопасных приложений](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
-    - [Партнеры по программе CSP: пример кода Java для реализации Модели безопасных приложений](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
-    - [Документ об аутентификации Центра партнеров](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-    - [Документ о Многофакторной идентификации (MFA) с помощью PowerShell Центра партнеров](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
+    - [Партнеры по программе CSP: пример кода .NET для реализации Модели безопасных приложений](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+    - [Партнеры по программе CSP: пример кода Java для реализации Модели безопасных приложений](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+    - [Документ об аутентификации Центра партнеров](/partner-center/develop/partner-center-authentication)
+    - [Документ о Многофакторной идентификации (MFA) с помощью PowerShell Центра партнеров](/powershell/partnercenter/multi-factor-auth)
 
     Если вы работаете с панелью управления, обратитесь к поставщику по поводу реализации платформы "Модель безопасных приложений".
 
@@ -103,14 +103,14 @@ MFA — это механизм безопасности, при котором 
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>Какова стоимость включения MFA?
 
-Корпорация Майкрософт предоставляет MFA бесплатно благодаря реализации средств безопасности Azure AD по умолчанию. Единственным вариантом проверки, доступным в этой версии MFA, является приложение Authenticator. Если требуется использовать телефонный звонок или SMS, необходимо приобрести лицензию на [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium). Кроме того, вы можете использовать стороннее решение MFA для пользователей в арендаторах партнера. В этом случае вы обязаны обеспечить применение этого решения MFA и его соответствие требованиям.
+Корпорация Майкрософт предоставляет MFA бесплатно благодаря реализации средств безопасности Azure AD по умолчанию. Единственным вариантом проверки, доступным в этой версии MFA, является приложение Authenticator. Если требуется использовать телефонный звонок или SMS, необходимо приобрести лицензию на [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium). Кроме того, вы можете использовать стороннее решение MFA для пользователей в арендаторах партнера. В этом случае вы обязаны обеспечить применение этого решения MFA и его соответствие требованиям.
 
 ### <a name="what-actions-do-i-need-to-take-if-i-already-have-an-mfa-solution"></a>Какие действия необходимо предпринять, если у меня уже есть решение MFA?
 
 Благодаря этим требованиям к безопасности пользователи в арендаторах партнера должны будут проходить аутентификацию с помощью MFA при обращении к коммерческим облачным службам (Майкрософт). Для выполнения этих требований можно использовать сторонние решения. Корпорация Майкрософт больше не предоставляет проверочное тестирование независимых поставщиков удостоверений, чтобы обеспечить совместимость с Azure Active Directory. Чтобы протестировать взаимодействие с продуктом, ознакомьтесь с [этими рекомендациями](https://www.microsoft.com/download/details.aspx?id=56843).
 
 > [!IMPORTANT]
-> Если вы используете стороннее решение, важно убедиться, что оно выдает утверждение со ссылкой на метод проверки подлинности (AMR), содержащее значение MFA. См. сведения о том, как проверить, выдает ли ваше сторонне решение ожидаемое утверждение, в руководстве по [проверке соответствия требованиям к безопасности для партнеров](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements).
+> Если вы используете стороннее решение, важно убедиться, что оно выдает утверждение со ссылкой на метод проверки подлинности (AMR), содержащее значение MFA. См. сведения о том, как проверить, выдает ли ваше сторонне решение ожидаемое утверждение, в руководстве по [проверке соответствия требованиям к безопасности для партнеров](/powershell/partnercenter/test-partner-security-requirements).
 
 ### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>В выполнении операций участвует несколько арендаторов партнера. Нужно ли реализовать MFA для всех?
 
@@ -138,7 +138,7 @@ MFA — это механизм безопасности, при котором 
 
 Корпорация Майкрософт больше не предоставляет проверочное тестирование независимых поставщиков удостоверений, чтобы обеспечить совместимость с Azure Active Directory. Если вы хотите протестировать взаимодействие с продуктом, ознакомьтесь с [этими рекомендациями](https://www.microsoft.com/download/details.aspx?id=56843).
 
-См. сведения о [совместимости с федерацией Azure AD](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-compatibility).
+См. сведения о [совместимости с федерацией Azure AD](/azure/active-directory/hybrid/how-to-connect-fed-compatibility).
 
 ### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>Как можно протестировать MFA в песочнице интеграции?
 
@@ -184,7 +184,7 @@ MFA — это механизм безопасности, при котором 
 
 ### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>Кто должен внедрять Модель безопасных приложений для выполнения требований?
 
-Корпорация Майкрософт представляет безопасную масштабируемую платформу аутентификации для партнеров по программе поставщиков облачных решений (CSP) и поставщиков панели управления (CPV), использующих Многофакторную идентификацию. Дополнительные сведения см. в [этом руководстве](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Все партнеры, которые разработали пользовательскую интеграцию с помощью каких-либо интерфейсов API (например, Azure Resource Manager, Microsoft Graph, API Центра партнеров и т. д.) или реализовали пользовательскую автоматизацию с помощью таких инструментов, как PowerShell, должны внедрить [платформу "Модель безопасных приложений"](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) для интеграции с облачными службами (Майкрософт).
+Корпорация Майкрософт представляет безопасную масштабируемую платформу аутентификации для партнеров по программе поставщиков облачных решений (CSP) и поставщиков панели управления (CPV), использующих Многофакторную идентификацию. Дополнительные сведения см. в [этом руководстве](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Все партнеры, которые разработали пользовательскую интеграцию с помощью каких-либо интерфейсов API (например, Azure Resource Manager, Microsoft Graph, API Центра партнеров и т. д.) или реализовали пользовательскую автоматизацию с помощью таких инструментов, как PowerShell, должны внедрить [платформу "Модель безопасных приложений"](/partner-center/develop/enable-secure-app-model) для интеграции с облачными службами (Майкрософт).
 
 ### <a name="what-is-the-secure-application-model"></a>Что такое Модель безопасных приложений?
 
@@ -192,14 +192,14 @@ MFA — это механизм безопасности, при котором 
 
 ### <a name="how-do-i-implement-the-secure-application-model"></a>Как можно внедрить Модель безопасных приложений?
 
-Все партнеры, которые разработали пользовательскую интеграцию с помощью каких-либо интерфейсов API (например, Azure Resource Manager, Microsoft Graph, API Центра партнеров и т. д.) или реализовали пользовательскую автоматизацию с помощью таких инструментов, как PowerShell, должны внедрить [платформу "Модель безопасных приложений"](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) для интеграции с облачными службами (Майкрософт). Если этого не сделать, это может привести к нарушению работы из-за развертывания MFA. Приведенные ниже материалы содержат общие сведения и рекомендации по внедрению модели.
+Все партнеры, которые разработали пользовательскую интеграцию с помощью каких-либо интерфейсов API (например, Azure Resource Manager, Microsoft Graph, API Центра партнеров и т. д.) или реализовали пользовательскую автоматизацию с помощью таких инструментов, как PowerShell, должны внедрить [платформу "Модель безопасных приложений"](/partner-center/develop/enable-secure-app-model) для интеграции с облачными службами (Майкрософт). Если этого не сделать, это может привести к нарушению работы из-за развертывания MFA. Приведенные ниже материалы содержат общие сведения и рекомендации по внедрению модели.
 
-- [Общие сведения о Модели безопасных приложений](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
+- [Общие сведения о Модели безопасных приложений](/partner-center/develop/enable-secure-app-model)
 - [Центр партнеров: руководство по Модели безопасных приложений](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [Партнеры по программе CSP: пример кода .NET для реализации Модели безопасных приложений](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
-- [Партнеры по программе CSP: пример кода Java для реализации Модели безопасных приложений](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
-- [Документ об аутентификации Центра партнеров](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-- [Документ о Многофакторной идентификации (MFA) с помощью PowerShell Центра партнеров](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
+- [Партнеры по программе CSP: пример кода .NET для реализации Модели безопасных приложений](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [Партнеры по программе CSP: пример кода Java для реализации Модели безопасных приложений](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+- [Документ об аутентификации Центра партнеров](/partner-center/develop/partner-center-authentication)
+- [Документ о Многофакторной идентификации (MFA) с помощью PowerShell Центра партнеров](/powershell/partnercenter/multi-factor-auth)
 
 При использовании панели управления необходимо обратиться к поставщику по поводу реализации платформы "Модель безопасных приложений".
 
@@ -214,7 +214,7 @@ MFA — это механизм безопасности, при котором 
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>Я использую инструменты автоматизации, такие как PowerShell. Как можно внедрить Модель безопасных приложений?
 
-Если ваши инструменты автоматизации предназначены для работы в неинтерактивном режиме и используют учетные данные пользователей для аутентификации, вам нужно реализовать Модель безопасных приложений. Ознакомьтесь с разделом [Secure Application Model](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth) (Модель безопасных приложений), чтобы получить инструкции по внедрению этой платформы.  
+Если ваши инструменты автоматизации предназначены для работы в неинтерактивном режиме и используют учетные данные пользователей для аутентификации, вам нужно реализовать Модель безопасных приложений. Ознакомьтесь с разделом [Secure Application Model](/powershell/partnercenter/multi-factor-auth) (Модель безопасных приложений), чтобы получить инструкции по внедрению этой платформы.  
 
 >[!Note] 
 >Не все инструменты автоматизации предоставляют возможность аутентификации с помощью маркеров доступа. Если вам требуется помощь, чтобы понять, какие изменения необходимо внести, опубликуйте свой вопрос в сообществе [Консультативная группа по обеспечению безопасности в Центре партнеров](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance). 
@@ -292,7 +292,7 @@ CPV нужно будет создать приложение Azure Active Direc
 
 Для проверки учетной записи, которая обращается к ресурсам и проходит многофакторную проверку подлинности, мы будем проверять [утверждение со ссылкой на метод проверки подлинности](https://tools.ietf.org/html/rfc8176), чтобы узнать, указана ли в нем MFA. Некоторые сторонние решения не выдают это утверждение или не добавляют в него значение MFA. Если утверждение отсутствует или в нем нет значения MFA, то невозможно определить, проходила ли аутентифицированная учетная запись многофакторную проверку подлинности. Вам потребуется обратиться к поставщику стороннего решения, чтобы узнать, какие действия необходимо предпринять, чтобы решение выдавало утверждение со ссылкой на метод проверки подлинности.
 
-Если вы не уверены, что ваше стороннее решение выдает ожидаемое утверждение, см. руководство по [проверке соответствия требованиям к безопасности для партнеров](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements).
+Если вы не уверены, что ваше стороннее решение выдает ожидаемое утверждение, см. руководство по [проверке соответствия требованиям к безопасности для партнеров](/powershell/partnercenter/test-partner-security-requirements).
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA не позволяет мне предоставлять поддержку моему клиенту с помощью AOBO. Что мне делать?
 
@@ -302,7 +302,7 @@ CPV нужно будет создать приложение Azure Active Direc
 
 ### <a name="how-can-i-transition-from-baseline-policies-to-security-defaults-or-other-mfa-solutions"></a>Как я могу перейти с базовых политик на использование параметров безопасности по умолчанию или другие решения MFA?
 
-["Базовые" политики Azure Active Directory (Azure AD) будут удалены и заменены](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) "параметрами безопасности по умолчанию", которые предоставляют более полный набор политик защиты для вас и ваших клиентов. [Параметры безопасности по умолчанию](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) могут защитить вашу организацию от атак, направленных на хищение персональных данных.
+["Базовые" политики Azure Active Directory (Azure AD) будут удалены и заменены](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) "параметрами безопасности по умолчанию", которые предоставляют более полный набор политик защиты для вас и ваших клиентов. [Параметры безопасности по умолчанию](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) могут защитить вашу организацию от атак, направленных на хищение персональных данных.
 
 Реализация многофакторной проверки подлинности (MFA) будет отменена из-за аннулирования базовых политик, если вы не перешли от базовых политик к параметрам безопасности по умолчанию или [другим вариантам реализации MFA](partner-security-requirements.md#actions-that-you-need-to-take). Всем пользователям в арендаторах партнеров, выполняющим защищенные MFA операции, необходимо будет пройти проверку MFA. См. подробные [инструкции](partner-security-requirements-mandating-mfa.md).
 Чтобы обеспечить соответствие и свести к минимуму прерывания в работе, выполните одно из следующих действий:
@@ -324,12 +324,12 @@ CPV нужно будет создать приложение Azure Active Direc
 
 ### <a name="resources-for-adopting-secure-application-model"></a>Ресурсы по внедрению Модели безопасных приложений
 
-- [Общие сведения о Модели безопасных приложений](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
+- [Общие сведения о Модели безопасных приложений](/partner-center/develop/enable-secure-app-model)
 - [Центр партнеров: руководство по Модели безопасных приложений](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [Партнеры по программе CSP: пример кода .NET для реализации Модели безопасных приложений](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
-- [Партнеры по программе CSP: пример кода Java для реализации Модели безопасных приложений](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
-- [Документ об аутентификации Центра партнеров](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-- [Документ о Многофакторной идентификации (MFA) с помощью PowerShell Центра партнеров](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
+- [Партнеры по программе CSP: пример кода .NET для реализации Модели безопасных приложений](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [Партнеры по программе CSP: пример кода Java для реализации Модели безопасных приложений](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+- [Документ об аутентификации Центра партнеров](/partner-center/develop/partner-center-authentication)
+- [Документ о Многофакторной идентификации (MFA) с помощью PowerShell Центра партнеров](/powershell/partnercenter/multi-factor-auth)
 
 ## <a name="support"></a>Поддержка
 

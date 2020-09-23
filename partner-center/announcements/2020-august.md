@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: c40af7e33e190b86e29b3a392dcc7df805d729b3
-ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
+ms.openlocfilehash: 774ec29ce6c20f0890d883ab73ab766906b88a92
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89614127"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999628"
 ---
 # <a name="august-2020-announcements"></a>Объявления за август 2020 года
 
@@ -136,7 +136,7 @@ ________________
 
 Вы сможете предоставлять свои услуги отдельным пользователям и командам без централизованного приобретения ИТ-отделом необходимых лицензий. Службы могут охватывать предложения Project и Visio на основе сценариев интеграции с Microsoft 365 и Power Platform. 
 
-Узнайте больше о возможностях партнеров, предоставляемых решениями Visio и Power Platform, из доклада на конференции Microsoft Inspire, посвященном [способам преобразования бизнеса с помощью Microsoft Visio и Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform). Дополнительные сведения см. в [руководстве по самообслуживанию](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins).
+Узнайте больше о возможностях партнеров, предоставляемых решениями Visio и Power Platform, из доклада на конференции Microsoft Inspire, посвященном [способам преобразования бизнеса с помощью Microsoft Visio и Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform). Дополнительные сведения см. в [руководстве по самообслуживанию](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins).
 
 #### <a name="additional-resources"></a>Дополнительные ресурсы
 
@@ -221,7 +221,7 @@ ________________
 ### <a name="next-steps"></a>Next Steps
 
 - Передайте эти сведения соответствующим контактным лицам в своей организации.
-- Дополнительные сведения о продукте см. в [документации по ATP в Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection).
+- Дополнительные сведения о продукте см. в [документации по ATP в Microsoft Defender](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection).
 
 ________________
 

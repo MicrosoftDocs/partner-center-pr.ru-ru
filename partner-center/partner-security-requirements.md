@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 073bef80fe1335ac45ba7ed6a70236a7ce82eecd
-ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
+ms.openlocfilehash: 507c1e579c649ed743af58e2ca167ae016f6e9b6
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88220212"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000028"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>Требования к безопасности для партнеров, использующих Центр партнеров или API-интерфейсы Центра партнеров
 
@@ -54,9 +54,9 @@ ms.locfileid: "88220212"
 
 Чтобы выполнить требования к безопасности для партнеров, необходимо принудительно применять многофакторную проверку подлинности для каждой учетной записи пользователя в арендаторе партнера. Это можно сделать одним из следующих способов.
 
-- Можно реализовать [параметры безопасности Azure AD по умолчанию](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+- Можно реализовать [параметры безопасности Azure AD по умолчанию](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-- Можно приобрести лицензии Azure Active Directory Premium для каждой учетной записи пользователя. Дополнительные сведения см. в статье [Планирование развертывания Многофакторной идентификации Azure на основе облачных служб](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted).
+- Можно приобрести лицензии Azure Active Directory Premium для каждой учетной записи пользователя. Дополнительные сведения см. в статье [Планирование развертывания Многофакторной идентификации Azure на основе облачных служб](/azure/active-directory/authentication/howto-mfa-getstarted).
 
 - Можно использовать стороннее решение, чтобы применять многофакторную проверку подлинности для каждой учетной записи пользователя в арендаторе партнера. Чтобы убедиться, что будет предложено ожидаемое решение, узнайте о том, [как будут применяться требования к безопасности](#how-the-requirements-will-be-enforced).
 
@@ -75,18 +75,18 @@ ms.locfileid: "88220212"
 
 - При использовании этих средств безопасности все политики будут включены одновременно.
 
-- [Параметры безопасности по умолчанию будут недоступны партнерам](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults), использующим [условный доступ](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common).
+- [Параметры безопасности по умолчанию будут недоступны партнерам](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults), использующим [условный доступ](/azure/active-directory/conditional-access/concept-conditional-access-policy-common).
 
 - Блокировка устаревших методов проверки подлинности к партнерам пока применяться не будет. Но так как большинство событий, связанных со скомпрометированными идентификаторами, происходят из-за попыток входа с использованием устаревших методов проверки подлинности, партнерам рекомендуется отказаться от этих старых протоколов.
 
 - Учетная запись синхронизации Azure AD Connect исключена из значений безопасности по умолчанию.
 
-- Дополнительные сведения см. в статьях [Включение многофакторной идентификации для организации](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-get-started) и [Что такое параметры безопасности по умолчанию?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+- Дополнительные сведения см. в статьях [Включение многофакторной идентификации для организации](/azure/active-directory/authentication/concept-mfa-get-started) и [Что такое параметры безопасности по умолчанию?](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 
 > [!NOTE]
 > Параметры безопасности Azure AD по умолчанию являются закономерным упрощением базовых политик защиты. Если вы уже включили базовые политики защиты, настоятельно рекомендуется включить параметры безопасности по умолчанию.
 
-Чтобы перейти с базовых политик на использованием параметров безопасности по умолчанию, прочитайте статью [Что такое параметры безопасности по умолчанию?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+Чтобы перейти с базовых политик на использованием параметров безопасности по умолчанию, прочитайте статью [Что такое параметры безопасности по умолчанию?](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 
 ### <a name="consideration"></a>Оценка
 
@@ -96,17 +96,17 @@ ms.locfileid: "88220212"
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>Есть ли у вас приложение или устройство, которое не поддерживает современную аутентификацию?
 
-При применении многофакторной проверки подлинности устаревшие методы аутентификации на основе таких протоколов, как IMAP, POP3, SMTP и т. д., будут заблокированы, так как они не поддерживают многофакторную проверку подлинности. Чтобы устранить это ограничение, воспользуйтесь функцией, называемой [пароли приложения](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords), чтобы проверить, можно ли еще выполнять аутентификацию в приложении или на устройстве. Вам следует ознакомиться с советами по использованию паролей приложений, приведенных [в этом разделе](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords), чтобы определить, можно ли использовать их в вашей среде.
+При применении многофакторной проверки подлинности устаревшие методы аутентификации на основе таких протоколов, как IMAP, POP3, SMTP и т. д., будут заблокированы, так как они не поддерживают многофакторную проверку подлинности. Чтобы устранить это ограничение, воспользуйтесь функцией, называемой [пароли приложения](/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords), чтобы проверить, можно ли еще выполнять аутентификацию в приложении или на устройстве. Вам следует ознакомиться с советами по использованию паролей приложений, приведенных [в этом разделе](/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords), чтобы определить, можно ли использовать их в вашей среде.
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>Есть ли у вас пользователи Office 365 с лицензиями, связанными с вашим клиентом партнера?
 
-Перед реализацией какого-либо решения рекомендуем выяснить, какую версию Microsoft Office пользователи используют в вашем арендаторе партнера. Ознакомьтесь с [инструкциями по выполнению многофакторной проверки подлинности для развертываний Office 365](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa), прежде чем предпринимать какие-либо действия. Есть вероятность, что у ваших пользователей будут возникать проблемы с подключением таких приложений, как Outlook. Перед применением многофакторной проверки подлинности убедитесь, что вы используете Outlook 2013 с пакетом обновления 1 (SP1) или более поздней версии и в вашей организации включена современная аутентификация. Дополнительные сведения см. в статье [Включение современной проверки подлинности в Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
+Перед реализацией какого-либо решения рекомендуем выяснить, какую версию Microsoft Office пользователи используют в вашем арендаторе партнера. Ознакомьтесь с [инструкциями по выполнению многофакторной проверки подлинности для развертываний Office 365](/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa), прежде чем предпринимать какие-либо действия. Есть вероятность, что у ваших пользователей будут возникать проблемы с подключением таких приложений, как Outlook. Перед применением многофакторной проверки подлинности убедитесь, что вы используете Outlook 2013 с пакетом обновления 1 (SP1) или более поздней версии и в вашей организации включена современная аутентификация. Дополнительные сведения см. в статье [Включение современной проверки подлинности в Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
 
-Чтобы включить современную проверку подлинности для любых устройств под управлением Windows, на которых установлен пакет Microsoft Office 2013, необходимо будет создать два раздела реестра. Дополнительные сведения см. в статье [Enable Modern Authentication for Office 2013 on Windows devices](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) (Включение современной проверки подлинности для Office 2013 на устройствах с Windows).
+Чтобы включить современную проверку подлинности для любых устройств под управлением Windows, на которых установлен пакет Microsoft Office 2013, необходимо будет создать два раздела реестра. Дополнительные сведения см. в статье [Enable Modern Authentication for Office 2013 on Windows devices](/office365/admin/security-and-compliance/enable-modern-authentication) (Включение современной проверки подлинности для Office 2013 на устройствах с Windows).
 
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Существует ли политика, запрещающая вашим пользователям использовать мобильные устройства во время работы?
 
-Важно выявить любую корпоративную политику, запрещающую сотрудникам использовать мобильные устройства во время работы, так как она влияет на тип реализуемого решения многофакторной проверки подлинности. Существуют решения, например на основе [параметров безопасности Azure AD по умолчанию](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults), которые позволяют использовать для проверки только приложение Authenticator. Если в вашей организации есть политика, которая запрещает использовать мобильные устройства, рассмотрите один из следующих вариантов:
+Важно выявить любую корпоративную политику, запрещающую сотрудникам использовать мобильные устройства во время работы, так как она влияет на тип реализуемого решения многофакторной проверки подлинности. Существуют решения, например на основе [параметров безопасности Azure AD по умолчанию](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults), которые позволяют использовать для проверки только приложение Authenticator. Если в вашей организации есть политика, которая запрещает использовать мобильные устройства, рассмотрите один из следующих вариантов:
 
 - Развертывание приложения, поддерживающего временные одноразовые пароли (TOTP), которое может работать в защищенной системе.
 
@@ -124,11 +124,11 @@ ms.locfileid: "88220212"
 
 - Сценарии PowerShell, использующие модули Az, AzureRM, Azure AD, MS Online и т. д.
 
-Приведенный выше список не является исчерпывающим. Поэтому важно выполнить полную оценку любого приложения или службы в вашей среде, которая использует учетные данные пользователя для проверки подлинности. Для применения обязательной многофакторной проверки подлинности следует по возможности выполнить инструкции, приведенные в статье [Enabling the Secure Application Model framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) (Включение платформы "Модель безопасных приложений").
+Приведенный выше список не является исчерпывающим. Поэтому важно выполнить полную оценку любого приложения или службы в вашей среде, которая использует учетные данные пользователя для проверки подлинности. Для применения обязательной многофакторной проверки подлинности следует по возможности выполнить инструкции, приведенные в статье [Enabling the Secure Application Model framework](/partner-center/develop/enable-secure-app-model) (Включение платформы "Модель безопасных приложений").
 
 ## <a name="accessing-your-environment"></a>Оценка своей среды
 
-Чтобы лучше понять, кто или что выполняет аутентификацию, избегая запроса на многофакторную проверку подлинности, рекомендуется проверить действия входа. Лицензия Azure Active Directory Premium дает возможность использовать отчет о событиях входа. Дополнительные сведения см. в разделе [Отчеты о действиях входа на портале Azure Active Directory](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins). Если у вас нет лицензии Azure Active Directory Premium или вам нужно получать эти данные с помощью PowerShell, то вы можете использовать командлет [Get-PartnerUserSignActivity](https://docs.microsoft.com/powershell/module/partnercenter/get-partnerusersigninactivity) из модуля [PowerShell для Центра партнеров](https://www.powershellgallery.com/packages/PartnerCenter/).
+Чтобы лучше понять, кто или что выполняет аутентификацию, избегая запроса на многофакторную проверку подлинности, рекомендуется проверить действия входа. Лицензия Azure Active Directory Premium дает возможность использовать отчет о событиях входа. Дополнительные сведения см. в разделе [Отчеты о действиях входа на портале Azure Active Directory](/azure/active-directory/reports-monitoring/concept-sign-ins). Если у вас нет лицензии Azure Active Directory Premium или вам нужно получать эти данные с помощью PowerShell, то вы можете использовать командлет [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) из модуля [PowerShell для Центра партнеров](https://www.powershellgallery.com/packages/PartnerCenter/).
 
 ## <a name="how-the-requirements-will-be-enforced"></a>Как будут применяться требования
 
@@ -138,7 +138,7 @@ ms.locfileid: "88220212"
 
 Если вы используете Многофакторную идентификацию Azure или параметры безопасности Azure AD по умолчанию, то вам не нужно предпринимать никаких дополнительных действий.
 
-При использовании стороннего решения многофакторной проверки подлинности существует вероятность, что утверждение MFA не выдается. Если это утверждение отсутствует, Azure Active Directory не сможет определить, был ли запрос на аутентификацию выполнен с использованием многофакторной проверки подлинности. Дополнительные сведения о том, как проверить, выдает ли ваше решение ожидаемое утверждение, см. в разделе [Testing the Partner Security Requirements](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements) (Тестирование соответствия требованиям к безопасности для партнеров). 
+При использовании стороннего решения многофакторной проверки подлинности существует вероятность, что утверждение MFA не выдается. Если это утверждение отсутствует, Azure Active Directory не сможет определить, был ли запрос на аутентификацию выполнен с использованием многофакторной проверки подлинности. Дополнительные сведения о том, как проверить, выдает ли ваше решение ожидаемое утверждение, см. в разделе [Testing the Partner Security Requirements](/powershell/partnercenter/test-partner-security-requirements) (Тестирование соответствия требованиям к безопасности для партнеров). 
 
 > [!IMPORTANT]
 > Если ваше стороннее решение не выдает ожидаемое утверждение, необходимо обратиться к поставщику, разработавшему это решение, чтобы выяснить, какие действия следует предпринять.
@@ -150,4 +150,4 @@ ms.locfileid: "88220212"
 - [Сообщество консультативной группы по обеспечению безопасности в Центре партнеров.](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) В сообществе консультативной группы по обеспечению безопасности в Центре партнеров вы можете узнать о предстоящих событиях и задать любые вопросы.
 - [Примеры .NET для Центра партнеров.](https://github.com/microsoft/partner-center-dotnet-samples) Этот репозиторий GitHub содержит примеры, разработанные с использованием .NET, в которых демонстрируется способ реализации платформы "Модель безопасных приложений".
 - [Примеры Java для Центра партнеров.](https://github.com/microsoft/partner-center-java-samples) Этот репозиторий GitHub содержит примеры, разработанные с использованием Java, в которых демонстрируется способ реализации платформы "Модель безопасных приложений".
-- [Многофакторная идентификация с помощью PowerShell для Центра партнеров.](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth) Эта статья содержит подробные сведения о реализации платформы "Модель безопасных приложений" с помощью PowerShell.
+- [Многофакторная идентификация с помощью PowerShell для Центра партнеров.](/powershell/partnercenter/multi-factor-auth) Эта статья содержит подробные сведения о реализации платформы "Модель безопасных приложений" с помощью PowerShell.

@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: c599358b2cfe5603a09fb37e48e897a2f92111bc
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 7d25625eebaf863ed819112439bbf2d6e0f505e1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367288"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000548"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Подтверждение принятия клиентом условий Клиентского соглашения Майкрософт в рамках партнерской программы CSP
 
@@ -96,13 +96,13 @@ ms.locfileid: "89367288"
 
 Для подтверждения принятия клиентом условий Клиентского соглашения Майкрософт можно использовать API или пакет SDK Центра партнеров. Дополнительные сведения об этом API или пакете SDK:
 
-- [Получение метаданных соглашения для Клиентского соглашения Майкрософт](https://docs.microsoft.com/partner-center/develop/get-customer-agreement-metadata)
+- [Получение метаданных соглашения для Клиентского соглашения Майкрософт](/partner-center/develop/get-customer-agreement-metadata)
 
-- [Подтверждение принятия клиентом условий Клиентского соглашения Майкрософт](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent-customer-agreement)
+- [Подтверждение принятия клиентом условий Клиентского соглашения Майкрософт](/partner-center/develop/confirm-customer-consent-customer-agreement)
 
-- [Получение подтверждения принятия клиентом условий клиентского соглашения Майкрософт](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
+- [Получение подтверждения принятия клиентом условий клиентского соглашения Майкрософт](/partner-center/develop/get-confirmation-of-customer-agreement)
 
-- [Получение ссылки для скачивания шаблона клиентского соглашения Майкрософт](https://docs.microsoft.com/partner-center/develop/download-customer-agreement-template)
+- [Получение ссылки для скачивания шаблона клиентского соглашения Майкрософт](/partner-center/develop/download-customer-agreement-template)
 
 ## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>Вариант 2. Принятие клиентом условий в центре администрирования Microsoft 365
 
@@ -115,7 +115,7 @@ ms.locfileid: "89367288"
 - пригласить имеющегося клиента для просмотра и принятия условий соглашения.
 
 >[!NOTE]
-> Вы можете использовать [пакет SDK или API Центра партнеров](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement), чтобы получить состояние прямого принятия Клиентского соглашения Майкрософт.  
+> Вы можете использовать [пакет SDK или API Центра партнеров](/partner-center/develop/get-direct-sign-status-of-customer-agreement), чтобы получить состояние прямого принятия Клиентского соглашения Майкрософт.  
 
 ## <a name="create-a-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>Создание клиента и его приглашение для просмотра и принятия условий соглашения
 

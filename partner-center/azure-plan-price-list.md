@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 980f6429d146757edbab4c97cebfd3616cb48760
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 57e976f2968f0bd6b13f36eb04be9f68577d1389
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527560"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000328"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Прейскурант для новой коммерческой модели в CSP для Azure
 
@@ -104,7 +104,7 @@ ms.locfileid: "87527560"
 
 ## <a name="pricing-api-for-azure-plan"></a>API цен для плана Azure
 
-С помощью [API цен](https://docs.microsoft.com/partner/develop/pricing) можно программными средствами получить сведения о ценах на использование и резервирование в рамках плана Azure. Кроме того, можно получить сведения о курсах валют.
+С помощью [API цен](/partner/develop/pricing) можно программными средствами получить сведения о ценах на использование и резервирование в рамках плана Azure. Кроме того, можно получить сведения о курсах валют.
 
 Для API цен используется не та конечная точка, которая применяется для других API-интерфейсов Центра партнеров. Получаемые сведения охватывают цены на единицы измерения в долларах США за ресурсы плана Azure и цены на резервирование, применяемые к подпискам на план Azure.
 
@@ -113,4 +113,4 @@ ms.locfileid: "87527560"
 >[!NOTE]
 > API цен специально разработан для тарифов в рамках плана Azure. Для ресурсов или резервирований Azure, развернутых в подписках не в рамках плана Azure следует по-прежнему использовать существующий API RateCard и прейскуранты, опубликованные на странице цен и предложений в Центре партнеров. API цен в рамках плана Azure не поддерживает цены на программное обеспечение, продукты из Marketplace или расценки на основе лицензий, такие как тарифы Microsoft 365 или Dynamics 365.
 
-Дополнительные сведения об API-интерфейсах цен и курсов иностранных валют в рамках плана Azure можно найти в [этой подробной документации](https://docs.microsoft.com/partner/develop/pricing).
+Дополнительные сведения об API-интерфейсах цен и курсов иностранных валют в рамках плана Azure можно найти в [этой подробной документации](/partner/develop/pricing).

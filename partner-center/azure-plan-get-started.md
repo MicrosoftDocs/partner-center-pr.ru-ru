@@ -9,12 +9,12 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: cf2d1085b529e1fbd0fad74c4e56d16f789a48e9
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 5ad7bd7c99d7caa044877c98aac6dc5e3ce69420
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943961"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000578"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Начало перехода на тарифы с оплатой по мере использования для плана Azure
 
@@ -45,12 +45,12 @@ ms.locfileid: "86943961"
 Учитывая высокий уровень привилегии партнеров, мы должны обеспечить для каждого пользователя появление запроса MFA при выполнении каждой отдельной проверки подлинности. Это можно сделать одним из следующих способов.
 
 - Можно реализовать Azure AD Premium и применить многофакторную проверку подлинности для каждого пользователя.
-- Можно реализовать [параметры безопасности Azure AD по умолчанию](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+- Можно реализовать [параметры безопасности Azure AD по умолчанию](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 - Реализация стороннего решения и обеспечение применения MFA для каждого пользователя.
 
 Начиная с 1 августа 2019 года все партнеры обязаны применять в своем арендаторе многофакторную проверку подлинности для всех пользователей, включая учетные записи служб. Подробные сведения об этих требованиях к безопасности можно найти в разделе [Требования к безопасности для партнеров](partner-security-requirements.md).
 
-Корпорация Майкрософт рекомендует партнерам осмотрительно использовать RBAC, следуя рекомендациям раздела [Что такое Azure AD Privileged Identity Management?](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)
+Корпорация Майкрософт рекомендует партнерам осмотрительно использовать RBAC, следуя рекомендациям раздела [Что такое Azure AD Privileged Identity Management?](/azure/active-directory/privileged-identity-management/pim-configure)
 
 ## <a name="read-more-about-the-azure-plan"></a>Прочитайте больше о плане Azure:
 

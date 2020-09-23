@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c841c54a115b846fe92d03ca66b530807508b9d
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 094aa585be3114c198a8581b3d23bd4b212393c9
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390401"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999278"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Доступные службы Azure в рамках программы поставщиков облачных решений (CSP) Azure
 
@@ -42,9 +42,9 @@ ms.locfileid: "86390401"
 
 Специальные конфигурации в CSP требуются для следующих служб:
 
-- [StorSimple](https://docs.microsoft.com/azure/storsimple/storsimple-partner-csp-overview)
+- [StorSimple](/azure/storsimple/storsimple-partner-csp-overview)
 
-- [Доменные службы Azure Active Directory](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-csp)
+- [Доменные службы Azure Active Directory](/azure/active-directory-domain-services/active-directory-ds-csp)
 
 - [Хранилище ключей](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
@@ -60,7 +60,7 @@ ms.locfileid: "86390401"
 
 - [Обучение в Xamarin University](https://marketplace.visualstudio.com/items?itemName=ms.xamarin-university)
 
-Чтобы вам было проще начать работу, мы предлагаем видео и документацию по [настройке, приобретению и администрированию Azure DevOps](https://docs.microsoft.com/vsts/billing/csp/set-up-csp-customer) в CSP.
+Чтобы вам было проще начать работу, мы предлагаем видео и документацию по [настройке, приобретению и администрированию Azure DevOps](/vsts/billing/csp/set-up-csp-customer) в CSP.
 
 ## <a name="azure-marketplace-items-in-azure-csp"></a>Элементы Azure Marketplace в Azure CSP
 
@@ -70,7 +70,7 @@ ms.locfileid: "86390401"
 
 - Элементы с поддержкой BYOL: эти элементы доступны. Полный список элементов Azure Marketplace с поддержкой BYOL см. на [этой странице](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol).
 
-- Сторонние элементы Azure Marketplace с оплатой по мере использования: эти элементы доступны, если поставщик опубликован в канале CSP. См. сведения о [продаже подписок на продукты Azure Marketplace](https://aka.ms/marketplaceincsp).
+- Сторонние элементы Azure Marketplace с оплатой по мере использования: эти элементы доступны, если поставщик опубликован в канале CSP. См. сведения о [продаже подписок на продукты Azure Marketplace](csp-commercial-marketplace-overview.md).
 
 - Citrix XenApp Essentials: партнеры могут приобрести XenApp Essentials для клиентов в CSP. Сведения о распространении XenApp Essentials через канал поставщика облачных решений (Майкрософт) см. в [блоге Citrix](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/).
 
@@ -189,6 +189,6 @@ ms.locfileid: "86390401"
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
-- [Узнайте](https://docs.microsoft.com/azure/cloud-solution-provider/overview/partner-center-overview) о доступных возможностях Azure в Центре партнеров.
+- [Узнайте](/azure/cloud-solution-provider/overview/partner-center-overview) о доступных возможностях Azure в Центре партнеров.
 
-- [Создайте](https://docs.microsoft.com/azure/cloud-solution-provider/customer-management/create-new-customer) первого клиента в Azure CSP и разверните службы Azure.
+- [Создайте](/azure/cloud-solution-provider/customer-management/create-new-customer) первого клиента в Azure CSP и разверните службы Azure.

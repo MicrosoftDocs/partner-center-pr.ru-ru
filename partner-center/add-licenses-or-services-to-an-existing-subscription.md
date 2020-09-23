@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89b4a1d552067f7bda553bc96e19a89bdc9f23cd
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468783"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999678"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Добавление лицензий или дополнительных служб в подписку клиента
 
@@ -31,7 +31,7 @@ ms.locfileid: "87468783"
 - Агент по продажам
 - Агент службы технической поддержки
 
-Если клиенту требуются дополнительные лицензии или другая версия с дополнительными службами, вы можете обновить подписку. Дополнительную информацию см. в статье [Переход на другой план Приложений Microsoft 365 для бизнеса](https://go.microsoft.com/fwlink/p/?LinkId=723577).
+Если клиенту требуются дополнительные лицензии или другая версия с дополнительными службами, вы можете обновить подписку. Дополнительную информацию см. в статье [Переход на другой план Приложений Microsoft 365 для бизнеса](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>Обновления, поддерживаемые программой CSP <a id="upgradesubscription"></a>
 
@@ -70,11 +70,12 @@ ms.locfileid: "87468783"
 
 3. Выберите новое предложение и нажмите кнопку **Отправить**.
 
-4. Для переноса некоторых учетных записей пользователей для определенных служб могут потребоваться дополнительные действия. В этом случае в Центре партнеров будет показан список соответствующих учетных записей и служб. Дополнительные сведения см. в статье базы знаний [Проблемы в переназначении лицензий при переключении планов в Office 365](https://go.microsoft.com/fwlink/p/?LinkId=723576).
+4. Для переноса некоторых учетных записей пользователей для определенных служб могут потребоваться дополнительные действия. В этом случае в Центре партнеров будет показан список соответствующих учетных записей и служб. Дополнительные сведения см. в статье базы знаний [Проблемы в переназначении лицензий при переключении планов в Office 365](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
-- [Переход на другой план Microsoft 365 для бизнеса](https://go.microsoft.com/fwlink/p/?LinkId=723577)
+- [Переход на другой план Microsoft 365 для бизнеса](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
 - [Запрос на получение делегированных прав администратора](request-a-relationship-with-a-customer.md)
 

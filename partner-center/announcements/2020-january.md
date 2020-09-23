@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 0ed5d5a0037d9fe11e77c56eca784e9aad93c5a4
-ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
+ms.openlocfilehash: 1b53b675b97a98b8a154998abf0d98d686844281
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88220226"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999588"
 ---
 # <a name="january-2020-announcements"></a>Объявления за январь 2020 года
 
@@ -97,8 +97,8 @@ d2e1a29f-e6b7-424b-82a4-191b58678da1 (GCC High)
 ### <a name="additional-resources"></a>Дополнительные ресурсы
 
 - [Страница продуктов Microsoft 365 для государственных организаций](https://www.microsoft.com/microsoft-365/government/)
-- [Страница, посвященная Teams в GCC High, на сайте документации](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [Настройка Конференц-зала в Microsoft Teams](https://docs.microsoft.com/microsoftteams/room-systems/)
+- [Страница, посвященная Teams в GCC High, на сайте документации](/MicrosoftTeams/plan-for-government-gcc-high)
+- [Настройка Конференц-зала в Microsoft Teams](/microsoftteams/room-systems/)
 
 ### <a name="next-steps"></a>Дальнейшие действия
 
@@ -379,8 +379,8 @@ Biz Apps и Power Platform
 
 - [Домашняя страница Dynamics 365](https://dynamics.microsoft.com/)
 - [Домашняя страница руководств по приложениям смешанной реальности](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [Домашняя страница защиты от мошенничества для Biz Apps](https://docs.microsoft.com/dynamics365/fraud-protection/overview)
-- [Домашняя страница продуктов Power Platform](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
+- [Домашняя страница защиты от мошенничества для Biz Apps](/dynamics365/fraud-protection/overview)
+- [Домашняя страница продуктов Power Platform](/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
 - [Новые аспекты лицензирования Power Apps и Flow в 2020 финансовом году](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Лицензирование Microsoft Dynamics 365](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 

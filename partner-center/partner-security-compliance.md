@@ -9,12 +9,12 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 79fd61827f64a060da2b1ecd8f7eeceedb2fcdc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 1b6c2d56a0747ddf2bd1a821886e371ed698a4a1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220202"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999838"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>Состояние требований к безопасности для партнеров — получение ответов и проверка отчетов о текущем состоянии
 
@@ -37,7 +37,7 @@ ms.locfileid: "89220202"
 Мы хотим убедиться, что каждый пользователь получает запрос защиты MFA при каждой аутентификации. Это можно сделать одним из следующих способов.
 
 - Можно реализовать Azure AD Premium и обеспечить применения MFA для каждого пользователя.
-- Можно реализовать [параметры безопасности Azure AD по умолчанию](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+- Можно реализовать [параметры безопасности Azure AD по умолчанию](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 - Можно реализовать стороннее решение и обеспечить применения MFA для каждого пользователя.
 
 ## <a name="partner-security-requirements-status"></a>Соответствие требованиям к безопасности для партнеров
@@ -53,10 +53,10 @@ ms.locfileid: "89220202"
 
 ### <a name="mfa-configuration-on-a-csp-tenant"></a>MFA configuration on a CSP tenant (Конфигурация MFA в клиенте CSP)
 
-Эта метрика связана с конфигурацией MFA в клиенте CSP, которая ежедневно регистрируется и фиксируется в отчете. Метрика отражает процент включенных учетных записей пользователей, в которых применяется любой из этих [вариантов MFA](https://aka.ms/partner-mfa-get-started). Например:
+Эта метрика связана с конфигурацией MFA в клиенте CSP, которая ежедневно регистрируется и фиксируется в отчете. Метрика отражает процент включенных учетных записей пользователей, в которых применяется любой из этих [вариантов MFA](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started). Например:
 
 - Contoso — это партнер CSP с 110 учетными записями пользователей в клиенте, 10 из которых отключены. 
-- Из 100 оставшихся учетных записей пользователей в 90 применяется один из указанных [вариантов MFA](https://aka.ms/partner-mfa-get-started). Поэтому метрика показывает значение 90 %. 
+- Из 100 оставшихся учетных записей пользователей в 90 применяется один из указанных [вариантов MFA](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started). Поэтому метрика показывает значение 90 %. 
 
 ### <a name="partner-center-activities-with-mfa"></a>Действия в Центре партнеров с использованием MFA
 
@@ -127,7 +127,7 @@ ms.locfileid: "89220202"
 
 ### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>Определение пользователей, который вошли в Центр партнеров без MFA
 
-Может быть полезно определить, какие пользователи входят в Центр партнеров без проверки MFA, и проверить их в соответствии с текущей реализацией MFA. Вы можете использовать [отчет о входе в Azure AD](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins), чтобы узнать, проходил ли пользователь проверку MFA. Отчет о входе в Azure AD сейчас доступен только партнерам, подписавшимся на Azure AD Premium или любой номер SKU Office 365, который включает в себя Azure AD Premium (например, EMS).
+Может быть полезно определить, какие пользователи входят в Центр партнеров без проверки MFA, и проверить их в соответствии с текущей реализацией MFA. Вы можете использовать [отчет о входе в Azure AD](/azure/active-directory/reports-monitoring/concept-sign-ins), чтобы узнать, проходил ли пользователь проверку MFA. Отчет о входе в Azure AD сейчас доступен только партнерам, подписавшимся на Azure AD Premium или любой номер SKU Office 365, который включает в себя Azure AD Premium (например, EMS).
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
