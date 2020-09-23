@@ -6,12 +6,12 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 10/31/2018
-ms.openlocfilehash: b894bd8c4c609cfffb1cdb88e29bb4dc9b937df5
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 4d750f677d54023731cbef587c4ccdea30aafb43
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026482"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007476"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Общие сведения о налоговых формах IRS, присылаемых корпорацией Майкрософт
 
@@ -27,7 +27,7 @@ ms.locfileid: "90026482"
 |1042-S | Связаны с платежами, которые вы получаете и которые облагаются подоходным налогом в соответствии с законодательством США | Печатные формы будут помечаться пометками до **15 марта**, а копии. PDF будут доступны в центре партнеров (в **параметрах разработчика центра партнеров** в разделе **выплата и налоговый > выплата**и налоговые профили) одновременно.  |
 
 > [!NOTE]
-> Адрес, используемый в налоговых формах IRS, поступает из адреса в вашем [налоговом профиле](marketplace-payout-account-setup.md). Если ваш адрес изменился, обязательно обновите адрес в вашем **налоговом профиле**.
+> Адрес, используемый в налоговых формах IRS, поступает из адреса в вашем [налоговом профиле](/azure/marketplace/marketplace-payout-account-setup). Если ваш адрес изменился, обязательно обновите адрес в вашем **налоговом профиле**.
 
 Налоговые формы будут отправлены по следующим адресам:
 
@@ -70,7 +70,7 @@ ms.locfileid: "90026482"
   </tr>
   <tr>
     <td valign="top">Ничего из вышеперечисленного не подходит.</td>
-    <td valign="top">None</td>
+    <td valign="top">Нет</td>
   </tr>
   <tr>
     <td valign="top">&nbsp;</td>
@@ -86,7 +86,7 @@ ms.locfileid: "90026482"
   </tr>
   <tr> 
      <td valign="top">Я заработал(а) <b>менее 600 долларов</b> на рекламе в приложениях в соответствующем налоговом году</td>
-     <td valign="top">None</td>
+     <td valign="top">Нет</td>
   </tr>
 </table>
 

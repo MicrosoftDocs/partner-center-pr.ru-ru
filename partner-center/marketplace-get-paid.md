@@ -6,19 +6,19 @@ ms.topic: conceptual
 ms.date: 06/09/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: dddab384cfb790d7907f65c1b1af160cc2082417
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: e75d10db14292ea0d2aa9ee391e0f1582252e732
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026508"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007398"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Получение платежей на коммерческой платформе
 
 Ниже приведены некоторые важные сведения, касающиеся получения платежей за ваши предложения и дополнения, а также заработка на рекламе.
 
 > [!IMPORTANT]
-> Прежде чем вы сможете получать деньги с продаж предложения на коммерческой платформе, необходимо [настроить счет для выплат и заполнить необходимые налоговые формы](marketplace-payout-account-setup.md).
+> Прежде чем вы сможете получать деньги с продаж предложения на коммерческой платформе, необходимо [настроить счет для выплат и заполнить необходимые налоговые формы](/azure/marketplace/marketplace-payout-account-setup).
 
 ## <a name="store-fee"></a>Комиссия Магазина
 
