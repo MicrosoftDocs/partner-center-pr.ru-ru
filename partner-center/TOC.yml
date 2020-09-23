@@ -191,6 +191,8 @@
           href: connector-dynamics.md
         - name: "Соединитель для совместных продаж для Salesforce CRM\_— обзор"
           href: connector-salesforce.md
+        - name: Устранение проблем с соединителями рефералов при совместных продажах
+          href: connectors-troubleshoot.md
         - name: 'Возможности совместных продаж для партнеров, которые переходят с Partner Sales Connect (PSC)'
           href: psc-to-pc.md
         - name: Регистрация сделок
@@ -301,6 +303,10 @@
           href: license-based-billing.md
         - name: Сценарии использования подписок SaaS на основе лицензий
           href: common-billing-scenarios-saas.md
+        - name: Выставление счетов за предложения коммерческой платформы
+          href: csp-commercial-marketplace-billing.md
+        - name: Оплата на Marketplace
+          href: marketplace-get-paid.md
     - name: "Просмотр данных о цифровых подписях\_— Центр партнеров (Индия)"
       href: digital-signature.md
     - name: Налоги и освобождение от уплаты налогов
@@ -308,12 +314,20 @@
       items:
         - name: Сведения об НДС компании
           href: organization-tax-info.md
+        - name: Сведения об НДС при регистрации в Центре партнеров
+          href: vat-info.md
         - name: Получение кредита для удержания налогов
           href: withholding-tax-credit-form.md
         - name: "Региональные налоговые службы\_— голосовые службы"
           href: tax-and-fees-voice-services.md
-    - name: Запрос на кредиты в рамках соглашения об уровне обслуживания от Майкрософт
-      href: request-credit.md
+        - name: Сведения о налогах для издателей коммерческих платформ
+          href: tax-details-marketplace.md
+        - name: 'Общие сведения о налоговых формах IRS, присылаемых корпорацией Майкрософт'
+          href: understand-irs-tax-forms.md
+        - name: Настройка счета для выплат и налоговых форм
+          href: set-up-your-payout-account.md
+        - name: Запрос на кредиты в рамках соглашения об уровне обслуживания от Майкрософт
+          href: request-credit.md
     - name: Установка расходного бюджета Azure для клиентов
       href: set-an-azure-spending-budget-for-your-customers.md
     - name: 'Управление сценариями неплатежа, мошенничества или неправильного использования'
@@ -360,8 +374,6 @@
           href: isv-opt-in.md
         - name: Управление предложениями коммерческой платформы
           href: csp-commercial-marketplace-manage.md
-        - name: Выставление счетов за предложения коммерческой платформы
-          href: csp-commercial-marketplace-billing.md
         - name: Поддержка предложений коммерческой платформы
           href: csp-commercial-marketplace-support.md
         - name: Контракты для покупок на коммерческой платформе
