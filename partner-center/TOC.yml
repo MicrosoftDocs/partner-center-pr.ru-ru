@@ -418,6 +418,8 @@
           href: azure-plan-manage.md
         - name: Возобновление использования привилегий администратора для подписок Azure в CSP
           href: revoke-reinstate-csp.md
+        - name: Перенос подписок Azure
+          href: switch-azure-subscriptions-to-a-different-partner.md
     - name: Подписки на программное обеспечение
       href: csp-software-subscriptions.md
     - name: Продажа локального программного обеспечения через программу CSP
@@ -463,8 +465,6 @@
           href: migrate-office365-e4-subscriptions-to-newer-versions.md
         - name: "Перенос Skype для бизнеса Online План\_1 в новые версии Office\_365"
           href: skype-retiring.md
-        - name: Перенос подписок Azure
-          href: switch-azure-subscriptions-to-a-different-partner.md
         - name: "Перенос подписок Kaizala Pro в Microsoft\_365"
           href: migrate-kaizala-pro-partner.md
     - name: "Консультанты по продажам Office\_365"
