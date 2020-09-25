@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 24bd05fd5f860c0c7938a831f023740afd32c5b1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2d3910192b08db481d73a221d9a243f8467570f9
+ms.sourcegitcommit: 9e2786bb4348c2a7e051415d670dd055d50dac34
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999458"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "91110657"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,7 @@ ms.locfileid: "90999458"
 
 | **Категория** | **Объявления за сентябрь 2020 г.** | **Объявлено** |
 |---------|:---------|:---------|
+|Характеристики|[Аналитика Центра партнеров — ваш единый ресурс отчетности для анализа бизнес-процессов с помощью решений Майкрософт.](2020-september.md#10)|23 сентября|
 |Предложения и рынки|[Объявление об общей доступности SQL Azure для пограничных вычислений](2020-september.md#9)|22 сентября|
 |Характеристики|[Предстоящие изменения в API использования Office 365 для CSP и отчетах об использовании лицензий CSP за 30 сентября 2020 г.](2020-september.md#8)|17 сентября|
 |Характеристики|[Обновление MPA для непрямых торговых посредников Действие, требуемое для пользователей API MPA и новых отчетов об MPA](2020-september.md#7)|16 сентября|

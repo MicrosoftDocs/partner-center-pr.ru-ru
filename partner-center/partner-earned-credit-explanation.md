@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31c82b52bf59c117f4605978f9903a4a2ef2adc8
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: f320896ac48a0de740a0d7bb02664648505a6bbe
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564695"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999868"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Как вычисляются и выплачиваются партнерские баллы
 
@@ -44,7 +44,7 @@ ms.locfileid: "89564695"
 
 - Партнерский кредит начисляется на уровне ресурсов Azure. Если у партнера есть действительный доступ на уровне подписки или группы ресурсов, то каждый ресурс, чья роль связана с сущностью более высокого уровня, будет приносить партнерский кредит.  
 
-- Сведения о партнерских баллах также будут доступны в [Управлении затратами Azure](https://go.microsoft.com/fwlink/?linkid=2106482).
+- Сведения о партнерских баллах также будут доступны в [Управлении затратами Azure](/azure/cost-management-billing/costs/get-started-partners).
 
 ## <a name="azure-cost-management"></a>Azure Cost Management
 
@@ -78,4 +78,3 @@ ms.locfileid: "89564695"
 - [Управление подписками и ресурсами в плане Azure](azure-plan-manage.md)
 
 - [Отзыв или возобновление использования привилегий администратора для подписок Azure в CSP](revoke-reinstate-csp.md)
-

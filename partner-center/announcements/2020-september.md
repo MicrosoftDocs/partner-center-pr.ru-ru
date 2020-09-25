@@ -8,19 +8,141 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/01/2020
-ms.openlocfilehash: 0bf31dd474087ae7f4b3c6c8924309d177de922b
-ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
+ms.date: 09/16/2020
+ms.openlocfilehash: a2703a89bd1fa1b29948b2e8c1edfed22dba8ac1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "90574400"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999468"
 ---
 # <a name="september-2020-announcements"></a>Объявления за сентябрь 2020 г.
 
 Эта страница содержит подробные сведения об объявлениях для Центра партнеров Майкрософт за сентябрь 2020 г.
 
 Объявления за 2020 год: [Февраль](2020-february.md) | [Март](2020-march.md) | [апреля](2020-april.md) | [Май](2020-may.md) | [Июнь](2020-june.md) | [Июль](2020-july.md) | [Август](2020-august.md) | Сентябрь
+
+________________
+
+## <a name="announcing-the-general-availability-of-azure-sql-edge"></a><a name="9"></a>Объявление об общей доступности SQL Azure для пограничных вычислений
+
+### <a name="categories"></a>Категории
+
+- Дата: 22.09.2020
+- Предложения и рынки
+
+### <a name="impacted-audience"></a>Затронутая аудитория
+
+Местные организации и партнеры Майкрософт 
+
+### <a name="summary"></a>Итоги 
+
+Теперь доступно решение "SQL Azure для пограничных вычислений", которое обеспечивает наиболее безопасный механизм обработки данных Microsoft SQL для шлюзов и пограничных устройств Интернета вещей.
+
+### <a name="details"></a>Подробнее
+
+Сообщаем о доступности SQL Azure для пограничных вычислений, подсистемы обработки данных в режиме реального времени, оптимизированной для рабочих нагрузок Интернета вещей. Это контейнерное решение, созданное на основе того же механизма, что и SQL Server, а также SQL Azure. Решение обеспечивает такой же наивысший в отрасли уровень безопасности, привычный интерфейс для разработки, а также инструментарий, который уже знаком множеству команд и пользуется их доверием.
+Решение "SQL Azure для пограничных вычислений" станет доступно для приобретения участниками программы "Поставщик облачных решений" (CSP) в **четверг, 24 сентября**.
+
+[SQL Azure для пограничных вычислений](https://aka.ms/sqledge) — это небольшой ресурсоэффективный контейнер, который обеспечивает потоковую передачу данных, хранилище и средства аналитики для получения полезных сведений в реальном времени. Развертывание на пограничных серверах, устройствах и в шлюзах в средах с подключением и без подключения или в гибридных средах.
+
+В SQL Azure для пограничных вычислений предусмотрены упрощенные цены, адаптированные к развертываниям Интернета вещей, — всего от 60 долл. США в год на каждое устройство в рамках обязательства на три года или от 10 долл. США в месяц на подписку на устройство.
+
+### <a name="next-stepsadditional-resources"></a>Дальнейшие действия и дополнительные ресурсы:
+
+- Просмотрите [блог с объявлениями с Ignite 2020](https://aka.ms/sqledge-ga)
+- Начните работу уже сегодня или просмотрите технические документы, практические примеры и другие материалы на веб-сайте [SQL для пограничных вычислений](https://aka.ms/sqledge)
+
+________________
+
+## <a name="upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports-on-september-30-2020"></a><a name="8"></a>Предстоящие изменения в API использования Office 365 для CSP и отчетах об использовании лицензий CSP за 30 сентября 2020 г.
+
+### <a name="categories"></a>Категории
+
+- Дата: 17.09.2020
+- Характеристики
+
+### <a name="impacted-audience"></a>Затронутая аудитория
+
+Все партнеры, заключающие сделки в рамках программы "Поставщик облачных решений" (CSP) в Центре партнеров. 
+
+### <a name="summary"></a>Итоги 
+
+Интерфейсы API использования Office 365 в рамках CSP будут обновлены, чтобы партнерам было проще составить представление о своем использовании Office 365.
+
+### <a name="details"></a>Подробнее
+
+С 30 сентября 2020 г. для метрик использования Office 365 в рамках CSP будет проводиться обновление. Мы будем использовать новые метрики, такие как PAU (доступные оплачиваемые единицы) и MAU (активные пользователи за месяц), которые помогут вам определить показатель использования Office 365. 
+
+В рамках этого изменения будут обновлены следующие интерфейсы API использования лицензий в рамках CSP:  
+
+1. [API сведений об использовании лицензий](/partner-center/develop/get-licenses-usage-information);
+
+2. [API сведений об использовании лицензий клиентами](/partner-center/develop/get-customer-licenses-usage-information);
+
+3.  [API сведений об использовании лицензий партнерами](/partner-center/develop/get-partner-licenses-usage-information).
+
+Кроме того, мы введем новый API, который будет предоставлять показатель MAU (активные пользователи за месяц) на рабочую нагрузку для каждого управляемого клиента.
+
+Дополнительные сведения об этих обновлениях можно найти [здесь](https://partner.microsoft.com/resources/detail/guide-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports-pdf).
+
+Помимо этого, мы обновим раздел разбивки данных об использовании клиентами в [отчете об анализе использования лицензий в рамках CSP](https://partner.microsoft.com/dashboard/analytics/usageanalytics). С 30 сентября 2020 г. в отчет будут входить сведения об активном использовании Exchange, SharePoint и Skype или Teams за месяц.
+
+### <a name="next-stepsadditional-resources"></a>Дальнейшие действия и дополнительные ресурсы:
+
+Передайте эти сведения другим сотрудникам в своей организации. Дополнительные сведения см. в [коллекции Operations](https://partner.microsoft.com/resources/collection/upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports#/).
+________________
+
+## <a name="indirect-reseller-mpa-update-action-required-for-users-of-the-mpa-api-and-new-mpa-reporting"></a><a name="7"></a>Обновление MPA для косвенных торговых посредников. Действие, требуемое для пользователей API MPA и новых отчетов об MPA
+
+### <a name="categories"></a>Категории
+
+- Дата: 16.09.2020
+- Характеристики
+
+### <a name="impacted-audience"></a>Затронутая аудитория
+
+Косвенные поставщики
+
+### <a name="details"></a>Подробнее
+
+#### <a name="mpa-implementation-update"></a>Обновление внедрения MPA
+
+Второй этап реализации Соглашения с партнером Майкрософт (МРА) для косвенных торговых посредников будет выполняться в течение следующих нескольких месяцев. Если косвенных торговые посредники не примут условия MPA, это скажется на их возможности создавать новых клиентов или размещать новые заказы (включая продление) для существующих клиентов в рамках программы "Поставщик облачных решений".
+
+Действия:
+
+- Используйте обновленный API и отчеты Центра партнеров, упомянутые ниже, чтобы получить представление о состоянии принятия условий MPA косвенными торговыми посредниками.
+- Обратитесь к косвенным торговым посредникам, которые не приняли условия MPA, и предоставьте им [пошаговые инструкции](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/) в соответствии с этапом их регистрации в программе "Поставщик облачных решений".
+- Просмотрите [уведомления](https://partner.microsoft.com/resources/collection/reseller-emails-mpa-implementation#/), которые ежемесячно будут получать ваши косвенные торговые посредники начиная с сентября.
+
+#### <a name="updated-api"></a>Обновленный API
+
+В ноябре запланированы изменения в существующем API, который позволяет косвенным поставщикам проверять состояние принятия условий MPA их косвенными торговыми посредниками. Партнеры могут подавать заявки на доступ к обновленному API до ноября. Для этого нужно выполнить приведенные ниже инструкции. Партнерам, использующим этот API, необходимо задействовать свою ИТ-команду для тестирования и реализации обновлений. 
+
+- **Если вы являетесь пользователем API в рамках MPA и не обновите API, 1 ноября 2020 г. будут происходить сбои.** 
+- Если в обновленном API условия MPA не были приняты косвенным торговым посредником, для косвенного поставщика отобразится код ошибки и сообщение об ошибке. В [документации по API](/partner-center/develop/verify-indirect-reseller-mpa-status#csp-indirect-reseller-mpn-id-is-either-invalid-or-not-migrated-from-partner-membership-center-to-partner-center) есть ссылки на дополнительные сведения для каждого кода ошибки. Там вы найдете инструкции по исправлению, которые можно передать косвенным торговым посредникам. 
+
+Действия:
+- Чтобы получить доступ к обновленному API до 1 ноября 2020 г., заполните [эту форму](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR__XoYTV7iZJhSXvcfTPzq1UOTVRM1M4WlRGVzdDS1RRWElTUjVNRFBaWS4u), указав идентификаторы арендаторов (для среды тестирования или рабочей среды). Доступ будет предоставлен в течение 48 часов.
+- Задействуйте ИТ-команду, чтобы реализовать обновленный API, и проверьте состояние принятия условий MPA косвенным торговым посредником. Дополнительные сведения об обновлениях API можно найти в [документации по API](/partner-center/develop/verify-indirect-reseller-mpa-status#csp-indirect-reseller-mpn-id-is-either-invalid-or-not-migrated-from-partner-membership-center-to-partner-center).
+- Посетите предстоящие серии вебинаров, посвященные обновлениям API и созданию отчетов в Центре партнеров, чтобы получить пошаговые инструкции. Примите участие в следующих мероприятиях: 
+
+- [15 сентября, 8:30 по тихоокеанскому времени](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjM5NjUwYzEtYzU5Yy00YWI5LWJkNTctY2FlZTM3YjdiMDEy%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [16 сентября, 19:30 по тихоокеанскому времени](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjhlN2Y3OTQtMTI3NC00NGYzLTk5MGEtM2YxZmFiOGUyZWYy%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [22 сентября, 8:30 по тихоокеанскому времени](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODcyODcxYTAtM2M2Mi00NGFkLWIyMDUtNWYwZDc4YjkyOTkz%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [23 сентября, 19:30 по тихоокеанскому времени](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzJmOWJkNTgtNWZlMy00OGE3LTg1NTQtOTQ0YjE4OTlkMmJm%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [29 сентября, 8:30 по тихоокеанскому времени](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTdiMGNhMmMtYjkwZi00MTE0LWE3MDYtOWFlNDhiNjkwNDc1%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [30 сентября, 19:30 по тихоокеанскому времени](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGRiNTFhNWMtNDU5My00NGY4LTlhZDctZTA2MDE5MjE2ZTQ0%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+
+#### <a name="mpa-reporting-in-partner-center"></a>Отчеты об MPA в Центре партнеров
+
+1. Просмотрите отчет об MPA, чтобы получить сведения о косвенных торговых посредниках с учетной записью в Центре партнеров и состоянии принятия ими условий MPA. Чтобы просмотреть отчет, войдите в Центр партнеров и перейдите к разделу **Анализ / Аналитические данные о торговом посреднике** в меню слева.
+
+2. Чтобы скачать отчет, щелкните значок скачивания в правой части.
+3. Откройте пустой файл Excel и перетащите в него скачанный TSV-файл.
+
+Примечание. Если у косвенного торгового посредника есть по крайней мере один арендатор, который принял условия MPA в том же регионе, дополнительные действия от него не требуются. 
 
 ________________
 
@@ -42,7 +164,7 @@ ________________
 - Visio — [план 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) и [план 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab);
 - Project — [план 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) и [план 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab).
 
-Примечание.  Возможности самостоятельной покупки в настоящее время недоступны в Индии, Бразилии, Демократической Республике Конго а также для клиентов, для которых доступны предложения для государственных и образовательных учреждений.  Подробные сведения о доступности и новости см. в [часто задаваемых вопросах о самостоятельном приобретении](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/self-service-purchase-faq?view=o365-worldwide&preserve-view=true).
+Примечание.  Возможности самостоятельной покупки в настоящее время недоступны в Индии, Бразилии, Демократической Республике Конго а также для клиентов, для которых доступны предложения для государственных и образовательных учреждений.  Подробные сведения о доступности и новости см. в [часто задаваемых вопросах о самостоятельном приобретении](/microsoft-365/commerce/subscriptions/self-service-purchase-faq?preserve-view=true&view=o365-worldwide).
 
 #### <a name="partner-benefits"></a>Преимущества для партнеров
 
@@ -52,7 +174,7 @@ ________________
 ### <a name="next-steps"></a>Дальнейшие действия
 
 - Ознакомьтесь с коллекцией ресурсов, посвященных подготовке к работе: [Возможность самостоятельного приобретения для клиентов](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/). Узнайте больше о возможностях партнеров, предоставляемых решениями Visio и Power Platform, из доклада на конференции Microsoft Inspire, посвященного [способам преобразования бизнеса с помощью Microsoft Visio и Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform).
-- Дополнительные сведения см. в [руководстве по самообслуживанию для администраторов](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide&preserve-view=true).
+- Дополнительные сведения см. в [руководстве по самообслуживанию для администраторов](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?preserve-view=true&view=o365-worldwide).
 
 ________________
 
@@ -117,7 +239,7 @@ ________________
 
 Все партнеры.
 
-### <a name="summary"></a>Сводка
+### <a name="summary"></a>Итоги
 
 В интерфейсе поддержки программы поощрения для партнеров расширены возможности обнаружения материалов для самостоятельного решения вопросов и упрощена отправка интерактивных запросов.
 
@@ -267,6 +389,6 @@ ________________
 ### <a name="next-steps"></a>Дальнейшие действия
 
 - Передайте эти сведения соответствующим контактным лицам в своей организации.
-- Дополнительные сведения о продукте см. в [документации по ATP в Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection).
+- Дополнительные сведения о продукте см. в [документации по ATP в Microsoft Defender](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection).
 
 ________________

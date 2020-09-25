@@ -303,6 +303,8 @@
           href: license-based-billing.md
         - name: Сценарии использования подписок SaaS на основе лицензий
           href: common-billing-scenarios-saas.md
+    - name: Сценарии выставления счетов и выплат в Marketplace
+      items:
         - name: Выставление счетов за предложения коммерческой платформы
           href: csp-commercial-marketplace-billing.md
         - name: Оплата на Marketplace
