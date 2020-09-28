@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 2d3910192b08db481d73a221d9a243f8467570f9
-ms.sourcegitcommit: 9e2786bb4348c2a7e051415d670dd055d50dac34
+ms.openlocfilehash: 5b43a837bfa90685d13ff96656c9129113f058d9
+ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "91110657"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "91206296"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,7 @@ ms.locfileid: "91110657"
 
 | **Категория** | **Объявления за сентябрь 2020 г.** | **Объявлено** |
 |---------|:---------|:---------|
+|Характеристики|[Выпуск пакета SDK для .NET Standard версии 1.16.2](2020-september.md#11)|22 сентября|
 |Характеристики|[Аналитика Центра партнеров — ваш единый ресурс отчетности для анализа бизнес-процессов с помощью решений Майкрософт.](2020-september.md#10)|23 сентября|
 |Предложения и рынки|[Объявление об общей доступности SQL Azure для пограничных вычислений](2020-september.md#9)|22 сентября|
 |Характеристики|[Предстоящие изменения в API использования Office 365 для CSP и отчетах об использовании лицензий CSP за 30 сентября 2020 г.](2020-september.md#8)|17 сентября|
