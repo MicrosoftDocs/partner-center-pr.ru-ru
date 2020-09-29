@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 5b43a837bfa90685d13ff96656c9129113f058d9
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.openlocfilehash: 9c92966788a8d00cc86776b996b3484a9bff8d59
+ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "91206296"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91372794"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,7 @@ ms.locfileid: "91206296"
 
 | **Категория** | **Объявления за сентябрь 2020 г.** | **Объявлено** |
 |---------|:---------|:---------|
+|Характеристики|[Предстоящие изменения в федеральном налоговом законодательстве России](2020-september.md#12)|25 сентября|
 |Характеристики|[Выпуск пакета SDK для .NET Standard версии 1.16.2](2020-september.md#11)|22 сентября|
 |Характеристики|[Аналитика Центра партнеров — ваш единый ресурс отчетности для анализа бизнес-процессов с помощью решений Майкрософт.](2020-september.md#10)|23 сентября|
 |Предложения и рынки|[Объявление об общей доступности SQL Azure для пограничных вычислений](2020-september.md#9)|22 сентября|
