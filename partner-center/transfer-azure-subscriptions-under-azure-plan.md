@@ -71,17 +71,17 @@ ms.locfileid: "91422600"
 3.  <span data-ttu-id="deb37-144">Выберите раздел **запрос на перемещение** .</span><span class="sxs-lookup"><span data-stu-id="deb37-144">Select the **Transfer request** section.</span></span>
 4.  <span data-ttu-id="deb37-145">В **разделе запрос на перемещение**выберите **Добавить новый запрос**.</span><span class="sxs-lookup"><span data-stu-id="deb37-145">From the **Transfer request section**, select **Add new request**.</span></span>
 
-    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Раздел передачи":::
+    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Раздел &quot;передачи&quot;":::
 
 5.  <span data-ttu-id="deb37-147">Заполните **новую форму запроса на перемещение** .</span><span class="sxs-lookup"><span data-stu-id="deb37-147">Complete the **New transfer request** form.</span></span>
 
 6.  <span data-ttu-id="deb37-148">Выберите Отправить **запрос на передачу**отправка  >  **Send**.</span><span class="sxs-lookup"><span data-stu-id="deb37-148">Select **Send transfer request** > **Send**.</span></span>
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Заполнение формы запроса на перемещение":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Раздел &quot;передачи&quot;":::
 
 7.  <span data-ttu-id="deb37-150">Подтверждение запроса на перемещение</span><span class="sxs-lookup"><span data-stu-id="deb37-150">Review Transfer request confirmation</span></span>
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Проверка ожидающего перемещения":::
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Раздел &quot;передачи&quot;":::
 
     >[!Note]
     ><span data-ttu-id="deb37-152">Будущий партнер может отменить запрос на передачу, выбрав **отменить запрос** в правом верхнем углу, только если состояние запроса на передачу — "ожидание".</span><span class="sxs-lookup"><span data-stu-id="deb37-152">The future partner can cancel the transfer request by selecting **cancel request** in the upper right-hand corner only when the transfer request status is “pending”.</span></span> <span data-ttu-id="deb37-153">Когда состояние запроса на перемещение — "выполняется" или "завершено", отмены будут невозможны.</span><span class="sxs-lookup"><span data-stu-id="deb37-153">Once the transfer request status is “in progress” or “complete”, cancellations will not be possible.</span></span>
@@ -90,7 +90,7 @@ ms.locfileid: "91422600"
 
 <span data-ttu-id="deb37-155">Агент администрирования текущего партнера клиента получит сообщение электронной почты о том, что клиент запрашивает перенос своих подписок:</span><span class="sxs-lookup"><span data-stu-id="deb37-155">The current partner's Admin Agent of the customer will receive an email that their customer is requesting a transfer of their subscriptions:</span></span>
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Проверка":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Раздел &quot;передачи&quot;":::
 
 <span data-ttu-id="deb37-157">Проверьте и примите форму запроса на перемещение от центра партнеров, чтобы завершить перенос подписки.</span><span class="sxs-lookup"><span data-stu-id="deb37-157">Review and accept the transfer request form from Partner Center to complete the subscription transfer.</span></span>
 
@@ -103,7 +103,7 @@ ms.locfileid: "91422600"
 3.  <span data-ttu-id="deb37-162">Выберите раздел **запрос на перемещение** .</span><span class="sxs-lookup"><span data-stu-id="deb37-162">Select the **Transfer request** section.</span></span>
 4.  <span data-ttu-id="deb37-163">Разверните сведения о переносе, выбрав выбранный **идентификатор запроса на перемещение** в списке **полученных запросов** .</span><span class="sxs-lookup"><span data-stu-id="deb37-163">Expand transfer information by selecting the chosen **Transfer request ID** under **Received requests**</span></span>
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Запрос на перемещение проверок источника":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Раздел &quot;передачи&quot;":::
 
 5.  <span data-ttu-id="deb37-165">Проверка запроса на перемещение.</span><span class="sxs-lookup"><span data-stu-id="deb37-165">Review transfer request.</span></span> <span data-ttu-id="deb37-166">Выберите запрошенные подписки Azure для перемещения.</span><span class="sxs-lookup"><span data-stu-id="deb37-166">Select the requested Azure subscriptions to transfer.</span></span>
 
@@ -114,7 +114,7 @@ ms.locfileid: "91422600"
 
 6.  <span data-ttu-id="deb37-170">Затем выберите **принять и переместить** , чтобы завершить процесс перемещения.</span><span class="sxs-lookup"><span data-stu-id="deb37-170">Then select **Accept and transfer** to complete the transfer process.</span></span>
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Выбор подписок для переноса в планах Azure":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Раздел &quot;передачи&quot;":::
 
 7.  <span data-ttu-id="deb37-172">Просмотр подтверждения приема на перемещение.</span><span class="sxs-lookup"><span data-stu-id="deb37-172">View transfer acceptance confirmation.</span></span>
 
