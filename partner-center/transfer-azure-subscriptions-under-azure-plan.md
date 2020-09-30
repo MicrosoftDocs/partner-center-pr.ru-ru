@@ -71,7 +71,7 @@ ms.locfileid: "91422600"
 3.  <span data-ttu-id="deb37-144">Выберите раздел **запрос на перемещение** .</span><span class="sxs-lookup"><span data-stu-id="deb37-144">Select the **Transfer request** section.</span></span>
 4.  <span data-ttu-id="deb37-145">В **разделе запрос на перемещение**выберите **Добавить новый запрос**.</span><span class="sxs-lookup"><span data-stu-id="deb37-145">From the **Transfer request section**, select **Add new request**.</span></span>
 
-    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Раздел "передачи"":::
+    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Раздел передачи":::
 
 5.  <span data-ttu-id="deb37-147">Заполните **новую форму запроса на перемещение** .</span><span class="sxs-lookup"><span data-stu-id="deb37-147">Complete the **New transfer request** form.</span></span>
 
