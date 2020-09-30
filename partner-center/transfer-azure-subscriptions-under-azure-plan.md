@@ -71,7 +71,7 @@ ms.locfileid: "91422600"
 3.  Выберите раздел **запрос на перемещение** .
 4.  В **разделе запрос на перемещение**выберите **Добавить новый запрос**.
 
-    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Раздел "передачи"":::
+    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Раздел передачи":::
 
 5.  Заполните **новую форму запроса на перемещение** .
 
