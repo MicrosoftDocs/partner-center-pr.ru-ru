@@ -1,0 +1,24 @@
+### YamlMime:Landing
+title: Добро пожаловать на страницу документации для клиентов marketplace-магазинов Майкрософт
+summary: Узнайте, как найти и приобрести решения, приложения и службы от партнеров Майкрософт в наших интернет-магазинах.
+metadata:
+  title: Добро пожаловать на страницу документации для клиентов marketplace-магазинов Майкрософт
+  description: Узнайте, как найти и приобрести решения, приложения и службы от партнеров Майкрософт в наших интернет-магазинах.
+  ms.service: marketplace
+  ms.topic: landing-page
+  author: dsindona
+  ms.author: dsindona
+  ms.date: 09/18/2020
+  ms.openlocfilehash: 5b460081359f1997eb433a69631708d7e116ce38
+  ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 09/19/2020
+  ms.locfileid: "91429261"
+landingContent:
+- title: Частная платформа Azure Marketplace (предварительная версия)
+  linkLists:
+  - linkListType: get-started
+    links:
+    - text: 'Частная платформа Azure Marketplace: создание и управление'
+      url: create-manage-private-azure-marketplace.md

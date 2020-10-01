@@ -1,0 +1,5 @@
+- name: Документация для клиентов marketplace-магазинов Майкрософт
+  href: index.yml
+  items:
+    - name: Создание частной платформы Azure Marketplace
+      href: create-manage-private-azure-marketplace.md
