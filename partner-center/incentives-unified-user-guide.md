@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4f5c2188c88f66c3cc406af32bde9043ae7bb4c2
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 28ad3a9eef770793c1412623aba2bd1d1972c8aa
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999888"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591083"
 ---
 # <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>Получение доступа к страницам выплат для приложений и игр Windows, MPN поощрения и коммерческих магазинов
 
@@ -35,4 +35,4 @@ ms.locfileid: "90999888"
 
 ## <a name="next-steps"></a>Next Steps
 
-- Сведения о коммерческой оплате в Marketplace для независимых поставщиков программного обеспечения см. в статье [о выплатах в коммерческом магазине](/azure/marketplace/partner-center-portal/payout-summary).
+- Сведения о коммерческих платежах для независимых поставщиков программного обеспечения см. в разделе [заявления о выплатах](payout-statement.md).
