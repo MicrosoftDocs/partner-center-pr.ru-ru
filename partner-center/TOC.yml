@@ -71,9 +71,7 @@
             - name: Требования для использования специального предложения
               href: software-assurance-dps-requirements.md
     - name: Счета и налоги
-      items:
-        - name: Счета и налоги в MPN
-          href: mpn-view-print-maps-invoice.md
+      href: mpn-view-print-maps-invoice.md
     - name: Тестирование новых функций
       href: test-drive-new-features.md
 - name: Поставщик облачных решений (CSP)
@@ -305,20 +303,8 @@
           href: mobile-operator-billing.md
         - name: Сценарии использования подписок SaaS на основе лицензий
           href: common-billing-scenarios-saas.md
-    - name: Сценарии выставления счетов и выплат в Marketplace
-      items:
-        - name: Выставление счетов за предложения коммерческой платформы
-          href: csp-commercial-marketplace-billing.md
-        - name: Оплата на Marketplace
-          href: marketplace-get-paid.md
-        - name: Сведения о политике выплат
-          href: payout-policy-details.md
-        - name: 'Пороги, методы и сроки оплаты'
-          href: payment-thresholds-methods-timeframes.md
-        - name: Выписки о выплатах
-          href: payout-statement.md
-        - name: Вопросы и ответы о выплатах в Marketplace
-          href: payout-faq.md
+    - name: Выставление счетов за предложения коммерческой платформы
+      href: csp-commercial-marketplace-billing.md
     - name: "Просмотр данных о цифровых подписях\_— Центр партнеров (Индия)"
       href: digital-signature.md
     - name: Налоги и освобождение от уплаты налогов
@@ -342,10 +328,24 @@
           href: request-credit.md
     - name: Установка расходного бюджета Azure для клиентов
       href: set-an-azure-spending-budget-for-your-customers.md
+- name: Получение платежей
+  items:
     - name: 'Управление сценариями неплатежа, мошенничества или неправильного использования'
       href: non-payment-fraud-misuse.md
     - name: Управление нераспределенными платежами
       href: unallocated-payment.md
+    - name: Выплаты на коммерческой платформе
+      items:
+        - name: Оплата на Marketplace
+          href: marketplace-get-paid.md
+        - name: Сведения о политике выплат
+          href: payout-policy-details.md
+        - name: 'Пороги, методы и сроки оплаты'
+          href: payment-thresholds-methods-timeframes.md
+        - name: Выписки о выплатах
+          href: payout-statement.md
+        - name: Часто задаваемые вопросы о выплатах
+          href: payout-faq.md
 - name: Связь с клиентами
   href: customer-accounts.md
   items:
