@@ -1,19 +1,19 @@
 ---
 title: Соединитель для совместной продажи в центре партнеров для Salesforce CRM
 ms.topic: how-to
-ms.date: 05/17/2020
+ms.date: 09/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Синхронизация ссылок в центре партнеров с помощью Salesforce CRM
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b96be195788ccc8b82aafd0bddb90dd34a672f9
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 4bc404ca8c0647b1bcece767da75fa07ddc6b51f
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422450"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663865"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Соединитель для совместных продаж для Salesforce CRM — обзор
 
@@ -34,7 +34,7 @@ ms.locfileid: "91422450"
 |Готовность к совместной продаже|Ваше решение для работы с IP-адресами и службами должно быть готово к совместной продаже.|[Продажа с Майкрософт](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Учетная запись Центра партнеров|Идентификатор MPN, связанный с клиентом центра партнеров, должен совпадать с ИДЕНТИФИКАТОРом MPN, связанным с решением для совместной продажи. Прежде чем развертывать соединители, убедитесь, что вы видите ссылки на совместные продажи на портале центра партнеров.|[Управление учетной записью](create-user-accounts-and-set-permissions.md)|
 |Роли пользователей Центра партнеров|Сотрудник, который будет устанавливать и использовать соединители, должен быть администратором ссылок.|[Назначение пользователям ролей и разрешений](create-user-accounts-and-set-permissions.md)|
-|SalesForce CRM|Роль пользователя CRM — системный администратор или Настройщик системы|[Назначение ролей в Salesforce CRM](/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
+|SalesForce CRM|Роль пользователя CRM — системный администратор или Настройщик системы|[Назначение ролей в Salesforce CRM](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
 |Учетная запись потока Power автоматизиру|Активная учетная запись [Power автоматизируется](https://flow.microsoft.com) для системного администратора CRM или настройщика системы. Этот пользователь должен войти в [Power автоматизиру](https://flow.microsoft.com) по крайней мере один раз перед установкой.|
 
 ## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Установка пакета salesforce для настраиваемых полей Майкрософт 
@@ -84,21 +84,19 @@ ms.locfileid: "91422450"
 
 5. Найдите **соединители центров партнеров для Salesforce** во всплывающем окне.  
 
-   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
+   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Открыть AppSource":::
 
 6. Нажмите кнопку **получить сейчас** и **Продолжайте**.
 
 7. Откроется страница, на которой можно выбрать среду CRM salesforce для установки приложения.  Согласиться с условиями.
 
-   :::image type="content" source="images/salesforce/available-crm.png" alt-text="Доступные КРМС":::
-
-8. Затем вы направляетесь на страницу **Управление решениями** .  Перейдите в раздел "ссылки центра партнеров" с помощью кнопок со стрелками в нижней части страницы. **Запланированная установка** должна отображаться рядом с решением "ссылки центра партнеров". Установка займет 10-15 минут.
+   :::image type="content" source="images/salesforce/available-crm.png" alt-text="Открыть AppSource" с помощью кнопок со стрелками в нижней части страницы. **Запланированная установка** должна отображаться рядом с решением "ссылки центра партнеров". Установка займет 10-15 минут.
 
 9. После завершения установки вернитесь к [Power автоматизиру](https://flow.microsoft.com) и выберите **решения** в левой области навигации. Обратите внимание, что **Синхронизация ссылок центра партнеров по Salesforce** доступна в списке решений.
 
 10. Выберите **ссылку Центр партнеров синхронизация для Salesforce**. Доступны следующие потоки и сущности Power автоматизировать:
 
-    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Потоки Salesforce":::
+    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Открыть AppSource":::
 
 
 
@@ -115,7 +113,7 @@ ms.locfileid: "91422450"
 
 5. Создайте подключение, щелкнув **создать соединение**.
 
-:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Создание подключения":::
+:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Открыть AppSource":::
 
 - Поиск ссылок центра партнеров (Предварительная версия) в строке поиска в правом верхнем углу.
 
@@ -127,17 +125,17 @@ ms.locfileid: "91422450"
 
 -  После добавления всех подключений в вашей среде должны отобразиться следующие подключения:
 
- :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Наблюдение за подключениями":::
+ :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Открыть AppSource":::
 
 ### <a name="edit-the-connections"></a>Изменение подключений
 
 1. Вернитесь на страницу решения и выберите **решение по умолчанию**.  Выберите **ссылку на подключение (Предварительная версия)** , щелкнув **все**.
  
-:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Начать изменение соединителя":::
+:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Открыть AppSource":::
 
 2. Измените каждое из подключений одним, щелкнув значок с тремя точками. Добавьте соответствующие подключения.
 
-:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Изменение соединителей":::
+:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Открыть AppSource":::
 
 3. Включите потоки в следующей последовательности:
 
@@ -157,11 +155,11 @@ ms.locfileid: "91422450"
 
 2. Добавьте подключения для пользователя центра партнеров (a.) с ссылками на учетные данные администратора (b), как показано ниже.
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Триггер":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Открыть AppSource":::
 
 3. При выполнении этих обновлений вы увидите
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Объекты Webhook":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Открыть AppSource":::
 
 4. Сохраните изменения и выберите **включить**.
 
@@ -173,17 +171,7 @@ ms.locfileid: "91422450"
 
 7. Щелкните значок **копирования** , чтобы скопировать предоставленный URL-адрес HTTP POST.
 
-   :::image type="content" source="images/salesforce/copy-url.png" alt-text="Копирование URL-адреса":::
-
-8. Теперь выберите пункт "регистрация в Power Center (Предварительная версия)" и нажмите кнопку **запустить**.
-
-9. Убедитесь, что в правой части окна откроется окно "запуск потока", и нажмите кнопку **продолжить**.
-
-10. Введите следующие сведения:
-
-    1. **Конечная точка триггера HTTP**: URL-адрес, скопированный с предыдущего шага
-
-    2. **Регистрируемые события**: "Создание ссылок" и "обновление ссылок"
+   :::image type="content" source="images/salesforce/copy-url.png" alt-text="Открыть AppSource"
 
     3. **Перезаписать существующие конечные точки триггера (при наличии**): Да (при этом перезаписываются все существующие конечные точки).
 
@@ -270,17 +258,7 @@ ms.locfileid: "91422450"
 
    2. При создании "новой возможности" в среде Salesforce CRM убедитесь, что следующий раздел существует.
 
-      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Среда Salesforce":::
-
-   3. Чтобы синхронизировать эту возможность с центром партнеров Майкрософт, убедитесь, что в представлении карточка установлены следующие поля:
-
-       - "Синхронизация с центром партнеров": Да
-       - «Как можно получить справку Майкрософт?»: выберите следующие параметры:
-       - Продукты: идентификаторы решений для продукта
-
-   4. Установив для параметра синхронизация возможных сделок  **с центром партнеров** значение **Да**, подождите 10 минут, войдите в свою учетную запись центра партнеров. Ваши ссылки будут синхронизированы с Salesforce CRM.
-
-   5. Если параметр "синхронизировать с центром партнеров" имеет значение "Да", то при обновлении возможной сделки в Salesforce CRM изменения будут синхронизироваться с учетной записью центра партнеров.
+      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Открыть AppSource" имеет значение "Да", то при обновлении возможной сделки в Salesforce CRM изменения будут синхронизироваться с учетной записью центра партнеров.
 
    6. Возможности, успешно синхронизированные с центром партнеров, будут идентифицированы с помощью значка ✔ в Salesforce CRM.
 
@@ -296,7 +274,7 @@ ms.locfileid: "91422450"
 
     5. Перейдите к разделу **открытые возможности**. Ссылка, созданная в центре партнеров Майкрософт, теперь синхронизируется в Salesforce CRM.
 
-       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Экран возможностей Salesforce":::
+       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Открыть AppSource":::
 
     6. При выборе синхронизированной ссылки сведения о представлении карточки заполняются.
 
