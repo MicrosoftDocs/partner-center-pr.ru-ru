@@ -42,11 +42,13 @@
         - name: Поиск преимуществ MPN
           href: mpn-find-benefits.md
     - name: Компетенции
-      href: learn-about-competencies.md
+      items:
+        - name: Сведения о компетенциях
+          href: learn-about-competencies.md
+        - name: Исключение компетенции для разработки приложений
+          href: app-dev-isv.md
     - name: Дополнительные специализации
       href: advanced-specializations.md
-    - name: Однократное освобождение от требований к экзаменам для компетенции "Разработка приложений"
-      href: app-dev-isv.md
     - name: Как стать участником программы Azure Expert MSP
       href: azure-expert-msp.md
     - name: Преимущества
@@ -123,152 +125,159 @@
         - name: Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud для правительства США
           href: user-management-in-partner-center-for-microsoft-us-govt-cloud.md
 - name: Управление учетной записью Центра партнеров
-  href: partner-center-account-setup.md
   items:
-    - name: Рабочие учетные записи и Центр партнеров
-      href: azure-active-directory-tenants-and-partner-center.md
-    - name: Структура учетной записи в Центре партнеров
-      href: account-structure.md
-    - name: Проверка владения доменом
-      href: become-global-admin.md
-    - name: Проверка данных учетной записи
-      href: verification-responses.md
-    - name: Объединение учетной записи партнера с другой учетной записью партнера
-      href: merge-accounts.md
-    - name: "Сопоставление дополнительных клиентов Azure\_AD с учетной записью Центра партнеров"
-      href: multi-tenant-account.md
-    - name: Обновление профиля партнера
-      href: update-your-partner-profile.md
-    - name: Расположения
-      href: manage-locations.md
-    - name: Регистрация в качестве поставщика панелей управления
-      href: enroll-as-cpv.md
-    - name: Восстановление приостановленной учетной записи Центра партнеров
-      href: suspended-partner-center-account.md
-    - name: Добавление приложения Azure AD
-      href: service-principal.md
-    - name: Связывание учетной записи Microsoft Learn с Центром партнеров
-      href: ms-learn-associate.md
-- name: "Управление учетной записью Центра партнеров\_— пользователи"
+    - name: Общее управление учетными записями
+      items:
+        - name: Учетная запись
+          href: partner-center-account-setup.md
+        - name: Структура учетной записи
+          href: account-structure.md
+        - name: Связывание с рабочей учетной записью
+          href: azure-active-directory-tenants-and-partner-center.md
+        - name: Проверка принадлежности домена;
+          href: become-global-admin.md
+        - name: Проверка сведений учетной записи
+          href: verification-responses.md
+        - name: Слияние учетных записей партнеров
+          href: merge-accounts.md
+        - name: "Добавление клиентов Azure\_AD"
+          href: multi-tenant-account.md
+        - name: Обновление профиля партнера
+          href: update-your-partner-profile.md
+        - name: Управление расположениями
+          href: manage-locations.md
+        - name: Как стать поставщиком панелей управления
+          href: enroll-as-cpv.md
+        - name: Восстановление приостановленных учетных записей
+          href: suspended-partner-center-account.md
+        - name: "Добавление приложений Azure\_AD"
+          href: service-principal.md
+        - name: Связывание с учетной записью Learn
+          href: ms-learn-associate.md
+    - name: Управление пользователями
+      items:
+        - name: Создание учетных записей пользователей
+          href: create-user-accounts-and-set-permissions.md
+        - name: Назначение ролей пользователям
+          href: permissions-overview.md
+        - name: Как стать поставщиком панелей управления
+          href: enroll-as-cpv.md
+        - name: Сброс пароля пользователя
+          href: reset-a-user-password.md
+        - name: Сброс пароля
+          href: reset-my-pasword.md
+        - name: Пользователь не может войти
+          href: unable-to-sign-in.md
+        - name: У пользователя нет администратора MPN
+          href: no-mpn-admin.md
+    - name: Управление бизнесом
+      items:
+        - name: Общие службы партнеров Azure
+          href: shared-services.md
+        - name: Цены и предложения
+          href: pricing-and-offers.md
+        - name: Настройка каталога
+          href: customize-the-catalog.md
+- name: Рекомендации
   items:
-    - name: Создание учетных записей пользователей
-      href: create-user-accounts-and-set-permissions.md
-    - name: Назначение пользователям ролей и разрешений
-      href: permissions-overview.md
-    - name: Регистрация в качестве поставщика панелей управления
-      href: enroll-as-cpv.md
-    - name: Сброс пароля пользователя
-      href: reset-a-user-password.md
-    - name: Сброс пароля
-      href: reset-my-pasword.md
-    - name: Не удается войти в Центр партнеров
-      href: unable-to-sign-in.md
-    - name: 'Что делать, если администратор вашей программы MPN покинул компанию?'
-      href: no-mpn-admin.md
-- name: "Управление учетной записью Центра партнеров\_— бизнес"
-  items:
-    - name: Добавление служб Azure Partner Shared Services
-      href: shared-services.md
-    - name: Цены и предложения
-      href: pricing-and-offers.md
-    - name: Настройка каталога
-      href: customize-the-catalog.md
-- name: Рост вашего бизнеса
-  href: grow-your-business.md
-  items:
+    - name: Помощь в развитии бизнеса
+      href: grow-your-business.md
     - name: Обзор авторов
       href: referrals.md
+    - name: Управление бизнес-профилем
+      href: create-a-marketing-profile.md
+    - name: Управление потенциальными клиентами
+      href: manage-leads.md
+    - name: Управление возможностями совместной продажи
       items:
-        - name: Управление бизнес-профилем
-          href: create-a-marketing-profile.md
-        - name: Управление потенциальными клиентами
-          href: manage-leads.md
-        - name: Управление возможностями совместной продажи
+        - name: Потенциальные клиенты для совместных продаж
           href: manage-co-sell-opportunities.md
-        - name: "Соединитель для совместных продаж для Dynamics 365 CRM\_— обзор"
-          href: connector-dynamics.md
-        - name: "Соединитель для совместных продаж для Salesforce CRM\_— обзор"
-          href: connector-salesforce.md
-        - name: Устранение проблем с соединителями рефералов при совместных продажах
+        - name: Использование соединителей CRM для совместных продаж
+          items:
+            - name: "Для Dynamics\_365"
+              href: connector-dynamics.md
+            - name: Для Salesforce
+              href: connector-salesforce.md
+        - name: Устранение неполадок соединителей
           href: connectors-troubleshoot.md
-        - name: 'Возможности совместных продаж для партнеров, которые переходят с Partner Sales Connect (PSC)'
+        - name: "Совместные продажи\_— переход с Partner Sales Connect (PSC) на Центр партнеров"
           href: psc-to-pc.md
-        - name: Регистрация сделок
-          href: register-deals.md
-        - name: Получение полезных сведений об авторах
-          href: referral-insights.md
-        - name: Анализ бизнес-профиля
-          href: analyze-your-marketing-profile.md
-    - name: Программа поощрения
+    - name: Регистрация сделок
+      href: register-deals.md
+    - name: Получение полезных сведений об авторах
+      href: referral-insights.md
+    - name: Анализ бизнес-профиля
+      href: analyze-your-marketing-profile.md
+- name: Программа поощрения
+  items:
+    - name: Начало работы с поощрениями
       items:
-        - name: Начало работы с поощрениями
-          items:
-            - name: Вопросы и ответы о программе поощрения
-              href: incentives-faq.md
-            - name: Начало работы с программой поощрения
-              href: incentives-get-started-intro.md
-            - name: "10\_важных шагов, выполняемых перед началом работы с программой поощрения"
-              href: incentives-ten-essentials.md
-            - name: Регистрация в программе поощрения
-              href: incentives-enroll.md
-            - name: Проверка права на участие в программе
-              href: incentives-determined-your-program-eligibility.md
-              displayName: incentives
-            - name: Анализ профилей для выплат и налогов
-              href: incentives-create-and-manage-your-payout-and-tax-profiles.md
-              displayName: incentives
-            - name: Вопросы и ответы о профилях для выплат и налогов
-              href: incentives-payout-tax-profile-faqs.md
-              displayName: incentives
-            - name: Проверка соответствия прибыли требованиям
-              href: incentives-confirm-your-earnings-eligibility.md
-              displayName: incentives
-            - name: Просмотр сведений о программах и платежах
-              href: understand-incentive-payouts.md
-              displayName: incentives
-            - name: Доступ к странице выплат
-              href: incentives-unified-user-guide.md
-              displayName: incentives
-        - name: Планы и подтверждения выполнения
-          items:
-            - name: Анализ планов и подтверждения выполнения
-              href: incentives-plans-proofs-intro.md
-              displayName: 'incentives, proof of execution, proofs of execution'
-            - name: Создание плана
-              href: incentives-create-your-plan.md
-              displayName: incentives
-            - name: Создание подтверждения выполнения
-              href: incentives-prepare-your-proof-of-execution.md
-              displayName: incentives
-        - name: Совместные заявки на возмещение средств в рамках программ поощрения
-          items:
-            - name: Совместные заявки на возмещение средств в рамках программы поощрения
-              href: claims-overview.md
-              displayName: incentives
-            - name: Управление заявками на возмещение совместных средств
-              href: create-incentives-claims.md
-              displayName: incentives
-            - name: Просмотр основных требований
-              href: core-requirements.md
-              displayName: incentives
-            - name: Сроки утверждения совместных заявок на возмещение средств
-              href: incentives-managing-co-op-claims.md
-              displayName: incentives
-        - name: 'Поощрения: заявки на создание связи CPOR'
-          items:
-            - name: Анализ связей в рамках CPOR
-              href: incentives-customer-associations-intro.md
-            - name: Создание связи с клиентом
-              href: submit-osa-claim.md
-            - name: Управление связями с клиентами
-              href: incentives-manage-customer-associations.md
-              displayName: incentives
-            - name: Проблемы со связью клиентов
-              href: incentives-customer-association-issues.md
-              displayName: incentives
-        - name: Устранение проблем с платежами и прибылью
-          href: incentives-payment-issues.md
+        - name: Вопросы и ответы о программе поощрения
+          href: incentives-faq.md
+        - name: Начало работы с программой поощрения
+          href: incentives-get-started-intro.md
+        - name: "10\_важных шагов, выполняемых перед началом работы с программой поощрения"
+          href: incentives-ten-essentials.md
+        - name: Регистрация в программе поощрения
+          href: incentives-enroll.md
+        - name: Проверка права на участие в программе
+          href: incentives-determined-your-program-eligibility.md
           displayName: incentives
+        - name: Анализ профилей для выплат и налогов
+          href: incentives-create-and-manage-your-payout-and-tax-profiles.md
+          displayName: incentives
+        - name: Вопросы и ответы о профилях для выплат и налогов
+          href: incentives-payout-tax-profile-faqs.md
+          displayName: incentives
+        - name: Проверка соответствия прибыли требованиям
+          href: incentives-confirm-your-earnings-eligibility.md
+          displayName: incentives
+        - name: Просмотр сведений о программах и платежах
+          href: understand-incentive-payouts.md
+          displayName: incentives
+        - name: Доступ к странице выплат
+          href: incentives-unified-user-guide.md
+          displayName: incentives
+    - name: Планы и подтверждения выполнения
+      items:
+        - name: Анализ планов и подтверждения выполнения
+          href: incentives-plans-proofs-intro.md
+          displayName: 'incentives, proof of execution, proofs of execution'
+        - name: Создание плана
+          href: incentives-create-your-plan.md
+          displayName: incentives
+        - name: Создание подтверждения выполнения
+          href: incentives-prepare-your-proof-of-execution.md
+          displayName: incentives
+    - name: Совместные заявки на возмещение средств в рамках программ поощрения
+      items:
+        - name: Совместные заявки на возмещение средств в рамках программы поощрения
+          href: claims-overview.md
+          displayName: incentives
+        - name: Управление заявками на возмещение совместных средств
+          href: create-incentives-claims.md
+          displayName: incentives
+        - name: Просмотр основных требований
+          href: core-requirements.md
+          displayName: incentives
+        - name: Сроки утверждения совместных заявок на возмещение средств
+          href: incentives-managing-co-op-claims.md
+          displayName: incentives
+    - name: 'Поощрения: заявки на создание связи CPOR'
+      items:
+        - name: Анализ связей в рамках CPOR
+          href: incentives-customer-associations-intro.md
+        - name: Создание связи с клиентом
+          href: submit-osa-claim.md
+        - name: Управление связями с клиентами
+          href: incentives-manage-customer-associations.md
+          displayName: incentives
+        - name: Проблемы со связью клиентов
+          href: incentives-customer-association-issues.md
+          displayName: incentives
+    - name: Устранение проблем с платежами и прибылью
+      href: incentives-payment-issues.md
+      displayName: incentives
 - name: Выставление счетов и налоги
   href: billing.md
   items:
@@ -282,7 +291,7 @@
       href: use-the-reconciliation-files.md
     - name: Типы расходов в файле выверки
       href: recon-file-charge-types.md
-    - name: Чтение файлов выверки с ежедневной оценкой использования в Центре партнеров
+    - name: Файлы выверки использования с ежедневной оценкой
       href: daily-rated-usage-recon-files.md
     - name: Файлы выверки на основе лицензии
       href: license-based-recon-files.md
@@ -365,9 +374,9 @@
       href: update-customer-account-info.md
     - name: Как разрешить клиентам покупать собственные службы
       href: give-customers-permission.md
-    - name: Как добавить нескольких пользователей для клиента
+    - name: Добавление нескольких пользователей для клиента
       href: adding-multiple-users-to-a-customer-account.md
-    - name: Обязательные поля файла для импорта нескольких пользователей для учетной записи клиента
+    - name: Импорт нескольких пользователей
       href: file-customer-users.md
     - name: Назначение контактов службы поддержки
       href: assign-support-contacts.md
@@ -487,64 +496,69 @@
           href: advisor-create-a-purchase-offer.md
 - name: Данные и аналитика в Центре партнеров
   items:
-    - name: Получение доступа к результатам аналитики и данным пользователей
+    - name: Доступ к данным и аналитике пользователей
       href: data-analysis-lp.md
-    - name: "Аналитика Центра партнеров для Power\_BI"
+    - name: "Приложение \"Аналитика Центра партнеров для Power\_BI\""
       items:
-        - name: "Вводные сведения об Аналитике Центра партнеров для Power\_BI"
+        - name: Знакомство с приложением "Аналитика"
           href: power-bi-app-for-direct-partners.md
-        - name: "Установка Аналитики Центра партнеров для Power\_BI"
+        - name: Установка приложения "Аналитика"
           href: power-bi-app-for-direct-partners-install.md
-        - name: "Использование Аналитики Центра партнеров для Power\_BI"
+        - name: Использование приложения "Аналитика"
           href: power-bi-app-for-direct-partners-use.md
-    - name: Аналитика Центра партнеров
-      href: partner-center-insights.md
+    - name: Аналитика Центра партнеров (PCI)
       items:
-        - name: "Аналитика\_— обзорная панель мониторинга"
-          href: pci-overview-report.md
-        - name: "Аналитика\_— управление доступом на основе ролей к панели мониторинга аналитики"
+        - name: Сведения об аналитике
+          href: partner-center-insights.md
+        - name: Доступ к аналитике на основе ролей
           href: pci-roles.md
-        - name: "Аналитика\_— панель мониторинга для клиентов"
-          href: pci-customer-report.md
-        - name: "Аналитика\_— панель мониторинга с показателями работы торговых посредников"
-          href: pci-resellers-performance.md
-        - name: "Аналитика\_— панель мониторинга для подписок на продукты"
-          href: pci-product-subscriptions-report.md
-        - name: "Аналитика\_— панель мониторинга для лицензий на продукты"
-          href: pci-product-licenses-report.md
-        - name: "Аналитика\_— панель мониторинга для данных об использовании Azure"
-          href: pci-azure-usage-report.md
-        - name: "Аналитика\_— панель мониторинга для обучения"
-          href: pci-training-dashboard.md
-        - name: Аналитика Microsoft Learn
-          href: ms-learn-analytics.md
-        - name: "Аналитика\_— отчет о компетенциях"
-          href: pci-competencies-report.md
-        - name: "Аналитика\_— отчет о преимуществах"
-          href: pci-benefits-report.md
-        - name: "Аналитика\_— отчет о заинтересованности (CloudAscent)"
-          href: pci-customer-opportunities.md
-        - name: "Аналитика\_— известные проблемы"
+        - name: Аналитический отчет
+          items:
+            - name: Использование Azure
+              href: pci-azure-usage-report.md
+            - name: Преимущества
+              href: pci-benefits-report.md
+            - name: Отчет о заинтересованности от CloudAscent
+              href: pci-customer-opportunities.md
+            - name: Компетенции
+              href: pci-competencies-report.md
+            - name: Customer
+              href: pci-customer-report.md
+            - name: Аналитика Microsoft Learn
+              href: ms-learn-analytics.md
+            - name: Обзор
+              href: pci-overview-report.md
+            - name: Лицензии на продукты
+              href: pci-product-licenses-report.md
+            - name: Подписки для продукта
+              href: pci-product-subscriptions-report.md
+            - name: Показатели работы торговых посредников
+              href: pci-resellers-performance.md
+            - name: Обучение
+              href: pci-training-dashboard.md
+        - name: Известные проблемы
           href: pci-known-issues.md
-        - name: "Аналитика\_— скачивание отчетов"
+        - name: Скачать отчеты аналитики
           href: pci-download-reports.md
     - name: Показатели вклада партнера
       href: partner-contribution-indicators.md
-    - name: Получение данных об использовании клиентских подписок Azure
-      href: analyze-azure-usage.md
-    - name: Анализ эффективности косвенных торговых посредников
-      href: analyze-indirect-resellers.md
-    - name: Анализ подписок и лицензий
-      href: analyze-subscriptions-licenses.md
+    - name: Анализ других данных
+      items:
+        - name: Использование Azure клиентами
+          href: analyze-azure-usage.md
+        - name: Показатели работы косвенных торговых посредников
+          href: analyze-indirect-resellers.md
+        - name: Подписки и лицензии
+          href: analyze-subscriptions-licenses.md
 - name: Работа с другими партнерами
   items:
     - name: Найти партнера
       href: find-a-partner.md
     - name: Работа с другими партнерами
       href: work-with-other-partners.md
-    - name: Задачи непрямого поставщика в Центре партнеров
+    - name: Задачи непрямого поставщика
       href: indirect-provider-tasks-in-partner-center.md
-    - name: Задачи непрямого торгового посредника в Центре партнеров
+    - name: Задачи косвенного торгового посредника
       href: indirect-reseller-tasks-in-partner-center.md
     - name: Поддерживаемые отношения партнеров CSP
       href: csp-supported-partner-relationships.md
