@@ -1,7 +1,7 @@
 ---
 title: Требования к безопасности для партнеров
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 10/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Общие сведения о требованиям к включению многофакторной проверки подлинности (MFA) и внедрении платформы "Модель безопасных приложений" для партнеров.
@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 507c1e579c649ed743af58e2ca167ae016f6e9b6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 361a36adf40af67769a9a24ba1c485f2ad95b98c
+ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000028"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91763347"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>Требования к безопасности для партнеров, использующих Центр партнеров или API-интерфейсы Центра партнеров
 
@@ -100,7 +100,7 @@ ms.locfileid: "91000028"
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>Есть ли у вас пользователи Office 365 с лицензиями, связанными с вашим клиентом партнера?
 
-Перед реализацией какого-либо решения рекомендуем выяснить, какую версию Microsoft Office пользователи используют в вашем арендаторе партнера. Ознакомьтесь с [инструкциями по выполнению многофакторной проверки подлинности для развертываний Office 365](/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa), прежде чем предпринимать какие-либо действия. Есть вероятность, что у ваших пользователей будут возникать проблемы с подключением таких приложений, как Outlook. Перед применением многофакторной проверки подлинности убедитесь, что вы используете Outlook 2013 с пакетом обновления 1 (SP1) или более поздней версии и в вашей организации включена современная аутентификация. Дополнительные сведения см. в статье [Включение современной проверки подлинности в Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
+Перед реализацией какого-либо решения рекомендуем выяснить, какую версию Microsoft Office пользователи используют в вашем арендаторе партнера. Есть вероятность, что у ваших пользователей будут возникать проблемы с подключением таких приложений, как Outlook. Перед применением многофакторной проверки подлинности убедитесь, что вы используете Outlook 2013 с пакетом обновления 1 (SP1) или более поздней версии и в вашей организации включена современная аутентификация. Дополнительные сведения см. в статье [Включение современной проверки подлинности в Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
 
 Чтобы включить современную проверку подлинности для любых устройств под управлением Windows, на которых установлен пакет Microsoft Office 2013, необходимо будет создать два раздела реестра. Дополнительные сведения см. в статье [Enable Modern Authentication for Office 2013 on Windows devices](/office365/admin/security-and-compliance/enable-modern-authentication) (Включение современной проверки подлинности для Office 2013 на устройствах с Windows).
 
