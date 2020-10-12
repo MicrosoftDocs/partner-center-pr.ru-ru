@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: bd1b9b3fabc9e06cc368e75ba8479e3a38a843d5
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0243b88cd60098dca971bd846eb7b0418b15c280
+ms.sourcegitcommit: a3e277ebc9e4016aa48477363f26bb78760560bd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114823"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "91899232"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>Клиентские соглашения Майкрософт для разных регионов и языков
 
@@ -127,11 +127,11 @@ ms.locfileid: "87114823"
     
     В Германии Уголовный кодекс (раздел 203) и кодексы профессионального поведения коды требуют, чтобы определенные взаимоотношения с клиентами оставались конфиденциальными, например, отношения между пациентами и их лечащими врачами и отношения между юристами и их клиентами. Эти представители этих профессий должны соблюдать служебную тайну. Если представители этих и других профессий собираются купить облачные службы у поставщиков облачных решений, то поставщик облачных служб должен заключить письменное соглашение с клиентом, гарантирующее соблюдение служебной тайны.
 
-    Если вы ведете деловую деятельность в Германии, вам может потребоваться предоставить это дополнительное соглашение о служебной тайне клиентам в этой стране помимо соглашения об использовании Microsoft Cloud.
+    Если вы ведете деловую деятельность в Германии, в дополнение к Клиентскому соглашению Майкрософт вам может потребоваться предоставить своим клиентам в этой стране это дополнительное соглашение о профессиональной тайне.
 
-  - [Дополнительное соглашение о служебной тайне для соглашения об использовании Microsoft Cloud для Германии (на английском языке)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+  - [Дополнительное соглашение о служебной тайне для соглашения об использовании Microsoft Cloud для Германии (на английском языке)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GKou)
 
-  - [Дополнительное соглашение о служебной тайне для соглашения об использовании Microsoft Cloud для Германии (на немецком языке)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+  - [Дополнительное соглашение о служебной тайне для соглашения об использовании Microsoft Cloud для Германии (на немецком языке)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GI29)
 
 - Гибралтар: [Английский](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - Греция: [английский](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [греческий](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GRE_Sep20172_CR.pdf)
