@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: e1b70f26dc146507ac3764ae223ca27915162f0c
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
+ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422600"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "91980265"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Перенос подписок на план Azure клиента на другого партнера
 
@@ -37,7 +37,7 @@ ms.locfileid: "91422600"
 - Цены CSP для служб Azure в рамках текущего партнера не будут перенесены  
 - Ответственность за поддержку для клиента будет перенесена на будущее партнера
 - Счет и выставление счетов будут перенесены на будущее партнер во время передачи
-- Перемещение не влияет на управление доступом на основе ролей в Azure (RBAC)
+- На управление доступом Role-Based Azure (RBAC) не влияет перемещение
 - Администратор от имени (АОБО) не будет предоставляться по умолчанию для будущего партнера
 - Продукты сторонних производителей будут передаваться при условии, что продукты проходят проверку допустимости Marketplace.
     - Специальные скидки или региональные ограничения отсутствуют.
@@ -129,9 +129,9 @@ ms.locfileid: "91422600"
 
 - Следовательно, важно, чтобы ваш клиент удаляет доступ к Azure RBAC для предыдущего участника и добавляет доступ для нового участника. Дополнительные сведения о клиенте, предоставляющем новый доступ, см. в статье [что такое управление доступом на основе ролей Azure (Azure RBAC)?](/azure/role-based-access-control/overview) Дополнительные сведения о клиентах, удаляющих доступ RBAC предыдущего партнера, см. в разделе [Удаление назначения ролей](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment).
 
-- Кроме того, вы не получаете автоматическое получение прав [администратора от имени (Аобо)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) к вашим подпискам. АОБО требуется для партнеров, чтобы управлять подписками Azure клиента от их имени. Дополнительные сведения о правах доступа Azure см [. в разделе Получение разрешений для управления службой или подпиской клиента.](/partner-center/customers-revoke-admin-privileges)
+- Кроме того, вы не получаете автоматическое получение прав [администратора от имени (Аобо)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) к вашим подпискам. АОБО требуется для партнеров, чтобы управлять подписками Azure клиента от их имени. Дополнительные сведения о правах доступа Azure см [. в разделе Получение разрешений для управления службой или подпиской клиента.](./customers-revoke-admin-privileges.md)
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
 - [(Azure RBAC)](/azure/role-based-access-control/overview)
-- [Получите разрешения для управления службой или подпиской клиента.](/partner-center/customers-revoke-admin-privileges)
+- [Получите разрешения для управления службой или подпиской клиента.](./customers-revoke-admin-privileges.md)
