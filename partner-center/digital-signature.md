@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Партнеры теперь могут ставить цифровую подпись в счетах
+description: Узнайте, как партнеры центра партнеров в Индии могут просматривать счета с цифровой подписью и получать цифровые копии счетов по заказам, созданным в центре партнеров.
 author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8679146bc628514fb6b4885ee18651c2676fb18b
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 0696a3820a873ca213b4c2e0be847c0518095466
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490652"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031957"
 ---
 # <a name="view-digitally-signed-invoices"></a>Просмотр счетов с цифровой подписью
 
@@ -38,15 +38,15 @@ ms.locfileid: "89490652"
 
 3. Щелкните подпись. Появится сообщение о допустимости сертификата.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="Подписанный счет с полномочным диалоговым окном состояние проверки подписи и полем сведения, свойства подписи, параметр отмены."::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Образец счета с действительным заголовком уведомления о подписи, в котором показана Зеленая подпись и фраза со знаком, и все сигнатуры действительны."::: 
 
 4. Выберите **Свойства подписи** , чтобы просмотреть дополнительные сведения о сроке действия подписи.
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="Подробное представление свойств сигнатуры отображает сведения о том, кто, когда документ был подписан, его процесс проверки и сертификат подписавшего."::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="Образец счета с действительным заголовком уведомления о подписи, в котором показана Зеленая подпись и фраза со знаком, и все сигнатуры действительны."::: 
 
 4. Можно также убедиться в правильности путей сертификации и о том, что сертификат является доверенным.
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="Диалоговое окно средство просмотра сертификатов содержит несколько вкладок с дополнительными сведениями о сертификате и всей цепочке выдачи.":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="Образец счета с действительным заголовком уведомления о подписи, в котором показана Зеленая подпись и фраза со знаком, и все сигнатуры действительны.":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Дополнительные сведения о счетах и цифровых подписях
 

@@ -4,16 +4,16 @@ ms.topic: how-to
 ms.date: 09/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Синхронизация ссылок в центре партнеров с помощью Salesforce CRM
+description: Синхронизируйте свои ссылки в центре партнеров с помощью Salesforce CRM. Продавцов может совместно продаваться с корпорацией Майкрософт в ваших системах CRM.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4bc404ca8c0647b1bcece767da75fa07ddc6b51f
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 4b3817dafbd05edf0c50b062b52ac4814c767d04
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663865"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031467"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Соединитель для совместных продаж для Salesforce CRM — обзор
 

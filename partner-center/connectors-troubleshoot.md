@@ -4,16 +4,16 @@ ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Часто задаваемые вопросы об устранении неполадок соединителей совместных продаж.
+description: Ознакомьтесь с ответами на распространенные вопросы об использовании соединителей совместной продажи. Сведения об устранении неполадок соединителей совместных продаж см. в этой статье.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 312ff9155ab4c2d84fb38bb6ccd093505e628832
-ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
+ms.openlocfilehash: 988a696a8a0a0abb4d37e3915c76f905ec5b35b0
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "91844658"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031267"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Устранение проблем с соединителями рефералов при совместных продажах
 

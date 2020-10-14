@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте, как найти доменное имя и идентификатор каталога клиента при отправке утверждения.
+description: Сведения о том, как найти доменное имя и идентификатор каталога клиента на портале Azure, если вы хотите отправить заявку на поощрения.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 7e1a757a8b8b38bab9a3fdd66a42fab8ab10749e
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 9bbfb4b278d2f33a4d31afd244355cab94bddd56
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545605"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031907"
 ---
 # <a name="find-your-customers-domain-name-and-directory-id-when-submitting-an-incentives-claim"></a>Поиск доменного имени и идентификатора каталога клиента при отправке заявки на поощрения
 

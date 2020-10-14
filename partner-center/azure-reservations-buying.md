@@ -1,6 +1,6 @@
 ---
 title: Приобретение Microsoft Azure резервирования для клиентов
-description: Узнайте, как купить или приобрести резервирование Azure от имени клиентов в центре партнеров.
+description: Узнайте, как купить или приобрести резервирование Azure от имени клиентов в центре партнеров. Также содержит список рынков, в которых резервирование Azure недоступно.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 655bd48df616b26b842d5f99960d6b6ad2e75f1f
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 22ee2b6b76662ae3c7f7a956dc42f4425c321309
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000268"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031257"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Приобретение Microsoft Azure резервирований от имени клиентов в центре партнеров
 
