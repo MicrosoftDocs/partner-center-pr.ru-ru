@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 129db0715b52a55098ce4479fb3784506810543b
-ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
+ms.openlocfilehash: eae97e29d6d29b1cd2614755a87ccafaf0b2063b
+ms.sourcegitcommit: 03204eb214b4b43c308db12c69631f5fd3605510
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "91844678"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92081373"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,9 @@ ms.locfileid: "91844678"
 
 | **Категория** | **Объявления на октябрь 2020 года** | **Объявлено** |
 |---------|:---------|:---------|
+|Возможности|[Обновление за ноябрь 2020 года: руководство по авторизации для веб-служб и канала программного обеспечения](2020-october.md#11)|14 октября|
+|Предложения и рынки|[Представляем Голосовую связь Microsoft 365 бизнес для некоммерческих организаций](2020-october.md#10)|12 октября|
+|Предложения и рынки|[Действует акционное предложение по Аудиоконференциям Microsoft 365, которое скоро станет доступно и для Голосовой связи Microsoft 365](2020-october.md#9)|9 октября|
 |Характеристики|[Упрощенный интерфейс приложений Azure в Azure Marketplace](2020-october.md#8)|7 октября|
 |Предложения и рынки|[Запуск номера SKU для Комнат Microsoft Teams цен. категории "Премиум"](2020-october.md#7)|5 октября|
 |Предложения и рынки|[Планы звонков Майкрософт теперь доступны на новых рынках](2020-october.md#6)|2 октября|
