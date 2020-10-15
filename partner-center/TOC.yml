@@ -160,6 +160,8 @@
           href: create-user-accounts-and-set-permissions.md
         - name: Назначение ролей пользователям
           href: permissions-overview.md
+        - name: Поиск роли
+          href: find-your-role.md
         - name: Как стать поставщиком панелей управления
           href: enroll-as-cpv.md
         - name: Сброс пароля пользователя
@@ -356,8 +358,9 @@
         - name: Часто задаваемые вопросы о выплатах
           href: payout-faq.md
 - name: Связь с клиентами
-  href: customer-accounts.md
   items:
+    - name: Связь с вашими клиентами
+      href: connect-with-your-customers.md
     - name: Добавление нового пользователя
       href: add-a-new-customer.md
     - name: Запрос связи торгового посредника с клиентом
