@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c4435227cdd5d777d11c79bf4adc63471ad925e9
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: c6b0fc84636befedbc51aa0672ce19110eb4d9aa
+ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006862"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92100774"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Управление расположениями учетной записи MPN и добавление нового расположения
 
@@ -54,7 +54,7 @@ ms.locfileid: "92006862"
 
 4. Примите условия Соглашения с партнером Майкрософт и активируйте учетную запись.
 
-## <a name="add-a-location"></a>Добавление расположения
+## <a name="add-an-mpn-location"></a>Добавление расположения MPN
 
 1. Войдите в Центр партнеров, используя учетную запись MPN. Учетной записи MPN должны быть присвоены права глобального администратора или администратора учетной записи. 
 
