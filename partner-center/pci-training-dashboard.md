@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Знакомство с информационной панелью центра партнеров.
+description: Знакомство с информационной панелью центра партнеров. Обучение — это один из отчетов, доступных в области управления партнерами Insights (PCI).
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 241f70f5abf597eccb4b85737967210c2d7728a8
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 10646cb4ecc6c48c5187c96740a2c05610c9d3cc
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220722"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175264"
 ---
 # <a name="trainings-dashboard"></a>Панель мониторинга обучения
 
@@ -49,18 +49,15 @@ ms.locfileid: "89220722"
 
 Производительность обучения представляет собой число отдельных сотрудников и обучения, выполненных сотрудниками вашей компании. Она разделяется по сертификациям, оценкам и экзаменам в виде диаграммы для выбранного диапазона дат. Ось X представляет месяцы для выбранного диапазона дат. Ось Y представляет собой число различных пользователей и количество обучения, выбранных для выбранного типа обучения. Щелкните соответствующие вкладки над диаграммой, чтобы просмотреть разбивку по типу обучения. Данные диаграммы можно загрузить с помощью значка загрузки в формате TSV для выбранного диапазона дат.
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="Производительность обучения":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="Сводка":::
 
 ## <a name="individuals-performance"></a>Производительность пользователей
 
 В разделе "производительность отдельных пользователей" представлены сведения об обучении, взятые сотрудниками вашей компании, для выбранного диапазона дат. Найдите и выберите имя человека на левой панели раздела. Сведения об обучении для выбранного лица отображаются на правой панели раздела.
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Производительность отдельный":::
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Сводка" доступен только пользователям, которые являются руководителями отчетов. 
 
->[!NOTE] 
-> Раздел производительности "люди" доступен только пользователям, которые являются руководителями отчетов. 
-
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Next Steps
 
 [Отчеты в центре партнеров Insights](partner-center-insights.md)
 

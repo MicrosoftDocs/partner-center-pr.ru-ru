@@ -1,17 +1,17 @@
 ---
 title: Получение платежей на коммерческой платформе
-description: Узнайте о получении платежей за вашу прибыль на коммерческом рынке в Azure Marketplace.
+description: Узнайте о получении платежей для получения прибыли на коммерческом рынке в Azure Marketplace. Включает политику вывыплаты, состояние удержания и выплата выписок.
 ms.service: marketplace
 ms.topic: conceptual
 ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: bcd1b6d2ea82a6302ccdad7619f9c1bdabb4aead
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: db347387df29dc36e256881546e632bd321dfde5
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591082"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175214"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Получение платежей на коммерческой платформе
 

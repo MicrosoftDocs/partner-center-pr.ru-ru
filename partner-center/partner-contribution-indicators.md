@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 09/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте о семи ключевых показателях участия в партнерской компании (PCI), демонстрирующих работу с участием клиентов Dynamics 365 или Dynamics 365 Finance and Operations.
+description: Узнайте о семи партнерских участниках (PCI), показывающих, как осуществляется участие клиентов Dynamics 365 или Dynamics 365 Finance и Operations.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e1c0c4e0f332e771415e9360e4eeaf756f00a8e
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 198e73432bd4ed14aa56a2df9bd7f43af6e12cbd
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714288"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175022"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Индикаторы участия партнера (PCI) показывают влияние партнеров на семь ключевых мер успеха клиента.
 
@@ -89,7 +89,7 @@ PCI предоставляет комплексное представление
 |Успешные клиенты — ежемесячное увеличение числа активных пользователей  | 25 пунктов |
 
 На следующем рисунке представлен краткий визуальный справочник.
-:::image type="content" source="images/pci/perfnew.png" alt-text="Отображает диаграмму с максимальным рейтингом для каждого из семи показателей участия партнера (PCI)." border="false":::
+:::image type="content" source="images/pci/perfnew.png" alt-text="Показывает баллы PCI для получения компетенции серебро или Gold." border="false":::
 
 ## <a name="thresholds-for-each-pci-metric"></a>Пороговые значения для каждой метрики PCI
 
@@ -313,7 +313,7 @@ PCI предоставляет комплексное представление
 
 Дополнительные сведения об использовании этой области см. в коллекции ресурсов и видеороликов, найденных в конце этой статьи.
 
-   :::image type="content" source="images/pci/howto.png" alt-text="Чтение диаграмм":::
+   :::image type="content" source="images/pci/howto.png" alt-text="Показывает баллы PCI для получения компетенции серебро или Gold.":::
 
 ## <a name="next-steps"></a>Дальнейшие действия
 

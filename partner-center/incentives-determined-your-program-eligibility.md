@@ -1,6 +1,6 @@
 ---
 title: Права на участие в программе поощрения
-description: Убедитесь, что ваша программа поощрения подходит, чтобы вы могли получить оплату.
+description: Убедитесь, что ваша программа поощрения подходит, чтобы вы могли получить оплату. Этот процесс включает проверку допустимости в программном обеспечении.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: bd80a61ed330f897340bbcf0164ee326598a4be1
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 89d523d637a5a7641e9a9a8be255a1525ca66752
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714458"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175223"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Определение права на участие в программе поощрения
 

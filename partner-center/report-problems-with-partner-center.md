@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Сообщение о проблемах с Центром партнеров и сбор диагностической информации для сотрудников службы поддержки.
+description: Узнайте, как сообщить о проблемах в центре партнеров и как получить диагностические сведения для группы поддержки партнеров.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3cb6491a3c0245cece4d65d3be6b1ec2f4a836cd
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 58aaf94c06be233d9b12fce23a86b25078c3fd9b
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220252"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175232"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Как сообщить о проблемах в центре партнеров и отправить сведения о журнале или диагностике
 

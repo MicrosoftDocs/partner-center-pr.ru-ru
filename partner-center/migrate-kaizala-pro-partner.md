@@ -1,18 +1,18 @@
 ---
 title: Миграция подписок Kaizala Pro на Microsoft365
-description: Узнайте, как перенести подписки Kaizala Pro на версии Microsoft365 или Office 365.
+description: Узнайте, как перенести подписки Kaizala Pro на версии Microsoft365 или Office 365. Дополнительные сведения о переходе клиентов см. в этой статье.
 ms.topic: article
 ms.service: partner-dashboard
 ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 842f4c0f88eec370821fa05c40cfadeee7fee12a
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 0807931ae95b5c7d76f4ad33708cc8014412f55f
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84611240"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175170"
 ---
 # <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft365-or-office-365-versions"></a>Миграция автономных подписок Kaizala Pro на Microsoft365 или версии Office 365
 
@@ -29,28 +29,28 @@ ms.locfileid: "84611240"
 Благодаря новым планам ваши клиенты могут воспользоваться преимуществами новых функций и функций в Microsoft 365. Сведения о ценах приведены в прайс-листе и матрице предложений в Центре партнеров.
 
 - [**Microsoft 365 для бизнеса**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2), включая:  
-   - Microsoft 365 бизнес базовый
-   - Microsoft 365 бизнес Standard
-   - Microsoft 365 бизнес премиум
+   - Microsoft 365 бизнес базовый;
+   - Microsoft 365 бизнес стандартный;
+   - Microsoft 365 бизнес премиум.
     
 - [**Microsoft 365 для оказался**](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot:overviewtab), включая:
-   - Microsoft 365 F3 (ранее Microsoft 365 F1) и Office 365 F3
+   - Microsoft 365 F3 (ранее — Microsoft 365 F1) и Office 365 F3.
     
 - [**Microsoft 365 для предприятий**](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans), включая: 
-   - Office 365 E1
-   - Microsoft 365 E3 и Office 365 E3
-   - Microsoft 365 и Office 365,
+   - Office 365 E1;
+   - Microsoft 365 E3 и Office 365 E3;
+   - Microsoft 365 E5 и Office 365 E5.
 
 - [**Microsoft 365 для образовательных учреждений**](https://www.microsoft.com/education/buy-license/microsoft365), включая: 
-    - Microsoft 365 a1 и Office 365 a1
-    - Microsoft 365 a3 и Office 365 a3
+    - Microsoft 365 A1 и Office 365 A1
+    - Microsoft 365 A3 и Office 365 A3
     - Microsoft 365 A5 и Office 365 A5
 
 ## <a name="transition-customers-to-new-product-plans"></a>Перевод клиентов на новые планы продуктов
 
 Корпорация Майкрософт регулярно предоставляет новые продукты и услуги нашим партнерам. В подобных случаях вам может потребоваться обновить клиентов до новых служб или перенести их подписки с SKU, которые в конечном итоге будут закрыты. Для переноса клиентов с устаревших SKU на новые требуется последовательно сделать следующее:
 
-А) Приобретение новой подписки
+A. Приобретение новой подписки
 
 Б. Переназначение текущих пользовательских лицензий
 
@@ -59,7 +59,7 @@ ms.locfileid: "84611240"
 
 ## <a name="migrate-your-customers-to-new-plans"></a>Перевод пользователей на новые планы
 
-### <a name="a-purchase-the-new-subscription"></a>А) Приобретение новой подписки
+### <a name="a-purchase-the-new-subscription"></a>A. Приобретение новой подписки
 
 1. Чтобы приобрести новую подписку, в меню **центра партнеров** выберите **Клиенты**, выберите клиента, которого требуется переместить, а затем щелкните **Добавить подписки**.
 
@@ -75,7 +75,7 @@ ms.locfileid: "84611240"
 
 3. На странице **Управление лицензиями** снимите флажок автономная лицензия Kaizala Pro и выберите новый план обслуживания для подписки, в которую будет перемещен клиент.
 
-4.  Нажмите кнопку **Отправить**. На странице подтверждения указаны новые назначения лицензий. Продолжите выполнять эти же действия применительно к другим пользователям, которым требуется назначить лицензии.
+4.  Нажмите кнопку **Submit** (Отправить). На странице подтверждения указаны новые назначения лицензий. Продолжите выполнять эти же действия применительно к другим пользователям, которым требуется назначить лицензии.
 
 ### <a name="c-cancel-old-subscription"></a>В. Отмена старой подписки
 
@@ -85,6 +85,6 @@ ms.locfileid: "84611240"
 
 2.  На странице с подробными сведениями о подписке установите статус **Приостановлено**.
 
-3.  Нажмите кнопку **Отправить**.
+3.  Нажмите кнопку **Submit** (Отправить).
 
 Старая подписка приостанавливается, а новая — активируется. Приостановленная подписка будет автоматически отозвана через 120 дней. Клиент не несет дополнительных затрат на старую подписку.

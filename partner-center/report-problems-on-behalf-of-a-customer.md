@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте, когда следует эскалировать проблему службы клиентов в корпорацию Майкрософт и как отправить запрос в службу поддержки.
+description: Узнайте, когда следует эскалировать проблему службы клиентов в корпорацию Майкрософт и как отправить запрос в службу поддержки для различных типов служб Майкрософт.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73773101eda7dc9ad40b8a579ea3ba441739e931
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999788"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175086"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Сообщить о проблеме со службой от имени клиента, включая время и способ их выполнения
 
@@ -100,7 +100,7 @@ ms.locfileid: "90999788"
     - электронная почта службы поддержки;
     - контактный номер телефона службы поддержки.
 
-## <a name="faq"></a>ВОПРОСЫ И ОТВЕТЫ
+## <a name="faq"></a>Вопросы и ответы
 
 Ниже приведены часто задаваемые вопросы о запросах на обслуживание, которые можно отправить от имени клиента. 
 

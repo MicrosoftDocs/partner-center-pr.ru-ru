@@ -1,6 +1,6 @@
 ---
 title: Как продавать предложения для обучения клиентам
-description: Узнайте, как создавать клиентов для образовательных учреждений и продавать предложения в центре партнеров.
+description: Узнайте, как создавать клиентов для образовательных учреждений и продавать предложения в центре партнеров. Включает подтверждение состояния проверки для клиента для образовательных учреждений.
 ms.topic: how-to
 ms.date: 10/06/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59346026db6f8eb34f798146da88343e739dc510
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 5f17493a55ebd7d1ff9de0570e867cdf38e2e3fb
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92032087"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175072"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Как продавать предложения для образовательных клиентов & создание клиентов для образовательных учреждений в центре партнеров
 

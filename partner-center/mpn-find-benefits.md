@@ -4,19 +4,19 @@ ms.topic: how-to
 ms.date: 09/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Узнайте, как найти преимущества MPN на панели мониторинга центра партнеров.
+description: Узнайте, как найти преимущества MPN на панели мониторинга центра партнеров. Содержит сведения о том, как найти идентификатор доступа и идентификатор контракта для технических преимуществ.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 938197707c7a27e1485e9d22030cc4a94094197d
-ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
+ms.openlocfilehash: a7d53da2f83fcd5c85732b24843365717e66429d
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89427121"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175320"
 ---
-# <a name="locate-your-microsoft-partner-network-benefits"></a>Определение преимуществ Microsoft Partner Network 
+# <a name="locate-your-microsoft-partner-network-benefits"></a>Поиск преимуществ Microsoft Partner Network 
 
 ### <a name="applies-to"></a>Применяется к
 
@@ -74,7 +74,7 @@ ms.locfileid: "89427121"
 
    Вы должны увидеть конкретный **идентификатор контракта** на поддержку продукта и **идентификатор доступа** , назначенный этому преимуществам.  
 
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Пример технического преимущества поддержки компетенции Gold Core с поддержкой продуктов Майкрософт, таких как идентификатор контракта и идентификатор доступа":::
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Расширенные преимущества":::
 
    > [!NOTE]
    > Следите за этими идентификаторами поддержки. Некоторые системы могут запросить их при первом входе (или одного из пользователей вашей компании) в журнал запроса на поддержку, связанного с определенным техническим преимуществом. Все пользователи вашей компании могут использовать один и тот же идентификатор доступа и идентификатор контракта.
