@@ -1,22 +1,22 @@
 ---
-title: Управление пользователями в клиентских учетных записях
+title: Управление пользователями и лицензиями пользователей для учетных записей клиентов
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Узнайте, как создавать учетные записи пользователей для клиентов, добавлять или удалять пользовательские лицензии, сбрасывать пароли пользователей, удалять учетные записи пользователей и восстанавливать их.
+description: Узнайте, как управлять пользователями для клиентов в центре партнеров, например создавать учетные записи пользователей, добавлять и удалять пользовательские лицензии, сбрасывать пароли пользователей, а также удалять или восстанавливать учетные записи пользователей.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a3febadda51094d443d83d17b640b1744a130335
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: fc208283e0ed8c0f164a44cc9bd70260b8671c6e
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527680"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198020"
 ---
-# <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>Задачи управления пользователями для учетных записей клиентов в центре партнеров
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Управление пользователями и лицензиями пользователей для учетных записей клиентов
 
 **Относится к**
 
@@ -113,7 +113,7 @@ ms.locfileid: "87527680"
 
     Все выбранные учетные записи пользователей появятся на странице **Пользователи и лицензии**.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Статьи по теме
 
 
 [Назначение и отзыв лицензий для нескольких пользователей](bulk-license-provisioning-for-multiple-users.md)
