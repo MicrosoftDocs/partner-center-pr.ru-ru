@@ -1,10 +1,11 @@
-- name: Сведения о Центре партнеров Майкрософт
+- name: Документация по Центру партнеров (Майкрософт)
   href: index.yml
 - name: Объявления
   href: announcements/TOC.md
 - name: Участие в Partner Network
-  href: mpn-overview.md
   items:
+    - name: Партнерство с Майкрософт
+      href: mpn-overview.md
     - name: Создание учетной записи Центра партнеров
       href: mpn-create-a-partner-center-account.md
     - name: Получение рабочего адреса электронной почты
@@ -99,9 +100,9 @@
       href: regional-authorization-overview.md
     - name: Инструкции по консолидации клиента региональной авторизации CSP
       href: csp-regional-authorization-tenant-consolidation.md
-    - name: 'Обзор: новый способ подтвердить принятие клиентом условий Клиентского соглашения Майкрософт'
+    - name: Обновленный метод подтверждения принятия условий Клиентского соглашения Майкрософт
       href: confirm-consent.md
-    - name: Как подтвердить принятие клиентом условий Клиентского соглашения Майкрософт
+    - name: Подтверждение принятия условий Клиентского соглашения Майкрософт
       href: confirm-customer-agreement.md
     - name: Когда следует подтверждать принятие Клиентского соглашения от имени клиента
       href: attest-acceptance-customer-agreement.md
@@ -120,9 +121,9 @@
           href: csp-gcc-overview.md
         - name: "Квалификационные критерии для партнеров и клиентов по Office\_365 для государственных организаций в средах GCC"
           href: csp-gcc-validate.md
-        - name: Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud в Германии
+        - name: Управление пользователями и лицензиями для Microsoft Cloud для Германии
           href: user-management-in-partner-center-for-microsoft-cloud-germany.md
-        - name: Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud для правительства США
+        - name: Управление пользователями и лицензиями для Microsoft Cloud for US Government
           href: user-management-in-partner-center-for-microsoft-us-govt-cloud.md
 - name: Управление учетной записью Центра партнеров
   items:
@@ -182,7 +183,7 @@
           href: customize-the-catalog.md
 - name: Рекомендации
   items:
-    - name: Помощь в развитии бизнеса
+    - name: Рост вашего бизнеса
       href: grow-your-business.md
     - name: Обзор авторов
       href: referrals.md
@@ -251,6 +252,9 @@
         - name: Создание подтверждения выполнения
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
+        - name: Отправка налоговой накладной в виде подтверждения выполнения
+          href: incentives-tax-invoice-poe.md
+          displayName: incentives
     - name: Совместные заявки на возмещение средств в рамках программ поощрения
       items:
         - name: Совместные заявки на возмещение средств в рамках программы поощрения
@@ -306,7 +310,7 @@
           href: common-billing-scenarios-annual.md
         - name: Сценарии выставления счетов для одноразовых платежей и выбор повторяющихся платежей
           href: common-billing-scenarios-onetime-recurring.md
-        - name: "Накладные\_— чтение данных в полях выставления счетов и одноразовых платежей"
+        - name: Общие сведения о выставляемых счетах
           href: invoice-file.md
         - name: Выставление счетов на основе лицензии
           href: license-based-billing.md
@@ -327,7 +331,7 @@
           href: vat-info.md
         - name: Получение кредита для удержания налогов
           href: withholding-tax-credit-form.md
-        - name: "Региональные налоговые службы\_— голосовые службы"
+        - name: Региональные налоги на голосовые службы
           href: tax-and-fees-voice-services.md
         - name: Сведения о налогах для издателей коммерческих платформ
           href: tax-details-marketplace.md
@@ -367,7 +371,7 @@
       href: request-a-relationship-with-a-customer.md
     - name: Удаление связи торгового посредника с клиентом
       href: remove-a-relationship.md
-    - name: Делегирование прав администрирования клиентами партнерам или отзыв таких прав
+    - name: Получение делегированных прав администратора от партнера
       href: customers-revoke-admin-privileges.md
     - name: Просмотр списка клиентов
       href: see-your-customer-list.md
@@ -418,7 +422,7 @@
     - name: План Azure
       href: azure-plan-lp.md
       items:
-        - name: Приступая к использованию плана Azure
+        - name: Обзор планов Azure
           href: azure-plan-get-started.md
         - name: Приобретение плана Azure
           href: purchase-azure-plan.md
@@ -426,7 +430,7 @@
           href: compare-azure-offers.md
         - name: Перевод клиентов на план Azure
           href: azure-plan-transition.md
-        - name: Общие сведения о партнерских баллах
+        - name: Партнерские баллы
           href: partner-earned-credit.md
         - name: Как вычисляются и выплачиваются партнерские баллы
           href: partner-earned-credit-explanation.md
@@ -459,13 +463,13 @@
           href: sell-marketplace-products.md
         - name: Назначение подписок Azure в Центре партнеров
           href: assign-azure-subscriptions.md
-        - name: Назначение лицензий пользователям
+        - name: Управление пользователями и лицензиями
           href: assign-licenses-to-users.md
         - name: Добавление лицензий или служб к существующей подписке
           href: add-licenses-or-services-to-an-existing-subscription.md
         - name: Назначение и отзыв лицензий для нескольких пользователей
           href: bulk-license-provisioning-for-multiple-users.md
-        - name: Перенос клиентов служб на основе лицензий в программу поставщиков облачных услуг
+        - name: 'Перемещение клиентов, использующих службы на основе лицензии, в программу CSP'
           href: transition-seat-based-services.md
         - name: 'Продажа подписок Minecraft: Education Edition'
           href: minecraft-subscriptions.md
@@ -599,7 +603,7 @@
       href: support-resources-licensing.md
     - name: Поиск идентификаторов и доменных имен
       href: find-ids-and-domain-names.md
-- name: Требования к безопасности
+- name: Требования безопасности
   items:
     - name: Overview
       href: partner-security-requirements.md
