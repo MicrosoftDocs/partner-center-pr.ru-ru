@@ -10,13 +10,13 @@ ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 20a8d701755e0211ced01aa714570e993bfe177d
-ms.sourcegitcommit: 5fc28f6f81eaebb84e1faa71848afb504e181f37
+ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90012782"
+ms.lasthandoff: 10/21/2020
+ms.locfileid: "92333806"
 ---
-# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Исключение одноразовых требований к экзаменам для компетенции при разработке приложений
+# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Однократное освобождение от требований к экзаменам для компетенции "Разработка приложений"
 
 **Соответствующие роли**
 
