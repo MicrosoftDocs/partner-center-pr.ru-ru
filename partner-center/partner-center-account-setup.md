@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 4cd39cfe3d927fbcaea3afc69c9e1844fc7917d7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7f2f612d0f448810049daf4dc2ea08a054e2a2c0
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999268"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198000"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Управляйте учетной записью Центра партнеров: профилем, банковскими данными, ролями, разрешениями и другими данными своей компании.
 
@@ -53,7 +53,7 @@ ms.locfileid: "90999268"
 >[!NOTE]
 >Чтобы получить доступ к **параметрам партнеров** и **параметрам разработчиков**, войдите на [панель мониторинга](https://partner.microsoft.com/dashboard) Центра партнеров и щелкните **Параметры** (значок шестеренки) справа в верхнем углу экрана. Затем в раскрывающемся меню можно выбрать **Параметры партнеров** или **Параметры разработчиков**.
 
-:::image type="content" source="images/accountsettings/account1.png" alt-text="Параметры учетной записи":::
+:::image type="content" source="images/accountsettings/account1.png" alt-text="Меню зарегистрированных программ":::
 
 Возможности управления **параметрами партнеров** и **разработчиков** доступны партнерам в зависимости от того, зарегистрирована ли их компания в определенных программах. Параметры отображаются, только если компания зарегистрирована по меньшей мере в одной программе, связанной с этими параметрами.
 
@@ -85,11 +85,11 @@ ms.locfileid: "90999268"
 
 **Параметры партнеров**:
 
-:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="Параметры для партнеров":::
+:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="Меню зарегистрированных программ":::
 
 **Параметры разработчиков**:
 
-:::image type="content" source="images/accountsettings/devoptions.png" alt-text="Параметры для разработчиков":::
+:::image type="content" source="images/accountsettings/devoptions.png" alt-text="Меню зарегистрированных программ":::
 
 ## <a name="enrolling-in-programs"></a>Регистрация в программах
 
@@ -108,7 +108,7 @@ ms.locfileid: "90999268"
 
 Вы можете использовать несколько учетных записей. Если у вас несколько учетных записей, в меню навигации слева отобразится средство выбора учетной записи. Если щелкнуть средство выбора учетной записи, откроется список всех учетных записей, в которых вы участвуете. Вы можете выбрать любую из них и переключиться на эту учетную запись, где отображаются все связанные с ней программы и сведения. Если средство выбора учетной записи не отображается, это означает, что у вас одна учетная запись.
 
-:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="Средство выбора учетной записи":::
+:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="Меню зарегистрированных программ":::
 
 ## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a>Другие ресурсы, которые помогают управлять учетной записью в Центре партнеров
 

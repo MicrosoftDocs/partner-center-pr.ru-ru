@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 391602651976500576f13824bfebc6e06fec40a2
-ms.sourcegitcommit: 9359f92fb7d3965374eb095ebf68fd6a94ec4943
+ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/21/2020
-ms.locfileid: "90832117"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006810"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Назначение ролей и разрешений пользователям компании для работы в Центре партнеров
 
@@ -52,7 +52,7 @@ ms.locfileid: "90832117"
 ||• Создание запросов в службу поддержки для Центра партнеров.
 ||*    Просмотрите созданные Вами запросы в службу поддержки для партнеров
 |Пользователь по умолчанию|  Просмотр страницы "Мой профиль"   |[Сброс пароля](reset-my-pasword.md)
-|Агент по администрированию | • Управление клиентами.|[Настройка и администрирование учетных записей клиентов для партнеров, являющихся торговыми посредниками, в Центре партнеров](customer-accounts.md)
+|Агент по администрированию | • Управление клиентами.|[Связь с вашими клиентами](connect-with-your-customers.md)
 ||• Добавление списка устройств в Центре партнеров.
 ||• Создание и применение профилей для устройств.
 ||• Управление подписками.
