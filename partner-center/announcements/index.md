@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: eae97e29d6d29b1cd2614755a87ccafaf0b2063b
-ms.sourcegitcommit: 03204eb214b4b43c308db12c69631f5fd3605510
+ms.openlocfilehash: 99b688cae786f1abcb3059c706345c4089fa129a
+ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92081373"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "92352870"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,7 @@ ms.locfileid: "92081373"
 
 | **Категория** | **Объявления на октябрь 2020 года** | **Объявлено** |
 |---------|:---------|:---------|
+|Предложения и рынки|[Обновления в предложении "Голосовая связь Microsoft 365 бизнес"](2020-october.md#12)|16 октября|
 |Возможности|[Обновление за ноябрь 2020 года: руководство по авторизации для веб-служб и канала программного обеспечения](2020-october.md#11)|14 октября|
 |Предложения и рынки|[Представляем Голосовую связь Microsoft 365 бизнес для некоммерческих организаций](2020-october.md#10)|12 октября|
 |Предложения и рынки|[Действует акционное предложение по Аудиоконференциям Microsoft 365, которое скоро станет доступно и для Голосовой связи Microsoft 365](2020-october.md#9)|9 октября|
