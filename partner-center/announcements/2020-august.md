@@ -1,6 +1,6 @@
 ---
 title: Объявления за август 2020 года
-description: Центр партнеров Майкрософт — объявления за август 2020 года
+description: Объявления, связанные с Центром партнеров Майкрософт, за август 2020 года со сведениями о новых возможностях, рекламных акциях, предложениях, рынках и изменениях существующих предложений.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: 774ec29ce6c20f0890d883ab73ab766906b88a92
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e469f3a99a07715ebadf3b6bcca7b1cf1db46c44
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999628"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031807"
 ---
 # <a name="august-2020-announcements"></a>Объявления за август 2020 года
 
