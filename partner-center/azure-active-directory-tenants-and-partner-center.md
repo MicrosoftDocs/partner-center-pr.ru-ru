@@ -4,18 +4,17 @@ ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Создайте рабочую учетную запись, которая свяжет вашу компанию с учетной записью Центра партнеров. Это позволит предоставить доступ к Центру партнеров сотрудникам вашей организации.
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 ms.custom: SEOAPR.20
-Keywords: рабочая учетная запись, электронная почта, клиент, клиент Azure, создание учетной записи, доменное имя
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: e46be80cb39233e7632a97fd511232d5ff762499
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394219"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "92333834"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Создайте рабочую учетную запись для связи вашей компании с учетной записью Центра партнеров
 
@@ -61,7 +60,7 @@ ms.locfileid: "83394219"
 
 :::image type="content" source="images/onboardingAADFlow.png" lightbox="images/onboardingAADFlow.png" alt-text="У вас есть рабочая учетная запись или ее необходимо создать?":::
 
-Дополнительные сведения о добавлении доменов в Azure AD см. в [этой статье](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain).
+Дополнительные сведения о добавлении доменов в Azure AD см. в [этой статье](/azure/active-directory/active-directory-add-domain).
 
 ## <a name="about-microsoft-azure"></a>Сведения о Microsoft Azure
 
