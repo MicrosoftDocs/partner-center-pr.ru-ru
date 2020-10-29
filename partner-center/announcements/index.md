@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 99b688cae786f1abcb3059c706345c4089fa129a
-ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
+ms.openlocfilehash: 94403cddbfa2f316b7ade84af1d9a1d233544fb4
+ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "92352870"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92749698"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,7 @@ ms.locfileid: "92352870"
 
 | **Категория** | **Объявления на октябрь 2020 года** | **Объявлено** |
 |---------|:---------|:---------|
+|Характеристики|[Общие сведения о показателе эффективности в рамках требований для партнеров с прямым выставлением счетов по программе поставщика облачных решений (CSP)](2020-october.md#13)|27 октября|
 |Предложения и рынки|[Обновления в предложении "Голосовая связь Microsoft 365 бизнес"](2020-october.md#12)|16 октября|
 |Возможности|[Обновление за ноябрь 2020 года: руководство по авторизации для веб-служб и канала программного обеспечения](2020-october.md#11)|14 октября|
 |Предложения и рынки|[Представляем Голосовую связь Microsoft 365 бизнес для некоммерческих организаций](2020-october.md#10)|12 октября|
