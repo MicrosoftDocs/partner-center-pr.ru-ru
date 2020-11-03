@@ -295,9 +295,6 @@
         - name: Создание подтверждения выполнения
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
-        - name: Отправка налоговой накладной в виде подтверждения выполнения
-          href: incentives-tax-invoice-poe.md
-          displayName: 'incentives, invoice'
     - name: Совместные заявки на возмещение средств в рамках программ поощрения
       items:
         - name: Совместные заявки на возмещение средств в рамках программы поощрения
