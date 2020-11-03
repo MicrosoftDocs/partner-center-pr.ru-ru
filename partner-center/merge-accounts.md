@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795837"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189753"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Объединение учетной записи партнера с другой учетной записью партнера
 
@@ -94,22 +94,32 @@ ms.locfileid: "92795837"
 
 1. Компания Contoso 
 
-    а. [глобальный идентификатор MPN 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) и одно подчиненное [Расположение MPN с идентификаторами 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
+    a. [глобальный идентификатор MPN 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) и одно подчиненное [Расположение MPN с идентификаторами 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
   
     b. Клиент Azure AD = @contoso.com
  
-    c. компетенция Gold с истекающим сроком действия 1 октября 2020 г.
+    c. компетенция Gold с истекшим сроком действия 1 октября 2020 г.
 2. Fabricam
  
-    а.  Глобальный идентификатор MPN, 3333333 и два подчиненных расположения MPN с идентификаторами 4444444 и 5555555.
+    a.  Глобальный идентификатор MPN, 3333333 и два подчиненных расположения MPN с идентификаторами 4444444 и 5555555.
 
-    b.  Клиент AAD = @fabricam.com
+    b.  Клиент Azure AD = @fabricam.com
 
-    c.  две компетенции категории Gold, срок действия которых истекает 1 декабря 2020
-3.  Contoso покупает fabricam и [сюда](https://partner.microsoft.com/dashboard/account/merger) , чтобы начать запрос на слияние
+    c.  две категории компетенции Gold с истекшим сроком 1 декабря 2020 г.
+3.  Компания Contoso покупает fabricam [, чтобы начать запрос на](https://partner.microsoft.com/dashboard/account/merger) слияние.
 4.  Fabricam подписывается в центр партнеров и переходит на ту же страницу, что и компания Contoso, #3, чтобы утвердить запрос contoso.
 5.  Contoso проверяет сведения о слиянии на этой же странице и предоставляет подтверждение для продолжения слияния учетных записей.
+6.  После слияния учетная запись компании будет отображаться следующим образом:
+
+    a.  Компания Contoso с глобальным ИДЕНТИФИКАТОРом MPN 1111111 и 4 подчиненного расположения MPN идентификаторы 2222222, 3333333, 4444444 и 5555555.
     
+    b.  У него будут два клиента Azure AD ( @contoso.com + @fabricam.com ), которые имеют доступ к одной и той же учетной записи центра партнеров.
+    
+    c.  У него будет два пакета компетенции, срок действия которого истекает 1 октября 2020, а другой — 1 декабря 2020. Они смогут продлить один пакет преимуществ для компетенции 1 декабря 2020. При продлении Contoso сохранит все три компетенции, несмотря на то, что они могут поддерживать только один пакет преимуществ.
+    
+7.  Администраторы Contoso продолжат управление ролями центра партнеров для @contoso.com пользователей. Администраторы fabricam продолжат управление ролями центра партнеров для @fabricam.com пользователей. Администраторы Contoso могут администрировать пользователей fabricam только в том случае, если они приглашены в качестве гостей в клиенте fabricam.
+8.  Компания Contoso решила проигнорировать @fabricam.com клиент и повторно выдать новые @contoso.com учетные данные fabricam Employees с новыми ролями и разрешениями.
+
 ## <a name="next-steps"></a>Дальнейшие действия
 
 - [Назначение пользователям ролей и разрешений](permissions-overview.md)

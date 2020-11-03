@@ -564,6 +564,8 @@
           href: Get-special-pricing-for-offers.md
         - name: Продажа клиентам из сферы образования
           href: sell-to-education-customers.md
+        - name: "Обновление Windows\_10 Домашняя до Windows\_10 для образовательных учреждений"
+          href: upgrade-windows-to-education.md
         - name: Повышение популярности и уровня удовлетворенности
           href: increasing-adoption-and-satisfaction.md
         - name: Простая настройка устройств с помощью Windows Autopilot
