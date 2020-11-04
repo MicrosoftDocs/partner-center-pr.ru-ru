@@ -1,7 +1,7 @@
 ---
 title: Назначение ролей и разрешений пользователям
 ms.topic: article
-ms.date: 09/04/2020
+ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, какие роли лучше всего подходят для пользователей вашей компании, которые управляют коммерческими транзакциями, рекомендациями, поощрениями и членством MPN в Центре партнеров.
@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006810"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133037"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Назначение ролей и разрешений пользователям компании для работы в Центре партнеров
 
@@ -97,8 +97,6 @@ ms.locfileid: "92006810"
 |**Гостевой пользователь**   | **Роли**|
 |---------------------------|:--------------------|
 ||Администратор партнера MPN|
-||Администратор учетных записей|
-||Администратор программы поощрения|
 ||Администратор бизнес-профиля|
 ||Администратор авторов|
 
