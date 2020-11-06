@@ -1,18 +1,17 @@
 ---
 title: Создание частного магазина Azure Marketplace и управление им в портал Azure
 description: Узнайте, как создать частный сайт Azure Marketplace (Предварительная версия) и управлять им в портал Azure.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.prod: marketplace-customer
 ms.topic: article
 author: keferna
 ms.author: keferna
 ms.date: 09/18/2020
-ms.openlocfilehash: c0a395a7c5bfe926cdc56d7386aaaebb0305fb68
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: 31179d9fd4068348e689d8b426b7a0307112501a
+ms.sourcegitcommit: af4726de429d2b9b7c3656d5cac7d542b0d4af74
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "91429354"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "93414864"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Создание и управление частными Azure Marketplace (Предварительная версия) в портал Azure
 
@@ -32,7 +31,7 @@ ms.locfileid: "91429354"
 >[!IMPORTANT]
 > Доступ к частному управлению Azure Marketplace доступен только ИТ-администраторам с назначенной ролью администратора Marketplace.
 
-### <a name="prerequisites"></a>предварительные требования
+### <a name="prerequisites"></a>Обязательные условия
 
 Прежде чем назначать роль администратора Marketplace пользователю в области клиента, необходимо выполнить эти предварительные требования.
 
@@ -136,17 +135,17 @@ Assign-MarketplaceAdminRole
 
 3. Выберите **частный Marketplace** в параметрах слева.
 
-    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Портал Azure главное окно.":::
+    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Выбор частного Marketplace в главном окне портал Azure.":::
 
 4. Выберите **начать работу** , чтобы создать частный магазин Azure Marketplace (это необходимо сделать только один раз).
 
-    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Портал Azure главное окно.":::
+    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Выберите начало работы в главном окне портал Azure.":::
 
     Если для этого клиента уже существует частная служба Azure Marketplace, **Управление Marketplace** будет выбрано по умолчанию.
 
 5. После завершения вы получите пустой и отключенный частный Azure Marketplace.
 
-    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Портал Azure главное окно.":::
+    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Пустой частный экран Azure Marketplace.":::
 
 ## <a name="add-items-from-gallery"></a>Добавление элементов из коллекции
 
@@ -156,11 +155,11 @@ Assign-MarketplaceAdminRole
 
 2. Просмотрите **коллекцию** или используйте поле поиска, чтобы найти нужный элемент.
 
-    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Портал Azure главное окно.":::
+    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Просмотр коллекции или использование поля поиска.":::
 
 3. По умолчанию при добавлении нового предложения все текущие планы будут добавлены в список разрешенных. Чтобы изменить выбор плана перед добавлением выбранных элементов, выберите раскрывающееся меню на плитке предложения и обновите необходимые планы.
 
-    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Портал Azure главное окно.":::
+    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Обновите обязательные планы.":::
 
 4. Нажмите кнопку **Готово** в нижнем левом углу после того, как сделали выбор.
 
@@ -174,7 +173,7 @@ Assign-MarketplaceAdminRole
 1. В столбце **планы** проверьте доступные планы из раскрывающегося меню для этого элемента.
 2. Установите или снимите флажки, чтобы выбрать, какие планы следует сделать доступными для пользователей.
 
-    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Портал Azure главное окно.":::
+    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Установка или снятие флажка для требуемого элемента.":::
 
 > [!NOTE]
 > Для каждого предложения необходимо выбрать по крайней мере один план, чтобы обновление было выполнено. Чтобы удалить все планы, связанные с предложением, удалите все предложения (см. следующий раздел).
@@ -187,9 +186,9 @@ Assign-MarketplaceAdminRole
 
 На странице "Управление Marketplace" вы увидите одно из этих баннеров, которое показывает текущее состояние частного магазина Azure Marketplace:
 
-:::image type="content" source="media/private-azure/state-disable.png" alt-text="Портал Azure главное окно.":::
+:::image type="content" source="media/private-azure/state-disable.png" alt-text="Отключить баннер состояния":::
 
-:::image type="content" source="media/private-azure/state-enable.png" alt-text="Портал Azure главное окно.":::
+:::image type="content" source="media/private-azure/state-enable.png" alt-text="Включить баннер состояния":::
 
 При необходимости вы можете включить или отключить частный Azure Marketplace.
 
@@ -205,7 +204,7 @@ Assign-MarketplaceAdminRole
 
 Пользователи могут фильтровать предложения, которые являются и недопустимыми:
 
-:::image type="content" source="media/private-azure/filter-option.png" alt-text="Портал Azure главное окно.":::
+:::image type="content" source="media/private-azure/filter-option.png" alt-text="Параметр фильтрации.":::
 
 ## <a name="buy-or-deploy-in-private-azure-marketplace"></a>Купить или развернуть в частном магазине Azure Marketplace
 
@@ -213,16 +212,16 @@ Assign-MarketplaceAdminRole
 
 - Когда пользователь выбирает разрешенный план, кнопка **создать** включена.
 
-    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Портал Azure главное окно.":::
+    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Баннер предложения с указанием на возможность создания плана.":::
 
 - Когда пользователь выбирает неразрешенный план, баннер заметит, что этот план не разрешен и кнопка **создать** отключена.
 
-   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Портал Azure главное окно.":::
+   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Баннер предложения, указывающее, что план не может быть создан.":::
 
 - Если выбор плана продукта не отображается на странице сведений о продукте, но администратор утвердил один или несколько планов, в баннер записываются разрешенные планы и включена кнопка **создать** .
 
-    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Портал Azure главное окно.":::
+    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Баннер предложения с уведомлением о том, что план можно создать и Показать доступные планы.":::
 
-## <a name="contact-support"></a>Обращение в службу поддержки
+## <a name="contact-support"></a>Обратитесь в службу поддержки.
 
 Для поддержки Azure Marketplace посетите веб [-сайт Microsoft Q&A](/answers/products/). 
