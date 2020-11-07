@@ -1,7 +1,7 @@
 ---
 title: Поиск идентификатора клиента, доменного имени, идентификатора объекта пользователя
 ms.topic: how-to
-ms.date: 09/16/2020
+ms.date: 11/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как найти идентификаторы в портал Azure — идентификатор клиента Azure AD в Организации, доменное имя или идентификатор конкретного объекта пользователя. Для некоторых задач требуются эти сведения.
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4a3695079a9d5b0b3c66b7c2eda52a31888a6660
-ms.sourcegitcommit: 3158b0de261539694e37e433c763afa4067e36fb
+ms.openlocfilehash: b88d6e11c7f4d56cf58d136a91b530688b3e5413
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90740436"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360077"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Поиск важных идентификаторов для пользователя
 
@@ -28,7 +28,7 @@ ms.locfileid: "90740436"
 
 ## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Поиск идентификатора клиента Microsoft Azure AD и основного доменного имени
 
-Выполните следующие действия, чтобы указать идентификатор клиента Azure AD или имя основного домена в портал Azure.
+Выполните следующие действия, чтобы указать идентификатор клиента Azure AD или имя основного домена в портал Azure. (Если вы хотите найти идентификатор клиента программно, см. раздел [Поиск идентификатора клиента с помощью PowerShell или интерфейса командной строки](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell).)
 
 > [!NOTE]
 > Идентификатор клиента может называться разными именами в разных приложениях или ресурсах. Например, идентификатор клиента может называться ИДЕНТИФИКАТОРом каталога, клиентом Azure Active Directory (Azure AD), ИДЕНТИФИКАТОРом Microsoft или для определенных отчетов, даже *тенантгуид*.
@@ -47,7 +47,7 @@ ms.locfileid: "90740436"
 
    На странице свойств также отображается связанный с пользователем идентификатор клиента.
 
-   :::image type="content" source="images/id/3-find-id-azure-portal-aad-properties-tenant-id-partial.png" alt-text="Отображает страницу свойств с выделенным полем идентификатор клиента.":::
+   :::image type="content" source="images/id/3-find-id-azure-portal-aad-properties-tenant-id-partial.png" alt-text="Отображает страницу свойств с выделенным полем &quot;идентификатор клиента&quot;.":::
 
 ## <a name="find-the-user-object-id"></a>Поиск идентификатора объекта пользователя
 
@@ -73,7 +73,8 @@ ms.locfileid: "90740436"
 
       :::image type="content" source="images/id/7-find-id-azure-portal-aad-user-profile-object-id.png" alt-text="Отображает страницу профиля пользователя с разделом Identity и одно выделенное поле для идентификатора объекта.":::
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие шаги
 
+- [Программный поиск идентификатора клиента с помощью PowerShell или интерфейса командной строки](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [Дополнительные сведения о профилях пользователей в Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [Узнайте, как партнеры могут просматривать или экспортировать сведения о клиентах в центре партнеров](see-your-customer-list.md)
