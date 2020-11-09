@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d990a2cb4dcb69dfc76e8a4f0d40fd4912b4f8a0
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 6bf3e3af8e0d1d87a63f86e892d8bddcd74b6460
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174846"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381415"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Устранение проблем с настройкой учетной записи или обновлением MPN
 
@@ -50,7 +50,7 @@ ms.locfileid: "92174846"
 
 Если вы забыли пароль, выберите ссылку **не удается получить доступ к своей учетной записи?** на странице входа. Этот параметр позволяет сбросить пароль или попросить глобального администратора назначить вам новые учетные данные.
 
-## <a name="on-the-tell-us-about-your-company-scree-you-receive-a-something-went-wrong-error"></a>На странице "Расскажите о своей компании" visualbasicwinappprojectscriptonlyviewbutton появляется сообщение об ошибке "что-то пошло не так"
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>На экране "Расскажите о своей компании" появляется сообщение об ошибке "что-то пошло не так"
 
 Это сообщение об ошибке обычно появляется при непреднамеренном использовании специальных символов, пробелов или кода страны в номере телефона вашей компании. Значение, указанное в поле номер телефона, может содержать не более 10 символов.
 
