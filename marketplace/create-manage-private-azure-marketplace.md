@@ -3,15 +3,15 @@ title: Создание частного магазина Azure Marketplace и �
 description: Узнайте, как создать частный сайт Azure Marketplace (Предварительная версия) и управлять им в портал Azure.
 ms.prod: marketplace-customer
 ms.topic: article
-author: keferna
-ms.author: keferna
+author: msjogarrig
+ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: 31179d9fd4068348e689d8b426b7a0307112501a
-ms.sourcegitcommit: af4726de429d2b9b7c3656d5cac7d542b0d4af74
+ms.openlocfilehash: 1333bb2c8830cec83d7b7f05890af818d5c0ce5b
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "93414864"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94487709"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Создание и управление частными Azure Marketplace (Предварительная версия) в портал Azure
 
@@ -31,7 +31,7 @@ ms.locfileid: "93414864"
 >[!IMPORTANT]
 > Доступ к частному управлению Azure Marketplace доступен только ИТ-администраторам с назначенной ролью администратора Marketplace.
 
-### <a name="prerequisites"></a>Обязательные условия
+### <a name="prerequisites"></a>Предварительные требования
 
 Прежде чем назначать роль администратора Marketplace пользователю в области клиента, необходимо выполнить эти предварительные требования.
 
@@ -222,6 +222,6 @@ Assign-MarketplaceAdminRole
 
     :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Баннер предложения с уведомлением о том, что план можно создать и Показать доступные планы.":::
 
-## <a name="contact-support"></a>Обратитесь в службу поддержки.
+## <a name="contact-support"></a>Обращение в службу поддержки
 
 Для поддержки Azure Marketplace посетите веб [-сайт Microsoft Q&A](/answers/products/). 
