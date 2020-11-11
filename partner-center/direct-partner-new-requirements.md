@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 10/29/2020
-ms.openlocfilehash: 7b965bff0a962e26e5e5800a6059e4a6fc7a1d6a
-ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
+ms.openlocfilehash: 882617433f7cf2bce01de8dce608951a9a13c77e
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "93045378"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360026"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Требования к регистрации партнеров CSP с правом на прямое выставление счетов
 
@@ -55,7 +55,7 @@ ms.locfileid: "93045378"
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
-- [Новые требования к доходу для партнеров с прямым выставлением счетов](https://docs.microsoft.com/partner-center/announcements/2020-october#13)
+- [Новые требования к доходу для партнеров с прямым выставлением счетов](./announcements/2020-october.md#13)
  
 
 - [Дополнительные сведения о том, как стать косвенным торговым посредником](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
