@@ -324,6 +324,25 @@
     - name: Устранение проблем с платежами и прибылью
       href: incentives-payment-issues.md
       displayName: incentives
+    - name: Работа на платформе Channel Incentives Platform (CHIP)
+      items:
+        - name: Навигация по CHIP
+          href: chip-intro.md
+          displayName: chip
+        - name: Добавление пользователей в учетную запись CHIP
+          href: chip-users.md
+        - name: Просмотр сведений о прибыли на платформе CHIP
+          href: chip-earnings.md
+        - name: Проверка состояния оплаты на платформе CHIP
+          href: chip-payment-status.md
+        - name: Определение количества рабочих столов и ставки для соглашения
+          href: chip-locate-agreement.md
+        - name: Соответствие требованиям для использования функции оценки решений
+          href: chip-solution-assessment.md
+        - name: Состояние оплаты для функции оценки решений
+          href: chip-solution-assessment-payment.md
+        - name: Проблема с доступом к CHIP
+          href: chip-access-trouble.md
 - name: Выставление счетов и налоги
   href: billing.md
   displayName: trial
