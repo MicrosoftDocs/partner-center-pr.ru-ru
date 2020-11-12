@@ -8,19 +8,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 06/03/2020
-ms.openlocfilehash: 49b5bd1c9a7cd4c56f2fac28a45cc8a4b922b9b0
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.date: 11/11/2020
+ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "92333760"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532044"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Добавьте общие службы партнеров Azure, чтобы партнеры могли покупать подписки Azure для их собственного использования.
 
-**Относится к**
-
-- Центр партнеров
  
 **Соответствующие роли**
 
@@ -38,17 +35,17 @@ ms.locfileid: "92333760"
 
 2. Если у вас еще нет клиента общих служб, нажмите кнопку **Создать общие службы**.
 
-   :::image type="content" source="images/sharedservices3.png" alt-text="Параметры учетной записи > общие службы":::
+   :::image type="content" source="images/sharedservices3.png" alt-text="Создание общих служб":::
 
 3. Эта кнопка используется для создания клиента общих служб и приобретения подписки на службы Azure Shared Services по программе CSP, которая будет использоваться для общих ресурсов и внутренней рабочей нагрузки.
 
-   :::image type="content" source="images/sharedservices5.png" alt-text="Параметры учетной записи > общие службы":::
+   :::image type="content" source="images/sharedservices5.png" alt-text="Создание клиента и приобретение подписки":::
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>Сведения о предложении «Azure — службы (цен. категория "Общий") и внутренние рабочие нагрузки»
 
 - Azure — службы (цен. категория "Общий") и внутренние рабочие нагрузкиная Подписка — это новый тип предложения Azure в CSP, доступ к которому осуществляется через центр партнеров, с помощью которого партнеры получают собственное использование Azure.
 
-- Предложение Azure — службы (цен. категория "Общий") и внутренние рабочие нагрузки не подходит для скидок и поощрения.
+- Azure — службы (цен. категория "Общий") и внутренние рабочие нагрузки предложение подходит для скидок и поощрения.  Подписки на общие службы партнеров Azure можно использовать для приобретения RIs.
 
 - Предложение «Azure — службы (цен. категория "Общий") и внутренние рабочие нагрузки» применимо только к клиенту общих служб.
 
@@ -78,3 +75,7 @@ ms.locfileid: "92333760"
 Чтобы воспользоваться преимуществами полного каталога доступных предложений Marketplace (не просто BYOL и бесплатных служб), мы рекомендуем партнерам CSP развертывать общие службы с помощью веб-прямых подписок Azure.  Партнеры CSP, которые ранее развернули сторонние BYOL и бесплатные ресурсы службы из Marketplace, и хотели бы продолжить их использование и развернуть другие предложения от сторонних производителей, рекомендуется перенести подписку АПСС в веб-прямую [миграцию существующих подписок Azure](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
 
 Партнеры, планирующие продолжать использовать подписку АПСС после 1 марта 2019 и хотели бы развернуть новые сторонние [BYOL Services](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) или бесплатные службы, могут следовать инструкциям от независимых поставщиков программных продуктов для развертывания их в своих подписках апсс.
+
+## <a name="next-steps"></a>Дальнейшие действия
+
+- [Продажа подписок на программное обеспечение в рамках CSP](csp-software-subscriptions.md)

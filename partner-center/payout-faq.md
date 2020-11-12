@@ -4,15 +4,15 @@ description: Получите ответы на часто задаваемые 
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
-author: keferna
-ms.author: keferna
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/11/2020
-ms.openlocfilehash: 44bd7f488e3d4e79c45cb2746c7e2a6da449a310
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5775eb497940870344e0d3da85def7c3e717c65f
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175297"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532027"
 ---
 # <a name="common-questions-about-commercial-marketplace-payouts"></a>Распространенные вопросы о выплатах коммерческого рынка
 
@@ -32,7 +32,7 @@ ms.locfileid: "92175297"
 - Проверка ответственности налогов на оплату по странам. В тех странах, где удержание налога возложено на Майкрософт, корпорация Майкрософт собирает и вычитает налог из доходов издателя. Сумма транзакции в выписке отображается уже после снятия налога. См. [Сведения о налогах](tax-details-marketplace.md).
 - Предложения SaaS и IaaS имеют скидку в размере 10%, а не стандартный 20%, что ведет к сумме доходов 90%. Это предложение действует до 30 июня 2021 г.
 
-**Дополнительные материалы**: [соглашение с издателем коммерческого магазина](https://go.microsoft.com/fwlink/p/?LinkID=699560), [сведения о политике](payout-policy-details.md) [выплат, порог оплаты, метод и период времени](payment-thresholds-methods-timeframes.md), [уплаченные в коммерческом магазине](marketplace-get-paid.md), [сведения о налогах](tax-details-marketplace.md), [заявления о выплатах](payout-statement.md)и [панели мониторинга заказов в коммерческой аналитике Marketplace](/azure/marketplace/partner-center-portal/orders-dashboard)
+**Дополнительные материалы** : [соглашение с издателем коммерческого магазина](https://go.microsoft.com/fwlink/p/?LinkID=699560), [сведения о политике](payout-policy-details.md) [выплат, порог оплаты, метод и период времени](payment-thresholds-methods-timeframes.md), [уплаченные в коммерческом магазине](marketplace-get-paid.md), [сведения о налогах](tax-details-marketplace.md), [заявления о выплатах](payout-statement.md)и [панели мониторинга заказов в коммерческой аналитике Marketplace](/azure/marketplace/partner-center-portal/orders-dashboard)
 
 ## <a name="earnings-reconciliation"></a>Сверка по доходам
 ### <a name="how-do-i-reconcile-payout-statements-to-order-or-usage-reports-in-analytics"></a>Как сверить заявления о выплатах для отчетов о заказах или использовании при аналитике?
@@ -47,7 +47,7 @@ ms.locfileid: "92175297"
 - Для корпоративных клиентов доход от издателя отображается в заявлении за 1-2 дней после даты заказа на покупку.
 - Для некорпоративных клиентов доход от издателя отображается в заявлении за 1-2 дней после получения оплаты клиента.
 
-**Дополнительные материалы**: [заявления о выплатах](payout-statement.md), [панель мониторинга заказов в службе анализа коммерческих рынков](/azure/marketplace/partner-center-portal/orders-dashboard)
+**Дополнительные материалы** : [заявления о выплатах](payout-statement.md), [панель мониторинга заказов в службе анализа коммерческих рынков](/azure/marketplace/partner-center-portal/orders-dashboard)
 
 ## <a name="payout-policies"></a>Политики выплат
 
@@ -60,7 +60,7 @@ ms.locfileid: "92175297"
 - Если ваш доход находится в состоянии "не обработано", вы можете проверить дату погашения за месяц, в течение которого доходы будут обрабатываться для оплаты. После подготовки платежа состояние вашего получения изменится на "обработано".  Корпорация Майкрософт осуществляет платежи в течение 15 месяцев по сроку погашения.
 - Для заказов, оплаченных кредитной картой, корпорация Майкрософт удерживает платежи через 30 дней до тех пор, пока не будет достигнуто получение.
 
- **Дополнительные материалы**: [соглашение с издателем коммерческого магазина](https://go.microsoft.com/fwlink/p/?LinkID=699560), [сведения о политике](payout-policy-details.md)выплат, [сведения о налогах](tax-details-marketplace.md), [порог оплаты, метод и интервал времени](payment-thresholds-methods-timeframes.md)
+ **Дополнительные материалы** : [соглашение с издателем коммерческого магазина](https://go.microsoft.com/fwlink/p/?LinkID=699560), [сведения о политике](payout-policy-details.md)выплат, [сведения о налогах](tax-details-marketplace.md), [порог оплаты, метод и интервал времени](payment-thresholds-methods-timeframes.md)
 
 ## <a name="payments-and-adjustments"></a>Платежи и корректировки
 
@@ -81,7 +81,7 @@ ms.locfileid: "92175297"
 
 Корректировки платежей — это транзакции, позволяющие адаптировать компенсационные изменения, такие как проблемы в системе. В заявлении о платеже причина корректировки указывается в поле ReasonCode. Корректировки не предназначены для согласования непосредственно с отдельными транзакциями.
 
-**Дополнительные материалы**: [соглашение с издателем коммерческого магазина](https://go.microsoft.com/fwlink/p/?LinkID=699560), [сведения о политике](payout-policy-details.md)выплат, [сведения о налогах](tax-details-marketplace.md), [порог оплаты, метод и интервал времени](payment-thresholds-methods-timeframes.md)
+**Дополнительные материалы** : [соглашение с издателем коммерческого магазина](https://go.microsoft.com/fwlink/p/?LinkID=699560), [сведения о политике](payout-policy-details.md)выплат, [сведения о налогах](tax-details-marketplace.md), [порог оплаты, метод и интервал времени](payment-thresholds-methods-timeframes.md)
 
 ## <a name="taxes"></a>Налоги
 
@@ -104,16 +104,16 @@ ms.locfileid: "92175297"
 #### <a name="how-do-i-find-withholding-tax-for-a-transaction"></a>Как найти размер подоходного налога для транзакции?
 Подоходный налог применяется для издателей из США, которые подали форму W-9. Подоходный налог вычисляется по месячному платежу.
 
-**Дополнительные материалы**: [соглашение издателя коммерческого магазина](https://go.microsoft.com/fwlink/p/?LinkID=699560), [сведения о политике](payout-policy-details.md) выплат
+**Дополнительные материалы** : [соглашение издателя коммерческого магазина](https://go.microsoft.com/fwlink/p/?LinkID=699560), [сведения о политике](payout-policy-details.md) выплат
 
 ## <a name="payout-statement-access"></a>Доступ к оператору выплаты
 
 #### <a name="how-do-i-access-a-payout-statement"></a>Как получить доступ к выписке о выплатах?
 
 1. Проверьте свои роли. Для доступа к выписке о выплатах необходимо иметь роль *финансиста* или *владельца учетной записи*.
-2. В верхней правой области навигации щелкните значок **выплата** , чтобы просмотреть заявление о выплатах. Выбор между **журналом транзакций**, **оплатой**и **загрузкой**.
+2. В верхней правой области навигации щелкните значок **выплата** , чтобы просмотреть заявление о выплатах. Выбор между **журналом транзакций** , **оплатой** и **загрузкой**.
 
-**Дополнительные материалы**: [выдача ролей и разрешений](payout-statement.md#roles-and-permissions), [выплата выписок](payout-statement.md) 
+**Дополнительные материалы** : [выдача ролей и разрешений](payout-statement.md#roles-and-permissions), [выплата выписок](payout-statement.md) 
 
 ## <a name="payout-statement-report"></a>Отчет об отчете о выплатах
 
@@ -141,7 +141,7 @@ ms.locfileid: "92175297"
 
 Перейдите на [страницу профиля](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage), чтобы просмотреть налоговые формы за год.
 
-**Дополнительные материалы**: [отчеты о выплатах](payout-statement.md), [Загрузка журнала транзакций](payout-statement.md#transaction-history-download)
+**Дополнительные материалы** : [отчеты о выплатах](payout-statement.md), [Загрузка журнала транзакций](payout-statement.md#transaction-history-download)
 
 ## <a name="historical-statements"></a>Ретроспективная отчетность
 
@@ -149,7 +149,7 @@ ms.locfileid: "92175297"
 
 В ретроспективной выписке будет указан моментальный снимок данных о выплатах по состоянию на октябрь 2019 года. К сожалению, сведения о выплатах не обновляются. Чтобы получить последние сведения, отправьте запрос в службу поддержки для получения последних данных.
 
-**Дополнительные материалы**: [отчеты о выплатах](payout-statement.md), [Загрузка журнала транзакций](payout-statement.md#transaction-history-download)
+**Дополнительные материалы** : [отчеты о выплатах](payout-statement.md), [Загрузка журнала транзакций](payout-statement.md#transaction-history-download)
 
 ## <a name="payout-export-api"></a>API экспорта выплата
 
