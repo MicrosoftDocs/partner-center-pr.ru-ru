@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/30/2020
-ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 37b8072742db0a9f8eb6bda3b74bf2db66b32e3d
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132833"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433314"
 ---
 # <a name="october-2020-announcements"></a>Объявления на октябрь 2020 года
 
@@ -23,6 +23,27 @@ ms.locfileid: "93132833"
 Объявления за 2020 год:  [март](2020-march.md) | [апрель](2020-april.md) | [май](2020-may.md) | [июнь](2020-june.md) | [июль](2020-july.md) | [август](2020-august.md) | [сентябрь](2020-september.md) | октябрь
 
 ______________
+
+## <a name="correction-to-calling-plan-expansion"></a><a name="18"></a>Исправление, касающееся расширения тарифного плана 
+
+### <a name="categories"></a>Категории
+
+- Дата: 29.10.2020
+- Предложения и рынки
+
+### <a name="impacted-audience"></a>Затронутая аудитория
+
+Прямые поставщики, косвенные поставщики и косвенные торговые посредники.
+
+### <a name="details"></a>Сведения
+
+1 октября 2020 г. мы объявили о [доступности Плана звонков Office 365 на новых рынках](2020-september.md#2). Это объявление не соответствует действительности: в рамках внутренних планов 240 минут на пользователя в месяц не предоставляется, как упоминалось ранее. 
+
+
+Дополнительные сведения о планах звонков см. в [документации по продуктам](/microsoftteams/calling-plan-landing-page) Microsoft Teams.
+
+
+________________
 
 ## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Обновление функций подписок ПО Windows Server
 
@@ -289,7 +310,7 @@ ________________
 - Дата: 12.10.2020
 - Предложения и рынки
  
-### <a name="summary"></a>Итоги 
+### <a name="summary"></a>Сводка 
 
 1 ноября 2020 г. корпорация Майкрософт представит новые номера SKU для Голосовой связи Microsoft 365 бизнес для некоммерческих организаций.
 
