@@ -338,9 +338,11 @@
         - name: Определение количества рабочих столов и ставки для соглашения
           href: chip-locate-agreement.md
         - name: Соответствие требованиям для использования функции оценки решений
-          href: chip-solution-assessment.md
+          href: chip-solutions-assessment-eligible.md
         - name: Состояние оплаты для функции оценки решений
           href: chip-solution-assessment-payment.md
+        - name: Вопросы и ответы по функции оценки решений
+          href: chip-faq.md
         - name: Проблема с доступом к CHIP
           href: chip-access-trouble.md
 - name: Выставление счетов и налоги
@@ -365,6 +367,10 @@
       href: daily-rated-usage-recon-files.md
     - name: Файлы выверки на основе лицензии
       href: license-based-recon-files.md
+    - name: Файлы выверки по однократной покупке для CSP
+      href: modern-invoice-reconciliation-file.md
+    - name: Вычисление фактической цены за единицу
+      href: effective-unit-price-calculation.md
     - name: Распространенные сценарии выставления счетов
       href: common-billing-scenarios.md
       displayName: 'trial, subscription'

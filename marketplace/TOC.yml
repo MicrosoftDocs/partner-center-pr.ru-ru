@@ -3,3 +3,7 @@
   items:
     - name: Создание частной платформы Azure Marketplace
       href: create-manage-private-azure-marketplace.md
+- name: Справочник
+  items:
+    - name: Azure PowerShell
+      href: /powershell/module/az.marketplace
