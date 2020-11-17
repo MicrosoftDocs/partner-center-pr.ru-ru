@@ -9,12 +9,12 @@ ms.subservice: partnercenter-csp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/06/2020
-ms.openlocfilehash: 1f352234f47ea8b2745c649401603f931ec68957
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 34a18e4a4bf4d5c29265fdf76fae05b4ba16a3bc
+ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381437"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94670173"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Пошаговое руководством по совместному продажам в центре партнеров (ПК) для партнеров, выполняющих переход от партнеров Sales Connect (PSC)
 
@@ -78,7 +78,7 @@ ms.locfileid: "94381437"
 После настройки учетной записи в центре партнеров используйте мастер миграции пользователей на странице возможности совместной работы, чтобы автоматическое назначение ролей центра партнеров сотрудникам вашей компании.
 
 >[!Note]
-> Миграция пользователей может выполняться только [администраторами учетной записи](permissions-overview.md#manage-mpn-membership-and-your-company) вашей компании. Если у вас нет роли администратора учетной записи, найдите администратора учетной записи, который может помочь настроить учетные записи пользователей с помощью мастера миграции пользователей. Функция миграции пользователей будет доступна начиная с 16 ноября 2020.
+> Миграция пользователей может выполняться только [администраторами учетной записи](permissions-overview.md#manage-mpn-membership-and-your-company) вашей компании. Если у вас нет роли администратора учетной записи, найдите администратора учетной записи, который может помочь настроить учетные записи пользователей с помощью мастера миграции пользователей. Функция миграции пользователей будет доступна начиная с 18 ноября 2020 г.
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Изображение, показывающее мастер миграции пользователей.":::
 

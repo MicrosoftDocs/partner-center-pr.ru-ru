@@ -614,7 +614,7 @@
           href: advisor-create-a-purchase-offer.md
 - name: Данные и аналитика в Центре партнеров
   items:
-    - name: Доступ к данным и аналитике пользователей
+    - name: Получение доступа к данным подписок и аналитическим сведениям
       href: data-analysis-lp.md
     - name: "Приложение \"Аналитика Центра партнеров для Power\_BI\""
       items:
@@ -628,7 +628,7 @@
       items:
         - name: Сведения об аналитике
           href: partner-center-insights.md
-          displayName: mpn
+          displayName: data
         - name: Доступ к аналитике на основе ролей
           href: pci-roles.md
         - name: Аналитический отчет

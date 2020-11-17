@@ -1,7 +1,7 @@
 ---
 title: Получение дополнительных специализаций
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Укрепите свой бизнес-профиль в каталоге партнеров Майкрософт. Узнайте, как получить дополнительные специализации, а также золотую и серебряную компетенции.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5dd5866a5ea9a87f0cd61cd863a6cd72ec070a10
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 3b655b5cbd9a8ae2cc907af3ab4da561650e8aa1
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198080"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691390"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise"></a>Получите расширенную специализацию, чтобы продемонстрировать опыт
 
@@ -32,24 +32,25 @@ ms.locfileid: "92198080"
 Вы можете получить дополнительные специализации в двух основных областях знаний:
 
 - Azure
-- Современное рабочее место и безопасность
+- Современная работа и безопасность
 
 В число дополнительных специализаций **Azure** входят следующие:
 
-- Миграция Windows Server и SQL Server в Microsoft Azure 
-- Виртуальный рабочий стол Microsoft Windows
-- Миграция Linux и баз данных с открытым исходным кодом на Microsoft Azure
-- Kubernetes на Microsoft Azure
 - Миграция хранилища данных в Microsoft Azure
-- SAP в Microsoft Azure
+- Kubernetes на Microsoft Azure
+- Миграция Linux и баз данных с открытым исходным кодом на Microsoft Azure
+- Виртуальный рабочий стол Microsoft Windows
 - Модернизации веб-приложений для Microsoft Azure
+- SAP в Microsoft Azure
+- Миграция Windows Server и SQL Server в Microsoft Azure
  
-Современные специализации на **рабочем месте и безопасности** включают:
+**Современные специализации работы и безопасности** включают в себя:
 
-- Собрания и комнаты совещаний для Microsoft Teams
 - Внедрение и управление изменениями
-- Развертывание с обсотрудничеством
 - Вызов для Microsoft Teams
+- Собрания и комнаты совещаний для Microsoft Teams
+- Развертывание с обсотрудничеством
+- Управление удостоверениями и доступом
 - Защита от угроз
  
 > [!NOTE]
@@ -79,12 +80,12 @@ ms.locfileid: "92198080"
 
 Вы должны пройти аудит с аудитором стороннего разработчика для следующих дополнительных специализаций Azure:
 
-- Миграция Windows Server и SQL Server в Microsoft Azure
-- Миграция Linux и базы данных с открытым исходным кодом на Microsoft Azure
 - Миграция хранилища данных в Microsoft Azure
 - Kubernetes на Microsoft Azure
-- Модернизации веб-приложений для Microsoft Azure
+- Миграция Linux и базы данных с открытым исходным кодом на Microsoft Azure
 - Виртуальный рабочий стол Microsoft Windows
+- Модернизации веб-приложений для Microsoft Azure
+- Миграция Windows Server и SQL Server в Microsoft Azure
 
 ### <a name="audit-example-in-partner-center"></a>Пример аудита в центре партнеров
 
@@ -101,11 +102,13 @@ ms.locfileid: "92198080"
 
 Вам понадобятся ссылки клиентов на следующие дополнительные специализации:
 
-- SAP в Azure
+
 - Внедрение и управление изменениями
-- Развертывание с обсотрудничеством
 - Вызов для Microsoft Teams
 - Собрания и комнаты собраний
+- SAP в Azure
+- Развертывание с обсотрудничеством
+- Управление удостоверениями и доступом
 - Защита от угроз
 
 ### <a name="customer-reference-example-in-partner-center"></a>Пример ссылки на клиента в центре партнеров
@@ -114,11 +117,11 @@ ms.locfileid: "92198080"
 
 Помимо компетенции Gold, сертификации и требований к производительности необходимо предоставить три клиентских ссылки, которые демонстрируют возможность развертывания и управления.
 
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Страница примеров предварительных требований, в которой приведены требования для получения компетенции активной облачной платформы Gold.":::
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Пример страницы предварительных требований для расширенных специализаций, требующей ссылок клиентов.":::
 
 Пока не будут выполнены все предварительные требования, состояние **не будет запущено.** После выполнения всех требований состояние изменится на **активно**. Активное состояние автоматически включает тег расширенной специализации в вашем **бизнес-профиле**. Этот профиль является видимым для всех клиентов, пытающихся [найти поставщика решений](https://www.microsoft.com/solution-providers/home).
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - Дополнительные сведения о [расширенных специализациях](https://partner.microsoft.com/membership/advanced-specialization).
 
