@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 4839fbd6fac5f84e5a2ebc40d1f7f48da6114113
-ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
+ms.openlocfilehash: 8ae4bed8536907c59f1b22e72896cfbe7f7aff9a
+ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "93363628"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94670156"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Назначение ролей и разрешений пользователям компании для работы в Центре партнеров
 
@@ -130,7 +130,7 @@ ms.locfileid: "93363628"
 ## <a name="manage-referrals"></a>Управление авторами
 
 > [!Note]
->С 16 ноября 2020 г. будет доступна новая роль пользователя "Рекомендации". Существующие администраторы рекомендаций сохранят свою роль администратора рекомендаций в пределах всей компании.
+>С 18 ноября 2020 г. будет доступна новая роль пользователя "Рекомендации". Существующие администраторы рекомендаций сохранят свою роль администратора рекомендаций в пределах всей компании.
 
 |**Роль** | **Права и возможности**|**Дополнительные сведения**
 |------------------------------|:-------------------------|---|

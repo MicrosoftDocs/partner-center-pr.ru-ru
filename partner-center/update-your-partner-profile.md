@@ -1,20 +1,20 @@
 ---
 title: Проверка профиля партнера
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Узнайте, как проверить сведения о своей компании, такие как основной контакт, адрес и сведения о программе. Вы можете также обновить свой юридический адрес и адрес для выставления счетов.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 07/10/2020
+ms.date: 11/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 9e2fbef36bcc4a191235570a0d1735bd755ad317
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490642"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626003"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Проверка информации профиля партнера в Центре партнеров
 
@@ -69,9 +69,17 @@ ms.locfileid: "89490642"
 
 ## <a name="update-your-billing-address"></a>Обновление адреса для выставления счетов
 
-Если вы являетесь глобальным администратором, администратором выставления счетов или агентом администратора, вы можете изменить адрес, который будет отображаться в вашем счете-фактуре в разделе **Профиль выставления счетов**. Тем не менее вы не можете изменить имя компании в счете-фактуре из-за ограничений в системе выставления счетов.
+Если вы являетесь глобальным администратором, администратором выставления счетов или агентом по администрированию, вы можете обновить следующее:
 
- 
+- адрес, который отображается в счете в **профиле выставления счетов**;
+- ваш номер заказа на покупку.
+
+Но вы не можете изменить следующее:
+ 
+- Название организации
+- Страна или регион
+- Дата выставления счетов
+ 
 ## <a name="next-steps"></a>Дальнейшие действия
 
 - [Управление расположениями](manage-locations.md)

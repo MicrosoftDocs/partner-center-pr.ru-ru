@@ -1,7 +1,7 @@
 ---
 title: Требования к компетенциям Майкрософт уровня Silver и Gold
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как получить статус элитного партнера Майкрософт и привлечь новых клиентов, выполнив необходимые требования и став участником с уровнем компетенций Silver или Gold.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1392a4c4a0147af3ffe18564da08061cd10cbc06
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100724"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691339"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Выделите свой бизнес на фоне конкурентов, получив компетенции Майкрософт
 
@@ -65,6 +65,10 @@ ms.locfileid: "92100724"
 
 - Узнайте, как дополнительно продемонстрировать свои экспертные знания, совмещая компетенцию уровня Gold с одной или несколькими [расширенными специализациями](advanced-specializations.md).
 
-- Узнайте о конкретных [преимуществах выхода на рынок](mpn-learn-about-go-to-market-benefits.md), обеспечиваемых компетенциями.
+- Узнайте о конкретных [ресурсах для выхода на рынок](mpn-learn-about-go-to-market-benefits.md), включенных в компетенции.
 
 - Узнайте о [счетах и налогах, связанных с компетенциями](mpn-view-print-maps-invoice.md).
+
+- Чтобы узнать состояние своих компетенций, просмотрите [отчет о компетенциях](pci-competencies-report.md) в разделе аналитики Центра партнеров.
+
+- Просмотрите [ответы на часто задаваемые вопросы](competencies-faq.md) о компетенциях.
