@@ -3,15 +3,15 @@ title: Интеграция с партнерами Azure Marketplace
 description: Узнайте о решениях Azure Marketplace, которые интегрируются с вашей средой Azure, и получайте ссылки на руководства по развертыванию от партнеров Майкрософт.
 ms.service: partner-services
 ms.topic: conceptual
-author: dsindona
-ms.author: dsindona
+author: JasonWHowell
+ms.author: jasonh
 ms.date: 11/16/2020
-ms.openlocfilehash: 7c97936e7764361c21503eca174433029707cf69
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: b31486000e59f3d85ee30019ecea000252b297a8
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691671"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006911"
 ---
 # <a name="azure-marketplace-partner-integrations"></a>Интеграция с партнерами Azure Marketplace
 
@@ -44,7 +44,7 @@ Datadog предоставляет средства наблюдения и об
 
 Дополнительные сведения об этом решении и регистрация для получения общедоступной предварительной версии см. в [документации по Azure Monitor](/azure/azure-monitor/platform/partners#datadog) .
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Интернет-магазин Azure Marketplace](https://azure.microsoft.com/marketplace/)
 - [Microsoft Learn: создание учетной записи Azure](/learn/modules/create-an-azure-account/)
