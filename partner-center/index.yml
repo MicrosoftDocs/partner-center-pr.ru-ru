@@ -9,13 +9,13 @@ metadata:
   ms.topic: landing-page
   author: LauraBrenner
   ms.author: labrenne
-  ms.date: 10/16/2020
-  ms.openlocfilehash: a10616a60e74de88c2f4fda37062275e47fb59bc
-  ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+  ms.date: 11/19/2020
+  ms.openlocfilehash: 90f63b0411935c560ca4693cf372c3d2a3e1fafd
+  ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "92198050"
+  ms.lasthandoff: 11/20/2020
+  ms.locfileid: "94983323"
 landingContent:
 - title: Начало работы с Центром партнеров
   linkLists:
@@ -85,22 +85,6 @@ landingContent:
       url: set-up-your-payout-account.md
     - text: Интерпретация счета
       url: read-your-bill.md
-- title: Ресурсы для разработчиков
-  linkLists:
-  - linkListType: reference
-    links:
-    - text: Присоединяйтесь к программе ранних последователей API и пакета SDK Центра партнеров
-      url: /partner-center/develop/early-adopter-program
-    - text: Документация для разработчиков Центра партнеров
-      url: /partner-center/develop
-    - text: Справочные материалы по REST API Центра партнеров
-      url: /partner-center/develop/partner-center-rest-api-reference
-    - text: Справочные материалы по API .NET Центра партнеров
-      url: /dotnet/api/?view=partnercenter-dotnet-latest&preserve-view=true
-    - text: SDK Центра партнеров для Java
-      url: /java/partnercenter/overview
-    - text: PowerShell для Центра партнеров
-      url: /powershell/partnercenter/overview
 - title: Продажа на коммерческой платформе (независимые поставщики программного обеспечения)
   linkLists:
   - linkListType: concept
