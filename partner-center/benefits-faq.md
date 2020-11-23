@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 4af9e87ce02364f32f1aa41deb66d8935f657f40
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564734"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417257"
 ---
 # <a name="benefits-faq"></a>Часто задаваемые вопросы о преимуществах
 
@@ -96,7 +96,7 @@ ms.locfileid: "89564734"
 После назначения подписки пользователю необходимо войти в Visual Studio для управления ею.
 
 >[!Note]
-> Пользователь, назначенный для подписки Visual Studio в центре партнеров, не может быть удален до 90 дней после первоначального назначения.
+> Подписки Visual Studio могут быть переназначены от одного подписчика другому по истечении 90 дней исходного назначения.
 
 ## <a name="technical-benefits-and-support"></a>Технические преимущества и поддержка
 
