@@ -1,7 +1,7 @@
 ---
 title: Узнайте о своих преимуществах
 ms.topic: how-to
-ms.date: 09/02/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Узнайте, как найти преимущества MPN на панели мониторинга центра партнеров. Содержит сведения о том, как найти идентификатор доступа и идентификатор контракта для технических преимуществ.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a7d53da2f83fcd5c85732b24843365717e66429d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 0162766018087112ebe34c82f29902b3225822b1
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175320"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812841"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Поиск преимуществ Microsoft Partner Network 
 
@@ -74,7 +74,7 @@ ms.locfileid: "92175320"
 
    Вы должны увидеть конкретный **идентификатор контракта** на поддержку продукта и **идентификатор доступа** , назначенный этому преимуществам.  
 
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Расширенные преимущества":::
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Пример технического преимущества поддержки компетенции Gold Core с поддержкой продуктов Майкрософт, таких как идентификатор контракта и идентификатор доступа":::
 
    > [!NOTE]
    > Следите за этими идентификаторами поддержки. Некоторые системы могут запросить их при первом входе (или одного из пользователей вашей компании) в журнал запроса на поддержку, связанного с определенным техническим преимуществом. Все пользователи вашей компании могут использовать один и тот же идентификатор доступа и идентификатор контракта.
@@ -83,7 +83,7 @@ ms.locfileid: "92175320"
 
 Чтобы узнать, какие преимущества доступны для компетенций Microsoft Action Pack, серебряных и/или Gold, см. следующие ресурсы:
 
-- [Таблица лицензий для партнеров Microsoft Action Pack](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
+- [Таблица лицензий для партнеров Microsoft Action Pack](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
 
 - [Таблица лицензий для партнеров по компетенции](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
 
