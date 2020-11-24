@@ -1,11 +1,35 @@
 - name: Документация для клиентов marketplace-магазинов Майкрософт
   href: index.yml
+- name: Microsoft AppSource
+  items:
+    - name: О Microsoft AppSource
+      href: appsource-overview.md
+    - name: Приобретение программного обеспечения в AppSource
+      href: purchase-software-appsource.md
 - name: Azure Marketplace
   items:
-    - name: Создание частной платформы Azure Marketplace
+    - name: Об Azure Marketplace
+      href: azure-marketplace-overview.md
+    - name: Покупка
+      href: azure-purchasing-invoicing.md
+    - name: Выставление счетов и счетов-фактур
+      href: billing-invoicing.md
+    - name: Частные предложения
+      href: private-offers.md
+    - name: Права на перемещение подписки
+      href: transfer-eligibility.md
+    - name: 'Частная платформа Azure Marketplace: создание и управление'
       href: create-manage-private-azure-marketplace.md
     - name: Интеграция с партнерами Azure Marketplace
       href: partner-integrations.md
+- name: Общие ресурсы
+  items:
+    - name: Политики возврата денег
+      href: refund-policies.md
+    - name: Юридические контракты
+      href: legal-contracts.md
+    - name: Техническая поддержка
+      href: get-support.md
 - name: Справочник
   items:
     - name: Azure PowerShell
