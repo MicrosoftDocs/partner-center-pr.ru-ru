@@ -6,21 +6,51 @@ metadata:
   description: Узнайте, как найти и приобрести решения, приложения и службы от партнеров Майкрософт в наших интернет-магазинах.
   ms.service: marketplace
   ms.topic: landing-page
-  author: dsindona
-  ms.author: dsindona
+  author: JasonWHowell
+  ms.author: jasonh
   ms.date: 11/17/2020
-  ms.openlocfilehash: ef9904ec327b26285e04aa4acc4ae11bf1def7b6
-  ms.sourcegitcommit: 4fd1ff569e22e5e10ba9896b4e63eead7dcc5f1e
+  ms.openlocfilehash: 00d4786e234f9ede011032a71233fdafa6724ab8
+  ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 11/18/2020
-  ms.locfileid: "94845260"
+  ms.lasthandoff: 11/21/2020
+  ms.locfileid: "95006928"
 landingContent:
+- title: Microsoft AppSource
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: Что такое Microsoft AppSource?
+      url: appsource-overview.md
+  - linkListType: get-started
+    links:
+    - text: Приобретение программного обеспечения в Microsoft AppSource
+      url: purchase-software-appsource.md
 - title: Azure Marketplace
   linkLists:
-  - linkListType: get-started
+  - linkListType: overview
+    links:
+    - text: Что такое Azure Marketplace?
+      url: azure-marketplace-overview.md
+  - linkListType: concept
+    links:
+    - text: Выставление счетов и счетов-фактур
+      url: billing-invoicing.md
+    - text: Права на перемещение подписки
+      url: transfer-eligibility.md
+    - text: Интеграция с партнерами Azure Marketplace
+      url: partner-integrations.md
+  - linkListType: how-to-guide
     links:
     - text: 'Частная платформа Azure Marketplace (предварительная версия): создание и управление'
       url: create-manage-private-azure-marketplace.md
-    - text: Интеграция с партнерами Azure Marketplace
-      url: partner-integrations.md
+- title: Распространенные сценарии
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Политики возврата денег
+      url: refund-policies.md
+    - text: Юридические контракты
+      url: legal-contracts.md
+    - text: Получение поддержки
+      url: get-support.md
