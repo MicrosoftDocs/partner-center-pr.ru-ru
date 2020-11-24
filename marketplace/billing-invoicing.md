@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: d0db9296157eb4a8f1d7ef7288d438cb39e1c026
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: d30678d38326a367b03cd81309c29c5b814a2f17
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007352"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514781"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Выставление счетов и выписка в Azure Marketplace
 
@@ -57,11 +57,11 @@ ms.locfileid: "95007352"
 - Если платежным средством является кредитная карта, счет будет выставлен сразу после покупки резервирования. Этот счет будет отличаться от ежемесячного счета.
 - Если платежное средство — Проверка/проводка, эта покупка будет включена в ежемесячный счет в Marketplace.
 
-Это могут быть учетные записи выставления счетов программы Microsoft Online Service Program (MOSP), Клиентского соглашения Майкрософт (MCA) и Соглашения с партнером Майкрософт (MPA). Счета формируются на основе типа счета выставления счетов. Через несколько дней после окончания [расчетного периода](/azure/cost-management-billing/understand/download-azure-invoice#why-you-might-not-see-an-invoice)Azure Marketplace выставляет счета. Счет для Azure Marketplace, резервирования и плашечных виртуальных машин создается около [девятого дня месяца](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts). В нем отображаются соответствующие расходы за предыдущий месяц. Например, если пользователь приобрел резервирование 1 марта и еще одно резервирование в 30 марта, то один счет в апреле включает оба резервирования.
+Это могут быть учетные записи выставления счетов программы Microsoft Online Service Program (MOSP), Клиентского соглашения Майкрософт (MCA) и Соглашения с партнером Майкрософт (MPA). Счета формируются на основе типа счета выставления счетов. Через несколько дней после окончания расчетного периода Azure Marketplace выставляет счета. Счет для Azure Marketplace, резервирования и плашечных виртуальных машин создается около [девятого дня месяца](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts). В нем отображаются соответствующие расходы за предыдущий месяц. Например, если пользователь приобрел резервирование 1 марта и еще одно резервирование в 30 марта, то один счет в апреле включает оба резервирования.
 
 Дополнительные сведения о счетах см. в статье [сведения о расходах на внешние службы Azure](/azure/cost-management-billing/understand/understand-azure-marketplace-charges).
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Что такое Azure Marketplace?](azure-marketplace-overview.md)
 - [Покупки в Azure Marketplace](azure-purchasing-invoicing.md)
