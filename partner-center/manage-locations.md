@@ -1,7 +1,7 @@
 ---
 title: Управление расположениями в партнерской учетной записи
-ms.topic: article
-ms.date: 10/12/2020
+ms.topic: how-to
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Узнайте, как добавить новое расположение и каким образом идентификатор расположения MPN используется в программах поощрений, бизнес-операциях CSP, подписках и других транзакциях.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6b0fc84636befedbc51aa0672ce19110eb4d9aa
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100774"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514808"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Управление расположениями учетной записи MPN и добавление нового расположения
 
@@ -58,9 +58,9 @@ ms.locfileid: "92100774"
 
 1. Войдите в Центр партнеров, используя учетную запись MPN. Учетной записи MPN должны быть присвоены права глобального администратора или администратора учетной записи. 
 
-1. Щелкните значок **Параметры** и выберите **Параметры партнеров**.
+1. Щелкните значок **Параметры** и выберите **Параметры организации**.
 
-2. Выберите **Расположения**.
+2. Выберите элементы **Legal** (Юридическая информация) и **Расположения**.
 
 3. Выберите **Добавление расположения** и введите сведения об адресе расположения, которое требуется добавить для компании, а также основное контактное лицо для этого расположения.
 
@@ -69,18 +69,15 @@ ms.locfileid: "92100774"
 
 ## <a name="change-global-partner-account-location"></a>Изменение расположения глобальной учетной записи партнера
 
-1. На странице **[Расположения](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)** проверьте список расположений, чтобы убедиться, что в нем указано расположение вашего юридического лица. Если это не так, добавьте его.
+1. На странице **[Расположения офисов организации](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)** проверьте список расположений, чтобы убедиться, что в нем указано расположение вашего юридического лица. Если это не так, добавьте его.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Структура расположений MPN":::
+   :::image type="content" source="images/accountsettings/location1.png" alt-text="Снимок экрана со списком всех текущих расположений на странице расположения учетных записей Центра партнеров.":::
 
-2. Выберите **Профиль партнера** и щелкните **Update legal business profile** (Обновить официальный бизнес-профиль).
-
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Структура расположений MPN":::
-
+2. Выберите **Legal** (Юридическая информация) и щелкните **Update legal business profile** (Обновить официальный бизнес-профиль).
+  
 3. Выберите регион и юридическое лицо, а затем щелкните **Отправить**.
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Структура расположений MPN":::
-
+  
 ## <a name="next-steps"></a>Дальнейшие действия
 
 - Ознакомьтесь с [процессом проверки](verification-responses.md).
