@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: 1020adc0b2410435b31726fcc8a44342064bc4e8
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
+ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031557"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "94878806"
 ---
 # <a name="september-2020-announcements"></a>Объявления за сентябрь 2020 г.
 
@@ -46,7 +46,7 @@ ________________
 
 ### <a name="next-steps"></a>Дальнейшие действия
 
-- Дополнительные сведения о программном обеспечении Центра администрирования Microsoft 365 см. в статьях с [обзором](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), информацией об [общих задачах](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide) и [возможностях обработки лицензионных ключей](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- Дополнительные сведения о программном обеспечении Центра администрирования Microsoft 365 см. в статьях с [обзором](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), информацией об [общих задачах](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true) и [возможностях обработки лицензионных ключей](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 - Передайте сведения об этом обновлении в соответствующие отделы вашей организации.
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: e469f3a99a07715ebadf3b6bcca7b1cf1db46c44
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: f3503e4edf9b5e9081eb53b80a32f451db861a70
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031807"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947687"
 ---
 # <a name="august-2020-announcements"></a>Объявления за август 2020 года
 
@@ -167,8 +167,6 @@ ________________
 
 Реализовано при запуске
 - Возможность прямой трансляции мероприятия, на котором присутствуют до 20 000 участников (до 50 параллельных мероприятий, до 16 часов)
-- Интеграция средств записи данных для обеспечения соответствия требованиям (независимый поставщик программного обеспечения) 
-- Интеграция решений для контактных центров (независимый поставщик программного обеспечения) 
 
 Выпущено позднее в текущем 2020 году
 - Интерактивное собрание в Teams для 1000 участников 
