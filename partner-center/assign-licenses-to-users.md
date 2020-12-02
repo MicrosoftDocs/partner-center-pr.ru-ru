@@ -9,26 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fc208283e0ed8c0f164a44cc9bd70260b8671c6e
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198020"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474076"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Управление пользователями и лицензиями пользователей для учетных записей клиентов
-
-**Относится к**
-
-- Центр партнеров
 
 **Соответствующие роли**
 
 - Глобальный администратор
 - Администратор управления пользователями
 - Агент по администрированию
-- Агент по продажам
-- Агент службы технической поддержки
+
 
 Вы можете создавать и удалять новых пользователей в учетной записи клиента. Вы также можете восстановить одну или несколько учетных записей пользователей, которые ранее были удалены в течение 30 дней после удаления. Предыдущие подписки пользователя также будут восстановлены (если они доступны).
 
@@ -113,7 +108,7 @@ ms.locfileid: "92198020"
 
     Все выбранные учетные записи пользователей появятся на странице **Пользователи и лицензии**.
 
-## <a name="related-topics"></a>Статьи по теме
+## <a name="related-topics"></a>См. также
 
 
 [Назначение и отзыв лицензий для нескольких пользователей](bulk-license-provisioning-for-multiple-users.md)

@@ -9,19 +9,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5631e141f3b232ddfb0afd7dab6acc6a08f59df
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527010"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474178"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Advisor: создание базы клиента с помощью приглашений пробной версии Office 365 и предложений по приобретению
 
-**Относится к**
 
-- Центр партнеров
- 
 **Соответствующие роли**
 
 - Консультанты
@@ -53,5 +50,7 @@ ms.locfileid: "87527010"
 При создании предложения о приобретении создается пользовательский URL-адрес. URL-адрес содержит внедренный код, идентифицирующий вас в качестве помощника по подпискам. Этот URL-адрес можно использовать для одного клиента или нескольких клиентов. Отправьте URL-адрес клиенту по электронной почте или опубликуйте его на веб-сайте.
 
 Если клиенту требуется различное количество лицензий, отправьте им новое предложение или измените число лицензий при приобретении подписки.
+
+## <a name="next-steps"></a>Дальнейшие действия
 
 Дополнительные сведения о предложениях по приобретению см. [в разделе Создание предложения о приобретении](advisor-create-a-purchase-offer.md).

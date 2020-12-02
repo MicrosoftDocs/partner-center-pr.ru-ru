@@ -9,32 +9,24 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 45d40afc64c5c64801841d3cb758b49c8e107de7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4bb9311dc88a4abf4f2e14ae075430d1978b4bfe
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999648"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474042"
 ---
 # <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Анализ бизнес-профиля — Узнайте, насколько хорошо вы Привлекайте целевые клиенты и потенциальные ссылки.
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**Относится к**
-
-- Центр партнеров
-- Партнеры Microsoft Partner Network
-- Партнеры по программе поставщиков облачных решений
-
 **Соответствующие роли**
 
 - Глобальный администратор
 - Администратор партнера MPN
-- администратор рекомендаций;
 - Администратор бизнес-профиля
-- Агент по администрированию
-- Агент по продажам
+- Администратор авторов
 
 Страница « **Бизнес-профиль** » в центре партнеров позволяет увидеть, насколько хорошо вы захватываете внимание целевых клиентов и создаете ссылки.
 
@@ -53,3 +45,8 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 > [!TIP]
 > По мере того как вы начинаете [отвечать на эти ссылки](manage-leads.md), обязательно просмотрите страницу " [Справочные](referral-insights.md) сведения", чтобы узнать больше о том, как выполняются ваши ссылки.
+
+## <a name="next-steps"></a>Дальнейшие действия
+
+- [Создание бизнес-профиля](create-a-marketing-profile.md)
+- [В Центре партнеров вы можете получить полезные сведения об авторах и их деятельности](referral-insights.md)
