@@ -2,6 +2,8 @@
   href: index.yml
 - name: Объявления
   href: announcements/TOC.md
+- name: Сведения о Центре партнеров
+  href: overview.md
 - name: Участие в Partner Network
   items:
     - name: Партнерство с Майкрософт
@@ -60,8 +62,13 @@
         - name: Исключение компетенции для разработки приложений
           href: app-dev-isv.md
     - name: Дополнительные специализации
-      href: advanced-specializations.md
-      displayName: mpn
+      items:
+        - name: Демонстрация вашего опыта
+          href: advanced-specializations.md
+          displayName: mpn
+        - name: Подача заявки и проверка статуса
+          href: advanced-specializations-apply.md
+          displayName: mpn
     - name: Как стать участником программы Azure Expert MSP
       href: azure-expert-msp.md
     - name: Преимущества
