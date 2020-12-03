@@ -1,7 +1,7 @@
 ---
 title: Приобретение Microsoft Azure резервирования для клиентов
 description: Узнайте, как купить или приобрести резервирование Azure от имени клиентов в центре партнеров. Также содержит список рынков, в которых резервирование Azure недоступно.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: rbars
@@ -9,20 +9,14 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 22ee2b6b76662ae3c7f7a956dc42f4425c321309
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 0e81a9561f3749aab281bb4ebd7cd0c38540ff31
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031257"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534613"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Приобретение Microsoft Azure резервирований от имени клиентов в центре партнеров
-
-**Относится к**
-
-- Центр партнеров
-- Портал Microsoft Azure
-- Партнеры по программе CSP
 
 **Соответствующие роли**
 
@@ -31,6 +25,8 @@ ms.locfileid: "92031257"
 - Агент службы технической поддержки
 - Агент по продажам
 - Администратор управления пользователями
+
+В этой статье объясняется, как купить или приобрести резервирование Azure от имени клиентов в центре партнеров. Здесь также определяются рынки, в которых резервирование Azure недоступно.
  
 > [!NOTE]
 > Эта статья относится только к партнерам в программе поставщика облачных решений (CSP). Вместо этого клиенты, использующие другие типы подписок (например, оплата по мере использования, индивидуальные соглашения с клиентами Майкрософт или подписки Соглашение Enterprise), должны читать [эту документацию по резервированию Azure](/azure/cost-management-billing/reservations).
@@ -112,7 +108,7 @@ ms.locfileid: "92031257"
 
 3. Выберите **Добавить продукты**, а затем выберите **Azure**. 
 
-    a. Выберите сегмент рынка клиента из списка **Сегмент**.
+    а. Выберите сегмент рынка клиента из списка **Сегмент**.
 
     b. Выберите пункт **резервирования** в списке **тип** продукта.
 
@@ -150,7 +146,8 @@ ms.locfileid: "92031257"
 
 10. Чтобы управлять резервированием клиента в портал Azure, найдите клиент на странице **Клиенты** , а затем щелкните стрелку вниз, чтобы развернуть строку клиента. Выберите **портал управления Microsoft Azure** , чтобы открыть запись клиента в портал Azure.
 
-## <a name="azure-reservations-resources"></a>Ресурсы о резервированиях Azure
+## <a name="next-steps"></a>Дальнейшие действия
+
 |**Сведения о**   |**Прочитайте это**    |
 |:-----------------------------|:-----------------|
 |Обзор резервирований Azure в программе CSP  | [Продажа Microsoft Azure Reserved Instances](azure-reservations.md) |

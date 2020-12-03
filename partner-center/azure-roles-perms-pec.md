@@ -9,14 +9,14 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f48774cb830ceb575a84177efb57431afdcb9b25
-ms.sourcegitcommit: 5fc28f6f81eaebb84e1faa71848afb504e181f37
+ms.openlocfilehash: 8c36883dc7d12b7ea0ce8f2644dbac86595ab131
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90011744"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534596"
 ---
-# <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>Роли и разрешения, доступные для получения кредита на получение партнеров
+# <a name="roles-and-permissions-required-to-earn-partner-earned-credit"></a>Роли и разрешения, необходимые для получения заработанного кредита партнера
 
 Следующие роли сопоставляются с уровнями разрешений, которые определяют, имеет ли партнер право на освоенный кредит.
 
@@ -147,3 +147,7 @@ Support Request Contributor (Участник с правом создавать
 Пользователь виртуальной машины | Позволяет просматривать виртуальные машины на портале и входить в систему с правами обычного пользователя. | Да | 
 Участник веб-плана | Позволяет управлять веб-планами для веб-сайтов, но не доступом к ним. | Да | 
 Участник веб-сайта | Позволяет управлять веб-сайтами (не веб-планами), но не доступом к ним. | Да |
+
+## <a name="next-steps"></a>Дальнейшие действия
+
+- [Партнерские баллы — общие сведения о коммерческом использовании в рамках CSP](partner-earned-credit.md)
