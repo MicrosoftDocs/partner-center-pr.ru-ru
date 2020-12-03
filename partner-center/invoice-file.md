@@ -2,17 +2,17 @@
 title: Общие сведения о выставлении счетов в центре партнеров
 ms.topic: article
 ms.date: 05/18/2020
-description: Изучите поля в файле счета для счета центра партнеров. сведения включают поля и определения для всех полей счета и одноразовые поля оплаты.
+description: Изучите поля в файле счета для выставления счетов в центре партнеров. Включены поля и определения для всех полей счета и одноразовых полей оплаты.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 121b0bc756e715af358eda30eff92cba35e802ed
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 3e9eb392279c0a09b5e30395b38ab7030bfa87d4
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198010"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556299"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>Общие сведения о полях счетов в центре партнеров
 
