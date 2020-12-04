@@ -20,6 +20,8 @@
       href: transfer-eligibility.md
     - name: 'Частная платформа Azure Marketplace: создание и управление'
       href: create-manage-private-azure-marketplace.md
+    - name: Управление частной платформой Azure Marketplace с помощью PowerShell
+      href: manage-private-azure-marketplace-powershell.md
     - name: Интеграция с партнерами Azure Marketplace
       href: partner-integrations.md
 - name: Общие ресурсы
