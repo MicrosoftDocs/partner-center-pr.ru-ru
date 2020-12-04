@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7b6c5f1f6d86398ab65e60a498614bfc9f42976e
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999678"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474229"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Добавление лицензий или дополнительных служб в подписку клиента
-
-**Относится к**
-
-- Центр партнеров
-- Партнеры по программе поставщиков облачных решений
 
 **Соответствующие роли**
 
@@ -35,7 +30,7 @@ ms.locfileid: "90999678"
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>Обновления, поддерживаемые программой CSP <a id="upgradesubscription"></a>
 
-Поставщик облачных решений поддерживает следующие обновления:
+В программе "Поставщик облачных решений" поддерживаются следующие обновления:
 
 | Предложение | Возможные обновления|
 |---:|:---|
