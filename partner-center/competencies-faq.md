@@ -2,18 +2,18 @@
 title: Компетенции — часто задаваемые вопросы
 ms.topic: article
 ms.date: 11/23/2020
-description: Ответы на вопросы о достижении Microsoft Partner Network Gold и серебряных компетенций, сроках действия льготы, продлении и активации лицензий для Azure, облака, Visual Studio и технических и вспомогательных услуг
+description: Ответы на MPN Gold или серебряную компетенцию, срок действия льготы, продление или активацию лицензий для Azure, облака, Visual Studio, технической поддержки и преимуществ.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 3f18378428ab681938f23c3a11341b2deac36226
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812820"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570490"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Компетенции — часто задаваемые вопросы
 

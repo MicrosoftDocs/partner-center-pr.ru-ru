@@ -1,22 +1,22 @@
 ---
-title: Определение количества рабочих столов и уровня сбора для соглашения
+title: Найти число рабочих столов, уровень сбора в микросхеме
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Где — количество настольных компьютеров и сведения об уровне сбора в микросхеме.
+description: Узнайте, как использовать платформу поощрения каналов (микросхемы) для поиска количества настольных компьютеров и сведений об уровне сбора для соглашения.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6eb763593427070fa309efe78fd39a294e9a6d99
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 51307be51de3c41aca9fb9d39ab623f4dac318a7
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418188"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570558"
 ---
-# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Определение количества рабочих столов и уровня сбора для соглашения
+# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Определение количества рабочих столов и ставки для соглашения
 
 Вы можете скачать приложение в Excel, файл, предоставляющий сведения о соглашениях для количества настольных систем и уровня сбора.
 

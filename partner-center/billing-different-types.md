@@ -9,19 +9,14 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 40d83a70aa5eb5781b924bbafb8b619efacc5681
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 559e5d15d4414addab55411b28e19964ac4a08c5
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367048"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570677"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>Типы выставления счетов в центре партнеров. включает в себя лицензии, основанные на использовании и одноразовую оплату.
-
-**Относится к**
-
-- Центр партнеров
-- Партнеры в программе CSP
 
 **Соответствующие роли**
 
@@ -40,6 +35,6 @@ ms.locfileid: "89367048"
 
 Если вы выбрали ежемесячный счет или если вы приобрели продукты на основе использования, которые выставляются ежемесячно, ежемесячная Дата выставления счета — это день месяца, который вы выбрали при создании учетной записи CSP в центре партнеров. После успешного создания учетной записи CSP Корпорация Майкрософт отправит сообщение электронной почты с подтверждением, которое будет включать дату выставления счетов. После создания эта дата не может быть изменена.
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Сведения о файле счета и выверке — Узнайте, как их найти в центре партнеров](read-your-bill.md)

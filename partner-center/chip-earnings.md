@@ -1,22 +1,22 @@
 ---
-title: Просмотр доходов в микросхеме
+title: Просмотр сведений о прибыли на платформе CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Рекомендации по просмотру доходов в микросхеме
+description: Узнайте, как просматривать заявление об поощрениях и прибыль в средстве "платформа поощрения каналов" (микросхема).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b860b8ccd932e23bd12e17e1441a3113cc29400f
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: a78fb9d13d149cba75fc616b93cdfe0b47dfafc4
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418191"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570507"
 ---
-# <a name="view-earnings-in-chip"></a>Просмотр доходов в микросхеме
+# <a name="view-earnings-using-the-chip-tool"></a>Просмотр доходов с помощью средства микросхемы
 
 Вы можете получить доступ к заявлению поощрения с помощью инструмента "платформа поощрения каналов" (микросхема).
 
@@ -32,7 +32,7 @@ ms.locfileid: "94418191"
 
 ### <a name="explanation-of-details-tabs"></a>Пояснения к вкладкам сведений
 
-|**Вкладка**|**Определение**|
+|**TAB**|**Определение**|
 |-------------|--------------------------|
 |DetailReport-Flatfile|Содержит сведения о программе поощрения за выбранный период времени, включая имя клиента, соглашение, сведения о рычаге|
 |Делтарепорт — Сводная таблица|Обновления из последней опубликованной инструкции только для предприятия|
@@ -41,4 +41,4 @@ ms.locfileid: "94418191"
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
-- [Проверка состояния платежа в микросхеме](chip-payment-status.md)
+- [Проверка состояния оплаты на платформе CHIP](chip-payment-status.md)

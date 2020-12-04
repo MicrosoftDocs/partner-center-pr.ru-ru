@@ -1,24 +1,24 @@
 ---
-title: Сведения о состоянии и расчете платежа для оценки решения
+title: Состояние оплаты оценки решения
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Узнайте, как найти информацию о платежах оценки решения.
+description: Используйте платформу для поощрения каналов (микросхемы), чтобы найти сведения о возможностях оценки решения, их вычислениях и состоянии оплаты.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 50aadcb667ff931e53b08a7902bb247798975e2d
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 6ab0cd74e3955a71383b2ba758dc76b1b37fdee6
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418173"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570473"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>Сведения о состоянии и расчете платежа для оценки решения
 
-В микросхеме можно проверить состояние оплаты для возможности оценки решения. 
+В микросхеме можно проверить состояние оплаты для возможности оценки решения.
 
 ## <a name="how-to-review-your-payment-status"></a>Как проверить состояние оплаты
 
@@ -52,4 +52,4 @@ ms.locfileid: "94418173"
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
-- [Проблемы с доступом к микросхемам](chip-access-trouble.md) 
+- [Проблема с доступом к CHIP](chip-access-trouble.md) 

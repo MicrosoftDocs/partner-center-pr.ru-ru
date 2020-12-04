@@ -9,19 +9,21 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417257"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570694"
 ---
 # <a name="benefits-faq"></a>Часто задаваемые вопросы о преимуществах
 
-Область применения:
+**Соответствующие роли**
 
-- Центр партнеров
-- Центр партнеров для Microsoft Cloud for US Government
+- Администратор MPN
+
+Многие распространенные вопросы о преимуществах Microsoft Partner Network (MPN) приведены в этой статье.
+
 
 ## <a name="general-questions"></a>Общие вопросы
 
@@ -87,7 +89,7 @@ ms.locfileid: "95417257"
 
 1. Войдите в [панель мониторинга Центра партнеров](https://partner.microsoft.com/dashboard/).
 
-2. В левой панели навигации выберите **MPN**.
+2. В меню Центр партнеров выберите **MPN**.
 
 3. Выберите **преимущества**, а затем выберите **Visual Studio**.
 
@@ -96,7 +98,7 @@ ms.locfileid: "95417257"
 После назначения подписки пользователю необходимо войти в Visual Studio для управления ею.
 
 >[!Note]
-> Подписки Visual Studio могут быть переназначены от одного подписчика другому по истечении 90 дней исходного назначения.
+> Подписки Visual Studio могут быть переназначены от одного подписчика к другому за 90 дней после исходного назначения.
 
 ## <a name="technical-benefits-and-support"></a>Технические преимущества и поддержка
 
@@ -106,7 +108,7 @@ ms.locfileid: "95417257"
 
 1. Войдите в [панель мониторинга Центра партнеров](https://partner.microsoft.com/dashboard/).
 
-2. В левой панели навигации выберите **MPN**.
+2. В меню Центр партнеров выберите **MPN**.
 
 3. Выберите **преимущества**, а затем выберите **технические преимущества**.
 
@@ -115,3 +117,7 @@ ms.locfileid: "95417257"
 5. Войдите в [Служба поддержки Майкрософт](https://support.microsoft.com/supportforbusiness/productselection).
 
 6. Выберите продукт, который вы пытаетесь установить, а затем создайте запрос в службу технической поддержки.
+
+## <a name="next-steps"></a>Дальнейшие действия
+
+- [Получите расширенную специализацию, чтобы продемонстрировать свои знания](advanced-specializations.md)
