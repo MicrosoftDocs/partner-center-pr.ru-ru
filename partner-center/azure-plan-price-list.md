@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 57e976f2968f0bd6b13f36eb04be9f68577d1389
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000328"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534732"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Прейскурант для новой коммерческой модели в CSP для Azure
 
@@ -114,3 +114,7 @@ ms.locfileid: "91000328"
 > API цен специально разработан для тарифов в рамках плана Azure. Для ресурсов или резервирований Azure, развернутых в подписках не в рамках плана Azure следует по-прежнему использовать существующий API RateCard и прейскуранты, опубликованные на странице цен и предложений в Центре партнеров. API цен в рамках плана Azure не поддерживает цены на программное обеспечение, продукты из Marketplace или расценки на основе лицензий, такие как тарифы Microsoft 365 или Dynamics 365.
 
 Дополнительные сведения об API-интерфейсах цен и курсов иностранных валют в рамках плана Azure можно найти в [этой подробной документации](/partner/develop/pricing).
+
+## <a name="next-steps"></a>Дальнейшие действия
+
+- [Управление подписками и ресурсами в плане Azure](azure-plan-manage.md)

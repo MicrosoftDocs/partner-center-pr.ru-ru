@@ -1,6 +1,6 @@
 ---
 title: Доступные службы Azure в Azure CSP
-description: В этом разделе описаны службы Azure, которые доступны и недоступны в программе поставщиков облачных решений Azure (CSP).
+description: В этой статье рассматриваются службы Azure, которые доступны и не доступны в программе поставщика облачных решений Azure (CSP).
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 094aa585be3114c198a8581b3d23bd4b212393c9
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2ca8df054a48217a21dbdd897bd260e7bc181e62
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999278"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534970"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Доступные службы Azure в рамках программы поставщиков облачных решений (CSP) Azure
 

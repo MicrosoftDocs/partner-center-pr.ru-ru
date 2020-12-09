@@ -1,7 +1,7 @@
 ---
 title: Утверждение принятия клиентом условий Клиентского соглашения Майкрософт
 description: Узнайте, когда следует подтвердить принятие Клиентского соглашения Майкрософт от имени клиента.
-ms.topic: article
+ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: aarzh-AaronZhang
@@ -9,28 +9,21 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: fcf1a682d0150675f8bc8660e8dd5215d4c4333c
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 921926ba44a592b8d2fb5da0a50697d62d9d95c7
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367338"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534783"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Подтверждение принятия Клиентского соглашения Майкрософт от имени клиента
 
-**Относится к**
-
-- Центр партнеров
-- Центр администрирования Microsoft 365
 
 **Соответствующие роли**
 
+- Глобальный администратор
 - Агент по администрированию
-- Агент по продажам
-
-**Соответствующие типы партнеров**
-
-- Непрямые торговые посредники, торговые посредники с прямым выставлением счетов, непрямые поставщики.
+- Агент службы технической поддержки
 
 В этой статье описываются определенные сценарии, в которых может потребоваться подтвердить принятие Клиентского соглашения Майкрософт от имени клиента.
 
