@@ -9,19 +9,14 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: d34744b1bfe8508c1bcdb804b109f7ac00ad27b8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 6bb915681d65213c1180bab1f44f49372cb72697
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000158"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570643"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Обзор: основные статьи, касающиеся выставления счетов и налогообложения в Центре партнеров
-
-**Относится к**
-
-- Центр партнеров
-- Центр партнеров для Microsoft Cloud for US Government
 
 **Соответствующие роли**
 
@@ -29,6 +24,9 @@ ms.locfileid: "91000158"
 - Администратор выставления счетов
 - Глобальный администратор
 - Агент по продажам
+
+В этой статье содержатся ссылки на сведения о выставлении счетов и налогах в Центре партнеров, в том числе о ресурсах для выставления счетов, счетах, выставлении счетов в рамках CSP и налогах.
+
 
 | Раздел | Описание |
 | ----- | ----------- |
@@ -44,3 +42,7 @@ ms.locfileid: "91000158"
 | [Запрос на кредит по соглашению об уровне обслуживания за простои](request-credit.md) | Узнайте о том, как запросить у компании Майкрософт кредит по соглашению об уровне обслуживания для клиентов в случае сбоя службы. |
 
 Сведения о выставлении счетов и ресурсы, связанные с Центром партнеров, см. в [документации по выставлении счетов для разработчиков](/partner-center/develop/manage-billing).
+
+## <a name="next-steps"></a>Дальнейшие действия
+
+- [Получение платежей на коммерческой платформе](marketplace-get-paid.md)

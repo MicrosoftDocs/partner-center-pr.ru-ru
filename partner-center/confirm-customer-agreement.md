@@ -1,6 +1,6 @@
 ---
 title: Подтверждение принятия клиентом условий Клиентского соглашения Майкрософт
-description: Узнайте, как подтвердить принятие клиентом условий Клиентского соглашения Майкрософт. Участникам программы Поставщика облачных решений (CSP) это нужно для оформления заказа на продукты и услуги Майкрософт для клиентов.
+description: Прежде чем заказывать службы Майкрософт для клиентов, партнеры в рамках программы "Поставщик облачных решений" (CSP) должны подтвердить принятие условий Клиентского соглашения Майкрософт.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 45a34473ff63875af8bd07962ea836661bc948ee
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 423cf1aab281ad8e77e03aa386b43360e1b99b3c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198060"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570575"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Подтверждение принятия клиентом условий Клиентского соглашения Майкрософт в рамках партнерской программы CSP
 
@@ -76,7 +76,7 @@ ms.locfileid: "92198060"
 
 5. Выберите **Сохранить** и продолжайте.
 
-   :::image type="content" source="images/mcua2-update2.png" alt-text="Новый клиент":::
+   :::image type="content" source="images/mcua2-update2.png" alt-text="Существующий клиент":::
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>Получение подтверждения о принятии условий клиентом
 
@@ -128,7 +128,7 @@ ms.locfileid: "92198060"
 >[!NOTE] 
 >Новые клиенты не смогут осуществить новую покупку, пока не примут условия Клиентского соглашения Майкрософт.  
 
-   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Новый клиент":::
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Создание клиента":::
 
 5. При переходе на страницу **Подтверждение** в процессе создания клиента сохраните учетные данные этого клиента. Позже эти учетные данные необходимо будет предоставить клиенту.
 
@@ -156,7 +156,7 @@ ms.locfileid: "92198060"
 
 4. Используйте этот шаблон электронного сообщения, чтобы пригласить клиента для принятия запроса на установление **взаимосвязи с торговым посредником** и условий **Клиентского соглашения Майкрософт**. (Примечание. В электронное приглашение партнер должен также добавить URL-адрес, предоставляемый автоматически, и учетные данные клиента, которые были недавно созданы.)
 
-   :::image type="content" source="images/mca/createrelationship.png" alt-text="Новый клиент":::
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="Создание взаимосвязи":::
 
 5. Клиент получит приглашение по электронной почте и щелкнет ссылку на параметризованный URL-адрес. 
 
@@ -166,7 +166,7 @@ ms.locfileid: "92198060"
 
 8. С помощью того же URL-адреса клиент может просмотреть объединенный список доступных деловых партнеров. Он может выбрать партнера для просмотра подробных сведений.
 
-   :::image type="content" source="images/mca/accept.jpg" alt-text="Новый клиент":::
+   :::image type="content" source="images/mca/accept.jpg" alt-text="Принятие условий соглашения":::
 
 
 ## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>Приглашение имеющегося клиента для просмотра и принятия условий соглашения
@@ -183,7 +183,7 @@ ms.locfileid: "92198060"
 
 5. С помощью того же URL-адреса он может просмотреть объединенный список доступных деловых партнеров. Он может выбрать партнера для просмотра подробных сведений.
 
-   :::image type="content" source="images/mca/customeraccept.png" alt-text="Новый клиент":::
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="Клиент":::
 
 >[!NOTE]
 >В некоторых случаях у клиентов может отсутствовать возможность напрямую принять условия Клиентского соглашения Майкрософт. Чтобы узнать больше об этих ситуациях, ознакомьтесь с разделом [Два сценария, в которых требуется утверждение от имени клиента](attest-acceptance-customer-agreement.md).

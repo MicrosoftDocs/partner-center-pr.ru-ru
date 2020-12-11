@@ -9,18 +9,14 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92333834"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534800"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Создайте рабочую учетную запись для связи вашей компании с учетной записью Центра партнеров
-
-**Относится к**
-
-- Центр партнеров
 
 **Соответствующие роли**
 
@@ -71,3 +67,8 @@ Microsoft Azure — это платформа общедоступного об
 Рабочая учетная запись Azure — это специальное и изолированное виртуальное представление вашей компании в общедоступном облаке Azure, создаваемое для вас при оформлении вами подписки на облачную службу Майкрософт, например Azure, Microsoft Intune или Office 365.
 
 В вашей рабочей учетной записи размещаются ваши пользователи Azure AD и сведения о них: пароли, данные профиля, разрешения и т. д. Рабочая учетная запись также содержит группы, приложения и другие сведения, относящиеся к компании и ее безопасности.
+
+## <a name="next-steps"></a>Дальнейшие действия
+
+- [Управление учетной записью Центра партнеров](partner-center-account-setup.md)
+- [Отслеживание состояния проверки](verification-responses.md)
