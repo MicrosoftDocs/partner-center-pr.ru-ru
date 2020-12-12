@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
+ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175086"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "97153151"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Сообщить о проблеме со службой от имени клиента, включая время и способ их выполнения
 
@@ -31,11 +31,13 @@ ms.locfileid: "92175086"
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Отправка запроса на обслуживание клиента
 
-1. В меню **Центр партнеров** выберите **Запросы на обслуживание**, а затем — **Запрос клиента**. 
+1. В меню Центр партнеров в разделе CSP выберите **Customers (клиенты** ).
 
-2. На странице "Запросы клиента" найдите необходимого клиента.
+2. На странице Клиенты выберите или выполните поиск нужного клиента.
+    
+3. В меню клиент выберите запросы на **обслуживание** .
 
-3. В раскрывающемся меню **Новый запрос** выберите пункт **Azure** или **Office 365, Dynamics 365, Enterprise Mobility Suite**. Вы будете перенаправлены на портал Microsoft Azure или в центр администрирования Office 365.
+4. В раскрывающемся меню **Новый запрос** выберите пункт **Azure** или **Office 365, Dynamics 365, Enterprise Mobility Suite**. Вы будете перенаправлены на портал Microsoft Azure или в центр администрирования Office 365.
 
 >[!NOTE]
 >Поддержка партнеров по эксплуатации. для работы с Dynamics 365 в CSP требуется поддержка соглашения о поддержке расширенной поддержки для партнера (ASfP) или более поздней версии. Это соглашение о поддержке требуется для отправки инцидентов Dynamics 365 от имени клиента CSP. Дополнительные [сведения](https://partner.microsoft.com/support/partnersupport) о параметрах соглашения о поддержке.
