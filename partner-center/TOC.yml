@@ -2,7 +2,7 @@
   href: index.yml
 - name: Объявления
   href: announcements/TOC.md
-- name: Сведения о Центре партнеров
+- name: Что такое Центр партнеров?
   href: overview.md
 - name: Участие в Partner Network
   items:
