@@ -8,14 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 4f4a82d4b8a94e960befb55bdd4a99e0cdcc9bb0
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 2444f2d6ff75340b7a9826828d28a4bb316d87a8
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303170"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492608"
 ---
-# <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Используйте эти ресурсы, чтобы приступить к работе с стимулами
+# <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Ресурсы, которые помогут приступить к работе с программой поощрений
 
 **Относится к**
 
@@ -44,12 +44,12 @@ ms.locfileid: "88303170"
 
 |  **Действие**  |  **Прочитайте это**  |
 |--------------|-----------|
-| Дополнительные сведения о регистрации в программе поощрения | [Регистрация в программе поощрения](incentives-enroll.md)  |
+| Дополнительные сведения о регистрации в программе поощрения | [Регистрация в программе поощрений](incentives-enroll.md)  |
 | Узнайте, соответствуют ли ваши поощрения требованиям для конкретной программы поощрения | [Определение возможности участия в программе](incentives-determined-your-program-eligibility.md)  |
 | Чтобы получить сведения о выплатах поощрения, укажите и укажите данные, необходимые корпорации Майкрософт. | [Создание профилей для выплат и налогов и управление ими в Центре партнеров](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
 | Подтвердите, что вы указали все сведения, необходимые для получения доходов на поощрения | [Подтверждение соответствия вашей прибыли требованиям](incentives-confirm-your-earnings-eligibility.md)  |
-| Просмотр всех данных и отчетов для программы поощрения | [Просмотр сведений о программах вознаграждений и платежей по ним](understand-incentive-payouts.md)  |
-| Доступ к странице с выплатами стимулов для конкретной программы | [Доступ к странице выплат по программам поощрений](incentives-unified-user-guide.md)  |
+| Просмотр всех данных и отчетов для программы поощрения | [Просмотр программ поощрения и платежей](understand-incentive-payouts.md)  |
+| Доступ к странице с выплатами стимулов для конкретной программы | [Доступ к заявлению о выплатах](payout-statement.md)  |
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
