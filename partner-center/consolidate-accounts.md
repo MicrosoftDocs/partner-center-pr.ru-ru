@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 3b20f29fcde9c910fd72d0aa86a1242b9c00859c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527817"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354531"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Консолидация учетных записей компании при переходе с PMC на Центр партнеров
 
@@ -62,3 +62,9 @@ ms.locfileid: "87527817"
 В Центре партнеров учетные записи всех расположений объединяются в одну глобальную учетную запись. Это означает, что все предложения, программы и компетенции выхода на рынок также консолидируются. Наборы средств для дополнительных преимуществ (ABTK) будут недоступны. Но можно организовать распределение маркетинговых ресурсов, предложений, программ и компетенций в соответствии с требованиями компании. При консолидации предоставляется расширение. Это расширение позволяет компании пользоваться преимуществами маркетинговых ресурсов, предложений и программ, используемых в PMC, в течение дополнительного года.
 
 Дополнительные сведения о различиях между PMC и Центром партнеров см. в статье [Moving from PMC to Partner Center](guide-to-migration.md) (Переход от PMC к Центру партнеров).
+
+## <a name="next-steps"></a>Дальнейшие действия
+
+- [Управление учетной записью Центра партнеров](partner-center-account-setup.md)
+
+- [Управление расположениями](manage-locations.md)
