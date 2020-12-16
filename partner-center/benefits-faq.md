@@ -1,7 +1,7 @@
 ---
 title: Часто задаваемые вопросы о преимуществах
 ms.topic: article
-ms.date: 09/08/2020
+ms.date: 12/15/2020
 description: Ответы на вопросы о сроках действия льготы, продлении и активации лицензий для Azure, облака, Visual Studio и технических и вспомогательных преимуществ
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: f4ed4fe8946c6cacba1277921aececd84863c465
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570694"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514700"
 ---
 # <a name="benefits-faq"></a>Часто задаваемые вопросы о преимуществах
 
@@ -98,7 +98,7 @@ ms.locfileid: "96570694"
 После назначения подписки пользователю необходимо войти в Visual Studio для управления ею.
 
 >[!Note]
-> Подписки Visual Studio могут быть переназначены от одного подписчика к другому за 90 дней после исходного назначения.
+> Подписки Visual Studio могут быть переназначены от одного подписчика другому, если с момента первоначального назначения прошло 90 дней.
 
 ## <a name="technical-benefits-and-support"></a>Технические преимущества и поддержка
 
@@ -118,6 +118,6 @@ ms.locfileid: "96570694"
 
 6. Выберите продукт, который вы пытаетесь установить, а затем создайте запрос в службу технической поддержки.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - [Получите расширенную специализацию, чтобы продемонстрировать свои знания](advanced-specializations.md)
