@@ -279,18 +279,12 @@
         - name: Анализ профилей для выплат и налогов
           href: incentives-create-and-manage-your-payout-and-tax-profiles.md
           displayName: incentives
-        - name: Вопросы и ответы о профилях для выплат и налогов
-          href: incentives-payout-tax-profile-faqs.md
-          displayName: incentives
         - name: Проверка соответствия прибыли требованиям
           href: incentives-confirm-your-earnings-eligibility.md
           displayName: incentives
-        - name: Просмотр сведений о программах и платежах
+        - name: Просмотр программ и платежей
           href: understand-incentive-payouts.md
           displayName: 'mpn, incentives'
-        - name: Доступ к странице выплат
-          href: incentives-unified-user-guide.md
-          displayName: incentives
     - name: Планы и подтверждения выполнения
       items:
         - name: Анализ планов и подтверждения выполнения
@@ -433,23 +427,21 @@
       displayName: csp
 - name: Получение платежей
   items:
+    - name: Оплата
+      href: marketplace-get-paid.md
+    - name: Выписки о выплатах
+      href: payout-statement.md
     - name: 'Управление сценариями неплатежа, мошенничества или неправильного использования'
       href: non-payment-fraud-misuse.md
     - name: Управление нераспределенными платежами
       href: unallocated-payment.md
-    - name: Выплаты на коммерческой платформе
-      items:
-        - name: Оплата на Marketplace
-          href: marketplace-get-paid.md
-        - name: Сведения о политике выплат
-          href: payout-policy-details.md
-        - name: 'Пороги, методы и сроки оплаты'
-          href: payment-thresholds-methods-timeframes.md
-        - name: Выписки о выплатах
-          href: payout-statement.md
-          displayName: invoice
-        - name: Часто задаваемые вопросы о выплатах
-          href: payout-faq.md
+    - name: Расписания и процессы выплат
+      href: payout-policy-details.md
+    - name: 'Пороги, методы и сроки оплаты'
+      href: payment-thresholds-methods-timeframes.md
+      displayName: invoice
+    - name: Вопросы и ответы о профилях для выплат и налогов
+      href: payout-faq.md
 - name: Связь с клиентами
   items:
     - name: Связь с вашими клиентами
@@ -663,10 +655,12 @@
               displayName: 'indirect, reseller'
             - name: Обучение
               href: pci-training-dashboard.md
-        - name: Известные проблемы
+        - name: Вопросы и ответы об аналитике
           href: pci-known-issues.md
         - name: Скачать отчеты аналитики
           href: pci-download-reports.md
+        - name: Определение аналитических данных
+          href: pci-data-definitions.md
     - name: Показатели вклада партнера
       href: partner-contribution-indicators.md
       displayName: mpn
