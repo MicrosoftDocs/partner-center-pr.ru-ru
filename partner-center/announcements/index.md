@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/03/2020
-ms.openlocfilehash: d90a9adf70b372517c0454733ec1a2262f330c1f
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: a373a6a956e8c8a8e8052a946cc82a8d82213da0
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869322"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622190"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,7 @@ ms.locfileid: "96869322"
 
 | **Категория** | **Объявления за декабрь 2020 г.** | **Объявлено** |
 |---------|:---------|:---------|
+|Предложения и рынки|[Доступно акционное предложение Power Apps](2020-december.md#5)|16 декабря|
 |Характеристики|[Выпуск пакета SDK для .NET Standard (версия 1.16.3)](2020-december.md#4)|8 декабря|
 |Предложения и рынки|[Заметки о выпуске прейскуранта по лицензиям за декабрь 2020 года](2020-december.md#3)|8 декабря|
 |Предложения и рынки|[Обновление предложения Голосовой связи Microsoft 365 бизнес с тарифным планом для США ожидается в ближайшее время](2020-december.md#2)|3 декабря|

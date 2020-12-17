@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c694f48fb62fc031bfaf78be6a1c4e43629a7adb
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 13fdeb01ecd73dc1a63d174a4ad5cb8e1bdc813a
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811334"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011508"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Возобновление использования привилегий администратора для клиентских подписок Azure CSP  
 
@@ -47,7 +47,7 @@ ms.locfileid: "87811334"
 
 ## <a name="adding-the-admin-agents-group-as-an-owner-for-the-azure-csp-subscription"></a>Добавление группы агентов по администрированию в качестве владельца подписки Azure CSP
 
-Клиенту потребуется добавить группу агентов по администрированию в качестве владельца подписки Azure в CSP.
+Клиенту потребуется добавить группу агентов по администрированию в качестве владельца подписки, группы ресурсов или ресурса Azure в рамках CSP. 
 
 1. Используйте консоль PowerShell или интегрированную среду сценариев PowerShell (ISE). Убедитесь, что установлены модули AzureAD.
 
@@ -67,13 +67,20 @@ ms.locfileid: "87811334"
 4. Пользователю с правами владельца подписки Azure в CSP следует войти в Azure с использованием своих учетных данных.
 
    ```powershell
-   Connect-AzAccount
+   Connect-AzureRmAccount
    ```
 
-5. Затем этот пользователь может добавить группу агентов по администрированию в качестве владельца подписки Azure в CSP.
+5. Затем он может добавить вашу группу агентов по администрированию в качестве владельца в подписку, группу ресурсов или ресурс Azure в рамках CSP, применив соответствующий URI ресурса в параметре Scope. 
 
     ```powershell
-    New-AzureRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+    # Grant owner role at subscription level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+
+    # Grant owner role at resource group level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>/resourceGroups/<Resource group name>"
+
+    # Grant owner role at resource level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "<Resource Uri>"
     ```
 
 ## <a name="next-steps"></a>Дальнейшие действия
