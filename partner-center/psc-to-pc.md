@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
+ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916853"
+ms.locfileid: "97950592"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Пошаговое руководством по совместному продажам в центре партнеров (ПК) для партнеров, выполняющих переход от партнеров Sales Connect (PSC)
 
@@ -321,7 +321,7 @@ Microsoft продавцов назначается только после со
 - Гостевой пользователь в центре партнеров. Вы можете добавить свою @microsoft.com учетную запись PDM в качестве гостевой учетной записи в центре партнеров и назначить ей роль администратора ссылок, чтобы они могли просматривать и действовать по ссылкам.
 - Создание [нового пользователя](./create-user-accounts-and-set-permissions.md#add-a-new-user) в клиенте. Вы можете создать нового пользователя в своем клиенте и поделиться этими сведениями с PDM, чтобы они могли просматривать и действовать в отношении ссылок, аналогичных другим пользователям-ссылкам в вашей учетной записи.
 
-## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>Поиск правильного идентификатора MPN, если учетная запись в PSC не связана с недопустимым MPN
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>Поиск правильного идентификатора MPN, если учетная запись в PSC не связана с допустимым MPN
 
 Если вы здесь видели баннер в PSC, упоминание "PSC недопустимой ассоциации MPN ID", вы в нужном месте.
 
