@@ -2,25 +2,22 @@
 title: Как продавать предложения для обучения клиентам
 description: Узнайте, как создавать клиентов для образовательных учреждений и продавать предложения в центре партнеров. Включает подтверждение состояния проверки для клиента для образовательных учреждений.
 ms.topic: how-to
-ms.date: 10/06/2020
+ms.date: 12/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f17493a55ebd7d1ff9de0570e867cdf38e2e3fb
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175072"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916922"
 ---
-# <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Как продавать предложения для образовательных клиентов & создание клиентов для образовательных учреждений в центре партнеров
+# <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Как продавать предложения для образовательных учреждений и как создать клиента для образовательных учреждений в центре партнеров
 
-**Относится к**
-
-- Центр партнеров
 
 **Соответствующие роли**
 
@@ -28,7 +25,7 @@ ms.locfileid: "92175072"
 - Агент по администрированию
 - Агент по продажам
 
-## <a name="create-an-education-customer"></a>Создание клиента для образовательных учреждений
+## <a name="create-an-education-customer"></a>Создание клиента из сферы образования
 
 В этой статье объясняется, как создать клиента для образовательных учреждений в центре партнеров и продать им продукты для образования. Здесь также рассматривается Просмотр состояния проверки и повторная отправка запроса на проверку при необходимости.
 
@@ -49,6 +46,10 @@ ms.locfileid: "92175072"
 
    :::image type="content" source="images/eduaccountinfo.png" alt-text="Учетная запись клиента для образовательных учреждений":::
 
+4. После подтверждения **проверки** вы получите состояние **проверки** , если предоставленная информация действительна. 
+
+    :::image type="content" source="images/edu/create-review.png" alt-text="Образование учетной записи клиента на рецензию"lightbox="images/edu/create-review-expanded.png":::
+
 ### <a name="confirm-your-education-customers-verification-status"></a>Подтверждение состояния проверки для клиента в вашем обучении
 
 На странице **учетная запись** клиента см. раздел **особое состояние квалификации**.
@@ -56,15 +57,19 @@ ms.locfileid: "92175072"
 
 - Если клиент прошел проверку: образование
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="Учетная запись клиента для образовательных учреждений":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="Проверка образования прошла успешно":::
 
 - Если клиент не прошел проверку, он не является образовательным клиентом.
 
-   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="Учетная запись клиента для образовательных учреждений":::
+   :::image type="content" source="images/edu/fail-reason.png" alt-text="Проверка образования не пройдена" lightbox="images/edu/fail-reason-expanded.png":::
 
 - Если клиент не был помечен как клиент для образовательных учреждений: нет
 
-   :::image type="content" source="images/edunottagged.png" alt-text="Учетная запись клиента для образовательных учреждений":::
+   :::image type="content" source="images/edu/account-one.png" alt-text="клиентское образование не имеет тегов" lightbox="images/edu/account-one-expanded.png":::
+
+- Если клиент просматривается как клиент для образовательных учреждений: на рецензии
+
+    :::image type="content" source="images/edu/in-review.png" alt-text="Клиент для образовательных учреждений находится на рецензии" lightbox="images/edu/in-review-expanded.png":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Исправление сведений об учетной записи клиента и повторная отправка для проверки
 
