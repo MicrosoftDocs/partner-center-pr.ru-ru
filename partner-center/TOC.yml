@@ -301,6 +301,9 @@
         - name: Совместные заявки на возмещение средств в рамках программы поощрения
           href: claims-overview.md
           displayName: incentives
+        - name: Просмотр доступных совместных средств
+          href: incentives-view-funds.md
+          displayName: incentives
         - name: Управление заявками на возмещение совместных средств
           href: create-incentives-claims.md
           displayName: incentives
