@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514765"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916836"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Сведения о соглашении с партнером Майкрософт для партнеров по программе CSP
 
@@ -50,7 +50,7 @@ ms.locfileid: "97514765"
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>Подтвердите, что вы зарегистрированы в качестве косвенного торгового посредника CSP
 
-1. Если вы еще не зарегистрировались в Центре партнеров в качестве участника программы [CSP Indirect Reseller](enrolling-in-the-csp-program.md), это нужно сделать в первую очередь. После регистрации выполните остальные шаги.
+1. Если вы еще не зарегистрировались в Центре партнеров в качестве участника программы [CSP Indirect Reseller](indirect-reseller-tasks-in-partner-center.md), это нужно сделать в первую очередь. После регистрации выполните остальные шаги.
 
 1. Войдите в Центр партнеров с учетными данными глобального администратора CSP.
 
