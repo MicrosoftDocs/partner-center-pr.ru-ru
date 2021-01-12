@@ -1,7 +1,7 @@
 ---
 title: Добавление дополнительных клиентов в учетную запись центра партнеров
 ms.topic: article
-ms.date: 07/30/2020
+ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как добавить, консолидировать или управлять несколькими клиентами Azure AD в учетной записи центра партнеров. Дополнительные сведения о некоторых причинах, по которым может потребоваться сделать это.
@@ -9,18 +9,15 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9379ce6b27a8ef6e5d6894a0630745794e04e04
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 22f85bda0a651559da1717ae1e5365da40d62aff
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175161"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105562"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Добавление нескольких клиентов и управление ими в учетной записи центра партнеров
 
-**Относится к**
-
-- Центр партнеров
 
 **Соответствующие роли**
 
@@ -50,7 +47,7 @@ ms.locfileid: "92175161"
 
 1. Войдите в клиент, который необходимо связать, и подтвердите связь с глобальным администратором. 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Связывание клиентов"::: 
+:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="подтверждение связывания клиентов"::: 
 
 5. После подтверждения вы увидите все уведомления о **наборе** .  Выберите **вернуться к управлению клиентами** , и вы увидите, что добавленный клиент указан в списке. 
  
@@ -58,7 +55,28 @@ ms.locfileid: "92175161"
 >[!NOTE]
 >Вы не можете связать клиент с учетной записью, если он уже связан с другой учетной записью центра партнеров.
 
+
+## <a name="remove-a-tenant-from-your-account"></a>Удаление клиента из учетной записи
  
+1. Войдите на [панель мониторинга](https://partner.microsoft.com/dashboard)центра партнеров в качестве глобального администратора.
+
+1. На значке **параметров** выберите **Параметры учетной записи** — > клиенты и щелкните вкладку **Partner (партнер** ).
+ 
+3. Нажмите кнопку **Удалить** для клиента, для которого требуется отменить связь.
+
+4. Отмена связи с клиентом означает, что пользователи этого клиента больше не смогут получить доступ к учетной записи центра партнеров, и это может повлиять на компетенции. 
+
+Кнопка **Удалить** доступна для всех связанных клиентов, кроме первичного клиента и клиента, в который в данный момент выполнен вход.
+
+:::image type="content" source="images/disassociate.png" alt-text="Клиенты с кнопкой &quot;Удалить&quot;":::
+ 
+
 ## <a name="next-steps"></a>Дальнейшие действия
 
 - [Добавление пользователей](create-user-accounts-and-set-permissions.md)
+
+
+
+
+
+
