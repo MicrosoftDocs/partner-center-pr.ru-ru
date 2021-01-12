@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 93deb404cd056aab2a14015a4c89fad22f9d0c72
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 5de6dd2acff560a0093e51dfccb2454ea9cb71f4
+ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979793"
+ms.locfileid: "98040996"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,7 @@ ms.locfileid: "97979793"
 
 | **Категория** | **Объявления за январь 2021 года** | **Объявлено** |
 |---------|:---------|:---------|
+|Предложения и рынки|[Обновления прейскурантов на основе лицензий (январь 2021 г.)](2021-january.md#4)|8 января|
 |Современное рабочее место|[Изменение валюты выставления счетов для партнеров в рамках новых коммерческих предложений в странах ЕС и ЕАСТ](2021-january.md#3)|7 января|
 |Возможности|[Вывод из эксплуатации и прекращение поддержки существующих API GET и PUT для проверки соответствия требованиям для процесса проверки клиентов в конце февраля 2021 г.](2021-january.md#2)|5 января|
 |Предложения и рынки|[Предложения Dynamics 365 на февраль 2021 г.](2021-january.md#1)|4 января|
