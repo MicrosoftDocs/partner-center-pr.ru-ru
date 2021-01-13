@@ -635,29 +635,39 @@
           href: pci-roles.md
         - name: Аналитический отчет
           items:
+            - name: Обзор
+              href: pci-overview-report.md
+            - name: Customer
+              href: pci-customer-report.md
+            - name: Показатели работы торговых посредников
+              href: pci-resellers-performance.md
+              displayName: 'indirect, reseller'
+            - name: Подписки для продукта
+              href: pci-product-subscriptions-report.md
             - name: Использование Azure
               href: pci-azure-usage-report.md
+            - name: Использование Teams
+              href: pci-teams-usage-report.md
+            - name: "Использование Office\_365"
+              href: pci-office-365-usage-report.md
+            - name: Использование Dynamics
+              href: pci-dynamics-usage-report.md
+            - name: Использование Enterprise Mobility + Security
+              href: pci-enterprise-mobility-security-usage-report.md
+            - name: "Использование Power\_BI"
+              href: pci-power-bi-usage-report.md
+            - name: Обучение
+              href: pci-training-dashboard.md
+            - name: Аналитика Microsoft Learn
+              href: ms-learn-analytics.md
+            - name: Компетенции
+              href: pci-competencies-report.md
             - name: Преимущества
               href: pci-benefits-report.md
             - name: Отчет о заинтересованности от CloudAscent
               href: pci-customer-opportunities.md
-            - name: Компетенции
-              href: pci-competencies-report.md
-            - name: Customer
-              href: pci-customer-report.md
-            - name: Аналитика Microsoft Learn
-              href: ms-learn-analytics.md
-            - name: Обзор
-              href: pci-overview-report.md
             - name: Лицензии на продукты
               href: pci-product-licenses-report.md
-            - name: Подписки для продукта
-              href: pci-product-subscriptions-report.md
-            - name: Показатели работы торговых посредников
-              href: pci-resellers-performance.md
-              displayName: 'indirect, reseller'
-            - name: Обучение
-              href: pci-training-dashboard.md
         - name: Вопросы и ответы об аналитике
           href: pci-known-issues.md
         - name: Скачать отчеты аналитики
