@@ -1,0 +1,91 @@
+---
+title: Отчет об использовании Dynamics Insights в центре партнеров
+ms.topic: article
+ms.date: 01/11/2021
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Узнайте, что вы хорошо делаете, и можете ли вы повысить эффективность использования подписок Dynamics, которые вы продаете или управляете клиентами.
+author: shganesh-dev
+ms.author: shganesh
+ms.localizationpriority: medium
+ms.openlocfilehash: d8755cadf7b572972c5abe1483ff6f0be98a1eb8
+ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98146814"
+---
+# <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a><span data-ttu-id="c8053-103">Отчет об использовании Dynamics, доступный на панели мониторинга центра партнеров Insights</span><span class="sxs-lookup"><span data-stu-id="c8053-103">Dynamics usage report available from the Partner Center Insights dashboard</span></span>
+
+<span data-ttu-id="c8053-104">**Соответствующие роли**</span><span class="sxs-lookup"><span data-stu-id="c8053-104">**Appropriate roles**</span></span>
+- <span data-ttu-id="c8053-105">Глобальный администратор</span><span class="sxs-lookup"><span data-stu-id="c8053-105">Global admin</span></span>
+- <span data-ttu-id="c8053-106">Агент по администрированию</span><span class="sxs-lookup"><span data-stu-id="c8053-106">Admin agent</span></span>
+- <span data-ttu-id="c8053-107">Средство просмотра отчетов</span><span class="sxs-lookup"><span data-stu-id="c8053-107">Report Viewer</span></span>
+- <span data-ttu-id="c8053-108">Средство просмотра отчетов руководителя</span><span class="sxs-lookup"><span data-stu-id="c8053-108">Executive Report Viewer</span></span>
+
+<span data-ttu-id="c8053-109">Отчет об использовании Dynamics предоставляет данные об использовании для подписок Dynamics 365, которые вы продавали или управляете клиентами.</span><span class="sxs-lookup"><span data-stu-id="c8053-109">The Dynamics usage report provides usage data for the Dynamics 365 subscriptions that you sold or manage for your customers.</span></span> <span data-ttu-id="c8053-110">В отчете об использовании Dynamics можно просмотреть следующие разделы.</span><span class="sxs-lookup"><span data-stu-id="c8053-110">You can view the following sections from the dynamics usage report.</span></span>
+
+- <span data-ttu-id="c8053-111">Сводка</span><span class="sxs-lookup"><span data-stu-id="c8053-111">Summary</span></span>
+- <span data-ttu-id="c8053-112">Использование Dynamics по geography</span><span class="sxs-lookup"><span data-stu-id="c8053-112">Dynamics usage by geography</span></span>
+- <span data-ttu-id="c8053-113">Использование Dynamics по SKU</span><span class="sxs-lookup"><span data-stu-id="c8053-113">Dynamics usage by SKU</span></span>
+- <span data-ttu-id="c8053-114">Производительность подписок</span><span class="sxs-lookup"><span data-stu-id="c8053-114">Subscriptions performance</span></span>
+- <span data-ttu-id="c8053-115">Распределение использования Dynamics</span><span class="sxs-lookup"><span data-stu-id="c8053-115">Dynamics usage distribution</span></span>
+
+ > [!NOTE]
+ > <span data-ttu-id="c8053-116">Этот отчет доступен на панели мониторинга Insights.</span><span class="sxs-lookup"><span data-stu-id="c8053-116">This report is available from the Insights dashboard.</span></span> <span data-ttu-id="c8053-117">Чтобы просмотреть этот отчет, необходимо назначить определенную роль в центре партнеров, например Глобальный администратор, администратор учетной записи, средство просмотра отчетов или средство просмотра отчетов руководителя.</span><span class="sxs-lookup"><span data-stu-id="c8053-117">To view this report, you must be assigned a specific role in Partner Center, such as Global Admin, Account Admin, Report Viewer or Executive Report Viewer.</span></span> <span data-ttu-id="c8053-118">Дополнительные сведения см. в разделе Глобальный администратор вашей организации. определенные типы данных в этом отчете могут также быть доступны только пользователям с правами администратора для просмотра отчетов.</span><span class="sxs-lookup"><span data-stu-id="c8053-118">For more information, see your company's Global Admin. Specific types of data in this report may also be available only to users with Executive Report Viewer privileges.</span></span>
+
+## <a name="summary"></a><span data-ttu-id="c8053-119">Сводка</span><span class="sxs-lookup"><span data-stu-id="c8053-119">Summary</span></span>
+
+<span data-ttu-id="c8053-120">В разделе "Сводка" представлено представление моментального снимка ключевых показателей, связанных с подписками использования Dynamics, которые вы продавали или управляете для клиентов.</span><span class="sxs-lookup"><span data-stu-id="c8053-120">The summary section presents a snapshot view of the key indicators related to Dynamics usage subscriptions that you sold or manage for your customers.</span></span>  
+
+- <span data-ttu-id="c8053-121">Доступные места: общее количество лицензий, проданных за выбранный период.</span><span class="sxs-lookup"><span data-stu-id="c8053-121">Available seats: Total number of licenses sold during the selected timeframe.</span></span>
+
+   <span data-ttu-id="c8053-122">В микродиаграмме показана тенденция за месяц по количеству доступных рабочих мест для выбранного диапазона дат.</span><span class="sxs-lookup"><span data-stu-id="c8053-122">The Micro chart presents a month-over-month trend of available seats count for your selected date range.</span></span>
+
+- <span data-ttu-id="c8053-123">Назначенные места: общее число лицензий, назначенных за выбранный период времени.</span><span class="sxs-lookup"><span data-stu-id="c8053-123">Assigned seats: Total number of licenses assigned during the selected timeframe.</span></span>
+
+   <span data-ttu-id="c8053-124">В микродиаграмме показана тенденция за месяц по назначенному количеству рабочих мест в течение выбранного диапазона дат.</span><span class="sxs-lookup"><span data-stu-id="c8053-124">The Micro chart presents a month-over-month trend of the assigned seats count during your selected date range.</span></span>
+
+- <span data-ttu-id="c8053-125">Активные места: общее число лицензий, которые использовались за выбранный период времени.</span><span class="sxs-lookup"><span data-stu-id="c8053-125">Active seats: Total number of licenses that had usage during the selected timeframe.</span></span> 
+
+   <span data-ttu-id="c8053-126">В микродиаграмме представлена ежемесячная тенденция месячных активных рабочих мест за выбранный период времени.</span><span class="sxs-lookup"><span data-stu-id="c8053-126">The Micro chart presents a monthly trend of monthly active seats over the selected time period.</span></span>
+
+- <span data-ttu-id="c8053-127">Активное использование%: общее число активных мест, выраженное в процентах от доступных мест для выбранного периода.</span><span class="sxs-lookup"><span data-stu-id="c8053-127">Active Usage %: Total number of active seats expressed as a percentage of the available seats for the selected timeframe.</span></span> 
+
+   <span data-ttu-id="c8053-128">В микродиаграмме представлена месячная тенденция активного использования в течение выбранного периода времени.</span><span class="sxs-lookup"><span data-stu-id="c8053-128">The Micro chart presents a monthly trend of active usage percentage over the selected time period.</span></span>
+
+:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Сводка по использованию Dynamics":::
+
+## <a name="dynamics-usage-by-geography"></a><span data-ttu-id="c8053-130">Использование Dynamics по geography</span><span class="sxs-lookup"><span data-stu-id="c8053-130">Dynamics usage by geography</span></span>
+
+<span data-ttu-id="c8053-131">**Использование Dynamics по географическому** представлению показывает распределение доступных мест и активных мест по странам клиентов.</span><span class="sxs-lookup"><span data-stu-id="c8053-131">The **Dynamics usage by geography** depicts the distribution of available seats and active seats by customer country.</span></span> <span data-ttu-id="c8053-132">Более светлые цвета на карте представляют более низкие значения, а темные — более высокие значения.</span><span class="sxs-lookup"><span data-stu-id="c8053-132">Lighter colors on the map represent lower values, while darker colors represent higher values.</span></span> <span data-ttu-id="c8053-133">Вы можете найти и выбрать страну в сетке.</span><span class="sxs-lookup"><span data-stu-id="c8053-133">You can search and select a country in the grid.</span></span> <span data-ttu-id="c8053-134">Можно также увеличить масштаб для более подробного взгляда.</span><span class="sxs-lookup"><span data-stu-id="c8053-134">You can also zoom in for a closer look.</span></span>
+
+<span data-ttu-id="c8053-135">В таблице **число стран/регионов** представлены общие страны и регионы, в которых создаются события использования Azure.</span><span class="sxs-lookup"><span data-stu-id="c8053-135">The **Number of countries/region** table presents the total countries/regions where Azure usage events are generated.</span></span>
+
+<span data-ttu-id="c8053-136">Вы можете выполнить поиск и выбрать страну в сетке, чтобы увеличить расположение на карте.</span><span class="sxs-lookup"><span data-stu-id="c8053-136">You can search and select a country in the grid to zoom to the location in the map.</span></span> <span data-ttu-id="c8053-137">Выберите параметр **домой** на карте, чтобы вернуться к исходному представлению.</span><span class="sxs-lookup"><span data-stu-id="c8053-137">Select the **Home** option on the map to revert to the original view.</span></span>
+
+:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Использование Dynamics по geography":::
+
+## <a name="dynamics-usage-by-sku"></a><span data-ttu-id="c8053-139">Использование Dynamics по SKU</span><span class="sxs-lookup"><span data-stu-id="c8053-139">Dynamics usage by SKU</span></span>
+
+<span data-ttu-id="c8053-140">Использование Dynamics по SKU показывает месячную тенденцию доступных мест, активных рабочих мест и назначенных мест по номерам SKU.</span><span class="sxs-lookup"><span data-stu-id="c8053-140">The Dynamics usage by SKU depicts monthly trend of available seats, active seats, and assigned seats by SKUs.</span></span>
+
+:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="Использование Dynamics по SKU":::
+
+## <a name="subscriptions-performance"></a><span data-ttu-id="c8053-142">Производительность подписок</span><span class="sxs-lookup"><span data-stu-id="c8053-142">Subscriptions performance</span></span>
+
+<span data-ttu-id="c8053-143">В производительности подписок отображается месячная тенденция активного использования на каждую подписку клиента.</span><span class="sxs-lookup"><span data-stu-id="c8053-143">The Subscriptions performance depicts the monthly trend of Active Usage per customer subscription.</span></span> <span data-ttu-id="c8053-144">Данные для лучших 100 клиентов по выручке выставляются в таблице. Вы можете найти любого клиента или скачать необработанные данные, чтобы просмотреть сведения обо всех подписках.</span><span class="sxs-lookup"><span data-stu-id="c8053-144">Data for the top 100 customers by billed revenue is shown in the table and you can search for any customer or download the raw data to view details for all subscriptions.</span></span>
+
+:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Производительность подписки Dynamics":::
+
+## <a name="dynamics-usage-distribution"></a><span data-ttu-id="c8053-146">Распределение использования Dynamics</span><span class="sxs-lookup"><span data-stu-id="c8053-146">Dynamics usage distribution</span></span>
+
+<span data-ttu-id="c8053-147">Распределение использования Dynamics описывает разделение доступных мест, активных мест и назначенных мест по номерам SKU.</span><span class="sxs-lookup"><span data-stu-id="c8053-147">The Dynamics usage distribution depicts the breakdown of available seats, active seats, and assigned seats by SKUs.</span></span>
+
+:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Распределение использования Dynamics":::
+
+## <a name="next-steps"></a><span data-ttu-id="c8053-149">Дальнейшие действия</span><span class="sxs-lookup"><span data-stu-id="c8053-149">Next steps</span></span>
+
+- <span data-ttu-id="c8053-150">Дополнительные отчеты см. в статье [Partner Center Insights](partner-center-insights.md).</span><span class="sxs-lookup"><span data-stu-id="c8053-150">For more reports, see [Partner Center Insights](partner-center-insights.md).</span></span>
+
+- <span data-ttu-id="c8053-151">Вы можете скачать необработанные данные, чтобы включить этот отчет из раздела "отчеты о загрузке" на панели мониторинга Insights.</span><span class="sxs-lookup"><span data-stu-id="c8053-151">You can download the raw data powering this report from the Download Reports section in the Insights dashboard.</span></span> [<span data-ttu-id="c8053-152">Подробнее</span><span class="sxs-lookup"><span data-stu-id="c8053-152">Learn More</span></span>](pci-download-reports.md) 
