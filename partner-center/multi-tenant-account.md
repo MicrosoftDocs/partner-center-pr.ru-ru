@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22f85bda0a651559da1717ae1e5365da40d62aff
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: f9852b4e1c3997b82f744555db25fe64e1afc8ad
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105562"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182444"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Добавление нескольких клиентов и управление ими в учетной записи центра партнеров
 
@@ -22,6 +22,7 @@ ms.locfileid: "98105562"
 **Соответствующие роли**
 
 - Глобальный администратор
+- Администратор учетных записей
 
 Эта функция позволяет управлять несколькими арендаторами для вашей компании и объединить их в учетной записи Центра партнеров. Существует множество причин, по которым вам может потребоваться управлять несколькими клиентами Azure AD в учетной записи центра партнеров. Пример:
 
