@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916836"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105517"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Сведения о соглашении с партнером Майкрософт для партнеров по программе CSP
 
@@ -54,7 +54,7 @@ ms.locfileid: "97916836"
 
 1. Войдите в Центр партнеров с учетными данными глобального администратора CSP.
 
-1. В разделе **Параметры** выберите [Профиль партнера](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
+1. В разделе **Параметры** выберите элемент **Параметры учетной записи**, а затем выберите элемент [Профиль партнера](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
 1. Проверьте раздел **Сведения о программе**. Если для параметра **Косвенный торговый посредник** состояние не отображается, необходимо [зарегистрироваться в качестве косвенного торгового посредника](indirect-reseller-tasks-in-partner-center.md).
 
@@ -80,6 +80,10 @@ ms.locfileid: "97916836"
 >[!NOTE]
 >Только глобальный администратор организации может просматривать и подписывать MPA. Если вы не являетесь глобальным администратором, вам нужно обратиться к нему для проверки активации MPA.
 
+Кроме того, чтобы узнать, подписано ли соглашение, можно выбрать элемент **Соглашения** в разделе **Параметры учетной записи**.
+
+:::image type="content" source="images/agreements/agreements.png" alt-text="Свидетельство того, что MPA подписано":::
+
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Скачайте пошаговое руководство, соответствующее этапу процесса, на котором вы находитесь
 
@@ -91,4 +95,4 @@ ms.locfileid: "97916836"
  
 ## <a name="next-steps"></a>Дальнейшие действия
 
-- [Регистрация в программе поставщиков облачных решений](enrolling-in-the-csp-program.md)
+- [Регистрация в программе поставщиков облачных решений](indirect-reseller-tasks-in-partner-center.md)
