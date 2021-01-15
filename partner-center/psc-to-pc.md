@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
-ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
+ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97950592"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215957"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Пошаговое руководством по совместному продажам в центре партнеров (ПК) для партнеров, выполняющих переход от партнеров Sales Connect (PSC)
 
@@ -26,7 +26,7 @@ ms.locfileid: "97950592"
 - Администратор с партнером Connect Sales (PSC)
 - Менеджер по подсоединению партнеров Sales Connect (PSC)
 
-В этой статье описываются партнеры по переходу с продаж партнеров в центр партнеров, чтобы они могли по-прежнему создавать и администрировать сделки совместной продажи в центре партнеров.
+В этой статье приводятся рекомендации для партнеров по переходу с продаж партнеров в центр партнеров, чтобы они могли создавать и администрировать сделки совместной продажи в центре партнеров.
 
 Как известно, ваша компания потеряет доступ к PSC после 31 марта 2021 г. Тем не менее, вы все равно найдете все, что нужно сделать в центре партнеров, например создание сделок совместной продажи, управление вашими сделками и работа с предложениями, отправленными вами Microsoft продавцов.
 
@@ -353,7 +353,6 @@ Microsoft продавцов назначается только после со
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
-Выполните следующие дополнительные ресурсы:
 
 - [Партнер Sales Reconnect to Partner Center книга](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) — книга для согласования процессов продаж и ролей партнеров с новыми процессами продаж через центр партнеров и партнеров Sales Connect.
 - [Руководство по совместному продажам в центре партнеров](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) . Руководство по определению операционной модели с помощью центра партнеров для управления интересами или совместной продажами и регистрации сделок.
