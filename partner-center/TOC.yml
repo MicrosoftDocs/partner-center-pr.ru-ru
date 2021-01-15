@@ -675,8 +675,12 @@
         - name: Определение аналитических данных
           href: pci-data-definitions.md
     - name: Показатели вклада партнера
-      href: partner-contribution-indicators.md
-      displayName: mpn
+      items:
+        - name: Для компетенции "Облачные бизнес-приложения"
+          href: partner-contribution-indicators.md
+        - name: Для компетенции "Облачные решения для малого и среднего бизнеса"
+          href: partner-contribution-indicators-small-and-midmarket-cloud-business-option.md
+      displayName: 'mpn, cloud business applications competency, small and midmarket cloud solutions competency, CBA SMB option'
     - name: Анализ других данных
       items:
         - name: Использование Azure клиентами
