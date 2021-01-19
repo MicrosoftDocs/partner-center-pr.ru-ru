@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 6c7255f1bece1b107d173b8f1dc8a2b77defa992
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: bc85c2537201c3fab95541798932fe1be0a9a231
+ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235959"
+ms.lasthandoff: 01/18/2021
+ms.locfileid: "98560499"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,8 @@ ms.locfileid: "98235959"
 
 | **Категория** | **Объявления за январь 2021 года** | **Объявлено** |
 |---------|:---------|:---------|
+|Предложения и рынки|[Запуск решений для обеспечения безопасности, соответствия требованиям и идентификации 1 февраля 2021 г.](2021-january.md#9)|15 января|
+|Характеристики|[Переход с DocuSign на Adobe Sign для партнеров, подписавших Соглашение с партнером Майкрософт (MPA)](2021-january.md#8)|15 января|
 |Предложения и рынки|[Обновление коммерческих цен в норвежских кронах](2021-january.md#7)|14 января|
 |Предложения и рынки|[Обновление коммерческих цен в индийских рупиях](2021-january.md#6)|8 января|
 |Предложения и рынки|[Обновления плана звонков и телефонной системы за 1 февраля 20201 г.](2021-january.md#5)|8 января|
