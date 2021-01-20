@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: c186c61fa6a583284884020bf442517e9bb38182
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736547"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182568"
 ---
 # <a name="december-2020-announcements"></a>Объявления за декабрь 2020 г.
 
@@ -152,7 +152,7 @@ ______________
 **Влияние этого изменения**
 
 - С **30 ноября 2020 г.** клиенты больше не смогут подключаться к веб-приложению Microsoft Teams через Internet Explorer 11. Мы в корпорации Майкрософт считаем, что клиенты смогут воспользоваться всеми преимуществами Microsoft 365 и функциями современного браузера с [новой версией Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
-- После **9 марта 2021 г.** приложения и сайты, созданные для устаревшей версии Microsoft Edge, продолжат работать в новой версии Microsoft Edge, но при возникновении проблемы с совместимостью поддержка будет оказываться в рамках [гарантии App Assure](https://aka.ms/appassure).
+- После **9 марта 2021 г.** приложения и сайты, созданные для устаревшей версии Microsoft Edge, продолжат работать в новой версии Microsoft Edge, но при возникновении проблемы с совместимостью поддержка будет оказываться в рамках [гарантии App Assure](/fasttrack/products-and-capabilities#app-assure).
 - После **17 августа 2021 г.** клиенты будут сталкиваться со снижением производительности или не смогут подключиться к приложениям и службам Microsoft 365 через Internet Explorer 11. Мы в корпорации Майкрософт считаем, что клиенты смогут воспользоваться всеми преимуществами Microsoft 365 и функциями современного браузера с [новой версией Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
 
 ### <a name="next-steps"></a>Дальнейшие действия
@@ -280,7 +280,7 @@ ______________
 
 - Прейскурант на программное обеспечение с бессрочной лицензией для CSP будет опубликован в Центре партнеров. Вы найдете его в разделе **Программное обеспечение** на странице [Продажи > Цены и предложения](https://partnercenter.microsoft.com/pcv/sales), на которой также приведены дополнительные продукты и регионы. Подробные сведения см. [здесь](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
 
-- Возможности Центра партнеров по обработке лицензионных ключей и скачиванию программного обеспечения станут недоступны — см. [объявление](https://docs.microsoft.com/partner-center/announcements/2020-september#17). Такие задачи партнеры будут выполнять исключительно в Центре администрирования Microsoft 365. Это позволит обеспечить максимальную безопасность для клиентов и эффективность их работы. Дополнительные сведения о программном обеспечении Центра администрирования Microsoft 365 см. в статьях с [обзором](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), информацией об [общих задачах](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true) и [возможностях обработки лицензионных ключей](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- Возможности Центра партнеров по обработке лицензионных ключей и скачиванию программного обеспечения станут недоступны — см. [объявление](./2020-september.md#17). Такие задачи партнеры будут выполнять исключительно в Центре администрирования Microsoft 365. Это позволит обеспечить максимальную безопасность для клиентов и эффективность их работы. Дополнительные сведения о программном обеспечении Центра администрирования Microsoft 365 см. в статьях с [обзором](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), информацией об [общих задачах](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) и [возможностях обработки лицензионных ключей](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 ### <a name="perpetual-software-in-csp"></a>Программное обеспечение с бессрочной лицензией в рамках программы CSP
 
@@ -292,7 +292,7 @@ ______________
 
 - [Новое программное обеспечение с бессрочной лицензией и регионы в рамках CSP](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) будут добавлены 19 января 2021 г.
 
-- [Обзор](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [общие задачи](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true) и [возможности обработки лицензионных ключей](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf) Центра администрирования Microsoft 365
+- [Обзор](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [общие задачи](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) и [возможности обработки лицензионных ключей](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf) Центра администрирования Microsoft 365
 
 - [Расширение возможностей для партнеров по программе "Поставщик облачных решений"](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (объявление для партнеров)
 
@@ -573,4 +573,4 @@ ______________
 
 - 10 ноября 2020 г.: напоминание о регистрации для тестирования. 
 
-- 3 декабря 2020 г.: выпуск обновлений API. 
+- 3 декабря 2020 г.: выпуск обновлений API.

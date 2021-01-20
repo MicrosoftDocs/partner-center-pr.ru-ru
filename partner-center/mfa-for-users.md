@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 355258fd20f867052fa8598e688630005262bb16
-ms.sourcegitcommit: ab2ca3c5990b7f920df4ecb9c611d5b1046ec111
+ms.openlocfilehash: f42c97be88a1a505f7e0ae9b8af0d4a9167d8447
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "97578295"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182381"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Настройка многофакторной проверки подлинности для пользователей
 
@@ -39,11 +39,10 @@ ms.locfileid: "97578295"
 :::image type="content" source="images/MFA/securityverification.png" alt-text="Указание способа проверки":::
 
 >[!NOTE]
->Вы можете **принудительно применить** для пользователей требование прохождения MFA. Для этого выполните описанные выше действия и выберите элемент **Принудительно**. Дополнительные сведения см. в статье о [включении Многофакторной идентификации Azure для защиты при входе](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userstates). 
+>Вы можете **принудительно применить** для пользователей требование прохождения MFA. Для этого выполните описанные выше действия и выберите элемент **Принудительно**. Дополнительные сведения см. в статье о [включении Многофакторной идентификации Azure для защиты при входе](/azure/active-directory/authentication/howto-mfa-userstates). 
 
 Начальное состояние для всех пользователей —  **Отключено**. При регистрации пользователей для Многофакторной идентификации Azure состояние изменяется на  **Включено**. Если пользователи, для которых включена проверка, входят в систему и завершают процесс регистрации, состояние меняется на  **Принудительно**. 
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
 - [Назначение ролей и разрешений пользователям](permissions-overview.md)
-

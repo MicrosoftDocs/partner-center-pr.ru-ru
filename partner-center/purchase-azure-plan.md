@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6f9908be183983c590c52b38465041c908c91d7c
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 04d47cef596b2c0a0ae13ff3f087d4b1b5f0437c
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87810904"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215906"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Приобретение плана Azure для клиентов и доступ к новейшим службам Azure с оплатой по мере использования
 
@@ -26,6 +26,7 @@ ms.locfileid: "87810904"
 При покупке плана Azure для клиентов в рамках клиентского договора с Майкрософт вы получите доступ к полному каталогу новейших служб Azure, для которых действуют тарифы оплаты по мере использования. У партнеров CSP теперь будет доступ к любой службе Azure, которая стала общедоступной. У партнера может быть несколько подписок Azure в одном плане Azure. 
 
 ## <a name="countryregion-availability"></a>Доступность в различных регионах и странах
+
 В настоящее время планируется предоставлять новую коммерческую модель в CSP для Azure в 139 странах. Ознакомьтесь с полным списком этих [стран и регионов](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x). 
 
 ## <a name="how-to-purchase-azure-plan"></a>Как приобрести план Azure

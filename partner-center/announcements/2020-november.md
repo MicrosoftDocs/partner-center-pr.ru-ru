@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439077"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182551"
 ---
 # <a name="november-2020-announcements"></a>Объявления за ноябрь 2020 г.
 
@@ -40,7 +40,7 @@ ______________
 
 ### <a name="details"></a>Сведения
 
-Корпорация Майкрософт представляет партнерам по программе CSP, в том числе косвенным поставщикам и партнерам с прямым выставлением счетов, возможность приобретать предложения SaaS с [выставлением счетов по тарифу](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing) в Центре партнеров. Сейчас партнеры по программе CSP могут просматривать и [приобретать предложения SaaS с выставлением счетов по тарифу через портал Azure](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase). Новый интерфейс позволит партнерам приобретать такие предложения через API и Marketplace для партнеров CSP в Центре партнеров (аналогично другим типам предложений SaaS). 
+Корпорация Майкрософт представляет партнерам по программе CSP, в том числе косвенным поставщикам и партнерам с прямым выставлением счетов, возможность приобретать предложения SaaS с [выставлением счетов по тарифу](/azure/marketplace/partner-center-portal/saas-metered-billing) в Центре партнеров. Сейчас партнеры по программе CSP могут просматривать и [приобретать предложения SaaS с выставлением счетов по тарифу через портал Azure](../csp-commercial-marketplace-purchase.md). Новый интерфейс позволит партнерам приобретать такие предложения через API и Marketplace для партнеров CSP в Центре партнеров (аналогично другим типам предложений SaaS). 
 
 ### <a name="next-steps"></a>Следующие шаги
 
@@ -309,23 +309,23 @@ ______________
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{customer_id}/subscriptions|[Получение списка всех подписок клиента](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Получение сведений о подписке по идентификатору](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{customer_id}/orders||[Получение списка всех заказов клиента](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
-|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Получение заказа по идентификатору](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
-|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[Получение сведений о состоянии подготовки подписки](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Управление заказами и управление подпиской](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[Получение списка надстроек для подписки](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[Получение списка прав Azure для подписки](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[Получение сведений о состоянии регистрации подписки](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[Получение сведений обо всех операциях перемещения для клиента](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Получение сведений о состоянии обновления продукта](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Получение списка предложений для преобразования пробных версий](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/customers/{customer_id}/orders||[Получение списка всех заказов клиента](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Получение заказа по идентификатору](/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[Получение сведений о состоянии подготовки подписки](/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Управление заказами и управление подпиской](/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[Получение списка надстроек для подписки](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[Получение списка прав Azure для подписки](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[Получение сведений о состоянии регистрации подписки](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[Получение сведений обо всех операциях перемещения для клиента](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Получение сведений о состоянии обновления продукта](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Получение списка предложений для преобразования пробных версий](/partner-center/develop/get-all-of-a-customer-s-transfers) 
   
 
-Цель этого объявления — заранее уведомить партнеров о предстоящих изменениях, чтобы партнеры могли к ним подготовиться. Мы настоятельно рекомендуем партнерам ознакомиться с этими API и по возможности использовать API журнала действий, чтобы повысить эффективность и избежать регулирования. Дополнительные сведения об этой функции см. в [руководстве по регулированию API](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance). 
+Цель этого объявления — заранее уведомить партнеров о предстоящих изменениях, чтобы партнеры могли к ним подготовиться. Мы настоятельно рекомендуем партнерам ознакомиться с этими API и по возможности использовать API журнала действий, чтобы повысить эффективность и избежать регулирования. Дополнительные сведения об этой функции см. в [руководстве по регулированию API](/partner-center/develop/api-throttling-guidance). 
 
 ### <a name="next-steps"></a>Дальнейшие действия
 
-Изучите [руководство по регулированию API](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance) и выполните необходимые действия. 
+Изучите [руководство по регулированию API](/partner-center/develop/api-throttling-guidance) и выполните необходимые действия. 
 
 ______________
 
@@ -339,7 +339,7 @@ ______________
 ### <a name="context"></a>Контекст
 
 - В феврале этого года партнерам было предложено подписать Клиентское соглашение Майкрософт (MCuA). Это было сделано в рамках перехода с предыдущего соглашения об использовании Microsoft Cloud (MCA). 
-- В рамках этого изменения партнерам предлагалось включить параметр типа соглашения, как описано [здесь](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement).
+- В рамках этого изменения партнерам предлагалось включить параметр типа соглашения, как описано [здесь](/partner-center/develop/get-confirmation-of-customer-agreement).
 
 ### <a name="what-happened-next"></a>Что произошло дальше?
 
