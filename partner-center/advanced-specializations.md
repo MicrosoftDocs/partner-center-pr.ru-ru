@@ -1,7 +1,7 @@
 ---
 title: Дополнительные сведения о расширенных специализациях
 ms.topic: article
-ms.date: 01/12/2021
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Укрепите свой бизнес-профиль в каталоге партнеров Майкрософт. Узнайте о расширенных специализациях, которые можно достичь с помощью имеющихся компетенций Gold и серебряных.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ce29c533869214a15f18852c8946f46c0656a38
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204025"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658405"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Получите расширенную специализацию, чтобы продемонстрировать проверенные возможности
 
@@ -45,6 +45,7 @@ ms.locfileid: "98204025"
 
 В число дополнительных специализаций **Azure** входят следующие:
 
+- Аналитика на Microsoft Azure
 - Миграция из Data Warehouse в Microsoft Azure
 - Kubernetes в Microsoft Azure
 - Миграция Linux и баз данных с открытым исходным кодом на Microsoft Azure
@@ -73,7 +74,7 @@ ms.locfileid: "98204025"
 > [!NOTE]
 > Чтобы узнать о каждой дополнительной специализации, а также о необходимых условиях и требованиях, посетите [страницу Дополнительные специализации](https://partner.microsoft.com/membership/advanced-specialization). Когда вы будете готовы к применению расширенной специализации, проверьте ход выполнения, войдя на [панель мониторинга](https://partner.microsoft.com/dashboard)центра партнеров. Дополнительные сведения о доступе к этой области центра партнеров см. в статье [об использовании расширенной специализации](advanced-specializations-apply.md).
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - Использование центра партнеров для [применения и проверки состояния расширенных специализаций](advanced-specializations-apply.md)
 
