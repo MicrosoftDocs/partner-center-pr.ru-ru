@@ -1,7 +1,7 @@
 ---
 title: Применить к расширенным специализациям
 ms.topic: how-to
-ms.date: 11/30/2020
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Укрепите свой бизнес-профиль в каталоге партнеров Майкрософт. Узнайте, как использовать центр партнеров для применения и получения расширенных специализаций.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dea98a5268feecbbea448592637a24f180d8eff2
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96440051"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658422"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Использование центра партнеров для применения расширенных специализаций и проверки их состояния
 
@@ -60,20 +60,21 @@ ms.locfileid: "96440051"
 
 Дополнительные специализации, для которых требуется аудит со сторонним аудитором, включают:
 
-- Миграция хранилища данных в Microsoft Azure
-- Kubernetes на Microsoft Azure
-- Миграция Linux и базы данных с открытым исходным кодом на Microsoft Azure
+- Аналитика на Microsoft Azure
+- Миграция из Data Warehouse в Microsoft Azure
+- Kubernetes в Microsoft Azure
+- Миграция из Linux и базы данных с открытым кодом в Microsoft Azure
 - Виртуальный рабочий стол Microsoft Windows
 - Модернизации веб-приложений для Microsoft Azure
-- Миграция Windows Server и SQL Server в Microsoft Azure
+- Миграция из Windows Server и SQL Server в Microsoft Azure
 
 Ниже перечислены дополнительные специализации, для которых требуются ссылки на клиентов.
 
 - Внедрение и управление изменениями
-- Вызов для Microsoft Teams
+- Вызов в Microsoft Teams
 - Собрания и комнаты совещаний для Microsoft Teams
 - SAP в Azure
-- Развертывание с обсотрудничеством
+- Развертывание для совместной работы
 - Управление удостоверениями и доступом
 - Защита от угроз
 
@@ -116,7 +117,7 @@ ms.locfileid: "96440051"
 
 4. До тех пор, пока не будут выполнены все предварительные требования на этой странице и предоставлены ссылки на клиентов, ваше состояние останется **незапущенным**. После соблюдения всех необходимых условий состояние изменится на **активно**.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - Дополнительные сведения о [расширенных специализациях, их преимуществах и уникальных требованиях](https://partner.microsoft.com/membership/advanced-specialization).
 
