@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b1eb9eeed676cc07b042659dffd77d04ebd50326
-ms.sourcegitcommit: 4e8e5a18e6e64892761dadcf182e179a128dcbc7
+ms.openlocfilehash: 5c89ef94977882b72563763744c6437c6c7f368a
+ms.sourcegitcommit: 79e45aa581ad7785e2417660ed6c73689988f58b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98166704"
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "98759865"
 ---
 # <a name="what-is-microsoft-appsource"></a>Что такое Microsoft AppSource?
 
@@ -46,7 +46,7 @@ AppSource предлагает простые параметры поиска и
 
 Поставщик программного обеспечения определяет цену, лицензионное соглашение с конечным пользователем и политики конфиденциальности. Каждое предложение в AppSource включает ссылки на лицензионное соглашение издателя и политику конфиденциальности. Просмотр и подтверждение этих соглашений является частью потока покупки. Дополнительные сведения см. в разделе [юридические контракты](legal-contracts.md).
 
-## <a name="discover-saas-and-m365-integrated-apps"></a>Обнаружение интегрированных приложений SaaS и M365
+## <a name="discover-saas-and-microsoft-365-integrated-apps"></a>Обнаружение интегрированных приложений SaaS и Microsoft 365
 
 Наши партнеры могут связываться между приложением SaaS и соответствующими надстройками для Microsoft 365. Это позволяет скачивать и использовать надстройки из конкретных Microsoft 365 служб или продуктов при получении приложения SaaS, связанного с надстройками.
 
