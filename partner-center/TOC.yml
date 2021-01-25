@@ -110,6 +110,9 @@
     - name: 'Соглашение с партнером Майкрософт: участники программы CSP'
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: Как косвенные поставщики могут помочь своим торговым посредникам принять MPA
+      href: mpa-indirect-provider-faq.md
+      displayName: 'csp, mpa, indirect, provider'
     - name: Требования к прямым партнерам в рамках CSP
       href: direct-partner-new-requirements.md
       displayName: 'indirect, reseller, csp'
