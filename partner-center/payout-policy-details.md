@@ -1,20 +1,20 @@
 ---
-title: Выплата и расписания и процессы
+title: Расписания и процессы выплат
 description: Сведения о выплатах и транзакциях, например о графиках оплаты и рекаупмент процессах для коммерческого рынка и других транзакций.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.date: 12/04/2020
+ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492676"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861416"
 ---
-# <a name="payout-schedules-and-processes"></a>Выплата и расписания и процессы
+# <a name="payout-schedules-and-processes"></a>Расписания и процессы выплат
 
 **Соответствующие роли:**
 
@@ -37,6 +37,7 @@ ms.locfileid: "97492676"
 | --- | --- | --- | --- |
 | Использование или месяц транзакции | Клиент использует или покупает службу. | Панель мониторинга " [Использование](/azure/marketplace/partner-center-portal/usage-dashboard) " или " [заказ](/azure/marketplace/partner-center-portal/orders-dashboard) " | **Месяц 1** |
 | Корпорация Майкрософт вычисляет сумму выставления счетов | Определение общего использования, всего транзакций | Панель мониторинга " [Использование](/azure/marketplace/partner-center-portal/usage-dashboard) " или " [заказ](/azure/marketplace/partner-center-portal/orders-dashboard) " | **Месяц 2** |
+| Счет оплачивается клиентом | Корпорация Майкрософт собирает платеж от клиента | Без изменения. | **Месяц 2** |
 | Выплата опубликована | Определение тарифных выплат и доходов на выплаты | Помечается как необработанный в журнале транзакций в [отчете о выплатах](payout-statement.md) | **Месяц 3 (1-я неделя)** |
 | Подготовить выплата | Доходы подготавливаются для ежемесячного платежа | Помечается как предстоящий в журнале транзакций в [отчете о выплатах](payout-statement.md) | **Месяц 3 (1-я неделя)** |
 | **Выплата отправлена** | **Платеж отправляется издателю** | **Помечается как отправленный в журнале транзакций и в разделе выплат [оператора выплаты](payout-statement.md)** | **Месяц 3 (не позднее 15)** |
