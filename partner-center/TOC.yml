@@ -51,6 +51,9 @@
         - name: Поиск преимуществ MPN
           href: mpn-find-benefits.md
           displayName: mpn
+        - name: Плата за компетенции
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
     - name: Компетенции
       items:
         - name: Сведения о компетенциях
