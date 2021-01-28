@@ -1,5 +1,5 @@
 ---
-title: Вопросы и ответы о выплатах и налоговом профиле
+title: Вопросы и ответы о профилях для выплат и налогов
 description: Получите ответы на часто задаваемые вопросы о выплатах и сведениях о налогах в центре партнеров. Содержит ответы о том, почему доходы отличаются от ожидаемых.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/25/2020
-ms.openlocfilehash: 3b09f0a08cd974f88afe5c5708df307830491f3f
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492591"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924915"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Распространенные вопросы о выплатах и налогах
 
@@ -128,10 +128,6 @@ ms.locfileid: "97492591"
 
 Перейдите на страницу **Payout Payment** (Выплаты платежей), а затем в раздел **List of Payment** (Список платежей). Ссылка на налоговую форму на сбор за обслуживание отображается для платежа, в котором указан налог.
 
-#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Как скачать форму подоходного налога в формате PDF?
-
-Перейдите на страницу *Payout Payment* (Выплаты платежей), а затем в раздел **List of Payment** (Список платежей). Ссылка на форму подоходного налога появится рядом с платежом.
-
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Где можно найти налоговые формы за год?
 
 Перейдите на [страницу профиля](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage), чтобы просмотреть налоговые формы за год.
@@ -170,7 +166,7 @@ ms.locfileid: "97492591"
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Разделы справки скачать форму подоходного налога в формате PDF?
 
-Перейдите на страницу **Payout Payment** (Выплаты платежей), а затем в раздел **List of Payment** (Список платежей). Ссылка на форму подоходного налога появится рядом с платежом.
+Перейдите на страницу **Payout Payment** (Выплаты платежей), а затем в раздел **List of Payment** (Список платежей). Ссылка на форму подоходного налога появится рядом с платежом. Форма подоходного налога применяется только к выбранным программам поощрения, а не к коммерческой выплате Marketplace.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Где можно найти налоговые формы за год?
 
