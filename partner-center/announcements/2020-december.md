@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182568"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705051"
 ---
 # <a name="december-2020-announcements"></a>Объявления за декабрь 2020 г.
 
@@ -280,7 +280,7 @@ ______________
 
 - Прейскурант на программное обеспечение с бессрочной лицензией для CSP будет опубликован в Центре партнеров. Вы найдете его в разделе **Программное обеспечение** на странице [Продажи > Цены и предложения](https://partnercenter.microsoft.com/pcv/sales), на которой также приведены дополнительные продукты и регионы. Подробные сведения см. [здесь](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
 
-- Возможности Центра партнеров по обработке лицензионных ключей и скачиванию программного обеспечения станут недоступны — см. [объявление](./2020-september.md#17). Такие задачи партнеры будут выполнять исключительно в Центре администрирования Microsoft 365. Это позволит обеспечить максимальную безопасность для клиентов и эффективность их работы. Дополнительные сведения о программном обеспечении Центра администрирования Microsoft 365 см. в статьях с [обзором](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), информацией об [общих задачах](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) и [возможностях обработки лицензионных ключей](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- Возможности Центра партнеров по обработке лицензионных ключей и скачиванию программного обеспечения станут недоступны — см. [объявление](./2020-september.md#17). Для этих целей партнерам нужно будет направлять клиентов исключительно в Центр администрирования Microsoft 365. Это позволит обеспечить максимальную безопасность для клиентов и эффективность их работы. Дополнительные сведения о программном обеспечении Центра администрирования Microsoft 365 см. в статьях с [обзором](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), информацией об [общих задачах](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) и [возможностях обработки лицензионных ключей](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 ### <a name="perpetual-software-in-csp"></a>Программное обеспечение с бессрочной лицензией в рамках программы CSP
 

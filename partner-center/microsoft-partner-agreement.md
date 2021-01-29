@@ -1,20 +1,20 @@
 ---
 title: Соглашение с партнером Майкрософт для CSP
 ms.topic: how-to
-ms.date: 12/09/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о требованиях к партнерам Майкрософт по программе CSP, чтобы подписать и проверить унифицированное, принимаемое в цифровом виде соглашение с партнером Майкрософт (MPA).
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105517"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773488"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Сведения о соглашении с партнером Майкрософт для партнеров по программе CSP
 
@@ -68,6 +68,20 @@ ms.locfileid: "98105517"
 
 Примите запрос на установление взаимоотношений в рамках CSP с косвенным поставщиком.
 
+## <a name="sign-the-mpa"></a>Подписание MPA
+
+1. Войдите в Центр партнеров с использованием учетной записи косвенного торгового посредника в рамках CSP. Вам необходимы права глобального администратора.
+1. Перейдите на страницу **[Обзор CSP](https://partner.microsoft.com/pcv/dashboard/overview)** .  Если не отображается элемент **Принять и продолжить** или зеленый баннер с сообщением о том, что соглашение MPA подписано, значит, у вас нет надлежащей роли для подписания MPA. Чтобы подписать MPA, обратитесь к глобальному администратору.
+
+1. Чтобы просмотреть и скачать **Соглашение с партнером Майкрософт** перед подписанием, щелкните ссылку на него, как показано ниже.
+
+:::image type="content" source="images/agreement-three.png" alt-text="Новое расположение соглашения MPA":::
+
+>[!NOTE]
+>Если ссылка на **Соглашение с партнером Майкрософт** не отображается, проверьте свою роль в Центре партнеров. Только глобальные администраторы в клиенте CSP могут просматривать и подписывать MPA в Центре партнеров. Чтобы проверить роль, перейдите к разделу **Управление пользователями** и убедитесь, что для учетной записи, с помощью которой выполнен вход, указана роль **Глобальный администратор**. Если это не так, эту учетную запись нельзя использовать для подписания MPA. Сведения о глобальных администраторах в вашей компании можно найти на странице "Управление пользователями".
+
+:::image type="content" source="images/user-management-clean.png" alt-text="Как найти свою роль":::
+
 ## <a name="verify-that-you-have-signed-the-mpa"></a>Убедитесь, что вы подписали MPA
 
 Чтобы проверить, подписано ли MPA, выполните следующие действия:
@@ -75,17 +89,17 @@ ms.locfileid: "98105517"
  Перейдите на страницу [обзора CSP](https://partner.microsoft.com/pcv/dashboard/overview) с правами глобального администратора компании и проверьте, отображается ли зеленый баннер с уведомлением о том, что вы приняли условия MPA.
 
  
-:::image type="content" source="images/mpagreen.png" alt-text="Зеленый баннер с уведомлением о принятии MPA":::
+:::image type="content" source="images/banner-boxed.png" alt-text="Зеленый баннер с уведомлением о принятии MPA":::
 
 >[!NOTE]
 >Только глобальный администратор организации может просматривать и подписывать MPA. Если вы не являетесь глобальным администратором, вам нужно обратиться к нему для проверки активации MPA.
 
 Кроме того, чтобы узнать, подписано ли соглашение, можно выбрать элемент **Соглашения** в разделе **Параметры учетной записи**.
 
-:::image type="content" source="images/agreements/agreements.png" alt-text="Свидетельство того, что MPA подписано":::
+:::image type="content" source="images/agreement-new.png" alt-text="Свидетельство того, что MPA подписано":::
 
 
-## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Скачайте пошаговое руководство, соответствующее этапу процесса, на котором вы находитесь
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>Скачайте пошаговое руководство, соответствующее этапу подписания MPA, на котором вы находитесь.
 
 1. Если вы переносите учетную запись MPN из PMC в Центр партнеров: [Миграция из PMC в Центр партнеров и принятие Соглашения с партнером Майкрософт](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
