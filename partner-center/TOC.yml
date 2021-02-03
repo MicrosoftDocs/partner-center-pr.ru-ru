@@ -64,6 +64,8 @@
           displayName: 'renew, mpn'
         - name: Исключение компетенции для разработки приложений
           href: app-dev-isv.md
+        - name: Использование отчета о навыках
+          href: mpn-skills-report.md
     - name: Дополнительные специализации
       items:
         - name: Демонстрация вашего опыта
