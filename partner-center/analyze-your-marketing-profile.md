@@ -9,14 +9,14 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c3ca88d367ea9dea8df1bb2bb4945ecc7b900b26
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776861"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530839"
 ---
-# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Проанализируйте свои интересы — Узнайте, насколько хорошо вы Привлекайте целевые клиенты и потенциальные ссылки.
+# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Анализ потенциальных клиентов. Оценка уровня привлекательности компании для целевых клиентов и потенциальных рефералов
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -24,11 +24,6 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **Соответствующие роли**
 
 - Администратор авторов
-
-**Относится к**
-
-- Интересы Marketplace
-- Квалифицированные интересы
 
 На странице « **интересы** » в разделе « **аналитика** » ссылок можно увидеть, как выполняются ваши ссылки. Регулярно просматривайте эти метрики, чтобы определять тенденции или области, требующие внимания, и двигаться к бизнес-целям.
 
@@ -115,3 +110,7 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 > [!TIP]
 > Чтобы узнать, как работают возможности совместной работы, просмотрите страницу Дополнительные сведения о [возможностях совместной продажи](referral-insights.md).
+
+## <a name="next-steps"></a>Следующие шаги
+
+- [Управление потенциальными клиентами](manage-leads.md)
