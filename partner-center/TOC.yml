@@ -118,6 +118,9 @@
     - name: 'Соглашение с партнером Майкрософт: участники программы CSP'
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: Управление расположениями
+      href: manage-locations.md
+      displayName: 'mpn, csp'
     - name: Как косвенные поставщики могут помочь своим торговым посредникам принять MPA
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -197,9 +200,6 @@
         - name: Обновление профиля партнера
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Управление расположениями
-          href: manage-locations.md
-          displayName: 'mpn, csp'
         - name: Как стать поставщиком панелей управления
           href: enroll-as-cpv.md
           displayName: csp
