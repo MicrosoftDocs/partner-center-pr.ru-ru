@@ -129,7 +129,7 @@
       displayName: 'indirect, reseller, csp'
     - name: Клиентские соглашения Майкрософт (по региону и языку)
       href: agreements.md
-      displayName: 'regio, region'
+      displayName: 'regio, region, MPA'
     - name: Ограниченный доступ к прямому выставлению счетов
       href: restricted-direct-bill-capabilities.md
       displayName: 'indirect, reseller'
