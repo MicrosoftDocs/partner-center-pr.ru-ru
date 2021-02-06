@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 4db0c81bf9f92975cc119215de76565e6acbadbd
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: b18f42f34951e09272d59c75b4588e962809ce62
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755628"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624210"
 ---
 # <a name="add-a-vat-id-to-your-billing-profile"></a>Добавление идентификатора НДС в профиль выставления счетов
 
@@ -30,8 +30,8 @@ ms.locfileid: "96755628"
 
 ## <a name="update-your-billing-profile-with-your-vat-id"></a>Обновление профиля выставления счетов с помощью идентификатора НДС
 
-1. Войдите на [панель мониторинга центра партнеров](https://partner.microsoft.com/dashboard/).
-2. В меню **Параметры** (значок шестеренки) выберите **Параметры партнера**.
+1. Войдите на [панель мониторинга Центра партнеров](https://partner.microsoft.com/dashboard/).
+2. В меню **Параметры** (значок шестеренки) выберите **Параметры учетной записи**.
 3. На странице **Параметры учетной записи** выберите **профиль выставления счетов партнера** в меню страница.
 4. В разделе **финансовые данные** выберите **Обновить**.
 5. В качестве **кода налога компании** укажите свой идентификационный номер плательщика НДС.
