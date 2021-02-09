@@ -1,7 +1,7 @@
 ---
 title: Управление расположениями в партнерской учетной записи
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 02/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Узнайте, как добавить новое расположение и каким образом идентификатор расположения MPN используется в программах поощрений, бизнес-операциях CSP, подписках и других транзакциях.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098896"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624278"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Управление расположениями учетной записи MPN и добавление нового расположения
 
@@ -47,6 +47,8 @@ ms.locfileid: "99098896"
  >Выполняя вход, обязательно используйте **новые** учетные данные для **новой** учетной записи CSP. Не используйте существующие учетные данные, так как Центр партнеров определит, что у вас уже есть учетная запись.
 
 2. Примите условия Соглашения с партнером Майкрософт и активируйте учетную запись.
+
+1. Если вы хотите зарегистрироваться в качестве партнера с прямым выставлением счетов, ознакомьтесь с [соответствующими требованиями](direct-partner-new-requirements.md).
 
 ## <a name="view-your-mpn-locations"></a>Просмотр расположений MPN
 
