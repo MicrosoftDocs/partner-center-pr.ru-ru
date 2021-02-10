@@ -1,7 +1,7 @@
 ---
 title: Управление расположениями в партнерской учетной записи
 ms.topic: how-to
-ms.date: 02/05/2021
+ms.date: 02/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Узнайте, как добавить новое расположение и каким образом идентификатор расположения MPN используется в программах поощрений, бизнес-операциях CSP, подписках и других транзакциях.
@@ -9,14 +9,14 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
+ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624278"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "100005904"
 ---
-# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Управление расположениями учетной записи MPN и добавление нового расположения
+# <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Управление расположениями учетной записи MPN и добавление (удаление) расположения
 
 
 **Соответствующие роли**
@@ -80,6 +80,10 @@ ms.locfileid: "99624278"
 
 > [!NOTE]
 > После добавления расположения в Центр партнеров его невозможно удалить. Если вы использовали для входа правильный идентификатор MPN, в Центре партнеров в меню слева отобразится пункт **MPN**.
+
+## <a name="delete-a-location"></a>Удаление расположения
+
+Чтобы удалить расположение из учетной записи, необходимо обратиться в [службу поддержки партнеров](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Вы должны понимать последствия этого действия. Сведения об удаленных расположениях нельзя получить, и все, что связано с этим конкретным идентификатором MPN, больше не будет распознаваться и будет неактивно для вашей компании.
 
 ## <a name="change-country-of-partner-global-account"></a>Изменение страны глобальной учетной записи партнера 
 
