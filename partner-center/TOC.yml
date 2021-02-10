@@ -59,6 +59,9 @@
         - name: Сведения о компетенциях
           href: learn-about-competencies.md
           displayName: mpn
+        - name: Регистрация в качестве партнера по обучению
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
         - name: Часто задаваемые вопросы о компетенциях
           href: competencies-faq.md
           displayName: 'renew, mpn'
