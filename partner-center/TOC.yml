@@ -9,7 +9,7 @@
     - name: Партнерство с Майкрософт
       href: mpn-overview.md
       displayName: mpn
-    - name: Создание учетной записи Центра партнеров
+    - name: Создание учетной записи MPN в Центре партнеров
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: Получение рабочего адреса электронной почты
@@ -47,6 +47,9 @@
           displayName: 'renew, mpn'
         - name: Продление подписок на предложения
           href: renew-mpn-offers.md
+          displayName: mpn
+        - name: Запрос на возврат денег
+          href: mpn-refund-request.md
           displayName: mpn
         - name: Поиск преимуществ MPN
           href: mpn-find-benefits.md
@@ -86,6 +89,9 @@
           displayName: mpn
         - name: Преимущества для выхода на рынок
           href: mpn-learn-about-go-to-market-benefits.md
+          displayName: mpn
+        - name: Ролики для партнеров MPN
+          href: mpn-demos.md
           displayName: mpn
         - name: Часто задаваемые вопросы о преимуществах
           href: benefits-faq.md
