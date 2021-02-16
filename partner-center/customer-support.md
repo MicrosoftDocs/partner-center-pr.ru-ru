@@ -1,20 +1,20 @@
 ---
 title: Предоставление поддержки клиентам
-ms.topic: article
-ms.date: 01/22/2021
+description: Сведения о ответственности за поддержку клиентов для партнеров в программе CSP. Рассматривается поддержка выставления счетов, управления подписками и технических проблем.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Сведения о ответственности за поддержку клиентов для партнеров в программе CSP. Рассматривается поддержка выставления счетов, управления подписками и технических проблем.
 author: Kim-Davis
 ms.author: kimnich
+ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: f32c9b2db500fabe982c364e24f94fc449bc5218
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.date: 01/22/2021
+ms.openlocfilehash: 315089a3a20fdd5f9de283494e735f54bd351806
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717680"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541035"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Предоставление клиентам различных типов поддержки
 
@@ -34,11 +34,15 @@ ms.locfileid: "98717680"
 
 - Поддержка по **коммерческим** вопросам доступна для всех партнеров в рамках программы CSP
 
-- **Техническая** поддержка. Вы можете [Сравнить планы поддержки партнеров](https://partner.microsoft.com/support/partnersupport) или просмотреть дополнительные сведения о конкретном плане поддержки:
+- **Техническая** поддержка. Вы можете [Сравнить планы поддержки партнеров](https://partner.microsoft.com/support/partnersupport) или дополнительные сведения о конкретном плане поддержки:
 
-  - [Поддержка Premier для партнеров](https://partner.microsoft.com/support/microsoft-services-premier-support) (основание платы)
-  - [Расширенная поддержка для партнеров](https://partner.microsoft.com/support/advanced-cloud-support) (база платных)
-  - [Поддержка в облаке сигнатур](https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits) (входит в компетенцию Gold/серебро)
+  - [Поддержка Premier для партнеров](https://partner.microsoft.com/support/microsoft-services-premier-support) (база сбора, использование для всех продуктов)
+
+  - [Расширенная поддержка для партнеров](https://partner.microsoft.com/support/advanced-cloud-support) (база сбора, использование только для облачных продуктов).
+
+  - [Поддержка сигнатур в облаке](manage-your-partner-network-benefits.md) (входит в состав преимуществ MPN для компетенций Gold или серебристого уровня, используйте только для облачных продуктов).
+
+  - [Обращения в службу поддержки продуктов](manage-your-partner-network-benefits.md) (включены в MPNные преимущества для Gold, серебряных или партнеров Майкрософт Action Pack, использовать только для последних локальных продуктов).
 
 ## <a name="providing-billing-subscription-management-and-technical-support"></a>Предоставление поддержки по выставлению счетов, управлению подписками, а также техническая поддержка 
 
@@ -49,12 +53,3 @@ ms.locfileid: "98717680"
 - [Подписки на Azure, продаваемые через программу CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
 - [Подписки Microsoft Office 365, продаваемые по CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
-
-
-
- 
-
- 
-
-
-
