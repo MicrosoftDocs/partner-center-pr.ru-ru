@@ -127,9 +127,6 @@
     - name: 'Соглашение с партнером Майкрософт: участники программы CSP'
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
-    - name: Управление расположениями
-      href: manage-locations.md
-      displayName: 'mpn, csp'
     - name: Как косвенные поставщики могут помочь своим торговым посредникам принять MPA
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -197,6 +194,9 @@
           displayName: mpn
         - name: Связывание с рабочей учетной записью
           href: azure-active-directory-tenants-and-partner-center.md
+        - name: Управление расположениями
+          href: manage-locations.md
+          displayName: 'mpn, csp'
         - name: Проверка принадлежности домена;
           href: become-global-admin.md
         - name: Проверка сведений учетной записи
@@ -262,6 +262,8 @@
       items:
         - name: Потенциальные клиенты для совместных продаж
           href: manage-co-sell-opportunities.md
+        - name: Массовые операции
+          href: bulk-operations.md
         - name: Использование соединителей CRM для совместных продаж
           items:
             - name: "Для Dynamics\_365"
