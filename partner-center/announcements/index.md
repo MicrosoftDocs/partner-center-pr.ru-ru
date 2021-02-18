@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 6698a56aa90c20db22c2dd6765cbec9b310bc40a
-ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
+ms.openlocfilehash: 7974d6f02951db944a44634543cda5bba49df976
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "100490161"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100540987"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,8 @@ ms.locfileid: "100490161"
 
 |**Категория**|**Объявления за февраль 2021 года**|**Объявлено**|
 |---------|:---------|:---------|
+|Характеристики|[Уже доступно. Переход с DocuSign на Adobe Sign для партнеров, подписавших Соглашение с партнером Майкрософт (MPA)](2021-february.md#9)|16 февраля|
+|Развивайте свой бизнес|[Напоминание: представляем регулирование интерфейсов API для партнеров, вызывающих интерфейсы API Центра партнеров](2021-february.md#8)|16 февраля|
 |Характеристики|[Представляем Microsoft Viva Темы](2021-february.md#7)|12 февраля|
 |Предложения и рынки|[На март 2021 г. запланировано изменение цен на Microsoft 365 E3](2021-february.md#6)|11 февраля|
 |Предложения и рынки|[Обновлен предварительный прейскурант на основе лицензий для норвежской кроны](2021-february.md#5)|10 февраля|
