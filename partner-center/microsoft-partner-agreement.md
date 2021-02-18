@@ -1,7 +1,7 @@
 ---
 title: Соглашение с партнером Майкрософт для CSP
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 02/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о требованиях к партнерам Майкрософт по программе CSP, чтобы подписать и проверить унифицированное, принимаемое в цифровом виде соглашение с партнером Майкрософт (MPA).
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: 829b444f1990058cd323e3effec6da6d7585155a
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773488"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281325"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Сведения о соглашении с партнером Майкрософт для партнеров по программе CSP
 
@@ -34,6 +34,8 @@ ms.locfileid: "98773488"
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>Убедитесь, что ваш идентификатор MPN активен и что вы перенесли его в Центр партнеров
 
 1. Если вы не перенесли учетную запись MPN из Partner Membership Center (PMC) в Центр партнеров, вам нужно [перенести учетную запись MPN в Центр партнеров](move-pmc-pc-map.md). Остальные шаги вы выполните после завершения этого переноса. 
+
+1. Если у вас нет учетной записи MPN или идентификатора, сначала необходимо присоединиться к программе Microsoft Partner Network. [Узнайте, как присоединиться к MPN](mpn-create-a-partner-center-account.md).
 
 1. Войдите в Центр партнеров с учетными данными учетной записи MPN.
  
@@ -103,7 +105,7 @@ ms.locfileid: "98773488"
 
 1. Если вы переносите учетную запись MPN из PMC в Центр партнеров: [Миграция из PMC в Центр партнеров и принятие Соглашения с партнером Майкрософт](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
-2. Если вы хотите зарегистрироваться в Центре партнеров в качестве косвенного торгового посредника в рамках CSP: [Подключение для участников MPN и Соглашение с партнером Майкрософт](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+2. Если вы хотите зарегистрироваться в Центре партнеров в качестве участника программы CSP Indirect Reseller: [Подключение участников MPN и Соглашение с партнером Майкрософт](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
 
 3. Чтобы проверить состояние принятия условий MPA в Центре партнеров после выполнения шага 1 и (или) шага 2, указанных выше: [Проверка состояния принятия Соглашения с партнером Майкрософт](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
