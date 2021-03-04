@@ -99,6 +99,11 @@
         - name: Azure и преимущества облака
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
+        - name: Преимущества Visual Studio
+          href: mpn-benefits-visual-studio.md
+          displayname: 'visual studio, mpn, activate'
+        - name: Преимущества технической поддержки в предпродажной работе и развертывании
+          href: technical-benefits.md
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: Software Assurance
@@ -447,6 +452,8 @@
           displayName: 'region, regio'
         - name: Запрос на кредиты в рамках соглашения об уровне обслуживания от Майкрософт
           href: request-credit.md
+        - name: Как налоговые политики влияют на выплату
+          href: tax-policies-affect-payout.md
     - name: Установка расходного бюджета Azure для клиентов
       href: set-an-azure-spending-budget-for-your-customers.md
       displayName: csp
