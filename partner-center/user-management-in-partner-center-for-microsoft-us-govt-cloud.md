@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f81022c3ea32eefc0e1f85bea1b1830603620e7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3cf34aa52bd1d0359736dbcf6cc5ed9029f6d9e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000318"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756770"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud для правительства США
 
@@ -23,14 +23,9 @@ ms.locfileid: "91000318"
 
 - Центр партнеров для Microsoft Cloud for US Government
 
-Управление следующими задачами осуществляется на портале администрирования Microsoft Azure для Microsoft Cloud для государственных организаций США:
+**Соответствующие роли**
 
-- Управление пользователями партнеров
-
-- Управление пользователями и лицензиями клиента
-
-- Сброс паролей пользователей
-
+- Глобальный администратор
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Управление пользователями на портале Azure для Microsoft Cloud для правительства США
 
@@ -47,7 +42,7 @@ ms.locfileid: "91000318"
 
 -  [**Сброс пароля пользователя в Azure Active Directory**](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**Связанные темы**
+**Связанные разделы**
 
 -  [**Центр партнеров для Microsoft Cloud for US Government**](partner-center-for-microsoft-us-govt-cloud.md)
 

@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4bf1c7a2abceffc812666456ddae252fca70d8f1
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492727"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755863"
 ---
 # <a name="view-your-incentives-program-details"></a>Просмотр сведений о программе поощрения
-
-**Относится к**
-
-- Центр партнеров
 
 **Соответствующие роли**
 
@@ -37,7 +33,7 @@ ms.locfileid: "97492727"
 
 ## <a name="access-the-incentives-overview-page"></a>Доступ к странице "Обзор поощрения"
 
-1. Войдите на [панель мониторинга центра партнеров](https://partner.microsoft.com/dashboard).
+1. Войдите на [панель мониторинга Центра партнеров](https://partner.microsoft.com/dashboard).
 1. Выберите **поощрения**, а затем — **Обзор** в меню.
 1. Просмотрите сводные сведения о доходах и платежах в верхней части страницы и (или) более подробные сведения в таблице ниже. Кроме того, можно сортировать, группировать и расширять сопутствующую таблицу:
 
@@ -76,4 +72,5 @@ ms.locfileid: "97492727"
 Вы также можете использовать [API-интерфейс выплаты партнеров](https://apidocs.microsoft.com/services/partnerpayouts) для подключения и получения данных о транзакциях и платежах напрямую. Дополнительные сведения см. в разделе [заявления о выплатах](payout-statement.md) .
 
 ## <a name="next-steps"></a>Дальнейшие действия
+
 - [Выписки о выплатах](payout-statement.md)

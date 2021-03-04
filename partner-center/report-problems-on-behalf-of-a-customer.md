@@ -1,7 +1,7 @@
 ---
 title: Сообщение о проблемах от имени пользователя
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, когда следует эскалировать проблему службы клиентов в корпорацию Майкрософт и как отправить запрос в службу поддержки для различных типов служб Майкрософт.
@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97153151"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756438"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Сообщить о проблеме со службой от имени клиента, включая время и способ их выполнения
 
@@ -42,7 +42,7 @@ ms.locfileid: "97153151"
 >[!NOTE]
 >Поддержка партнеров по эксплуатации. для работы с Dynamics 365 в CSP требуется поддержка соглашения о поддержке расширенной поддержки для партнера (ASfP) или более поздней версии. Это соглашение о поддержке требуется для отправки инцидентов Dynamics 365 от имени клиента CSP. Дополнительные [сведения](https://partner.microsoft.com/support/partnersupport) о параметрах соглашения о поддержке.
 
-### <a name="microsoft-azure"></a>Microsoft Azure
+### <a name="microsoft-azure"></a>Microsoft Azure.
 
 > [!IMPORTANT]
 > При необходимости создания запроса на обслуживание для клиента в Azure необходимо учитывать следующее:
@@ -102,7 +102,7 @@ ms.locfileid: "97153151"
     - электронная почта службы поддержки;
     - контактный номер телефона службы поддержки.
 
-## <a name="faq"></a>Вопросы и ответы
+## <a name="faq"></a>ВОПРОСЫ И ОТВЕТЫ
 
 Ниже приведены часто задаваемые вопросы о запросах на обслуживание, которые можно отправить от имени клиента. 
 
@@ -146,8 +146,6 @@ ms.locfileid: "97153151"
 Если у вас возникли проблемы, связанные с: подписки на план Dynamics 365, лицензирование, выставление счетов, финансовые & операции, лицензии на продукты Dynamics 365 или требуется дополнительная техническая поддержка:
  
 Обратитесь в [Службу поддержки Dynamics](/dynamics365/customer-engagement/admin/contact-technical-support)
-
-Ознакомьтесь с разделом [Служба поддержки Microsoft Dynamics](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
 
 ## <a name="next-steps"></a>Дальнейшие действия
 

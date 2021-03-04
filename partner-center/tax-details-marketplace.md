@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 01/29/2021
-ms.openlocfilehash: 075099d80802352efdf7184a7c550d730945b35f
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: d720b7388cbb814402a2c78d07865e4184dec1ab
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530777"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756838"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Сведения о налогах для издателей коммерческих платформ
 
@@ -58,14 +58,13 @@ ms.locfileid: "99530777"
 |----------------|-----------------------------|-----------------------|
 |Австралия|Налог на услугу оплаты услуг|Налог на услугу оплаты услуг|
 |Канада|Налог на услугу оплаты услуг|Налог на услугу оплаты услуг|
-|Мексика|Недоступно|Налог на услугу оплаты услуг|
+|Мексика|Н/Д|Налог на услугу оплаты услуг|
 |Новая Зеландия|Налог на услугу оплаты услуг|Налог на услугу оплаты услуг|
 |Сингапур|Налог на услугу оплаты услуг|Налог на услугу оплаты услуг|
 
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
-- [Издатель: вопросы и ответы](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide) 
+- [Издатель: вопросы и ответы](/azure/marketplace/marketplace-faq-publisher-guide) 
 
-- [Инструкции по созданию платежных и налоговых профилей](https://docs.microsoft.com/partner-center/set-up-your-payout-account?context=/azure/marketplace/context/context#create-a-payment-profile) 
-
+- [Инструкции по созданию платежных и налоговых профилей](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

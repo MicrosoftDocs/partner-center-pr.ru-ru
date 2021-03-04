@@ -8,12 +8,12 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042690"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101757386"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Как оплатить плату, связанную с компетенцией серебряного или золотого
 
@@ -37,7 +37,7 @@ ms.locfileid: "99042690"
 
 - Вы уже удовлетворены [требованиями](https://partner.microsoft.com/membership/competencies) к достижению специального компетенции или категории Gold.
 
-- Вы назначили роль центра партнеров [глобального администратора или администратора партнера MPN](https://docs.microsoft.com/partner-center/permissions-overview). Если вы являетесь гостевым пользователем без какой-либо из этих ролей, вам будет отказано в доступе к некоторым страницам центра партнеров, описанным ниже. В этом случае [обратитесь к глобальному администратору](https://docs.microsoft.com/partner-center/find-your-role) и попросите его назначить вам соответствующую роль. 
+- Вы назначили роль центра партнеров [глобального администратора или администратора партнера MPN](./permissions-overview.md). Если вы являетесь гостевым пользователем без какой-либо из этих ролей, вам будет отказано в доступе к некоторым страницам центра партнеров, описанным ниже. В этом случае [обратитесь к глобальному администратору](./find-your-role.md) и попросите его назначить вам соответствующую роль. 
 
 1. Используя учетные данные рабочей учетной записи вашей организации, войдите на [панель мониторинга](https://partner.microsoft.com/dashboard)центра партнеров.
 
@@ -54,7 +54,7 @@ ms.locfileid: "99042690"
 
 4. На странице **сведения о покупке** проверьте и подтвердите сведения.
 
-   (Дополнительные сведения об обновлении [информации об **идентификаторе налогоплательщика** компании](https://docs.microsoft.com/partner-center/organization-tax-info) или счета компании [ **на** адрес компании](https://docs.microsoft.com/partner-center/mpn-get-action-pack).)
+   (Дополнительные сведения об обновлении [информации об **идентификаторе налогоплательщика** компании](./organization-tax-info.md) или счета компании [ **на** адрес компании](./mpn-get-action-pack.md).)
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Членство предлагает страницу сведений о покупке с параметрами оплаты." border="false":::
 

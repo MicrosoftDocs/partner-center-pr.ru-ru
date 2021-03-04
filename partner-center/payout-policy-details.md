@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
-ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
+ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98861416"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756843"
 ---
 # <a name="payout-schedules-and-processes"></a>Расписания и процессы выплат
 
@@ -37,7 +37,6 @@ ms.locfileid: "98861416"
 | --- | --- | --- | --- |
 | Использование или месяц транзакции | Клиент использует или покупает службу. | Панель мониторинга " [Использование](/azure/marketplace/partner-center-portal/usage-dashboard) " или " [заказ](/azure/marketplace/partner-center-portal/orders-dashboard) " | **Месяц 1** |
 | Корпорация Майкрософт вычисляет сумму выставления счетов | Определение общего использования, всего транзакций | Панель мониторинга " [Использование](/azure/marketplace/partner-center-portal/usage-dashboard) " или " [заказ](/azure/marketplace/partner-center-portal/orders-dashboard) " | **Месяц 2** |
-| Счет оплачивается клиентом | Корпорация Майкрософт собирает платеж от клиента | Без изменения. | **Месяц 2** |
 | Выплата опубликована | Определение тарифных выплат и доходов на выплаты | Помечается как необработанный в журнале транзакций в [отчете о выплатах](payout-statement.md) | **Месяц 3 (1-я неделя)** |
 | Подготовить выплата | Доходы подготавливаются для ежемесячного платежа | Помечается как предстоящий в журнале транзакций в [отчете о выплатах](payout-statement.md) | **Месяц 3 (1-я неделя)** |
 | **Выплата отправлена** | **Платеж отправляется издателю** | **Помечается как отправленный в журнале транзакций и в разделе выплат [оператора выплаты](payout-statement.md)** | **Месяц 3 (не позднее 15)** |

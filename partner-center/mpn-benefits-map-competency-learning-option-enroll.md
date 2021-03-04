@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: c7e4f2b395ac421c9c01a813689723901374124a
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99975670"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756135"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Использование центра партнеров для регистрации в качестве партнера Майкрософт по обучению
 
@@ -40,7 +40,7 @@ ms.locfileid: "99975670"
 
 **ОБНОВЛЕНИЕ КОВИД-19**
 
-Корпорация Майкрософт предлагает расширение компетенции (за исключением Business Applications компетенции облака) и расширенной специализации для партнеров с датами годовщины (AD) с 1 января 2021 до 30 июня 2021. Дополнительные сведения см. в записи [блога партнера](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) .
+Корпорация Майкрософт предлагает расширение компетенций (за исключением компетенции "Облачные бизнес-приложения") и дополнительных специализаций для партнеров с датами годовщины (AD) с 1 января 2021 г. по 30 июня 2021 г. Дополнительные сведения см. в [записи блога нашего партнера](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 
 Чтобы оставаться в курсе последних объявлений программы обучения, обязательно [прочитайте наш блог](https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn) и ознакомьтесь со [страницей нашего учебного партнера для образовательных партнеров](https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiI4NDU0NDI3In0/all). Документы программы и ежемесячные записи о вызовах сообщества можно также найти на [странице учебных материалов](https://partner.microsoft.com/marketing/learning-resources#/).
 
@@ -115,7 +115,7 @@ Learning Action Pack поддерживает партнеров, желающи
 
 ### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>У. Почему в каталоге учебных партнеров не отображается партнер Майкрософт по обучению?
 
-Возможно, вам потребуется добавить вас в [Каталог учебных партнеров](https://docs.microsoft.com/learn/certifications/partners). Затем можно создать ссылку на веб-сайт на странице каталога учебных партнеров.
+Возможно, вам потребуется добавить вас в [Каталог учебных партнеров](/learn/certifications/partners). Затем можно создать ссылку на веб-сайт на странице каталога учебных партнеров.
 
 Это ручной процесс, который отправляется только один раз в месяц, в течение третьей недели. Последующее обновление будет отображаться в конце первой недели следующего месяца. Чтобы помочь вам устранить эту проблему, обратитесь в [службу поддержки партнеров оказался](https://partner.microsoft.com/support). Будьте готовы предоставить следующие сведения:
 

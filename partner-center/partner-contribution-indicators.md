@@ -1,7 +1,7 @@
 ---
 title: Индикаторы участия партнера — CBA
 ms.topic: article
-ms.date: 02/03/2021
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о семи партнерских участниках (PCI), показывающих партнеров, как получить серебряную или золото облачную Business Applications компетенцию.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530822"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756561"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Используйте индикаторы участия партнера для достижения компетенции облачной Business Applications
 
@@ -155,7 +155,7 @@ PCI предоставляет комплексное представление
 - Вы являетесь партнером по заявке на запись (КПОР) для платной подписки, относящейся к клиенту клиента.
 - Вы являетесь цифровым партнером записи (DPOR) для платной подписки, относящейся к клиенту клиента.
 
-Партнеры становятся КПОР, если они установили связь с клиентом на уровне подписки с помощью стимула [помощника по активации служб dynamics 365 Online Services](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) или [использования Dynamics 365 Online Services](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (осу).
+Партнеры становятся КПОР, если они установили связь с клиентом на уровне подписки с помощью стимула помощника по активации служб Dynamics 365 Online Services (OSA) или использования Dynamics 365 Online Services (осу). Дополнительные сведения см. в разделе [понятие КПОР Associations](incentives-customer-associations-intro.md).
 
 Партнер получает статус DPOR, если он установил связь с клиентом на уровне подписки в рамках продукта.
 
@@ -381,6 +381,6 @@ PCI предоставляет комплексное представление
 
 Дополнительные сведения об использовании этой области см. в коллекции ресурсов и видеороликов, найденных в конце этой статьи.
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 Ознакомьтесь с дополнительными [видеоматериалами по PCI и информационными](https://partner.microsoft.com/asset/collection/pci-learn#/) материалами о достижении компетенции Gold или серебро Cloud Business Applications.
