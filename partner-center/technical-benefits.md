@@ -1,0 +1,78 @@
+---
+title: Преимущества MPN — технические предварительные продажи и развертывание (TPD)
+ms.topic: article
+ms.date: 02/24/2021
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
+description: Узнайте о преимуществах Microsoft Partner Network (MPN) для технических служб до продаж и развертывания (TPD)
+author: keramp88
+ms.author: keramp
+ms.localizationpriority: medium
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d805b3ba9ea25fcccc4c4e82d05e524d47b7fc72
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101758489"
+---
+# <a name="explore-technical-presales-and-deployment-services-tpd-benefits"></a><span data-ttu-id="21026-103">Ознакомьтесь с преимуществами технической предпродажной службы и служб развертывания (TPD)</span><span class="sxs-lookup"><span data-stu-id="21026-103">Explore Technical Presales and Deployment services (TPD) benefits</span></span>
+
+## <a name="develop-your-technical-know-how"></a><span data-ttu-id="21026-104">Разработка технического знания</span><span class="sxs-lookup"><span data-stu-id="21026-104">Develop your technical know-how</span></span>
+
+<span data-ttu-id="21026-105">Используйте технические предпродажные службы и услуги по развертыванию (TPD) для удаленного создания своих технических возможностей, чтобы ускорить развертывание, повысить эффективность развертывания и ускорить разработку приложений.</span><span class="sxs-lookup"><span data-stu-id="21026-105">Use Technical Presales and Deployment Services (TPD) for remote personalized one-to-one consultations to build your technical capabilities faster to increase sales, deploy more effectively, and accelerate app development.</span></span> <span data-ttu-id="21026-106">[Подробнее.](https://aka.ms/TPD)</span><span class="sxs-lookup"><span data-stu-id="21026-106">[Learn more](https://aka.ms/TPD).</span></span>
+
+<span data-ttu-id="21026-107">Все облачные или гибридные решения поддерживаются в дополнение к локальным Windows 10, Windows Server и Microsoft SQL.</span><span class="sxs-lookup"><span data-stu-id="21026-107">All Cloud or Hybrid solutions are supported, in addition to on-premises Windows 10, Windows Server, and Microsoft SQL.</span></span> 
+
+-   <span data-ttu-id="21026-108">Партнеры, у которых есть категории Gold, серебро и Action, могут использовать для консультации часы партнерских консультаций.</span><span class="sxs-lookup"><span data-stu-id="21026-108">Partners with Gold, Silver, and Action pack offers can use Partner Advisory Hours for consultations.</span></span> 
+
+-   <span data-ttu-id="21026-109">Золотые и Серебряные партнеры получают неограниченную помощь по предварительным продажам.</span><span class="sxs-lookup"><span data-stu-id="21026-109">Gold and Silver partners receive unlimited presales assistance.</span></span> 
+
+-   <span data-ttu-id="21026-110">Участники сети могут приобретать [Action Pack](https://partner.microsoft.com/membership/action-pack) для получения пяти часов консультаций</span><span class="sxs-lookup"><span data-stu-id="21026-110">Network members can  purchase [Action Pack](https://partner.microsoft.com/membership/action-pack) to receive five advisory hours</span></span>  
+
+
+|     <span data-ttu-id="21026-111">Тип предложения</span><span class="sxs-lookup"><span data-stu-id="21026-111">Offer type</span></span>    | <span data-ttu-id="21026-112">Число часов консультаций</span><span class="sxs-lookup"><span data-stu-id="21026-112">Number of advisory hours</span></span> |   <span data-ttu-id="21026-113">Технические предварительные продажи</span><span class="sxs-lookup"><span data-stu-id="21026-113">Technical presales</span></span>   |   |   |
+|:-----------------:|:------------------------:|:----------------------:|:-:|:-:|
+|        <span data-ttu-id="21026-114">Золотая</span><span class="sxs-lookup"><span data-stu-id="21026-114">Gold</span></span>       |            <span data-ttu-id="21026-115">50</span><span class="sxs-lookup"><span data-stu-id="21026-115">50</span></span>            |        <span data-ttu-id="21026-116">Неограниченно</span><span class="sxs-lookup"><span data-stu-id="21026-116">Unlimited</span></span>       |   |   |
+|       <span data-ttu-id="21026-117">Серебряная</span><span class="sxs-lookup"><span data-stu-id="21026-117">Silver</span></span>      |            <span data-ttu-id="21026-118">20</span><span class="sxs-lookup"><span data-stu-id="21026-118">20</span></span>            |        <span data-ttu-id="21026-119">Неограниченно</span><span class="sxs-lookup"><span data-stu-id="21026-119">Unlimited</span></span>       |   |   |
+| <span data-ttu-id="21026-120">Action Pack (MAPS)</span><span class="sxs-lookup"><span data-stu-id="21026-120">Action Pack(MAPS)</span></span> |             <span data-ttu-id="21026-121">5</span><span class="sxs-lookup"><span data-stu-id="21026-121">5</span></span>            | <span data-ttu-id="21026-122">Часы рекомендаций по вычетам</span><span class="sxs-lookup"><span data-stu-id="21026-122">Deducts Advisory Hours</span></span> |   |   |
+
+<span data-ttu-id="21026-123">Войдите с помощью любой учетной записи пользователя MPN, чтобы **[создать запрос на техническую предварительную продажу и услуги по развертыванию (TPD)](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (активация технического преимущества не требуется).</span><span class="sxs-lookup"><span data-stu-id="21026-123">Sign in with any MPN associated user account to **[Create a Technical Presales and Deployment Services (TPD) request](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (technical benefit activation is not required).</span></span>
+
+  :::image type="content" source="images/technical-benefits.png" alt-text="Технические преимущества для предварительных продаж и развертывания" border="false":::
+
+## <a name="submit-a-technical-presales-and-deployment-services-request"></a><span data-ttu-id="21026-125">Отправить запрос на техническую предварительную продажу и услуги по развертыванию</span><span class="sxs-lookup"><span data-stu-id="21026-125">Submit a technical presales and deployment services request</span></span> 
+
+<span data-ttu-id="21026-126">Технические преимущества, предоставляемые техническими услугами по продаже и развертыванию (TPD), автоматически активируются и становятся доступными для всех пользователей, сопоставленных с MPN.</span><span class="sxs-lookup"><span data-stu-id="21026-126">Your Technical Presales and Deployment Services (TPD) benefits are automatically activated and available to all MPN associated users.</span></span> 
+
+<span data-ttu-id="21026-127">Чтобы просмотреть свои технические преимущества в центре партнеров</span><span class="sxs-lookup"><span data-stu-id="21026-127">To view your technical benefits in Partner Center</span></span>
+
+1. <span data-ttu-id="21026-128">Войдите в систему с помощью соответствующей учетной записи MPN в [панель мониторинга](https://partner.microsoft.com/dashboard)центра партнеров.</span><span class="sxs-lookup"><span data-stu-id="21026-128">Sign in with your MPN associated account into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span> 
+
+>[!NOTE]
+><span data-ttu-id="21026-129">Если ваша учетная запись связана только с CSP и не связана с MPN, появится сообщение об ошибке "у вас нет права на это действие".</span><span class="sxs-lookup"><span data-stu-id="21026-129">If your account is only associated to CSP and not associated to MPN, you will see an error message “You are not authorized for this action”.</span></span> <span data-ttu-id="21026-130">У вас должна быть учетная запись, связанная с MPN.</span><span class="sxs-lookup"><span data-stu-id="21026-130">You must have an MPN associated account.</span></span>
+
+2. <span data-ttu-id="21026-131">Разверните узел **преимущества** в меню навигации слева и выберите **технические преимущества**.</span><span class="sxs-lookup"><span data-stu-id="21026-131">Expand **Benefits** in the left navigation menu, select **Technical benefits**.</span></span> <span data-ttu-id="21026-132">Откроется страница технические преимущества со списком преимуществ технической поддержки, доступных для предложений по членству Gold, серебро или Microsoft Action Pack.</span><span class="sxs-lookup"><span data-stu-id="21026-132">The Technical benefits page appears with a list of technical support benefits available for your Gold, Silver, or Microsoft Action Pack membership offers.</span></span> 
+
+>[!NOTE]
+><span data-ttu-id="21026-133">Если вы не имеете активных предложений по членству, вы увидите сообщение "похоже, у вас еще нет преимуществ".</span><span class="sxs-lookup"><span data-stu-id="21026-133">If you have no active Membership offers you will see the message “Looks like you don't have any benefits yet”.</span></span> <span data-ttu-id="21026-134">Если у вашей компании есть активные предложения по членству, но вы их не видите, возможно, вы выполнили вход с использованием неверной учетной записи.</span><span class="sxs-lookup"><span data-stu-id="21026-134">If your company has active membership offers but you can’t see them, you may have signed in using the wrong account.</span></span> <span data-ttu-id="21026-135">Чтобы проверить учетную запись, щелкните значок **учетной записи** в правом верхнем углу страницы и выберите **Вход с другой учетной записью** (при необходимости).</span><span class="sxs-lookup"><span data-stu-id="21026-135">To check your account, click the **Account** icon in the top right of the page and click **Sign-in with another account** (if required).</span></span>
+
+3. <span data-ttu-id="21026-136">Выберите **[Отправить технические предварительные продажи и запрос на развертывание](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)**.</span><span class="sxs-lookup"><span data-stu-id="21026-136">Select **[Submit technical presales and deployment request](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)**.</span></span>
+
+4. <span data-ttu-id="21026-137">Используйте **Поиск продуктов** и введите соответствующий продукт.</span><span class="sxs-lookup"><span data-stu-id="21026-137">Use **Search Products** and enter the relevant product.</span></span> <span data-ttu-id="21026-138">Если получено слишком много результатов, можно выполнить фильтрацию на основе области решения или просмотреть разделы, чтобы отфильтровать каждый уровень таксономии.</span><span class="sxs-lookup"><span data-stu-id="21026-138">If you get too many results, you can filter based on Solution area or Browse topics to filter each taxonomy level.</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="21026-139">Если вам требуется облачное обращение в рамках плана поддержки ASfP или PSfP, обратитесь к диспетчеру учетных записей поддержки (SAM).</span><span class="sxs-lookup"><span data-stu-id="21026-139">If you require a Cloud Consult as part of your ASfP or PSfP support plan, please contact your support account manager (SAM).</span></span>
+
+5. <span data-ttu-id="21026-140">**Заполните форму и отправьте.**</span><span class="sxs-lookup"><span data-stu-id="21026-140">**Complete the form and submit.**</span></span> <span data-ttu-id="21026-141">Убедитесь, что вы включили в свой номер телефона полный международный код набора.</span><span class="sxs-lookup"><span data-stu-id="21026-141">Make sure you include the full international dial code with your phone number.</span></span> <span data-ttu-id="21026-142">Для стран, охватывающих несколько часовых поясов, например США, Россия, укажите часовой пояс и предпочтительные рабочие часы.</span><span class="sxs-lookup"><span data-stu-id="21026-142">For countries that cover multiple timezones,  for example, USA, Russia, indicate your time zone and preferred working hours.</span></span>
+
+> [!IMPORTANT]
+> <span data-ttu-id="21026-143">Не забудьте выбрать соответствующую страну (или регион) и язык, так как они определяют, где направляется запрос.</span><span class="sxs-lookup"><span data-stu-id="21026-143">Be sure to select the relevant country (or region) and language because these determine where your request is routed.</span></span>
+
+6. <span data-ttu-id="21026-144">На странице подтверждения отображается номер и описание запроса в службу поддержки.</span><span class="sxs-lookup"><span data-stu-id="21026-144">The confirmation page shows the support request number and description.</span></span> <span data-ttu-id="21026-145">Кроме того, вы получите подтверждение по электронной почте от центра партнеров с номером варианта.</span><span class="sxs-lookup"><span data-stu-id="21026-145">You will also receive a confirmation email from Partner Center with the case number.</span></span>
+
+
+
+## <a name="next-steps"></a><span data-ttu-id="21026-146">Дальнейшие действия</span><span class="sxs-lookup"><span data-stu-id="21026-146">Next steps</span></span>
+
+- [<span data-ttu-id="21026-147">Управление преимуществами и предложениями Microsoft Partner Network</span><span class="sxs-lookup"><span data-stu-id="21026-147">Manage your Microsoft Partner Network benefits and offers</span></span>](manage-your-partner-network-benefits.md)
