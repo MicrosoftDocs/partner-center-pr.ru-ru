@@ -9,20 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c82e9cc3ea35097c15ac27b137f93c656ab99a78
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 8f54956f71912b2b55bdbfa6be60baf92f417378
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99056603"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185338"
 ---
 # <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>Изучите область преимуществ Azure и облачных продуктов в центре партнеров
 
 **Соответствующие роли**
 
 - Глобальный администратор
-- администратор пользователей.
-- Агент по администрированию
 - Администратор партнера MPN
 
 В этой статье описываются конкретные преимущества Azure и облака, доступные партнерам в центре партнеров. Вы также узнаете, как активировать определенные типы Azure и облачные подписки.
