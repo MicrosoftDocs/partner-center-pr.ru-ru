@@ -1,7 +1,7 @@
 ---
 title: Региональные налоги и налоговые исключения
 ms.topic: article
-ms.date: 12/04/2020
+ms.date: 03/05/2021
 description: Для партнеров по программе CSP Узнайте о налоговых обязанностях на регион, о том, как отправлять налоговые исключения для продаж CSP и как получить поддержку по налоговым вопросам.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,15 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3777ea3dbf6d889787c942e584087b2378659adb
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755594"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247673"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Узнайте о налогах и сведениях об исключении налогов по регионам или странам для партнеров в программе CSP.
 
-Область применения:
-
-- Центр партнеров
-- Центр партнеров для Microsoft Cloud for US Government
 
 Программа поставщика облачных решений (CSP) — это канал продаж, посвященный Перепродажам продуктов партнерам. В результате Майкрософт не всегда обязана взимать налог с продаж по счетам партнеров. Правила зависят от страны и (или) региона. Вы можете просматривать [сведения, относящиеся к стране и региону, для налоговых исключений](#country-and-region-tax-details).
 
@@ -33,7 +29,6 @@ ms.locfileid: "96755594"
 
 Если вы находитесь в другой стране или регионе, который начисляется налоговыми издержками, см. [сведения в других регионах](#other-regions).
 
-Для получения дополнительных вопросов [запросите поддержку в центре партнеров](#support).
 
 ### <a name="canada"></a>Канада
 

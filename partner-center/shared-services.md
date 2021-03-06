@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: a59cf0b271a0ccf5fd5a1d8e3e85ff43818a3801
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532044"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247701"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Добавьте общие службы партнеров Azure, чтобы партнеры могли покупать подписки Azure для их собственного использования.
 
@@ -45,7 +45,7 @@ ms.locfileid: "94532044"
 
 - Azure — службы (цен. категория "Общий") и внутренние рабочие нагрузкиная Подписка — это новый тип предложения Azure в CSP, доступ к которому осуществляется через центр партнеров, с помощью которого партнеры получают собственное использование Azure.
 
-- Azure — службы (цен. категория "Общий") и внутренние рабочие нагрузки предложение подходит для скидок и поощрения.  Подписки на общие службы партнеров Azure можно использовать для приобретения RIs.
+- Подписки на общие службы партнеров Azure можно использовать для приобретения RIs.
 
 - Предложение «Azure — службы (цен. категория "Общий") и внутренние рабочие нагрузки» применимо только к клиенту общих служб.
 
