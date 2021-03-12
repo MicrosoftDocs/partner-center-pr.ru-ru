@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/09/2021
-ms.openlocfilehash: a524dbf8162886d88a4a9548653d32e094d8620f
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.date: 03/11/2021
+ms.openlocfilehash: 801ec42953279ca52d0f0a9631e41a811d09fd4c
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619432"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193619"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,7 @@ ms.locfileid: "102619432"
 
 |**Категория**|**Объявления за март 2021 года**|**Объявлено**|
 |---------|:---------|:---------|
+|Характеристики|[Перенос решений из средства вывода на рынок (GTM) One Commercial Partner (OCP) на коммерческую платформу Майкрософт](2021-march.md#6)|12 марта|
 |Характеристики|[Развертывание новой коммерческой платформы в рамках программы поставщика облачных решений (CSP) для Azure в России](2021-march.md#5)|10 марта|
 |Характеристики|[Обработка лицензионных ключей и скачивание программного обеспечения в Центре партнеров](2021-march.md#4)|5 марта|
 |Характеристики|[Перенос сделок из Partner Sales Connect (PSC) в Центр партнеров](2021-march.md#3)|5 марта|
