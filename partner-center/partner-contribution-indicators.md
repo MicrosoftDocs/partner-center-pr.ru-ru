@@ -1,7 +1,7 @@
 ---
 title: Индикаторы участия партнера — CBA
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 03/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о семи партнерских участниках (PCI), показывающих партнеров, как получить серебряную или золото облачную Business Applications компетенцию.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756561"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193653"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Используйте индикаторы участия партнера для достижения компетенции облачной Business Applications
 
@@ -274,11 +274,11 @@ PCI предоставляет комплексное представление
 
 - **Частичные точки не вычисляются.** Рост на основе базового моментального снимка должен соответствовать порогам, указанным в следующей таблице, или превышать их. В таблице показан **разработавший** и **разрабатываемый** столбец с функциональным планом "функциональный консультант", необходимый для получения баллов.
 
-  | Разработку | Разработка | Рост, необходимый для получения всех 15 очков *
+  | Разработку | Разработка | Рост, необходимый для получения всех 15 очков
   |:---:|:---:|:---:|
   | 15-29 | 5-14 | 35 % |
   | 30–49 | 15-24 | 25 % |
-  | 50 и старше | 25 и выше | 15 % |
+  | 50 и старше | 25 и выше | См. параметры ниже |
 
 **Второй вариант для получения точек:**
 
