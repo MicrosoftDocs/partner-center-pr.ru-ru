@@ -1,17 +1,17 @@
 ---
 title: Как приобрести предложения SaaS на Microsoft AppSource
 description: Узнайте, как приобрести приложения SaaS от партнеров Майкрософт на Microsoft AppSource.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 2d5e406e159d0d919dbf8b3542e636376cffacf6
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 0a0bd1dff70ed18ed8f4fc45b78d8b935f24adaf
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007346"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412698"
 ---
 # <a name="how-to-purchase-saas-apps-on-microsoft-appsource"></a>Как приобрести приложения SaaS на Microsoft AppSource
 
@@ -42,7 +42,7 @@ ms.locfileid: "95007346"
 1. Введите метод оплаты (сведения о кредитной карте).    
 1. Выберите **Разместить заказ**.
 
-## <a name="configure-the-application"></a>Настройка приложения
+## <a name="configure-the-application"></a>Настройка веб-приложения
 
 Подтверждение полученного заказа может занять несколько секунд. Вы получите ссылку для настройки подписки SaaS на странице, а также сообщение электронной почты с подтверждением покупки и ссылку для завершения настройки.
 

@@ -1,17 +1,17 @@
 ---
 title: Приобретение программного обеспечения и решений из Azure Marketplace
 description: Узнайте о средствах, упрощающих и оптимизирующих покупки и управление программным обеспечением в Azure Marketplace.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 01/18/2021
-ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: ac20b3c0603f886104499ab8de6da1d3459bbd57
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584212"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412579"
 ---
 # <a name="azure-marketplace-purchasing"></a>Покупки в Azure Marketplace
 
@@ -53,7 +53,7 @@ Azure Marketplace упрощает процесс приобретения с п
 
 :::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="Управление закупок ИТ-отдела с помощью портал Azure":::
 
-## <a name="cost-management"></a>Управление затратами
+## <a name="cost-management"></a>управления затратами;
 
 При покупке продуктов из Azure Marketplace вы хотите получить аналитические сведения, помогающие управлять затратами. Служба "Управление затратами Azure" — это бесплатное средство для просмотра информации о приобретенных продуктах. Вы можете использовать службу "Управление затратами" для просмотра сведений о службах, на которые вы тратите деньги, а также о том, как эти затраты относятся по заданным вами бюджетам. Помимо настройки бюджетов можно планировать отчеты и анализировать затраты на подписку. Узнайте больше о службе "Управление затратами Azure", выполнив модуль Microsoft Learn для [анализа затрат и создания бюджетов с помощью службы "Управление затратами Azure](/learn/modules/analyze-costs-create-budgets-azure-cost-management/)".
 
@@ -75,6 +75,6 @@ Azure Marketplace упрощает процесс приобретения с п
 1. Частный Marketplace включен для подписки, а предложение отсутствует в списке разрешенных предложений.
 1. Предложение является частным или предварительным просмотром для конкретных клиентов, а подписка отсутствует в списке разрешенных клиентов.
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Выставление счетов и счетов-фактур](billing-invoicing.md)

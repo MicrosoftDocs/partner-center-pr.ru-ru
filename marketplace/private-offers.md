@@ -1,17 +1,17 @@
 ---
 title: Частные предложения в Azure Marketplace
 description: Сведения о частных предложениях в Azure Marketplace.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: article
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 055151f0420d642d591554a829dc21b69df84ebd
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 72e886a7cfad067b40674f30a9a21810d832994a
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007388"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412664"
 ---
 # <a name="private-offers-in-azure-marketplace"></a>Частные предложения в Azure Marketplace
 
