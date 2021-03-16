@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/11/2021
-ms.openlocfilehash: 801ec42953279ca52d0f0a9631e41a811d09fd4c
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.date: 03/12/2021
+ms.openlocfilehash: bbc4d02d4834a4bb13f7c58de709b74ce09e1f4d
+ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193619"
+ms.lasthandoff: 03/15/2021
+ms.locfileid: "103481008"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,8 @@ ms.locfileid: "103193619"
 
 |**Категория**|**Объявления за март 2021 года**|**Объявлено**|
 |---------|:---------|:---------|
+|Характеристики|[Обновление в развитии программы "Поставщик облачных решений" (CSP) и изменения в программе Open License](2021-march.md#8)|15 марта|
+|Развивайте свой бизнес|[Обновление предыдущего объявления о выпуске решения "Оценки" категории "Премиум" — надстройки к диспетчеру соответствия требованиям](2021-march.md#7)|15 марта|
 |Характеристики|[Перенос решений из средства вывода на рынок (GTM) One Commercial Partner (OCP) на коммерческую платформу Майкрософт](2021-march.md#6)|12 марта|
 |Характеристики|[Развертывание новой коммерческой платформы в рамках программы поставщика облачных решений (CSP) для Azure в России](2021-march.md#5)|10 марта|
 |Характеристики|[Обработка лицензионных ключей и скачивание программного обеспечения в Центре партнеров](2021-march.md#4)|5 марта|
