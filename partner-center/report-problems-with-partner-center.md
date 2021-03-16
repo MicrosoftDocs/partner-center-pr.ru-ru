@@ -1,5 +1,5 @@
 ---
-title: Сообщение о проблемах с Центром партнеров
+title: Средство "запросы и диагностика" портала центра партнеров
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
@@ -9,14 +9,14 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
+ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530669"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103582042"
 ---
-# <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Как сообщить о проблемах в центре партнеров и отправить сведения о журнале или диагностике
+# <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Средство "запросы и диагностика" портала центра партнеров
 
 **Относится к**
 
@@ -26,6 +26,7 @@ ms.locfileid: "99530669"
 **Соответствующие роли**
 
 Все пользователи, зарегистрированные в центре партнеров, могут создавать запросы на поддержку партнеров. Пользователи могут просматривать только те запросы на поддержку, которые были отправлены после входа в центр партнеров.
+Обратитесь в службу поддержки центра партнеров, если вы обнаружите проблемы или хотите получить помощь с ошибками портала центра партнеров. Отправка диагностики для ускорения устранения проблемы.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Сообщить о проблеме в центре партнеров
 
@@ -87,6 +88,6 @@ ms.locfileid: "99530669"
 
 Специалисты службы поддержки могут попросить вас запустить это средство несколько раз, чтобы получить обновленные сведения.
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Сообщить о проблеме со службой от имени клиента](report-problems-on-behalf-of-a-customer.md)
