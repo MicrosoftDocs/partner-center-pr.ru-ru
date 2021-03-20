@@ -1,25 +1,21 @@
 ---
 title: Права на участие в программе поощрения
-description: Убедитесь, что ваша программа поощрения подходит, чтобы вы могли получить оплату. Этот процесс включает проверку допустимости в программном обеспечении.
+description: Убедитесь, что вы выполнили требования к допустимости для программы поощрения. Этот процесс включает проверку допустимости в программном обеспечении.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 89d523d637a5a7641e9a9a8be255a1525ca66752
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.date: 03/16/2021
+ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175223"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712173"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Определение права на участие в программе поощрения
-
-**Применимо для следующих объектов**:
-
-- Центр партнеров
 
 **Соответствующие роли**:
 
@@ -40,7 +36,11 @@ ms.locfileid: "92175223"
 
 3. Выберите нужную программу.
 
-4. В поле **Сведения о программе** выберите пункт **Руководство по программе**.
+4. В поле **состояние** выберите **требования к допустимости**.
+
+   :::image type="content" source="images/incentives/eligibility.png" alt-text="Снимок экрана — это пример требований к поощрениям.":::
+
+5. Чтобы обеспечить приемлемость, необходимо выполнить все непроверенные области. Каждая программа поощрения имеет свой собственный набор требований.
 
 ## <a name="next-steps"></a>Дальнейшие действия
 

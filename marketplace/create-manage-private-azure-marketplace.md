@@ -6,12 +6,12 @@ ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: dbd67ee1d4e9775d37318ec6389888f03a50b6ec
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 8cfe0e95d1655530c9bc9d24b1efe85e6432236b
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412715"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712772"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Создание частного магазина Azure Marketplace и управление им в портал Azure
 
@@ -21,7 +21,7 @@ ms.locfileid: "103412715"
 
 > [!NOTE]
 > - Частный сайт Azure Marketplace находится на уровне клиента, поэтому все пользователи в клиенте будут видеть один проверенный список.
-> - Все решения Майкрософт (включая предустановленные [дистрибутивы Linux](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)) автоматически добавляются в частный магазин Azure Marketplace.
+> - Все решения Майкрософт (включая предустановленные [дистрибутивы Linux](/azure/virtual-machines/linux/endorsed-distros)) автоматически добавляются в частный магазин Azure Marketplace.
 
 ## <a name="assign-the-marketplace-admin-role"></a>Назначение роли администратора Marketplace
 
@@ -187,7 +187,7 @@ Assign-MarketplaceAdminRole
 4. Нажмите кнопку **Готово** в нижнем левом углу после того, как сделали выбор.
 
 >[!Note]
-> **Добавление элементов** в Marketplace будет доступно только для предложений сторонних разработчиков. Решения Майкрософт (включая предустановленные [дистрибутивы Linux](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)) будут помечены как "утвержденные по умолчанию" и не могут управляться в частном Marketplace.
+> **Добавление элементов** в Marketplace будет доступно только для предложений сторонних разработчиков. Решения Майкрософт (включая предустановленные [дистрибутивы Linux](/azure/virtual-machines/linux/endorsed-distros)) будут помечены как "утвержденные по умолчанию" и не могут управляться в частном Marketplace.
 
 ## <a name="edit-items-plans"></a>Изменить планы элемента
 
@@ -249,7 +249,7 @@ Assign-MarketplaceAdminRole
 Если частная служба Azure Marketplace включена, пользователи увидят планы, утвержденные администратором Marketplace.
 
 - Зеленое **утвержденное** уведомление указывает на то, что предложение Partner (не Майкрософт) утверждено.
-- Сообщение, **утвержденное** синим цветом, указывает на предложение Майкрософт (включая рекомендованные [дистрибутивы Linux](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)), которое утверждено.
+- Сообщение, **утвержденное** синим цветом, указывает на предложение Майкрософт (включая рекомендованные [дистрибутивы Linux](/azure/virtual-machines/linux/endorsed-distros)), которое утверждено.
 
 Пользователи могут фильтровать предложения, которые являются и не утверждены:
 
@@ -304,7 +304,7 @@ Assign-MarketplaceAdminRole
 
     :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="Показывает, как ограничить службы на портале E A.":::
 
-2. Создайте политику Azure, чтобы разрешить только определенные виртуальные машины. Дополнительные сведения о применении политик к виртуальным машинам Windows см. в статье [применение политик к виртуальным машинам Windows с Azure Resource Manager](https://docs.microsoft.com/azure/virtual-machines/windows/policy).
+2. Создайте политику Azure, чтобы разрешить только определенные виртуальные машины. Дополнительные сведения о применении политик к виртуальным машинам Windows см. в статье [применение политик к виртуальным машинам Windows с Azure Resource Manager](/azure/virtual-machines/windows/policy).
 
 Частная Azure Marketplace обеспечивает большую гибкость при предоставлении определенных предложений и планов. Он информирует пользователей о доступности для развертывания в коллекции Marketplace даже перед тем, как они пытаются развернуть сторонние службы. Чтобы разрешить развертывание сторонних служб, задайте для Azure Marketplace значение Вкл./включено на портале EA и в портал Azure.
 
@@ -314,7 +314,7 @@ Assign-MarketplaceAdminRole
 
 #### <a name="whats-the-difference-between-a-private-offer-and-private-azure-marketplace"></a>В чем разница между частным предложением и частным магазином Azure Marketplace?
 
-**Частное предложение** позволяет издателям создавать планы, которые видны только целевым клиентам. Это позволяет частным пользователям совместно использовать настраиваемые решения с согласованными ценами, частными условиями и специализированными конфигурациями. Дополнительные сведения см. [в разделе частные предложения в коммерческом магазине](https://docs.microsoft.com/azure/marketplace/private-offers).
+**Частное предложение** позволяет издателям создавать планы, которые видны только целевым клиентам. Это позволяет частным пользователям совместно использовать настраиваемые решения с согласованными ценами, частными условиями и специализированными конфигурациями. Дополнительные сведения см. [в разделе частные предложения в коммерческом магазине](/azure/marketplace/private-offers).
 
 **Частная Azure Marketplace** в портал Azure позволяет администраторам заранее утверждать, какие сторонние решения могут развертывать пользователи. Благодаря частному Azure Marketplace пользователи могут воспользоваться преимуществами Azure Marketplace, выполнив поиск, приобретение и развертывание соответствующих предложений. Чтобы управлять частными предложениями на основе подписок в частном Marketplace, администратор Marketplace должен иметь минимальную роль "чтение" для конкретной подписки.
 
@@ -326,16 +326,16 @@ Assign-MarketplaceAdminRole
 
 #### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>Можно ли включить пользовательские образы в частном магазине Azure Marketplace?
 
-Нет. Частная служба Azure Marketplace позволяет любому ИТ-администратору управлять решениями сторонних разработчиков и администрировать их из глобального магазина Azure Marketplace. Поскольку пользовательские образы не находятся в глобальной службе Azure Marketplace, ИТ – администратор не может выбрать и выбрать собственные образы. Если вы хотите предоставить общий доступ к пользовательским образам, воспользуйтесь [коллекцией Shared Image Gallery](https://docs.microsoft.com/azure/virtual-machines/shared-image-galleries).
+Нет. Частная служба Azure Marketplace позволяет любому ИТ-администратору управлять решениями сторонних разработчиков и администрировать их из глобального магазина Azure Marketplace. Поскольку пользовательские образы не находятся в глобальной службе Azure Marketplace, ИТ – администратор не может выбрать и выбрать собственные образы. Если вы хотите предоставить общий доступ к пользовательским образам, воспользуйтесь [коллекцией Shared Image Gallery](/azure/virtual-machines/shared-image-galleries).
 
-1. Пошаговое инструкции по созданию коллекции общих образов (SIG) ([CLI](https://docs.microsoft.com/azure/virtual-machines/shared-images-cli), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/shared-images-powershell)).
-2. Создание определения образа в SIG. Клиент должен выбрать **обобщенный** для поля состояния ОС. ([CLI](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
-3. Перенесите управляемый образ в общую галерею образов ([CLI](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-powershell)).
-4. Образы виртуальных машин SIG будут находиться в одной подписке. Чтобы сделать его доступным для других подписок, используйте регистрацию приложения ([CLI](https://docs.microsoft.com/azure/virtual-machines/linux/share-images-across-tenants), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/windows/share-images-across-tenants)).
+1. Пошаговое инструкции по созданию коллекции общих образов (SIG) ([CLI](/azure/virtual-machines/shared-images-cli), [PowerShell](/azure/virtual-machines/shared-images-powershell)).
+2. Создание определения образа в SIG. Клиент должен выбрать **обобщенный** для поля состояния ОС. ([CLI](/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [PowerShell](/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
+3. Перенесите управляемый образ в общую галерею образов ([CLI](/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](/azure/virtual-machines/image-version-managed-image-powershell)).
+4. Образы виртуальных машин SIG будут находиться в одной подписке. Чтобы сделать его доступным для других подписок, используйте регистрацию приложения ([CLI](/azure/virtual-machines/linux/share-images-across-tenants), [PowerShell](/azure/virtual-machines/windows/share-images-across-tenants)).
 
 #### <a name="why-do-i-see-some-offers-approved-by-default-even-though-the-publisher-is-not-microsoft"></a>Почему я вижу некоторые предложения **, утвержденные по умолчанию** , несмотря на то, что издатель не является корпорацией Майкрософт?
 
-Корпорация Майкрософт поддерживает Linux и технологию с открытым кодом в Azure. Рекомендуемые [дистрибутивы Linux](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros) поддерживаются в Azure, а цена интегрирована в виртуальные машины. Так как агент Linux для Azure уже предварительно установлен в Azure Marketplace, он рассматривается как предложение Майкрософт. Так как предложения Майкрософт утверждены по умолчанию, Рекомендуемые дистрибутивы Linux не могут управляться в частном магазине Azure Marketplace и утверждены по умолчанию.
+Корпорация Майкрософт поддерживает Linux и технологию с открытым кодом в Azure. Рекомендуемые [дистрибутивы Linux](/azure/virtual-machines/linux/endorsed-distros) поддерживаются в Azure, а цена интегрирована в виртуальные машины. Так как агент Linux для Azure уже предварительно установлен в Azure Marketplace, он рассматривается как предложение Майкрософт. Так как предложения Майкрософт утверждены по умолчанию, Рекомендуемые дистрибутивы Linux не могут управляться в частном магазине Azure Marketplace и утверждены по умолчанию.
 
 ## <a name="contact-support"></a>Обращение в службу поддержки
 

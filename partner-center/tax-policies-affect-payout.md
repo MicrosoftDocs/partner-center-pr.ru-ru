@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 3630824c839ccd9f54f3e8e5199a573b5824bb91
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 19acb085b601212f1bf94316aab2b72c54aecc1a
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101758498"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712959"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Влияние налоговых политик на Выдача для Azure Marketplace
 
@@ -47,7 +47,7 @@ ms.locfileid: "101758498"
 
 **Сценарий C** — транзакции, которые выполняются между издателем и клиентом в налоговой стране, управляемой издателем, которая не накладывает на клиентов подоходный налог. Клиенты платят без налогов на момент продажи, и это обязательства издателя по оплате всех применимых налогов.
 
-Дополнительные сведения о ценах, относящихся к конкретной стране (например, для смещения предстоящего налогообложения), см. в статье [планы и цены на коммерческие предложения Marketplace](https://docs.microsoft.com/azure/marketplace/plans-pricing#custom-prices).
+Дополнительные сведения о ценах, относящихся к конкретной стране (например, для смещения предстоящего налогообложения), см. в статье [планы и цены на коммерческие предложения Marketplace](/azure/marketplace/plans-pricing#custom-prices).
 
 :::image type="content" source="images/tax-policies/payout-scenario-c.png" alt-text="Показывает рабочий процесс для сценария процесса вывыплаты C.":::
 
@@ -77,5 +77,5 @@ ms.locfileid: "101758498"
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
-- [Издатель: вопросы и ответы](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide)
-- [Инструкции по созданию платежных и налоговых профилей](https://docs.microsoft.com/partner-center/set-up-your-payout-account?context=/azure/marketplace/context/context#create-a-payment-profile)
+- [Издатель: вопросы и ответы](/azure/marketplace/marketplace-faq-publisher-guide)
+- [Инструкции по созданию платежных и налоговых профилей](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)
