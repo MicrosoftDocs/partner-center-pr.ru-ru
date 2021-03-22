@@ -3,21 +3,22 @@ title: Влияние налоговых политик на Выдача для
 description: Узнайте, как налоговые политики влияют на выплата в Azure Marketplace.
 ms.topic: conceptual
 ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 19acb085b601212f1bf94316aab2b72c54aecc1a
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 817cdb895efab553b6f0131cdcdcf9b24bc6db3e
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712959"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768828"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Влияние налоговых политик на Выдача для Azure Marketplace
 
 **Соответствующие роли**
 -    Глобальный администратор
--    администратор пользователей.
+-    Администратор управления пользователями
 -    Агент по администрированию
 
 ## <a name="introduction"></a>Введение

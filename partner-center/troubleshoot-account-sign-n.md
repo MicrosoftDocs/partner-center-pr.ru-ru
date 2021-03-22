@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9622f02039360e8ab39f459c9a2fe082ec70c854
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756753"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768709"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Устранение проблем с настройкой учетной записи или обновлением MPN
 
@@ -35,13 +35,13 @@ ms.locfileid: "101756753"
 Выберите **принять** и **продолжить** , чтобы продолжить.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Если ИТ-отдел отключил регистрацию в **центре партнеров**.
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Если ИТ-отдел отключил регистрацию в **центре партнеров**
 
 Это сообщение появляется, потому что вирусные пользователи отключены или в клиенте Azure AD отключена антивирусная регистрация. Глобальный администратор учетной записи Azure AD может включить необходимые компоненты, выполнив следующую команду PowerShell:
 
 **Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
-Дополнительные сведения см. в статье [самостоятельная регистрация](/azure/active-directory/users-groups-roles/directory-self-service-signup) .
+Дополнительные сведения см. в статье [самостоятельная регистрация](/azure/active-directory/users-groups-roles/directory-self-service-signup).
 
 ## <a name="you-forgot-your-password"></a>Вы забыли пароль
 
