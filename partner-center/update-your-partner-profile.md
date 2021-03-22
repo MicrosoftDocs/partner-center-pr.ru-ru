@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/10/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 5ade6d7c587561cc1af4a7645d1e4b0cce9a505e
-ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
+ms.openlocfilehash: 6e9afa8689f34203bdbf1f56f69aa9289e38ae15
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "102770249"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712602"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Проверка или обновление сведений в профиле компании 
 
@@ -55,7 +55,7 @@ ms.locfileid: "102770249"
 
 1. Щелкните команду **Обновить** рядом с названием или адресом компании и измените сведения.
  
-1. Когда вы выберете элемент **Отправить**, ваш статус юридического лица будет проверен повторно.
+1. Когда вы выберете элемент **Отправить**, ваш статус юридического лица будет проверен повторно. Мы проверяем повторно только элементы, в которые вносились изменения.
 
 1. Если проверка не будет пройдена, узнайте, как [устранить проблему](verification-responses.md).
 
