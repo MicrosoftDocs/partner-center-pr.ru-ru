@@ -1,7 +1,7 @@
 ---
 title: Создание учетной записи MPN в Центре партнеров
 ms.topic: article
-ms.date: 02/08/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Узнайте, как участники Microsoft Partner Network могут создать учетную запись Центра партнеров для управления своими преимуществами и компетенциями в рамках партнерской сети.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
-ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
+ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "100013696"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570215"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Создание учетной записи MPN в Центре партнеров для управления преимуществами и компетенциями партнерской сети
 
@@ -23,7 +23,7 @@ ms.locfileid: "100013696"
 
 ## <a name="prerequisites"></a>Предварительные требования 
 
-Когда вы будете готовы создать учетную запись в Центре партнеров, для начала работы вам потребуются указанные ниже элементы.  Рекомендуем потратить несколько минут, чтобы собрать эти сведения, прежде чем начать:
+Когда вы будете готовы создать учетную запись в Центре партнеров, вам потребуются указанные ниже элементы.  Рекомендуем потратить несколько минут, чтобы собрать эти сведения, прежде чем начать:
 
 - Рабочий адрес электронной почты организации ИЛИ рабочая учетная запись Office 365. Дополнительные сведения см. в статье об [использовании рабочей учетной записи вашей компании и Центра партнеров](azure-active-directory-tenants-and-partner-center.md). 
  
@@ -40,7 +40,8 @@ ms.locfileid: "100013696"
 
 ## <a name="get-started"></a>Начало работы
 
-1. Начните с рабочего адреса электронной почты, предоставленного вашей компанией, например you@yourcompanyname.com.
+1. На странице [**Начало работы**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) введите свой рабочий адрес электронной почты (предоставленный вам компанией), например you@yourcompanyname.com.
+
  
     а.  Адрес электронной почты должен быть допустимым и доступным вам, так как мы отправим на него код проверки для продолжения работы.
 
