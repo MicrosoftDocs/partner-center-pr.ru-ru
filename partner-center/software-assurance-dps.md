@@ -9,23 +9,23 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03292d00864e30fd4941320748aef1590c9e2a80
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: 4b931f616417d8781b8864d7bcb9b0d6d47560ec
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926650"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028235"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Службы планирования Software Assurance в Центре партнеров
 
 **Соответствующие роли**
 
-- глобальный администратор.
+- Глобальный администратор
 - Администратор партнера MPN
 
 Как утвержденный партнер по службам планирования Корпорация Майкрософт компенсирует обязательства по планированию перед развертыванием для корпоративных клиентов. Участие в этой программе может помочь привлечь других клиентов, стать доверенным партнером по планированию и привести к дополнительным участием клиентов.
 
-## <a name="get-started"></a>Начало работы
+## <a name="get-started"></a>Приступая к работе
 
 Если вы не знакомы со службами планирования Software Assurance, выполните все приведенные ниже действия. Если вы уже активны в программах служб планирования, Начните каждое новое задействование на четвертом шаге (4) ниже.
 
