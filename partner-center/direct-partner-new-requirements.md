@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: ac4b6ef6a061a68ef623c7666804a4db1582785f
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105534"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712212"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Требования к регистрации партнеров CSP с правом на прямое выставление счетов
 
@@ -28,7 +28,7 @@ ms.locfileid: "98105534"
 
 ### <a name="minimum-requirements"></a>Минимальные требования
 
-|**Требование**|                |
+|**Требование**|  **Описание**  |
 |--------------------------------|--------------------------------------------------------------|
 |**Идентификатор MPN**   |Активное членство в Microsoft Partner Network и идентификатор MPN для расположения, в котором планируется осуществлять продажи.   |
 |**Подтверждение качества**   |Право принимать и подписывать юридические документы от имени вашей организации.|

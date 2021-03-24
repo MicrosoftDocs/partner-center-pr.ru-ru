@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 515a35584d8c31538b6722a282c53181c7809420
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 32a41ac1695d40cf300b76af96ce824fcd48122d
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022729"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712806"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Связывание идентификатора профиля сертификации Майкрософт (MCID) с учетной записью Microsoft Partner Network (MPN) и отмена такой привязки
 
@@ -48,7 +48,7 @@ ms.locfileid: "103022729"
 >Если учетные данные для учетной записи Microsoft Learning не отличаются от учетных данных для учетной записи Университета партнеров, выберите **Use email@address to associate my Microsoft Learning account** (Использовать <адрес_электронной_почты> для связывания учетной записи Microsoft Learning).
 
 ## <a name="download-skills-report-microsoft-certification-list"></a>Скачивание отчета о навыках (список сертификаций Майкрософт)
-Если вам нужны подробные сведения, отчет о навыках может быть просмотрен и скачан любым глобальным администратором или администратором партнера MPN в Центре партнеров. Подробные сведения см. [здесь](https://docs.microsoft.com/partner-center/mpn-skills-report#view-skills-report-data).
+Если вам нужны подробные сведения, отчет о навыках может быть просмотрен и скачан любым глобальным администратором или администратором партнера MPN в Центре партнеров. Подробные сведения см. [здесь](./mpn-skills-report.md#view-skills-report-data).
 
 
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>Часто задаваемые вопросы о связывании учетных записей
