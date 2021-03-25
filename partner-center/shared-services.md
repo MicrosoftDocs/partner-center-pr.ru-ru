@@ -9,16 +9,15 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: a59cf0b271a0ccf5fd5a1d8e3e85ff43818a3801
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 756fbfda3438933b50fc51936b396291986472a7
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247701"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028287"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Добавьте общие службы партнеров Azure, чтобы партнеры могли покупать подписки Azure для их собственного использования.
 
- 
 **Соответствующие роли**
 
 - Глобальный администратор
@@ -59,7 +58,7 @@ ms.locfileid: "102247701"
 
 ## <a name="azure-partner-shared-services-pricing"></a>Цены на службы Azure Partner Shared Services
 
-Чтобы просмотреть новый файл ценообразования для общих служб партнеров **Azure, ознакомьтесь с**  >  **ценами и предложениями** и выберите Прейскурант текущего месяца. В ближайшее время также будет выпущен специальный API-интерфейс тарифных карт.
+Чтобы просмотреть новый файл ценообразования для общих служб партнеров Azure, **перейдите на страницу**  >  **цены и предложения** и выберите Прейскурант текущего месяца. В ближайшее время также будет выпущен специальный API-интерфейс тарифных карт.
 
 ## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Предложения Marketplace и общие службы партнеров Azure
 

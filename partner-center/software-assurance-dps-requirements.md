@@ -9,21 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89286500"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028270"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Просмотр требований к допустимости для служб планирования
 
 **Соответствующие роли**
 
-- глобальный администратор.
+- Глобальный администратор
 - Администратор партнера MPN
 
-Этот раздел поможет вам узнать о требованиях к допустимости, которые необходимо выполнить, прежде чем ваша компания сможет зарегистрироваться или предоставить услуги по планированию участия в программе Software Assurance для корпорации Майкрософт.
+Эта статья поможет вам узнать о требованиях к допустимости, которые необходимо выполнить, прежде чем ваша компания сможет зарегистрироваться или предоставить услуги по планированию участия в программе Software Assurance для корпорации Майкрософт.
 
 >[!NOTE]
 > Помимо соблюдения требований к допустимости для предложения служб планирования, необходимо выполнить ряд других действий, прежде чем можно будет предоставить услуги по планированию участия в программе Software Assurance. Общие сведения о всех необходимых шагах см. [в разделе службы планирования Software Assurance в центре партнеров](software-assurance-dps.md).
