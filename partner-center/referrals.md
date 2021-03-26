@@ -9,18 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf832377cdaa6a680fef3ea3c2535f20a3ad65e1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 391768b14473c3cbdaf5049007c36bbf28dd1167
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999138"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549215"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Развивайте свой бизнес с помощью рекомендаций от Майкрософт
-
-**Относится к**
-
-- Центр партнеров
 
 Многие клиенты ищут квалифицированных экспертов, которые могли бы помочь им внедрить технологии и бизнес-решения корпорации Майкрософт. В корпорации Майкрософт мы часто получаем прямые запросы от клиентов относительно помощи через нашу рекламу и от внутренних агентов по продажам корпорации Майкрософт. Клиенты также используют [инструмент **Поиск поставщика решений**](https://www.microsoft.com/solution-providers/search) для поиска компаний, которые могут помочь им удовлетворить потребности своего бизнеса. 
 

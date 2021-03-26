@@ -9,18 +9,14 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb6af7896f659630bb6810868dc017e1968e4d19
-ms.sourcegitcommit: b74701f3806af2c5da04b21f6c1d1371b56509cc
+ms.openlocfilehash: 133df7a2e6fdcf9aad48d3937b04dac33c93122a
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "88584683"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549096"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Как удалить связь торгового посредника с клиентом в Центре партнеров
-
-**Относится к**
-
-- Центр партнеров
 
 В этой статье описывается, как удалить связь через торгового посредника с клиентом в центре партнеров.
 
@@ -41,7 +37,7 @@ ms.locfileid: "88584683"
 
    1. В центре партнеров перейдите к разделу **Клиенты** и выберите клиента.
 
-   2. В разделе **подписки**выберите подписку.
+   2. В разделе **подписки** выберите подписку.
 
    3. Выбор **приостановлена**
 
@@ -49,7 +45,7 @@ ms.locfileid: "88584683"
 
 2. **Удалите связь в центре партнеров:**
 
-   а. В центре партнеров перейдите к разделу **Клиенты** и выберите клиента.
+   a. В центре партнеров перейдите к разделу **Клиенты** и выберите клиента.
 
    b. Выберите **Учетная запись**.
 

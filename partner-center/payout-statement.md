@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 3/2/2021
-ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 3/22/2021
+ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185355"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549249"
 ---
 # <a name="payout-statements"></a>Выписки о выплатах
 
@@ -169,7 +169,7 @@ ms.locfileid: "102185355"
 | participantName | Имя участвующего партнера | All |
 | partnerCountryCode | Расположение, страна или регион участвующего партнера | All |
 | partNumber | Всегда будет пустым | Некоторые стимулы программ и Marketplace |
-| paymentId | Уникальный идентификатор платежа. Этот номер обычно отображается в выписке по банковскому счету. | Только платежи SAP |
+| paymentId | Уникальный идентификатор для корреляции всех транзакций в отчете о транзакции с определенной оплатой в отчете о платеже | Все |
 | paymentStatus | Состояние платежа | All |
 | paymentStatusDescription | Понятное описание состояния платежа | All |
 | productId | Уникальный идентификатор продукта | marketplaces |
