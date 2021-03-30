@@ -1,7 +1,7 @@
 ---
 title: Соглашение с партнером Майкрософт для CSP
 ms.topic: how-to
-ms.date: 02/11/2021
+ms.date: 03/23/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте о требованиях к партнерам Майкрософт по программе CSP, чтобы подписать и проверить унифицированное, принимаемое в цифровом виде соглашение с партнером Майкрософт (MPA).
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 829b444f1990058cd323e3effec6da6d7585155a
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281325"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880809"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Сведения о соглашении с партнером Майкрософт для партнеров по программе CSP
 
@@ -110,5 +110,7 @@ ms.locfileid: "100281325"
 3. Чтобы проверить состояние принятия условий MPA в Центре партнеров после выполнения шага 1 и (или) шага 2, указанных выше: [Проверка состояния принятия Соглашения с партнером Майкрософт](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
 ## <a name="next-steps"></a>Дальнейшие действия
+
+- [Вопросы и ответы. Как косвенные поставщики могут помочь своим торговым посредникам принять Соглашение с партнером Майкрософт](mpa-indirect-provider-faq.md)
 
 - [Регистрация в программе поставщиков облачных решений](indirect-reseller-tasks-in-partner-center.md)

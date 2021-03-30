@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: d93a94ce1171770d76617a9ec8bed9a1dd96d287
-ms.sourcegitcommit: 1aeabd40513f06809cb111131b4e6bc188975ce6
+ms.openlocfilehash: 236cee00ec6a28468361c4893f7888882a17f5e4
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99065477"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880792"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Узнайте о сотрудничестве с непрямыми поставщиками в программе поставщиков облачных решений
 
@@ -142,6 +142,10 @@ ms.locfileid: "99065477"
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
+- [Вопросы и ответы. Как косвенные поставщики могут помочь своим торговым посредникам принять Соглашение с партнером Майкрософт](mpa-indirect-provider-faq.md)
+
+- [Соглашение с партнером Майкрософт](microsoft-partner-agreement.md)
+
 - [Процедура проверки учетной записи](verification-responses.md)
 
 - [Управление учетной записью Центра партнеров](partner-center-account-setup.md)
@@ -153,4 +157,4 @@ ms.locfileid: "99065477"
 - [Ознакомьтесь с процессом проверки.](verification-responses.md)
 
 - [Ознакомьтесь с требованиями для партнеров с прямым выставлением счетов.](direct-partner-new-requirements.md)
-- [Соглашение с партнером Майкрософт](microsoft-partner-agreement.md)
+
