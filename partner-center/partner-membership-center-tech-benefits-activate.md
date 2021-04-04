@@ -9,24 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ee7ca469619e548dc59db390566d19a1b1c8cc24
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: e769758e14f48f6f7deb9dfe3354fa377a559c87
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89224715"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087116"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>Активация Microsoft Partner Network технических преимуществ за пределами центра партнеров
 
+
+**Соответствующие роли**
+
+- Все пользователи Центра партнеров
+
 Эта статья предназначена для участников Microsoft Partner Network (MPN), которые по-прежнему используют центр участия в партнерских организациях (PMC). Эти участники нуждаются в помощи в активации определенных преимуществ членства в MPN, таких как технические преимущества, за пределами текущей [панели мониторинга центра партнеров](https://partner.microsoft.com/dashboard).
-
-### <a name="applies-to"></a>Применяется к
-
-- Пользователи центра членства партнеров
-
-### <a name="appropriate-roles"></a>Соответствующие роли
-
-- MPN партнеров, использующих Партнерский центр (PMC)
 
 Многие члены Microsoft Partner Network (MPN) уже были [перенесены из центра участия в партнерских партнерах в центр партнеров](prepare-pmc-pc-migration.md) , чтобы помочь в управлении пользователями, клиентами и преимуществами MPN.
 

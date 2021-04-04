@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 82d1db0175a8038d0297eddd8f86dfba26bb8401
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 2eb0fe92b5b62b56742ef06617275451e6850011
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175110"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179281"
 ---
 # <a name="confirm-your-incentives-earnings-eligibility"></a>Подтверждение допустимости доходов для поощрения
 
-**Относится к**
-
-- Центр партнеров
-
-**Соответствующие роли:**
+**Соответствующие роли**
 
 - Администратор программы поощрения
 - Глобальный администратор
@@ -31,7 +27,7 @@ ms.locfileid: "92175110"
 ## <a name="how-do-i-check-my-earning-eligibility-and-revenue-rules"></a>Как проверить доступность моих доходов и правила получения дохода?
 
 1. Войдите в [поощрения партнера](https://partner.microsoft.com/membership/partner-incentives).
-2. Прокрутите вниз, чтобы получить доступ к документам интересующей программы, и щелкните ссылку на документ для соответствующей программы.
+2. Прокрутите вниз, чтобы получить доступ к документам интересующей программы, и выберите ссылку документ для соответствующей программы.
 3. В документе см. разделы соответствие требованиям **партнеров** и соответствующие **правила дохода**.
 
 ## <a name="next-steps"></a>Дальнейшие действия

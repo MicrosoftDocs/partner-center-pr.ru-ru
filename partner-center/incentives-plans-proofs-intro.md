@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 971d3fbc4b172b66e5b5099bc16999eefc57279c
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 3cd9ee73da3432b88c2ef3669f12451d675a319a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714398"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179179"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Используйте эти ресурсы для создания планов поощрения и подтверждения выполнения
-
-**Относится к**
-
-- Центр партнеров
-- Партнеры в Microsoft Partner Network (MPN)
 
 **Соответствующие роли**
 
@@ -40,7 +35,7 @@ ms.locfileid: "90714398"
 
 ## <a name="what-is-a-proof-of-execution-poe"></a>Что такое подтверждение выполнения (ПОЕ)?
 
-После получения платной работы по поощрениям необходимо отправить в корпорацию Майкрософт подробное подтверждение выполнения (ПОЕ). В ПОЕ могут содержаться сведения о любой связанной кампании, дате, когда произошло действие поощрения, заявленной сумме и т. д. 
+После получения платной работы по поощрениям необходимо отправить в корпорацию Майкрософт подробное подтверждение выполнения (ПОЕ). ПОЕ может включать сведения о любой связанной кампании, дату действия поощрения и сумму заказа. 
 
 Узнайте больше о [подготовке подтверждения выполнения](incentives-prepare-your-proof-of-execution.md).
 

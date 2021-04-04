@@ -8,16 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 03/16/2021
-ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: cd54249e1fb53fdf3a753b38d1e9999008b9d79a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712173"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179229"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Определение права на участие в программе поощрения
 
-**Соответствующие роли**:
+**Соответствующие роли**
 
 - Глобальный администратор
 - Администратор программы поощрения
@@ -40,7 +40,7 @@ ms.locfileid: "104712173"
 
    :::image type="content" source="images/incentives/eligibility.png" alt-text="Снимок экрана — это пример требований к поощрениям.":::
 
-5. Чтобы обеспечить приемлемость, необходимо выполнить все непроверенные области. Каждая программа поощрения имеет свой собственный набор требований.
+5. Завершите все области, которые не отмечены, чтобы удовлетворить требованиям. Каждая программа поощрения имеет свой собственный набор требований.
 
 ## <a name="next-steps"></a>Дальнейшие действия
 

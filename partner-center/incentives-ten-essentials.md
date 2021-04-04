@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 41ea71b2461c8497b90acc0f265c4f946faa55b7
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 6000ba464a7751a159d8a390b13d2af6ffb59894
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714565"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179111"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>10 основных компонентов для работы с поощрениями
-
-**Относится к**
-
-- Центр партнеров
-- Партнеры в Microsoft Partner Network (MPN)
 
 **Соответствующие роли**
 
@@ -49,7 +44,7 @@ ms.locfileid: "90714565"
 
 ## <a name="5-review-the-incentives-faq"></a>5. Ознакомьтесь с вопросами и ответами на поощрения
 
-Получите ответы на распространенные вопросы о поощрениях, прежде чем даже запрашивать их. Часто обновляются часто задаваемые вопросы об поощрениях, используя сведения из служба поддержки Майкрософт, а также прямое взаимодействие с партнерами. [Здесь](incentives-faq.md)можно просмотреть часто задаваемые вопросы.
+Получите ответы на распространенные вопросы о поощрениях, прежде чем даже запрашивать их. Часто обновляются часто задаваемые вопросы об поощрениях, используя сведения из служба поддержки Майкрософт и прямой связи с партнерами. [Здесь](incentives-faq.md)можно просмотреть часто задаваемые вопросы.
 
 ## <a name="6-confirm-your-program-eligibility"></a>6. Подтвердите права на программу
 
