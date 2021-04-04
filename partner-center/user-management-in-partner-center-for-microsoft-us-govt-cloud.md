@@ -1,6 +1,6 @@
 ---
 title: Управление пользователями и лицензиями
-titleSuffix: Microsoft Cloud for US Government - Partner Center
+titleSuffix: Microsoft Government Cloud - Partner Center
 description: Узнайте, как и где можно управлять центром партнеров для Microsoft Cloud для партнеров США, клиентов и лицензий, а также для сброса паролей.
 ms.topic: article
 ms.date: 03/15/2019
@@ -10,14 +10,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f2f1a4ce2ed1ea4ed21de68454a123458120edfd
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 0fce25dc07f5cd07138cde2619cdf0989cd17251
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712942"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086572"
 ---
-# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud для правительства США
+# <a name="user-and-license-management-in-partner-center-for-government-microsoft-cloud"></a>Управление пользователями и лицензиями в центре партнеров для государственных организаций Microsoft Cloud
 
 **Относится к**
 
@@ -29,9 +29,9 @@ ms.locfileid: "104712942"
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Управление пользователями на портале Azure для Microsoft Cloud для правительства США
 
-Если вы выполнили вход в Центр партнеров Microsoft Cloud для правительства США, можно открыть портал Azure для Microsoft Cloud для правительства США без необходимости повторно входить в систему. Однако, если вам понадобится войти непосредственно на портал Azure для Microsoft Cloud для правительства США, перейдите на веб-сайт (https://portal.azure.us/)) и войдите, используя учетные данные глобального администратора вашего клиента Azure AD для Microsoft Cloud for US Government.
+Если вы вошли в центр партнеров для Microsoft Cloud для государственных организаций США, вы можете открыть портал Azure для облака Microsoft для государственных организаций без необходимости повторного входа. Однако, если вам нужно войти непосредственно в портал Azure для облака Microsoft для государственных организаций, перейдите на страницу ( https://portal.azure.us/) и войдите с помощью учетных данных глобального администратора для своего клиента Azure AD для государственных организаций Майкрософт.
 
-После успешного входа на портал Azure для Microsoft Cloud для правительства США откройте страницу обзора Azure Active Directory (Azure AD), а затем следуйте инструкциям, представленным в следующих разделах:
+После успешного входа в портал Azure для облака Microsoft для государственных организаций откройте страницу обзора Azure Active Directory (Azure AD) и следуйте инструкциям в следующих разделах:
 
 > [!NOTE]  
 > Перейдя по приведенным ниже ссылкам, вы перейдете на другой веб-сайт. 
@@ -44,6 +44,6 @@ ms.locfileid: "104712942"
 
 **Связанные темы**
 
--  [**Центр партнеров для Microsoft Cloud for US Government**](partner-center-for-microsoft-us-govt-cloud.md)
+-  [**Центр партнеров для облака Microsoft для государственных организаций**](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [**Регистрация в программе поставщиков облачных решений Microsoft Cloud для правительства США**](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+-  [**Регистрация в программе поставщика облачных решений для облака Microsoft для государственных организаций**](enroll-in-csp-for-microsoft-us-govt-cloud.md)

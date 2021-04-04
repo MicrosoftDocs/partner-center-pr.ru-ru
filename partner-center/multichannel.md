@@ -9,24 +9,23 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f743834578b4a4b40453704a9ca1ef5adf4bc82
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 925532881b6f28b2e7a9d06372a92eed95716d48
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390651"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132729"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Поддержка нескольких каналов. Использование других партнеров для поддержки клиентских подписок, приобретенных в другом расположении
 
 **Относится к**
 
-- Центр партнеров
-- Центр партнеров для Microsoft Cloud for US Government
+- Центр партнеров для облака Microsoft для государственных организаций
 
 **Соответствующие роли**
 
 - Глобальный администратор
-- администратор пользователей.
+- Администратор управления пользователями
 - Агент по продажам
 
 Многоканальная функция центра партнеров поддерживает сценарии, когда клиент хочет нанять партнера для управления и поддержки подписки, приобретенной в других местах. Поддержка нескольких каналов применима, если клиент:

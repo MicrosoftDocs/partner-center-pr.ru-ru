@@ -1,5 +1,5 @@
 ---
-title: Демонстрации для партнеров MPN
+title: Ролики для партнеров MPN
 ms.topic: article
 ms.date: 02/05/2021
 description: Узнайте, как найти демонстрации, доступные для MPNных, Gold и Action Pack партнеров.
@@ -8,21 +8,21 @@ ms.subservice: partnercenter-mpn
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 458f055dc55d6026ec042c4c40766635d229c08b
-ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
+ms.openlocfilehash: 26162b4164d3bb8f1572c460f431efab056e1a8a
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "100082959"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132593"
 ---
 # <a name="demos-for-mpn-partners--microsoft-365-dynamics-365-teams-and-more"></a>Демонстрации для партнеров MPN — Microsoft 365, Dynamics 365, команд и др.
 
-**Соответствующие роли**:
+**Соответствующие роли**
 
 - Администратор партнера MPN
 - Администратор учетных записей
 
-Microsoft Partner Network предоставляет широкий спектр демонстраций для партнеров-серебристых, Gold и Action Pack.
+Microsoft Partner Network (MPN) предоставляет широкий спектр демонстраций для партнеров-серебристых, Gold и Action Pack.
 
 ## <a name="access-mpn-demos"></a>Доступ к демонстрации MPN
 

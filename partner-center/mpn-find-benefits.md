@@ -9,20 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0162766018087112ebe34c82f29902b3225822b1
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 2ad3e686c90c286465911e8d01d12686d2c6ad15
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812841"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132984"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Поиск преимуществ Microsoft Partner Network 
 
-### <a name="applies-to"></a>Применяется к
-
-- Центр партнеров
-
-### <a name="appropriate-roles"></a>Соответствующие роли
+**Соответствующие роли**
 
 - Администратор партнера MPN
 - Глобальный администратор

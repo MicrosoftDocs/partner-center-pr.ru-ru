@@ -9,23 +9,23 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 43a35f91be9ce656157065a3d19b3643ddeff68a
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 75881544097abdfac8d6f96bde37e9700eb28cf7
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999298"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132355"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Managing non-payment, fraud, or misuse in Partner Center (Управление подписками в случае неуплаты, мошенничества или неправильного использования в Центре партнеров)
 
 Область применения:
 
-- Центр партнеров
-- Центр партнеров для Microsoft Cloud for US Government
+- Центр партнеров для облака Microsoft для государственных организаций
 
 **Соответствующие роли**
+
 - Глобальный администратор
-- администратор пользователей.
+- Администратор управления пользователями
 - Агент по администрированию
 - Администратор выставления счетов
 

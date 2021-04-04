@@ -9,22 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d441d121c28c2762d1f1c71d6f6a1e81d089f99c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e83c06c11638bdde508fd27904038bcb6d8c9e9c
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436833"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132644"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Перенос предложений с выпуском Dynamics 365 Business в более новые версии
 
-**Относится к**
-
-- Центр партнеров
-
 **Соответствующие роли**
+
 - Глобальный администратор
-- администратор пользователей.
+- Администратор управления пользователями
 - Агент по администрированию
 - Агент по продажам
 

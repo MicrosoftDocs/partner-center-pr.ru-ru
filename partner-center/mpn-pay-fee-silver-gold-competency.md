@@ -8,19 +8,19 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: b8e7d7e7bdd5cb8bc9b90b3461528859eb801d0d
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101757386"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132491"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Как оплатить плату, связанную с компетенцией серебряного или золотого
 
 **Соответствующие роли**
 
 - Администратор партнера MPN
-- Администратор учетных записей MPN
+- Администратор учетных записей
 
 В этой статье описывается, как и когда следует платить за плату, связанную с достижением компетенции серебряного или золотого Microsoft Partner Network. В статье также описывается, как изменить предпочтительный метод оплаты, как отменить заказ и получить скидку 25% при переходе с компетенции на золотую.
 
