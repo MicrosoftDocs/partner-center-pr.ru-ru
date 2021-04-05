@@ -1,7 +1,7 @@
 ---
 title: Вычисление фактической цены за единицу
 ms.topic: how-to
-ms.date: 11/10/2020
+ms.date: 04/02/2021
 description: Сведения о эффективной цене за единицу и способах ее вычисления. В этой статье также приводится пример вычисления.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ca6e9bf6a49e695314a3e33e36d2d1d5d4d2a25
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: a662e0b815c979b3454762c5b35eb510887c96ad
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556333"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374404"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Фактическое Вычисление цены за единицу для использования плана Azure
 
@@ -53,7 +53,7 @@ ms.locfileid: "96556333"
 - **Эффективная цена единицы** = БКУ/BC
 
 >[!NOTE]
->Примечание. в этом примере счетчик не имеет уровней цены.
+>В этом примере счетчик не имеет уровней цен. Эффективные коэффициенты цены за единицу в процентах скидки и других корректировках.
 
 | Дата | БКУ (оплачиваемая единица потребления) | BC (оплачиваемая стоимость) | Эффективная цена за единицу |
 | ------ | ----------- | ----------- | ----------- |  
@@ -61,6 +61,6 @@ ms.locfileid: "96556333"
 | 10 августа | 210,950039 | 155,63 | 0.737757626107858 |
 | 25-Авг | 555,950039 | 410,17 | 0.737782122900436 |
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - [Выставление счетов и налоги](billing.md)
