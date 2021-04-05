@@ -93,6 +93,8 @@
         - name: Ролики для партнеров MPN
           href: mpn-demos.md
           displayName: mpn
+        - name: 'Политика предоставления и использование преимуществ: часто задаваемые вопросы'
+          href: benefits-faq-new.md
         - name: Часто задаваемые вопросы о преимуществах
           href: benefits-faq.md
           displayName: 'renew, license,'
