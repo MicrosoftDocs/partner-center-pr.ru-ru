@@ -2,17 +2,19 @@
 title: Выставление счетов — транзакции SaaS на основе лицензий
 ms.topic: article
 ms.date: 05/05/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Сведения об общих сценариях выставления счетов в центре партнеров для транзакций на основе лицензий, программного обеспечения как услуги (SaaS).
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d63e8345bf127cb91f1812193b1f0311cd569b3
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: e317cb58e9ebf4b0efad2933f866d5db19d8dc1a
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031347"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502469"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Распространенные сценарии выставления счетов для транзакций SaaS на основе лицензий в центре партнеров
 
@@ -51,7 +53,7 @@ ms.locfileid: "92031347"
 | Дата покупки | Дата начала оплаты | Дата окончания оплаты | Цена за единицу | Количество единиц | Общая сумма | Тип оплаты | Описание подписки |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 10.06.2019 | 10.06.2019 | 07/09/2019 | 0 долл. США | 11 | 0 долл. США | Создать | Бесплатная пробная версия |
-| 10.06.2019 | 10.06.2019 | 07/09/2019 | 0 долл. США | 11 | 0 долл. США | Отмена | Бесплатная пробная версия |
+| 10.06.2019 | 10.06.2019 | 07/09/2019 | 0 долл. США | 11 | 0 долл. США | Отменить | Бесплатная пробная версия |
 
 ## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>Преобразование пользовательской подписки на измерение SaaS в другой SKU
 
