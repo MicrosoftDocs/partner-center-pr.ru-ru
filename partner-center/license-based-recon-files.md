@@ -9,18 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc97156d23fa4ea1082a0ad4a931ff36375897a7
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 4c311de4a504785e15cefc7a93f1ee3da396ea7d
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178924"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441291"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Общие сведения о полях в файлах сверки, основанных на лицензиях центра партнеров
 
 **Относится к**
 
-- Центр партнеров для облака Microsoft для государственных организаций
+- Центр партнеров для Microsoft Cloud for US Government
 
 **Соответствующие роли**
 

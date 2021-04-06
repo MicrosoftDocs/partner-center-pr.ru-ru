@@ -9,18 +9,20 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03cd603cf65b1e999cf95fd10d76e6ccc6c403e8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 3702ebd5a9421036a053a9a142a2f40d3e488137
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999338"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106442005"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Что делать, если только администратор программы MPN оставил эту компанию?
 
-**Относится к**
+**Соответствующие роли**
 
-- Центр партнеров
+- Администратор партнера MPN
+- Администратор учетных записей
+- Глобальный администратор
 
 Следующая статья посвящена трем типичным сценариям, касающихся того, что делать, если администратор MPN оставил компанию.
 

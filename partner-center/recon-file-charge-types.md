@@ -9,18 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ba42ac5beb28a3cf819c54a86385fb79853cdcd0
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: f1fb7fdcc4ec56f0d5cf0eb26b62294235a5b908
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549232"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441607"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Изучите различные типы оплаты в файлах сверки центра партнеров
 
 **Относится к**
 
-- Центр партнеров для облака Microsoft для государственных организаций
+- Центр партнеров для Microsoft Cloud for US Government
 
 **Соответствующие роли**
 
@@ -64,7 +64,7 @@ ms.locfileid: "105549232"
 
 | Описание платы (столбец Чаржетипе в файле сверки) | Объяснение затрат |
 | ------------------------------------------------------------- | ------------------ |
-| Оператор new | Используется при создании новой покупки. |
+| Создать | Используется при создании новой покупки. |
 | addQuantity | Используется как для возврата первоначальной покупки, так и для нового количества после увеличения. |
 | removeQuantity | Используется как для возврата первоначальной покупки, так и для нового количества после уменьшения. |
 | Отменить | Используется при отмене подписки. |

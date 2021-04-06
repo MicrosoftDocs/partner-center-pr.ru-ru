@@ -3,22 +3,23 @@ title: Файлы сверки с оценкой использования по
 ms.topic: article
 ms.date: 06/12/2020
 description: Узнайте, как читать файлы сверки с ежедневной оценкой использования в центре партнеров. Содержит описания для конкретных полей в файле разведывательную.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 89080cb580d9b451454d108c6ef0ce0a08c1bf0c
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712245"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441903"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Узнайте, как считать файлы сверки с оценкой использования в центре партнеров
 
 **Относится к**
 
-- Центр партнеров
 - Центр партнеров для Microsoft Cloud for US Government
 
 **Соответствующие роли**
@@ -70,7 +71,7 @@ ms.locfileid: "104712245"
 | ResourceGroup | Представляет контейнер, содержащий связанные ресурсы для решения Azure. |
 | ResourceURI | URI используемого ресурса. |
 | ChargeType | Тип оплаты или коррекции.  |
-| UnitPrice | Цена за лицензию, опубликованная в прейскуранте на момент приобретения. Убедитесь, что эта цена соответствует информации, хранящейся в системе выставления счетов во время сверки. |
+| Цена за единицу | Цена за лицензию, опубликованная в прейскуранте на момент приобретения. Убедитесь, что эта цена соответствует информации, хранящейся в системе выставления счетов во время сверки. |
 | Количество | Число лицензий. Убедитесь, что эта цена соответствует информации, хранящейся в системе выставления счетов во время сверки. |
 | Единицах UnitType | Тип единицы измерения, за которую наследуется данный счетчик.  |
 | биллингпретакстотал | Общая сумма выставления счетов перед налогами.<br/> _**Биллингпретакстотал** = floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
