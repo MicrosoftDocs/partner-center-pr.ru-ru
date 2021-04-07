@@ -9,19 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 62dab81a265a4bf1fe926cd1a8f583153821d0ef
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658422"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557789"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Использование центра партнеров для применения расширенных специализаций и проверки их состояния
 
 **Соответствующие роли**
 
 - Глобальный администратор
-- Администратор учетных записей MPN
+- Администратор учетных записей
 
 В этой статье описывается, как использовать панель мониторинга центра партнеров для [дополнительной специализации](advanced-specializations.md), проверки хода выполнения и выполнения необходимых действий и проверок. Вы также увидите примеры использования центра партнеров для достижения определенных расширенных специализаций, для которых требуется либо аудит, либо клиентские ссылки.
 
@@ -117,7 +117,7 @@ ms.locfileid: "98658422"
 
 4. До тех пор, пока не будут выполнены все предварительные требования на этой странице и предоставлены ссылки на клиентов, ваше состояние останется **незапущенным**. После соблюдения всех необходимых условий состояние изменится на **активно**.
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - Дополнительные сведения о [расширенных специализациях, их преимуществах и уникальных требованиях](https://partner.microsoft.com/membership/advanced-specialization).
 
