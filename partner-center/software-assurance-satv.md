@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: b08ac8d76324270f32db481a92387b20650f42f5
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024982"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266492"
 ---
 # <a name="training-vouchers-program-retirement"></a>Обучение операций выхода из программы обучения
 
@@ -29,7 +29,7 @@ ms.locfileid: "107024982"
 >[!NOTE]
 >Нет изменений в жизненном цикле ваучера. После создания или назначения ваучера, резервирование ваучера, обучающий семинар и погашение ваучера должны быть завершены в течение 180 дней до истечения срока действия документа.  Дополнительные сведения о выбытие ваучера обучения см. в разделе часто задаваемые [вопросы для получения](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) дополнительных сведений (требуется вход).  Полный список учебных курсов, доступных для САТВ, см. в статье Каталог продуктов для обучения.  Направляйте свои вопросы в службу поддержки регионального партнера по языку [EMEA](mailto:savoucher@msdirectservices.com). [Общая поддержка партнеров](https://partner.microsoft.com/dashboard/support/servicerequests).
 
-## <a name="until-june-30-2021"></a>До 30 июня 2021 г.
+
 
 ### <a name="get-started"></a>Начало работы
 
