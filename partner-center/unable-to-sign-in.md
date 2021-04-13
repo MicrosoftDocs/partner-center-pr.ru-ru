@@ -1,37 +1,52 @@
 ---
 title: Не удалось войти в центр партнеров
-ms.topic: article
-ms.date: 07/30/2020
+ms.topic: troubleshooting
+ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Узнайте, что делать, если не удается войти в центр партнеров. включает сведения о сбросе пароля рабочей учетной записи или пароля учетной записи учебного заведения, если вы забыли его.
+description: Устраните возможные причины и Узнайте о решениях, когда не удается войти в центр партнеров — Узнайте больше о сбросе паролей, проверке ролей и проверке учетных данных.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b60b86bec70b5c33d65532599fa0421604d9ba12
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 17087727afcaf3dbcf47801f8668388c370758e7
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712891"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266577"
 ---
-# <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a><span data-ttu-id="bf9a9-103">Если вы не можете войти в центр партнеров и вам нужно сбросить пароль</span><span class="sxs-lookup"><span data-stu-id="bf9a9-103">If you can't sign into Partner Center and need to reset your password</span></span>
+# <a name="troubleshoot-sign-in-issues-for-partner-center"></a><span data-ttu-id="e9dbf-103">Устранение проблем при входе в центр партнеров</span><span class="sxs-lookup"><span data-stu-id="e9dbf-103">Troubleshoot sign-in issues for Partner Center</span></span>
 
-<span data-ttu-id="bf9a9-104">**Соответствующие роли**</span><span class="sxs-lookup"><span data-stu-id="bf9a9-104">**Appropriate roles**</span></span>
+<span data-ttu-id="e9dbf-104">**Соответствующие роли**</span><span class="sxs-lookup"><span data-stu-id="e9dbf-104">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="bf9a9-105">Все партнеры, заинтересованные в центре партнеров</span><span class="sxs-lookup"><span data-stu-id="bf9a9-105">All partners interested in Partner Center</span></span>
+- <span data-ttu-id="e9dbf-105">Все партнеры, заинтересованные в центре партнеров</span><span class="sxs-lookup"><span data-stu-id="e9dbf-105">All partners interested in Partner Center</span></span>
 
-<span data-ttu-id="bf9a9-106">Если вы забыли пароль и не сможете войти в центр партнеров, обратитесь в службу поддержки.</span><span class="sxs-lookup"><span data-stu-id="bf9a9-106">If you have forgotten your password and can't sign into Partner Center, you'll need to contact Support.</span></span> <span data-ttu-id="bf9a9-107">Найдите соответствующее контактное лицо в [службе поддержки для бизнес-продуктов](/microsoft-365/admin/contact-support-for-business-products).</span><span class="sxs-lookup"><span data-stu-id="bf9a9-107">Find the appropriate contact at [Support for Business Products](/microsoft-365/admin/contact-support-for-business-products).</span></span> 
+<span data-ttu-id="e9dbf-106">Эта статья содержит решения распространенных проблем при входе в центр партнеров.</span><span class="sxs-lookup"><span data-stu-id="e9dbf-106">This article contains solutions for common sign-in issues for Partner Center.</span></span>
 
-<span data-ttu-id="bf9a9-108">Если вы являетесь партнером MPN или непрямым торговым посредником CSP, вы можете попросить непрямого поставщика создать нового глобального администратора для вас в клиенте Azure AD или создать новый пароль с помощью делегированных привилегий администратора.</span><span class="sxs-lookup"><span data-stu-id="bf9a9-108">If you are an MPN partner or a CSP Indirect reseller, you can ask your Indirect provider to create a new global admin for you on your Azure AD tenant or create a new password for you using their delegated admin privileges.</span></span> 
+## <a name="youve-forgotten-your-password-for-partner-center"></a><span data-ttu-id="e9dbf-107">Вы забыли пароль для центра партнеров</span><span class="sxs-lookup"><span data-stu-id="e9dbf-107">You've forgotten your password for Partner Center</span></span>
 
-<span data-ttu-id="bf9a9-109">Для получения различных способов сброса пароля и получения доступа к рабочей учетной записи прочитайте статью [Сброс рабочего или учебного пароля с помощью сведений о безопасности](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password).</span><span class="sxs-lookup"><span data-stu-id="bf9a9-109">For different ways on how you can reset your password and regain access to your work account, read [Reset your work or school password using security info](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password).</span></span>
+<span data-ttu-id="e9dbf-108">Если вы забыли пароль и не можете войти в центр партнеров, обратитесь в службу поддержки.</span><span class="sxs-lookup"><span data-stu-id="e9dbf-108">If you have forgotten your password and can't sign into Partner Center, contact Support.</span></span> <span data-ttu-id="e9dbf-109">Найдите соответствующее контактное лицо в [службе поддержки для бизнес-продуктов](/microsoft-365/admin/contact-support-for-business-products).</span><span class="sxs-lookup"><span data-stu-id="e9dbf-109">Find the appropriate contact at [Support for Business Products](/microsoft-365/admin/contact-support-for-business-products).</span></span>
 
-<span data-ttu-id="bf9a9-110">После сброса пароля рабочей учетной записи вы сможете получить доступ к центру партнеров.</span><span class="sxs-lookup"><span data-stu-id="bf9a9-110">After your work account password has been reset, you will be able to access Partner Center.</span></span> 
+<span data-ttu-id="e9dbf-110">Если вы являетесь партнером MPN, попросите своего глобального администратора создать новый пароль.</span><span class="sxs-lookup"><span data-stu-id="e9dbf-110">If you're an MPN partner, ask your Global admin to create a new password for you.</span></span> <span data-ttu-id="e9dbf-111">Если вы являетесь непрямым торговым посредником CSP, обратитесь к непрямому поставщику, чтобы создать нового глобального администратора для вашего клиента Azure AD, или создайте новый пароль с помощью делегированных привилегий администратора.</span><span class="sxs-lookup"><span data-stu-id="e9dbf-111">If you're a CSP Indirect reseller, ask your Indirect provider to create a new Global admin for you on your Azure AD tenant or create a new password for you using their delegated admin privileges.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="bf9a9-111">Дальнейшие действия</span><span class="sxs-lookup"><span data-stu-id="bf9a9-111">Next steps</span></span>
+<span data-ttu-id="e9dbf-112">Дополнительные сведения о том, как сбросить пароль и получить доступ к рабочей учетной записи, см. в статье [Сброс пароля рабочей или учебной службы с помощью сведений о безопасности](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password).</span><span class="sxs-lookup"><span data-stu-id="e9dbf-112">To learn more about how you can reset your password and regain access to your work account, read [Reset your work or school password using security info](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password).</span></span>
 
-- [<span data-ttu-id="bf9a9-112">Проверка сведений об учетной записи</span><span class="sxs-lookup"><span data-stu-id="bf9a9-112">Verify your account information</span></span>](verification-responses.md)
-- [<span data-ttu-id="bf9a9-113">Сброс пароля</span><span class="sxs-lookup"><span data-stu-id="bf9a9-113">Reset my password</span></span>](reset-my-pasword.md)
-- [<span data-ttu-id="bf9a9-114">Сброс пароля пользователя</span><span class="sxs-lookup"><span data-stu-id="bf9a9-114">Reset a user password</span></span>](reset-a-user-password.md)
+## <a name="you-cant-view-or-manage-the-expected-pages-or-capabilities-in-partner-center"></a><span data-ttu-id="e9dbf-113">Вы не можете просматривать или управлять ожидаемыми страницами или возможностями в центре партнеров</span><span class="sxs-lookup"><span data-stu-id="e9dbf-113">You can't view or manage the expected pages or capabilities in Partner Center</span></span>
+
+<span data-ttu-id="e9dbf-114">Доступом к страницам в центре партнеров управляет назначенные роли.</span><span class="sxs-lookup"><span data-stu-id="e9dbf-114">Access to pages in Partner Center is controlled by the roles that you're assigned.</span></span> <span data-ttu-id="e9dbf-115">Чтобы проверить назначенные роли, в центре партнеров щелкните значок Параметры, выберите **Параметры учетной записи**, а затем в окне Параметры учетной записи выберите **Управление пользователями**.</span><span class="sxs-lookup"><span data-stu-id="e9dbf-115">To check which roles you're assigned, in Partner Center select the Settings icon, select **Account settings**, and then in Account settings, select **User management**.</span></span> <span data-ttu-id="e9dbf-116">В поле Поиск введите свое имя и просмотрите результаты.</span><span class="sxs-lookup"><span data-stu-id="e9dbf-116">In Search, type your name and then view the results.</span></span>
+
+<span data-ttu-id="e9dbf-117">Если вы не можете просматривать или управлять компетенциями, клиентами, поощрениями или пользователями, которые вы хотите использовать, воспользуйтесь следующими решениями.</span><span class="sxs-lookup"><span data-stu-id="e9dbf-117">If you aren't able to view or manage the competencies, customers, incentives, or users that you expect, try the following solutions:</span></span>
+
+- <span data-ttu-id="e9dbf-118">Чтобы получить доступ к возможностям MPN, CSP и ссылок, обратитесь к администратору глобального администратора или учетной записи. Дополнительные сведения о ролях и задачах, которые они включают в центре партнеров, см. в разделе [Assign roles & Permissions to Users](permissions-overview.md).</span><span class="sxs-lookup"><span data-stu-id="e9dbf-118">For access to the capabilities of MPN, CSP, and Referrals, contact your Global admin or Account admin. To learn more about roles and the tasks they enable in Partner Center, see [Assign roles & permissions to users](permissions-overview.md).</span></span>
+- <span data-ttu-id="e9dbf-119">Для доступа к возможностям коммерческого рынка и программ Windows & Xbox, магазина Office, Microsoft погранично и оборудования для разработчиков обратитесь к сотруднику в роли "владелец" или "руководитель" в вашей организации.</span><span class="sxs-lookup"><span data-stu-id="e9dbf-119">For access to the capabilities of the Commercial Marketplace and the Windows & Xbox, Office Store, Microsoft Edge, and Hardware developer programs, contact the person in the Owner or Manager role in your organization.</span></span> <span data-ttu-id="e9dbf-120">Дополнительные сведения о ролях и разрешениях см. в статье [Управление коммерческой учетной записью Marketplace в центре партнеров Майкрософт](/azure/marketplace/partner-center-portal/manage-account#define-user-roles-and-permissions).</span><span class="sxs-lookup"><span data-stu-id="e9dbf-120">To learn more about roles and permissions, see [How to manage a commercial marketplace account in Microsoft Partner Center](/azure/marketplace/partner-center-portal/manage-account#define-user-roles-and-permissions).</span></span>
+
+## <a name="you-cant-see-your-offer-or-benefits-in-partner-center"></a><span data-ttu-id="e9dbf-121">Вы не видите ваше предложение или преимущества в центре партнеров</span><span class="sxs-lookup"><span data-stu-id="e9dbf-121">You can’t see your offer or benefits in Partner Center</span></span>
+
+<span data-ttu-id="e9dbf-122">Убедитесь, что для входа используются правильные учетные данные.</span><span class="sxs-lookup"><span data-stu-id="e9dbf-122">Confirm that you are using the correct credentials to sign in.</span></span> <span data-ttu-id="e9dbf-123">Например, рабочие и личные учетные записи могут выглядеть одинаково (например abc@contoso.com ,), но одна личная учетная запись может быть создана, а другая — бизнес-учетная запись, настроенная от вашего имени.</span><span class="sxs-lookup"><span data-stu-id="e9dbf-123">For example, your work and personal accounts may look the same (such as abc@contoso.com), but one may be a personal account that you created and another may be a business account set up on your behalf.</span></span> <span data-ttu-id="e9dbf-124">В этом случае, если вы вошли в, но не можете просматривать ожидаемые возможности, связанные с MPN, CSP, коммерческим магазином, попробуйте выбрать свою рабочую учетную запись.</span><span class="sxs-lookup"><span data-stu-id="e9dbf-124">In this case, if you are signed in, but are unable to view expected capabilities related to MPN, CSP, Commercial Marketplace, try selecting your work account.</span></span>
+
+## <a name="next-steps"></a><span data-ttu-id="e9dbf-125">Дальнейшие шаги</span><span class="sxs-lookup"><span data-stu-id="e9dbf-125">Next steps</span></span>
+
+- [<span data-ttu-id="e9dbf-126">Проверка сведений об учетной записи</span><span class="sxs-lookup"><span data-stu-id="e9dbf-126">Verify your account information</span></span>](verification-responses.md)
+- [<span data-ttu-id="e9dbf-127">Сброс пароля</span><span class="sxs-lookup"><span data-stu-id="e9dbf-127">Reset my password</span></span>](reset-my-pasword.md)
+- [<span data-ttu-id="e9dbf-128">Сброс пароля пользователя</span><span class="sxs-lookup"><span data-stu-id="e9dbf-128">Reset a user password</span></span>](reset-a-user-password.md)

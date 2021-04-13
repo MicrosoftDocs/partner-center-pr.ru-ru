@@ -12,8 +12,6 @@
     - name: Создание учетной записи MPN в Центре партнеров
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
-    - name: Получение рабочего адреса электронной почты
-      href: buy-email-domain.md
     - name: Устранение неполадок с настройкой учетной записи
       href: troubleshoot-account-sign-n.md
     - name: Переход на Центр партнеров
@@ -246,7 +244,7 @@
           href: reset-a-user-password.md
         - name: Сброс пароля
           href: reset-my-pasword.md
-        - name: Пользователь не может войти
+        - name: Устранение неполадок при входе
           href: unable-to-sign-in.md
         - name: У пользователя нет администратора MPN
           href: no-mpn-admin.md
@@ -390,8 +388,6 @@
     - name: Основы выставления счетов
       href: billing-basics.md
       displayName: invoice
-    - name: Способы выставления счетов в Центре партнеров
-      href: billing-different-types.md
     - name: Интерпретация счета
       href: read-your-bill.md
       displayName: invoice
