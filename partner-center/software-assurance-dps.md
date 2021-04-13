@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: 9ab6afc85a696b3b614ea5c3b5edc644d92bfc21
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024999"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266509"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Прекращение использования служб планирования Software Assurance
 
@@ -35,7 +35,6 @@ ms.locfileid: "107024999"
 >[!NOTE]
 >Нет изменений в жизненном цикле ваучера. После создания или назначения операции резервирование ваучера, участие клиента и активация ваучера должны быть завершены в течение 180 дней до истечения срока действия документа.  Дополнительные сведения о прекращении использования программы для служб планирования см. в разделе часто задаваемые [вопросы для получения](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) дополнительных сведений (требуется вход).  Направляйте свои вопросы в службу поддержки регионального партнера по языку [EMEA](mailto:savoucher@msdirectservices.com). [Общая поддержка партнеров](https://partner.microsoft.com/dashboard/support/servicerequests)
 
-## <a name="until-june-30-2021"></a>До 30 июня 2021 г.
 
 ### <a name="get-started"></a>Начало работы
 
@@ -112,7 +111,7 @@ ms.locfileid: "107024999"
 
 Чтобы отправить счет в корпорацию Майкрософт через САВБ, следуйте инструкциям на [шаге 8](https://go.microsoft.com/fwlink/?linkid=2115983) рабочего процесса.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - [Рабочий процесс служб планирования Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [Вопросы и ответы по службам планирования Software Assurance](https://go.microsoft.com/fwlink/?linkid=2116077)

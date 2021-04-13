@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a3b00db6b48d95da58cdc130832ba5dc1ab990f
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 4e7ff0ae1f5ca99cee25e3fa8740212d0b697f70
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556384"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132950"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Станьте партнером корпорации Майкрософт и ознакомьтесь с преимуществами членства
 
@@ -22,7 +22,7 @@ ms.locfileid: "96556384"
 
 - Глобальный администратор
 - Администратор партнера MPN
-- администратор пользователей.
+- Администратор управления пользователями
 - Агент по администрированию
 
 Microsoft Partner Network (MPN) предлагает самый широкий спектр продуктов в отрасли, а также варианты программ, которые помогут вам сделать свой бизнес уникальным, выйти на рынок и продавать свои решения. Присоединяйтесь бесплатно, а затем выберите способ участия в качестве партнера: с помощью Microsoft Action Pack, начального набора или компетенций.
