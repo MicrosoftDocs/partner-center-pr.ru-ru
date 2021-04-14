@@ -14,14 +14,6 @@
       displayName: mpn
     - name: Устранение неполадок с настройкой учетной записи
       href: troubleshoot-account-sign-n.md
-    - name: Переход на Центр партнеров
-      items:
-        - name: 'Переход с PAC: общие сведения'
-          href: pac-to-pc-overview.md
-        - name: Сравнение задач в PAC и PC
-          href: moving-from-pac-to-pc.md
-        - name: Выполнение задач PAC в PC
-          href: o365-partner-admin-center-to-partner-center.md
     - name: Переход с PMC
       items:
         - name: Подготовка к миграции из PMC
@@ -159,8 +151,6 @@
     - name: 'Соглашения, прайс-листы и предложения в рамках CSP'
       href: csp-documents-and-learning-resources.md
       displayName: csp
-    - name: Приложение для управления затратами Azure от Cloudyn для участников программы CSP
-      href: azure-cost-management-app-for-csp-partners.md
     - name: Региональные рынки и валюты в рамках CSP
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
