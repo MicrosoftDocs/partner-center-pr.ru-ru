@@ -1,7 +1,7 @@
 ---
 title: Глобальные рынки CSP
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 04/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Ознакомьтесь с странами, регионами и валютами, в которых можно продать предложения CSP на основе расположения вашей компании.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98ad8e3f78b8181013b21d6146744337de6976bd
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926667"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528608"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Региональные рынки и валюты поставщика облачных решений, где можно продать предложения CSP
 
@@ -24,10 +24,15 @@ ms.locfileid: "96926667"
 
 Прежде чем вы сможете заказать предложения CSP от имени клиента, клиенту следует принять и подписать Клиентское соглашение Майкрософт. Применимое соглашение клиента Майкрософт для вашего региона или страны можно найти [здесь](agreements.md).
 
+## <a name="azure-plan-for-csp-region-availability"></a>План Azure для доступности региона CSP  
+
+План Azure для CSP доступен в меньшем количестве регионов, чем программное обеспечение Azure для CSP.  Обратитесь к статье о  [приобретении плана Azure](purchase-azure-plan.md) , чтобы просмотреть последние обновления по региональным сведениям о доступности для плана Azure. 
+
 >[!IMPORTANT]
 > Необходимо подтвердить, что клиент принял соглашение с клиентами Майкрософт, предоставив сведения о пользователе, который его подписал. Ознакомьтесь с разделом [Подтверждение принятия клиентом условий Клиентского соглашения Майкрософт](confirm-consent.md), чтобы узнать больше.
 
 Чтобы определить, где можно продать предложения CSP, найдите расположение своей компании в одном из списков ниже. Необходимо иметь активный идентификатор Microsoft Partner Network (MPN) для расположения, в котором вы хотите продать.  
+
 
 ## <a name="for-unsupported-countries"></a>Для неподдерживаемых стран
 
@@ -217,7 +222,7 @@ ms.locfileid: "96926667"
 |  Шпицберген и Ян-Майен|NOK|
 |  Швеция         |   SEK    |
 |  Швейцария    |   CHF    |
-|  Соединенное Королевство             |   GBP    |
+|  Великобритания             |   GBP    |
 |  Ватикан   |          |
 |
 
@@ -349,7 +354,7 @@ ms.locfileid: "96926667"
 |  Катар          |   USD    |
 |  Саудовская Аравия   |   USD    |
 |  Сербия         |   USD    |
-|  Южно-Африканская Республика   |   USD    |
+|  ЮАР   |   USD    |
 |  Свазиленд      |   USD    |
 |  Таджикистан     |   USD    |
 |  Тунис        |   USD    |

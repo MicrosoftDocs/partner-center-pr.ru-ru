@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a662e0b815c979b3454762c5b35eb510887c96ad
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.openlocfilehash: 6c3c3a672de015c9f38fa0e34232da8d9913177c
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374404"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528564"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Фактическое Вычисление цены за единицу для использования плана Azure
 
@@ -53,7 +53,9 @@ ms.locfileid: "106374404"
 - **Эффективная цена единицы** = БКУ/BC
 
 >[!NOTE]
->В этом примере счетчик не имеет уровней цен. Эффективные коэффициенты цены за единицу в процентах скидки и других корректировках.
+
+>Примечание. в этом примере у измерения нет уровней ценообразования или других скидок — эффективных коэффициентов единиц измерения в процентах скидки и других корректировок.
+
 
 | Дата | БКУ (оплачиваемая единица потребления) | BC (оплачиваемая стоимость) | Эффективная цена за единицу |
 | ------ | ----------- | ----------- | ----------- |  
@@ -61,6 +63,6 @@ ms.locfileid: "106374404"
 | 10 августа | 210,950039 | 155,63 | 0.737757626107858 |
 | 25-Авг | 555,950039 | 410,17 | 0.737782122900436 |
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Выставление счетов и налоги](billing.md)
