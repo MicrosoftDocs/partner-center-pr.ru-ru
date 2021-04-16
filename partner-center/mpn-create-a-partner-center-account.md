@@ -1,7 +1,7 @@
 ---
 title: Создание учетной записи MPN в Центре партнеров
 ms.topic: article
-ms.date: 03/18/2021
+ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Узнайте, как участники Microsoft Partner Network могут создать учетную запись Центра партнеров для управления своими преимуществами и компетенциями в рамках партнерской сети.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712925"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266543"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Создание учетной записи MPN в Центре партнеров для управления преимуществами и компетенциями партнерской сети
 
@@ -25,7 +25,7 @@ ms.locfileid: "104712925"
 
 Когда вы будете готовы создать учетную запись в Центре партнеров, вам потребуются указанные ниже элементы.  Рекомендуем потратить несколько минут, чтобы собрать эти сведения, прежде чем начать:
 
-- Рабочий адрес электронной почты организации ИЛИ рабочая учетная запись Office 365. Дополнительные сведения см. в статье об [использовании рабочей учетной записи вашей компании и Центра партнеров](azure-active-directory-tenants-and-partner-center.md). 
+- Рабочий адрес электронной почты организации ИЛИ рабочая учетная запись Office 365. Чтобы настроить рабочие адреса электронной почты для сотрудников, возможно, вашей организации потребуется приобрести почтовый домен. Дополнительные сведения см. в разделе [об использовании рабочей учетной записи вашей компании и Центра партнеров](azure-active-directory-tenants-and-partner-center.md). 
  
 - Официальное название вашей организации и адрес.
 
