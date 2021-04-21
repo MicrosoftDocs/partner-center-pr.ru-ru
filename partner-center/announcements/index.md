@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/08/2021
-ms.openlocfilehash: 9fd3dcb98ec0105e17fb107ba75c35916cd108db
-ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
+ms.date: 04/19/2021
+ms.openlocfilehash: b96832fe4450cadd2da83e4cf9697f1f16bc81a3
+ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/17/2021
-ms.locfileid: "107584195"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "107728952"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,7 @@ ms.locfileid: "107584195"
 
 |**Категория**|**Объявления за апрель 2021 года**|**Объявлено**|
 |---------|:---------|:---------|
+|Развивайте свой бизнес|[Программа Open License: переход торговых посредников на программу "Поставщик облачных решений" (CSP)](2021-april.md#7)|19 апреля|
 |Возможности|[Уже доступно: руководство по подготовке к реализации глобальных рекламных акций](2021-april.md#6)|16 апреля|
 |Сообщество: приглашения и напоминания|[Обновление сообщества и напоминания, касающиеся программы "Поставщик облачных решений" (CSP), за апрель](2021-april.md#5)|16 апреля|
 |Возможности|[Напоминание: поддержка квалификации GET будет прекращена 4 мая 2021 г.](2021-april.md#4)|9 апреля|

@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: 6a03d06b858f2932621dc0e50a571a17708be3bc
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 3aacafcbf839ad2e862ef968ca0b2f132c55a825
+ms.sourcegitcommit: 7d1396a832517d5d8dddc45ca29481aac9b8dde5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086657"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "107742126"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Обзор услуг технической поддержки по предпродажной подготовке и развертыванию (TPD) 
 
@@ -41,6 +41,18 @@ ms.locfileid: "106086657"
 Войдите с помощью любой учетной записи пользователя MPN, чтобы **[создать запрос на услуги технической поддержки по предпродажной подготовке и развертыванию (TPD)](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (активация технического преимущества не требуется).
 
 :::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="Преимущества технической поддержки в предпродажной работе и развертывании" :::
+
+## <a name="in-scope-products-and-services"></a>Продукты и услуги в области действия
+
+Техническая поддержка по предпродажной подготовке и развертыванию распространяется на следующие продукты и службы:
+- **Microsoft 365.** Все компоненты Microsoft Office 365, такие как Microsoft Teams, Exchange Online, SharePoint Online, OneDrive, Yammer, Project Online, Skype для бизнеса Server 2019, Enterprise Mobility + Security, Microsoft Intune, Azure Active Directory, Azure Information Protection.
+  - *Вне области действия: только локальные серверные решения Office (Exchange Server и SharePoint Server)* .
+- **Бизнес-приложения.** Microsoft Dynamics 365 (Online), Microsoft Power Platform (Power Apps, Power Automate, Power BI).
+  - *Вне области действия: только локальные версии Dynamics 365, GP, SL, AX, NAV*.
+- **Microsoft Azure.** Все решения Microsoft Azure и связанные с ними службы, такие как инфраструктура как услуга, платформа как услуга, платформа данных, службы бизнес-аналитики, Cognitive Services, Машинное обучение Azure, Azure Stack.
+- **Windows Server.** Основная поддерживаемая версия Windows Server (в соответствии с **[жизненным циклом продукта](https://docs.microsoft.com/lifecycle/policies/fixed)** ).
+  - System Center включает связанные продукты, такие как SCCM, если они используются в облачных или гибридных сценариях.
+- **Windows 10.** Операционная система, устройства и универсальные приложения Windows 10.
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Отправка запроса на услуги технической поддержки по предпродажной подготовке и развертыванию 
 
