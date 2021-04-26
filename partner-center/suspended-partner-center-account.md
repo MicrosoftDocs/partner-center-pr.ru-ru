@@ -9,16 +9,14 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd0f1065e426a77beafe031c1e7b304fa910eeb0
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: d9366ccb7c091fded16387c963dc2f2eab4b2d88
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441563"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002830"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Восстановление заблокированной учетной записи в Центре партнеров. Почему это происходит, и что делать в таких случаях
-
-В этой статье объясняется, что делать, если учетная запись Центра партнеров заблокирована.
 
 **Относится к**
 
@@ -28,6 +26,7 @@ ms.locfileid: "106441563"
 
 - Глобальный администратор
 
+В этой статье объясняется, что делать, если учетная запись Центра партнеров заблокирована.
 
 > [!IMPORTANT]  
 > Если ваша учетная запись в Центре партнеров заблокирована, вы можете управлять существующими развертываниями, лицензиями и службами. Но вы не сможете авторизовать или перепродать новые лицензии или службы, пока ваша учетная запись не будет восстановлена.

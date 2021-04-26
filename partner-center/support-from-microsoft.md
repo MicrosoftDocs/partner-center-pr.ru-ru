@@ -4,25 +4,29 @@ ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: При возникновении проблемы в работе службы Майкрософт или с Центром партнеров вы можете сообщить о проблеме в Майкрософт для получения помощи и отслеживать этот вопрос до его решения.
+description: Если у вас возникли проблемы со службой Майкрософт или центром партнеров, вы можете получить помощь в корпорации Майкрософт и решить проблему, пока она не будет решена.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6f10d1266d9de0cb166580f070f3d05e8f61092b
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: a22dd2a8ec8ce3da3aa0967741685a2f28cc0a15
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441613"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002813"
 ---
-# <a name="support-from-microsoft---when-to-escalate-issues-how-to-report-them-or-how-to-check-service-health"></a>Поддержка корпорации Майкрософт в случае эскалации проблем, их сообщения или проверки работоспособности служб
+# <a name="support-from-microsoft"></a>Поддержка от Майкрософт
 
 **Относится к**
 
 - Центр партнеров для Microsoft Cloud for US Government
 
-При возникновении проблемы в работе службы Майкрософт или с Центром партнеров вы можете сообщить о проблеме в Майкрософт для получения помощи и отслеживать этот вопрос до его решения.
+**Соответствующие роли**
+
+- Агент справки
+
+Если у вас возникли проблемы со службой Microsoft или центром партнеров, сообщите о проблеме в корпорацию Майкрософт, передайте ее в корпорацию Майкрософт, чтобы получить помощь и отследите от проблемы до ее устранения.
 
 [Поддержка центра партнеров](report-problems-with-partner-center.md) . Получите помощь и создайте билеты для всех программ центра партнеров.
 
@@ -32,10 +36,9 @@ ms.locfileid: "106441613"
 
 [Получайте автоматические уведомления службы с помощью наших API](get-automated-service-notifications-with-our-apis.md) — поставщики облачных решений могут получать автоматические уведомления о службах своих клиентов.
 
+## <a name="next-steps"></a>Дальнейшие действия
 
- 
-
- 
-
-
-
+- [Просмотреть дополнительные ресурсы поддержки](https://partner.microsoft.com/support/?stage=1)
+- [Поиск партнера](find-a-partner.md)
+- [Сведения о программе MPN и о регистрации в ней](https://partner.microsoft.com/membership)
+- [Сведения о программе CSP и его регистрация](https://partner.microsoft.com/membership/cloud-solution-provider)

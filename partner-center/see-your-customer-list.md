@@ -9,18 +9,23 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 244a8cfc661b371b611a19a5c90ddf131b42a46a
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 1791d415d0004520e8c7dc950decf540c91cf003
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441971"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002847"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Управление списком клиентов — Поиск, обновление или экспорт клиентов в центре партнеров
 
 **Относится к**
 
 - Центр партнеров для Microsoft Cloud for US Government
+
+**Соответствующие роли**
+
+- Агент по администрированию
+- Глобальный администратор
 
 Записи клиентов — один из важнейших типов данных в Центре партнеров. Вы можете выполнять поиск в базе учетных записей клиентов, экспортировать всю базу данных клиентов или подмножество в совместимый с Excel файл с разделителями-запятыми (.csv). Вы также можете экспортировать сведения о подписках клиента в CSV-файл.
 

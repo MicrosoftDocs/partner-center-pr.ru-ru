@@ -9,18 +9,22 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: 886c39d192316987dcb68bff4d75302cc18a1305
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: b21bfcae4472763c19481ad506ae1c72d238e8f0
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441920"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002912"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Сведения о передаче клиентской подписки Azure другому партнеру
 
 **Относится к**
 
 - Центр партнеров для Microsoft Cloud for US Government
+
+**Соответствующие роли**
+
+- Глобальный администратор
 
 В этой статье описывается, как клиент может переключить свои Microsoft Azureные службы с одного поставщика облачных решений (CSP) на другой.
 

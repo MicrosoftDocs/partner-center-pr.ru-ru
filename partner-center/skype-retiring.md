@@ -9,14 +9,18 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: 67c1689136892443937748b6cc9e31e4f0ac9983
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: f395987ef647fa6f7ed264c6476ddae419eabc34
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028423"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002864"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Перенос подписок Плана 1 для Skype для бизнеса Online в новые версии Office 365
+
+**Соответствующие роли**
+
+- Агент по продажам
 
 Срок действия Skype для бизнеса Online 1 будет прекращен, начиная с 1 августа 2018. После этой даты клиенты больше не могут приобрести новые подписки на План 1 для Skype для бизнеса, а существующие подписки не будут продляться автоматически после окончания их срока действия и способа продлить их не будет. На странице сведений подписки состояние подписки "План 1 для Skype для бизнеса Online" изменено с "Дата автоматического продления: [дата]" на "Срок действия истекает: [дата]".  
 
@@ -76,3 +80,8 @@ ms.locfileid: "105028423"
 
 Старая подписка приостанавливается, а новая — активируется. Приостановленная подписка будет автоматически отозвана через 120 дней. Клиент не несет дополнительных затрат на старую подписку.
 
+## <a name="next-steps"></a>Дальнейшие действия
+
+- [Advisor: создание и отправка приглашения на пробную версию клиентов для использования Office 365](advisors-create-a-trial-invitation.md)
+- [Advisor: создание базы клиента с помощью приглашений пробной версии Office 365 и предложений по приобретению](advisors-build-your-business.md)
+- [Advisor: создание предложения о покупке](advisor-create-a-purchase-offer.md)
