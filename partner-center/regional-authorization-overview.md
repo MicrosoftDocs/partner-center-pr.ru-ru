@@ -9,14 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 33d4a3745c8e9de87c9d1ef4ef86dec7c79db1b0
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528608"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120772"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Региональные рынки и валюты поставщика облачных решений, где можно продать предложения CSP
+
+**Соответствующие роли**
+
+- Глобальный администратор
 
 Расположение вашей компании определяет ваш рынок. На рынке представлены регионы и (или) страны, в которых можно продать предложения программы поставщика облачных решений (CSP).
 
@@ -26,7 +30,7 @@ ms.locfileid: "107528608"
 
 ## <a name="azure-plan-for-csp-region-availability"></a>План Azure для доступности региона CSP  
 
-План Azure для CSP доступен в меньшем количестве регионов, чем программное обеспечение Azure для CSP.  Обратитесь к статье о  [приобретении плана Azure](purchase-azure-plan.md) , чтобы просмотреть последние обновления по региональным сведениям о доступности для плана Azure. 
+План Azure для CSP доступен в меньшем количестве регионов, чем программное обеспечение Azure для CSP. Последние обновления по региональной доступности плана Azure см. [в статье приобретение плана Azure](purchase-azure-plan.md).
 
 >[!IMPORTANT]
 > Необходимо подтвердить, что клиент принял соглашение с клиентами Майкрософт, предоставив сведения о пользователе, который его подписал. Ознакомьтесь с разделом [Подтверждение принятия клиентом условий Клиентского соглашения Майкрософт](confirm-consent.md), чтобы узнать больше.
@@ -40,7 +44,7 @@ ms.locfileid: "107528608"
 
 - Партнеры прямого счета используют следующий URL-адрес: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Замените **партнертенантгуид** своим идентификатором клиента. 
 
-- URL-адрес косвенных торговых посредников: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . **Иртенантгуид** будет заменен идентификатором клиента. Замените **ИРМПНИД** идентификатором MPN и замените **иптенантгуид** идентификатором клиента непрямого поставщика.
+- URL-адрес косвенных торговых посредников: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Замените **иртенантгуид** своим идентификатором клиента. Замените **ИРМПНИД** идентификатором MPN и замените **иптенантгуид** идентификатором клиента непрямого поставщика.
 
 ## <a name="africa-region-and-market"></a>Регион и рыночный Африка
 
@@ -222,7 +226,7 @@ ms.locfileid: "107528608"
 |  Шпицберген и Ян-Майен|NOK|
 |  Швеция         |   SEK    |
 |  Швейцария    |   CHF    |
-|  Великобритания             |   GBP    |
+|  Соединенное Королевство             |   GBP    |
 |  Ватикан   |          |
 |
 
@@ -354,7 +358,7 @@ ms.locfileid: "107528608"
 |  Катар          |   USD    |
 |  Саудовская Аравия   |   USD    |
 |  Сербия         |   USD    |
-|  ЮАР   |   USD    |
+|  Южно-Африканская Республика   |   USD    |
 |  Свазиленд      |   USD    |
 |  Таджикистан     |   USD    |
 |  Тунис        |   USD    |
