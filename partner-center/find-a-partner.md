@@ -8,18 +8,18 @@ description: В качестве партнера Майкрософт вы мо
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b056d21fd1581c9fa478f720addec0c1d4c3c87
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: df7ae61a88852d6ef2e4c1cb210b689a20235d0c
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89041048"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172342"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Поиск партнера или поставщика решений для получения ответов на вопросы о программах, лицензировании или сделках клиента 
 
-**Относится к**
+**Соответствующие роли**
 
-- Партнеры Microsoft MPN, партнеры CSP и другие
+- Все партнеры Майкрософт
 
 В этой статье мы расскажете партнерам корпорации Майкрософт, как найти других партнеров, которые могут помочь им и клиентам в успешности работы с продуктами и службами Майкрософт.
 
