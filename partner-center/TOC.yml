@@ -151,6 +151,8 @@
     - name: 'Соглашения, прайс-листы и предложения в рамках CSP'
       href: csp-documents-and-learning-resources.md
       displayName: csp
+    - name: Сведения о коде регистрации
+      href: reg-number-id.md
     - name: Региональные рынки и валюты в рамках CSP
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
