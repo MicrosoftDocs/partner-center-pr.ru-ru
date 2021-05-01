@@ -10,18 +10,23 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c1bc49562e3d58d5e4010a4be7af36a99c8abe6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e0e97b0d5bde09e499793576f9c3dbe4a7ffd522
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000628"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284525"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud в Германии
 
 **Относится к**
 
--  Центр партнеров Microsoft Cloud в Германии
+- Центр партнеров Microsoft Cloud в Германии
+
+**Соответствующие роли**
+
+- Глобальный администратор
+- Администратор учетных записей
 
 > [!IMPORTANT]
 > Учитывая развитие потребностей клиентов, Наша облачная стратегия для Германии посвящена доставке новых облачных регионов в Германии, которые соответствуют нашему глобальному облачному предложению. С этим фокусом мы больше не будем принимать новых клиентов или развертывать новые службы из доступных в настоящее время Microsoft Cloud Германии. Существующие клиенты могут продолжать использовать текущие облачные службы, доступные сегодня, которые мы будем поддерживать с помощью необходимых обновлений для системы безопасности.
@@ -41,7 +46,7 @@ ms.locfileid: "91000628"
 
 Если вы выполнили вход в Центр партнеров Microsoft Cloud в Германии, можно открыть портал Azure для Microsoft Cloud в Германии без необходимости повторно входить в систему. Однако если вам нужно войти непосредственно в портал Azure для Microsoft Cloud Германии, перейдите по адресу [https://portal.microsoftazure.de](https://portal.microsoftazure.de) . 
 
-После успешного входа на портал Azure для Microsoft Cloud в Германии откройте страницу обзора Azure Active Directory (Azure AD), а затем следуйте инструкциям, представленным в следующих разделах:
+После успешного входа в портал Azure для Microsoft Cloud Германии откройте страницу обзора Azure Active Directory (Azure AD) и следуйте инструкциям в следующих статьях:
 
 > [!NOTE]  
 > Перейдя по приведенным ниже ссылкам, вы перейдете на другой веб-сайт.

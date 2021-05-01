@@ -9,14 +9,18 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: 3aacafcbf839ad2e862ef968ca0b2f132c55a825
-ms.sourcegitcommit: 7d1396a832517d5d8dddc45ca29481aac9b8dde5
+ms.openlocfilehash: b6af92907f56f85435cf3fb1c16b13196cf35e08
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "107742126"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284491"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Обзор услуг технической поддержки по предпродажной подготовке и развертыванию (TPD) 
+
+**Соответствующие роли**
+
+- Администратор партнера MPN
 
 Узнайте о преимуществах Microsoft Partner Network (MPN), которые предоставляются в виде услуг технической поддержки по предпродажной подготовке и развертыванию, включая консультации, помощь в подготовке к продаже, часы оказания консультационных услуг и многое другое.
 
