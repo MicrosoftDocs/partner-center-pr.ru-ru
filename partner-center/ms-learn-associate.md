@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32a41ac1695d40cf300b76af96ce824fcd48122d
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 74fc22180aabf15dc6dd4109afb51518ccad5f10
+ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712806"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108067513"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Связывание идентификатора профиля сертификации Майкрософт (MCID) с учетной записью Microsoft Partner Network (MPN) и отмена такой привязки
 
@@ -73,9 +73,9 @@ ms.locfileid: "104712806"
 
 Администратору сначала необходимо проверить правильность адреса электронной почты,а затем связаться с пользователем, которому были предоставлены сведения для входа в учетную запись.
 
-### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited"></a>Пользователь пытается связать свою учетную запись MCP Learning с профилем в Центре партнеров и получает сообщение о том, что число связываний ограничено.
+### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited-for-example-you-have-attempted-to-associate-with-a-partner-organization-however-we-require-a-period-of-30-days-between-associations-your-next-available-date-for-a-subsequent-association-is-xxx"></a>Пользователь пытается связать свою учетную запись MCP Learning с профилем в Центре партнеров и получает сообщение о том, что число связываний ограничено. Например, сообщение о том, что вы попытались создать связь с партнерской организацией, но между созданиями таких связей должен быть интервал в 30 дней. Доступная дата для создания следующей связи — XXX.
 
-Для защиты от злоупотреблений каждому участнику MCP ежегодно предоставляется ограниченное число связываний. Каждый пользователь может просмотреть дату в своем профиле и узнать, когда можно создать новое связывание. Если у пользователя возникают проблемы со связыванием после этой даты, следует направить заявку в службу поддержки.  
+Для защиты от злоупотреблений каждому участнику MCP ежегодно предоставляется ограниченное число связей, а конкретно 3 связи. Между созданием таких связей должен быть интервал в 30 дней, который начинается с момента действия связи. Каждый пользователь может просмотреть дату в своем профиле и узнать, когда можно создать новое связывание. Если у пользователя возникают проблемы со связыванием после этой даты, следует направить заявку в службу поддержки.  
 
 ## <a name="how-to-get-support"></a>Получение поддержки
 

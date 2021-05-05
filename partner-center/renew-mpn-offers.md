@@ -9,18 +9,22 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c0386d6cbaba1094659c76a3bd274d88e4fe948
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 779f785899039765ba4a9da42d3e6bb4a828976d
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549113"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018090"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Возобновление действия предложений MPN для компетенций и дополнительных специализаций в период продления
 
+**Соответствующие роли**
+
+- Администратор партнера MPN
+
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Реагирование на события, связанные с COVID-19. Обновление Microsoft Partner Network
 
-Корпорация Майкрософт предлагает расширение компетенций (за исключением компетенции "Облачные бизнес-приложения") и дополнительных специализаций для партнеров с датами годовщины (AD) с 1 января 2021 г. по 30 июня 2021 г. Дополнительные сведения см. в [записи блога нашего партнера](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
+Корпорация Майкрософт предлагает расширение компетенций (кроме компетенции "Облачные бизнес-приложения") и дополнительных специализаций для партнеров со сроками окончания действия в числах с 1 января 2021 г. по 30 июня 2021 г. Дополнительные сведения см. в [этой записи блога для партнеров](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 
 ## <a name="renewal-reminders"></a>Напоминания о продлении
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/27/2021
-ms.openlocfilehash: 935aef8dd3b19462c162911c893a49c3d6c7d337
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: b6b16a8453d9e93e2600c53bedcef7dc29c14e16
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172439"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328038"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,7 @@ ms.locfileid: "108172439"
 
 |**Категория**|**Объявления за апрель 2021 года**|**Объявлено**|
 |---------|:---------|:---------|
+|Готовность|[В июне будет выпущен обновленный API проверки адресов клиентов в рамках CSP; уже доступна возможность тестирования](2021-april.md#10)|30 апреля|
 |Возможности|[Новое расположение документации по Swagger API Центра партнеров](2021-april.md#9)|26 апреля|
 |Возможности|[Политика периода возврата программного обеспечения в рамках программы "Поставщик облачных решений" и уведомление об истечении срока действия ссылки для скачивания](2021-april.md#8)|21 апреля|
 |Развивайте свой бизнес|[Программа Open License: переход торговых посредников на программу "Поставщик облачных решений" (CSP)](2021-april.md#7)|19 апреля|
