@@ -30,8 +30,11 @@
         - name: Активация преимуществ для PMC
           href: partner-membership-center-tech-benefits-activate.md
           displayName: mpn
-    - name: Предложения в рамках членства
+    - name: Преимущества членства
       items:
+        - name: Обзор преимуществ
+          href: manage-your-partner-network-benefits.md
+          displayName: mpn
         - name: Action Pack
           href: mpn-get-action-pack.md
           displayName: 'renew, mpn'
@@ -44,50 +47,21 @@
         - name: Поиск преимуществ MPN
           href: mpn-find-benefits.md
           displayName: mpn
-        - name: Плата за компетенции
-          href: mpn-pay-fee-silver-gold-competency.md
-          displayName: mpn
-    - name: Компетенции
+        - name: 'Политика предоставления и использование преимуществ: часто задаваемые вопросы'
+          href: benefits-faq-new.md
+        - name: Часто задаваемые вопросы о преимуществах
+          href: benefits-faq.md
+          displayName: 'renew, license,'
+        - name: Просмотр или скачивание счета MPN
+          href: mpn-view-print-maps-invoice.md
+    - name: Доступные преимущества
       items:
-        - name: Сведения о компетенциях
-          href: learn-about-competencies.md
-          displayName: mpn
-        - name: Регистрация в качестве партнера по обучению
-          href: mpn-benefits-map-competency-learning-option-enroll.md
-          displayName: mpn
-        - name: Часто задаваемые вопросы о компетенциях
-          href: competencies-faq.md
-          displayName: 'renew, mpn'
-        - name: Исключение компетенции для разработки приложений
-          href: app-dev-isv.md
-        - name: Использование отчета о навыках
-          href: mpn-skills-report.md
-    - name: Дополнительные специализации
-      items:
-        - name: Демонстрация вашего опыта
-          href: advanced-specializations.md
-          displayName: mpn
-        - name: Подача заявки и проверка статуса
-          href: advanced-specializations-apply.md
-          displayName: mpn
-    - name: Как стать участником программы Azure Expert MSP
-      href: azure-expert-msp.md
-    - name: Преимущества
-      items:
-        - name: Обзор преимуществ
-          href: manage-your-partner-network-benefits.md
-          displayName: mpn
         - name: Преимущества для выхода на рынок
           href: mpn-learn-about-go-to-market-benefits.md
           displayName: mpn
         - name: Ролики для партнеров MPN
           href: mpn-demos.md
           displayName: mpn
-        - name: 'Политика предоставления и использование преимуществ: часто задаваемые вопросы'
-          href: benefits-faq-new.md
-        - name: Часто задаваемые вопросы о преимуществах
-          href: benefits-faq.md
-          displayName: 'renew, license,'
         - name: Azure и преимущества облака
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
@@ -118,11 +92,33 @@
           items:
             - name: Требования для использования специального предложения
               href: software-assurance-dps-requirements.md
-    - name: Счета и налоги
-      href: mpn-view-print-maps-invoice.md
-      displayName: 'invoice, mpn'
-    - name: Тестирование новых функций
-      href: test-drive-new-features.md
+    - name: Компетенции
+      items:
+        - name: Сведения о компетенциях
+          href: learn-about-competencies.md
+          displayName: mpn
+        - name: Регистрация в качестве партнера по обучению
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
+        - name: Часто задаваемые вопросы о компетенциях
+          href: competencies-faq.md
+          displayName: 'renew, mpn'
+        - name: Плата за компетенции
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
+        - name: Исключение компетенции для разработки приложений
+          href: app-dev-isv.md
+        - name: Использование отчета о навыках
+          href: mpn-skills-report.md
+    - name: Дополнительные специализации
+      items:
+        - name: Демонстрация вашего опыта
+          href: advanced-specializations.md
+        - name: Подача заявки и проверка статуса
+          href: advanced-specializations-apply.md
+          displayName: mpn
+    - name: Как стать участником программы Azure Expert MSP
+      href: azure-expert-msp.md
 - name: Поставщик облачных решений (CSP)
   href: csp-overview.md
   displayName: csp
@@ -141,7 +137,7 @@
       displayName: 'indirect, reseller, csp'
     - name: Клиентские соглашения Майкрософт (по региону и языку)
       href: agreements.md
-      displayName: 'regio, region, MPA'
+      displayName: 'region, MPA'
     - name: Ограниченный доступ к прямому выставлению счетов
       href: restricted-direct-bill-capabilities.md
       displayName: 'indirect, reseller'
@@ -579,6 +575,8 @@
         - name: Перенос подписок Azure
           href: switch-azure-subscriptions-to-a-different-partner.md
           displayName: csp
+        - name: Передача подписок в рамках плана Azure клиента другому партнеру
+          href: transfer-azure-subscriptions-under-azure-plan.md
     - name: Подписки на программное обеспечение
       href: csp-software-subscriptions.md
       displayName: 'subscription, cancel'

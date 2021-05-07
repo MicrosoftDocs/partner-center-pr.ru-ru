@@ -7,12 +7,12 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 8f680753216ea9cd515c8082495b390c7bf95a62
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028440"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702813"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Настройка счета для выплат и налоговых форм
 
@@ -145,7 +145,7 @@ ms.locfileid: "105028440"
 
 Распространенные вопросы о получении выплат на PayPal:
 
-- **Какие настройки PayPal необходимы для получения платежей?** Убедитесь, что ваша учетная запись PayPal не блокирует платежи электронными чеками. Этот параметр настраивается на странице "Параметры получения платежей" в PayPal. Дополнительные сведения см. на [странице настройки учетной записи PayPal](https://go.microsoft.com/fwlink/p/?linkid=513139).
+- **Какие настройки PayPal необходимы для получения платежей?** Убедитесь, что ваша учетная запись PayPal не блокирует платежи электронными чеками. Этот параметр настраивается на странице "Параметры получения платежей" в PayPal. Дополнительные сведения см. на [странице настройки учетной записи PayPal](https://go.microsoft.com/fwlink/?linkid=2162542).
 
 - **Поддерживается ли моя страна или регион?** Узнать, поддерживаются ли выплаты на PayPal, можно в статье [Минимальные суммы, способы и сроки выплат](payment-thresholds-methods-timeframes.md).
 

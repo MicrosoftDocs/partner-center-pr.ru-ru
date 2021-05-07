@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ff320124230ec8e0b3505b1c1dbbb7c811cb67f
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120723"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702796"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Поля файла сверки одноразовой покупки CSP
 
@@ -33,12 +33,12 @@ ms.locfileid: "108120723"
 | CustomerId | Уникальный идентификатор Майкрософт для клиента в формате GUID. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | Название организации клиента, указанное в Центре партнеров. Этот столбец важен для согласования счета со сведениями о системе. | *Джонни современный Cust DE2* |
 | CustomerDomainName | Доменное имя клиента. | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | Страна, в которой находится ваш клиент. См. полный [список стран](./regional-authorization-overview.md) для вашего региона.  | *RU* |
+| CustomerCountry | Страна, в которой находится ваш клиент. См. полный [список стран](./regional-authorization-overview.md) для вашего региона.  | *DE* |
 | InvoiceNumber | Номер счета, связанный с файлом сверки.  | *G002297372* |
 | MpnId | Идентификатор MPN партнера CSP. Дополнительные сведения см. [в разделе как выполнить детализацию по партнерам](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
 | реселлермпнид | MPN Идентификатор торгового посредника записи для подписки. | *6048879* |
 | OrderId | Уникальный порядковый идентификатор платформы выставления счетов Майкрософт. При обращении в службу поддержки может оказаться полезным указать заказ. Не используется для сверки. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
-| OrderDate | Дата размещения заказа. | *10/3/2020* |
+| OrderDate | Дата в формате UTC, когда был помещен заказ. | *10/3/2020* |
 | ProductId | Уникальный идентификатор продукта. | *DZH318Z0BNZ5* |
 | SkuId | Уникальный идентификатор SKU. | *006G* |
 | AvailabilityId | Уникальный идентификатор доступности. | *DZH318Z08B80* |

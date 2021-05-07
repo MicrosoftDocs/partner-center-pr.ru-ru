@@ -6,13 +6,13 @@ ms.subservice: partnercenter-incentives
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 03/05/2021
-ms.openlocfilehash: 00cb707dd6d94cc6cbae889e2db1a700d246e2ed
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.date: 05/06/2021
+ms.openlocfilehash: 74d62a794d95cbf7a5170ddbcfe474cc61fbf9b3
+ms.sourcegitcommit: 5780fab794d7a48c64ce27eeabd7a39d56706e9c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087048"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "109240522"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Распространенные вопросы о выплатах и налогах
 
@@ -84,19 +84,21 @@ ms.locfileid: "106087048"
 
 - Если заказ был частично оплачен клиентом, сумма получения будет основываться на частично оплаченной сумме после вычета платы и соответствующего налога.
 - Проверка ответственности налогов на оплату по странам. В странах, где налог является ответственным за корпорацию Майкрософт, корпорация Майкрософт собирает и вычитает налог из прибыли издателя. Сумма транзакции в выписке отображается уже после снятия налога. См. [Сведения о налогах](tax-details-marketplace.md).
-- Предложения SaaS и IaaS имеют скидку в размере 10%, а не стандартный 20%, что ведет к сумме доходов 90%. Это предложение действует до 30 июня 2021 г.
+- Предложения SaaS и IaaS имеют скидку в размере 10%, а не стандартный 20%, что ведет к сумме доходов 90%. Это требование к IP-Co-Sell. Это предложение действует до 30 июня 2021 г. 
 
 **Дополнительные материалы**: [соглашение издателя коммерческого магазина](https://go.microsoft.com/fwlink/p/?LinkID=699560), [сведения о политике](payout-policy-details.md) [выплат, порог оплаты, метод и период времени](payment-thresholds-methods-timeframes.md), [Получение платной](marketplace-get-paid.md) [информации, сведения о налогах](tax-details-marketplace.md), [заявления о выплатах](payout-statement.md)
 
 ## <a name="earnings-reconciliation"></a>Сверка по доходам
 
 ### <a name="how-do-i-reconcile-payout-statements-to-order-or-usage-reports-in-analytics"></a>Как сверить заявления о выплатах для отчетов о заказах или использовании при аналитике?
+
 Используйте AssetID, orderID и идентификатор элемента строки в отчете о журнале транзакций с аналитическими заказами и отчетами об использовании. Использовать это сопоставление:
 
 - Payout Transaction History.AssetID = order.OrderID
 - Payout Transaction History.OrderID & LineItem = Usage.UsageReferenceID [OrderID:LineItemID]
 
 ### <a name="how-do-i-know-when-to-expect-payments-for-my-customer-orders"></a>Как узнать, когда следует рассчитывать на платежи по заказам клиентов?
+
 - Сначала с помощью assetID проверьте заказы клиентов в [отчетах по заказам](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order).
 - Проверьте канал клиента для подписки клиента в [отчете клиентов](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/customer).
 - Для корпоративных клиентов доход от издателя отображается в заявлении за 1-2 дней после даты заказа на покупку.
