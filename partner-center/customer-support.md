@@ -9,18 +9,18 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 2c44581b1c2d7fcf2e4a10de9194a8c7288791a2
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: ae39190e47b48a69e103da6d899b11c224a56d22
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172274"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686149"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Предоставление клиентам различных типов поддержки
 
 **Относится к**
 
--  Центр партнеров для Microsoft Cloud for US Government
+- Центр партнеров для Microsoft Cloud for US Government
 
 **Соответствующие роли**
 
