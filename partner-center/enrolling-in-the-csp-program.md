@@ -1,7 +1,7 @@
 ---
 title: Регистрация в программе поставщиков облачных решений
 ms.topic: how-to
-ms.date: 04/19/2021
+ms.date: 05/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как зарегистрироваться в программе "Поставщик облачных решений" (CSP) с оптимальной для вашего бизнеса моделью продаж, например в качестве косвенного торгового посредника или партнера с прямым выставлением счетов.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9307f57c0d356dbbce16de2f1566b4491867c361
-ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
+ms.openlocfilehash: 5be78c55a10e6db1ff0ec057b2a6a06e4373f7a7
+ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "108213386"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109712487"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Регистрация в программе поставщиков облачных решений
 
@@ -76,7 +76,7 @@ ms.locfileid: "108213386"
 
 ### <a name="verify-direct-bill-eligibility"></a>Проверка возможности прямого выставления счетов
 
-Когда вы убедитесь, что обеспечено соответствие минимальным требованиям для регистрации в качестве партнера с прямым выставлением счетов, вы можете перейти к [форме регистрации](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global).
+Когда вы убедитесь, что обеспечено соответствие минимальным требованиям для регистрации в качестве партнера с прямым выставлением счетов, вы можете перейти к [форме регистрации](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR39X9dQFZ3FMghsMA7GOTNJUQVRPMk9KUVJZRDA1T1pSTkRSMzIzRUlOWSQlQCN0PWcu).
 
 Убедившись, что ваша компания соответствует требованиям к регистрации в качестве партнера с прямым выставлением счетов и вы заполнили заявку на регистрацию, мы просмотрим и проверим сведения о компании, которые вы указали в процессе регистрации. При этом мы проверим кредитоспособность вашей компании. Мы отправим вам электронное сообщение о том, что ваша компания прошла проверку кредитоспособности.
 >[!IMPORTANT]

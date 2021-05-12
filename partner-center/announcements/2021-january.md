@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2021
-ms.openlocfilehash: 9f0292efc6646e4abd85a6fab1e53ac9e139a915
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.openlocfilehash: bd081c190b3bccb151c2c0cd5e470ad869eb78dd
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280842"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740307"
 ---
 # <a name="january-2021-announcements"></a>Объявления за январь 2021 года
 
@@ -383,7 +383,7 @@ _____________
 
 | Операция | Документация Центра партнеров |
 | ------ | ------- |
-|{baseURL}/v1/customers/{customer_id}/subscriptions  | [Получение списка всех подписок клиента](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions  | [Получение списка всех подписок клиента](/partner-center/develop/get-all-of-a-customer-s-subscriptions) |
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [Получение сведений о подписке по идентификатору](/partner-center/develop/get-a-subscription-by-id) |
 |{baseURL}/v1/customers/{customer_id}/orders  | [Получение списка всех заказов клиента](/partner-center/develop/get-all-of-a-customer-s-orders) |
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [Получение заказа по идентификатору](/partner-center/develop/get-an-order-by-id) |

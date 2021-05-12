@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2021
-ms.openlocfilehash: 7e6082c645a4c5bcc3e0f766ffe7d82e73d46c15
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.openlocfilehash: 9d34a8e7674d178dc3217e36cee25b2d9ad6c36a
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280927"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740358"
 ---
 # <a name="december-2020-announcements"></a>Объявления за декабрь 2020 г.
 
@@ -194,7 +194,7 @@ ______________
 - Дата: 02.04.2021
 - Предложения и рынки
 
-### <a name="summary"></a>Итоги
+### <a name="summary"></a>Сводка
 
 Так как мы стремимся поддерживать доверительные отношения с партнерами и клиентами при оказании им помощи в ведении бизнеса, мы будем запрашивать дополнительные сведения о клиентах с 25 марта 2021 г.
 
@@ -419,15 +419,15 @@ ______________
  
 **SelfServePolicies — добавлены новые функции:**
 
-- [GetSelfServePolicies](/partner-center/develop/get-a-self-serve-policy-by-id.md);
-- [GetListOfSelfServicePolicies](/partner-center/develop/get-a-list-of-self-serve-policies.md);
-- [CreateSelfServePolicies](/partner-center/develop/create-a-self-serve-policy.md);
-- [UpdateSelfServePolicies](/partner-center/develop/update-a-self-serve-policy.md);
-- [DeleteSelfServePolicies](/partner-center/develop/delete-a-self-serve-policy.md).
+- [GetSelfServePolicies](/partner-center/develop/get-a-self-serve-policy-by-id);
+- [GetListOfSelfServicePolicies](/partner-center/develop/get-a-list-of-self-serve-policies);
+- [CreateSelfServePolicies](/partner-center/develop/create-a-self-serve-policy);
+- [UpdateSelfServePolicies](/partner-center/develop/update-a-self-serve-policy);
+- [DeleteSelfServePolicies](/partner-center/develop/delete-a-self-serve-policy).
  
 **Профиль компании клиента:**
 
-- Добавлено поле [OrganizationRegistrationNumber](/partner-center/develop/create-a-customer.md).
+- Добавлено поле [OrganizationRegistrationNumber](/partner-center/develop/create-a-customer).
  
 **CustomerBillingProfile.DefaultAddress:**
 

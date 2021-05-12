@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08499c306079d0cb900d528247309afdf21b23bb
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: b59d18a62ce6a775e97f88708467d07e9c351a66
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315904"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740392"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Управляйте учетной записью Центра партнеров: профилем, банковскими данными, ролями, разрешениями и другими данными своей компании.
 
@@ -163,5 +163,5 @@ ms.locfileid: "107315904"
 - [Назначение пользователям ролей и разрешений](permissions-overview.md)
 - [Управление учетной записью MPN: расположения](manage-locations.md)
 - [Сброс пароля пользователя](reset-a-user-password.md)
-- [API: получение профиля юридического лица партнера](https://docs.microsoft.com/partner-center/develop/get-legal-business-profile.md)
+- [API: получение профиля юридического лица партнера](/partner-center/develop/get-legal-business-profile)
 - [Ознакомьтесь с предложениями и ценами на коммерческой платформе Центра партнеров](csp-commercial-marketplace-discover.md)

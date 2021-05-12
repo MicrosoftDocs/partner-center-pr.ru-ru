@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: b72d736fdeafc438fbfa848c0b2b1e51ab66b261
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 0b8938004bb15f1fc58a15333e97297627fa9b24
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266475"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740341"
 ---
 # <a name="february-2021-announcements"></a>Объявления за февраль 2021 года
 
@@ -36,7 +36,7 @@ ________________
 
 ### <a name="details"></a>Сведения
 
-Это объявление дополняет сведения об [усовершенствованиях в Центре партнеров, выпущенных в декабре](https://docs.microsoft.com/partner-center/announcements/2020-december#1). В рамках этого выпуска были развернуты новые API-интерфейсы квалификаций GET и POST, в результате чего поддержка существующей квалификации GET будет прекращена 4 мая 2021 г. К этому времени нужно будет перейти на новые API-интерфейсы POST Центра партнеров, чтобы приобрести предложения для образовательных учреждений, а также на новый API квалификаций GET, чтобы приобрести предложения для некоммерческих организаций и предложения GCC с предварительными квалификациями.
+Это объявление дополняет сведения об [усовершенствованиях в Центре партнеров, выпущенных в декабре](2020-december.md#1). В рамках этого выпуска были развернуты новые API-интерфейсы квалификаций GET и POST, в результате чего поддержка существующей квалификации GET будет прекращена 4 мая 2021 г. К этому времени нужно будет перейти на новые API-интерфейсы POST Центра партнеров, чтобы приобрести предложения для образовательных учреждений, а также на новый API квалификаций GET, чтобы приобрести предложения для некоммерческих организаций и предложения GCC с предварительными квалификациями.
 
 ### <a name="next-steps"></a>Дальнейшие действия
 
@@ -320,7 +320,7 @@ _____________
 
 | Операция | Документация Центра партнеров |
 | ------ | ------- |
-|{baseURL}/v1/customers/{customer_id}/subscriptions  | [Получение списка всех подписок клиента](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions  | [Получение списка всех подписок клиента](/partner-center/develop/get-all-of-a-customer-s-subscriptions) |
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [Получение сведений о подписке по идентификатору](/partner-center/develop/get-a-subscription-by-id) |
 |{baseURL}/v1/customers/{customer_id}/orders  | [Получение списка всех заказов клиента](/partner-center/develop/get-all-of-a-customer-s-orders) |
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [Получение заказа по идентификатору](/partner-center/develop/get-an-order-by-id) |
