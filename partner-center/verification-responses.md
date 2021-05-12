@@ -9,19 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0f5520dec7c5af80817223797c14c9f2c16f96c6
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 5bd6ab7359dc295d075be937f2760e55bd7e6f3e
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284542"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794910"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Проверка данных учетной записи при регистрации в новой программе Центра партнеров
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор партнера MPN
+**Соответствующие роли**: глобальный администратор | Администратор партнера MPN
 
 При регистрации в новой программе в центре партнеров Майкрософт проверяет предоставленные сведения о регистрации учетной записи, например название вашей компании, адрес компании и основные контактные данные. В ходе этого процесса корпорация Майкрософт может отправить электронное письмо основному контакту, чтобы уведомить их о состоянии и запросить дополнительную документацию по проверке.
 

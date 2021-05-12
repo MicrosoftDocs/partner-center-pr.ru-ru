@@ -9,18 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ce5baddcc6d598ec4d926e74a6f4a85a3b4cbbbe
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: d8370b213a3d0fd96a4d2ef457de1140ee4549f6
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712568"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794893"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Различные способы работы с другими партнерами в центре партнеров
 
-**Соответствующие роли**
-
-- Администратор учетных записей
+**Соответствующие роли**: Администратор учетной записи
 
 Программа поставщика облачных решений Майкрософт (CSP) предоставляет партнерам возможность совместно работать с этими способами.
 
