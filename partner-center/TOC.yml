@@ -119,45 +119,40 @@
           displayName: mpn
     - name: Как стать участником программы Azure Expert MSP
       href: azure-expert-msp.md
-- name: Поставщик облачных решений (CSP)
+- name: Программа "Поставщик облачных решений" (CSP)
   href: csp-overview.md
   displayName: csp
   items:
     - name: Регистрация в программе CSP
       href: enrolling-in-the-csp-program.md
       displayName: 'indirect, reseller, csp'
-    - name: 'Соглашение с партнером Майкрософт: участники программы CSP'
-      href: microsoft-partner-agreement.md
-      displayName: 'csp, mpn'
-    - name: Как косвенные поставщики могут помочь своим торговым посредникам принять MPA
-      href: mpa-indirect-provider-faq.md
-      displayName: 'csp, mpa, indirect, provider'
     - name: Требования к прямым партнерам в рамках CSP
       href: direct-partner-new-requirements.md
-      displayName: 'indirect, reseller, csp'
-    - name: Клиентские соглашения Майкрософт (по региону и языку)
-      href: agreements.md
-      displayName: 'region, MPA'
     - name: Ограниченный доступ к прямому выставлению счетов
       href: restricted-direct-bill-capabilities.md
-      displayName: 'indirect, reseller'
+      displayName: 'indirect, reseller, direct'
     - name: Переход со статуса партнера с прямым выставлением счетов на статус непрямого торгового посредника
       href: transition-direct-to-indirect.md
       displayName: csp
+- name: Соглашения в рамках CSP
+  href: microsoft-partner-agreement.md
+  items:
+    - name: Как косвенные поставщики могут помочь своим торговым посредникам принять MPA
+      href: mpa-indirect-provider-faq.md
+      displayName: 'csp, mpa, indirect, provider'
     - name: 'Соглашения, прайс-листы и предложения в рамках CSP'
       href: csp-documents-and-learning-resources.md
       displayName: csp
-    - name: Сведения о коде регистрации
-      href: reg-number-id.md
+    - name: Клиентские соглашения Майкрософт (по региону и языку)
+      href: agreements.md
+    - name: Как подтвердить принятие клиентом условий Клиентского соглашения Майкрософт
+      href: confirm-customer-agreement.md
     - name: Региональные рынки и валюты в рамках CSP
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
     - name: Инструкции по консолидации клиента региональной авторизации CSP
       href: csp-regional-authorization-tenant-consolidation.md
       displayName: 'regio, region, csp'
-    - name: Как подтвердить принятие клиентом условий Клиентского соглашения Майкрософт
-      href: confirm-customer-agreement.md
-      displayName: 'csp, agreement'
     - name: Применение для продаж в национальных облаках
       href: csp-national-clouds-overview.md
       items:
@@ -207,6 +202,8 @@
         - name: Обновление профиля партнера
           href: update-your-partner-profile.md
           displayName: mpn
+        - name: Сведения о коде регистрации
+          href: reg-number-id.md
         - name: Как стать поставщиком панелей управления
           href: enroll-as-cpv.md
           displayName: csp
