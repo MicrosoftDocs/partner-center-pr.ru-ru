@@ -9,18 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17087727afcaf3dbcf47801f8668388c370758e7
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: f4af8c48e2bbe65f58549b542447c80b699332be
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266577"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818802"
 ---
 # <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Устранение проблем при входе в центр партнеров
 
-**Соответствующие роли**
-
-- Все партнеры, заинтересованные в центре партнеров
+**Соответствующие роли**: все партнеры, заинтересованные в центре партнеров
 
 Эта статья содержит решения распространенных проблем при входе в центр партнеров.
 
@@ -45,7 +43,7 @@ ms.locfileid: "107266577"
 
 Убедитесь, что для входа используются правильные учетные данные. Например, рабочие и личные учетные записи могут выглядеть одинаково (например abc@contoso.com ,), но одна личная учетная запись может быть создана, а другая — бизнес-учетная запись, настроенная от вашего имени. В этом случае, если вы вошли в, но не можете просматривать ожидаемые возможности, связанные с MPN, CSP, коммерческим магазином, попробуйте выбрать свою рабочую учетную запись.
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Проверка сведений об учетной записи](verification-responses.md)
 - [Сброс пароля](reset-my-pasword.md)

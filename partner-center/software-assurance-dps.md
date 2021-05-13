@@ -9,19 +9,16 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9ab6afc85a696b3b614ea5c3b5edc644d92bfc21
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 8d5154ad63066cb9d1d3eda8cf78fc059217ca99
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266509"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854797"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Прекращение использования служб планирования Software Assurance
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор партнера MPN
+**Соответствующие роли**: глобальный администратор | Администратор партнера MPN
 
 
 Службы планирования полностью удалены из преимуществ Software Assurance, но клиенты могут продолжать работу с партнерами, чтобы использовать дни служб планирования для задействований, в то время как ваучеры являются допустимыми. Это значительные даты, которые привели к прекращению использования программы: 
@@ -111,7 +108,7 @@ ms.locfileid: "107266509"
 
 Чтобы отправить счет в корпорацию Майкрософт через САВБ, следуйте инструкциям на [шаге 8](https://go.microsoft.com/fwlink/?linkid=2115983) рабочего процесса.
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Рабочий процесс служб планирования Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [Вопросы и ответы по службам планирования Software Assurance](https://go.microsoft.com/fwlink/?linkid=2116077)

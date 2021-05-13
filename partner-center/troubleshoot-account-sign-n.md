@@ -9,20 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f34adc57e668caecb69af37afc72b5153f667335
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: a5e8a292ad8593dc0b94179d5f0ee418344ef9af
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686268"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854695"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Устранение проблем с настройкой учетной записи или обновлением MPN
 
-
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор партнера MPN
+**Соответствующие роли**: глобальный администратор | Администратор партнера MPN
  
 Ниже приведены некоторые рекомендации по устранению распространенных проблем, возникающих при настройке учетной записи центра партнеров.
 

@@ -9,25 +9,18 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: c3b7db95bbbd039f8328ddd2785579bb533197cc
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: 1d8e59ea2d2e8d40163ea06b305845c37a356f16
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686302"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818666"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Managing non-payment, fraud, or misuse in Partner Center (Управление подписками в случае неуплаты, мошенничества или неправильного использования в Центре партнеров)
 
-**Относится к**
+Область **применения**: центр партнеров | Центр партнеров по Microsoft Cloud для государственных организаций США
 
-- Центр партнеров для Microsoft Cloud for US Government
-
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор управления пользователями
-- Агент по администрированию
-- Администратор выставления счетов
+**Соответствующие роли**: глобальный администратор | Администратор управления пользователями | Агент администратора | Администратор выставления счетов
 
 Вы несете финансовую ответственность за мошеннические покупки ваших клиентов и (или) неоплату клиентами купленных служб. Поэтому *настоятельно рекомендуется полагаться на размещение средств предотвращения мошенничества и обнаружения рисков*.
 

@@ -9,21 +9,16 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a66e32a3c9320ac32b0749c67197c6a27574ce75
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 798fde02b87e8f8105dad6d00c32b050fb90097e
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712619"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818751"
 ---
 # <a name="view-your-incentives-program-details"></a>Просмотр сведений о программе поощрения
 
-**Соответствующие роли**
-
-- Администратор программы поощрения
-- Пользователь программы поощрения
-- Глобальный администратор
-- Администратор партнера MPN
+**Соответствующие роли**: администратор поощрения | Пользователь поощрения | Глобальный администратор | Администратор партнера MPN
 
 В этой статье объясняется моя страница " **Обзор поощрения** ", на которой показано общее состояние программы поощрения, а также состояние каждой программы в каждом расположении. Он также предоставляет различные состояния регистрации.
 
@@ -70,6 +65,6 @@ ms.locfileid: "104712619"
 
 Вы также можете использовать [API-интерфейс выплаты партнеров](https://apidocs.microsoft.com/services/partnerpayouts) для подключения и получения данных о транзакциях и платежах напрямую. Дополнительные сведения см. в разделе [заявления о выплатах](payout-statement.md) .
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Выписки о выплатах](payout-statement.md)

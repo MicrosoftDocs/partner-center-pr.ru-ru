@@ -9,19 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d3920cbdc52a844477aacac9c7ac2122c14edeba
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 018416585ea141d4842ec0787b59fd7e214c9999
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755810"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818632"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Управление нераспределенными платежами на странице выставления счетов центра партнеров
 
-**Соответствующие роли**
-
-- Администратор выставления счетов
-- Администратор учетных записей
+**Соответствующие роли**: администратор выставления счетов | Администратор учетной записи
 
 Иногда на странице выставления счетов может отображаться Нераспределенная оплата. Нераспределенная оплата — это платеж, сделанный корпорацией Майкрософт, который не был применен к определенному счету.
 

@@ -10,23 +10,18 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5bdb166562593b970f40c23921dc80b2a1cb8ad
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 96fe57f6e89928a69051c2e201c444882500b844
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633868"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855035"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Просматривайте бизнес-данные с помощью приложения "Аналитика Центра партнеров для Microsoft Power BI"
 
 
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор управления пользователями
-- Агент по продажам
-- Агент по администрированию
+**Соответствующие роли**: глобальный администратор | Администратор управления пользователями | Агент продаж | Агент администратора
 
 ## <a name="view-your-business-data"></a>Просмотр бизнес-данных
 
@@ -162,7 +157,7 @@ ms.locfileid: "105633868"
 
 - **Оценочная стоимость использования ресурсов Azure за выбранный период**: Оценочная стоимость на основе последней тарифной карты для каждого отслеживаемого ресурса в каждой подписке на основе использования в течение последних 60 дней. 
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Обзор приложения "Аналитика Центра партнеров для Power BI"](power-bi-app-for-direct-partners.md)
 

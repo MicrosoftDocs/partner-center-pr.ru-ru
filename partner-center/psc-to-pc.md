@@ -9,22 +9,16 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: adbe4bf9fd329f7443608dd1a1e123208212ef43
-ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
+ms.openlocfilehash: 584f8a7f2794cb64be49fe7f790904eff50c4c26
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "102770282"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855120"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Пошаговое руководством по совместному продажам в центре партнеров (ПК) для партнеров, выполняющих переход от партнеров Sales Connect (PSC)
 
-**Соответствующие роли**
-
-- Администратор учетных записей
-- Администратор авторов
-- Продавец партнерской связи (PSC)
-- Администратор с партнером Connect Sales (PSC)
-- Менеджер по подсоединению партнеров Sales Connect (PSC)
+**Соответствующие роли**: Администратор учетной записи | Администратор ссылок | Продавец Sales Connect (PSC) | Администратор-партнер Connect (PSC) | Менеджер по подсоединению партнеров Sales Connect (PSC)
 
 В этой статье приводятся рекомендации для партнеров по переходу с продаж партнеров в центр партнеров, чтобы они могли создавать и администрировать сделки совместной продажи в центре партнеров.
 

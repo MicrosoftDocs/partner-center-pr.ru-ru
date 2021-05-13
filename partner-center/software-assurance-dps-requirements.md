@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 844a795330a0c10ef51f6b47ce15afa37d3d71f5
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028270"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855256"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Просмотр требований к допустимости для служб планирования
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор партнера MPN
+**Соответствующие роли**: глобальный администратор | Администратор партнера MPN
 
 Эта статья поможет вам узнать о требованиях к допустимости, которые необходимо выполнить, прежде чем ваша компания сможет зарегистрироваться или предоставить услуги по планированию участия в программе Software Assurance для корпорации Майкрософт.
 

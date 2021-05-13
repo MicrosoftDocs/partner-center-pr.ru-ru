@@ -6,18 +6,16 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/26/2021
-ms.openlocfilehash: b63d252dd4a33d6ef9053aa4f93089b615f02ee8
-ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
+ms.openlocfilehash: f96f765596024e2df5f1c9e2418ff331dbcd51eb
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108067445"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854814"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Сведения о налогах для издателей коммерческих платформ
 
-**Соответствующие роли**
-
-- Глобальный администратор
+**Соответствующие роли**: глобальный администратор
 
 На этой странице задаются налоговые обязанности и налоговые соглашения для коммерческих издателей (издателей) и потребительских решений Marketplace в связи с покупками продуктов для издателя и разработчика в соответствии с [соглашением об Microsoft Azure Marketplace издателя](https://go.microsoft.com/fwlink/p/?LinkID=699560) и [соглашением разработчика приложения](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)соответственно.  Приведенные ниже сведения являются дополнением и не предназначены для замены, положения и условия соглашения Microsoft Publisher и соглашения разработчика приложения.  Если не указано иное, приведенная ниже информация относится как к издателям коммерческих магазинов, так и к разработчикам потребитель Marketplace, которые делают продукты и предложения доступными для продажи через Microsoft Marketplace. 
 

@@ -9,18 +9,16 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e7676df62aa6ea91492f9904ac810397fb0e5aa
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: e57ae5a30e3ee4331ae509a0650d09baf4a82590
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768760"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854899"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Переход со статуса партнера с прямым выставлением счетов в статус косвенного торгового посредника в рамках программы CSP
 
-**Соответствующие роли**
-
-- Глобальный администратор
+**Соответствующие роли**: глобальный администратор
 
 >[!Note]
 >Эта статья предназначена для партнеров с прямыми счетами, которые решили перейти на непрямые торговые посредники. Однако даже если вы еще не предоставили явное решение для регистрации в качестве непрямого торгового посредника, партнеры прямого счета, которые не соответствуют новым [требованиям](direct-partner-new-requirements.md) для партнерской программы прямого выставления счетов CSP, будут уведомлены корпорацией Майкрософт, если их [возможности прямого счета будут ограничены](restricted-direct-bill-capabilities.md).
@@ -65,7 +63,7 @@ ms.locfileid: "104768760"
 
 :::image type="content" source="images/direct/direct4.png" alt-text="Вы как прямой, так и непрямой Торговый посредник":::
 
-## <a name="find-an-indirect-provider"></a>Найти косвенного поставщика
+## <a name="find-an-indirect-provider"></a>Поиск непрямого поставщика
 
 После регистрации в левой панели навигации появится ссылка на непрямые поставщики. В качестве непрямого торгового посредника вы будете устанавливать связь с непрямым поставщиком, который затем может выполнять выставление счетов, покупать продукты для клиентов и инфраструктуру поддержки.
 

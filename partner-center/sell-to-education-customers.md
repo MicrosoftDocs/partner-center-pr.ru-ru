@@ -9,20 +9,16 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0c8812683a038ce1f869cb3cb6750424d49ec05
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 1b1b89841faf77a78c8cc268357daaaf95307223
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028373"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855409"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Как продавать предложения для образовательных учреждений и как создать клиента для образовательных учреждений в центре партнеров
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Агент по администрированию
-- Агент по продажам
+**Соответствующие роли**: глобальный администратор | Агент администратора | Агент продаж
 
 ## <a name="create-an-education-customer"></a>Создание клиента из сферы образования
 
@@ -82,7 +78,7 @@ ms.locfileid: "105028373"
 
 2. Обновите браузер, чтобы сбросить страницу. Появится кнопка **Обновить** , а для параметра **состояние специального квалификации** — значение **нет**.
 
-3. Нажмите кнопку **Обновить**. На странице **Управление службами** выберите **Office 365**.
+3. Щелкните **Обновить**. На странице **Управление службами** выберите **Office 365**.
 
 4. Вы будете перенаправлены в центр администрирования Office 365 на новой вкладке браузера. Возможно, вы запросили вход с помощью своих учетных данных.
 

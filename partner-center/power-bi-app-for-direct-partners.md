@@ -10,23 +10,18 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edc6469693e8dc8dcc93f9a4df66c9a232b29738
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 28fb6e9a963228f45a927089e0bb8ae3ecd452ff
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633681"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854542"
 ---
 # <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Обзор и часто задаваемые вопросы по приложению аналитики центра партнеров для Power BI (прямые партнеры в CSP)
 
 
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор управления пользователями
-- Агент по продажам
-- Агент по администрированию
+**Соответствующие роли**: глобальный администратор | Администратор управления пользователями | Агент продаж | Агент администратора
 
 Получите визуальное представление бизнес-данных с помощью приложения "Аналитика Центра партнеров для Power BI". Приложение, разработанное для прямых партнеров в программе поставщиков облачных решений (CSP), интегрируется со знакомой платформой Power BI.
 
@@ -62,7 +57,7 @@ ms.locfileid: "105633681"
 
 
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 [Установка приложения "Аналитика Центра партнеров для Microsoft Power BI" и ознакомление с ним](power-bi-app-for-direct-partners-install.md)
 

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5773432f829a701baf4b36bdbae026241d0357a2
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 17fe2496c88adf4a1e271f1dc8275e7e0643e16a
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172189"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818649"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>Активация Microsoft Partner Network технических преимуществ за пределами центра партнеров
 
@@ -25,7 +25,7 @@ ms.locfileid: "108172189"
 
 Эта статья предназначена для участников Microsoft Partner Network (MPN), которые по-прежнему используют центр участия в партнерских организациях (PMC). Эти участники нуждаются в помощи в активации определенных преимуществ членства в MPN, таких как технические преимущества, за пределами текущей [панели мониторинга центра партнеров](https://partner.microsoft.com/dashboard).
 
-Многие члены Microsoft Partner Network (MPN) уже были [перенесены из центра участия в партнерских партнерах в центр партнеров](prepare-pmc-pc-migration.md) , чтобы помочь в управлении пользователями, клиентами и преимуществами MPN.
+**Большинство участников Microsoft Partner Network (MPN) уже [перенесены из центра участия в партнерских партнерах в центр партнеров](prepare-pmc-pc-migration.md) , чтобы помочь в управлении пользователями, клиентами и преимуществами MPN.**
 
 Если ваше членство в MPN по-прежнему находится в центре участия в партнерских организациях (PMC), вам потребуется помощь с активацией некоторых преимуществ MPN.
 
@@ -33,7 +33,7 @@ ms.locfileid: "108172189"
 
 Если вы являетесь пользователем PMC, ознакомьтесь с этой таблицей, чтобы получить справку по активации технических преимуществ.
 
-Если у вас уже есть учетная запись центра партнеров с правами глобального администратора или администратора MPN Partner, см. статью [Управление своими техническими преимуществами](https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits#manage-technical-benefits) .
+(Если у вас уже есть учетная запись центра партнеров с правами глобального администратора или администратора MPN Partner, см. статью [Просмотр и активация преимуществ технической поддержки](mpn-benefits-technical-support.md#view-and-activate-your-technical-support-benefits)).
 
 |Для этого региона  | Contact |
 |:--------|:------------|

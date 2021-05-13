@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e863a5dbb86dae2c1cd3395589b4d4318eb0dba1
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: d9ae853b095339b54f7b4d2eb0f41fecd5f53f80
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284151"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854780"
 ---
 # <a name="support-from-microsoft"></a>Поддержка от Майкрософт
 
-**Относится к**
+Область **применения**: центр партнеров | Центр партнеров по Microsoft Cloud для государственных организаций США
 
-- Центр партнеров для Microsoft Cloud for US Government
-
-**Соответствующие роли**
-
-- Агент службы технической поддержки
+**Соответствующие роли**: агент службы технической поддержки
 
 Если у вас возникли проблемы со службой Microsoft или центром партнеров, сообщите о проблеме в корпорацию Майкрософт, передайте ее в корпорацию Майкрософт, чтобы получить помощь и отследите от проблемы до ее устранения.
 
@@ -39,6 +35,6 @@ ms.locfileid: "108284151"
 ## <a name="next-steps"></a>Дальнейшие действия
 
 - [Просмотреть дополнительные ресурсы поддержки](https://partner.microsoft.com/support/?stage=1)
-- [Поиск партнера](find-a-partner.md)
+- [Найти партнера](find-a-partner.md)
 - [Сведения о программе MPN и о регистрации в ней](https://partner.microsoft.com/membership)
 - [Сведения о программе CSP и его регистрация](https://partner.microsoft.com/membership/cloud-solution-provider)

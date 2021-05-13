@@ -9,19 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b95ce4a3070414807e31a1aa12a213a332c2a1cc
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: db178f668efcf519264d9ba46dbcb5277cc5b8cd
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105548943"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855528"
 ---
 # <a name="reset-my-password"></a>Сброс пароля
  
-**Соответствующие роли**
-
-- Глобальный администратор
-- Все партнеры, заинтересованные в центре партнеров
+**Соответствующие роли**: глобальный администратор | Все партнеры, заинтересованные в центре партнеров
 
 
 Если вы не можете вспомнить пароль центра партнеров, его можно сбросить.
@@ -34,7 +31,7 @@ ms.locfileid: "105548943"
 
 2. Выберите **Рабочая или учебная учетная запись**.
 
-3. Введите идентификатор пользователя и символы на картинке или на звуковом изображении. Затем нажмите кнопку **Далее**.
+3. Введите идентификатор пользователя и символы на картинке или на звуковом изображении. Выберите **Далее**.
 
 4. Настройте новый пароль.
 

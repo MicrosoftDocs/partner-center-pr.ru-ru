@@ -9,21 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14d280a65fa7c72ed382fd8b27e0354a4aa9e190
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: e274b0a637c7fd4944a395ba7e38154e36d2a9e3
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120823"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855205"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Обзор отчетов панели мониторинга, доступных в средствах аналитики Центра партнеров
  
-**Соответствующие роли**
-
-- Глобальный администратор
-- Агент по администрированию
-- Средство просмотра отчетов
-- Средство просмотра исполнительных отчетов
+**Соответствующие роли**: глобальный администратор | Агент администратора | Средство просмотра отчетов | Средство просмотра отчетов руководителя
 
 Панель мониторинга обзор Insights предоставляет представление моментального снимка ключевых показателей эффективности, таких как клиенты, подписки, доход потребления Azure и лицензии. В обзорном отчете можно визуализировать следующие диаграммы.
 

@@ -9,23 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 48521424fd695f20192e69e11a980505873768c2
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 431ac8a4dd96dc7ed768efabd62dbd4a4c2a6d90
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215872"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854984"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Использование рекламных акций для привлечения новых клиентов и передачи экономии на них
 
 
 
-**Соответствующие роли**
-
-- Агент по администрированию
-- Администратор партнера MPN
-- Администратор выставления счетов
-- Агент по продажам
+**Соответствующие роли**: Агент администрирования | Администратор партнера MPN | Администратор выставления счетов | Агент продаж
 
 
 Время от времени корпорация Майкрософт предлагает рекламные акции для подписок на основе лицензии, что позволяет вам предоставлять клиентам скидки и развивать свой бизнес. 
