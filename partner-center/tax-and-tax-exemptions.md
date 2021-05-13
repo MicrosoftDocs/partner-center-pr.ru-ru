@@ -9,18 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 515591f37cb15e8af69acf8d30affd9300429e42
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 7e6db20296075774a6254116df898e15ecc50034
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284474"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856038"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Узнайте о налогах и сведениях об исключении налогов по регионам или странам для партнеров в программе CSP.
 
-**Соответствующие роли**
-
-- Глобальный администратор
+**Соответствующие роли**: глобальный администратор
 
 Программа поставщика облачных решений (CSP) — это канал продаж, посвященный Перепродажам продуктов партнерам. В результате Майкрософт не всегда обязана взимать налог с продаж по счетам партнеров. Правила зависят от страны и (или) региона. Вы можете просматривать [сведения, относящиеся к стране и региону, для налоговых исключений](#country-and-region-tax-details).
 

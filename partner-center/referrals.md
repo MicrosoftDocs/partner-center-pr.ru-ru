@@ -1,5 +1,5 @@
 ---
-title: Развивайте свой бизнес с помощью ссылок Майкрософт
+title: Развитие бизнеса с помощью рефералов от Майкрософт
 ms.topic: article
 ms.date: 06/19/2020
 ms.service: partner-dashboard
@@ -9,18 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 149897c0afa12c4c45df974dafb5c47826274174
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 2f37a14cd8987b6bddc96594ebf622f8e7be59b0
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120737"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855868"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Развивайте свой бизнес с помощью рекомендаций от Майкрософт
 
-**Соответствующие роли**
-
-- Администратор авторов
+**Соответствующие роли**: администратор ссылок
 
 Многие клиенты ищут квалифицированных экспертов, которые могли бы помочь им внедрить технологии и бизнес-решения корпорации Майкрософт. В корпорации Майкрософт мы часто получаем прямые запросы от клиентов относительно помощи через нашу рекламу и от внутренних агентов по продажам корпорации Майкрософт. Клиенты также используют [инструмент **Поиск поставщика решений**](https://www.microsoft.com/solution-providers/search) для поиска компаний, которые могут помочь им удовлетворить потребности своего бизнеса. 
 

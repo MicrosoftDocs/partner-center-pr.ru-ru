@@ -9,20 +9,16 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: f0abfdfd2fbb242f7cdbe0ded04d387ea712cce5
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: dcacc6da51fe40c7eb05997f5409ef5fadbcf693
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702728"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856055"
 ---
-# <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Перенос подписок на план Azure клиента на другого партнера
+# <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Передача подписок в рамках плана Azure клиента другому партнеру
 
-**Соответствующие роли**
-
-- Администратор учетных записей
-- Агент по продажам
-- Агент выставления счетов
+**Соответствующие роли**: Администратор учетной записи | Агент продаж | Агент выставления счетов
 
 В этой статье описывается, как клиент может переключить свои подписки Azure в рамках плана Azure от одного поставщика облачных решений (CSP) к другому.
 

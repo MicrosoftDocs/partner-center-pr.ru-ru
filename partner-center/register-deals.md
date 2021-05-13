@@ -9,18 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96c0b320850b4ee648e98fc5da97d9f25faaf405
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 8f8b3a086f968ed00deefa718d3abc18223ba600
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172442"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855749"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Зарегистрируйте сделки, которые вы выиграли в центре партнеров, чтобы вы могли получить дополнительные возможности позже.
 
-**Соответствующие роли**
-
-- Администратор авторов
+**Соответствующие роли**: администратор ссылок
 
 Вы можете зарегистрировать реализованные сделки в Центре партнеров, предоставив дополнительные сведения о контракте. Эта информация поможет нам предоставлять дополнительные возможности для вас в будущем.
 

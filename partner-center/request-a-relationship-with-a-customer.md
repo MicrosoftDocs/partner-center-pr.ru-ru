@@ -8,19 +8,16 @@ description: Запросите связь с клиентом для неско
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 55f86e6e48b0b897410826e22564e2d27e25258b
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: f8265973157540cff698790ddb2effa912abeeb7
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018141"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856123"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Как запросить у клиента создание связи торгового посредника в Центре партнеров
 
-**Соответствующие роли**
-
-- Агент по администрированию
-- Глобальный администратор
+**Соответствующие роли**: Агент администрирования | Глобальный администратор
 
 Если вы хотите управлять службой или подпиской клиента от их имени, клиент должен предоставить вам разрешения администратора для этой службы или подписки и подписать соглашение клиента Майкрософт.
 

@@ -9,24 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f1fb7fdcc4ec56f0d5cf0eb26b62294235a5b908
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5a1f45de59fc9dac6a443bb8a14c3a80b36ba3f7
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441607"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855885"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Изучите различные типы оплаты в файлах сверки центра партнеров
 
-**Относится к**
+Область **применения**: центр партнеров | Центр партнеров по Microsoft Cloud для государственных организаций США
 
-- Центр партнеров для Microsoft Cloud for US Government
-
-**Соответствующие роли**
-
-- Агент по администрированию
-- Администратор выставления счетов
-- Глобальный администратор
+**Соответствующие роли**: Агент администрирования | Администратор выставления счетов | Глобальный администратор
 
 В этой статье описываются сопоставления между разделом счета и связанными типами оплаты, которые могут находиться в файле сверки. В счете представлена сводка по расходам. Файл сверки содержит подробную разбивку транзакций по строкам, включая типы начислений. Дополнительные сведения о файлах сверки см. [в разделе Использование файлов сверки](use-the-reconciliation-files.md).
 

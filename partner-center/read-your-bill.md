@@ -9,21 +9,17 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: f16b619aba838da1d1da0c5eb13648ebb107c802
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964363"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855919"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Сведения о файле счета и выверке — Узнайте, как их найти в центре партнеров
 
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор выставления счетов
-- Агент по администрированию
+**Соответствующие роли**: глобальный администратор | Администратор выставления счетов | Агент администратора
 
 
 Ваш **счет** представляет собой **сводку по всем расходам центра партнеров** (в рамках всей программы, всех продуктов и всех клиентов). 

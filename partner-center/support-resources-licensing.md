@@ -8,18 +8,16 @@ description: Как партнер Майкрософт, у вас могут в
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: d0b7e12c17054434e4d07c532739b0d079b49cca
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 7343e6b234fed9107689f451d23cd3a74c0c389f
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002911"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856089"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Материалы по лицензированию для партнеров Майкрософт 
 
-**Соответствующие роли**
-
-- Агент справки
+**Соответствующие роли**: Агент справки
 
 В этой статье содержатся ресурсы, которые могут помочь в ответе на вопросы о лицензировании партнеров.
 
@@ -97,6 +95,6 @@ ms.locfileid: "108002911"
 ## <a name="next-steps"></a>Дальнейшие действия
 
 - [Просмотреть дополнительные ресурсы поддержки](https://partner.microsoft.com/support/?stage=1)
-- [Поиск партнера](find-a-partner.md)
+- [Найти партнера](find-a-partner.md)
 - [Сведения о программе MPN и о регистрации в ней](https://partner.microsoft.com/membership)
 - [Сведения о программе CSP и его регистрация](https://partner.microsoft.com/membership/cloud-solution-provider)

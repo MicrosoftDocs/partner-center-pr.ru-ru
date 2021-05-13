@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: deda7a351c79636dfb11c002810a8510782aca6d
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: b1d5f415680cad8466da631a68fb6249a5298a2d
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284457"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855987"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Перемещение клиентов на основе лицензий из других каналов & партнеров в программу поставщика облачных решений
 
-**Соответствующие роли**
-
-- Администратор учетных записей
-- Агент по продажам
-- Агент выставления счетов
+**Соответствующие роли**: Администратор учетной записи | Агент продаж | Агент выставления счетов
 
 Если вашему клиенту требуется привлечь нескольких партнеров, передать их подписки другому партнеру или управлять их подписками, приобретенными в другом месте, их можно переместить вручную. Вы также можете переместить клиентов в центр партнеров из другого канала.
 
