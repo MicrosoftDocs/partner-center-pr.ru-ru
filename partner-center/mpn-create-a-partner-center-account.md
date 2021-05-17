@@ -1,7 +1,7 @@
 ---
 title: Создание учетной записи MPN в Центре партнеров
 ms.topic: article
-ms.date: 04/20/2021
+ms.date: 05/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Узнайте, как участники Microsoft Partner Network могут создать учетную запись Центра партнеров для управления своими преимуществами и компетенциями в рамках партнерской сети.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b4c96f2099d50d05360320070d7c0d96f4590f6
-ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
+ms.openlocfilehash: f8177222d2c39732ac36543e523f268313fb8c4e
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "108213403"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109795063"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Создание учетной записи MPN в Центре партнеров для управления преимуществами и компетенциями партнерской сети
 
@@ -45,7 +45,6 @@ ms.locfileid: "108213403"
 
 1. На странице [**Начало работы**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) введите свой рабочий адрес электронной почты (предоставленный вам компанией), например you@yourcompanyname.com.
 
- 
     a.  Адрес электронной почты должен быть допустимым и доступным вам, так как мы отправим на него код проверки для продолжения работы.
 
     b.  Адрес электронной почты не должен содержать таких слов, как "info," "admin," "email@" или "marketing@..". Такие форматы адресов не поддерживаются.
@@ -59,11 +58,16 @@ ms.locfileid: "108213403"
 
 3. Предоставьте юридические сведения о бизнесе компании.
 
-Вы можете найти профиль компании или ввести сведения о ней вручную. Если ваша компания зарегистрирована в [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), вы можете найти сведения о компании с помощью идентификатора DUNS. Если вы хотите самостоятельно предоставить сведения об организации, выберите элемент **Вручную**.
+    Вы можете найти профиль компании или ввести сведения о ней вручную. Если ваша компания зарегистрирована в [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), вы можете найти сведения о компании с помощью идентификатора DUNS. Если вы хотите самостоятельно предоставить сведения об организации, выберите элемент **Вручную**.
 
-Если ваша компания располагается в **Армении**, **Венгрии**, **Киргизии**, **Молдове**, **Узбекистане** или **России** и вы ввели адрес вручную, мы подтвердим его за вас. Если введенный вами адрес отличается от подтвержденного, мы рекомендуем вам использовать подтвержденный адрес. Это гарантирует, что элементы адреса будут стандартизированы в соответствии с предписаниями почтового ведомства вашей страны, правильно отформатированы и что на адрес можно выполнить доставку.  
+    Если ваша компания располагается в **Армении**, **Венгрии**, **Киргизии**, **Молдове**, **Узбекистане** или **России** и вы ввели адрес вручную, мы подтвердим его за вас. Если введенный вами адрес отличается от подтвержденного, мы рекомендуем вам использовать подтвержденный адрес. Это гарантирует, что элементы адреса будут стандартизированы в соответствии с предписаниями почтового ведомства вашей страны, правильно отформатированы и что на адрес можно выполнить доставку.  
 
-После указания сведений о компании введите основные контактные данные. Основным контактным лицом должен быть сотрудник вашей организации, с которым мы сможем связываться по поводу вашего обращения (это можете быть вы или другой человек в вашей организации).
+    После указания сведений о компании введите основные контактные данные. Основным контактным лицом должен быть сотрудник вашей организации, с которым мы сможем связываться по поводу вашего обращения (это можете быть вы или другой человек в вашей организации).
+
+4. Выберите **Зарегистрироваться сейчас**.
+
+    >[!IMPORTANT]
+    >Чтобы обеспечить безопасность и конфиденциальность для вашей организации, мы отправляем сообщение электронной почты вашему основному контактному лицу, чтобы подтвердить адрес электронной почты и убедиться, что он принадлежит вашей организации. Когда основное контактное лицо подтвердит электронный адрес, мы продолжим рассмотрение предоставленной вами информации. Проверка обычно занимает 3–5 рабочих дней. 
 
 ## <a name="registration-id-numbers-by-country"></a>Коды регистрации по странам
 
@@ -72,38 +76,35 @@ ms.locfileid: "108213403"
 В следующей таблице приведены примеры кодов регистрации для каждой страны. Если в списке несколько кодов, необходимо указать только один.
 
 | **Страна или регион** | **Сведения** | 
-|:--|:--|:--|:--|:--|:--|
-| **Армения** | INN — идентификационный номер налогоплательщика.<br>Номер плательщика НДС (VAT) — также называется регистрационным номером плательщика НДС. Это уникальный номер, который идентифицирует облагаемое налогом лицо (компанию) или не облагаемое налогом юридическое лицо, зарегистрированное для уплаты НДС.<br>Номер социального страхования. |  |  | |  |
-| **Азербайджан**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) — идентификационный номер налогоплательщика.<br>INN — идентификационный номер налогоплательщика. |  |  |  |  |
-| **Беларусь**  | УНП — это девятизначный код (из цифр для организаций, из букв и цифр для частных лиц), который содержит идентификатор региона, серийный номер для региона и контрольную цифру. |  |  |  |  |
-|**Бразилия** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) — (Cadastro Nacional da Pessoa Jurídica, или национальный реестр юридических лиц). Это идентификационный номер, который выдается бразильским компаниям Федеральной налоговой службой Бразилии.  |  |  |  |  |
-| **Китай** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) — идентификационный номер налогоплательщика. |  |  |  |  |
-| **Венгрия**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) — идентификационный номер налогоплательщика. |  |  |  |  |
-| **Индия** | Код налогоплательщика<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) — (Presence Across Nation, присутствие по всей стране). Наличие PAN в Индии означает, что одна организация работает в нескольких местах в Индии. |  |  |  |  |
-| **Ирак** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — идентификационный номер налогоплательщика. |  |  |  |  |
-| **Казахстан**  | БИН — банковский идентификационный номер.<br>ИИН — индивидуальный идентификационный номер. |  |  |  |  |
-| **Киргизстан**  | ИНН — идентификационный номер налогоплательщика. |  |  |  |  |
-| **Молдова**  | IDNO — уникальный государственный идентификационный номер, присваиваемый юридическому лицу (также называемый налоговым кодом).<br>IDNP — личный код, присваиваемый при рождении (Numarul de Identificare). |  |  |  |  |
-| **Мьянма** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — идентификационный номер налогоплательщика. |  |  |  |  |
-| **Польша**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) — идентификационный номер налогоплательщика.<br>[PESEL](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) — государственный идентификационный номер, используемый в Польше (Polish Powszechny Elektroniczny System Ewidencji Ludności, Универсальная электронная система регистрации населения). |  |  |  |  |
-| **Россия**  | [ИНН](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Russia-TIN.pdf) — идентификационный номер налогоплательщика (индивидуальный номер налогоплательщика). |  |  |  |  |
-| **Саудовская Аравия** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) — идентификационный номер налогоплательщика. |  |  |  |  |
-| **ЮАР** | TRN — номер в дорожно-транспортном реестре. |  |  |  |  |
-| **Южный Судан** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — идентификационный номер налогоплательщика. |  |  |  |  |
-| **Таджикистан**  | ИНН — идентификационный номер налогоплательщика.<br>ЕИН — идентификационный номер работодателя.<br>КПП — код, отражающий основание для регистрации организации. |  |  |  |  |
-| **Таиланд** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — идентификационный номер налогоплательщика. |  |  |  |  |
-| **Турция** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) — идентификационный номер налогоплательщика.<br>NIN. |  |  |  |  |
-| **Украина**  | ЄДРПОУ (ЕГРПОУ).<br>ЕГРПОУ — местный идентификационный номер. |  |  |  |  |
-| **ОАЭ** | Код налогоплательщика<br>[Номер плательщика НДС (VAT)](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) — также называется регистрационным номером плательщика НДС. Это уникальный номер, который идентифицирует облагаемое налогом лицо (компанию) или не облагаемое налогом юридическое лицо, зарегистрированное для уплаты НДС. |  |  |  |  |
-| **США** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) — идентификационный номер работодателя. |  |  |  |  |
-| **Узбекистан**  | ИНН — идентификационный номер налогоплательщика. |  |  |  |  |
-| **Вьетнам** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — идентификационный номер налогоплательщика. |  |  |  |  |
-| **Венесуэла** | RIF — налоговый номер (Registro de Identificación Fiscal). |  |  |  |  |
+|:--|:--|
+| **Армения** | INN — идентификационный номер налогоплательщика.<br>Номер плательщика НДС (VAT) — также называется регистрационным номером плательщика НДС. Это уникальный номер, который идентифицирует облагаемое налогом лицо (компанию) или не облагаемое налогом юридическое лицо, зарегистрированное для уплаты НДС.<br>Номер социального страхования. |
+| **Азербайджан**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) — идентификационный номер налогоплательщика.<br>INN — идентификационный номер налогоплательщика. |
+| **Беларусь**  | УНП — это девятизначный код (из цифр для организаций, из букв и цифр для частных лиц), который содержит идентификатор региона, серийный номер для региона и контрольную цифру. |
+|**Бразилия** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) — (Cadastro Nacional da Pessoa Jurídica, Национальный реестр юридических лиц). Это идентификационный номер, который выдается бразильским компаниям Федеральной налоговой службой Бразилии.  |
+| **Китай** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) — идентификационный номер налогоплательщика. |
+| **Венгрия**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) — идентификационный номер налогоплательщика. |
+| **Индия** | Код налогоплательщика<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) — (Presence Across Nation, "присутствие по всей стране"). Наличие PAN в Индии означает, что одна организация работает в нескольких местах в Индии. |
+| **Ирак** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — идентификационный номер налогоплательщика. |
+| **Казахстан**  | БИН — банковский идентификационный номер.<br>ИИН — индивидуальный идентификационный номер. |
+| **Киргизстан**  | ИНН — идентификационный номер налогоплательщика. |
+| **Молдова**  | IDNO — уникальный государственный идентификационный номер, присваиваемый юридическому лицу (также называемый налоговым кодом).<br>IDNP — личный код, присваиваемый при рождении (Numarul de Identificare). |
+| **Мьянма** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — идентификационный номер налогоплательщика. | 
+| **Польша**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) — идентификационный номер налогоплательщика.<br>[PESEL](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) — государственный идентификационный номер, используемый в Польше (Polish Powszechny Elektroniczny System Ewidencji Ludności, Универсальная электронная система регистрации населения). |
+| **Россия**  | [ИНН](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Russia-TIN.pdf) — идентификационный номер налогоплательщика (индивидуальный номер налогоплательщика). |
+| **Саудовская Аравия** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) — идентификационный номер налогоплательщика. |
+| **ЮАР** | TRN — номер в дорожно-транспортном реестре. |
+| **Южный Судан** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — идентификационный номер налогоплательщика. |
+| **Таджикистан**  | ИНН — идентификационный номер налогоплательщика.<br>ЕИН — идентификационный номер работодателя<br>КПП — код, отражающий основание для регистрации организации. |
+| **Таиланд** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — идентификационный номер налогоплательщика. |
+| **Турция** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) — идентификационный номер налогоплательщика.<br>NIN. |
+| **Украина**  | ЄДРПОУ (ЕГРПОУ).<br>ЕГРПОУ — местный идентификационный номер. |
+| **ОАЭ** | Код налогоплательщика<br>[Номер плательщика НДС (VAT)](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) — также называется регистрационным номером плательщика НДС. Это уникальный номер, который идентифицирует облагаемое налогом лицо (компанию) или не облагаемое налогом юридическое лицо, зарегистрированное для уплаты НДС. |
+| **США** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) — идентификационный номер работодателя. |
+| **Узбекистан**  | ИНН — идентификационный номер налогоплательщика. |
+| **Вьетнам** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — идентификационный номер налогоплательщика. |
+| **Венесуэла** | RIF — налоговый номер (Registro de Identificación Fiscal). |
 
-4. Выберите **Зарегистрироваться сейчас**.
 
->[!IMPORTANT]
->Чтобы обеспечить безопасность и конфиденциальность для вашей организации, мы отправляем сообщение электронной почты вашему основному контактному лицу, чтобы подтвердить адрес электронной почты и убедиться, что он принадлежит вашей организации. Когда основное контактное лицо подтвердит электронный адрес, мы продолжим рассмотрение предоставленной вами информации. Проверка обычно занимает 3–5 рабочих дней. 
 
 ## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Как просмотреть сведения об учетной записи или просмотреть и скачать соглашение MPN
 
