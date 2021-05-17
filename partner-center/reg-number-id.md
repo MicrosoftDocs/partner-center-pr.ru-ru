@@ -9,18 +9,16 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d84f67edd38b9e8f665a18699fb1f03c9888549d
-ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
+ms.openlocfilehash: deb9a0af8c0b398d3bb9761a3aa1e7db382d1093
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109712504"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855834"
 ---
 # <a name="registration-id-number-information"></a>Сведения о коде регистрации
 
-**Соответствующие роли**
-
-- Глобальный администратор
+**Соответствующие роли** — глобальный администратор.
  
 Если вы являетесь косвенным поставщиком, партнером с прямым выставлением счетов или косвенным торговым посредником и ведете бизнес с новыми или существующими клиентами в перечисленных ниже странах, вам нужно указать код регистрации своей компании. Мы используем этот код регистрации для проверки сведений в вашей учетной записи. Если страна, в которой вы ведете бизнес, не указана ниже, указывать код регистрации не обязательно.
 
@@ -28,10 +26,10 @@ ms.locfileid: "109712504"
 
 | **Страна или регион** | **Сведения** |
 |:--|:--|
-| **Армения** | INN — идентификационный номер налогоплательщика.<br>Номер плательщика НДС (VAT) — также называется регистрационным номером плательщика НДС. Это уникальный номер, который идентифицирует облагаемое налогом лицо (компанию) или не облагаемое налогом юридическое лицо, зарегистрированное для уплаты НДС.<br>Номер социального страхования. |
+| **Армения** | INN — идентификационный номер налогоплательщика.<br>Номер плательщика НДС (VAT) — также называется регистрационным номером плательщика НДС. Это значение представляет собой уникальный номер, который идентифицирует облагаемое налогом лицо (компанию) или не облагаемое налогом юридическое лицо, зарегистрированное для уплаты НДС.<br>Номер социального страхования. |
 | **Азербайджан**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) — идентификационный номер налогоплательщика.<br>INN — идентификационный номер налогоплательщика. |
-| **Беларусь**  | УНП — это девятизначный код (из цифр для организаций, из букв и цифр для частных лиц), который содержит идентификатор региона, серийный номер для региона и контрольную цифру. |
-|**Бразилия** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) — (Cadastro Nacional da Pessoa Jurídica, Национальный реестр юридических лиц). Это идентификационный номер, который выдается бразильским компаниям Федеральной налоговой службой Бразилии.  |
+| **Беларусь**  | УНП — это значение представляет собой девятизначный код (из цифр для организаций, из букв и цифр для частных лиц), который содержит идентификатор региона, серийный номер для региона и контрольную цифру. |
+|**Бразилия** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) — (Cadastro Nacional da Pessoa Jurídica, Национальный реестр юридических лиц). Это значение представляет собой идентификационный номер, который выдается бразильским компаниям Федеральной налоговой службой Бразилии.  |
 | **Китай** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) — идентификационный номер налогоплательщика. |
 | **Венгрия**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) — идентификационный номер налогоплательщика. |
 | **Индия** | Код налогоплательщика<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) — (Presence Across Nation, "присутствие по всей стране"). Наличие PAN в Индии означает, что одна организация работает в нескольких местах в Индии. |
@@ -45,11 +43,11 @@ ms.locfileid: "109712504"
 | **Саудовская Аравия** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) — идентификационный номер налогоплательщика. |
 | **ЮАР** | TRN — номер в дорожно-транспортном реестре. |
 | **Южный Судан** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — идентификационный номер налогоплательщика. |
-| **Таджикистан**  | ИНН — идентификационный номер налогоплательщика.<br>ЕИН — идентификационный номер работодателя<br>КПП — код, отражающий основание для регистрации организации. |
+| **Таджикистан**  | ИНН — идентификационный номер налогоплательщика.<br>ЕИН — идентификационный номер работодателя<br>КПП — это значение представляет собой код, отражающий основание для регистрации организации. |
 | **Таиланд** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — идентификационный номер налогоплательщика. |
 | **Турция** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) — идентификационный номер налогоплательщика.<br>NIN. |
 | **Украина**  | ЄДРПОУ (ЕГРПОУ).<br>ЕГРПОУ — местный идентификационный номер. |
-| **ОАЭ** | Код налогоплательщика<br>[Номер плательщика НДС (VAT)](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) — также называется регистрационным номером плательщика НДС. Это уникальный номер, который идентифицирует облагаемое налогом лицо (компанию) или не облагаемое налогом юридическое лицо, зарегистрированное для уплаты НДС. |
+| **ОАЭ** | Код налогоплательщика<br>[Номер плательщика НДС (VAT)](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) — также называется регистрационным номером плательщика НДС. Это значение представляет собой уникальный номер, который идентифицирует облагаемое налогом лицо (компанию) или не облагаемое налогом юридическое лицо, зарегистрированное для уплаты НДС. |
 | **США** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) — идентификационный номер работодателя. |
 | **Узбекистан**  | ИНН — идентификационный номер налогоплательщика. |
 | **Вьетнам** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — идентификационный номер налогоплательщика. |
