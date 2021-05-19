@@ -9,25 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89080cb580d9b451454d108c6ef0ce0a08c1bf0c
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9b5daf91646324a9d4ace92d25736cfd0361ad6c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441903"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147281"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Узнайте, как считать файлы сверки с оценкой использования в центре партнеров
 
-**Относится к**
+Область **применения**: центр партнеров | Центр партнеров по Microsoft Cloud для государственных организаций США
 
-- Центр партнеров для Microsoft Cloud for US Government
-
-**Соответствующие роли**
-
-- Агент по администрированию
-- Администратор выставления счетов
-- Агент по продажам
-- Агент службы технической поддержки
+**Соответствующие роли**: Агент администрирования | Администратор выставления счетов | Агент продаж | Агент службы технической поддержки
 
 В этой статье объясняется, как считывать файлы сверки с ежедневной оценкой использования.
 

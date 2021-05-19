@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 841308d535d4071ee0a8eabf3e70325edea5777c
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 3f5cf4895fa4d66c65215989d808a1dd18ef9064
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979722"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147859"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Приобретите продукты для коммерческого рынка для своих клиентов в центре партнеров
 
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Агент по администрированию
+**Соответствующие роли**: глобальный администратор | Агент администратора
 
 В качестве партнера в программе поставщика облачных решений (CSP) можно использовать коммерческий магазин для приобретения подписок для клиентов на продукты SaaS, предлагаемые независимыми поставщиками программного обеспечения (ISV).
 
@@ -59,6 +56,6 @@ ms.locfileid: "97979722"
 
 7. Выберите конкретное предложение, а затем щелкните **создать**.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Управление предложениями коммерческих рынков](csp-commercial-marketplace-purchase.md)

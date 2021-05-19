@@ -9,22 +9,18 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: ae39190e47b48a69e103da6d899b11c224a56d22
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: c4e1459b71016718533d02953691065332c4ad13
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686149"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147349"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Предоставление клиентам различных типов поддержки
 
-**Относится к**
+Область **применения**: центр партнеров | Центр партнеров по Microsoft Cloud для государственных организаций США
 
-- Центр партнеров для Microsoft Cloud for US Government
-
-**Соответствующие роли**
-
-- Агент справки
+**Соответствующие роли**: Агент справки
 
 ## <a name="microsoft-partner-support-guidance"></a>Руководство по предоставлению поддержки для партнеров Майкрософт
 

@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b4653e0f26bdce558dbdc70f03251e60277527f
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 28a3b40eb3a3e037cbeb434c57a93b9a0a94e691
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979660"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148097"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Контракты партнеров по CSP, делающих бизнес в коммерческом магазине
 
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Агент по администрированию
+**Соответствующие роли**: глобальный администратор | Агент администратора
 
 Эта статья содержит сведения о контрактах для партнеров в программе CSP, которые выбирают приобретенные предложения или продукты для клиентов из центра партнеров в коммерческом магазине или портал Azure.
 
@@ -43,7 +40,7 @@ ms.locfileid: "97979660"
   
 Корпорация Майкрософт не принимает юридическую ответственность за доставку служб между взаимодействующими сторонами и не предоставляет механизм для предоставления партнерам прав на установку юридических положений через свою бизнес-платформу. Если действующим партнерам требуются дополнительные юридические условия, им нужно будет выполнить соглашение напрямую.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Поддержка продуктов коммерческого Marketplace](csp-commercial-marketplace-support.md)
 

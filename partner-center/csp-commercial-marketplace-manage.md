@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5e6ca188aeb50cec6f847afb08be4a9d62b36984
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: e1bb2752dad5325478496c83fc368943780d8afb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979682"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147910"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Управляйте продуктами и предложениями коммерческих рынков для ваших клиентов
 
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Агент по администрированию
+**Соответствующие роли**: глобальный администратор | Агент администратора
 
 Партнеры в программе поставщика облачных решений (CSP) могут использовать портал центра партнеров для приобретения многих предложений или подписок ISV для клиентов из коммерческого рынка. После приобретения предложения у вас есть различные способы управления им.
 
@@ -110,7 +107,7 @@ ms.locfileid: "97979682"
 
 Вы также можете использовать API центра партнеров для управления жизненным циклом и управления счетами для ваших подписок. Дополнительные сведения см. [в статье Создание подписки для продуктов коммерческого рынка](/partner-center/develop/create-subscription-azure-marketplace-products).
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Приобретение предложений коммерческих рынков](csp-commercial-marketplace-purchase.md)
 - [Сведения о выставлении счетов в коммерческом магазине](csp-commercial-marketplace-billing.md)

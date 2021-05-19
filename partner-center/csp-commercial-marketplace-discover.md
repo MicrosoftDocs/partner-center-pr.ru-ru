@@ -9,19 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f741ef4e44632e1d239285b58e99fbb38a8f37e7
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: ab30f8391df58155c8511dc628b1fefd94c8d768
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979606"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147978"
 ---
 # <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Узнайте о предложениях и ценах в коммерческом магазине по партнерским центрам
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Агент по администрированию
+**Соответствующие роли**: глобальный администратор | Агент администратора
 
 Если независимые поставщики программного обеспечения (ISV) решили опубликовать предложение в коммерческом магазине, они также смогут решить, должны ли они предоставляться в программе CSP. Если вы решили продать предложение с помощью программы CSP, партнеры CSP должны увидеть предложение в области центра партнеров Marketplace.
 
@@ -100,6 +97,6 @@ ms.locfileid: "97979606"
 
 Дополнительные сведения о работе CSP в Marketplace см. в статье [Обзор коммерческого рынка](csp-commercial-marketplace-overview.md).
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Приобретение предложений коммерческих рынков](csp-commercial-marketplace-purchase.md)

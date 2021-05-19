@@ -10,18 +10,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ddbc4415dc7ccf524f5e9618b2e787bc4ddb9926
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 4951d6abde3ea445ec588458af9f33f3ccd56092
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794944"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146839"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud для правительства США
 
-Область **применения**: центр партнеров | Центр партнеров по Microsoft Cloud для государственных организаций США
+Область **применения**: центр партнеров для Microsoft Cloud для государственных организаций США
 
-**Соответствующие роли**: глобальный администратор
+**Соответствующие роли** — глобальный администратор.
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Управление пользователями на портале Azure для Microsoft Cloud для правительства США
 
@@ -38,7 +38,7 @@ ms.locfileid: "109794944"
 
 -  [**Сброс пароля пользователя в Azure Active Directory**](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 -  [**Центр партнеров для Microsoft Cloud for US Government**](partner-center-for-microsoft-us-govt-cloud.md)
 

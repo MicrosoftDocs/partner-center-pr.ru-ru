@@ -8,19 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 3cd9ee73da3432b88c2ef3669f12451d675a319a
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: e98296aa42327a7b2ebd91b44f2e28e9010600bb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179179"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146754"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Используйте эти ресурсы для создания планов поощрения и подтверждения выполнения
 
-**Соответствующие роли**
-
-- Администратор программы поощрения
-- Пользователь программы поощрения
+**Соответствующие роли**: администратор поощрения | Пользователь поощрения
 
 В этой статье описываются некоторые важные документы, необходимые для успешной работы и получения оплаты за работу в определенной программе поощрения. В число этих документов входят:
 
@@ -48,7 +45,7 @@ ms.locfileid: "106179179"
 | Узнайте, как создать план утверждений для поощрения с помощью стимулов | [Создание плана](incentives-create-your-plan.md)  |
 Узнайте, как создать подтверждение выполнения | [Подготовка подтверждения выполнения](incentives-prepare-your-proof-of-execution.md)  |
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - Узнайте, как [создать собственный план](incentives-create-your-plan.md)
 - Дополнительные сведения о процессе утверждения ковариантных [утверждений для поощрения](claims-overview.md)

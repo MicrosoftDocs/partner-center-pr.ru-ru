@@ -9,25 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 117acfa8c50496ddaa75789b2bb3f55c642e4fe6
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 041f0fadfea107027ae1d9796d235700e66e6834
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702915"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146584"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Общие сведения о полях в файлах сверки, основанных на лицензиях центра партнеров
 
-**Относится к**
+Область **применения**: центр партнеров | Центр партнеров по Microsoft Cloud для государственных организаций США
 
-- Центр партнеров для Microsoft Cloud for US Government
-
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор управления пользователями
-- Администратор выставления счетов
-- Агент по администрированию
+**Соответствующие роли**: глобальный администратор | Администратор управления пользователями | Администратор выставления счетов | Агент администратора
 
 Чтобы согласовать изменения в заказах клиента, Сравните **Syndication_Partner_Subscription_Number** из файла СВЕРКИ с **идентификатором подписки** из центра партнеров.
 

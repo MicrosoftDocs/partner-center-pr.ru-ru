@@ -9,26 +9,18 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2d25fcb99695a726ab99fca4c4163e268a464526
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 0fc1176c6620300002afbc9bf218afcceb777538
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441835"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146278"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>Центр партнеров по Microsoft Cloud для государственных организаций США поддерживает предложения партнеров в правительственных учреждениях
 
-**Относится к**
+Область **применения**: центр партнеров для Microsoft Cloud для государственных организаций США
 
-- Центр партнеров для Microsoft Cloud for US Government
-
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор управления пользователями
-- Агент по администрированию
-- Агент по продажам
-- Администратор выставления счетов
+**Соответствующие роли**: глобальный администратор | Администратор управления пользователями | Агент администратора | Агент продаж | Администратор выставления счетов
 
 ## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud для правительства США: соответствие требованиям к защите данных
 

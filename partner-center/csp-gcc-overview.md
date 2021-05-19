@@ -9,19 +9,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1c6456b1fb1061f9b2f0a2b67a8d2285ea25474e
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: d88936845c8b7ae7e17840843896d87ceebb4b2f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979436"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147808"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Продажа Office 365 для государственных организаций в средах GCC для подписок CSP клиентам, отвечающим необходимым требованиям
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Агент по администрированию
+**Соответствующие роли**: глобальный администратор | Агент администратора
 
 
 ## <a name="overview"></a>Обзор
@@ -39,7 +36,7 @@ ms.locfileid: "97979436"
 - Пошаговое пошаговое инструкции см. [в статье продажи Office 365 для государственных организаций с подпиской CSP](https://go.microsoft.com/fwlink/?linkid=2007323).  
 
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 Сведения о [возможностях партнеров в государственной сфере США](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) см. на сайте для партнеров по Microsoft 365.
 

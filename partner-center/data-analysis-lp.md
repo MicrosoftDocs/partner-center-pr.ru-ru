@@ -9,19 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3aec8c8abe6184be48fd54e0f76bc7e0c08e4792
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 7dab3469b885f693ba8498e8a07eb120b8f07021
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441886"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147213"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Использование аналитики для получения дополнительных сведений о выручке подписки
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор партнера MPN
+**Соответствующие роли**: глобальный администратор | Администратор партнера MPN
 
 Для планирования способов развития вашего бизнеса CSP нужно понимать, как клиенты используют продукты Майкрософт. Существует несколько способов сбора данных в Центре партнеров: можно собирать данные и о вашем бизнесе, и о том, используют ли ваши клиенты приобретенные лицензии и как. Если вы используете прямую модель CSP, у вас также есть возможность установить и использовать приложение аналитики центра партнеров для Power BI для сбора дополнительных данных.
 
@@ -69,7 +66,7 @@ ms.locfileid: "106441886"
 
 
  
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Анализ того, как клиенты используют приобретенные лицензии](increasing-adoption-and-satisfaction.md)  
 - [Просмотр журналов действий клиента](activity-logs.md)

@@ -9,20 +9,16 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9780aa80fdcaab6cfd240127b80155cbfb8dcd26
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 185d1593808bc417fa15646955a0cce683242570
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502924"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148165"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>Создание и Управление утверждением ковариантной заявки на поощрения
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор программы поощрения
-- Пользователь программы поощрения
+**Соответствующие роли**: глобальный администратор | Администратор поощрения | Пользователь поощрения
 
 Вы можете инициировать заявку на поощрения в центре партнеров.
 
@@ -46,6 +42,6 @@ ms.locfileid: "106502924"
 
 Дополнительные сведения см. в статье [поощрения для участников гуидебук](https://assetsprod.microsoft.com/co-op-guidebook.pdf).
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Основные требования к утверждениям совместных инициатив в рамках программы поощрений](core-requirements.md)

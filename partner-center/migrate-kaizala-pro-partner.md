@@ -8,18 +8,16 @@ ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 96d18c8f728c56b705d378ac56dcf46e777157f0
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 583e9c40bb8d161c30440f12331dc8dcbf3db417
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172410"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146431"
 ---
 # <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Миграция автономных подписок Kaizala Pro на Microsoft 365 или версии Office 365
 
-**Соответствующие роли**
-
-- Агент по продажам
+**Соответствующие роли**: агент продаж
 
 Начиная с 1 июля 2020 г. Корпорация Майкрософт завершает продажи автономной службы Kaizala Pro. Клиенты больше не смогут покупать новые подписки Kaizala Pro после этой даты, а существующие подписки Kaizala Pro не будут обновляться автоматически по истечении срока их действия.
 

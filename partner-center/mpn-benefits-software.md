@@ -9,19 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b559c1e8493c274204f1bdd219eae8bab994953e
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 846bad6bdde080288bc7dd916e389dd86b5315f0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619381"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146295"
 ---
 # <a name="mpn-benefits---software"></a>Преимущества MPN — программное обеспечение
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор партнера MPN
+**Соответствующие роли**: глобальный администратор | Администратор партнера MPN
 
 ## <a name="overview"></a>Обзор
 
@@ -60,7 +57,7 @@ ms.locfileid: "102619381"
 
  ## <a name="next-steps"></a>Дальнейшие действия
 
-- [Управление преимуществами и предложениями Microsoft Partner Network](manage-your-partner-network-benefits.md)
+- [Управление преимуществами и предложениями для участников Microsoft Partner Network](manage-your-partner-network-benefits.md)
 
 - [Используйте обращения в службу технической поддержки, чтобы получить техническую поддержку по продуктам](mpn-benefits-technical-support.md)
 

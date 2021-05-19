@@ -9,19 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8f54956f71912b2b55bdbfa6be60baf92f417378
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: 1f575a79039ae78e64e28c680a8b533d575200bc
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185338"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146363"
 ---
 # <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>Изучите область преимуществ Azure и облачных продуктов в центре партнеров
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор партнера MPN
+**Соответствующие роли**: глобальный администратор | Администратор партнера MPN
 
 В этой статье описываются конкретные преимущества Azure и облака, доступные партнерам в центре партнеров. Вы также узнаете, как активировать определенные типы Azure и облачные подписки.
  
@@ -175,7 +172,7 @@ ms.locfileid: "102185338"
 
 :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-6.png" alt-text="Сообщение об ошибке Azure и облачных продуктов." border="false":::
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - Сведения о [переходе с Office 365 E3 на Microsoft 365 Бизнес Premium](/microsoft-365/business/migrate-from-e3)
    

@@ -9,23 +9,18 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf5c64893bd5a55d842b2c426d05480a5a943a36
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 522237ab1a3a6814e36218ef2a57fd1bdda5437c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502907"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147689"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Используйте для продажи национальных облаков Майкрософт в рамках программы CSP
 
-**Относится к**
+Область **применения**: центр партнеров для Microsoft Cloud для государственных организаций США | Центр партнеров для Microsoft Cloud Германии
 
-- Центр партнеров для Microsoft Cloud for US Government
-- Центр партнеров для Microsoft Cloud Германии
-
-**Соответствующие роли**
-
-- Глобальный администратор
+**Соответствующие роли** — глобальный администратор.
 
 Помимо продаж клиентам в рамках глобальной программы поставщиков облачных решений уполномоченные партнеры корпорации Майкрософт также могут осуществлять продажи облачных решений пользователям в трех отдельных национальных облаках. Национальные облака являются физически и логически изолированными от сети экземплярами корпоративных облачных служб Microsoft, которые находятся на территории указанных стран и обслуживаются местным персоналом.
 
@@ -59,6 +54,6 @@ ms.locfileid: "106502907"
 
     Сведения о регистрации и осуществлении продаж клиентам в Azure и Office 365 под управлением 21Vianet в Китае см. в разделе [Центр партнеров под управлением 21Vianet](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Ответы на вопросы о Центре партнеров для Microsoft Cloud for US Government](faq-for-us-govt-cloud.md)

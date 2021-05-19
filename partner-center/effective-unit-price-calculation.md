@@ -9,18 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1473b3c0b90cca1152b4dab0b8efec86dbc3d22d
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 84beac77d41b8c11be9ac3cad87460eec9632ac4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172223"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147128"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Фактическое Вычисление цены за единицу для использования плана Azure
 
-**Соответствующие роли**
-
-- Администратор выставления счетов
+**Соответствующие роли**: администратор выставления счетов
 
 ## <a name="the-effective-unit-price"></a>Эффективная цена за единицу
 
@@ -67,6 +65,6 @@ ms.locfileid: "108172223"
 | 10 августа | 210,950039 | 155,63 | 0.737757626107858 |
 | 25-Авг | 555,950039 | 410,17 | 0.737782122900436 |
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Выставление счетов и налоги](billing.md)

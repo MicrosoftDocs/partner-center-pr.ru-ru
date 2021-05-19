@@ -8,18 +8,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 90d1fe9728c43d2f34b6cfe2d9e4c9613d865aeb
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 8c47204d54cf05113eae73cede4afedf106ac121
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133069"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146516"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Объединение учетной записи партнера с другой учетной записью партнера
 
-**Соответствующие роли**
-
-- Администратор учетных записей
+**Соответствующие роли**: Администратор учетной записи
 
 Две или более компаний, которые являются активными партнерами Майкрософт и имеют учетные записи в центре партнеров, могут объединить свои учетные записи.
 
@@ -124,7 +122,7 @@ ms.locfileid: "106133069"
 7.  Администраторы Contoso продолжат управление ролями центра партнеров для @contoso.com пользователей. Администраторы Fabrikam продолжат управление ролями центра партнеров для @fabrikam.com пользователей. Администраторы Contoso могут администрировать пользователей Fabrikam только в том случае, если они приглашены в качестве гостя в клиент Fabrikam.
 8.  Компания Contoso решила проигнорировать @fabrikam.com клиент и повторно выдать новые @contoso.com учетные данные сотрудников Fabrikam с новыми ролями и разрешениями.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Назначение пользователям ролей и разрешений](permissions-overview.md)
 

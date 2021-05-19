@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 6de0d50364930999a7d0f335016a7c5a1864d8ab
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 407b133d37d3f1c3ca46c8a9c15b3a75e93f2922
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284355"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147451"
 ---
 # <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Рекомендации по успешной связи с клиентами с корпорацией Майкрософт
 
-**Относится к**
+Область **применения**: центр партнеров | Центр партнеров по Microsoft Cloud для государственных организаций США
 
-- Центр партнеров для Microsoft Cloud for US Government
-
-**Соответствующие роли**
-
-- Агент службы технической поддержки
+**Соответствующие роли**: агент службы технической поддержки
 
 В целом, мы ожидаем, что все сообщения клиент будет получать от партнера по программе поставщиков облачных решений. Поскольку у вас есть отношения выставления счетов с клиентами, Майкрософт не будет отправлять напрямую вашим клиентам сообщения, связанные с их подписками.
 
@@ -32,6 +28,6 @@ ms.locfileid: "108284355"
 
 С клиентами, у которых уже имеются коммерческие отношения с Майкрософт, Майкрософт будет и дальше связываться напрямую по поводу продуктов и служб, отличных от CSP.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Самостоятельная поддержка клиентов с помощью центра администрирования Microsoft Office 365 или с помощью портал Azure](customer-self-support.md)
