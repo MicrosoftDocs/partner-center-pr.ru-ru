@@ -8,18 +8,16 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: c4e24c22790edddef02e7936eaef9ed788489a37
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 670fae58a9a0e25127eb746f38063ea300d5ee2f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528540"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152092"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Регистрация и управление пользователями в программе поощрения
 
-**Соответствующие роли**
-
-- Администратор программы поощрения
+**Соответствующие роли**: администратор поощрения
 
 >[!NOTE]
 >Прежде чем вы сможете зарегистрироваться в программе поощрения, необходимо завершить [Перенос](prepare-pmc-pc-migration.md)центра участия в партнерских программах.
@@ -57,7 +55,7 @@ ms.locfileid: "107528540"
 
 Срок действия регистрации поощрения истекает в конце финансового года. Тем не менее, если вы не сохранили подходящего партнера с активным соглашением, корпорация Майкрософт будет направлять регистрацию поощрения в следующий финансовый год. Вам не нужно предпринимать никаких действий при условии, что сведения о выплатах и налогах, необходимые для программы поощрения, будут выполнены согласно правилам программы поощрения.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Определение возможности участия в программе](incentives-determined-your-program-eligibility.md)
 - [Создание и управление вашими выплатами и профилями налогов](incentives-create-and-manage-your-payout-and-tax-profiles.md)

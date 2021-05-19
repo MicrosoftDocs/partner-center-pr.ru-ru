@@ -8,22 +8,18 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.date: 11/20/2019
-ms.openlocfilehash: c6625e2e35cee5d410a22c4a384012a294a97b5d
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: e2bff940dc2d145a783dddad3a71aba14e1ba25a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172376"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150970"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Ответы на вопросы о Центре партнеров для Microsoft Cloud for US Government
 
-**Относится к**
+Область **применения**: центр партнеров для Microsoft Cloud для государственных организаций США
 
-- Центр партнеров для Microsoft Cloud for US Government
-
-**Соответствующие роли**
-
-- Глобальный администратор
+**Соответствующие роли** — глобальный администратор.
 
 ## <a name="general-questions"></a>Общие вопросы
 
@@ -172,7 +168,7 @@ API-интерфейсы и требования к их интеграции в
 
 Для получения дополнительных сведений обратитесь к менеджеру по учетным записям. Кроме того, присоединитесь к нашей к группе в Yammer, посвященной [CSP для Azure для государственных организаций](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777).
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Зарегистрируйтесь в программе поставщика облачных решений для Microsoft Cloud для государственных организаций США](enroll-in-csp-for-microsoft-us-govt-cloud.md).
 - [Дополнительные сведения о центре партнеров для Microsoft Cloud для государственных организаций США](partner-center-for-microsoft-us-govt-cloud.md)

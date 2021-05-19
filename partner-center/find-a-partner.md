@@ -8,18 +8,16 @@ description: В качестве партнера Майкрософт вы мо
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: df7ae61a88852d6ef2e4c1cb210b689a20235d0c
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: be12ede0c725a859892985e4cfb9032d7fb2abe8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172342"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150953"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Поиск партнера или поставщика решений для получения ответов на вопросы о программах, лицензировании или сделках клиента 
 
-**Соответствующие роли**
-
-- Все партнеры Майкрософт
+**Соответствующие роли**: все партнеры Майкрософт
 
 В этой статье мы расскажете партнерам корпорации Майкрософт, как найти других партнеров, которые могут помочь им и клиентам в успешности работы с продуктами и службами Майкрософт.
 
@@ -43,7 +41,7 @@ ms.locfileid: "108172342"
 |Найдите поставщика или распространителя решения программы корпоративного лицензирования  | [Страница поиска поставщика решений (Майкрософт)](https://www.microsoft.com/solution-providers/home)  |
 |Поиск лицензионного распространителя OEM-канала Майкрософт  | [Страница поиска OEM-центра партнеров Майкрософт по устройствам](https://devicepartner.microsoft.com/connect/distributor)  |
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Станьте непрямым торговым посредником в программе CSP](https://partner.microsoft.com/licensing)
 - [Дополнительные сведения о косвенных торговых посредниках и косвенных поставщиках в программе CSP](work-with-other-partners.md)

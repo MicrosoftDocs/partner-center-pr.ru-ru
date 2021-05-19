@@ -8,18 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: c6ff8915384f8c7ab98fa058f2e45e3d0b4f7214
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 7b67564fbf469ac23ad514d96c3ec7b27bb3a5e6
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179519"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151956"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Устранение недостающих платежей, неправильные доходы и другие проблемы
 
-**Соответствующие роли**
-
-- Администратор программы поощрения
+**Соответствующие роли**: администратор поощрения
 
 Эта статья поможет вам устранить любые проблемы, связанные с оплатой, в программе поощрения. В число рассматриваемых субъектов входит время платежей, проверка допустимости доходов и важность настройки выплат и налоговых профилей.
 

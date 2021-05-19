@@ -9,20 +9,16 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e279ad8299def820287207c36c670c6051e26f2f
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: 51b7bd4846826db86f5d9c6e5e087e285dd026c0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686251"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151684"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Управление преимуществами Marketplace в центре партнеров & активация маркетинговых, коммерческих и технических преимуществ
 
-**Соответствующие роли**
-
-- Администратор партнера MPN
-- Глобальный администратор
-- Агент по администрированию
+**Соответствующие роли**: администратор партнера MPN | Глобальный администратор | Агент администратора
 
 Если вы публикуете предложения по программному обеспечению в нашем коммерческом магазине, прибыль в Marketplace предоставляет целевую поддержку для всех ваших предложений с маркетингом, продажами и техническими преимуществами.
 

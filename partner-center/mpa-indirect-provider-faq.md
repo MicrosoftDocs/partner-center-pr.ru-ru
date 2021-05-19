@@ -1,5 +1,5 @@
 ---
-title: Как косвенные поставщики могут помочь своим торговым посредникам принять соглашение с партнерами Майкрософт — часто задаваемые вопросы
+title: Вопросы и ответы. Как косвенные поставщики могут помочь своим торговым посредникам принять Соглашение с партнером Майкрософт
 ms.topic: article
 ms.date: 02/17/2021
 ms.service: partner-dashboard
@@ -9,20 +9,16 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3572056d38966427f8970cf48268ac21a261b505
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 8fc82348ed59dff14b4c98272fb5b77d488ccde0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645900"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151497"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-accept-the-microsoft-partner-agreement-mpa"></a>Как косвенные поставщики могут помочь своим непрямым торговым посредникам принять соглашение о партнерской программе Майкрософт (MPA)
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Агент по администрированию
-- Агент по продажам
+**Соответствующие роли**: глобальный администратор | Агент администратора | Агент продаж
 
 Следующие вопросы и ответы помогают устранить потенциальные проблемы и решения, которые могут помочь непрямым торговым посредникам понять, как и почему следует принять АКТИВАЦИю. 
 
@@ -50,7 +46,7 @@ ms.locfileid: "100645900"
 
 **Ответ** Необходимо по крайней мере одну подпись MPA для каждого региона CSP по ИДЕНТИФИКАТОРу MPN. Например, если у вас есть идентификатор MPN в Франции и вы зарегистрировались в программе непрямого торгового посредника CSP в Франции и принимали участие в активации, вы будете соответствовать всем [регионам службы CSP Europe](regional-authorization-overview.md#europe-region-and-market) и не должны принимать участие в активации в других европейских странах. Вы можете выполнить инструкцию Transact с любым косвенным поставщиком во всем Европейском регионе CSP. 
 
-#### <a name="i-am-a-direct-bill-partner-in-france-and-also-transact-with-an-indirect-provider-in-italy-do-i-need-to-accept-two-mpas--one-as-direct-bill-and-one-as-indirect-reseller-"></a>Я являюсь прямым партнером в Франции, а также инструкцией Transact с косвенным поставщиком в Италии, должен ли мне принимать два мПас, один как прямой счет и один как непрямой Торговый посредник?
+#### <a name="i-am-a-direct-bill-partner-in-france-and-also-transact-with-an-indirect-provider-in-italy-do-i-need-to-accept-two-mpas-one-as-direct-bill-and-one-as-indirect-reseller-"></a>Я являюсь прямым партнером в Франции, а также инструкцией Transact с косвенным поставщиком в Италии, должен ли мне принимать два мПас, один как прямой счет и один как непрямой Торговый посредник?
 
 **Ответ**  Если вы уже приняли условия прямого выставления счетов в регионе CSP, вам не нужно принимать непрямого торгового посредника CSP. Тем не менее необходимо убедиться, что ваша учетная запись MPN находится в центре партнеров, а идентификатор MPN, которому предоставлен доступ к непрямому поставщику, находится в центре партнеров. 
 
@@ -167,7 +163,7 @@ ms.locfileid: "100645900"
 
 ## <a name="question-about-migrating-your-mpn-account-from-pmc-to-partner-center"></a>Вопрос о миграции учетной записи MPN из PMC в центр партнеров
 
-#### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>Я хочу перенести свою учетную запись MPN из центра управления партнерами в центр партнеров. Как это можно сделать? Я не зная, кто был администратором MPN в PMC, как можно выполнить миграцию? 
+#### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc-how-can-i-migrate"></a>Я хочу перенести свою учетную запись MPN из центра управления партнерами в центр партнеров. Как это можно сделать? Я не зная, кто был администратором MPN в PMC. Как выполнить миграцию? 
 
 **Ответ** Загрузите пошаговое руководство по [переносу MPN с PMC на компьютер](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx).
 
@@ -186,7 +182,7 @@ ms.locfileid: "100645900"
 
 ## <a name="questions-about-mpn-and-csp-account-verification"></a>Вопросы о проверке учетной записи MPN и CSP
 
-#### <a name="i-enrolled-in-mpn-program-and-as-a-csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-is-in-rejected-state-what-should-i-do"></a>Я зарегистрировался в программе MPN и в качестве программы непрямого торгового посредника CSP, но состояние проверки "Юридический бизнес-профиль" находится в состоянии "Отклонено". Что следует делать?
+#### <a name="i-enrolled-in-mpn-program-and-as-a-csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-is-in-rejected-state-what-should-i-do"></a>Я зарегистрировался в программе MPN и в качестве программы непрямого торгового посредника CSP, но состояние проверки "Юридический бизнес-профиль" находится в состоянии "Отклонено".   Что следует делать?
 
 **Ответ** Необходимо обновить сведения о юридическом профиле, щелкнув " **Обновить**". Прежде чем продолжать, ознакомьтесь со следующими статьями.
 
@@ -202,7 +198,7 @@ ms.locfileid: "100645900"
 :::image type="content" source="images/rejected-faq-mpa.png" alt-text="вергать":::
 
 
-#### <a name="i-enrolled-in-mpn-program--csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-seems-to-be-stuck-in-the-pending-state-what-should-i-do"></a>Я зарегистрировался в программе MPN Program/CSP непрямого торгового посредника, но состояние проверки "Юридический бизнес-профиль" будет задержано в состоянии ожидания. Что следует делать?
+#### <a name="i-enrolled-in-mpn-program--csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-seems-to-be-stuck-in-the-pending-state-what-should-i-do"></a>Я зарегистрировался в программе MPN Program/CSP непрямого торгового посредника, но состояние проверки "Юридический бизнес-профиль" будет задержано в состоянии ожидания.   Что следует делать?
 
 **Ответ**  Если ваш юридический бизнес-профиль поставщика CSP находится в состоянии **ожидания** по истечении более чем пяти рабочих дней, отправьте запрос в службу поддержки из центра партнеров, щелкнув [Поддержка центра партнеров](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce).
 
@@ -210,7 +206,7 @@ ms.locfileid: "100645900"
 
 ## <a name="questions-about-working-in-partner-center"></a>Вопросы о работе в центре партнеров
 
-#### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-accept-mpa-"></a>Я не могу узнать, кто из администраторов центра партнеров может принять АКТИВАЦИю?
+#### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-accept-mpa"></a>Я не могу узнать, кто из администраторов центра партнеров может принять АКТИВАЦИю?
 
 **Ответ** Глобальный администратор в вашей компании должен принять активацию Майкрософт. Чтобы узнать, кому назначена роль глобального администратора в вашей компании, перейдите в раздел **Управление пользователями.** В поле поиска введите Global admin. Будут извлечены имена пользователей, которым назначена роль глобального администратора. Любой из этих пользователей может принять АКТИВАЦИю. Если у вашей компании нет глобального администратора, прочтите статью [что делать, если вашей компании требуется глобальный администратор](no-mpn-admin.md).
 
@@ -272,6 +268,6 @@ ms.locfileid: "100645900"
 
 
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Узнайте о сотрудничестве с непрямыми поставщиками в программе поставщиков облачных решений](indirect-reseller-tasks-in-partner-center.md)

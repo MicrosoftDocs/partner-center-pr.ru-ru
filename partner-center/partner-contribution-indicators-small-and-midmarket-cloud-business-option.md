@@ -9,20 +9,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7fc9961c74d11e3bb36332d0cfff5ea4f9378be
-ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
+ms.openlocfilehash: 389a20cb8447852758c284368d52b504e8438b07
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98861433"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145904"
 ---
-# <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Используйте индикаторы участия партнеров, чтобы достичь компетенции малых и среднего размера облачных решений
+# <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Использование показателей вклада партнера для получения компетенции в области малых и средних облачных решений
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор партнера MPN
-- Администратор учетных записей
+**Соответствующие роли**: глобальный администратор | Администратор партнера MPN | Администратор учетной записи
 
 В этой статье описываются шесть ключевых показателей участия в партнерской компании (PCI), которые используются для оценки продвижения партнера по достижению или хранению компетенции решения "серебристое" или "Золотое" среднего размера облачных решений с помощью облака Business Applications SMB.
 
@@ -257,7 +253,7 @@ PCI предоставляет комплексное представление
 
 - Предполагается, что клиент пересекает пороговое значение активного пользователя, если клиент был:
 
-  - Ниже указанного порогового значения (определенного количества рабочих экземпляров в клиенте) 12 месяцев назад.<br/> *and*
+  - Ниже указанного порогового значения (определенного количества рабочих экземпляров в клиенте) 12 месяцев назад.<br/> *and* (и);
   - Это пороговое значение пересекается не менее одного раза в течение последующих 11 месяцев.
 
 - Активные пользователи будут учитываться на уровне клиента и суммироваться только по платным подпискам в рамках клиента.
@@ -306,6 +302,6 @@ PCI предоставляет комплексное представление
 
    :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="Чтение таблицы «индикаторы участия партнера»":::
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 Просмотрите эти [информационные ресурсы](https://partner.microsoft.com/training/assets/collection/cloud-business-applications-smb-option-for-smmcs-competency-attainment#/) , чтобы узнать больше о достижении компетенции Gold или Серебряного малого и среднего размера облачных решений с помощью облака Business Applications SMB.

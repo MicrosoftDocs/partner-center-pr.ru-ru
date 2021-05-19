@@ -8,19 +8,16 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: b8e7d7e7bdd5cb8bc9b90b3461528859eb801d0d
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: b6dab5fb57d26c00928441d7962511e6530fa3b1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132491"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152330"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Как оплатить плату, связанную с компетенцией серебряного или золотого
 
-**Соответствующие роли**
-
-- Администратор партнера MPN
-- Администратор учетных записей
+**Соответствующие роли**: администратор партнера MPN | Администратор учетной записи
 
 В этой статье описывается, как и когда следует платить за плату, связанную с достижением компетенции серебряного или золотого Microsoft Partner Network. В статье также описывается, как изменить предпочтительный метод оплаты, как отменить заказ и получить скидку 25% при переходе с компетенции на золотую.
 
@@ -185,6 +182,6 @@ ms.locfileid: "106132491"
 
 5. Нажмите кнопку **Далее** , чтобы завершить покупку этого предложения и получить скидку.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 Дополнительные сведения о [компетенциях](https://partner.microsoft.com/membership/competencies), их преимуществах и уникальных требованиях

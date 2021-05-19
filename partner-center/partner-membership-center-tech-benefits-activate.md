@@ -9,19 +9,17 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17fe2496c88adf4a1e271f1dc8275e7e0643e16a
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 3890f3fe314dcd1bfbbb0d86bf496683d80c5cd9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818649"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145819"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>Активация Microsoft Partner Network технических преимуществ за пределами центра партнеров
 
 
-**Соответствующие роли**
-
-- Все пользователи Центра партнеров
+**Соответствующие роли**: все пользователи центра партнеров
 
 Эта статья предназначена для участников Microsoft Partner Network (MPN), которые по-прежнему используют центр участия в партнерских организациях (PMC). Эти участники нуждаются в помощи в активации определенных преимуществ членства в MPN, таких как технические преимущества, за пределами текущей [панели мониторинга центра партнеров](https://partner.microsoft.com/dashboard).
 
@@ -49,7 +47,7 @@ ms.locfileid: "109818649"
 
 Вам или вашим пользователям вашей компании может потребоваться совместно использовать эти коды поддержки продуктов при первой отправке запроса на поддержку для определенных типов продуктов или служб.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Миграция из центра участия в партнерских партнерах в центр партнеров](prepare-pmc-pc-migration.md)
 - [Дополнительные сведения о компетенциях и преимуществах MPN](learn-about-competencies.md)

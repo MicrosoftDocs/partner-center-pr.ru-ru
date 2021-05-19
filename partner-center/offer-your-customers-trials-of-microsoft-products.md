@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53f4a16ac5d0f33fd534d7fd9a13eaf5a25cf3ea
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 1d6fda82464b9abc30714798a2ee3999d8f93db5
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132338"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151140"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Предоставьте клиентам 30-дневные бесплатные пробные версии продуктов Майкрософт
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор управления пользователями
-- Агент по продажам
+**Соответствующие роли**: глобальный администратор | Администратор управления пользователями | Агент продаж
 
 Чтобы продемонстрировать клиентам новые продукты Майкрософт, рекомендуется предлагать 30-дневные бесплатные пробные версии. Процесс регистрации для получения пробной версии продукта из каталога аналогичен процессу регистрации во многих других веб-службах. Предложение доступно для всех партнеров.
 

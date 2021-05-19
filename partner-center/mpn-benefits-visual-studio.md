@@ -9,19 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b64c15fd978ecf8d81d66a7814db74c6fd78824a
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 24419f07084cab4899f1dac81140b5fea5f25b6b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101758479"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152503"
 ---
 # <a name="explore-the-visual-studio-benefits-area-in-partner-center"></a>Изучите область преимуществ Visual Studio в центре партнеров
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор партнера MPN
+**Соответствующие роли**: глобальный администратор | Администратор партнера MPN
 
 ## <a name="overview"></a>Обзор
 
@@ -29,7 +26,7 @@ ms.locfileid: "101758479"
 
 :::image type="content" source="images/benefits/mpn-visual-studio-1.png" alt-text="Доступные преимущества Visual Studio." border="false":::
 
-## <a name="manage-visual-studio-subscriptions"></a>Управление подписками Visual Studio
+## <a name="manage-visual-studio-subscriptions"></a>Управление подписками на Visual Studio
 
 1. Выберите [Visual Studio](https://partner.microsoft.com/dashboard/mpn/membership/benefits/visualstudio) на вкладке "преимущества", чтобы просмотреть список подписок Visual Studio.
 
@@ -45,7 +42,7 @@ ms.locfileid: "101758479"
    > [!Note]
    > Подписки Visual Studio могут быть переназначены от одного подписчика другому, если с момента первоначального назначения прошло 90 дней. Дополнительные сведения см. в статье **[Microsoft Partner Programs Guide.](https://aka.ms/partner-benefits-use-guide)**
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 [Подписки Visual Studio, предлагаемые в Microsoft Partner Network](/visualstudio/subscriptions/program-mpn)
 

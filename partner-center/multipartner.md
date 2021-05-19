@@ -9,24 +9,18 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 931b169b3b2794f6a83a14007a50184fa6676102
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: b41d3ee33b789c8f839ff1b3b5f5d8fd27c23f02
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441801"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151157"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Поддержка нескольких партнеров для клиентов, которые хотят работать с несколькими партнерами
 
-**Относится к**
+Область **применения**: центр партнеров | Центр партнеров по Microsoft Cloud для государственных организаций США
 
-- Центр партнеров для Microsoft Cloud for US Government
-
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор управления пользователями
-- Агент по продажам
+**Соответствующие роли**: глобальный администратор | Администратор управления пользователями | Агент продаж
 
 Возможность использования нескольких партнеров в центре партнеров поддерживает сценарии, когда клиент хочет работать с несколькими партнерами. Например, клиент может захотеть нанять одного партнера для предложения по Office 365, но нанять другого партнера, который специализируется на Microsoft Azure.
 

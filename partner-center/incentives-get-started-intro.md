@@ -8,19 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 1b595afdba9ab9192c859c00fc35757ea2e24244
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 53ae5c3cf47ab74ad7dc61777ce512b37f4269fa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179129"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152041"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Ресурсы, которые помогут приступить к работе с программой поощрений
 
-**Соответствующие роли**
-
-- Администратор программы поощрения
-- Пользователь программы поощрения
+**Соответствующие роли**: администратор поощрения | Пользователь поощрения
 
 Эта статья содержит краткое введение в программы поощрения Майкрософт и описывает некоторые поощрения, которые помогут вам приступить к работе.
 
@@ -46,6 +43,6 @@ ms.locfileid: "106179129"
 | Просмотр всех данных и отчетов для программы поощрения | [Просмотр программ поощрения и платежей](understand-incentive-payouts.md)  |
 | Доступ к странице с выплатами стимулов для конкретной программы | [Доступ к заявлению о выплатах](payout-statement.md)  |
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 [Определение возможности участия в программе](incentives-determined-your-program-eligibility.md)

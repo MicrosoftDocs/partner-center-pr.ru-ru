@@ -8,19 +8,16 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c3cafa6b5ea280a924a0142da78483d54a18ab9
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: a917f3648447ac273fae839d32a4b4d3ce80ae35
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179502"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152024"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Часто задаваемые вопросы о поощрениях
 
-**Соответствующие роли**
-
-- Администратор программы поощрения
-- Пользователь программы поощрения
+**Соответствующие роли**: администратор поощрения | Пользователь поощрения
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Нужно ли быть глобальным администратором для регистрации в поощрениях?
 
@@ -76,6 +73,6 @@ ms.locfileid: "106179502"
 
 Существует интерактивная служба поддержки, если вы столкнулись с любой проблемой в разделе "поощрения" панели мониторинга — см. вариант поддержки (? (Значок) в правом верхнем углу.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Начало работы с поощрениями](incentives-get-started-intro.md)

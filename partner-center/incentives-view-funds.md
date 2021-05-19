@@ -8,19 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 5b9ff5ad5c2d20b25175830188981a18da9bc29a
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 14706e44201159213dc8fff671a8d47c52bd89c1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179434"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151905"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Просмотр доступных, заявленных и оставшихся совместных фондов
 
-**Соответствующие роли**
-
-- Администратор программы поощрения
-- Пользователь программы поощрения
+**Соответствующие роли**: администратор поощрения | Пользователь поощрения
 
 Вы можете отслеживать, отслеживать и согласовывать поощрительные фонды на [панели мониторинга центра партнеров](https://partner.microsoft.com/dashboard/) (требуется вход). Для просмотра этих фондов используйте следующую процедуру.
 
@@ -38,6 +35,6 @@ ms.locfileid: "106179434"
 
 Если у вас по-прежнему возникают проблемы с согласованием сумм или если некоторые сопутствующие фонды не видны, можно открыть запрос в службу поддержки. Для этого щелкните значок вопросительного знака в правом верхнем углу страницы, а затем выберите **поощрения**.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Начало работы с поощрениями](incentives-get-started-intro.md)

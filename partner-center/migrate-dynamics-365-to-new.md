@@ -9,21 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e83c06c11638bdde508fd27904038bcb6d8c9e9c
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 8232ab165ea68ebefdfbb30f3ac52c907e1b7278
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132644"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151531"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Перенос предложений с выпуском Dynamics 365 Business в более новые версии
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор управления пользователями
-- Агент по администрированию
-- Агент по продажам
+**Соответствующие роли**: глобальный администратор | Администратор управления пользователями | Агент администратора | Агент продаж
 
 Начиная с 1 января 2019 г. клиенты с подписками Dynamics 365 Business Edition больше не смогут продлить их до этих устаревших предложений. существующие подписки не будут обновляться автоматически по истечении срока их действия. На странице сведений о подписке состояние подписки изменится на "срок действия истекает через [Дата]" с "автоматическая рассылка [Дата]".
 

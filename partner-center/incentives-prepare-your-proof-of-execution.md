@@ -8,18 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: d0e5dca008f73a13fb25e9322c492a053037e633
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: a81962de16b56329167338012cc66e160fffafe8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179451"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151888"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Создание и отправка документов для подтверждения выполнения поощрения (ПОЕ)
 
-**Соответствующие роли**
-
-- Администратор программы поощрения
+**Соответствующие роли**: администратор поощрения
 
 Прежде чем приступить к оплате за работу с поощрениями, необходимо отправить подробное подтверждение выполнения (ПОЕ). В этой статье описывается процесс создания эффективного подтверждения выполнения.
 
@@ -41,7 +39,7 @@ ms.locfileid: "106179451"
    - **Дата**  Дата выполнения. Эта дата должна находиться между датой начала кампании и датой окончания кампании.
    - **Сумма**  Объем заявки на соop.
 
-7. Нажмите кнопку **Сохранить**.
+7. Щелкните **Сохранить**.
 
 8. На странице **новое подтверждение утверждения о выполнении** введите необходимые поля.
 
@@ -77,6 +75,6 @@ ms.locfileid: "106179451"
    - Approved
    - Отклонено
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Начало работы с поощрениями](incentives-get-started-intro.md)

@@ -9,22 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b61fd5c3c68b3bbd9396cf55a53c22b85523d976
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: c3ea3fae2ae8052b517bfb80e16614c4708a253b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132797"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151293"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Счета и налоги в программе Microsoft Partner Network
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор управления пользователями
-- Администратор партнера MPN
-- Администратор выставления счетов
-- Агент по администрированию
+**Соответствующие роли**: глобальный администратор | Администратор управления пользователями | Администратор партнера MPN | Администратор выставления счетов | Агент администратора
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>Просмотр или скачивание счета за членство в MPN
 
@@ -57,7 +51,7 @@ ms.locfileid: "106132797"
 
 3.  Введите идентификатор НДС для своей компании, нажмите кнопку **Добавить**, а затем нажмите кнопку **Далее**. 
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Общие сведения о выставлении счетов в Центре партнеров](billing-basics.md)
 

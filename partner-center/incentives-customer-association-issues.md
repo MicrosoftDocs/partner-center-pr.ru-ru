@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 30639725c0a852046251e83c3791f56d788931c1
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8f1c087911e6dd7e58182c99e2b97b7a6b2246d8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179219"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152177"
 ---
 # <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>Проблемы с заявленными сопоставлениями клиентов записи (КПОР)
 
-**Соответствующие роли**
-
-- Администратор выставления счетов
-- Глобальный администратор
-- Администратор программы поощрения
+**Соответствующие роли**: администратор выставления счетов | Глобальный администратор | Администратор поощрения
 
 Приведенное ниже содержимое поможет решить проблемы, которые могут возникнуть при работе с взаимоотношениями с клиентами.
 
@@ -89,6 +85,6 @@ ms.locfileid: "106179219"
 >[!IMPORTANT]
 >Если нам требуется дополнительная информация для подтверждения выполнения КПОР Association (ПОЕ), мы свяжемся с вами через раздел комментариев о сопоставлении КПОР.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Начало работы с поощрениями](incentives-get-started-intro.md)

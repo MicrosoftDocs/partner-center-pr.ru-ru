@@ -9,20 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2f3094489f65b7164b4a55804047f9a4ab5f11cb
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: caea2002b5edc2958c0af316762408e309bcf14a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124811"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151208"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Добавление нескольких клиентов и управление ими в учетной записи центра партнеров
 
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор учетных записей
+**Соответствующие роли**: глобальный администратор | Администратор учетной записи
 
 В этой статье описывается Консолидация нескольких клиентов Azure Active Directory (Azure AD) для вашей компании, а затем их добавление в учетную запись центра партнеров и управление ими. Это можно сделать несколькими причинами. Пример:
 
