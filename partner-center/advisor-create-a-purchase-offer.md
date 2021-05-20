@@ -1,7 +1,7 @@
 ---
 title: Advisor — создание предложения о приобретении
 ms.topic: article
-ms.date: 05/17/2020
+ms.date: 05/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как помощник по подписке может использовать центр партнеров для создания предложения о приобретении и настраиваемого URL-адреса для включения в пробные приглашения по Office 365.
@@ -9,19 +9,17 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a60b75c9eee3601b488fd52fe22b4d2551b526e3
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 41337f6c760152122b050fe3b39d1545527b4a81
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557755"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150443"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Advisor: создание предложения о покупке
 
  
-**Соответствующие роли**
-
-- Помощник
+**Соответствующие роли**: Advisor
 
 
 > [!NOTE]
@@ -67,6 +65,7 @@ ms.locfileid: "106557755"
     - Сообщите клиентам, что они контролируют количество приобретенных лицензий пользователей и могут изменить число лицензий, принятых в предложении.
     - Если предложение включает в себя услуги делегированного администрирования, рекомендуется подробно описать его преимущества и принимаемые вами на себя обязательства. Дополнительные сведения о делегированном администрировании см. в разделе [Предложение делегированного администрирования](customers-revoke-admin-privileges.md).
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Создание базы клиента с помощью приглашений пробной версии Office 365 и предложений по приобретению](advisors-build-your-business.md)
+- [Партнеры больше не могут регистрироваться в качестве помощников](advisors-no-csp.md)

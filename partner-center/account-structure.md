@@ -9,19 +9,16 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a32dba704482dad34b689b21da9e41de74a6e051
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: fb2488f9a82e261997703c22bca7c3cd9e761db0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284168"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150664"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Центр партнеров имеет два уровня учетных записей для партнеров MPN
 
-**Соответствующие роли**
-
-- Администратор учетных записей
-- Глобальный администратор
+**Соответствующие роли**: Администратор учетной записи | Глобальный администратор
 
 В центре партнеров в Организации есть два уровня учетных записей.
 
@@ -44,6 +41,6 @@ ms.locfileid: "108284168"
 
 :::image type="content" source="images/accountstructure.png" alt-text="Структура бизнес-партнера" border="false":::
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - Дополнительные сведения об управлении расположениями см. в статье [Управление учетной записью партнера: расположения](manage-locations.md).

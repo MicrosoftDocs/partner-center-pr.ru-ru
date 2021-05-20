@@ -9,18 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.openlocfilehash: f54e5e91dd63e5ceeaa3c25b929823e6d731d7d0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552407"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149321"
 ---
 # <a name="microsoft-partner-network-benefits-faq"></a>Часто задаваемые вопросы о Microsoft Partner Network
 
-**Соответствующие роли**
-
-- Администратор партнера MPN
+**Соответствующие роли**: администратор партнера MPN
 
 В следующей статье содержатся ответы на некоторые основные вопросы о том, Microsoft Partner Network (MPN) партнеров MPN о преимуществах членства, компетенциях и лицензиях на продукты.
 

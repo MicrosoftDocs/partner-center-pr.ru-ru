@@ -9,18 +9,16 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 8a81e287412394427003e489352312faba6984b9
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 7c3ee29099a072de3e508fcdfcfd965082522895
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557704"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149287"
 ---
 # <a name="benefits-faq"></a>Часто задаваемые вопросы о преимуществах
 
-**Соответствующие роли**
-
-- Администратор партнера MPN
+**Соответствующие роли**: администратор партнера MPN
 
 Многие распространенные вопросы о преимуществах Microsoft Partner Network (MPN) приведены в этой статье.
 
@@ -118,6 +116,6 @@ ms.locfileid: "106557704"
 
 6. Выберите продукт, который вы пытаетесь установить, а затем создайте запрос в службу технической поддержки.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Получите расширенную специализацию, чтобы продемонстрировать свои знания](advanced-specializations.md)

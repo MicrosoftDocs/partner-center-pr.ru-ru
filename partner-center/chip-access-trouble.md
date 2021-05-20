@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87a39479d8a567759356e1b101fdab83a2fa0d94
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: eec04bb75a1c8b2979a6d543770fd31d21f607c2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570609"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149066"
 ---
 # <a name="troubleshoot-issues-with-accessing-chip"></a>Устранение проблем с доступом к микросхемам
 
-**Соответствующие роли**
-
-- Основной контакт или администратор программы
+**Соответствующие роли**: основной контакт или администратор программы
 
 >[!NOTE]
 >Платформа микросхемы будет прекращена в конце 2021.
@@ -34,7 +32,7 @@ ms.locfileid: "96570609"
 1. Очистите все файлы cookie и откройте микросхемы в частном браузере.
 1. Выберите **Параметры представления совместимости** в браузере. Микросхема должна быть уже указана в разделе Microsoft.com, в противном случае добавьте веб-сайт.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Навигация по платформе поощрения каналов (микросхема)](chip-intro.md)
 - [Поддержка](report-problems-with-partner-center.md)

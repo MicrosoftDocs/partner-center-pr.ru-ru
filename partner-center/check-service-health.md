@@ -9,21 +9,16 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 60957d227197460a0cdb108e1826758e0ec48e03
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: db5856914ab988a8fc3beefeb5c425846383a921
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570626"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149134"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Проверка работоспособности службы для клиента, который сообщает о возможной проблеме или сбое службы
 
-**Соответствующие роли**
-
-- Агент по администрированию
-- Глобальный администратор
-- Агент службы технической поддержки
-- Агент по продажам
+**Соответствующие роли**: Агент администрирования | Глобальный администратор | Агент службы технической поддержки | Агент продаж
 
 В этой статье объясняется, как использовать центр партнеров для проверки работоспособности службы для клиента при возникновении проблем со службой. 
 
@@ -38,7 +33,7 @@ ms.locfileid: "96570626"
  
 Во время простоя службы Майкрософт постоянно сообщает о ходе устранения проблемы. Эти уведомления также отображаются либо в портал Microsoft Azure, либо в центре администрирования Microsoft 365.
 
-## <a name="next-steps"></a>Дальнейшие действия 
+## <a name="next-steps"></a>Следующие шаги 
 
 - Если проблема повторяется после завершения сбоя службы, отправьте запрос на обслуживание. См. раздел [Сообщение о проблемах от имени клиента](report-problems-on-behalf-of-a-customer.md).
 

@@ -9,21 +9,19 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 386acaadc74c1c8247a42cebc98c3d325ba43511
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: ebee6f49a57eb56429f33291768347be505e3b37
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570406"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148964"
 ---
 # <a name="navigate-the-channel-incentives-platform-chip"></a>Навигация по платформе "поощрения каналов" (микросхема)
 
+**Соответствующие роли**: администратор микросхемы
+
 >[!NOTE]
 >Платформа микросхемы будет прекращена в конце 2021.
-
-**Соответствующие роли**
-
-- Администратор микросхемы
 
 ## <a name="sign-into-the-chip-dashboard"></a>Вход на панель мониторинга микросхемы
 
@@ -39,6 +37,6 @@ ms.locfileid: "96570406"
 1. Выберите программу, к которой требуется получить доступ.
 Здесь можно просмотреть **производительность** и **прибыль** для выбранной программы. 
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Добавление пользователей в учетную запись CHIP](chip-users.md)

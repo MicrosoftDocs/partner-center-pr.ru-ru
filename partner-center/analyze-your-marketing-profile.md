@@ -1,5 +1,5 @@
 ---
-title: Анализ интересов
+title: Анализ потенциальных клиентов
 ms.topic: article
 ms.date: 06/15/2020
 ms.service: partner-dashboard
@@ -9,21 +9,19 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 6ddb9544e0c6f6a29540fe30d03d307318ddfdf8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530839"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150222"
 ---
 # <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Анализ потенциальных клиентов. Оценка уровня привлекательности компании для целевых клиентов и потенциальных рефералов
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**Соответствующие роли**
-
-- Администратор авторов
+**Соответствующие роли**: администратор ссылок
 
 На странице « **интересы** » в разделе « **аналитика** » ссылок можно увидеть, как выполняются ваши ссылки. Регулярно просматривайте эти метрики, чтобы определять тенденции или области, требующие внимания, и двигаться к бизнес-целям.
 

@@ -1,7 +1,7 @@
 ---
 title: Добавление клиентов с использованием предложений на пробную версию Office 365
 ms.topic: article
-ms.date: 05/06/2020
+ms.date: 05/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как разрешенные Microsoft Advisor могут развивать свои подписки Office 365. Создавайте и отправляйте приглашения пробной версии Office 365 и предложения по приобретению на клиентах.
@@ -9,19 +9,17 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31d8be49e0270f32c472f3fbe0a54d5ceadc9098
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: bd7e10aaf0bf339f92fbc9dc2f73f403c81693a3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557738"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150392"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Advisor: создание базы клиента с помощью приглашений пробной версии Office 365 и предложений по приобретению
 
 
-**Соответствующие роли**
-
-- Помощник
+**Соответствующие роли**: Advisor
 
 
 Как полномочный помощник Майкрософт, **Центр партнеров** предлагает вам возможность расширить клиентскую базу и создать устойчивые связи с клиентами. С помощью центра партнеров вы можете отправить приглашения на пробную версию клиентов и предложения по приобретению, а также предоставить им делегированные службы администрирования в зависимости от служб, которые вы имеете право предоставлять.
@@ -51,6 +49,8 @@ ms.locfileid: "106557738"
 
 Если клиенту требуется различное количество лицензий, отправьте им новое предложение или измените число лицензий при приобретении подписки.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
-Дополнительные сведения о предложениях по приобретению см. [в разделе Создание предложения о приобретении](advisor-create-a-purchase-offer.md).
+- [Создайте предложение о приобретении](advisor-create-a-purchase-offer.md).
+
+- [Партнеры больше не могут регистрироваться в качестве помощников](advisors-no-csp.md)

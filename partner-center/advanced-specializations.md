@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f941894c8d4ac8611c4b1869bd731d6b56ec4ae
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 785bed684e883c19782d820bf2644e050842b54b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557772"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150460"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Получите расширенную специализацию, чтобы продемонстрировать проверенные возможности
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор учетных записей
+**Соответствующие роли**: глобальный администратор | Администратор учетной записи
 
 Дополнительные специализации Майкрософт создают на соответствующих [компетенциях категории Gold](learn-about-competencies.md) , которые может заработать партнер. Получать компетенции Gold, а также связанные с ними сложные специализации позволяют партнерам дополнительно отличать свои возможности для клиентов.
 
@@ -74,7 +71,7 @@ ms.locfileid: "106557772"
 > [!NOTE]
 > Чтобы узнать о каждой дополнительной специализации, а также о необходимых условиях и требованиях, посетите [страницу Дополнительные специализации](https://partner.microsoft.com/membership/advanced-specialization). Когда вы будете готовы к применению расширенной специализации, проверьте ход выполнения, войдя на [панель мониторинга](https://partner.microsoft.com/dashboard)центра партнеров. Дополнительные сведения о доступе к этой области центра партнеров см. в статье [об использовании расширенной специализации](advanced-specializations-apply.md).
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - Использование центра партнеров для [применения и проверки состояния расширенных специализаций](advanced-specializations-apply.md)
 

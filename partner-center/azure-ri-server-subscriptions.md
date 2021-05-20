@@ -9,23 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d5386dd4b2b19e641cc9d731d4a3d0f44ab5ad6
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 79175fc7e67fdcdc3195b33859f3609c4caf942f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182500"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149423"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Получение, инициализация, & управление зарезервированными экземплярами виртуальных машин Azure (RI) и серверными подписками для клиентов
 
 
-**Соответствующие роли**
-
-- Агент по администрированию
-- Глобальный администратор
-- Агент службы технической поддержки
-- Агент по продажам
-- Администратор управления пользователями
+**Соответствующие роли**: Агент администрирования | Глобальный администратор | Агент службы технической поддержки | Агент продаж | Администратор управления пользователями
 
 
 ## <a name="what-are-azure-reservations"></a>Общие сведения о резервированиях в Azure
@@ -114,7 +108,7 @@ ms.locfileid: "98182500"
 
 - Обзор резервирования Azure в CSP (Май 2018)
 
-## <a name="operations"></a>Операции
+## <a name="operations"></a>Operations
 
 [Центр партнеров новое руководство по коммерческим операциям](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf). исчерпывающее руководство по ключевым политикам и рабочим аспектам, таким как соглашения, упорядочение по центру партнеров, счет, сведения о прайс-листах, поощрения, файл СВЕРКИ, API/SDK, песочница и общие службы партнеров Azure.
 
@@ -122,7 +116,7 @@ ms.locfileid: "98182500"
 
 [Преимущество гибридного использования Azure](https://azure.microsoft.com/pricing/hybrid-benefit) является преимуществом ценообразования для клиентов, имеющих лицензии с Software Assurance, что позволяет максимально повысить ценность существующих локальных и (или) SQL Serverных инвестиций при миграции в Azure. Подходящие клиенты могут сэкономить до 40% * на виртуальных машинах Azure (инфраструктура как услуга или IaaS) и сэкономить до 55% в базе данных SQL Azure (платформа как услуга или PaaS) и SQL Server на виртуальных машинах Azure (IaaS) с Преимущество гибридного использования Azure, что повышает до 80% при объединении с зарезервированными экземплярами Azure.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Вопросы и ответы о программе "Преимущество гибридного использования Azure"](https://azure.microsoft.com/pricing/hybrid-benefit/faq/)
 

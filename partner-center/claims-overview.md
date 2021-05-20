@@ -9,19 +9,16 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 99098b49ded4808edfd4ee895565d1563c52675a
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 5e5f8000032fa09d7752f8c6206325630b995b63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022712"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148726"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Получайте совместные маркетинговые фонды
 
-**Соответствующие роли**
-
-- Администратор программы поощрения
-- Пользователь программы поощрения
+**Соответствующие роли**: администратор поощрения | Пользователь поощрения
 
 Средства совместной маркетинга (совместное применение) — это фонды, которые вы вырабатываете с помощью программы поощрения Майкрософт, за счет получения возмещения за действия, которые поддерживают службу технической поддержки Майкрософт. Примеры программ поощрения: поставщик облачных решений, управляемый Торговый посредник, размещение и поверхность.
 
@@ -72,6 +69,6 @@ ms.locfileid: "103022712"
 | Ознакомьтесь с подробными сведениями о программе поощрения | [Руководство по программе поощрений для партнеров](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
 | Создание связи с клиентом и отправка утверждения | [Создание связи с клиентом с помощью модели CPOR](submit-osa-claim.md)   |
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Начало работы с поощрениями](incentives-get-started-intro.md)

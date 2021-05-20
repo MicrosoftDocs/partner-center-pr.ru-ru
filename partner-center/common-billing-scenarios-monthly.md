@@ -9,21 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4fe5c33fe549604f25500dd333d187e6b70ad73e
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 66c9ec09f707d87248fdef31e4cf66f4ca927ce1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502520"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148658"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Пример ежемесячных сценариев выставления счетов для новых подписок, изменения сумм лицензий или приостановка
 
-**Соответствующие роли**
-
-- Агент по администрированию
-- Администратор выставления счетов
-- Агент службы технической поддержки
-- Агент по продажам
+**Соответствующие роли**: Агент администрирования | Администратор выставления счетов | Агент службы технической поддержки | Агент продаж
 
 В этих примерах используются [Общие сценарии выставления счетов](common-billing-scenarios.md) , если ежемесячный счет выставляется в центре партнеров.
 
@@ -110,6 +105,6 @@ ms.locfileid: "106502520"
 
 Таким образом, Цена за единицу =-1,716 (12 x 0,143 x (-1)).
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Сценарии выставления счетов для одноразовых и выбора повторяющихся покупок](common-billing-scenarios-onetime-recurring.md)

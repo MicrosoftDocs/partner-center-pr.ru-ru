@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9395a64a5bdf5aa0219bb9457d581e71bef777c2
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: d46b37aa903d10ec97b780eec9dde1deec623277
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354633"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148981"
 ---
 # <a name="solution-assessment-incentives-faq-for-the-channel-incentives-platform-chip"></a>Вопросы и ответы по оценке решения для платформы поощрения каналов (микросхемы) 
 
-**Соответствующие роли**
-
-- Основной контакт или администратор программы
+**Соответствующие роли**: основной контакт или администратор программы
 
 Найдите ответы на часто задаваемые вопросы ниже.
 
@@ -67,6 +65,6 @@ ms.locfileid: "97354633"
 
 После просмотра доступной справки, относящейся к разделам, если вам по-прежнему нужна помощь, вы можете создать билет прямо из рекомендуемых документов — **создать запрос в службу поддержки** .
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Переход к микросхеме](chip-intro.md)

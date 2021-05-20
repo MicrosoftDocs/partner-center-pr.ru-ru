@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5e7adaf25376edb7d10d2deff9ed4e6f52badb4
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: c3ec63109f21c67c66719b8f145336617a948199
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96473889"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149916"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Назначение торгового посредника в качестве контактного лица технической поддержки для клиентов
 
-**Соответствующие роли**
-
-- Агент по администрированию
-- Глобальный администратор
-- Агент службы технической поддержки
+**Соответствующие роли**: Агент администрирования | Глобальный администратор | Агент службы технической поддержки
 
 
 При настройке подписки на службы Майкрософт для клиентов, возможно, стоит назначить техническую поддержку для этих продуктов торговому посреднику продукта, а не предоставлять поддержку самостоятельно.
@@ -46,6 +42,6 @@ ms.locfileid: "96473889"
 
 4. Убедитесь в правильности изменений и нажмите кнопку **Закрыть**.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Удаление взаимоотношений с клиентом](remove-a-relationship.md)

@@ -9,20 +9,17 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: adea177bd190fa3fd22b9ba60b5643b9d466ee4d
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: 6fe2eb7af3fbfa826496c1de409675cd84d92ef5
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686200"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148437"
 ---
 # <a name="connect-with-customers"></a>Связь с клиентами
 
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Агент по администрированию
+**Соответствующие роли**: глобальный администратор | Агент администратора
 
 
 Для работы с клиентами в Центре партнеров у ваших клиентов должны быть учетные записи Центра партнеров, кроме того, вам необходимо установить с ними отношения торгового посредника. Чтобы разрешить косвенному поставщику приобретать подписки и службы от имени ваших клиентов, поставщик должен также установить с ними отношения торгового посредника.

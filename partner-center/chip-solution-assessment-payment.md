@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f005db5d69fe6febf79720544642ee9f3d8c2e75
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 4184d155ceff22a34e1a85d2909f4e1b17a46daa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354412"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148879"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>Сведения о состоянии и расчете платежа для оценки решения
 
-**Соответствующие роли**
-
-- Основной контакт или администратор программы
+**Соответствующие роли**: основной контакт или администратор программы
 
 В микросхеме можно проверить состояние оплаты для возможности оценки решения.
 
@@ -54,6 +52,6 @@ ms.locfileid: "97354412"
  
 1. Флажок "Проверка EM" должен быть установлен и отправлен в виде EM в микросхеме.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Проблема с доступом к CHIP](chip-access-trouble.md) 

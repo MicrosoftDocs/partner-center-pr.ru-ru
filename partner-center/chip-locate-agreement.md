@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e433b44f158c3e4cefe22027e7f7d3b845991308
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 64dbbbae0087275fa8d0c5fd4f364079623efe63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756122"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148998"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Определение количества рабочих столов и ставки для соглашения
 
-**Соответствующие роли**
-
-- Основной контакт или администратор программы
+**Соответствующие роли**: основной контакт или администратор программы
 
 Вы можете войти в [Explore.MS](https://www.explore.ms/) , чтобы ознакомиться с соглашением, или скачать файл, предоставляющий сведения о соглашении для количества настольных компьютеров и уровня сбора.
 
@@ -49,7 +47,7 @@ ms.locfileid: "101756122"
 
 | Уровень сбора | Число рабочих столов |
 | ------ | :-----------: |
-|  Объект | 0 – 2 399    |
+|  A | 0 – 2 399    |
 |  B | 2 400 – 5 999    |
 |  C | 6 000 – 14 999    |
 |  D | 15000 +   |
@@ -77,6 +75,6 @@ ms.locfileid: "101756122"
 
 Теперь можно выполнить поиск номера соглашения, которое вы ищете в столбце J. Кроме того, вы найдете назначенное число настольных компьютеров в столбце R с меткой Agreement_DesktopCount. Вы также можете подтвердить уровень сбора для этого соглашения в столбце "AI" с меткой "уровень".
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Устранение проблем с доступом к микросхемам](chip-access-trouble.md)

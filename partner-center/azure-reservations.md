@@ -9,22 +9,16 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 9dc92685503fd4b9b05e40337f72e810c1693779
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: b97cafea9ad2f36718418c7c7cfca5f91ee8849c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534902"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149474"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Продавайте Microsoft Azure резервирования клиентам с помощью центра партнеров, портал Azure или интерфейсов API.
 
-**Соответствующие роли**
-
-- Агент по администрированию
-- Глобальный администратор
-- Агент службы технической поддержки
-- Агент по продажам
-- Администратор управления пользователями
+**Соответствующие роли**: Агент администрирования | Глобальный администратор | Агент службы технической поддержки | Агент продаж | Администратор управления пользователями
 
 В качестве партнера в программе поставщика облачных решений (CSP) вы можете приобрести, продать или управлять резервированием Azure для клиентов. Используйте центр партнеров, портал Azure или API центра партнеров.
 

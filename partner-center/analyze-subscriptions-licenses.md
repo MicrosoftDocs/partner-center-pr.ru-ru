@@ -9,21 +9,16 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 03/31/2021
-ms.openlocfilehash: 3f84026cc6402bea71837b06a5e330f2c879a06b
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 45a0ebb70f6e139b1e130c3cfc1d24eb79b41a0d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103797"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150154"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Проанализируйте подписки и лицензии, чтобы помочь вам в принятии бизнес-решений и новых целей.
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор управления пользователями
-- Агент по администрированию
-- Агент по продажам
+**Соответствующие роли**: глобальный администратор | Администратор управления пользователями | Агент администратора | Агент продаж
 
 Данные помогают принимать правильные бизнес-решения. Используйте метрики на странице **Анализ подписок и лицензий** для определения того, каких целей добились вы и ваши клиенты, а также областей, нуждающихся в более пристальном внимании. Эти сведения можно использовать при планировании новых бизнес-целей.
 
@@ -89,6 +84,6 @@ ms.locfileid: "106103797"
 
 
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Анализ производительности непрямых торговых посредников](analyze-indirect-resellers.md)

@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09ed80e4be53f210341279193bae71dc47f87eec
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 74606a4c7f52e5aa23f7e963cab27e491c436b59
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354497"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149032"
 ---
 # <a name="view-earnings-using-the-chip-tool"></a>Просмотр доходов с помощью средства микросхемы
 
-**Соответствующие роли**
-
-- Основной контакт или администратор программы
+**Соответствующие роли**: основной контакт или администратор программы
 
 Вы можете получить доступ к заявлению поощрения с помощью инструмента "платформа поощрения каналов" (микросхема).
 
@@ -43,6 +41,6 @@ ms.locfileid: "97354497"
 |Детаилрепорт — Сводная таблица|Сводка по сведениям об оплате, включая валюту и сумму оплаты|
 |Сведения о достижении|Базовое значение, достижение и процент роста для только для SPLA|
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Проверка состояния оплаты на платформе CHIP](chip-payment-status.md)

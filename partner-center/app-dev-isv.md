@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 20a8d701755e0211ced01aa714570e993bfe177d
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 2d3dfbb409ec8a11d4152e9c064e0ce7a05711b5
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92333806"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150001"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Однократное освобождение от требований к экзаменам для компетенции "Разработка приложений"
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор партнера MPN
+**Соответствующие роли**: глобальный администратор | Администратор партнера MPN
 
 Если вы выйдете об устаревшем компетенции ISV и один из приведенных ниже сценариев, мы предлагаем вашему предпринятию в компании одноразовые требования к экзаменам для [компетенции разработки](https://partner.microsoft.com/membership/application-development-competency)Gold или Серебряного приложения. 
 
@@ -37,7 +34,7 @@ ms.locfileid: "92333806"
 
 - **Если у вас есть список коммерческих партнеров Майкрософт**, то в момент продления компетенции будет доступно исключение одноразовых требований к экзаменам. В это время у вас будет 30 дней, чтобы воспользоваться преимуществами предложения.
 
-- **Если у вас нет списка [коммерческих партнеров Майкрософт](https://azure.microsoft.com/overview/commercial-marketplace/) **, опубликуйте свое решение в феврале 2020, чтобы получить право на исключение одноразовых требований к экзамену.
+- **Если у вас нет списка [коммерческих партнеров Майкрософт](https://azure.microsoft.com/overview/commercial-marketplace/)**, опубликуйте свое решение в феврале 2020, чтобы получить право на исключение одноразовых требований к экзамену.
 
 ## <a name="how-to-take-advantage-of-your-offer"></a>Как воспользоваться преимуществами вашего предложения
 

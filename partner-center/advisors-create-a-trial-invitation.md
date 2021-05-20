@@ -1,7 +1,7 @@
 ---
 title: Создание приглашения для ознакомления с пробной версией Office 365
 ms.topic: article
-ms.date: 04/28/2020
+ms.date: 05/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как партнеры могут создавать и отсылать пробные приглашения для своих клиентов, чтобы опробовать Office 365. Партнеры в целом являются полномочными консультантами по подпискам.
@@ -9,19 +9,17 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 8c6f6cb5ba700618aebe773cffd566e4077a676d
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 5e34ebe290941ee24a9e945c1b1b34abd9f4baa3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557721"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150324"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Advisor: создание и отправка приглашения на пробную версию клиентов для использования Office 365
 
 
-**Соответствующие роли**
-
-- Помощник
+**Соответствующие роли**: Advisor
 
 > [!NOTE]
 > Эта функция доступна только партнерам Майкрософт, которые являются полномочными консультантами по подпискам.
@@ -55,6 +53,7 @@ ms.locfileid: "106557721"
 
 6. Отправьте приглашение на пробную версию клиента.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Создание предложения о покупке](advisor-create-a-purchase-offer.md)
+- [Партнеры больше не могут регистрироваться в качестве помощников](advisors-no-csp.md)
