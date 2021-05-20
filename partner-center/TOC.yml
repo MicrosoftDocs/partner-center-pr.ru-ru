@@ -134,6 +134,8 @@
     - name: Переход со статуса партнера с прямым выставлением счетов на статус непрямого торгового посредника
       href: transition-direct-to-indirect.md
       displayName: csp
+    - name: Партнеры больше не могут регистрироваться в качестве консультантов
+      href: advisors-no-csp.md
 - name: Соглашения в рамках CSP
   href: microsoft-partner-agreement.md
   items:
