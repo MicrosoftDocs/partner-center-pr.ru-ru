@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: c700176ced0710f621dbdfab65513767976aff3d
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 46c2371e3a95b8840f14ebc5063d90bd5926fb8f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818615"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153061"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Проверка или обновление сведений в профиле компании 
 
@@ -98,9 +98,8 @@ MPN|Глобальный администратор; администратор 
 |Адрес для выставления счетов|Адрес для выставления счетов, отображаемый в счете CSP. Эту информацию можно обновлять в [профиле выставления счетов](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |Контактная информация для выставления счетов|Контактные сведения для выставления счетов (имя, фамилия, основной номер) для учетной записи CSP.  Эту информацию можно обновлять в [профиле выставления счетов](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |Номер заказа на покупку|Номер заказа на покупку, отображаемый в счете партнера.  Эту информацию можно обновлять в [профиле выставления счетов](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
-|Идентификационный номер налогоплательщика компании|Компании в некоторых странах могут указать свой [номер плательщика налогов на добавленную стоимость (НДС) или его местный эквивалент](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number). Чтобы обновить свой номер налогоплательщика, вам нужно иметь права глобального администратора, администратора выставления счетов или агента администратора.|
+|Идентификационный номер налогоплательщика компании|Компании в некоторых странах могут указать свой [номер плательщика налогов на добавленную стоимость (НДС) или его местный эквивалент](./organization-tax-info.md). Чтобы обновить свой номер налогоплательщика, вам нужно иметь права глобального администратора, администратора выставления счетов или агента администратора.|
 |Валюта выставления счетов|Валюта выставления счетов для вашей учетной записи CSP определяется ее юридическим регионом.  Это значение нельзя изменить после создания учетной записи CSP.|
-
 
 ## <a name="next-steps"></a>Дальнейшие действия
 

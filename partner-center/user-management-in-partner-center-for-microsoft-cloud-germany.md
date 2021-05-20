@@ -10,16 +10,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3889d0af73cfc683f1d45737a136a8e0c5a42656
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: bca5c5ff58ae222d06ac0de5f4aebde13cd87b0c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794978"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153027"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud в Германии
 
-Область **применения**: центр партнеров | Центр партнеров для Microsoft Cloud Германии
+Область **применения**: центр партнеров для Microsoft Cloud Германии
 
 **Соответствующие роли**: глобальный администратор | Администратор учетной записи
 
@@ -52,7 +52,7 @@ ms.locfileid: "109794978"
 
 -  [Сброс пароля пользователя в Azure Active Directory](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 -  [Microsoft Azure для Германии](https://azure.microsoft.com/global-infrastructure/germany/)
 -  [Центр партнеров Microsoft Cloud для Германии](partner-center-for-microsoft-cloud-germany.md)

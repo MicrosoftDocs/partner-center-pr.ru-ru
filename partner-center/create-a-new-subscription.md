@@ -1,7 +1,7 @@
 ---
 title: Создание клиентских подписок в центре партнеров
 ms.topic: how-to
-ms.date: 05/17/2021
+ms.date: 05/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как продавать подписки клиентам о продуктах, опубликованных корпорацией Майкрософт, а также о продуктах SaaS, опубликованных сторонними поставщиками программного обеспечения.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 3269fa994d704c0a0dae067087bad8589a7ce031
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9052954c81ef55a2bfa06778ace651c9d0f9b26f
+ms.sourcegitcommit: e0444145d7720df948b9d02ae2469206db48dba5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148209"
+ms.locfileid: "110201414"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Создание, приостановка и отмена подписок клиентов
 
@@ -28,6 +28,9 @@ ms.locfileid: "110148209"
 
 >[!IMPORTANT]
 > Как партнер в программе CSP, вы можете приобрести подписки **на основе лицензий** или **лимитного использования** SaaS от издателей независимых поставщиков программного обеспечения в центре партнеров. Это означает, что вы можете приобрести любое предложение, **основанное на лицензиях** , или **лимитное** SaaS, который издатель ISV сделал доступным, включая [исключительные предложения](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) , к которым у вас есть доступ. Для приобретения или управления другими, коммерческими предложениями из независимых поставщиков программных продуктов (таких как предложения на основе использования, включающие приложения Azure, контейнеры или виртуальные машины) необходимо переходить на [портал Azure](https://portal.azure.com/).
+
+>[!NOTE]
+>Все даты и время в центре партнеров задаются по стандарту Всемирного времени (UTC). Это может отличаться от местного времени до 24 часов.
 
 ## <a name="create-a-new-subscription"></a>Создание подписки
 
@@ -167,7 +170,7 @@ ms.locfileid: "110148209"
 
 6. Нажмите кнопку **Submit** (Отправить).
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Приобретение продуктов коммерческого Marketplace для клиентов](csp-commercial-marketplace-purchase.md)
 

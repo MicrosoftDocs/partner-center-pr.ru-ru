@@ -9,21 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 28343b5754546b653bd5a3e6b4a53a002b408668
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 8a9207e793865bcf7fa2f205fc69b0b5def65b4d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120840"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152908"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Отчеты на панели мониторинга клиентов в центре партнеров Insights
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Агент по администрированию
-- Средство просмотра отчетов
-- Средство просмотра исполнительных отчетов
+**Соответствующие роли**: глобальный администратор | Агент администратора | Средство просмотра отчетов | Средство просмотра отчетов руководителя
 
 На панели мониторинга заказчиков представлены данные о клиентах, которые приобрели такие облачные продукты, как Office, Azure, Dynamics и т. д., или использовались для развертывания этих продуктов и управления ими в своих клиентах. 
  
@@ -104,7 +99,7 @@ ms.locfileid: "108120840"
 
 :::image type="content" source="images/pci/activecustomer.png" alt-text="Снимок экрана: активные клиенты, показывающие, что в отчете отображаются линейчатые диаграммы, за время активных клиентов.":::
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 Дополнительные отчеты см. в статье [Partner Center Insights](partner-center-insights.md).
 

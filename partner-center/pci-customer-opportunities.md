@@ -8,19 +8,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 04/27/2021
-ms.openlocfilehash: 91f64faeec0b97be2797d489e152cb84cbb2e192
-ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
+ms.openlocfilehash: 430aea81964d1b75514b6e1377bd2ba1af41b538
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "108213466"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153044"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>Отчеты о Клаудасцентии доступности, доступные на панели мониторинга центра партнеров
 
-**Соответствующие роли**
-
-- Средство просмотра исполнительных отчетов
-- Средство просмотра отчетов
+**Соответствующие роли**: средство просмотра отчетов руководителя | Средство просмотра отчетов
 
 На панели мониторинга центра партнеров содержатся загружаемые данные о выручкой из программы Клаудасцент. Данные показывают вероятность приобретения продуктов Майкрософт у клиентов.  В этой статье описывается разбивка этих данных, использование оценки и то, что это значит.
 

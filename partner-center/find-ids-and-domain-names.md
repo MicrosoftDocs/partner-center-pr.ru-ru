@@ -9,18 +9,16 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 643b1eeb96a47ee4c438f733efe3be22234d02ff
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 5da41cdbfa7aa1780b31e170a2398e8e7c65df27
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740290"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150868"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Поиск важных идентификаторов для пользователя
 
-**Соответствующие роли**
-
-- Глобальный администратор
+**Соответствующие роли** — глобальный администратор.
 
 В этой статье описывается, как использовать [портал Azure](https://portal.azure.com/) для выявления следующих сведений для пользователя:
 

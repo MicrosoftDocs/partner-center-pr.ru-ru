@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 74dd5c2c9457961f07dd0dd8d5a6ead9047c5579
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 100a3d2988c19d57f7426c7212b7464d8e96dc94
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855562"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152959"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Как и когда следует запрашивать соглашение об уровне обслуживания (SLA) от корпорации Майкрософт
 
@@ -34,7 +34,7 @@ ms.locfileid: "109855562"
 *Партнер поставщика облачных решений (CSP) должен отправить заявку и всю необходимую информацию в конце календарного месяца, следующего за месяцем, в котором произошел инцидент.* Например, если инцидент выполнялся 15 февраля, корпорация Майкрософт должна получить заявку и всю необходимую информацию до 31 марта. Конечным клиентам и непрямым торговым посредникам не удается отправить кредитные заявки SLA. косвенный поставщик или партнер прямого счета должны отправлять заявки от своего имени.
 
 >[!NOTE]
->Обращения в консультационные происшествия ([Проверка работоспособности службы Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)) не подходят для кредитов соглашения об уровне обслуживания.
+>Обращения в консультационные происшествия ([Проверка работоспособности службы Microsoft 365](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)) не подходят для кредитов соглашения об уровне обслуживания.
 
 ### <a name="required-information"></a>Необходимые сведения
 
@@ -65,7 +65,7 @@ ms.locfileid: "109855562"
 | EX | Exchange Online |
 | FO | Защита Exchange Online |
 | SB | Skype для бизнеса Online (ранее — Lync Online) |
-| ОС | Подписка Office, |
+| OS | Подписка Office, |
 | ПБ | Power BI для Office 365 |
 | SP | SharePoint Online |
 | я | Yammer Enterprise |
@@ -83,6 +83,6 @@ ms.locfileid: "109855562"
 6. На странице **сведения** заполните раздел **сведения о проблемах** . В текстовом поле **сведения** обязательно введите [необходимые сведения](#required-information) , собранные ранее.
 7. Нажмите кнопку **Отправить** , чтобы отправить запрос соглашения об уровне обслуживания.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Следующие шаги
 
 - [Сообщать о проблемах от имени клиента](report-problems-on-behalf-of-a-customer.md)
