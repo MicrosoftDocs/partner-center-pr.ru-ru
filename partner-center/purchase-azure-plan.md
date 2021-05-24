@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ec74076281d4c8e65de6818281a2852df264732c
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 004044902b21c223af75414a1ec999173b481058
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441631"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854967"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Приобретение плана Azure для клиентов и доступ к новейшим службам Azure с оплатой по мере использования
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор управления пользователями
-- Агент по продажам
+**Соответствующие роли:** глобальный администратор | администратор управления пользователями | агент по продажам
 
 При покупке плана Azure для клиентов в рамках клиентского договора с Майкрософт вы получите доступ к полному каталогу новейших служб Azure, для которых действуют тарифы оплаты по мере использования. У партнеров CSP теперь будет доступ к любой службе Azure, которая стала общедоступной. У партнера может быть несколько подписок Azure в одном плане Azure. 
 

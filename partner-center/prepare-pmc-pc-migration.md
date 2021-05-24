@@ -9,21 +9,16 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b267f89ec1c7b27e87eaaf3d7b594ebbd0fd6942
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 7f533240d5236f03fe277d4c6dfa02ed1c58b63c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633885"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855018"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Подготовка к переходу из Partner Membership Center (PMC) в Центр партнеров
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор управления пользователями
-- Агент по продажам
-- Агент по администрированию
+**Соответствующие роли:** глобальный администратор | администратор управления пользователями | агент по продажам | агент по администрированию
 
 Мы переносим управление членством из Partner Membership Center (PMC) в Центр партнеров — единое расположение для управления деловыми отношениями с корпорацией Майкрософт. Мы хотим, чтобы ваш переход в Центр партнеров был как можно более эффективным и простым. Мы определили несколько областей, в которых Центр партнеров отличается от PMC, и мы думаем, что их необходимо из3учить и подготовить перед переходом.
 

@@ -9,20 +9,16 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: a6e6424dfb787bbe9510d47299f945309dd00528
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: b1ac34bbb92d600805465ca5f6d1b28af54cd5e1
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633919"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855137"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Назначение ролей и разрешений пользователям компании для работы в Центре партнеров
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор управления пользователями
-- Администратор партнера MPN
+**Соответствующие роли:** глобальный администратор | администратор управления пользователями | администратор партнера MPN
 
 Вы настроили профиль партнера, включая юридическое имя и адрес, сведения о поддержке, сведения об освобождении от налогов, банковские данные и основное контактное лицо своей компании. Далее: Настройте пароли и роли для пользователей, чтобы они могли начать работать с вами в Центре партнеров.
 

@@ -9,18 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: b1bb86a493ce81cb02b14c9555f82767d10f841c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328089"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855954"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>В Центре партнеров вы можете получить полезные сведения об авторах и их деятельности
 
-**Соответствующие роли**
-
-- Администратор авторов
+**Соответствующие роли:** администратор рекомендаций
 
 Страница **Co-sell opportunities** (Возможности совместных продаж) в разделе **Аналитика** в меню "Рефералы" позволяет вам оценивать эффективность рефералов. Регулярно просматривайте эти метрики, чтобы определять тенденции или области, требующие внимания, и двигаться к бизнес-целям.
 
