@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f575a79039ae78e64e28c680a8b533d575200bc
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a873e6dcac03ae781b776204fb8801581fefdec5
+ms.sourcegitcommit: e90293bc643963fe9ce3f838bc8861fbd304b16d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146363"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "112066494"
 ---
 # <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>Изучите область преимуществ Azure и облачных продуктов в центре партнеров
 
@@ -24,7 +24,7 @@ ms.locfileid: "110146363"
  
 ## <a name="overview"></a>Обзор
 
-В качестве партнера в Microsoft Partner Network вы можете получить доступ ко многим техническим и выходным преимуществам для различных областей. Если вы назначили одну из указанных выше ролей в центре партнеров, вы можете изучить многие из этих преимуществ непосредственно с панели мониторинга центра партнеров.
+В качестве партнера в Microsoft Partner Network вы можете получить доступ ко многим [техническим и выходным преимуществам](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) для различных областей. Если вы назначили одну из указанных выше ролей в центре партнеров, вы можете изучить многие из этих преимуществ непосредственно с панели мониторинга центра партнеров. 
 
 > [!NOTE]
 > Чтобы получить доступ к области преимуществ центра партнеров, просто войдите на [панель мониторинга](https://partner.microsoft.com/dashboard) центра партнеров и выберите **MPN** в меню навигации слева. Затем выберите в меню пункт " **преимущества** ", а затем укажите конкретные преимущества или область, которую вы хотите изучить.
@@ -92,6 +92,10 @@ ms.locfileid: "110146363"
    - Если вы хотите активировать новую подписку или ваша существующая подписка отключена или просрочена, откройте **частный или режиме инкогнито браузер**, скопируйте и вставьте следующую ссылку и следуйте инструкциям:
 
       [https://signup.microsoft.com/productkeystart](https://signup.microsoft.com/productkeystart)
+
+> [!Note]
+> Office 365 E3, Office 365, Enterprise Mobility + Security, Microsoft Intune и Windows 10 Корпоративное преимущество больше не входят в пакеты преимуществ компетенции. Вы можете активировать Microsoft 365 E3 или Microsoft 365, которые выступают в качестве замены для автономных пакетов преимуществ, которые больше не поддерживаются.
+Если вам нужна помощь по установке или развертыванию преимуществ M365, воспользуйтесь вашими техническими преимуществами, чтобы получить запрос на [техническую поддержку](mpn-benefits-technical-support.md) .
       
    - Если вы хотите продлить дату окончания или добавить дополнительные рабочие места или лицензии в существующую подписку, скопируйте и вставьте приведенную ниже ссылку в **закрытом или режиме инкогнито окне браузера** и следуйте инструкциям:
  
@@ -172,10 +176,12 @@ ms.locfileid: "110146363"
 
 :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-6.png" alt-text="Сообщение об ошибке Azure и облачных продуктов." border="false":::
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - Сведения о [переходе с Office 365 E3 на Microsoft 365 Бизнес Premium](/microsoft-365/business/migrate-from-e3)
    
 - Подробнее о [Microsoft 365 бизнес голоса](/microsoftteams/business-voice/whats-business-voice)
   
 - Сведения о [доступности страны и региона для бизнес-голоса](/microsoftteams/business-voice/country-region-availability)
+
+- Дополнительные сведения о [развертывании Windows 10 с помощью Microsoft 365](/windows/deployment/deploy-m365)
