@@ -8,12 +8,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 8c47204d54cf05113eae73cede4afedf106ac121
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: bcef4c771d748b0e2fbeae8cf1daaf41d7f53b43
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146516"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276643"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Объединение учетной записи партнера с другой учетной записью партнера
 
@@ -41,7 +41,7 @@ ms.locfileid: "110146516"
 
 ### <a name="view-of-merged-accounts"></a>Представление Объединенных учетных записей
 
-:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Слияние учетных записей":::
+:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Слияние учетных записей.":::
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>Что следует делать, если вы приглашены на слияние учетной записи центра партнеров с другой учетной записью центра партнеров
 
@@ -122,7 +122,7 @@ ms.locfileid: "110146516"
 7.  Администраторы Contoso продолжат управление ролями центра партнеров для @contoso.com пользователей. Администраторы Fabrikam продолжат управление ролями центра партнеров для @fabrikam.com пользователей. Администраторы Contoso могут администрировать пользователей Fabrikam только в том случае, если они приглашены в качестве гостя в клиент Fabrikam.
 8.  Компания Contoso решила проигнорировать @fabrikam.com клиент и повторно выдать новые @contoso.com учетные данные сотрудников Fabrikam с новыми ролями и разрешениями.
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Назначение пользователям ролей и разрешений](permissions-overview.md)
 

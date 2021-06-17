@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: dcacc6da51fe40c7eb05997f5409ef5fadbcf693
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 092c76fb874eb7308bdb69503223f722657db957
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856055"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277323"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Передача подписок в рамках плана Azure клиента другому партнеру
 
@@ -69,17 +69,17 @@ ms.locfileid: "109856055"
 3.  Выберите раздел **запрос на перемещение** .
 4.  В **разделе запрос на перемещение** выберите **Добавить новый запрос**.
 
-    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Раздел &quot;передачи&quot;":::
+    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Перемещение раздела.":::
 
 5.  Заполните **новую форму запроса на перемещение** .
 
 6.  Выберите Отправить **запрос на передачу** отправка  >  .
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Заполнение формы запроса на перемещение":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Завершите форму запроса на перемещение.":::
 
 7.  Подтверждение запроса на перемещение
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Проверка ожидающего перемещения":::
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Проверка ожидающего перемещения.":::
 
     >[!Note]
     >Будущий партнер может отменить запрос на передачу, выбрав **отменить запрос** в правом верхнем углу, только если состояние запроса на передачу — "ожидание". Когда состояние запроса на перемещение — "выполняется" или "завершено", отмены будут невозможны.
@@ -88,7 +88,7 @@ ms.locfileid: "109856055"
 
 Агент администрирования текущего партнера клиента получит сообщение электронной почты о том, что клиент запрашивает перенос своих подписок:
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Просмотр":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Эксперт.":::
 
 Проверьте и примите форму запроса на перемещение от центра партнеров, чтобы завершить перенос подписки.
 
@@ -101,7 +101,7 @@ ms.locfileid: "109856055"
 3.  Выберите раздел **запрос на перемещение** .
 4.  Разверните сведения о переносе, выбрав выбранный **идентификатор запроса на перемещение** в списке **полученных запросов** .
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Запрос на перемещение проверок источника":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Запрос на пересылку проверок исходного кода.":::
 
 5.  Проверка запроса на перемещение. Выберите запрошенные подписки Azure для перемещения.
 
@@ -112,7 +112,7 @@ ms.locfileid: "109856055"
 
 6.  Затем выберите **принять и переместить** , чтобы завершить процесс перемещения.
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Выбор подписок для переноса в планах Azure":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Выберите подписки для переноса в соответствии с планами Azure.":::
 
 7.  Просмотр подтверждения приема на перемещение.
 

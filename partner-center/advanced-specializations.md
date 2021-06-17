@@ -9,16 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 785bed684e883c19782d820bf2644e050842b54b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 91c182f2eb42bbe834926c7985d343524305485a
+ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150460"
+ms.lasthandoff: 06/16/2021
+ms.locfileid: "112125928"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Получите расширенную специализацию, чтобы продемонстрировать проверенные возможности
 
-**Соответствующие роли**: глобальный администратор | Администратор учетной записи
+**Соответствующие роли:** глобальный администратор | администратор учетной записи
 
 Дополнительные специализации Майкрософт создают на соответствующих [компетенциях категории Gold](learn-about-competencies.md) , которые может заработать партнер. Получать компетенции Gold, а также связанные с ними сложные специализации позволяют партнерам дополнительно отличать свои возможности для клиентов.
 
@@ -50,6 +50,10 @@ ms.locfileid: "110150460"
 - Модернизации веб-приложений для Microsoft Azure
 - SAP в Microsoft Azure
 - Миграция из Windows Server и SQL Server в Microsoft Azure
+- AI и Машинное обучение в Microsoft Azure
+- Гибридная облачная инфраструктура с Microsoft Azure Stack ХЦИ
+- Гибридные операции и управление с помощью Microsoft Azureной дуги
+- Microsoft Azure решение VMware
 
 **Business Applications** Дополнительные специализации:
 
@@ -67,11 +71,13 @@ ms.locfileid: "110150460"
 
 - Управление удостоверениями и доступом
 - Защита от угроз
+- Information Protection и управление
+- Безопасность облака
 
 > [!NOTE]
 > Чтобы узнать о каждой дополнительной специализации, а также о необходимых условиях и требованиях, посетите [страницу Дополнительные специализации](https://partner.microsoft.com/membership/advanced-specialization). Когда вы будете готовы к применению расширенной специализации, проверьте ход выполнения, войдя на [панель мониторинга](https://partner.microsoft.com/dashboard)центра партнеров. Дополнительные сведения о доступе к этой области центра партнеров см. в статье [об использовании расширенной специализации](advanced-specializations-apply.md).
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - Использование центра партнеров для [применения и проверки состояния расширенных специализаций](advanced-specializations-apply.md)
 

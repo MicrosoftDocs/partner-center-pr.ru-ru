@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5efd157078acd72ca47418aaa9559a678fc5b129
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 21042169a33d9a413f17f951c4daad0c5fc86a17
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151174"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277680"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Что делать, если только администратор программы MPN оставил эту компанию?
 
@@ -38,7 +38,7 @@ ms.locfileid: "110151174"
 1. Выберите пункт **Справка и поддержка** в левой панели навигации меню.
 1. На следующей странице в раскрывающемся меню выберите **создать поддержка** и **технический тип проблемы** , добавьте дополнительные сведения и нажмите кнопку **Далее: решения.**
 
-:::image type="content" source="images/accountsettings/adminfinder.png" alt-text="Определение местонахождения администратора в портал Azure":::
+:::image type="content" source="images/accountsettings/adminfinder.png" alt-text="Щелкните Администратор в портал Azure.":::
 
 4. После просмотра рекомендуемых решений на следующей странице нажмите кнопку **Далее: подробные сведения** и заполните необходимые поля.
 1. Проверьте и создайте запрос в службу поддержки.

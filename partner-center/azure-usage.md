@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 14d488091227e30909b3d41af0684494a8b55de7
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2d8bc76e0da51abf433e49028445b398c6a1db31
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149457"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277000"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Размеры виртуальных машин Microsoft Azure для максимального использования резервирования
 
@@ -58,13 +58,13 @@ ms.locfileid: "110149457"
 
 4. На странице сведения о виртуальной машине найдите сведения о размере и регионе, как показано ниже, и используйте эти сведения для приобретения резервирования в центре партнеров.  
 
-   :::image type="content" source="images/usage1.png" alt-text="Сведения о размере и регионе на странице сведений":::
+   :::image type="content" source="images/usage1.png" alt-text="Сведения о размере и регионе на странице сведений.":::
 
 ### <a name="get-vm-sizing-information-using-microsoft-azure-powershell"></a>Получение сведений о размере виртуальной машины с помощью Microsoft Azure PowerShell
 
 Чтобы определить местоположение и размер виртуальной машины, для которой нужно приобрести резервирование, используйте данные, показанные на рисунке ниже. 
 
-:::image type="content" source="images/usage2.png" alt-text="Расположение и размер виртуальной машины":::
+:::image type="content" source="images/usage2.png" alt-text="Расположение и размер виртуальной машины.":::
 
 ### <a name="get-vm-sizing-information-using-the-azure-resource-manager-arm-api"></a>Получение сведений о размере виртуальной машины с помощью API для Azure Resource Manager (ARM)
 
@@ -74,8 +74,8 @@ ms.locfileid: "110149457"
 
 3. Вызов возвращает значения для параметров **vmSize** и **location**, как показано ниже.
 
-    :::image type="content" source="images/usage3.png" alt-text="значение vmSize":::
-    :::image type="content" source="images/usage4.png" alt-text="значение расположения":::
+    :::image type="content" source="images/usage3.png" alt-text="значение vmSize.":::
+    :::image type="content" source="images/usage4.png" alt-text="значение расположения.":::
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Проверка использования виртуальной машины Azure и скидки на резервирование
 
@@ -115,7 +115,7 @@ ms.locfileid: "110149457"
 
 Вы можете получить данные об использовании резервирования с помощью API использования Azure. Так можно проверить, получает ли клиент скидку за резервирование, и посмотреть, к каким виртуальным машинам применяется эта скидка. Сравните пример а с примером б, чтобы узнать, как проверить использование резервирования клиентом.
 
-:::image type="content" source="images/usage5.png" alt-text="Примеры использования резервирования":::
+:::image type="content" source="images/usage5.png" alt-text="Примеры использования резервирования.":::
 
 - Идентификатор reservationId определяет резервирование Azure, которое использовалось для применения скидки к виртуальной машине.
 - consumptionMeter — это MeterId для виртуальной машины, к которой применена скидка за резервирование.
@@ -126,7 +126,7 @@ ms.locfileid: "110149457"
 >[!IMPORTANT]
 >Стоимость программного обеспечения, например Microsoft Windows Server, в настоящее время не входит в цену резервирования виртуальных машин и отображается в отдельных строках заказа и счета. Тем не менее, если у клиента есть преимущества гибридного использования Azure, стоимость программного обеспечения не учитывается. Дополнительные сведения см. в разделе [Затраты на программное обеспечение Windows, не включенные в зарезервированные экземпляры](/azure/billing/billing-reserved-instance-windows-software-costs).  
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 |**Сведения о**   |**Прочитайте это**    |
 |:-----------------------------|:-----------------|

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e48e137de3fc9b3084729e5095223229b87c289
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 85a6a43a1e28a7a6917361dc1fc74cc3d5e8d502
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152398"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276575"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Поиск преимуществ Microsoft Partner Network 
 
@@ -43,7 +43,7 @@ ms.locfileid: "110152398"
 
 3. Развернув (+) преимущество, вы получите дополнительные сведения, которые помогут вам активировать конкретное преимущество.
 
-   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Расширенные преимущества":::
+   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Расширенные преимущества.":::
 
    > [!NOTE]
    > Чтобы активировать преимущества, необходимо назначить роль глобального администратора или администратора партнера MPN в центре партнеров. Однако все остальные пользователи в компании должны иметь возможность просматривать сведения о преимуществах в центре партнеров, например коды поддержки продуктов. Дополнительные сведения о ролях центра партнеров см. [в статье назначение ролей и разрешений пользователей в центре партнеров](permissions-overview.md).
@@ -58,7 +58,7 @@ ms.locfileid: "110152398"
 
 Чтобы узнать, как можно использовать эти преимущества, ознакомьтесь с [руководством по использованию продукта](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf).
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Связывание учетных записей Microsoft Learn сотрудников](ms-learn-associate.md)
 - [Управление преимуществами и предложениями для участников Microsoft Partner Network](manage-your-partner-network-benefits.md)

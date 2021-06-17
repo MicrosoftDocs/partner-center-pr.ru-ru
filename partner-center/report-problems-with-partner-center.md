@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d71d3efe10d38cfc0b5ce8dd60c3c51e2be9f1b
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 07ff4df4b6d91b84af40e9b2b32d991f4ad09062
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855613"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277799"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Средство "запросы и диагностика" портала центра партнеров
 
@@ -43,23 +43,23 @@ ms.locfileid: "109855613"
 
 Если для вашей проблемы требуется беседа с представителем службы поддержки, можно запланировать встречу на основе сведений о билете.
 
-:::image type="content" source="images/support/ticket.png" alt-text="Планирование встречи с поддержкой":::
+:::image type="content" source="images/support/ticket.png" alt-text="Запланируйте встречу в службе поддержки.":::
 
 1.  На странице сведения о билете в центре партнеров выберите доступную дату и время в календаре службы поддержки. Вы увидите только доступные даты и время в местном часовом поясе.
 
-:::image type="content" source="images/support/ticket2.png" alt-text="Запланировать встречу":::
+:::image type="content" source="images/support/ticket2.png" alt-text="Запланировать встречу.":::
 
 2. Центр партнеров проверяет доступность календаря службы поддержки.
 
 1. Когда вы запланируете встречу, центр партнеров отправляет вам приглашение в виде календаря с информацией о том, как будет связываться с вами пользователь, чтобы вы могли отвести эту встречу в собственном рабочем календаре.  Хотя эта возможность доступна в предварительной версии, электронная почта и приглашение на календаре будут доступны на английском языке, но он сможет поддерживать вас на языке, выбранном при создании билета.
 
-:::image type="content" source="images/support/ticket3.png" alt-text="Дата и время":::
+:::image type="content" source="images/support/ticket3.png" alt-text="Дата и время.":::
 
 ## <a name="hours-of-operation"></a>Часы работы
 
-**Поддержка партнеров**
+**Поддержка партнера**
 
-:::image type="content" source="images/support/hoop.png" alt-text="Часы работы службы поддержки":::
+:::image type="content" source="images/support/hoop.png" alt-text="Поддержка часов работы.":::
 
 ## <a name="send-diagnostics"></a>Отправка диагностической информации
 

@@ -8,12 +8,12 @@ description: Узнайте, что вы хорошо используете, и
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b0784e2d81b4483eb374120be2411729d922a47
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: d230f8abfa01f0c00494af9f626f26fb35b80c1c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854627"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277833"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security отчет об использовании, доступный на панели мониторинга центра партнеров Insights
 
@@ -21,7 +21,7 @@ ms.locfileid: "109854627"
 
 Отчет об использовании Enterprise Mobility + Security предоставляет данные об использовании для подписок Enterprise Mobility + Security, которые вы продавали или управляете клиентами. В отчете об использовании Enterprise Mobility + Security можно просмотреть следующие разделы.
 
-- Сводка
+- Итоги
 - Использование Enterprise Mobility + Security по geography
 - Использование Enterprise Mobility + Security по SKU
 - Производительность подписок
@@ -30,7 +30,7 @@ ms.locfileid: "109854627"
  > [!NOTE]
  > Этот отчет доступен на панели мониторинга Insights. Чтобы просмотреть этот отчет, необходимо назначить определенную роль в центре партнеров, например Глобальный администратор, администратор учетной записи, средство просмотра отчетов или средство просмотра отчетов руководителя. Дополнительные сведения см. в разделе Глобальный администратор вашей организации. определенные типы данных в этом отчете могут также быть доступны только пользователям с правами администратора для просмотра отчетов.
 
-## <a name="summary"></a>Сводка
+## <a name="summary"></a>Итоги
 
 В разделе "Сводка" представлено представление моментального снимка ключевых показателей, связанных с Enterprise Mobility + Security подписками на использование, которые вы продавали или управляете клиентами. 
 
@@ -46,7 +46,7 @@ ms.locfileid: "109854627"
 
    В микродиаграмме представлена ежемесячная тенденция лицензий, используемых за выбранный период времени.
 
-:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="Сводка по использованию EMS":::
+:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="Сводка по использованию EMS.":::
 
 ## <a name="enterprise-mobility--security-usage-by-geography"></a>Использование Enterprise Mobility + Security по geography
 
@@ -56,25 +56,25 @@ ms.locfileid: "109854627"
 
 Вы можете выполнить поиск и выбрать страну в сетке, чтобы увеличить расположение на карте. Выберите параметр **домой** на карте, чтобы вернуться к исходному представлению.
 
-:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="Использование EMS по географическому параметру":::
+:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="Использование EMS по географическому параметру.":::
 
 ## <a name="enterprise-mobility--security-usage-by-sku"></a>Использование Enterprise Mobility + Security по SKU
 
 В Enterprise Mobility + Security "использование по SKU" показано ежемесячное распределение MAU и ПАУ по номерам SKU.
 
-:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="Использование EMS по SKU":::
+:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="Использование EMS по SKU.":::
 
 ## <a name="subscriptions-performance"></a>Производительность подписок
 
 Производительность подписок демонстрирует разделение MAU и ПАУ по номерам SKU на каждую подписку клиента. Данные для лучших 100 клиентов по выручке выставляются в таблице. Вы можете найти любого клиента или загрузить необработанные данные, чтобы просмотреть сведения обо всех клиентах.
 
-:::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="Производительность подписки EMS":::
+:::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="Производительность подписки EMS.":::
 
 ## <a name="enterprise-mobility--security-usage-distribution"></a>Распределение использования Enterprise Mobility + Security
 
 Enterprise Mobility + Security распределение использования описывает разделение ПАУ и подписок по номерам SKU.
 
-:::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="Распределение использования EMS":::
+:::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="Распределение использования EMS.":::
 
 ## <a name="next-steps"></a>Дальнейшие действия
 

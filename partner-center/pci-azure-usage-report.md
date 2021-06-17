@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d9224e9d86c540cc463538acc435f682cdc2d58
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: cd302a7b4839b98cdd96fda38b381d9282b00620
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146856"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112275997"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Отчет об использовании Azure, доступный на панели мониторинга центра партнеров Insights
 
@@ -22,14 +22,14 @@ ms.locfileid: "110146856"
 
 В отчете об использовании Azure представлены метрики, связанные с подписками Azure ваших клиентов. Этот отчет включает доход потребления Azure и использование по категориям измерительных единиц. В отчете об использовании Azure можно просмотреть следующие разделы.
 
-- Сводка
+- Итоги
 - Использование Azure по geography
 - Использование Azure
 
  > [!NOTE]
  > Этот отчет доступен на панели мониторинга Insights. Чтобы просмотреть этот отчет, необходимо назначить определенную роль в центре партнеров, например Глобальный администратор, администратор учетной записи, средство просмотра отчетов или средство просмотра отчетов руководителя. Дополнительные сведения см. в разделе Глобальный администратор вашей организации. определенные типы данных в этом отчете могут также быть доступны только пользователям с правами администратора для просмотра отчетов.
 
-## <a name="summary"></a>Сводка
+## <a name="summary"></a>Итоги
 
 В разделе "Сводка" представлено представление моментального снимка ключевых показателей эффективности, связанных с подписками Azure, которые продаются или управляются вами для ваших клиентов.  
 
@@ -51,7 +51,7 @@ ms.locfileid: "110146856"
 > [!NOTE]
  > Потребленная прибыль (запись контроля доступа) будет видна только пользователям, которым назначена роль средства просмотра отчетов руководителя.
 
-:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Сводка по использованию Azure":::
+:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Сводка по использованию Azure.":::
 
 ## <a name="azure-usage-by-geography"></a>Использование Azure по geography
 
@@ -61,7 +61,7 @@ ms.locfileid: "110146856"
 
 Вы можете выполнить поиск и выбрать страну в сетке, чтобы увеличить расположение на карте. Выберите параметр **домой** на карте, чтобы вернуться к исходному представлению.
 
-:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Использование Azure по geography":::
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Использование Azure по geography.":::
 
 ## <a name="azure-utilization"></a>Использование Azure
 
@@ -69,9 +69,9 @@ ms.locfileid: "110146856"
 
 Линейчатая диаграмма представляет собой ежемесячную тенденцию доходов/использования. График представляет тренд роста по сравнению с предыдущим месяцем для выбранных категорий уровня службы или категории счетчиков Azure.
 
-:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Использование Azure":::
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Использование Azure.":::
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - Дополнительные отчеты см. в статье [Partner Center Insights](partner-center-insights.md).
 

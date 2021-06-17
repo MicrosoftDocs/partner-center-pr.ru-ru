@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7dab3469b885f693ba8498e8a07eb120b8f07021
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1693545449abf33bc7a4f5216b7d6ef0d5713829
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147213"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276864"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Использование аналитики для получения дополнительных сведений о выручке подписки
 
@@ -29,7 +29,7 @@ ms.locfileid: "110147213"
 
 1. В верхней части страницы отобразится заключительный ежемесячный доход CSP.
 
-:::image type="content" source="images/analytics/subscription1.png" alt-text="Экран подписки":::
+:::image type="content" source="images/analytics/subscription1.png" alt-text="Экран подписки.":::
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Конечный доход от Twelve-Month (ТТМ) CSP
 
@@ -66,7 +66,7 @@ ms.locfileid: "110147213"
 
 
  
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Анализ того, как клиенты используют приобретенные лицензии](increasing-adoption-and-satisfaction.md)  
 - [Просмотр журналов действий клиента](activity-logs.md)

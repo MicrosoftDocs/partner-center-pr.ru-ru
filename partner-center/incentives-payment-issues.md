@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b67564fbf469ac23ad514d96c3ec7b27bb3a5e6
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: ad71a6e02d6472ae844c504491e5acb05d5d6426
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151956"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277867"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Устранение недостающих платежей, неправильные доходы и другие проблемы
 
@@ -114,7 +114,7 @@ ms.locfileid: "110151956"
 
 Прибыль отображается как на странице **журнала транзакций** , так и на странице **оплаты** . Вы можете получить доступ к обеим страницам, щелкнув значок **выплата** на панели навигации в центре партнеров.
 
-:::image type="content" source="images/incentives/paymenticon.png" alt-text="Сведения о транзакциях":::
+:::image type="content" source="images/incentives/paymenticon.png" alt-text="Сведения о транзакции.":::
 
 Ежемесячные суммы в представлении журнала транзакций могут не совпадать с суммой оплаты, полученной за конкретный месяц. Это связано с повторными вычислениями и корректировками для предыдущих периодических платежей, которые применяются к будущим платежам.
 

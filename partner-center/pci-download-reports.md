@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 266baf0eb3501cba984ec0fbaed4508366b92b8b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 6124e20efe16e134c441bb1fd72f022e841083b0
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152789"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276240"
 ---
 # <a name="download-reports"></a>Скачивание отчетов
 
@@ -30,9 +30,9 @@ ms.locfileid: "110152789"
 
 Чтобы создать отчет, сначала выберите его в раскрывающемся списке **выберите отчет** . Затем выберите диапазон дат в раскрывающемся списке **выберите диапазон дат** . Выберите **Создать**. Отчет будет создан в формате с разделителями-символами табуляции (TSV) и будет доступен для скачивания в разделе **созданные отчеты** в течение нескольких минут. Отчеты, созданные за предыдущие 14 дней, будут доступны для загрузки.
 
-:::image type="content" source="images/pci/create-new-report.png" alt-text="Создать новый отчет":::
+:::image type="content" source="images/pci/create-new-report.png" alt-text="Создать новый отчет.":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="Созданные отчеты":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="Созданные отчеты.":::
 
 >[!NOTE] 
 >Только те пользователи, которые являются руководителями отчетов, могут скачивать отчеты. Дополнительные сведения о доступе на основе ролей к отчетам панели мониторинга Insights см. в статье [роли PCI](pci-roles.md). 

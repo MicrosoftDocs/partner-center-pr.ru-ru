@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e274b0a637c7fd4944a395ba7e38154e36d2a9e3
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: aea78f2a9b60f5d8adcc7962d15749479424c9f1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855205"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277493"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Обзор отчетов панели мониторинга, доступных в средствах аналитики Центра партнеров
  
@@ -22,18 +22,18 @@ ms.locfileid: "109855205"
 
 Панель мониторинга обзор Insights предоставляет представление моментального снимка ключевых показателей эффективности, таких как клиенты, подписки, доход потребления Azure и лицензии. В обзорном отчете можно визуализировать следующие диаграммы.
 
-- Сводка  
+- Итоги  
 - Географическое распределение клиентов, подписок и лицензий  
 - Тренд роста клиентов 
 - Тренд роста подписок 
 - Тенденция роста дохода, потребляемого Azure 
 - Тренд роста лицензий 
 
-## <a name="summary"></a>Сводка
+## <a name="summary"></a>Итоги
 
 Сводка включает сведения о клиентах, Потребленном доходе Azure, подписках, активных подписках и развернутых лицензиях. 
 
-:::image type="content" source="images/pci/summary.png" alt-text="Сводные лицензии":::
+:::image type="content" source="images/pci/summary.png" alt-text="Сводные лицензии.":::
 
 Дополнительные сведения о каждом разделе сводки приведены ниже.
 
@@ -84,19 +84,19 @@ ms.locfileid: "109855205"
 
 Это представление представляет собой географическое распределение общего количества клиентов, подписок и лицензий по странам клиентов. Выберите разные вкладки, чтобы просмотреть все эти аналитические сведения на карте. Вы можете выполнить поиск и выбрать страну в сетке, чтобы увеличить расположение на карте. Вернитесь к исходному представлению, нажав кнопку Главная на карте. При щелчке каждой вкладки (например, клиенты, подписки) отображается значение метрики для каждой страны и процент от суммы по стране.  
 
-:::image type="content" source="images/pci/geosummary.png" alt-text="Географическая сводка":::
+:::image type="content" source="images/pci/geosummary.png" alt-text="Географическая сводка.":::
 
 ## <a name="customers-growth-trend"></a>Тренд роста клиентов
 
 Месячная тенденция общего количества клиентов за выбранный диапазон дат. Ось X представляет месяцы выбранного диапазона дат, а ось Y представляет общее число клиентов за этот месяц. 
 
-:::image type="content" source="images/pci/customergrowth.png" alt-text="тренд роста клиентов":::
+:::image type="content" source="images/pci/customergrowth.png" alt-text="Клиенты увеличивают тенденцию роста.":::
 
 ## <a name="subscriptions-growth-trend"></a>Тренд роста подписок
 
 Это указывает на тенденцию количества подписок клиентов для выбранного диапазона дат. Ось X представляет месяцы выбранного диапазона дат, а ось Y представляет число подписок продукта. Прокрутите ползунок в верхней части диаграммы, чтобы увеличить масштаб диаграммы до определенного периода времени. 
 
-:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Тенденция роста подписки":::
+:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Тенденция роста подписки.":::
 
 ## <a name="azure-consumed-revenue-growth-trend"></a>Тенденция роста дохода, потребляемого Azure
 
@@ -105,13 +105,13 @@ ms.locfileid: "109855205"
 > [!NOTE]
 > Потребленная прибыль (запись контроля доступа) будет видна только пользователям, которым назначена роль средства просмотра отчетов руководителя. 
 
-:::image type="content" source="images/pci/azureconsumed.png" alt-text="Использование Azure":::
+:::image type="content" source="images/pci/azureconsumed.png" alt-text="Использование Azure.":::
 
 ## <a name="licenses-growth-trend"></a>Тренд роста лицензий
  
 Тенденция лицензий, назначенных всеми клиентами в течение выбранного диапазона дат. Ось X представляет месяцы выбранного диапазона дат, а ось Y представляет число лицензий выбранного продукта. Прокрутите ползунок в верхней части диаграммы, чтобы увеличить масштаб диаграммы до определенного периода времени.  
 
-:::image type="content" source="images/pci/licensesgrowth.png" alt-text="лицензии":::
+:::image type="content" source="images/pci/licensesgrowth.png" alt-text="клиентских.":::
 
 ## <a name="next-steps"></a>Дальнейшие действия
 

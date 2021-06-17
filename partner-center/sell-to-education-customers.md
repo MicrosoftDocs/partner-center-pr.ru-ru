@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1b1b89841faf77a78c8cc268357daaaf95307223
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 9d0cff4883e084ccc0acb37d8c3119d91e3f5530
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855409"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276456"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Как продавать предложения для образовательных учреждений и как создать клиента для образовательных учреждений в центре партнеров
 
@@ -39,11 +39,11 @@ ms.locfileid: "109855409"
 
 3. По завершении нажмите кнопку **проверить**.
 
-   :::image type="content" source="images/eduaccountinfo.png" alt-text="Учетная запись клиента для образовательных учреждений":::
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="Учетная запись клиента для образовательных учреждений.":::
 
 4. После подтверждения **проверки** вы получите состояние **проверки** , если предоставленная информация действительна. 
 
-    :::image type="content" source="images/edu/create-review.png" alt-text="Образование учетной записи клиента на рецензию"lightbox="images/edu/create-review-expanded.png":::
+    :::image type="content" source="images/edu/create-review.png" alt-text="Образование учетной записи клиента на рецензию."lightbox="images/edu/create-review-expanded.png":::
 
 ### <a name="confirm-your-education-customers-verification-status"></a>Подтверждение состояния проверки для клиента в вашем обучении
 
@@ -52,19 +52,19 @@ ms.locfileid: "109855409"
 
 - Если клиент прошел проверку: образование
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="Проверка образования прошла успешно":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="Проверка образования прошла успешно.":::
 
 - Если клиент не прошел проверку, он не является образовательным клиентом.
 
-   :::image type="content" source="images/edu/fail-reason.png" alt-text="Проверка образования не пройдена" lightbox="images/edu/fail-reason-expanded.png":::
+   :::image type="content" source="images/edu/fail-reason.png" alt-text="Проверка образования не пройдена." lightbox="images/edu/fail-reason-expanded.png":::
 
 - Если клиент не был помечен как клиент для образовательных учреждений: нет
 
-   :::image type="content" source="images/edu/account-one.png" alt-text="клиентское образование не имеет тегов" lightbox="images/edu/account-one-expanded.png":::
+   :::image type="content" source="images/edu/account-one.png" alt-text="клиентское образование не маркируется как таковое." lightbox="images/edu/account-one-expanded.png":::
 
 - Если клиент просматривается как клиент для образовательных учреждений: на рецензии
 
-    :::image type="content" source="images/edu/in-review.png" alt-text="Клиент для образовательных учреждений находится на рецензии" lightbox="images/edu/in-review-expanded.png":::
+    :::image type="content" source="images/edu/in-review.png" alt-text="образовательный клиент находится на рецензии." lightbox="images/edu/in-review-expanded.png":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Исправление сведений об учетной записи клиента и повторная отправка для проверки
 

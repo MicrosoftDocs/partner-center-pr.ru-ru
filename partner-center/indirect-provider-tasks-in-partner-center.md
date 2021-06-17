@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: bd11b65fb1f11839cba50d8bc1da94668009c56c
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: ec673f7dcf620f055be58dc3a333575addcd6cd1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146686"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277850"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Партнерство с непрямыми торговыми посредниками в программе поставщиков облачных решений
 
@@ -108,7 +108,7 @@ ms.locfileid: "110146686"
 
 2. На странице **косвенные торговые посредники** выберите **Удалить партнерство**. Появится сообщение с запросом на подтверждение. Для продолжения нажмите кнопку **Да**.
 
-:::image type="content" source="images/ip-ir-relationship.png" alt-text="Удалить партнерство":::
+:::image type="content" source="images/ip-ir-relationship.png" alt-text="Удалите партнерство.":::
 
 >[!IMPORTANT]
 >Клиенты, связанные с непрямым торговым посредником, не будут удалены. Любые делегированные привилегии администратора останутся без изменений.
@@ -162,7 +162,7 @@ ms.locfileid: "110146686"
 
 7. По завершении нажмите кнопку **Отправить**.
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 Найдите ответы на вопросы о соглашении Microsoft Partner
 

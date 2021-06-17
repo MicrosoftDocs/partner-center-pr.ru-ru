@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 389a20cb8447852758c284368d52b504e8438b07
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 6fdc5687379d7bca08802f2301fdb8587f38da20
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110145904"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277646"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Использование показателей вклада партнера для получения компетенции в области малых и средних облачных решений
 
@@ -253,7 +253,7 @@ PCI предоставляет комплексное представление
 
 - Предполагается, что клиент пересекает пороговое значение активного пользователя, если клиент был:
 
-  - Ниже указанного порогового значения (определенного количества рабочих экземпляров в клиенте) 12 месяцев назад.<br/> *and* (и);
+  - Ниже указанного порогового значения (определенного количества рабочих экземпляров в клиенте) 12 месяцев назад.<br/> *and*
   - Это пороговое значение пересекается не менее одного раза в течение последующих 11 месяцев.
 
 - Активные пользователи будут учитываться на уровне клиента и суммироваться только по платным подпискам в рамках клиента.
@@ -300,8 +300,8 @@ PCI предоставляет комплексное представление
 
 4. В разделе Сводка просмотрите сведения о ходе выполнения, достижения и связанную оценку с датой.
 
-   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="Чтение таблицы «индикаторы участия партнера»":::
+   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="Сведения о том, как прочитать таблицу «индикаторы участия партнера».":::
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 Просмотрите эти [информационные ресурсы](https://partner.microsoft.com/training/assets/collection/cloud-business-applications-smb-option-for-smmcs-competency-attainment#/) , чтобы узнать больше о достижении компетенции Gold или Серебряного малого и среднего размера облачных решений с помощью облака Business Applications SMB.

@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64dbbbae0087275fa8d0c5fd4f364079623efe63
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 288e4ebb224d3ff1b0d4050691b733e678ec29a3
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148998"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276948"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Определение количества рабочих столов и ставки для соглашения
 
@@ -65,16 +65,16 @@ ms.locfileid: "110148998"
 
 2. На странице **Сводка платежного платежа** выберите отчетный месяц, который требуется просмотреть, а затем в раскрывающемся списке в разделе **Экспорт в Excel** выберите **сведения о вычислении** .
 
-:::image type="content" source="images/chip/chiplocate.png" alt-text="Сведения о поиске программы":::
+:::image type="content" source="images/chip/chiplocate.png" alt-text="Находите сведения о программе.":::
 
 3. Начнется экспорт, и вы сможете открыть файл или сохранить или сохранить как в место назначения.
 
 4. Когда отчет открыт, перейдите на вкладку **детаилрепорт-Flatfile** в левом нижнем углу экрана:
 
-:::image type="content" source="images/chip/flatfile.png" alt-text="Загрузка неструктурированного файла":::
+:::image type="content" source="images/chip/flatfile.png" alt-text="Загрузка неструктурированного файла.":::
 
 Теперь можно выполнить поиск номера соглашения, которое вы ищете в столбце J. Кроме того, вы найдете назначенное число настольных компьютеров в столбце R с меткой Agreement_DesktopCount. Вы также можете подтвердить уровень сбора для этого соглашения в столбце "AI" с меткой "уровень".
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Устранение проблем с доступом к микросхемам](chip-access-trouble.md)

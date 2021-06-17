@@ -8,12 +8,12 @@ description: Узнайте, что вы хорошо используете, и
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 9626ceda405b54ea2043814fef3d7f5c81bc35af
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 36993633ab2e2be0a726c70bf930f842bfaf890f
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854595"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276303"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI отчет об использовании, доступный на панели мониторинга центра партнеров Insights
 
@@ -21,7 +21,7 @@ ms.locfileid: "109854595"
 
 Отчет об использовании Power BI предоставляет данные об использовании для подписок Power BI, которые вы продавали или управляете клиентами. В отчете об использовании Power BI можно просмотреть следующие разделы.
 
-- Сводка
+- Итоги
 - Использование Power BI по geography
 - Использование Power BI по SKU
 - Производительность подписок
@@ -30,7 +30,7 @@ ms.locfileid: "109854595"
  > [!NOTE]
  > Этот отчет доступен на панели мониторинга Insights. Чтобы просмотреть этот отчет, необходимо назначить определенную роль в центре партнеров, например Глобальный администратор, администратор учетной записи, средство просмотра отчетов или средство просмотра отчетов руководителя. Дополнительные сведения см. в разделе Глобальный администратор вашей организации. определенные типы данных в этом отчете могут также быть доступны только пользователям с правами администратора для просмотра отчетов.
 
-## <a name="summary"></a>Сводка
+## <a name="summary"></a>Итоги
 
 В разделе "Сводка" представлено представление моментального снимка ключевых показателей, связанных с Power BI подписками на использование, которые вы продавали или управляете клиентами. 
 
@@ -50,7 +50,7 @@ ms.locfileid: "109854595"
 
    В микродиаграмме представлена месячная тенденция активного использования в течение выбранного периода времени.
 
-:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Сводка по использованию Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Сводка по использованию Power BI.":::
 
 ## <a name="power-bi-usage-by-geography"></a>Использование Power BI по geography
 
@@ -60,25 +60,25 @@ ms.locfileid: "109854595"
 
 Вы можете выполнить поиск и выбрать страну в сетке, чтобы увеличить расположение на карте. Выберите параметр **домой** на карте, чтобы вернуться к исходному представлению.
 
-:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Использование Power BI по geography":::
+:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Power BI использования по geography.":::
 
 ## <a name="power-bi-usage-by-sku"></a>Использование Power BI по SKU
 
 Power BI использования по SKU показывает месячную тенденцию доступных мест, активных рабочих мест и назначенных мест по номерам SKU.
 
-:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="Использование Power BI по SKU":::
+:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="Power BI использования по SKU.":::
 
 ## <a name="subscriptions-performance"></a>Производительность подписок
 
 Производительность подписок показывает месячную тенденцию активного использования на подписку клиента. Данные для лучших 100 клиентов по выручке выставляются в таблице. Вы можете найти любого клиента или скачать необработанные данные, чтобы просмотреть сведения обо всех подписках.
 
-:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Производительность подписки Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Power BI производительность подписки.":::
 
 ## <a name="power-bi-usage-distribution"></a>Распределение использования Power BI
 
 В Power BI распределения использования показано разделение доступных мест, активных мест и назначенных мест по номерам SKU.
 
-:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Распределение использования Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Power BI распределения использования.":::
 
 ## <a name="next-steps"></a>Дальнейшие действия
 

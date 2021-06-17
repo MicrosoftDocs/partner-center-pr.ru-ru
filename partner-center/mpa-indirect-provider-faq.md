@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8fc82348ed59dff14b4c98272fb5b77d488ccde0
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 38e74bf7b464a138744318b0405c0ba81b2e9630
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151497"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276660"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-accept-the-microsoft-partner-agreement-mpa"></a>Как косвенные поставщики могут помочь своим непрямым торговым посредникам принять соглашение о партнерской программе Майкрософт (MPA)
 
@@ -178,7 +178,7 @@ ms.locfileid: "110151497"
 В разделе **Параметры учетной записи** выберите страницу " **Юридический профиль** " на вкладке " **партнер** ". Если в разделе сведения о программе отображается «состояние программы MPN», идентификатор MPN находится в центре партнеров. Если вы не видите пункт "состояние программы MPN" на вкладке "партнер", вы вошли в учетную запись CSP или ваша учетная запись MPN по-прежнему не находится в центре партнеров. Вам может потребоваться перенести учетную запись MPN из PMC на компьютер.
 
 
-:::image type="content" source="images/legal-info-mpn.png" alt-text="Где можно просмотреть сведения о программе MPN":::
+:::image type="content" source="images/legal-info-mpn.png" alt-text="Где можно просмотреть сведения о программе MPN.":::
 
 ## <a name="questions-about-mpn-and-csp-account-verification"></a>Вопросы о проверке учетной записи MPN и CSP
 
@@ -195,14 +195,14 @@ ms.locfileid: "110151497"
 - Для решения проблем с проверкой бизнеса создайте [запрос в службу поддержки](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54).  
 - Для проблем с проверкой трудоустройства создайте [запрос в службу поддержки](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b).
 
-:::image type="content" source="images/rejected-faq-mpa.png" alt-text="вергать":::
+:::image type="content" source="images/rejected-faq-mpa.png" alt-text="вергать.":::
 
 
 #### <a name="i-enrolled-in-mpn-program--csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-seems-to-be-stuck-in-the-pending-state-what-should-i-do"></a>Я зарегистрировался в программе MPN Program/CSP непрямого торгового посредника, но состояние проверки "Юридический бизнес-профиль" будет задержано в состоянии ожидания.   Что следует делать?
 
 **Ответ**  Если ваш юридический бизнес-профиль поставщика CSP находится в состоянии **ожидания** по истечении более чем пяти рабочих дней, отправьте запрос в службу поддержки из центра партнеров, щелкнув [Поддержка центра партнеров](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce).
 
-:::image type="content" source="images/pending.png" alt-text="Состояние &quot;ожидание&quot;":::
+:::image type="content" source="images/pending.png" alt-text="Состояние — Ожидание.":::
 
 ## <a name="questions-about-working-in-partner-center"></a>Вопросы о работе в центре партнеров
 
@@ -210,7 +210,7 @@ ms.locfileid: "110151497"
 
 **Ответ** Глобальный администратор в вашей компании должен принять активацию Майкрософт. Чтобы узнать, кому назначена роль глобального администратора в вашей компании, перейдите в раздел **Управление пользователями.** В поле поиска введите Global admin. Будут извлечены имена пользователей, которым назначена роль глобального администратора. Любой из этих пользователей может принять АКТИВАЦИю. Если у вашей компании нет глобального администратора, прочтите статью [что делать, если вашей компании требуется глобальный администратор](no-mpn-admin.md).
 
-:::image type="content" source="images/user-management-clean.png" alt-text="Как найти глобального администратора":::
+:::image type="content" source="images/user-management-clean.png" alt-text="Как найти глобального администратора.":::
 
 
 #### <a name="my-reseller-says-that-in-partner-center-they-dont-see-an-option-to-accept-the-mpa-how-can-i-best-support-them"></a>Мой торговый посредник говорит, что в центре партнеров не отображается возможность принять АКТИВАЦИю. Как лучше ее поддерживать?
@@ -219,7 +219,7 @@ ms.locfileid: "110151497"
 
 1. Видите ли они страницу "Обзор" на вкладке CSP в левой части? 
 
-:::image type="content" source="images/csp.png" alt-text="Где искать CSP в меню центра партнеров":::
+:::image type="content" source="images/csp.png" alt-text="Где искать CSP в меню центра партнеров.":::
 
 Если они не видят "Обзор" в разделе "CSP" в меню "Центр партнеров", это означает, что они еще не зарегистрированы в программе CSP. Торговому посреднику потребуется запустить процесс для регистрации в качестве непрямого торгового посредника CSP, как описано [в этой программе с непрямыми поставщиками](indirect-reseller-tasks-in-partner-center.md). После завершения регистрации они смогут принять АКТИВАЦИю.
 
@@ -228,7 +228,7 @@ ms.locfileid: "110151497"
 
 Если состояние является любым другим, но **активно**, это означает, что проверка юридического бизнес-профиля все еще выполняется или отклонена. На этой же странице Торговый посредник должен проверить состояние проверки и нажать кнопку "Подробнее", **чтобы устранить эту проблему** , чтобы предоставить торговому посреднику необходимую документацию для продолжения проверки.
 
-:::image type="content" source="images/active-status.png" alt-text="Состояние &quot;активно&quot;":::
+:::image type="content" source="images/active-status.png" alt-text="Состояние — активно.":::
 
 Если торговому посреднику требуется поддержка при передаче проверки юридического бизнес-профиля, попросите их открыть запрос, выбрав следующие параметры:
 
@@ -243,7 +243,7 @@ ms.locfileid: "110151497"
 
 2. Перейдите в раздел **Управление пользователями** и убедитесь, что учетной записи входа назначена роль глобального администратора? Если это не так, его нельзя использовать для принятия активации продуктов Майкрософт. Выполните поиск глобального администратора в поле поиска на странице Управление пользователями и свяжитесь с ним, чтобы принять АКТИВАЦИю.
 
-:::image type="content" source="images/user-management-clean.png" alt-text="Указание роли в центре партнеров":::
+:::image type="content" source="images/user-management-clean.png" alt-text="Найдите свою роль в центре партнеров.":::
 
 
 #### <a name="how-do-i-check-if-my-company-has-accepted-the-mpa"></a>Разделы справки проверить, принял ли моя компания АКТИВАЦИю?
@@ -251,23 +251,23 @@ ms.locfileid: "110151497"
 **Ответ** Войдите в центр партнеров с помощью учетной записи непрямого торгового посредника CSP.
 Если вы являетесь агентом администратора или агентом по продажам в CSP, перейдите на страницу соглашения, чтобы убедиться, что соглашение партнера Майкрософт видимо. 
 
-:::image type="content" source="images/agreement-new.png" alt-text="Размещение соглашений в параметрах учетной записи":::
+:::image type="content" source="images/agreement-new.png" alt-text="Нахождение соглашений в параметрах учетной записи.":::
 
 
 Если вы являетесь глобальным администратором, перейдите на страницу обзора CSP. Если отображается зеленый баннер, все настроены на языке Transact с косвенным поставщиком в этом регионе CSP. Если это не так, вы увидите кнопку **принять и продолжить** , чтобы принять активацию и активировать учетную запись CSP.
 
-:::image type="content" source="images/banner-boxed.png" alt-text="Зеленый баннер":::
+:::image type="content" source="images/banner-boxed.png" alt-text="Зеленый баннер.":::
 
 #### <a name="i-want-to-accept-mpa-but-i-dont-see-any-place-button-to-accept-terms-to-do-so"></a>Я хочу принять АКТИВАЦИю, но не вижу места (нажмите кнопку, чтобы принять условия)?
 
 **Ответ** Войдите в центр партнеров с помощью учетных данных непрямого торгового посредника поставщика облачных служб. Перейдите на страницу Обзор CSP .  Если кнопка **принять и продолжить** не отображается, а зеленый баннер не говорит о том, что технология MPA принята, это означает, что у вас нет правильной роли для принятия активации продуктов Майкрософт. Чтобы принять АКТИВАЦИю, необходимо обратиться к глобальному администратору.
 
-:::image type="content" source="images/agreement-two.png" alt-text="Определение местонахождения соглашений":::
+:::image type="content" source="images/agreement-two.png" alt-text="Нахождение соглашений.":::
 
 :::image type="content" source="images/user-management-filter.png" alt-text="{alt-text}":::
 
 
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Узнайте о сотрудничестве с непрямыми поставщиками в программе поставщиков облачных решений](indirect-reseller-tasks-in-partner-center.md)

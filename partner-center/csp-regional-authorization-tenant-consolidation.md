@@ -10,18 +10,18 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d2168dcd60b8675a21960918dab49b778025fa51
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 84e5f7f2674e9b2f3c3c26ed2ea49f9bba0e96e0
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147587"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276881"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Инструкции по консолидации клиента региональной авторизации CSP
 
 Область **применения**: центр партнеров | Центр партнеров по Microsoft Cloud для государственных организаций США
 
-**Соответствующие роли**: глобальный администратор | Агент администратора
+**Соответствующие роли:** глобальный администратор | агент по администрированию
 
 \[Некоторые сведения относятся к предварительно выпущенному продукту, который может быть значительно изменен перед коммерческой выпуском. Майкрософт не предоставляет никаких гарантий, явных или подразумеваемых, относительно приведенных здесь сведений.\]
 
@@ -62,7 +62,7 @@ ms.locfileid: "110147587"
 
 5. Добавьте правильные подписки и подсчеты лицензий из каталога. Проверьте сведения в партнерских учетных записях, **из которых осуществляется перенос**.
 
-   :::image type="content" source="images/regionalcustomer2.png" alt-text="список клиентов":::
+   :::image type="content" source="images/regionalcustomer2.png" alt-text="список клиентов.":::
 
 6. Выберите **Отправить.**
 
@@ -140,6 +140,6 @@ ms.locfileid: "110147587"
 
 Дополнительные сведения о регистрации API см. [в статье Настройка доступа через API в центре партнеров](/partner-center/develop/set-up-api-access-in-partner-center).
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Региональные рынки и валюты поставщика облачных решений, где можно продать предложения CSP](regional-authorization-overview.md)
