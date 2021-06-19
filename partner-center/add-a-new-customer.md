@@ -1,7 +1,7 @@
 ---
 title: Добавление новой записи клиента
 ms.topic: how-to
-ms.date: 04/27/2020
+ms.date: 04/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Узнайте, как добавить новую запись о клиенте в центр партнеров. Затем можно продать клиентские подписки, управлять выставлением счетов или предоставлять поддержку клиентов.
@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 234e183ae814dc30f8d7d00c5dddb1ffea612825
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 76e15992355eff88e3a9391ea4af327c3ad969e0
+ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150562"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "112373364"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Как добавить новую запись о клиенте в Центре партнеров
 
@@ -56,7 +56,7 @@ ms.locfileid: "110150562"
 
 7. По завершении добавления сведений о клиенте и приобретения необходимых подписок нажмите кнопку **Готово** .
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - Дополнительные сведения о том, что можно продать клиентам с помощью программы поставщика облачных решений, см. [в статье предложения партнеров в программе поставщика облачных решений](csp-offers.md) .
 

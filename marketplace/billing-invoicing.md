@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 0d03554f96acf6cd2953d3b968192ffbb23185ce
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: d45d301abfea03e06a8fc67e759012d4275d7dec
+ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412613"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "112373462"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Выставление счетов и выписка в Azure Marketplace
 
@@ -48,6 +48,9 @@ ms.locfileid: "103412613"
 >[!NOTE]
 > Период обслуживания — это период, за который вы оплачиваете использование службы. Автоматическое продление выполняется в и в период обслуживания, если вы не отменили заранее.
 
+> [!NOTE]
+> Мы перенастроены на последний день месяца выставления счетов, если дата продления месяца не может быть равна дате покупки в месяц. Это означает, что если бы одна была подписалась на 1/31, Дата окончания выставления счетов за февраль будет составлять 2/27, а новое условие выставления счетов начинается с 2/28 (2/28 и 2/29, если оно начинается в високосном году).
+
 ## <a name="invoices"></a>Счета
 
 Вы получите электронное письмо в начале каждого календарного месяца, когда ваш счет будет доступен в портал Azure. В счете будут показаны все бесплатные и оплаченные предложения, приобретенные и/или потребляемые в течение календарного месяца. Если у вас есть только бесплатные предложения, вы увидите только $0 строк и не будете предпринимать никаких действий по оплате. **Клиенты Соглашение Enterprise** получат Объединенный счет, показывающий как Azure, так и Azure Marketplace (за исключением клиентов в Австралии, Японии и Сингапур). **Клиенты, приобретенные непосредственно из Azure Marketplace** , получат счет только для покупок из Azure Marketplace. Дополнительные сведения см. в разделе счета [для учетных записей MOSP](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts).
@@ -61,7 +64,7 @@ ms.locfileid: "103412613"
 
 Дополнительные сведения о счетах см. в статье [сведения о расходах на внешние службы Azure](/azure/cost-management-billing/understand/understand-azure-marketplace-charges).
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - [Что такое Azure Marketplace?](azure-marketplace-overview.md)
 - [Покупки в Azure Marketplace](azure-purchasing-invoicing.md)

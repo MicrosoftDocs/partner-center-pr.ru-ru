@@ -7,13 +7,13 @@ ms.subservice: partnercenter-csp
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.date: 11/20/2019
-ms.openlocfilehash: e2bff940dc2d145a783dddad3a71aba14e1ba25a
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.date: 6/17/2021
+ms.openlocfilehash: a10235d002007c8b2dfd3ab460ccb67fd5384cc3
+ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150970"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "112373381"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Ответы на вопросы о Центре партнеров для Microsoft Cloud for US Government
 
@@ -53,7 +53,7 @@ ms.locfileid: "110150970"
 
 - Контракты. В соглашение реселлера облачных решений Майкрософт (MCRA) были добавлены уникальные положения для государственных учреждений.
 
-- Работа Центра партнеров. Чтобы обеспечить соответствие нормативным требованиям и требованиям соответствия, некоторые возможности Центра партнеров будут недоступны для программы CSP для Microsoft Cloud для правительства США. Партнеры могут использовать Azure Active Directory (Azure AD) или [API Graph](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS) для выполнения задач, связанных с управлением пользователями и группами. Функция запроса отношений для поддержки многоканальных и многопартнерических сценариев будет доступна после запуска, когда службы на основе лицензий будут доступны в CSP для Microsoft Cloud для государственных организаций США.
+- Работа Центра партнеров. Чтобы обеспечить соответствие нормативным требованиям и требованиям соответствия, некоторые возможности Центра партнеров будут недоступны для программы CSP для Microsoft Cloud для правительства США. Вместо этого партнеры могут использовать Azure Active Directory (Azure AD) или [API Graph](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS) для выполнения задач, связанных с управлением пользователями и группами. Функция автоматизированного запроса связей предназначена для того, чтобы сделать ее доступной 2021 октября.
 
 ### <a name="i-am-not-a-csp-partner-yet-where-can-i-find-more-information-on-how-to-become-a-csp-partner"></a>Я еще не являюсь партнером CSP. Где можно найти дополнительные сведения о том, как стать партнером CSP?
 
@@ -168,7 +168,7 @@ API-интерфейсы и требования к их интеграции в
 
 Для получения дополнительных сведений обратитесь к менеджеру по учетным записям. Кроме того, присоединитесь к нашей к группе в Yammer, посвященной [CSP для Azure для государственных организаций](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777).
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - [Зарегистрируйтесь в программе поставщика облачных решений для Microsoft Cloud для государственных организаций США](enroll-in-csp-for-microsoft-us-govt-cloud.md).
 - [Дополнительные сведения о центре партнеров для Microsoft Cloud для государственных организаций США](partner-center-for-microsoft-us-govt-cloud.md)
