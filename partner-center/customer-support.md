@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: c4e1459b71016718533d02953691065332c4ad13
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 81a8d656c876d39ca6389fedeec3a154dd778ce1
+ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147349"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112450753"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Предоставление клиентам различных типов поддержки
 
@@ -34,13 +34,13 @@ ms.locfileid: "110147349"
 
 - **Техническая** поддержка. Вы можете [Сравнить планы поддержки партнеров](https://partner.microsoft.com/support/partnersupport) или дополнительные сведения о конкретном плане поддержки:
 
-  - [Поддержка Premier для партнеров](https://partner.microsoft.com/support/microsoft-services-premier-support) (база сбора, использование для всех продуктов)
+  - [Поддержка Premier для партнеров (PSfP)](https://partner.microsoft.com/support/microsoft-services-premier-support) (база сбора, использование для всех продуктов)
 
-  - [Расширенная поддержка для партнеров](https://partner.microsoft.com/support/advanced-cloud-support) (база сбора, использование только для облачных продуктов).
+  - [Расширенная поддержка для партнеров (ASfP](https://partner.microsoft.com/support/advanced-cloud-support) (база сбора, использование только для облачных продуктов).
 
-  - [Поддержка сигнатур в облаке](manage-your-partner-network-benefits.md) (входит в состав преимуществ MPN для компетенций Gold или серебристого уровня, используйте только для облачных продуктов).
+  - [Поддержка в облаке сигнатур](manage-your-partner-network-benefits.md) (включена в преимущества MPN для компетенций Gold или серебристого уровня, используйте только для облачных продуктов. См. [технические преимущества](mpn-benefits-technical-support.md))
 
-  - [Обращения в службу поддержки продуктов](manage-your-partner-network-benefits.md) (включены в MPNные преимущества для Gold, серебряных или партнеров Майкрософт Action Pack, использовать только для последних локальных продуктов).
+  - [Обращения в службу поддержки продуктов](manage-your-partner-network-benefits.md) (включены в MPNные преимущества для Gold, серебряных или партнеров Майкрософт Action Pack, используйте только для последних локальных продуктов. См. [технические преимущества](mpn-benefits-technical-support.md))
 
 ## <a name="providing-billing-subscription-management-and-technical-support"></a>Предоставление поддержки по выставлению счетов, управлению подписками, а также техническая поддержка 
 
