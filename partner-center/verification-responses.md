@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8486e16d9979a1c1482577248334c1854b116273
-ms.sourcegitcommit: 75b84d0918802325019577930d368bc3df193ab2
+ms.openlocfilehash: baf13c0953350d27a53ec18cb2338469c6d54770
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "110236106"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431484"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Проверка данных учетной записи при регистрации в новой программе Центра партнеров
 
@@ -27,8 +27,8 @@ ms.locfileid: "110236106"
 
 Если вы являетесь основным контактным лицом (глобальным администратором или администратором учетной записи), мы рекомендуем вам обратиться к своему профилю партнера, чтобы отслеживать состояние проверки и отслеживать ход выполнения.
 
-- Для программы MPN перейдите к [юридическим сведениям](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).
-- Для программы CSP перейдите к [юридическим сведениям](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
+- Для программы Microsoft Partner Network (MPN) перейдите к [юридическим сведениям](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).
+- Для программы поставщика облачных решений (CSP) перейдите к [юридическим сведениям](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
 
 ## <a name="what-is-verified-and-how-to-respond"></a>Проверка и ответ
@@ -51,4 +51,4 @@ ms.locfileid: "110236106"
 - Для программы MPN перейдите на страницу с [юридическими сведениями](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) .  
 - Для программы CSP перейдите на страницу [юридические сведения](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) .
 
-Если вам нужна помощь в выполнении этих действий в центре партнеров, обратитесь в службу поддержки партнеров, открыв билет в разделе поддержки в центре партнеров. Для этого перейдите в раздел [Справка и поддержка](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=21655de7-7dbb-4927-33a2-f60f45feadf3).
+Если вам нужна помощь в выполнении этих действий в центре партнеров, обратитесь в службу поддержки партнеров, открыв билет в разделе поддержки в центре партнеров. Чтобы открыть билет, перейдите в раздел [Справка и поддержка](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=21655de7-7dbb-4927-33a2-f60f45feadf3).

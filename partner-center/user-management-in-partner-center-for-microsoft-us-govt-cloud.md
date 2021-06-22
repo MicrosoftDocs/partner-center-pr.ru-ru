@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4951d6abde3ea445ec588458af9f33f3ccd56092
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 26cdd01597b1cea49b36bb06c6d7b4d38c1b7879
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146839"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431457"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Управление пользователями и лицензиями в Центре партнеров Microsoft Cloud для правительства США
 
@@ -32,14 +32,14 @@ ms.locfileid: "110146839"
 > [!NOTE]  
 > Перейдя по приведенным ниже ссылкам, вы перейдете на другой веб-сайт. 
 
--  [**Добавление новых пользователей в Azure Active Directory**](/azure/active-directory/active-directory-users-create-azure-portal)
+- [Добавление новых пользователей в Azure Active Directory](/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [**Назначение пользователю ролей администратора в Azure Active Directory**](/azure/active-directory/active-directory-users-assign-role-azure-portal)
+- [Назначение пользователю ролей администратора в Azure Active Directory](/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [**Сброс пароля пользователя в Azure Active Directory**](/azure/active-directory/active-directory-users-reset-password-azure-portal)
+- [Сброс пароля пользователя в Azure Active Directory](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-## <a name="next-steps"></a>Следующие шаги
+## <a name="next-steps"></a>Дальнейшие шаги
 
--  [**Центр партнеров для Microsoft Cloud for US Government**](partner-center-for-microsoft-us-govt-cloud.md)
+- [Центр партнеров для Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [**Регистрация в программе поставщиков облачных решений Microsoft Cloud для правительства США**](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+- [Регистрация в программе поставщиков облачных решений Microsoft Cloud для правительства США](enroll-in-csp-for-microsoft-us-govt-cloud.md)

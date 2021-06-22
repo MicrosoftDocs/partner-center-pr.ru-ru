@@ -6,12 +6,12 @@ ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: 8cfe0e95d1655530c9bc9d24b1efe85e6432236b
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 9da9eb4944508e815d1664fb44b13bce52f37150
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712772"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431672"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Создание частного магазина Azure Marketplace и управление им в портал Azure
 
@@ -30,7 +30,7 @@ ms.locfileid: "104712772"
 >[!IMPORTANT]
 > Доступ к частному управлению Azure Marketplace доступен только ИТ-администраторам с назначенной ролью администратора Marketplace.
 
-### <a name="prerequisites"></a>Предварительные требования
+### <a name="prerequisites"></a>Обязательные условия
 
 Эти предварительные требования необходимы, прежде чем можно будет назначить роль администратора Marketplace пользователю в области клиента:
 
@@ -291,6 +291,9 @@ Assign-MarketplaceAdminRole
 
 > [!NOTE]
 > После отправки в [Центр уведомлений](#private-azure-marketplace-notification-center) будет отправлена форма запроса на утверждение, чтобы администратор Marketplace просмотрел запрос и принять меры.
+
+> [!CAUTION]
+> Утверждение в частном Marketplace не означает закупку решения.
 
 ## <a name="frequently-asked-questions-faqs"></a>Часто задаваемые вопросы (FAQ)
 

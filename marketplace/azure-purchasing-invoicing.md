@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 01/18/2021
-ms.openlocfilehash: f747c11ef4bfc9abe1035ffb3f059da59b6572ac
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 11145280aad1ecd9777ec2fb7540e7d6479acfae
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276507"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431549"
 ---
 # <a name="azure-marketplace-purchasing"></a>Покупки в Azure Marketplace
 
@@ -30,6 +30,9 @@ Azure Marketplace упрощает процесс приобретения с п
 Перед покупкой убедитесь, что у пользователя есть правильная конфигурация в клиенте Azure. Это поможет предотвратить ошибки во время приобретения.
 
 В портал Azure в Azure Marketplace найдите приложение, которое вы хотите купить, и выберите **создать** или **настроить + подписка**. Перед использованием нового решения вам будет предложено ввести некоторые сведения.
+
+> [!CAUTION]
+> Утверждение в частном Marketplace не означает закупку решения.
 
 :::image type="content" source="media/overview/offer-create-screen.png" alt-text="Кнопка создать предложения.":::
 
@@ -75,6 +78,6 @@ Azure Marketplace упрощает процесс приобретения с п
 1. Частный Marketplace включен для подписки, а предложение отсутствует в списке разрешенных предложений.
 1. Предложение является частным или предварительным просмотром для конкретных клиентов, а подписка отсутствует в списке разрешенных клиентов.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - [Выставление счетов и счетов-фактур](billing-invoicing.md)

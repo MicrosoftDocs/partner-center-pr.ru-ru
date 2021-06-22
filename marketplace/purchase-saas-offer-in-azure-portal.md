@@ -8,12 +8,12 @@ ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
 ms.date: 06/04/2021
-ms.openlocfilehash: b73a9acb7b9cf9eee1151de1f8e45f6fd6ef256f
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.openlocfilehash: 8dba9f95607a4172e6d5d0bc2ec148a25b599cd1
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373478"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431448"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Приобретите предложение SaaS в портал Azure
 
@@ -112,7 +112,7 @@ ms.locfileid: "112373478"
 - Подписка, используемая для этой покупки, не допускает покупки в Marketplace.  
   - Используйте другую подписку или попросите администратора изменить определение для этой подписки и повторите попытку.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Дальнейшие шаги
 
-- Если вы продаете предложение с помощью Майкрософт, перейдите к статье [Добавление аудитории предварительной версии для предложения SaaS](/azure/marketplace/create-new-saas-offer-preview).
-- В противном случае перейдите к статье [Продажа предложения SaaS](/azure/marketplace/create-new-saas-offer-marketing).
+- Если вы уже приобрели предложение в Marketplace, выберите [счет и выставление](/marketplace/billing-invoicing) счетов.
+- Кроме того, вы можете узнать больше о вариантах [частных планов](/marketplace/private-offers) .
