@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 844a795330a0c10ef51f6b47ce15afa37d3d71f5
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 7a4ee8fcb0fe216961dc2e599dc36f2957612b03
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855256"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551577"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Просмотр требований к допустимости для служб планирования
 
@@ -27,7 +27,7 @@ ms.locfileid: "109855256"
 
 ## <a name="learn-more-about-each-engagement"></a>Дополнительные сведения о каждом задействовании
 
-Каждое взаимодействие служб планирования имеет собственные, конкретные требования к допустимости и допустимую максимальную продолжительность.
+Каждое взаимодействие служб планирования имеет собственные, конкретные требования к допустимости и допустимое максимальное время.
 
 Дополнительные сведения о требованиях к компетенции для конкретного взаимодействия см. в следующей таблице.
 
@@ -39,7 +39,7 @@ ms.locfileid: "109855256"
 | Обновление Microsoft Dynamics 365 для участия клиентов  | Управление отношениями "серебро" или "Gold" к облаку Business Applications или облачным клиентам  | [Участие в службах планирования развертывания Dynamics (ДИДПС)](https://go.microsoft.com/fwlink/?linkid=2116073)
 | Переход на Microsoft Dynamics 365 для участия клиентов  | Управление отношениями "серебро" или "Gold" к облаку Business Applications или облачным клиентам  | [Участие в службах планирования развертывания Dynamics (ДИДПС)](https://go.microsoft.com/fwlink/?linkid=2116073)
 | Обновление Microsoft Dynamics 365 для финансов и операций  | Корпоративное планирование ресурсов категории Gold (ERP)  | [Участие в службах планирования развертывания Dynamics (ДИДПС)](https://go.microsoft.com/fwlink/?linkid=2116073)  |
-| Модернизации платформу Windows Server | Серебряной или Золотой центр обработки данных | [Частные облака, службы планирования управления и виртуализации (ПВДПС)](https://go.microsoft.com/fwlink/?linkid=2115982) |
+| Модернизации платформу Windows Server | Серебряной или Золотой центр обработки данных | [Частные облака, управление и службы планирования виртуализации (ПВДПС)](https://go.microsoft.com/fwlink/?linkid=2115982) |
 | Планирование развертывания SharePoint  | Корпоративная или золото совместная работа и содержимое  | [Службы планирования развертывания SharePoint (СДПС)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
 | Планирование решения для управления проектами и портфелями (PPM)  | Управление проектами и портфелями Gold (PPM)  | [Службы планирования развертывания SharePoint (СДПС)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
 | Планирование развертывания Exchange  | Серебряная или Золотая система обмена сообщениями  | [Skype для бизнеса и службы планирования развертывания Exchange (S-ЕДПС)](https://go.microsoft.com/fwlink/?linkid=2116075)  |

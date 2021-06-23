@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ab3aca1ef576501fcc6b912b83cfeccbf029022
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: df8ec36dbd88ff6b9ddbcbfcc9ef2e246112a548
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855392"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551333"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Использование Центра партнеров для продажи клиентам подписок на коммерческие продукты в Marketplace
 
 **Соответствующие роли**: агент продаж
 
-Как партнер в программе CSP, вы можете использовать центр партнеров для продажи подписок клиентов на продукты SaaS, которые были опубликованы в коммерческом магазине ([Microsoft AppSource](https://appsource.microsoft.com/) и [Azure Marketplace](https://azuremarketplace.microsoft.com/)) независимыми поставщиками программного обеспечения (ISV).
+В качестве партнера в программе поставщика облачных решений (CSP) вы можете использовать центр партнеров для продажи подписок клиентов на продукты SaaS, которые были опубликованы в коммерческом магазине ([Microsoft AppSource](https://appsource.microsoft.com/) и [Azure Marketplace](https://azuremarketplace.microsoft.com/)) независимыми поставщиками программного обеспечения (ISV).
 
 Это помогает выделиться на фоне конкурентов и предложить своим клиентам пакеты ПО, удовлетворяющие их бизнес-потребности. Вы управляете лицензиями и подписками для этих продуктов Marketplace SaaS так же, как и для продуктов Майкрософт.
 

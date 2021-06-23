@@ -1,5 +1,5 @@
 ---
-title: Перенос некоторых подписок Skype для бизнеса
+title: Перенос подписок Skype для бизнеса
 description: Узнайте, как и когда следует переносить определенных клиентов с истекшим сроком подписки Skype для бизнеса Online (план 1) на новые версии Office 365.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: 0e8289ad06dbc8a95f5cff22ca386176d6ba65ab
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: a8de5b824a24b07607b5365848ec1027ca0d08e8
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854831"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551543"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Перенос подписок Плана 1 для Skype для бизнеса Online в новые версии Office 365
 
@@ -27,7 +27,7 @@ ms.locfileid: "109854831"
 >[!NOTE]
 >SKU-коды для коммерческих организаций и правительственных учреждений по Плану 1 для Skype для бизнеса Online станут недоступны.
 
-Если вы используете API (CREST или Центра партнеров), вы можете найти подписки с истекающим сроком действия по дате завершения подписки и свойству автоматического возобновления со значением "ложь". Подпискам на План 1 для Skype для бизнеса Online будет задано значение "auto renew=False" (автоматическое продление=ложь) 1 сентября 2018 года. Перевести клиентов на новый план можно в любое время. 
+Если вы используете API (Commerce (CREST) или центр партнеров), найдите подписки с истекшим сроком действия, оценивая дату окончания подписки вместе со свойством автоматического продления = false. Подпискам на План 1 для Skype для бизнеса Online будет задано значение "auto renew=False" (автоматическое продление=ложь) 1 сентября 2018 года. Перевести клиентов на новый план можно в любое время. 
 
 ## <a name="skype-for-business-online-plan-1-replacement-plans"></a>Планы замены для Skype для бизнеса Online (План 1)
 
