@@ -7,12 +7,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80cb5503323f483c13c983375559baf70f9d0b6f
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 85eefb49cf62c4bcfa5533683abd8ddb0e854463
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854729"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490076"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Региональные налоги, правила для служб общедоступной телефонной сети (ПТСН)
 
@@ -26,7 +26,7 @@ ms.locfileid: "109854729"
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Счет презентации и файл согласования партнеров
 
-Счета CSP и файлы сверки CSP в США, Пуэрто-Рико и Канаде, в том числе Skype для бизнеса PSTN и Microsoft 365 Voice Services, будут содержать отдельные элементы строк для компонентов PSTN и не-PSTN.
+Счета поставщика облачных решений (CSP) и файлы сверки CSP в США, Пуэрто-Рико и Канаде, которые включают Skype для бизнеса PSTN и Microsoft 365 Voice Services, будут предоставлять отдельные элементы строк для компонентов PSTN и не-PSTN.
 
 Кроме того, в счета CSP будет отображаться следующая сноска:
 
@@ -45,7 +45,7 @@ ms.locfileid: "109854729"
 
 **Пример сверки с партнером #2**
 
-В Microsoft 365 бизнес Voice, доступном в Канаде, есть дополнительные налогооблагаемые компоненты PSTN, консолидированные по счету CSP (как в Office 365, а также два элемента строк, один для компонентов PSTN, а другой для компонентов, не являющихся PSTN).  Файл сверки CSP для Microsoft 365 бизнес Voice будет отображать все налогооблагаемые компоненты PSTN отдельно (отдельные компоненты PSTN не будут объединены в. CSV или средство API).  Суммирование сведений о заказах и выставленных сумм по клиентам, найденным в файле сверки, будет соответствовать счету CSP.
+В Microsoft 365 бизнес Voice, доступном в Канаде, есть дополнительные налогооблагаемые компоненты PSTN, консолидированные по счету CSP (как в Office 365, а также два элемента строк, один для компонентов PSTN, а другой для компонентов, не являющихся PSTN).  Файл сверки CSP для Microsoft 365 бизнес Voice будет отображать все налогооблагаемые компоненты PSTN отдельно (отдельные компоненты PSTN не будут объединены в .CSV или средство API).  Суммирование сведений о заказах и выставленных сумм по клиентам, найденным в файле сверки, будет соответствовать счету CSP.
 
 ## <a name="additional-resources"></a>Дополнительные ресурсы
 Дополнительные сведения см. на сайте [Microsoft 365 для партнеров](https://www.microsoft.com/microsoft-365/partners/) .

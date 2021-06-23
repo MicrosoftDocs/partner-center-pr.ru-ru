@@ -9,18 +9,18 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 212eef8294b7d293a9bc9f55b56498e12e3f402a
-ms.sourcegitcommit: 9292a85c4c142109e46462ee4088bd95efb62456
+ms.openlocfilehash: cccb1701e196781b2e002ef6bb37f0e47521b2b5
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "88711816"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489940"
 ---
 # <a name="participate-in-software-assurance-programs-including-training-vouchers-and-planning-services"></a>Участие в программе Software Assurance, включая ваучеры обучения и службы планирования
 
 Участие в программах Software Assurance, включая ваучеры обучения по программе Software Assurance (САТВ) и службы планирования, предоставляет возможность роста бизнеса для корпоративных клиентов Майкрософт. 
 
-- Как партнер по обучению Software Assurance, корпорация Майкрософт будет компенсировать, что вы сможете предоставить обучающий технический учебный курс, разработанный экспертами Майкрософт. 
+- Как партнер САТВ, корпорация Майкрософт компенсирует вас, чтобы предоставить возможность обучения инструкторов, разработанных экспертами Майкрософт. 
 
 - Как партнер по службам планирования, корпорация Майкрософт будет компенсировать вас, чтобы получить предварительно определенные обязательства по планированию реализации. 
 

@@ -9,20 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1d5f415680cad8466da631a68fb6249a5298a2d
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2cfea9bc672ff12868a7944cf81601e5292dae80
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855987"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489906"
 ---
-# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Перемещение клиентов на основе лицензий из других каналов & партнеров в программу поставщика облачных решений
+# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-csp-program"></a>Перемещение клиентов на основе лицензий из других каналов & партнеров в программу поставщика облачных решений (CSP)
 
 **Соответствующие роли**: Администратор учетной записи | Агент продаж | Агент выставления счетов
 
 Если вашему клиенту требуется привлечь нескольких партнеров, передать их подписки другому партнеру или управлять их подписками, приобретенными в другом месте, их можно переместить вручную. Вы также можете переместить клиентов в центр партнеров из другого канала.
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Перемещение подписок на основе лицензий клиента в программу поставщика облачных решений (CSP)
+## <a name="move-your-customers-license-based-subscriptions-to-the-csp-program"></a>Перемещение подписок на основе лицензий клиента в программу CSP
 
 1. Выберите **Клиенты** в меню Центр партнеров, а затем выберите **запросить связь через торгового посредника**. Чтобы предоставлять поддержку для учетных записей с несколькими каналами, необходимо сделать то же самое.
 
@@ -44,7 +44,7 @@ ms.locfileid: "109855987"
 >[!NOTE]
 > Вы, партнер CSP, должен находиться в том же регионе, что и клиент клиента, чтобы перейти к вам.
 
-## <a name="next-steps"></a>Дальнейшие действия
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - [Начало перехода на тарифы с оплатой по мере использования для плана Azure](azure-plan-get-started.md)
  

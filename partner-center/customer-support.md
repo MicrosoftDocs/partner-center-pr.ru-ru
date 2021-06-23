@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 81a8d656c876d39ca6389fedeec3a154dd778ce1
-ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
+ms.openlocfilehash: 83006da3a25285105d6fc073a203bedb19e681fe
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112450753"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489889"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Предоставление клиентам различных типов поддержки
 
@@ -36,7 +36,7 @@ ms.locfileid: "112450753"
 
   - [Поддержка Premier для партнеров (PSfP)](https://partner.microsoft.com/support/microsoft-services-premier-support) (база сбора, использование для всех продуктов)
 
-  - [Расширенная поддержка для партнеров (ASfP](https://partner.microsoft.com/support/advanced-cloud-support) (база сбора, использование только для облачных продуктов).
+  - [Расширенная поддержка для партнеров (ASfP)](https://partner.microsoft.com/support/advanced-cloud-support) (база сбора, использование только для облачных продуктов).
 
   - [Поддержка в облаке сигнатур](manage-your-partner-network-benefits.md) (включена в преимущества MPN для компетенций Gold или серебристого уровня, используйте только для облачных продуктов. См. [технические преимущества](mpn-benefits-technical-support.md))
 
