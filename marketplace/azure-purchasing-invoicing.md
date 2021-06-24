@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 01/18/2021
-ms.openlocfilehash: 11145280aad1ecd9777ec2fb7540e7d6479acfae
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.date: 06/22/2021
+ms.openlocfilehash: 0e79674825f8ab28fa4b0e68dd01c9c1b7e8c27a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431549"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565191"
 ---
 # <a name="azure-marketplace-purchasing"></a>Покупки в Azure Marketplace
 
@@ -78,6 +78,8 @@ Azure Marketplace упрощает процесс приобретения с п
 1. Частный Marketplace включен для подписки, а предложение отсутствует в списке разрешенных предложений.
 1. Предложение является частным или предварительным просмотром для конкретных клиентов, а подписка отсутствует в списке разрешенных клиентов.
 
-## <a name="next-steps"></a>Дальнейшие шаги
+Покупка решений Marketplace может завершиться ошибкой, если он конфликтует с политикой Azure, определенной администратором Azure в вашей организации. Например, вы не можете приобрести Microsoft. SaaS, если он отсутствует в списке **разрешенных** в вашей организации. Дополнительные сведения см. в [документации по политике Azure](/azure/governance/policy/).
+
+## <a name="next-steps"></a>Дальнейшие действия
 
 - [Выставление счетов и счетов-фактур](billing-invoicing.md)
