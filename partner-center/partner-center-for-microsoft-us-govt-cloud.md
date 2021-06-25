@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0fc1176c6620300002afbc9bf218afcceb777538
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 6b571ed5ff3eac0947b3c8d619c2605f0ac86f50
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146278"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915649"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>Центр партнеров по Microsoft Cloud для государственных организаций США поддерживает предложения партнеров в правительственных учреждениях
 
@@ -60,4 +60,4 @@ Microsoft Cloud для правительства США предоставля�
 
 Сведения о регистрации в CSP для облака Microsoft для государственных организаций см. [в статье регистрация в CSP для Microsoft Cloud для государственных организаций США](enroll-in-csp-for-microsoft-us-govt-cloud.md).
 
-Ответы на часто задаваемые вопросы можно найти в разделе [Вопросы и ответы по программе CSP для Microsoft Cloud для правительства США](faq-for-us-govt-cloud.md).
+Ответы на часто задаваемые вопросы можно найти в разделе [Вопросы и ответы по программе CSP для Microsoft Cloud для правительства США](faq-for-us-govt-cloud.yml).
