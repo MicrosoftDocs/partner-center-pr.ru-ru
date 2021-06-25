@@ -1,25 +1,25 @@
 ---
-title: Как приобрести предложения SaaS на Microsoft AppSource
-description: Узнайте, как приобрести приложения SaaS от партнеров Майкрософт на Microsoft AppSource.
+title: Приобретение приложений SaaS на Microsoft AppSource
+description: Приобретите приложения SaaS от партнеров Майкрософт на Microsoft AppSource.
 ms.service: marketplace-customer
 ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 0a0bd1dff70ed18ed8f4fc45b78d8b935f24adaf
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: e51f4593624a764e14ecae473f96cf0779c2ff10
+ms.sourcegitcommit: cce4d53127fa33e6c2bbf158dda6edd41b82441d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412698"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112896804"
 ---
-# <a name="how-to-purchase-saas-apps-on-microsoft-appsource"></a>Как приобрести приложения SaaS на Microsoft AppSource
+# <a name="purchase-saas-apps-on-microsoft-appsource"></a>Приобретение приложений SaaS на Microsoft AppSource
 
 [Microsoft AppSource](https://appsource.microsoft.com/) содержит тысячи бизнес-приложений, включая приложения SaaS (программное обеспечение как услуга), и надстройки для Dynamics 365, Microsoft 365, Power BI и Power Apps. AppSource включает бесплатные приложения, пробные версии и платные подписки, а также позволяет управлять начислениями, обновлениями, переходом на более раннюю версию и отменой в одном месте с помощью [центра администрирования Microsoft 365](/microsoft-365/admin/admin-overview/about-the-admin-center). В этой статье объясняется, как приобрести платные подписки SaaS в AppSource.
 
 ## <a name="requirements"></a>Требования
 
-Чтобы приобрести приложение SaaS, вам потребуется следующее:
+Для приобретения приложения SaaS необходимо следующее:
 
 - Рабочая или учебная учетная запись. Если у вас нет рабочей или учебной учетной записи, перейдите по ссылке "Регистрация бесплатной учетной записи" в процессе приобретения.
 
@@ -37,9 +37,9 @@ ms.locfileid: "103412698"
 
     1. Укажите число рабочих мест.
     1. Задайте срок выставления счета.
-    
+
 1. Введите адрес выставления счета.
-1. Введите метод оплаты (сведения о кредитной карте).    
+1. Введите метод оплаты (сведения о кредитной карте).
 1. Выберите **Разместить заказ**.
 
 ## <a name="configure-the-application"></a>Настройка веб-приложения
