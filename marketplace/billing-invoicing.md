@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: d45d301abfea03e06a8fc67e759012d4275d7dec
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.date: 05/04/2021
+ms.openlocfilehash: 6fdbbf9ad2b31e2b61eec20193717f60dd8e199a
+ms.sourcegitcommit: b6959846c30d062d05028c9b4ba14c07e903e61a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373462"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112970197"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Выставление счетов и выписка в Azure Marketplace
 
@@ -49,7 +49,7 @@ ms.locfileid: "112373462"
 > Период обслуживания — это период, за который вы оплачиваете использование службы. Автоматическое продление выполняется в и в период обслуживания, если вы не отменили заранее.
 
 > [!NOTE]
-> Мы перенастроены на последний день месяца выставления счетов, если дата продления месяца не может быть равна дате покупки в месяц. Это означает, что если бы одна была подписалась на 1/31, Дата окончания выставления счетов за февраль будет составлять 2/27, а новое условие выставления счетов начинается с 2/28 (2/28 и 2/29, если оно начинается в високосном году).
+> Мы настраивают срок выставления счетов (или последний день платежного месяца), если дата продления месяца не может быть равна дате покупки в месяц. Это означает, что если бы одна была подписалась на 1/31, Дата окончания выставления счетов будет изменена на 2/27, а дата продления будет равна 2/28 (2/28 и 2/29 соответственно), если она будет начинаться в високосном году.
 
 ## <a name="invoices"></a>Счета
 
@@ -64,7 +64,7 @@ ms.locfileid: "112373462"
 
 Дополнительные сведения о счетах см. в статье [сведения о расходах на внешние службы Azure](/azure/cost-management-billing/understand/understand-azure-marketplace-charges).
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## <a name="next-steps"></a>Следующие шаги
 
 - [Что такое Azure Marketplace?](azure-marketplace-overview.md)
 - [Покупки в Azure Marketplace](azure-purchasing-invoicing.md)
