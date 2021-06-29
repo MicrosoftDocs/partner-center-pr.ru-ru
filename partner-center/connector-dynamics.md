@@ -8,12 +8,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: e656f728789bf5b13dd09732b0b2f5ef30de760a
-ms.sourcegitcommit: b7203f1393c3d8f8db4683acdebd09a89e086c3c
+ms.openlocfilehash: 87083c8124762f0952b0c98cbc209164151dcb0c
+ms.sourcegitcommit: 6a6e8f9af0a58b32770c7fce9f567dd4795b9797
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/21/2021
-ms.locfileid: "112425114"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113029198"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Обзор соединителя совместной продажи для Dynamics 365 CRM
 
@@ -23,7 +23,7 @@ ms.locfileid: "112425114"
 
 Решение основано на Power автоматизировать и использует API-интерфейсы центра партнеров.
 
-## <a name="prerequisites"></a>Обязательные условия
+## <a name="prerequisites"></a>Предварительные требования
 
 Перед установкой решения убедитесь в соблюдении следующих предварительных требований.
 
@@ -46,7 +46,7 @@ ms.locfileid: "112425114"
 
 1. Выберите ссылку **Open AppSource (открыть** ) в верхнем меню.
 
-   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Снимок экрана, на котором показано открытое AppSource.":::
+   :::image type="content" source="images/cosellconnectors/open-appsource.png" alt-text="Снимок экрана, на котором показано открытое AppSource.":::
 
 1. Найдите **соединители центров партнеров для Dynamics 365** во всплывающем окне.  
 
@@ -189,13 +189,13 @@ ms.locfileid: "112425114"
 
 1. Обновить **Текущее значение** (не обновлять **значение по умолчанию**) с помощью параметра " **новое значение** " и указав значение. Значение должно соответствовать типу данных переменной. Например, тип данных «да» или «нет» будет принимать значение «Да» или «нет».
 
-   :::image type="content" source="images/environment-variables-video.gif" alt-text="Снимок экрана, на котором показаны переменные среды обновления.":::
+   :::image type="content" source="images/cosellconnectors/environment-variables-video.gif" alt-text="Снимок экрана, на котором показаны переменные среды обновления.":::
 
 ## <a name="end-to-end-bidirectional-co-sell-referral-synchronization"></a>Сквозная двунаправленная синхронизация ссылок совместной продаж
 
 После установки, настройки и настройки решения Power автоматизиру вы можете протестировать синхронизацию ссылок совместной продажи между Dynamics 365 и центром партнеров.
 
-### <a name="prerequisites"></a>Обязательные условия
+### <a name="prerequisites"></a>Предварительные требования
 
 Чтобы синхронизировать ссылки в центре партнеров и Dynamics 365 CRM, решение Power автоматизиру четко обозначает поля ссылок, относящиеся к корпорации Майкрософт. Эта идентификация дает группе продавцов возможность решать, какие ссылки должны предоставляться корпорации Майкрософт для совместной продажи.
 
@@ -265,7 +265,7 @@ ms.locfileid: "112425114"
 
    1. При выборе синхронизированной ссылки сведения о представлении карточки заполняются.
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## <a name="next-steps"></a>Следующие шаги
 
 - [Управление потенциальными клиентами](manage-leads.md)
 - [Управление возможностями совместной продажи](manage-co-sell-opportunities.md)
