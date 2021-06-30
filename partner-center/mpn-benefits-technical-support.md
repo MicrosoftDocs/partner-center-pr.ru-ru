@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: 0052f4dd352789245eadf157823119cd5f05f2a8
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.openlocfilehash: 7cdb5e04482f32d1b57346c86fa9db218cb11452
+ms.sourcegitcommit: 5d5747d245bdd967fd82df4bcc0a1f8a30a55cea
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373312"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113105045"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Техническая поддержка для локальных или облачных продуктов
 
@@ -33,7 +33,7 @@ ms.locfileid: "112373312"
 
 Эта статья предназначена для членов Microsoft Partner Network (MPN), которым необходимо знать, как активировать свои технические преимущества, просмотреть идентификатор доступа и идентификатор контракта, узнать, какие продукты и версии поддерживаются, а также как начать процесс создания инцидента технической поддержки или билета с использованием преимуществ MPN Partner.
 
-### <a name="steps"></a>Шаги
+### <a name="steps"></a>Этапы
 
 1. Активируйте свои технические преимущества (требуется администратор глобального администратора или MPN Partner). После активации все учетные записи пользователей MPN могут просматривать идентификатор доступа и идентификатор контракта, чтобы связать преимущества со своей учетной записью.
 
@@ -52,7 +52,7 @@ ms.locfileid: "112373312"
    > [!NOTE]
    > Если ваша учетная запись связана только с CSP и не связана с MPN, появится сообщение об ошибке "у вас нет права на это действие". У вас должна быть учетная запись, связанная с MPN.
 
-2. Разверните пункт **Преимущества** в меню навигации слева и выберите элемент **Технические преимущества**. На странице «технические преимущества» будут отображаться активные предложения по членству Gold, серебро или Microsoft Action Pack.
+2. Разверните узел **преимущества** в меню навигации слева и выберите [**технические преимущества**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical). На странице «технические преимущества» будут отображаться активные предложения по членству Gold, серебро или Microsoft Action Pack.
 
    :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Технические преимущества, а затем расширение преимуществ" :::
 
