@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 13d6e7dc4722227035be2b24df48427f2008bb14
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
-ms.translationtype: HT
+ms.openlocfilehash: 3d30f250d6635758f3bef8e06c6f57ba0a0be744
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151786"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276830"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Управление расположениями учетной записи MPN и добавление (удаление) расположения
 
@@ -30,7 +30,7 @@ ms.locfileid: "110151786"
 >[!NOTE]
 >Между клиентом CSP и идентификатором расположения MPN существует отношение "один к одному".
 
-:::image type="content" source="images/locations/locations1.png" alt-text="Структура расположений MPN":::
+:::image type="content" source="images/locations/locations1.png" alt-text="Структура расположений MPN.":::
 
 ## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>Необходимые условия для добавления новой учетной записи для бизнеса CSP
 
@@ -92,7 +92,7 @@ ms.locfileid: "110151786"
  
 1. Выберите **Добавить расположение**. Будет создан новый идентификатор MPN для нового расположения, которое можно использовать для транзакций и программы поощрения в рамках CSP.
 
-:::image type="content" source="images/legal-biz.png" alt-text="Добавление нового юридического лица":::
+:::image type="content" source="images/legal-biz.png" alt-text="Добавление нового юридического лица.":::
 
 > [!NOTE]
 > После добавления расположения в Центр партнеров его невозможно удалить. Если вы использовали для входа правильный идентификатор MPN, в Центре партнеров в меню слева отобразится пункт **MPN**.
@@ -143,7 +143,7 @@ ms.locfileid: "110151786"
  
 1. Выберите элемент **Изменить страну** рядом с раскрывающимся списком **Страна или регион** и выполните описанные ниже действия. 
 
-:::image type="content" source="images/lbp.png" alt-text="Всплывающий элемент управления с данными профиля юридического лица":::
+:::image type="content" source="images/lbp.png" alt-text="Всплывающий элемент управления с данными профиля юридического лица.":::
 
 5. Щелкните **Сохранить**.
 
