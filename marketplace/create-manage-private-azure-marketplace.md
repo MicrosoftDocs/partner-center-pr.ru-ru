@@ -6,12 +6,12 @@ ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: 9da9eb4944508e815d1664fb44b13bce52f37150
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: 8a3ffbe5b57c49004518341d27c785dcd1b9ce87
+ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431672"
+ms.lasthandoff: 07/01/2021
+ms.locfileid: "113173689"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Создание частного магазина Azure Marketplace и управление им в портал Azure
 
@@ -30,7 +30,7 @@ ms.locfileid: "112431672"
 >[!IMPORTANT]
 > Доступ к частному управлению Azure Marketplace доступен только ИТ-администраторам с назначенной ролью администратора Marketplace.
 
-### <a name="prerequisites"></a>Обязательные условия
+### <a name="prerequisites"></a>Предварительные требования
 
 Эти предварительные требования необходимы, прежде чем можно будет назначить роль администратора Marketplace пользователю в области клиента:
 
@@ -41,16 +41,19 @@ ms.locfileid: "112431672"
 ### <a name="assign-the-marketplace-admin-role-with-access-control-iam"></a>Назначение роли администратора Marketplace с помощью управления доступом (IAM)
 
 1. Войдите на [портал Azure](https://portal.azure.com/).
+
 1. Выберите **все службы** , а затем **Marketplace**.
+
 1. В меню слева выберите **частный Marketplace** .
 
-    [![Отображение пункта меню "частный Marketplace" в левой части Marketplace.](media/private-azure/private-marketplace.png)](media/private-azure/private-marketplace-zoom.png#lightbox)
+   :::image type="content" source="media/private-azure/private-marketplace.png" lightbox="media/private-azure/private-marketplace-zoom.png" alt-text="Отображение пункта меню &quot;частный Marketplace&quot; в левой части Marketplace.":::
 
 1. Выберите **Управление доступом (IAM)** , чтобы назначить роль администратора Marketplace.
 
-    :::image type="content" source="media/private-azure/access-control-iam.png" alt-text="Отображает экран управления доступом к M.":::
+   :::image type="content" source="media/private-azure/access-control-iam.png" alt-text="Отображает экран управления доступом к M.":::
 
 1. Выберите **+ Добавить** > **Добавить назначение ролей**.
+
 1. В разделе **роль** выберите **Администратор Marketplace**.
 
     :::image type="content" source="media/private-azure/iam-role-assignment.png" alt-text="Отображает меню назначения ролей.":::
@@ -67,7 +70,7 @@ ms.locfileid: "112431672"
 - **Усернаметоассигнролефор:** Имя пользователя, которому будет назначена роль администратора Marketplace.
 
 > [!NOTE]
-> Для гостевых пользователей, приглашенных для клиента, может потребоваться до 48 часов, пока их учетная запись не будет доступна для назначения роли администратора Marketplace. Дополнительные сведения см. [в разделе Свойства пользователя службы совместной работы B2B Azure Active Directory](/azure/active-directory/b2b/user-properties).
+> Для гостевых пользователей, приглашенных для клиента, может потребоваться до 48 часов, пока их учетная запись не будет доступна для назначения роли администратора Marketplace. дополнительные сведения см. [в разделе свойства пользователя службы совместной работы B2B Azure Active Directory](/azure/active-directory/b2b/user-properties).
 
 ```PowerShell
 function Assign-MarketplaceAdminRole { 
@@ -149,7 +152,7 @@ New-AzRoleAssignment -SignInName $UsernameToAssignRoleFor -RoleDefinitionName $M
 Assign-MarketplaceAdminRole 
 ```
 
-Дополнительные сведения о командлетах, содержащихся в модуле PowerShell AZ. Portal, см. в разделе [Microsoft Azure PowerShell: командлеты панели мониторинга портала](/powershell/module/az.portal/).
+дополнительные сведения о командлетах, содержащихся в модуле PowerShell Az. Portal, см. в разделе [Microsoft Azure PowerShell: командлеты панели мониторинга портала](/powershell/module/az.portal/).
 
 ## <a name="create-private-azure-marketplace"></a>Создание частного решения Azure Marketplace
 
@@ -160,9 +163,9 @@ Assign-MarketplaceAdminRole
 
 3. В меню слева выберите **частный Marketplace** .
 
-4. Выберите **начать работу** , чтобы создать частный магазин Azure Marketplace (это необходимо сделать только один раз).
+4. выберите **Начало работы** , чтобы создать частный магазин Azure Marketplace (это необходимо сделать только один раз).
 
-    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Показывает, как выбрать главное окно &quot;Начало работы в портал Azure&quot;.":::
+    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="показано, как выбрать Начало работы в главном окне портал Azure.":::
 
     Если для этого клиента уже существует частная служба Azure Marketplace, **Управление Marketplace** будет выбрано по умолчанию.
 
@@ -178,7 +181,7 @@ Assign-MarketplaceAdminRole
 
 2. Просмотрите **коллекцию** или используйте поле поиска, чтобы найти нужный элемент.
 
-    [![Показывает, как просматривать коллекцию или использовать поле поиска.](media/private-azure/marketplace-gallery.png)](media/private-azure/marketplace-gallery-zoom.png#lightbox)
+   :::image type="content" source="media/private-azure/marketplace-gallery.png" lightbox="media/private-azure/marketplace-gallery-zoom.png" alt-text="Показывает, как просматривать коллекцию или использовать поле поиска.":::
 
 3. По умолчанию при добавлении нового предложения все текущие планы будут добавлены в список утвержденных. Чтобы изменить выбор плана перед добавлением выбранных элементов, выберите раскрывающееся меню на плитке предложения и обновите необходимые планы.
 
@@ -194,12 +197,13 @@ Assign-MarketplaceAdminRole
 Планы элемента можно изменить на странице Управление Marketplace.
 
 1. В столбце **планы** проверьте доступные планы из раскрывающегося меню для этого элемента.
+
 2. Установите или снимите флажки, чтобы выбрать, какие планы следует сделать доступными для пользователей.
 
-    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Показывает, как установить или снять флажок для требуемого элемента.":::
+   :::image type="content" source="media/private-azure/edit-items.png" alt-text="Показывает, как установить или снять флажок для требуемого элемента.":::
 
-> [!NOTE]
-> Для каждого предложения требуется по крайней мере один план, который должен быть выбран для обновления. Чтобы удалить все планы, связанные с предложением, удалите все предложения (см. следующий раздел).
+   > [!NOTE]
+   > Для каждого предложения требуется по крайней мере один план, который должен быть выбран для обновления. Чтобы удалить все планы, связанные с предложением, удалите все предложения (см. следующий раздел).
 
 ## <a name="delete-offers"></a>Удаление предложений
 
@@ -230,7 +234,7 @@ Assign-MarketplaceAdminRole
 
 1. Выберите **уведомления** в меню слева.
 
-    [![Отображает меню уведомления.](media/private-azure/marketplace-notifications-small.png)](media/private-azure/marketplace-notifications.png#lightbox)
+   :::image type="content" source="media/private-azure/marketplace-notifications-small.png" lightbox="media/private-azure/marketplace-notifications.png" alt-text="Отображает меню уведомления.":::
 
 1. Выберите меню с многоточием для получения дополнительных действий.
 
@@ -239,7 +243,7 @@ Assign-MarketplaceAdminRole
 1. Для запросов плана **Отображение запросов** открывает форму запроса на утверждение, где можно просмотреть все запросы пользователей для конкретного предложения.
 1. Выберите **утвердить** или **отклонить**.
 
-    [![Показывает параметры утверждения и отклонения.](media/private-azure/notifications-approve-reject-small.png)](media/private-azure/notifications-approve-reject.png#lightbox)
+   :::image type="content" source="media/private-azure/notifications-approve-reject-small.png" lightbox="media/private-azure/notifications-approve-reject.png" alt-text="Показывает параметры утверждения и отклонения.":::
 
 1. В раскрывающемся меню выберите план для утверждения.
 1. Добавьте комментарий и выберите **Отправить**.
@@ -253,7 +257,7 @@ Assign-MarketplaceAdminRole
 
 Пользователи могут фильтровать предложения, которые являются и не утверждены:
 
-[![Отображает параметр фильтрации.](media/private-azure/filter-option-small.png)](media/private-azure/filter-option.png#lightbox)
+   :::image type="content" source="media/private-azure/filter-option-small.png" lightbox="media/private-azure/filter-option.png" alt-text="Отображает параметр фильтрации.":::
 
 ## <a name="buy-or-deploy-in-private-azure-marketplace"></a>Купить или развернуть в частном магазине Azure Marketplace
 
@@ -261,11 +265,11 @@ Assign-MarketplaceAdminRole
 
 - Когда пользователь выбирает утвержденный план, кнопка **создать** включена.
 
-    [![Показывает баннер предложения, указывающее на возможность создания плана.](media/private-azure/button-create-enabled-small.png)](media/private-azure/button-create-enabled.png#lightbox)
+   :::image type="content" source="media/private-azure/button-create-enabled-small.png" lightbox="media/private-azure/button-create-enabled.png" alt-text="Показывает баннер предложения, указывающее на возможность создания плана.":::
 
 - Если выбор плана продукта не отображается на странице сведений о продукте, но администратор утвердил один или несколько планов, в баннер записываются утверждения о том, какие планы утверждены и включена кнопка **создать** :
 
-    [![Показывает баннер предложения, указывающее, что можно создать план и Показать доступные планы.](media/private-azure/button-create-enabled-and-plans-small.png)](media/private-azure/button-create-enabled-and-plans.png#lightbox)
+   :::image type="content" source="media/private-azure/button-create-enabled-and-plans-small.png" lightbox="media/private-azure/button-create-enabled-and-plans.png" alt-text="Показывает баннер предложения, указывающее, что можно создать план и Показать доступные планы.":::
 
 - Когда пользователь выбирает Неутвержденный план, заголовок замещает план как не утвержденный и кнопка **создать** отключена. Пользователь по-прежнему может запросить Добавление плана в список утвержденных (см. следующий раздел).
 
@@ -275,19 +279,19 @@ Assign-MarketplaceAdminRole
 
 1. Выберите **запрос для добавления** в баннере, чтобы открыть **форму запроса на доступ**.
 
-    [![Отображает баннер с ссылкой "запрос на добавление".](media/private-azure/request-banner-small.png)](media/private-azure/request-banner.png#lightbox)
+   :::image type="content" source="media/private-azure/request-banner-small.png" lightbox="media/private-azure/request-banner.png" alt-text="Отображает баннер с ссылкой &quot;запрос на добавление&quot;.":::
 
-    [![Отображает форму запроса на доступ к предложениям или планам.](media/private-azure/access-request-form-small.png)](media/private-azure/access-request-form.png#lightbox)
+   :::image type="content" source="media/private-azure/access-request-form-small.png" lightbox="media/private-azure/access-request-form.png" alt-text="Отображает форму запроса на доступ к предложениям или планам.":::
 
 1. Выберите, какие планы следует добавить в запрос (**любой план** сообщает администратору Marketplace, что у вас нет предпочтений для плана в предложении).
 
 1. Добавьте **обоснование** и **запрос** на выборку, чтобы отправить запрос.
-  
-    [![Показывает форму запроса на доступ для предложений или планов с примерами записей.](media/private-azure/access-request-form-filled-small.png)](media/private-azure/access-request-form-filled.png#lightbox)
+
+   :::image type="content" source="media/private-azure/access-request-form-filled-small.png" lightbox="media/private-azure/access-request-form-filled.png" alt-text="Показывает форму запроса на доступ для предложений или планов с примерами записей.":::
 
 1. Указание ожидающего запроса появится в форме запроса на доступ с возможностью **отказаться от запроса**.
 
-    [![Отображает список утвержденных или ожидающих планов с ссылкой на отзыв запроса.](media/private-azure/approved-pending-plans-small.png)](media/private-azure/approved-pending-plans.png#lightbox)
+   :::image type="content" source="media/private-azure/approved-pending-plans-small.png" lightbox="media/private-azure/approved-pending-plans.png" alt-text="Отображает список утвержденных или ожидающих планов с ссылкой на отзыв запроса.":::
 
 > [!NOTE]
 > После отправки в [Центр уведомлений](#private-azure-marketplace-notification-center) будет отправлена форма запроса на утверждение, чтобы администратор Marketplace просмотрел запрос и принять меры.
@@ -307,7 +311,7 @@ Assign-MarketplaceAdminRole
 
     :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="Показывает, как ограничить службы на портале E A.":::
 
-2. Создайте политику Azure, чтобы разрешить только определенные виртуальные машины. Дополнительные сведения о применении политик к виртуальным машинам Windows см. в статье [применение политик к виртуальным машинам Windows с Azure Resource Manager](/azure/virtual-machines/windows/policy).
+2. Создайте политику Azure, чтобы разрешить только определенные виртуальные машины. дополнительные сведения о применении политики к Windows виртуальным машинам см. в статье [применение политик для Windows виртуальных машин с Azure Resource Manager](/azure/virtual-machines/windows/policy).
 
 Частная Azure Marketplace обеспечивает большую гибкость при предоставлении определенных предложений и планов. Он информирует пользователей о доступности для развертывания в коллекции Marketplace даже перед тем, как они пытаются развернуть сторонние службы. Чтобы разрешить развертывание сторонних служб, задайте для Azure Marketplace значение Вкл./включено на портале EA и в портал Azure.
 
@@ -325,7 +329,7 @@ Assign-MarketplaceAdminRole
 
 Частные предложения на основе подписки видимы только для перечисленных подписок в параметрах частного предложения. Чтобы просмотреть Частное предложение, убедитесь, что в фильтре глобальной подписки отображаются все подписки.
 
-[![Отображение частного фильтра Marketplace.](media/private-azure/private-marketplace-filter.png)](media/private-azure/private-marketplace-filter.png#lightbox)
+   :::image type="content" source="media/private-azure/private-marketplace-filter.png" lightbox="media/private-azure/private-marketplace-filter.png" alt-text="Отображение частного фильтра Marketplace.":::
 
 #### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>Можно ли включить пользовательские образы в частном магазине Azure Marketplace?
 
