@@ -2,19 +2,25 @@
   href: index.yml
 - name: Microsoft AppSource
   items:
-    - name: О Microsoft AppSource
+    - name: Сведения
       href: appsource-overview.md
-    - name: Приобретение программного обеспечения в AppSource
+    - name: Приобрести ПО
       href: purchase-software-appsource.md
+    - name: Частные планы
+      href: appsource-private-plans.md
 - name: Azure Marketplace
   items:
-    - name: Об Azure Marketplace
+    - name: Сведения
       href: azure-marketplace-overview.md
     - name: Покупка
       href: azure-purchasing-invoicing.md
+    - name: Приобретение предложения SaaS на портале Azure
+      href: purchase-saas-offer-in-azure-portal.md
     - name: Выставление счетов и счетов-фактур
       href: billing-invoicing.md
-    - name: Частные предложения
+    - name: Преимущество обязательства потребления Azure
+      href: azure-consumption-commitment-benefit.md
+    - name: Частные планы
       href: private-offers.md
     - name: Права на перемещение подписки
       href: transfer-eligibility.md
@@ -22,8 +28,8 @@
       href: create-manage-private-azure-marketplace.md
     - name: Управление частной платформой Azure Marketplace с помощью PowerShell
       href: manage-private-azure-marketplace-powershell.md
-    - name: Интеграция с партнерами Azure Marketplace
-      href: partner-integrations.md
+    - name: Расширение возможностей Azure с помощью решений от партнеров
+      href: /azure/partner-solutions/overview
 - name: Общие ресурсы
   items:
     - name: Политики возврата денег
@@ -36,5 +42,3 @@
   items:
     - name: Azure PowerShell
       href: /powershell/module/az.marketplace
-    - name: Предпочтительные решения
-      href: preferred-solutions.md
