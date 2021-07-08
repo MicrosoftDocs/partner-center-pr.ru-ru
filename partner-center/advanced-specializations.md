@@ -1,7 +1,7 @@
 ---
 title: Дополнительные сведения о расширенных специализациях
 ms.topic: article
-ms.date: 01/21/2021
+ms.date: 07/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Укрепите свой бизнес-профиль в каталоге партнеров Майкрософт. Узнайте о расширенных специализациях, которые можно достичь с помощью имеющихся компетенций Gold и серебряных.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91c182f2eb42bbe834926c7985d343524305485a
-ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
+ms.openlocfilehash: 779e6d344d9fc75a45a4d89a65ebff3ace8ce8cb
+ms.sourcegitcommit: 312f3800d0a0464af9df4d7ffb0d9faec273fd74
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "112125928"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113489815"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Получите расширенную специализацию, чтобы продемонстрировать проверенные возможности
 
@@ -51,11 +51,14 @@ ms.locfileid: "112125928"
 - SAP в Microsoft Azure
 - Миграция из Windows Server и SQL Server в Microsoft Azure
 - AI и Машинное обучение в Microsoft Azure
-- Гибридная облачная инфраструктура с Microsoft Azure Stack ХЦИ
-- Гибридные операции и управление с помощью Microsoft Azureной дуги
-- Microsoft Azure решение VMware
+- гибридная облачная инфраструктура с Microsoft Azure Stack хЦи
+- гибридные операции и управление с помощью Microsoft Azureной дуги
+- Microsoft Azure Решение VMware
+- DevOps с GitHub на Microsoft Azure
+- Сетевые службы в Microsoft Azure
 
-**Business Applications** Дополнительные специализации:
+
+**Business Applications** дополнительные специализации:
 
 - Разработка приложений с низким кодом
 - Управление предприятием малого и среднего размера
