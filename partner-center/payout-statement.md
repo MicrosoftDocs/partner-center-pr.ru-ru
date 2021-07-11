@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: dc0c720544f4a8a3c95e5b91ec656e65dbce7c80
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 4dac00e420b8787d2c8f67072a45bc29cbe7a645
+ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276116"
+ms.lasthandoff: 07/11/2021
+ms.locfileid: "113599795"
 ---
 # <a name="payout-statements"></a>Выписки о выплатах
 
@@ -48,7 +48,7 @@ ms.locfileid: "112276116"
 
 :::image type="content" source="images/payouts/payout-overview.png" alt-text="Значок &quot;Выплата&quot; в правом верхнем углу портала Центра партнеров.":::
 
-Вы также можете использовать [API-интерфейс выплаты партнеров](https://apidocs.microsoft.com/services/partnerpayouts) для подключения и получения данных о транзакциях и платежах напрямую.
+Вы также можете использовать [API-интерфейс выплаты партнеров](/rest/api/partner-center/partner-payouts) для подключения и получения данных о транзакциях и платежах напрямую. Дополнительные сведения см. в статье [Управление выплатами с помощью API службы выплаты](/partner-center/develop/manage-payouts).
 
 
 ## <a name="transaction-history"></a>Журнал транзакций
@@ -227,7 +227,7 @@ ms.locfileid: "112276116"
 На странице **оплаты** содержатся сведения о денежных средствах, полученных корпорацией Майкрософт. Он также показывает, когда и сколько вы будете платить.
 
 >[!Note]
-> Чтобы получить выплату, необходимо достигнуть [порогового значения](payment-thresholds-methods-timeframes.md) в 50 долларов США. Дополнительные сведения см. в [соглашении Microsoft Publisher](/legal/marketplace/msft-publisher-agreement).
+> Чтобы получить выплату, необходимо достигнуть [порогового значения](payment-thresholds-methods-timeframes.md) в 50 долларов США. дополнительные сведения см. в описании [соглашения Microsoft Publisher](/legal/marketplace/msft-publisher-agreement).
 
 :::image type="content" source="images/payouts/payments-overview.png" alt-text="Экран обзора платежей.":::
 
