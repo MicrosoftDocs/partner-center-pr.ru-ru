@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 3d91eb26f98005b92a48c6f242ea4439e42cde05
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 52db2c8ee7652633ee5d73a534e8c73daead867e
+ms.sourcegitcommit: cce4d53127fa33e6c2bbf158dda6edd41b82441d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702881"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112896821"
 ---
 # <a name="march-2021-announcements"></a>Объявления за март 2021 года
 
 Эта страница содержит объявления, касающиеся Центра партнеров Майкрософт, за март 2021 г.
 
-## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="18"></a>Готовность: в июне будут внесены изменения в API проверки адресов клиентов в рамках программы "Поставщик облачных решений" (CSP); уже доступна возможность тестирования
+## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="19"></a>Готовность: в июне будут внесены изменения в API проверки адресов клиентов в рамках программы "Поставщик облачных решений" (CSP); уже доступна возможность тестирования
 
 ### <a name="categories"></a>Категории
 
@@ -139,7 +139,7 @@ public class AddressValidationResponse
 - 30 апреля 2021 г. — обновления в примере ответа и сведениях о почтовом индексе.
 
 ________________
-## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>Новый интерфейс Центра администрирования Exchange (EAC)
+## <a name="new-exchange-admin-center-eac-experience"></a><a name="18"></a>Новый интерфейс Центра администрирования Exchange (EAC)
 
 ### <a name="categories"></a>Категории
 
@@ -182,7 +182,7 @@ ________________
 С любыми вопросами по этим изменениям обращайтесь в соответствующее сообщество в Yammer.
 
 ________________
-## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Microsoft Operations: представляем календарь выпуска продуктов
+## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="17"></a>Microsoft Operations: представляем календарь выпуска продуктов
 
 ### <a name="categories"></a>Категории
 
@@ -230,7 +230,7 @@ ________________
 С вопросами по этим предложениям обращайтесь в соответствующее сообщество в Yammer.
 
 ________________
-## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="15"></a>Изменения в требованиях к подключению клиентов для участников программы CSP
+## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="16"></a>Изменения в требованиях к подключению клиентов для участников программы CSP
 
 ### <a name="categories"></a>Категории
 
@@ -304,7 +304,7 @@ ________________
 Если вам требуется поддержка при операциях с Майкрософт, [создайте запрос на обслуживание](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 ________________
-## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>Исправления, внесенные в прейскурант на программное обеспечение с бессрочной лицензией за 1 марта 2021 г.
+## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="15"></a>Исправления, внесенные в прейскурант на программное обеспечение с бессрочной лицензией за 1 марта 2021 г.
 
 ### <a name="categories"></a>Категории
 
@@ -328,9 +328,9 @@ ________________
 ### <a name="next-steps-and-resources"></a>Дальнейшие действия и ресурсы
 
 - Партнеры, предлагающие программное обеспечение с бессрочной лицензией, должны скачать последний прейскурант на такое ПО.
-- Расшифровку двухбуквенных сокращений см. на странице с [региональными кодами стран](https://docs.microsoft.com/azure/marketplace/commercial-marketplace-co-sell-countries).
+- Расшифровку двухбуквенных сокращений см. на странице с [региональными кодами стран](/azure/marketplace/commercial-marketplace-co-sell-countries).
 ________________
-## <a name="sdk-release-on-net-standard-v1170"></a><a name="13"></a>Выпуск пакета SDK для .NET Standard (версия 1.17.0)
+## <a name="sdk-release-on-net-standard-v1170"></a><a name="14"></a>Выпуск пакета SDK для .NET Standard (версия 1.17.0)
 
 ### <a name="categories"></a>Категории
 
@@ -348,7 +348,7 @@ ________________
 
 #### <a name="audit-updated-new-operation-types"></a>Аудит обновлен: новые типы операций
 
-Добавлены новые [типы операций](https://docs.microsoft.com/partner-center/develop/auditing-resources), которые позволяют получать данные о том, когда клиент утвердил права DAP или приостановил их действие.
+Добавлены новые [типы операций](/partner-center/develop/auditing-resources), которые позволяют получать данные о том, когда клиент утвердил права DAP или приостановил их действие.
 
 - DapAdminRelationshipApproved
 
@@ -356,7 +356,7 @@ ________________
 
 #### <a name="audit-updated-new-resource-and-operation-types"></a>Аудит обновлен: новые типы ресурсов и операций
 
-Добавлены новые [типы ресурсов и операций](https://docs.microsoft.com/partner-center/develop/auditing-resources) для поддержки сценария с ролью каталога клиента.
+Добавлены новые [типы ресурсов и операций](/partner-center/develop/auditing-resources) для поддержки сценария с ролью каталога клиента.
 
 - Новый тип ресурса CustomerDirectoryRole.
 
@@ -392,7 +392,7 @@ ________________
 - Скачайте и просмотрите [примеры с сайта GitHub](https://github.com/Microsoft/Partner-Center-DotNet-Samples).
 
 ________________
-## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="12"></a>Предложение на коммерческой платформе в рамках CSP и поощрения за соответствующие предложения в рамках CSP за 2021 финансовый год
+## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="13"></a>Предложение на коммерческой платформе в рамках CSP и поощрения за соответствующие предложения в рамках CSP за 2021 финансовый год
 
 ### <a name="categories"></a>Категории
 
@@ -421,24 +421,24 @@ ________________
 - [Ресурсы по поощрениям для партнеров с прямым выставлением счетов в программе "Поставщик облачных решений"](https://partner.microsoft.com/asset/collection/cloud-solution-provider-direct-partner-incentive-resources#/)
 - [Ресурсы по поощрениям для косвенных поставщиков в программе "Поставщик облачных решений"](https://partner.microsoft.com/asset/collection/cloud-solution-provider-indirect-provider-incentive-resources#/)
 - Просмотрите эту [презентацию](https://partner.microsoft.com/resources/detail/partner-center-cm-for-csp-overview-pdf), чтобы узнать больше о продаже приложений на коммерческой платформе. Ознакомьтесь с дополнительными ресурсами [здесь](https://partner.microsoft.com/resources/collection/partner-center-cm-for-csp-collection#/). 
-- Изучите каталог коммерческой платформы в [Центре партнеров](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-discover) или на [портале Azure](https://ms.portal.azure.com/#home).
-- Воспользуйтесь [API](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market) для интеграции приложений нас страницу своей компании на коммерческой платформе.
+- Изучите каталог коммерческой платформы в [Центре партнеров](../csp-commercial-marketplace-discover.md) или на [портале Azure](https://ms.portal.azure.com/#home).
+- Воспользуйтесь [API](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market) для интеграции приложений нас страницу своей компании на коммерческой платформе.
 - Обратитесь к независимым поставщикам программного обеспечения, с которыми вы хотели бы вести бизнес.
 - Косвенным поставщикам необходимо выполнить интеграцию с помощью API и сообщить торговым посредникам, какие приложения нужно продавать.
 
 ### <a name="questions"></a>У вас появились вопросы?  
 
-Общие сведения о коммерческой платформе в Центре партнеров см. в [этой статье](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-overview).
+Общие сведения о коммерческой платформе в Центре партнеров см. в [этой статье](../csp-commercial-marketplace-overview.md).
 
 Если вам требуется дополнительная помощь, вы можете создать запрос на поддержку в Центре партнеров. Подробная информация собрана на странице [https://aka.ms/IncentivesSupport](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=1).
 
 ________________
-## <a name="power-bi-premium-offer-naming-and-prerequisite-update"></a><a name="11"></a>Изменение названия предложения и обновление необходимых компонентов для Power BI Premium
+## <a name="power-bi-premium-offer-naming-and-prerequisite-update"></a><a name="12"></a>Изменение названия предложения и обновление необходимых компонентов для Power BI Premium
 
 ### <a name="categories"></a>Категории
 
 - Дата: 18.03.2021
-- Характеристики
+- Возможности
 
 ### <a name="summary"></a>Сводка
 
@@ -490,7 +490,7 @@ ________________
 
 С любыми вопросами по этим предложениям обращайтесь в соответствующее сообщество в Yammer. 
 
-## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="10"></a>Обновления цен на март для Microsoft 365 F3
+## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="11"></a>Обновления цен на март для Microsoft 365 F3
 
 ### <a name="categories"></a>Категории
 
@@ -527,7 +527,7 @@ ________________
 
 ________________
 
-## <a name="update-a-legal-company-name-through-partner-center"></a><a name="9"></a> Обновление юридического названия компании в Центре партнеров
+## <a name="update-a-legal-company-name-through-partner-center"></a><a name="10"></a> Обновление юридического названия компании в Центре партнеров
 
 ### <a name="categories"></a>Категории
 
@@ -560,7 +560,7 @@ ________________
 С вопросами обращайтесь в соответствующее сообщество CSP в Yammer.
 
 ________________
-## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a> Обновление в развитии программы "Поставщик облачных решений" (CSP) и изменения в программе Open License
+## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="9"></a> Обновление в развитии программы "Поставщик облачных решений" (CSP) и изменения в программе Open License
 
 ### <a name="categories"></a>Категории
 
@@ -598,7 +598,7 @@ ________________
 С вопросами обращайтесь в соответствующее сообщество CSP в Yammer.
 
 _______________
-## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="7"></a>Обновление предыдущего объявления о выпуске решения "Оценки" категории "Премиум" — надстройки к диспетчеру соответствия требованиям
+## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="8"></a>Обновление предыдущего объявления о выпуске решения "Оценки" категории "Премиум" — надстройки к диспетчеру соответствия требованиям
 
 ### <a name="categories"></a>Категории
 
@@ -634,7 +634,7 @@ _______________
 С любыми вопросами по этим предложениям обращайтесь в соответствующее сообщество в Yammer.
 
 ________________
-## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="6"></a> Перенос решений из средства вывода на рынок (GTM) для One Commercial Partner (OCP) на коммерческую платформу Майкрософт
+## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="7"></a> Перенос решений из средства вывода на рынок (GTM) для One Commercial Partner (OCP) на коммерческую платформу Майкрософт
 
 ### <a name="categories"></a>Категории
 
@@ -653,7 +653,7 @@ ________________
 
 В декабре 2020 г. мы начали переход со средства Microsoft OCP GTM на коммерческую платформу Майкрософт в Центре партнеров. Это позволит расширить возможности коммерческой платформы, на которой вы можете предоставлять свои решения миллионам клиентов, обмениваться информацией с другими специалистами по продажам Майкрософт и партнерами, а также совместно продавать инновационные решения.
 
-Следующий этап перехода запланирован на 29 марта 2021 г. Именно с этой даты возможности OCP GTM будут ограничены — некоторые поля станут доступны только для чтения. Если вы сейчас ведете совместные продажи с решениями в OCP GTM, рекомендуем вам перенести решения на коммерческую платформу, чтобы воспользоваться всеми ее преимуществами и упростить процесс публикации. 
+Следующий этап перехода запланирован на 29 марта 2021 г. Именно с этой даты возможности OCP GTM будут ограничены — некоторые поля станут доступны только для чтения. Если вы сейчас ведете совместные продажи с решениями в OCP GTM, рекомендуем вам перенести решения на коммерческую платформу, чтобы воспользоваться всеми ее преимуществами и упростить процесс публикации.
 
 После перехода на коммерческую платформу Центр партнеров станет основным порталом для публикации и совместных продаж. С ее помощью вы сможете ускорить рост бизнеса, расширив охват для продажи своих решений нашим общим клиентам с помощью знакомых вам каналов и возможностей, которые мы используем для продуктов Майкрософт. [Подробнее о коммерческой платформе.](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/)
 
@@ -666,6 +666,36 @@ ________________
 ### <a name="questions"></a>У вас появились вопросы?
 
 Если у вас возникнут вопросы или вам потребуется дополнительная информация, обратитесь в [службу поддержки](https://partner.microsoft.com/support/?stage=1).
+
+________________
+## <a name="programmatic-access-to-commercial-marketplace-analytics"></a><a name="6"></a>Программный доступ к аналитике коммерческой платформы
+
+### <a name="categories"></a>Категории
+
+- Дата: 10.03.2021
+- Характеристики
+
+### <a name="summary"></a>Сводка
+
+Теперь партнеры могут получать аналитические отчеты для мониторинга продаж, оценки производительности и оптимизации предложений на коммерческой платформе программными средствами.
+
+### <a name="impacted-audience"></a>Затронутая аудитория
+
+Партнеры с предложениями на коммерческой платформе.
+
+### <a name="details"></a>Сведения
+
+API-интерфейсы для доступа к отчетам коммерческой платформы позволяют создать расписание для асинхронного получения настраиваемых отчетов по данным аналитики.
+
+Эта возможность позволяет определять запросы и шаблоны для отчетов в соответствии с собственными потребностями, а также настраивать расписание их выполнения, чтобы своевременно получать надежные отчеты по удобному графику.
+
+### <a name="next-steps"></a>Дальнейшие действия
+
+Дополнительные сведения см. в статье [Приступая к работе с программным доступом к аналитике](/azure/marketplace/analytics-get-started).
+
+### <a name="questions"></a>У вас появились вопросы?
+
+Если у вас возникнут дополнительные вопросы, обращайтесь в [службу поддержки](https://go.microsoft.com/fwlink/?linkid=2165533).
 
 ________________
 ## <a name="expanding-the-new-commerce-experience-in-the-cloud-solution-provider-csp-program-for-azure-to-russia"></a><a name="5"></a>Развертывание новой коммерческой платформы в рамках программы "Поставщик облачных решений" (CSP) для Azure в России

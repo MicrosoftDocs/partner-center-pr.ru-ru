@@ -9,19 +9,16 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 03/24/2021
-ms.openlocfilehash: ebb52a3a8223d3b1101e3a8e78728fcc167e25e3
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 9deebf3d9aab2d4dc7953da67a7eb17078b3d30c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633784"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277017"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Как подтвердить, что ваш клиент принял условия Клиентского соглашения Майкрософт для программы CSP
 
-**Соответствующие роли**
-
-- Агент по администрированию
-- Агент по продажам
+**Соответствующие роли**: агент по администрированию | агент по продажам
 
 
 Клиенты могут принять условия Клиентского соглашения Майкрософт двумя способами.
@@ -54,7 +51,7 @@ ms.locfileid: "105633784"
 
 6. Выберите **Далее**, чтобы продолжить создание арендатора клиента.
 
-   :::image type="content" source="images/mca/newcustomeragreement.jpg" alt-text="Новый клиент":::  
+   :::image type="content" source="images/mca/newcustomeragreement.jpg" alt-text="Новый клиент":::.  
 
 ### <a name="confirm-customer-acceptance-for-existing-customers"></a>Подтвердите согласие клиента для существующих клиентов
 
@@ -70,7 +67,7 @@ ms.locfileid: "105633784"
 
 5. Выберите **Сохранить** и продолжайте.
 
-   :::image type="content" source="images/mcua2-update2.png" alt-text="Существующий клиент":::
+   :::image type="content" source="images/mcua2-update2.png" alt-text="Существующий клиент":::.
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>Получение подтверждения о принятии условий клиентом
 
@@ -122,7 +119,7 @@ ms.locfileid: "105633784"
 >[!NOTE] 
 >Новые клиенты не смогут осуществить покупку, пока не примут условия Клиентского соглашения Майкрософт.  
 
-   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Создание клиента":::
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Создание нового клиента":::.
 
 5. При переходе на страницу **Подтверждение** в процессе создания клиента сохраните учетные данные этого клиента. Позже эти учетные данные необходимо будет предоставить клиенту.
 
@@ -150,7 +147,7 @@ ms.locfileid: "105633784"
 
 4. Используйте этот шаблон электронного сообщения, чтобы пригласить клиента для принятия запроса на установление **взаимосвязи с торговым посредником** и условий **Клиентского соглашения Майкрософт**. (Примечание. В электронное приглашение партнер должен также добавить URL-адрес, предоставляемый автоматически, и учетные данные клиента, которые были недавно созданы.)
 
-   :::image type="content" source="images/mca/createrelationship.png" alt-text="Создание взаимосвязи":::
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="Создание взаимосвязи":::.
 
 5. Клиент получит приглашение по электронной почте и щелкнет ссылку на параметризованный URL-адрес. 
 
@@ -160,7 +157,7 @@ ms.locfileid: "105633784"
 
 8. С помощью того же URL-адреса клиент может просмотреть объединенный список доступных деловых партнеров. Он может выбрать партнера для просмотра подробных сведений.
 
-   :::image type="content" source="images/mca/accept.jpg" alt-text="Принятие условий соглашения":::
+   :::image type="content" source="images/mca/accept.jpg" alt-text="Принятие соглашения.":::
 
 
 ## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>Приглашение имеющегося клиента для просмотра и принятия условий соглашения
@@ -177,7 +174,7 @@ ms.locfileid: "105633784"
 
 5. С помощью того же URL-адреса он может просмотреть объединенный список доступных деловых партнеров. Он может выбрать партнера для просмотра подробных сведений.
 
-   :::image type="content" source="images/mca/customeraccept.png" alt-text="Клиент":::
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="Клиент":::.
 
 >[!NOTE]
 >В некоторых случаях у клиентов может отсутствовать возможность напрямую принять условия Клиентского соглашения Майкрософт. Чтобы узнать больше об этих ситуациях, прочтите представленный ниже раздел "Два сценария, в которых требуется утверждение от имени клиента".

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72e5c797f292329e779924177b0500e80754e3df
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2b88e3ceee001a79b80a38408e6bb6b1f1940a07
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855681"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551679"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Возобновление действия предложений MPN для компетенций и дополнительных специализаций в период продления
 
@@ -22,7 +22,7 @@ ms.locfileid: "109855681"
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Реагирование на события, связанные с COVID-19. Обновление Microsoft Partner Network
 
-Корпорация Майкрософт предлагает расширение компетенций (кроме компетенции "Облачные бизнес-приложения") и дополнительных специализаций для партнеров со сроками окончания действия в числах с 1 января 2021 г. по 30 июня 2021 г. Дополнительные сведения см. в [этой записи блога для партнеров](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
+Корпорация Майкрософт предлагает расширение компетенций (кроме компетенции "Облачные бизнес-приложения") и дополнительных специализаций для партнеров со сроками окончания действия в период с 1 января 2021 г. по 30 июня 2021 г. Дополнительные сведения см. в [этой записи блога для партнеров](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 
 ## <a name="renewal-reminders"></a>Напоминания о продлении
 
@@ -40,7 +40,7 @@ ms.locfileid: "109855681"
 
 4. Чтобы воспользоваться этим предложением, перейдите на страницу **Предложения относительно членства**. Чтобы завершить процесс, возможно, потребуется оплатить компетенцию. Это зависит от состояния ее покупки или продления.
 
-Чтобы воспользоваться преимуществами продления, необходимо перенести членство из Partner Membership Center (PMC) в Центр партнеров. Там вы сможете продлить и оплатить компетенцию. Если вы не перенесли членство, ознакомьтесь с [дополнительными сведениями](prepare-pmc-pc-migration.md) и [выполните переход](https://partners.microsoft.com/partnerprogram/Welcome.aspx) уже сегодня.  
+Чтобы воспользоваться преимуществами продления, необходимо перенести членство из Partner Membership Center (PMC) в Центр партнеров. Там вы сможете продлить и оплатить компетенцию. Если вы не перенесли членство, ознакомьтесь с [дополнительными сведениями](partner-membership-center-retirement-faq.md) и [выполните переход](https://partners.microsoft.com/partnerprogram/Welcome.aspx) уже сегодня.  
 
 ## <a name="next-steps"></a>Дальнейшие действия
 

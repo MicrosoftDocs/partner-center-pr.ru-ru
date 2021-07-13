@@ -9,18 +9,16 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: a885d8bbbd7541e199365a7c732aba0b67128053
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534936"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277153"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Управление подписками и ресурсами в плане Azure
 
-**Соответствующие роли**
-
-- Агент по администрированию
+**Соответствующие роли:** агент по администрированию
 
 
 В этой статье объясняется, как партнеры могут использовать разные параметры управления доступом на основе ролей (RBAC), чтобы обеспечить операционный контроль над ресурсами Azure клиента. При переводе клиента на план Azure вам по умолчанию назначаются привилегированные права администратора в Azure (права владельца подписки посредством администрирования от имени).
@@ -38,7 +36,7 @@ ms.locfileid: "96534936"
 
 Из соображений безопасности корпорация Майкрософт рекомендует предоставлять пользователям минимальные разрешения, необходимые для работы. Ознакомьтесь с разделом [Что такое Azure AD Privileged Identity Management?](/azure/active-directory/privileged-identity-management/pim-configure)
 
-## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>Привязка идентификатора партнера (ИД MPN) к учетным данным для управления ресурсами Azure клиента
+## <a name="link-your-partner-id-mpn-id-to-your-credentials-for-managing-customers-azure-resources"></a>Привязка идентификатора партнера (идентификатор MPN) к учетным данным для управления ресурсами Azure клиента
 
 В следующей таблице приведены методы, используемые для связывания идентификатора партнера с различными возможностями доступа RBAC.
 
@@ -61,11 +59,11 @@ ms.locfileid: "96534936"
 
 1. Создайте оповещение.
 
-   :::image type="content" source="images/azure/azurealert1.png" alt-text="Оповещение Azure":::
+   :::image type="content" source="images/azure/azurealert1.png" alt-text="Оповещение Azure":::.
 
-2. Выберите тип действия для оповещения. Например, если вы укажете, что хотите получать электронное сообщение, то вы будете получать сообщения, уведомляющие об удалении любого назначения роли.
+2. Выберите тип действия, которое должно быть выполнено при возникновении оповещения. Например, если вы укажете, что хотите получать оповещения по электронной почте, то будете получать все уведомления об удалении назначений ролей.
 
-   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Настройка оповещения":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Настройка оповещения":::.
 
 ### <a name="aobo-removal"></a>Удаление AOBO
 
