@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/09/2021
-ms.openlocfilehash: 664e8d1353a022e73a5d2f68d11dea4d7cfd438f
-ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
+ms.openlocfilehash: d44ea9cd6c39954a1299344634d22fd1d31ec773
+ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/11/2021
-ms.locfileid: "113599777"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "113684276"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,9 @@ ms.locfileid: "113599777"
 
 |**Категория**|**Объявления за июль 2021 года**|**Объявлено**|
 |---------|:---------|:---------|
+|Возможности|[Изменение программного обеспечения в рамках программ "Поставщик облачных решений" (CSP) и Open License в Microsoft China Corporation Limited (MCCL)](2021-july.md#9)| 13 июля |
+|Готовность|[Изменения в API проверки адресов клиентов в рамках программы "Поставщик облачных решений" (CSP) вступают в силу 13 июля 2021 г.](2021-july.md#8)| 12 июля |
+|Возможности|[Новости сообщества и напоминания, касающиеся программы "Поставщик облачных решений" (CSP), за июль](2021-july.md#7)| 12 июля |
 |Возможности|[Обеспечение актуальности сертификатов от Майкрософт с помощью Центра партнеров](2021-july.md#6)| 9 июля |
 |Возможности|[Выпуск пакета SDK для .NET Standard (версия 2.0.1)](2021-july.md#5)| 7 июля |
 |Возможности|[Объявление об обеспечении прозрачности для клиентских скидок](2021-july.md#4)| 7 июля |

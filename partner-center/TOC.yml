@@ -273,7 +273,7 @@
     - name: Начало работы с поощрениями
       items:
         - name: Вопросы и ответы о программе поощрения
-          href: incentives-faq.md
+          href: incentives-faq.yml
           displayName: mpn
         - name: Начало работы с программой поощрения
           href: incentives-get-started-intro.md
@@ -454,7 +454,7 @@
       href: payment-thresholds-methods-timeframes.md
       displayName: invoice
     - name: Вопросы и ответы о профилях для выплат и налогов
-      href: payout-faq.md
+      href: payout-faq.yml
 - name: Связь с клиентами
   items:
     - name: Связь с вашими клиентами
