@@ -4,15 +4,15 @@ description: узнайте о получении платежей за испо
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-ms.date: 11/25/2020
+ms.date: 07/12/2021
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: cc01a1aada6c6665d3fd8f6efc6e5ef873736bdc
-ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+ms.openlocfilehash: 99cc0172f9cb1e09bdc77bbd9187ad2452c19c61
+ms.sourcegitcommit: 207c86406e56346d01d85ce50ea494c0c293519a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "113684395"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113798142"
 ---
 # <a name="getting-paid-in-partner-center"></a>Получение платного центра партнеров
 
@@ -27,7 +27,7 @@ ms.locfileid: "113684395"
 - [соглашение Publisher Microsoft Azure Marketplace](/legal/marketplace/msft-publisher-agreement). прежде чем приступать к оплате, необходимо принять это соглашение издателя. В этом соглашении объясняется взаимосвязь между вами и корпорацией Майкрософт в том виде, в котором она относится к предложениям продавцов на коммерческом рынке, включая плату за магазин, которую корпорация Майкрософт оплачивает за каждые продажи.
 - [Политика выплата](payout-policy-details.md) показывает политики оплаты выплат, включая график оплаты и способы оплаты. Политика также описывает процесс неплатежей клиентов.
 - [сведения о налогах](tax-details-marketplace.md) . описание налоговой декларации по выбору цены и налоговым обязанностям в рамках [соглашения Microsoft Publisher](/legal/marketplace/msft-publisher-agreement).
-- **платежи магазина** официально определяются в соглашении Publisher. Плата за магазин применяется ко всем продажам предложений, собранным коммерческим рынком, включая дополнительные компоненты.
+- **Плата за хранение** официально предоставляется в виде [коммерческой платы Marketplace](/azure/marketplace/marketplace-commercial-transaction-capabilities-and-considerations).
 - **Платежи** выполняются ежемесячно (при условии, что достигнут порог оплаты). Как правило, все платежи отправляются в заданный месяц на 15-й день этого месяца. Оплата обычно занимает от 3 до 10 дополнительных рабочих дней для достижения счета на выплата. Подробные сведения см. в разделе [Минимальные суммы, способы и временные рамки платежей](payment-thresholds-methods-timeframes.md).
 
 ## <a name="prerequisite-steps-before-getting-paid"></a>Предварительные действия перед оплатой

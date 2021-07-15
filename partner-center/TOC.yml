@@ -14,22 +14,8 @@
       displayName: mpn
     - name: Устранение неполадок с настройкой учетной записи
       href: troubleshoot-account-sign-n.md
-    - name: Переход с PMC
-      items:
-        - name: Подготовка к миграции из PMC
-          href: prepare-pmc-pc-migration.md
-          displayName: 'role, roles, ro, mpn'
-        - name: Руководство по переходу с PMC
-          href: guide-to-migration.md
-        - name: Сравнение PMC и PC
-          href: move-pmc-pc-map.md
-        - name: Перемещение большого количества компаний
-          href: move-multiple-companies.md
-        - name: Консолидация компаний
-          href: consolidate-accounts.md
-        - name: Активация преимуществ для PMC
-          href: partner-membership-center-tech-benefits-activate.md
-          displayName: mpn
+    - name: Прекращение использования Partner Membership Center
+      href: partner-membership-center-retirement-faq.md
     - name: Преимущества членства
       items:
         - name: Обзор преимуществ
@@ -48,9 +34,9 @@
           href: mpn-find-benefits.md
           displayName: mpn
         - name: 'Политика предоставления и использование преимуществ: часто задаваемые вопросы'
-          href: benefits-faq-new.md
+          href: benefits-faq-new.yml
         - name: Часто задаваемые вопросы о преимуществах
-          href: benefits-faq.md
+          href: benefits-faq.yml
           displayName: 'renew, license,'
         - name: Просмотр или скачивание счета MPN
           href: mpn-view-print-maps-invoice.md
@@ -101,7 +87,7 @@
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: Часто задаваемые вопросы о компетенциях
-          href: competencies-faq.md
+          href: competencies-faq.yml
           displayName: 'renew, mpn'
         - name: Плата за компетенции
           href: mpn-pay-fee-silver-gold-competency.md
@@ -114,9 +100,10 @@
       items:
         - name: Демонстрация вашего опыта
           href: advanced-specializations.md
+          displayName: Advanced specializations
         - name: Подача заявки и проверка статуса
           href: advanced-specializations-apply.md
-          displayName: mpn
+          displayName: 'mpn, Advanced specializations'
     - name: Как стать участником программы Azure Expert MSP
       href: azure-expert-msp.md
 - name: Программа "Поставщик облачных решений" (CSP)
@@ -161,7 +148,7 @@
         - name: Центр партнеров для Microsoft Cloud for US Government
           href: partner-center-for-microsoft-us-govt-cloud.md
         - name: 'Вопросы и ответы: Microsoft Cloud for US Government'
-          href: faq-for-us-govt-cloud.md
+          href: faq-for-us-govt-cloud.yml
           displayName: csp
         - name: Центр партнеров Microsoft Cloud в Германии
           href: partner-center-for-microsoft-cloud-germany.md
@@ -204,6 +191,8 @@
         - name: Обновление профиля партнера
           href: update-your-partner-profile.md
           displayName: mpn
+        - name: Сертификация списка системы поиска партнеров
+          href: partner-finder-certification.md
         - name: Сведения о коде регистрации
           href: reg-number-id.md
         - name: Как стать поставщиком панелей управления
@@ -263,12 +252,12 @@
           href: bulk-operations.md
         - name: Использование соединителей CRM для совместных продаж
           items:
-            - name: "Для Dynamics\_365"
+            - name: Соединитель для Dynamics 365
               href: connector-dynamics.md
-            - name: Для Salesforce
+            - name: Соединитель для Salesforce
               href: connector-salesforce.md
-        - name: Устранение неполадок соединителей
-          href: connectors-troubleshoot.md
+            - name: Устранение неполадок соединителей
+              href: connectors-troubleshoot.md
         - name: "Совместные продажи\_— переход с Partner Sales Connect (PSC) на Центр партнеров"
           href: psc-to-pc.md
           displayName: mpn
@@ -365,7 +354,7 @@
         - name: Состояние оплаты для функции оценки решений
           href: chip-solution-assessment-payment.md
         - name: Вопросы и ответы по функции оценки решений
-          href: chip-faq.md
+          href: chip-faq.yml
         - name: Проблема с доступом к CHIP
           href: chip-access-trouble.md
 - name: Выставление счетов и налоги
@@ -787,5 +776,5 @@
       href: partner-security-compliance.md
       displayName: csp
     - name: Часто задаваемые вопросы
-      href: partner-security-requirements-faq.md
+      href: partner-security-requirements-faq.yml
       displayName: 'sandbox, csp'

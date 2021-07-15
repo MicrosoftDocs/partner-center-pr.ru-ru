@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 06/30/2021
-ms.openlocfilehash: a6f249a83abb7dfb7a1e516864696e1bfcc6a853
-ms.sourcegitcommit: 1d09ccaaa54f167b0c63e99761172ebe84e89f2e
+ms.date: 07/09/2021
+ms.openlocfilehash: 664e8d1353a022e73a5d2f68d11dea4d7cfd438f
+ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "113221463"
+ms.lasthandoff: 07/11/2021
+ms.locfileid: "113599777"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,10 @@ ms.locfileid: "113221463"
 
 |**Категория**|**Объявления за июль 2021 года**|**Объявлено**|
 |---------|:---------|:---------|
+|Возможности|[Обеспечение актуальности сертификатов от Майкрософт с помощью Центра партнеров](2021-july.md#6)| 9 июля |
+|Возможности|[Выпуск пакета SDK для .NET Standard (версия 2.0.1)](2021-july.md#5)| 7 июля |
+|Возможности|[Объявление об обеспечении прозрачности для клиентских скидок](2021-july.md#4)| 7 июля |
+|Возможности|[Устранена проблема с ключом продукта для Расширенных обновлений безопасности (ESU) Windows 7, год 2 (2021)](2021-july.md#3)|2 июля |
 |Характеристики|[Просмотрите продукты и предложения, выпущенные в этом месяце](2021-july.md#2)|1 июля|
 |Характеристики|[Акция для Dynamics 365 Cloud Migration и завершение скидок для предложений](2021-july.md#1)|1 июля|
 |**Категория**|**Объявления за июнь 2021 года**|**Объявлено**|
