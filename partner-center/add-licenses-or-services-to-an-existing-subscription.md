@@ -9,22 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b6c5f1f6d86398ab65e60a498614bfc9f42976e
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 366114cd78e96f95cd1ac649573a0164f6d062a9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474229"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150528"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Добавление лицензий или дополнительных служб в подписку клиента
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор управления пользователями
-- Агент по администрированию
-- Агент по продажам
-- Агент службы технической поддержки
+**Соответствующие роли:** глобальный администратор | администратор управления пользователями | агент по администрированию | агент по продажам | агент службы технической поддержки
 
 Если клиенту требуются дополнительные лицензии или другая версия с дополнительными службами, вы можете обновить подписку. Дополнительную информацию см. в статье [Переход на другой план Приложений Microsoft 365 для бизнеса](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
 

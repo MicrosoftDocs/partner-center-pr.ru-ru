@@ -9,22 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 051d638024200fe58ca5e07f42b758b304b58219
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 7fe03aa2b1d30c1146b8a14b6659c82cdcc52d9d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964381"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149236"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Общие сведения о выставлении счетов для партнеров в рамках программы CSP, работающих в центре партнеров 
 
-**Соответствующие роли**
-
-- Агент по администрированию
-- Администратор выставления счетов
-- Глобальный администратор
-- Агент службы технической поддержки
-- Агент по продажам
+**Соответствующие роли**: агент по администрированию | администратор выставления счетов | глобальный администратор | агент службы технической поддержки | агент по продажам
 
 В этой статье приведены основные сведения о выставлении счетов и счетах для партнеров CSP в Центре партнеров, в том числе о процессе выставления счетов клиентам, а также о том, как найти и интерпретировать счет.
 

@@ -9,23 +9,18 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d40acba3e45cfa90cbf0c5ffb8cdb0d4f484421b
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: d7811decea89ecee8bc1db565fb9952a8d62e572
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686234"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147791"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Руководство по программе поставщиков облачных решений, соглашения, прейскуранты и предложения
 
-**Относится к**
+**Область применения**: Центр партнеров | Центр партнеров для Microsoft Cloud for US Government
 
-- Центр партнеров для Microsoft Cloud for US Government
-
-**Соответствующие роли**
-
-- Глобальный администратор
-- Агент по администрированию
+**Соответствующие роли:** глобальный администратор | агент по администрированию
 
 Просмотрите сведения в этой статье, чтобы понять требования для участия в программе поставщиков облачных решений (CSP) корпорации Майкрософт.
 

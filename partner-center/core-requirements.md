@@ -9,19 +9,16 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 47a670c97acce757270076cf0ae01067db544e2f
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: a980d35104f2fe7aad0117f3515a61ecf217a2b9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502958"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148301"
 ---
 # <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Основные требования к действиям в рамках программы поощрений
 
-**Соответствующие роли**
-
-- Администратор программы поощрения
-- Пользователь программы поощрения
+**Соответствующие роли**: администратор поощрений | пользователь поощрений
 
 К каждому виду деятельности, для которого вы отправляете заявку на возмещение средств в рамках программ поощрений, применяются основные требования. Вам следует привести в подтверждающих выполнение условий документах сведения, которые свидетельствуют о том, что вы соблюдаете такие требования. Кроме того, для некоторых видов деятельности требуются особые типы взаимодействия и метрики.
 

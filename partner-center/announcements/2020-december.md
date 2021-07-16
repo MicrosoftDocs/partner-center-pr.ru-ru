@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: 9d34a8e7674d178dc3217e36cee25b2d9ad6c36a
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.date: 06/18/2021
+ms.openlocfilehash: 101d67e42970e0aab4b2ea8bf0bc230cf57109d1
+ms.sourcegitcommit: b7203f1393c3d8f8db4683acdebd09a89e086c3c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740358"
+ms.lasthandoff: 06/21/2021
+ms.locfileid: "112424998"
 ---
 # <a name="december-2020-announcements"></a>Объявления за декабрь 2020 г.
 
@@ -113,7 +113,7 @@ ______________
 
 ### <a name="next-steps"></a>Дальнейшие действия
 
-В целом все файлы по ценам будут доступны как обычно (с 31 декабря 2020 г. приблизительно в 18:00 PST):
+В целом все файлы по ценам будут доступны как обычно (с 31 декабря 2020 г. приблизительно в 18:00 по тихоокеанскому времени):
 
 - файлы прейскурантов на основе лицензий и таблица со списком предложений;
 - файлы с ценами на основе использования, но только с обновлениями до 21 декабря 2020 г.;
@@ -397,8 +397,7 @@ ______________
 
 ### <a name="next-steps"></a>Next Steps
 
-- Акционное предложение будет доступно в официальном прейскуранте на основе лицензий в Центре партнеров по программе CSP и в таблице со списком предложений с 1 января 2021 г. 
-- Вопросы об этой промоакции можно публиковать в [объявлении для сообщества Майкрософт](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540).
+- Акционное предложение будет доступно в официальном прейскуранте на основе лицензий в Центре партнеров по программе CSP и в таблице со списком предложений с 1 января 2021 г.
 
 ______________
 

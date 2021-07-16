@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 624b66c7912af1f0109b6aadeffb67c5d4e9ea4b
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 779e76d6bb3e8df679a5ca6fa8ce441e42529161
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502503"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147298"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Получение разрешений для управления службой или подпиской клиента
 
-**Соответствующие роли**
-
-- Агент по администрированию
-- Агент по продажам
+**Соответствующие роли**: агент по администрированию | агент по продажам
 
 Чтобы управлять службой или подпиской от имени клиента, клиент должен предоставить вам права администратора для этой службы. Чтобы получить разрешения администратора от клиента, отправьте ему по электронной почте запрос на связь с торговым посредником. После того, как клиент утвердит запрос, вы сможете войти в систему на портале администрирования служб и управлять службой от имени клиента. 
 

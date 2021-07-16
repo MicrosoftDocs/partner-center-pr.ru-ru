@@ -9,19 +9,16 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e9ff61b34a9154cf305efbb42147e99b9579a17f
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: a429706848a469aace2704d4eaf3d57898ae578f
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686285"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915632"
 ---
 # <a name="security-requirements-status-report"></a>Отчет о соблюдении требований к безопасности
 
-**Соответствующие роли**
-
-- Администратор CPV
-- Глобальный администратор
+**Соответствующие роли**: администратор CPV | глобальный администратор
 
 В этой статье рассказывается об отчете о соблюдении требований к безопасности в Центре партнеров. Этот отчет предоставляет метрики соответствия с [требованиями к безопасности для партнеров](partner-security-requirements.md) по прохождению многофакторной проверки подлинности (MFA) пользователями в вашем арендаторе партнера.
 
@@ -115,4 +112,4 @@ ms.locfileid: "109686285"
 
 - [Сообщество группы рекомендаций по безопасности для Центра партнеров](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)
 - [Требования к безопасности для партнеров](partner-security-requirements.md)
-- [Часто задаваемые вопросы о требованиях к безопасности для партнеров](partner-security-requirements-faq.md)
+- [Часто задаваемые вопросы о требованиях к безопасности для партнеров](partner-security-requirements-faq.yml)

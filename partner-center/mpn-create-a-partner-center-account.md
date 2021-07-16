@@ -9,18 +9,16 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8177222d2c39732ac36543e523f268313fb8c4e
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 7ee6f0cb6019dc68e4303a95bfa4f89727338b64
+ms.sourcegitcommit: a84c83bbd95156344b3d9b2778973f47a9f83141
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109795063"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "113353743"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Создание учетной записи MPN в Центре партнеров для управления преимуществами и компетенциями партнерской сети
 
-**Соответствующие роли**
-
-- Администратор партнера MPN
+**Соответствующие роли:** администратор партнера MPN
 
 Если вы ранее не работали с Microsoft Partner Network (MPN) и у вас нет идентификатора MPN, вы можете начать регистрацию, следуя [этим инструкциям](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
 
@@ -38,8 +36,8 @@ ms.locfileid: "109795063"
 
 - Дополнительные сведения см. в статье о [проверке учетной записи](verification-responses.md).
 
->[!NOTE]
->Если ваше членство в Microsoft Partner Network все еще связано с Partner Membership Center (PMC), вам необходимо немедленно перенести свою учетную запись в Центр партнеров. Скачайте [пошаговое руководство, чтобы выполнить миграцию](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx).
+> [!NOTE]
+> Если у вас была учетная запись в Partner Membership Center (PMC), она перенесена в Центр партнеров. Щелкните для получения дополнительных сведений о [прекращении использования Partner Membership Center](partner-membership-center-retirement-faq.md).
 
 ## <a name="get-started"></a>Начало работы
 

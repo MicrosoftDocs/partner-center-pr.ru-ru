@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: bd081c190b3bccb151c2c0cd5e470ad869eb78dd
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.date: 07/02/2021
+ms.openlocfilehash: d0cf7815a38f5f98349cc67aecd2567cef906d43
+ms.sourcegitcommit: b0d1413ffa2099ddf11d013d41378afa50953f32
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740307"
+ms.lasthandoff: 07/05/2021
+ms.locfileid: "113297692"
 ---
 # <a name="january-2021-announcements"></a>Объявления за январь 2021 года
 
@@ -541,9 +541,7 @@ _____________
 
 ### <a name="details"></a>Сведения 
 
-Корпорация Майкрософт вносит изменения в прейскурант с ценами в индийских рупиях, чтобы выровнять цены на коммерческое программное обеспечение и веб-службы в Индии и азиатском регионе.
-
-Полное объявление доступно только для партнеров Майкрософт. [Выполните вход, чтобы получить доступ к полному объявлению.](https://partner.microsoft.com/resources/detail/price-update-indian-rupee.pdf)
+Корпорация Майкрософт вносит изменения в прейскурант с ценами в индийских рупиях, чтобы выровнять цены на коммерческое программное обеспечение и веб-службы в Индии и азиатском регионе. Мы будем публиковать дополнительные сведения по мере их появления. Тем временем вы можете обращаться за справкой в [поддержку Центра партнеров](https://partner.microsoft.com/support/?stage=1).
 
 ________________
 

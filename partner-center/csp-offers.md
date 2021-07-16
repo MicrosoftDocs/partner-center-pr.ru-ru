@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5617bbec82bd8e4b6fbeb2e6a33608889f14502
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 57cddcaf13431b0e61ef1573a4dd54b229c7e097
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964346"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147638"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Обзор предложений для партнеров в рамках программы "Поставщик облачных решений"
 
-**Соответствующие роли**
-
-- Агент по администрированию
-- Глобальный администратор
-- Агент по продажам
+**Соответствующие роли**: агент по администрированию | глобальный администратор | агент по продажам
 
 Для партнеров корпорации Майкрософт по программе поставщиков облачных решений (CSP) доступен постоянно расширяющийся каталог предложений. Вы можете продавать полный спектр [облачных служб Майкрософт](https://partner.microsoft.com/cloud-solution-provider/products-and-services), а также множество других предложений, перечень которых регулярно меняется. Чтобы просмотреть предложения CSP за текущий месяц, войдите в Центр партнеров, а затем перейдите на страницу [**Цены и предложения**](https://partnercenter.microsoft.com/pcv/sales).  
 

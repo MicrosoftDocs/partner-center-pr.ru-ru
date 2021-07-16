@@ -9,22 +9,17 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b75bffcab2c51ac81e3c2f623ad74a9314339b9
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: dc7be1fdf92249c31e8b2c6aa6611015e8b9b42f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132304"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152313"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Приобретение или продление подписки Microsoft Action Pack и компетенций уровня Silver и Gold
 
 
-**Соответствующие роли**
-
-- Глобальный администратор
-- Администратор управления пользователями
-- Администратор партнера MPN
-- Агент по администрированию
+**Соответствующие роли:** глобальный администратор | администратор управления пользователями | администратор партнера MPN | агент по администрированию
 
 
 На [панели мониторинга](https://partner.microsoft.com/dashboard) Центра партнеров участники Microsoft Partner Network (MPN) могут приобрести или продлить предложения, включая подписку Microsoft Action Pack, а также компетенции уровня Silver и Gold.
