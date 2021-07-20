@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/09/2021
-ms.openlocfilehash: d44ea9cd6c39954a1299344634d22fd1d31ec773
-ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+ms.openlocfilehash: 12684ee4949102ebbae5ce3e98ea38decfd34bb7
+ms.sourcegitcommit: b347181a7dd577395b47ef2c0fc680e9cfb3711f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "113684276"
+ms.lasthandoff: 07/17/2021
+ms.locfileid: "114394287"
 ---
 # <a name="partner-center-announcements"></a>Объявления Центра партнеров
 
@@ -22,6 +22,7 @@ ms.locfileid: "113684276"
 
 |**Категория**|**Объявления за июль 2021 года**|**Объявлено**|
 |---------|:---------|:---------|
+|Предложения и рынки|[Исправления в предварительной версии прайс-листа на услуги за август на основе лицензий для Enterprise Mobility & Security (EMS) E3](2021-july.md#10)| 16 июля |
 |Возможности|[Изменение программного обеспечения в рамках программ "Поставщик облачных решений" (CSP) и Open License в Microsoft China Corporation Limited (MCCL)](2021-july.md#9)| 13 июля |
 |Готовность|[Изменения в API проверки адресов клиентов в рамках программы "Поставщик облачных решений" (CSP) вступают в силу 13 июля 2021 г.](2021-july.md#8)| 12 июля |
 |Возможности|[Новости сообщества и напоминания, касающиеся программы "Поставщик облачных решений" (CSP), за июль](2021-july.md#7)| 12 июля |
