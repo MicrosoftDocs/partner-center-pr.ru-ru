@@ -127,7 +127,7 @@
   href: microsoft-partner-agreement.md
   items:
     - name: Как косвенные поставщики могут помочь своим торговым посредникам принять MPA
-      href: mpa-indirect-provider-faq.md
+      href: mpa-indirect-provider-faq.yml
       displayName: 'csp, mpa, indirect, provider'
     - name: 'Соглашения, прайс-листы и предложения в рамках CSP'
       href: csp-documents-and-learning-resources.md
@@ -647,48 +647,90 @@
           href: partner-center-insights.md
           displayName: data
         - name: Доступ к аналитике на основе ролей
-          href: pci-roles.md
+          href: insights-roles.md
         - name: Аналитический отчет
           items:
             - name: Обзор
-              href: pci-overview-report.md
+              href: insights-overview-report.md
             - name: Customer
-              href: pci-customer-report.md
+              href: insights-customer-report.md
             - name: Показатели работы торговых посредников
-              href: pci-resellers-performance.md
+              href: insights-resellers-performance.md
               displayName: 'indirect, reseller'
             - name: Подписки для продукта
-              href: pci-product-subscriptions-report.md
+              href: insights-product-subscriptions-report.md
             - name: Использование Azure
-              href: pci-azure-usage-report.md
+              href: insights-azure-usage-report.md
             - name: Использование Teams
-              href: pci-teams-usage-report.md
+              href: insights-teams-usage-report.md
             - name: "Использование Office\_365"
-              href: pci-office-365-usage-report.md
+              href: insights-office-365-usage-report.md
             - name: Использование Dynamics
-              href: pci-dynamics-usage-report.md
+              href: insights-dynamics-usage-report.md
             - name: Использование Enterprise Mobility + Security
-              href: pci-enterprise-mobility-security-usage-report.md
+              href: insights-enterprise-mobility-security-usage-report.md
             - name: "Использование Power\_BI"
-              href: pci-power-bi-usage-report.md
+              href: insights-power-bi-usage-report.md
             - name: Обучение
-              href: pci-training-dashboard.md
+              href: insights-training-dashboard.md
             - name: Аналитика Microsoft Learn
               href: ms-learn-analytics.md
             - name: Компетенции
-              href: pci-competencies-report.md
+              href: insights-competencies-report.md
             - name: Преимущества
-              href: pci-benefits-report.md
+              href: insights-benefits-report.md
             - name: Отчет о заинтересованности от CloudAscent
-              href: pci-customer-opportunities.md
+              href: insights-customer-opportunities.md
             - name: Лицензии на продукты
-              href: pci-product-licenses-report.md
+              href: insights-product-licenses-report.md
         - name: Вопросы и ответы об аналитике
-          href: pci-known-issues.md
+          href: insights-known-issues.md
         - name: Скачать отчеты аналитики
-          href: pci-download-reports.md
+          href: insights-download-reports.md
+        - name: Программный доступ к данным аналитики
+          items:
+            - name: Начало работы
+              href: insights-programmatic-get-started.md
+            - name: Необходимые условия для программного доступа
+              href: insights-programmatic-prerequisites.md
+            - name: Парадигма программного доступа
+              href: insights-programmatic-access-paradigm.md
+            - name: Выполнение первого программного вызова API
+              href: insights-programmatic-first-api-call.md
+            - name: Список системных запросов
+              href: insights-programmatic-system-queries.md
+            - name: Примеры запросов
+              href: insights-programmatic-sample-queries.md
+            - name: Спецификация пользовательского запроса
+              href: insights-programmatic-custom-query.md
+            - name: Пример приложения
+              href: insights-programmatic-sample-application.md
+            - name: Часто задаваемые вопросы
+              href: insights-programmatic-faq.md
+            - name: Справочники по API
+              items:
+                - name: Доступные API
+                  href: insights-programmatic-analytics-available-api.md
+                - name: Получение всех наборов данных
+                  href: insights-programmatic-analytics-api-get-dataset.md
+                - name: Получение запросов отчетов
+                  href: insights-programmatic-analytics-api-get-report-queries.md
+                - name: Удаление запросов отчетов
+                  href: insights-programmatic-analytics-api-delete-report-queries.md
+                - name: Пробное выполнение запросов отчетов
+                  href: insights-programmatic-analytics-api-try-report-queries.md
+                - name: Получить отчет
+                  href: insights-programmatic-analytics-api-get-report.md
+                - name: Обновление отчета
+                  href: insights-programmatic-analytics-api-update-report.md
+                - name: Удалить отчет
+                  href: insights-programmatic-analytics-api-delete-report.md
+                - name: Приостановка выполнения отчетов
+                  href: insights-programmatic-analytics-api-pause-report-executions.md
+                - name: Возобновление выполнения отчетов
+                  href: insights-programmatic-analytics-api-resume-report-executions.md
         - name: Определение аналитических данных
-          href: pci-data-definitions.md
+          href: insights-data-definitions.md
     - name: Показатели вклада партнера
       items:
         - name: Для компетенции "Облачные бизнес-приложения"
